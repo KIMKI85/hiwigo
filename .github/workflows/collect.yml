@@ -1,0 +1,33 @@
+name: RSS 수집
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 30분마다 실행 (UTC 기준)
+  workflow_dispatch:          # Actions 탭에서 수동 실행 버튼도 제공
+
+permissions:
+  contents: write             # 수집 결과를 저장소에 커밋하기 위해 필요
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install feedparser
+
+      - name: RSS 수집 실행
+        run: python scripts/fetch_rss.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "hiwigo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: RSS 자동 수집 $(date -u +'%Y-%m-%d %H:%M')"
+          git push
