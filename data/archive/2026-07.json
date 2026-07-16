@@ -1,5 +1,17 @@
 [
  {
+  "id": "309cad897d89",
+  "title": "Aston Villa and Milan talks in advanced stages over Estupinan deal",
+  "title_ko": "Aston Villa와 Milan은 Estupinan 계약을 통해 진전된 단계에서 대화를 나누고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/aston-villa-and-milan-talks-advanced-estupinan/",
+  "fee": null,
+  "published": "2026-07-16T15:27:08+00:00"
+ },
+ {
   "id": "998ad2335081",
   "title": "Arsenal on verge of signing Club Brugge's Tzolis",
   "title_ko": "아스날, 클럽 브뤼헤의 촐리스 영입 임박",
@@ -108,6 +120,18 @@
   "published": "2026-07-16T13:40:33+00:00"
  },
  {
+  "id": "35388c5f3730",
+  "title": "DIRECT. Mercato: Arsenal boucle un ailier grec pour 40 millions d'euros",
+  "title_ko": "직접. 메르카토: 아스날은 그리스 윙어를 4천만 유로에 봉인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-16-juillet-2026_LN-202607160332.html",
+  "fee": null,
+  "published": "2026-07-16T13:39:37+00:00"
+ },
+ {
   "id": "c323961513e8",
   "title": "Liverpool identify £130m-rated Brazilian sensation as key attacking target",
   "title_ko": "리버풀은 £130m 평가의 브라질 센세이션을 핵심 공격 목표로 확인했습니다.",
@@ -190,6 +214,18 @@
   "url": "https://www.caughtoffside.com/2026/07/16/liverpool-reach-agreement-over-blockbuster-deal-with-25-g-a-star/",
   "fee": null,
   "published": "2026-07-16T11:30:43+00:00"
+ },
+ {
+  "id": "bce3d58fe064",
+  "title": "Zinédine Zidane, Aubameyang, Icardi… Les 5 infos mercato du 16 juillet à 13h",
+  "title_ko": "지네딘 지단, 오바메양, 이카르디… 7월 16일 오후 1시 5차 이적시장 안내.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-zinedine-zidane-aubameyang-icardi-les-5-infos-mercato-du-16-juillet-a-13h_VN-202607160413.html",
+  "fee": null,
+  "published": "2026-07-16T11:00:49+00:00"
  },
  {
   "id": "e1fe0b16f5a6",
