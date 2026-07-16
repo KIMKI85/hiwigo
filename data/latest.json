@@ -1,5 +1,113 @@
 [
  {
+  "id": "9f6f94177b1d",
+  "title": "Summer Transfer window LIVE: Done deals tracker for Serie A clubs and Italy players",
+  "title_ko": "여름 이적 기간 LIVE: 세리에 A 클럽 및 이탈리아 선수들을 위한 거래 완료 추적기",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/summer-transfer-window-live-serie-a-done-deals-tracker/",
+  "fee": null,
+  "published": "2026-07-16T17:15:35+00:00"
+ },
+ {
+  "id": "43dea494cd22",
+  "title": "Marinakis, seafood and ‘sweet honey’ of Europe led Glasner to join Nottingham Forest",
+  "title_ko": "마리나키스, 해산물, 그리고 유럽의 '달콤한 꿀'이 글라스너를 노팅엄 포레스트에 합류하게 만들었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/16/oliver-glasner-says-marinakis-ambition-convinced-him-to-take-nottingham-forest-job",
+  "fee": null,
+  "published": "2026-07-16T17:03:33+00:00"
+ },
+ {
+  "id": "298072165f56",
+  "title": "Manchester United make fresh contact to sign 28-year-old Premier League powerhouse",
+  "title_ko": "맨체스터 유나이티드가 28세의 프리미어 리그 강팀과 계약하기 위해 새로운 접촉을 했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/manchester-united-make-fresh-contact-to-sign-28-year-old-premier-league-powerhouse/",
+  "fee": null,
+  "published": "2026-07-16T17:00:42+00:00"
+ },
+ {
+  "id": "dcc169c11470",
+  "title": "Udinese striker Davis urges Zaniolo return amid contract stand-off",
+  "title_ko": "우디네세의 스트라이커 데이비스는 계약 대립 속에서 자니올로의 복귀를 촉구했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/udinese-striker-davis-urges-zaniolo-return/",
+  "fee": null,
+  "published": "2026-07-16T16:36:33+00:00"
+ },
+ {
+  "id": "cb0550f4b2ce",
+  "title": "Arsenal on the verge of completing exciting €40m transfer, journalist confirms",
+  "title_ko": "아스날은 흥미진진한 €40m 이적을 앞두고 있다고 기자가 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/arsenal-on-the-verge-of-completing-exciting-e40m-transfer-journalist-confirms/",
+  "fee": "€40M",
+  "published": "2026-07-16T16:30:36+00:00"
+ },
+ {
+  "id": "433bba92a0a0",
+  "title": "Mercato: \"Il y a de fortes chances pour qu'il reste\", Létang veut garder Bouaddi à Lille",
+  "title_ko": "메르카토: \"그가 남을 가능성이 크다\", 레탕은 부아디를 릴에 머물고 싶어한다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-y-a-de-fortes-chances-pour-qu-il-reste-letang-veut-garder-bouaddi-a-lille_AV-202607160608.html",
+  "fee": null,
+  "published": "2026-07-16T16:25:13+00:00"
+ },
+ {
+  "id": "6fb1a9a2dad9",
+  "title": "Mercato: \"Je ne pouvais pas dire non\", Rosenior enthousiaste à l'idée d'entraîner le Paris FC",
+  "title_ko": "메르카토: “아니오라고 말할 수 없었다”, 파리FC 감독 아이디어에 열광한 로제니어",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/mercato-je-ne-pouvais-pas-dire-non-rosenior-enthousiaste-a-l-idee-d-entrainer-le-paris-fc_AD-202607160589.html",
+  "fee": null,
+  "published": "2026-07-16T16:12:51+00:00"
+ },
+ {
+  "id": "50445562c35c",
+  "title": "Official: Jimenez signs for Fiorentina on loan with option to buy from Bournemouth",
+  "title_ko": "공식: 히메네즈는 본머스로부터 구매 옵션과 함께 피오렌티나 임대 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-jimenez-signs-for-fiorentina/",
+  "fee": null,
+  "published": "2026-07-16T15:42:00+00:00"
+ },
+ {
+  "id": "7eb034aaabaf",
+  "title": "Bournemouth's Jimenez joins Fiorentina on loan",
+  "title_ko": "본머스의 히메네즈가 피오렌티나로 임대 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c07rexv3y8go?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-16T15:39:52+00:00"
+ },
+ {
   "id": "309cad897d89",
   "title": "Aston Villa and Milan talks in advanced stages over Estupinan deal",
   "title_ko": "Aston Villa와 Milan은 Estupinan 계약을 통해 진전된 단계에서 대화를 나누고 있습니다.",
@@ -10,6 +118,18 @@
   "url": "https://football-italia.net/aston-villa-and-milan-talks-advanced-estupinan/",
   "fee": null,
   "published": "2026-07-16T15:27:08+00:00"
+ },
+ {
+  "id": "5b652105ac03",
+  "title": "Man Utd's new wonderkid breaks silence on transfer as fans beg for announcement",
+  "title_ko": "맨유의 새로운 원더키드는 팬들이 발표를 간청하면서 이적에 대한 침묵을 깨뜨렸다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-orozco-37440355",
+  "fee": null,
+  "published": "2026-07-16T15:22:55+00:00"
  },
  {
   "id": "998ad2335081",
@@ -34,6 +154,18 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-jeremy-jacquet-shirt-number-37440514",
   "fee": null,
   "published": "2026-07-16T15:04:33+00:00"
+ },
+ {
+  "id": "4336ad1357e0",
+  "title": "Liverpool explore surprise move for 26-year-old Everton star this summer",
+  "title_ko": "리버풀은 올 여름 26세 에버튼 스타의 깜짝 이적을 모색하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/liverpool-explore-surprise-move-for-26-year-old-everton-star-this-summer/",
+  "fee": null,
+  "published": "2026-07-16T15:00:58+00:00"
  },
  {
   "id": "ba55ee9fdaf4",
