@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>히위고 HWG — 5대 리그 이적시장 트래커</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0E1219;          /* 야간 경기장 */
+    --panel:#171D28;
+    --panel-2:#1E2634;
+    --line:#2A3446;
+    --ink:#F2F5FA;
+    --ink-dim:#8B96A8;
+    --yellow:#FFD400;      /* 데드라인 데이 옐로 */
+    --green:#2ECC71;       /* 오피셜 */
+    --orange:#FF8A3D;      /* 협상중 */
+    --red:#FF4D5E;
+    --epl:#8556E5; --laliga:#FF5A36; --seriea:#2E86FF; --bund:#E1252B; --ligue1:#F5C518;
+    font-size:15px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Noto Sans KR',sans-serif;line-height:1.5}
+  .disp{font-family:'Barlow Condensed','Noto Sans KR',sans-serif;letter-spacing:.02em}
+
+  /* ── 티커 ── */
+  .ticker{background:var(--yellow);color:#111;overflow:hidden;white-space:nowrap;font-weight:700;font-size:.85rem}
+  .ticker-inner{display:inline-block;padding:6px 0;animation:tick 40s linear infinite}
+  @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .ticker b{margin:0 14px}
+  .ticker .dot{opacity:.4}
+  @media (prefers-reduced-motion: reduce){.ticker-inner{animation:none}}
+
+  /* ── 헤더 ── */
+  header{padding:26px 22px 18px;border-bottom:1px solid var(--line);display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  .logo{font-family:'Barlow Condensed';font-weight:800;font-size:2.2rem;line-height:1;letter-spacing:.03em}
+  .logo em{font-style:normal;color:var(--yellow)}
+  .logo small{display:block;font-family:'Noto Sans KR';font-weight:500;font-size:.78rem;color:var(--ink-dim);letter-spacing:.14em;margin-top:5px}
+  .window-count{text-align:right}
+  .window-count .num{font-family:'Barlow Condensed';font-weight:800;font-size:2rem;color:var(--yellow)}
+  .window-count .lbl{font-size:.72rem;color:var(--ink-dim)}
+  .demo-badge{background:var(--panel-2);border:1px dashed var(--ink-dim);color:var(--ink-dim);font-size:.7rem;padding:3px 8px;border-radius:4px}
+
+  /* ── 필터 ── */
+  .filters{padding:14px 22px;display:flex;gap:18px;flex-wrap:wrap;align-items:center;border-bottom:1px solid var(--line)}
+  .fgroup{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{background:var(--panel);border:1px solid var(--line);color:var(--ink-dim);padding:6px 13px;border-radius:99px;font-size:.82rem;font-weight:500;cursor:pointer;transition:.15s}
+  .chip:hover{color:var(--ink)}
+  .chip:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+  .chip.on{background:var(--yellow);border-color:var(--yellow);color:#111;font-weight:700}
+  .chip .lg-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px}
+  .fsep{width:1px;height:22px;background:var(--line)}
+
+  /* ── 레이아웃 ── */
+  .wrap{display:grid;grid-template-columns:1fr 300px;gap:22px;padding:22px;max-width:1200px;margin:0 auto}
+  @media(max-width:900px){.wrap{grid-template-columns:1fr}}
+
+  /* ── 루머 카드 ── */
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-bottom:12px;display:grid;grid-template-columns:1fr auto;gap:8px 14px;transition:border-color .15s,transform .15s;text-decoration:none;color:inherit;cursor:pointer}
+  .card:hover{border-color:var(--yellow);transform:translateY(-1px)}
+  .card:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+  .card .goto{color:var(--yellow);font-weight:700;margin-left:10px;opacity:0;transition:opacity .15s}
+  .card:hover .goto,.card:focus-visible .goto{opacity:1}
+  .card .route{font-size:.78rem;color:var(--ink-dim);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .route .lg{font-weight:700;font-size:.7rem;padding:1px 7px;border-radius:4px;color:#fff}
+  .route .arrow{color:var(--yellow);font-weight:700}
+  .card h3{font-size:1.05rem;font-weight:700;margin:2px 0}
+  .card h3 .fee{font-family:'Barlow Condensed';font-weight:800;color:var(--yellow);font-size:1.1rem;margin-left:8px}
+  .card .meta{font-size:.75rem;color:var(--ink-dim)}
+  .card .meta a{color:var(--ink-dim)}
+  .status{align-self:start;justify-self:end;text-align:right}
+  .badge{display:inline-block;font-size:.7rem;font-weight:700;padding:3px 9px;border-radius:4px}
+  .b-official{background:var(--green);color:#08240f}
+  .b-herewego{background:var(--yellow);color:#231d00}
+  .b-nego{background:var(--orange);color:#2b1400}
+  .b-rumor{background:var(--panel-2);color:var(--ink-dim);border:1px solid var(--line)}
+  /* 신뢰도 시그널 바 */
+  .signal{display:flex;gap:2px;justify-content:flex-end;margin-top:7px}
+  .signal i{width:5px;height:11px;background:var(--line);border-radius:1px}
+  .signal[data-lv="1"] i:nth-child(-n+1),
+  .signal[data-lv="2"] i:nth-child(-n+2),
+  .signal[data-lv="3"] i:nth-child(-n+3),
+  .signal[data-lv="4"] i:nth-child(-n+4),
+  .signal[data-lv="5"] i:nth-child(-n+5){background:var(--yellow)}
+  .signal-lbl{font-size:.65rem;color:var(--ink-dim);margin-top:3px}
+
+  /* ── 사이드바 ── */
+  aside .box{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:16px}
+  aside h4{font-size:.8rem;letter-spacing:.1em;color:var(--ink-dim);margin-bottom:12px;font-weight:700}
+  .spend-row{display:flex;justify-content:space-between;align-items:center;font-size:.85rem;padding:7px 0;border-bottom:1px solid var(--line)}
+  .spend-row:last-child{border:none}
+  .spend-row .amt{font-family:'Barlow Condensed';font-weight:800;font-size:1.05rem}
+  .bar-track{height:4px;background:var(--panel-2);border-radius:2px;margin-top:4px;overflow:hidden}
+  .bar-fill{height:100%;border-radius:2px}
+
+  /* 광고 자리 */
+  .ad-slot{border:1px dashed var(--ink-dim);border-radius:10px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--ink-dim);font-size:.75rem;gap:4px;background:repeating-linear-gradient(45deg,transparent,transparent 8px,rgba(255,255,255,.02) 8px,rgba(255,255,255,.02) 16px)}
+  .ad-slot b{font-size:.7rem;letter-spacing:.15em}
+  .ad-300{height:250px;margin-bottom:16px}
+  .ad-banner{height:90px;margin:4px 0 16px}
+
+  .empty{text-align:center;color:var(--ink-dim);padding:50px 0;font-size:.9rem}
+  footer{text-align:center;color:var(--ink-dim);font-size:.72rem;padding:26px;border-top:1px solid var(--line);margin-top:10px}
+</style>
+</head>
+<body>
+
+<!-- 라이브 티커 -->
+<div class="ticker" role="marquee" aria-label="최신 이적 속보">
+  <div class="ticker-inner" id="ticker"></div>
+</div>
+
+<header>
+  <div>
+    <div class="logo disp">히위고 <em>HWG</em>
+      <small>HERE WE GO — 5대 리그 이적시장 실시간 트래커</small>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:16px">
+    <span class="demo-badge">⚠ 프로토타입 · 샘플 데이터</span>
+    <div class="window-count">
+      <div class="num disp" id="ddayNum">D-46</div>
+      <div class="lbl">여름 이적시장 마감까지</div>
+    </div>
+  </div>
+</header>
+
+<!-- 필터 -->
+<div class="filters">
+  <div class="fgroup" id="leagueFilter" role="group" aria-label="리그 필터">
+    <button class="chip on" data-league="all">전체</button>
+    <button class="chip" data-league="EPL"><span class="lg-dot" style="background:var(--epl)"></span>프리미어리그</button>
+    <button class="chip" data-league="LALIGA"><span class="lg-dot" style="background:var(--laliga)"></span>라리가</button>
+    <button class="chip" data-league="SERIEA"><span class="lg-dot" style="background:var(--seriea)"></span>세리에 A</button>
+    <button class="chip" data-league="BUND"><span class="lg-dot" style="background:var(--bund)"></span>분데스리가</button>
+    <button class="chip" data-league="LIGUE1"><span class="lg-dot" style="background:var(--ligue1)"></span>리그 1</button>
+  </div>
+  <div class="fsep"></div>
+  <div class="fgroup" id="statusFilter" role="group" aria-label="상태 필터">
+    <button class="chip on" data-status="all">모든 단계</button>
+    <button class="chip" data-status="official">오피셜</button>
+    <button class="chip" data-status="herewego">Here we go</button>
+    <button class="chip" data-status="nego">협상중</button>
+    <button class="chip" data-status="rumor">루머</button>
+  </div>
+</div>
+
+<div class="wrap">
+  <main>
+    <!-- 상단 배너 광고 자리 -->
+    <div class="ad-slot ad-banner"><b>AD · 728×90</b>구글 애드센스 — 리더보드 배너</div>
+    <div id="feed"></div>
+  </main>
+
+  <aside>
+    <div class="box">
+      <h4>리그별 이적료 지출 (샘플)</h4>
+      <div id="spendBoard"></div>
+    </div>
+    <!-- 사이드 광고 자리 -->
+    <div class="ad-slot ad-300"><b>AD · 300×250</b>구글 애드센스 — 사이드 렉탱글<span style="font-size:.68rem">스크롤 고정(sticky) 영역 추천</span></div>
+    <div class="box">
+      <h4>신뢰도 등급 안내</h4>
+      <div style="font-size:.78rem;color:var(--ink-dim);display:grid;gap:8px">
+        <div><span class="badge b-official">오피셜</span> 구단 공식 발표 완료</div>
+        <div><span class="badge b-herewego">HERE WE GO</span> 1티어 기자 확정 보도</div>
+        <div><span class="badge b-nego">협상중</span> 복수 매체 교차 확인</div>
+        <div><span class="badge b-rumor">루머</span> 단일 매체 · 미확인</div>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<footer>
+  본 페이지는 프로토타입이며 모든 이적 정보는 데모용 샘플 데이터입니다.<br>
+  실서비스 시 각 언론사 RSS·공식 발표를 출처 링크와 함께 큐레이션합니다.
+</footer>
+
+<script>
+/* ───────── 샘플 데이터 (실서비스: RSS/API 수집으로 대체) ───────── */
+/* ── 데이터 로딩 ──
+   GitHub Actions가 30분마다 갱신하는 data/latest.json(최신 100건)을 읽습니다.
+   전체 기록은 data/archive/YYYY-MM.json에 쌓이므로 메인 페이지는 항상 가볍습니다.
+   파일이 아직 없으면(로컬에서 열었을 때 등) 아래 샘플 데이터로 표시합니다. */
+const SAMPLE = [
+ {title:"[샘플] PSG, 바이에른 공격형 미드필더 영입 합의 — Here we go", league:"LIGUE1", fee:"€85M",  status:"herewego", lv:5, src:"Fabrizio Romano", url:"https://x.com/FabrizioRomano", published:new Date(Date.now()-12*60e3).toISOString()},
+ {title:"[샘플] 맨시티, 레알 마드리드 윙어와 개인 합의 근접",          league:"EPL",    fee:"€110M", status:"nego",     lv:3, src:"The Athletic",    url:"https://www.nytimes.com/athletic/football/transfer-news/", published:new Date(Date.now()-38*60e3).toISOString()},
+ {title:"[샘플] 레알 마드리드, 리버풀 풀백 자유이적 영입 공식 발표",     league:"LALIGA", fee:null,    status:"official", lv:5, src:"구단 공식 발표",   url:"https://www.realmadrid.com/en-US/news", published:new Date(Date.now()-60*60e3).toISOString()},
+ {title:"[샘플] 유벤투스, 아틀레티코 스트라이커에 €62M 제안",          league:"SERIEA", fee:"€62M",  status:"nego",     lv:3, src:"Gazzetta",        url:"https://www.gazzetta.it/Calcio/Calciomercato/", published:new Date(Date.now()-2*3600e3).toISOString()},
+ {title:"[샘플] 바이에른, 첼시 센터백 영입 관심 보도",                 league:"BUND",   fee:"€48M",  status:"rumor",    lv:2, src:"BILD",            url:"https://www.bild.de/sport/fussball/", published:new Date(Date.now()-3*3600e3).toISOString()},
+ {title:"[샘플] 아스날, 스포르팅 수비형 미드필더 메디컬 예약 — Here we go", league:"EPL", fee:"€70M", status:"herewego", lv:5, src:"Fabrizio Romano", url:"https://x.com/FabrizioRomano", published:new Date(Date.now()-4*3600e3).toISOString()},
+ {title:"[샘플] 인터 밀란, 아약스 골키퍼 영입 완료 발표",              league:"SERIEA", fee:"€25M",  status:"official", lv:5, src:"구단 공식 발표",   url:"https://www.inter.it/en/news", published:new Date(Date.now()-8*3600e3).toISOString()},
+ {title:"[샘플] 도르트문트, 잘츠부르크 공격수 이적 합의",              league:"BUND",   fee:"€35M",  status:"herewego", lv:4, src:"Sky DE",          url:"https://sport.sky.de/transfermarkt", published:new Date(Date.now()-10*3600e3).toISOString()},
+ {title:"[샘플] 리버풀, 레버쿠젠 미드필더 €95M 관심설",               league:"EPL",    fee:"€95M",  status:"rumor",    lv:2, src:"Mirror",          url:"https://www.mirror.co.uk/sport/football/transfer-news/", published:new Date(Date.now()-11*3600e3).toISOString()},
+ {title:"[샘플] 모나코, 릴 윙백 협상 진행 중",                        league:"LIGUE1", fee:"€22M",  status:"nego",     lv:3, src:"L'Équipe",        url:"https://www.lequipe.fr/Football/Transferts/", published:new Date(Date.now()-13*3600e3).toISOString()},
+];
+
+let rumors = [];
+
+function relTime(iso){
+  const diff = (Date.now() - new Date(iso)) / 60000; // 분
+  if(diff < 1) return "방금 전";
+  if(diff < 60) return `${Math.floor(diff)}분 전`;
+  if(diff < 1440) return `${Math.floor(diff/60)}시간 전`;
+  return `${Math.floor(diff/1440)}일 전`;
+}
+
+async function loadData(){
+  try{
+    const res = await fetch("data/latest.json", {cache:"no-store"});
+    if(!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    if(!Array.isArray(data) || !data.length) throw new Error("empty");
+    rumors = data;
+    document.querySelector(".demo-badge").textContent = "● LIVE · 30분마다 자동 갱신";
+    document.querySelector(".demo-badge").style.borderStyle = "solid";
+  }catch(e){
+    rumors = SAMPLE; // 수집 전이거나 로컬 파일로 열었을 때
+  }
+  render();
+  renderTicker();
+}
+
+const leagueMeta = {
+  EPL:{name:"EPL", color:"var(--epl)"}, LALIGA:{name:"라리가", color:"var(--laliga)"},
+  SERIEA:{name:"세리에", color:"var(--seriea)"}, BUND:{name:"분데스", color:"var(--bund)"},
+  LIGUE1:{name:"리그1", color:"var(--ligue1)"}
+};
+const statusMeta = {
+  official:{cls:"b-official", label:"오피셜"},
+  herewego:{cls:"b-herewego", label:"HERE WE GO"},
+  nego:{cls:"b-nego", label:"협상중"},
+  rumor:{cls:"b-rumor", label:"루머"}
+};
+
+let curLeague="all", curStatus="all";
+
+function render(){
+  const feed = document.getElementById("feed");
+  const list = rumors.filter(r =>
+    (curLeague==="all"||r.league===curLeague) &&
+    (curStatus==="all"||r.status===curStatus));
+  if(!list.length){feed.innerHTML=`<div class="empty">조건에 맞는 이적 소식이 없습니다.</div>`;return}
+  feed.innerHTML = list.map(r=>{
+    const lg=leagueMeta[r.league], st=statusMeta[r.status];
+    return `<a class="card" href="${r.url}" target="_blank" rel="noopener noreferrer" aria-label="기사 원문 보기 (새 창)">
+      <div>
+        <div class="route">
+          <span class="lg" style="background:${lg.color}">${lg.name}</span>
+        </div>
+        <h3>${esc(r.title)}${r.fee ? `<span class="fee disp">${esc(r.fee)}</span>` : ""}</h3>
+        <div class="meta">출처: ${esc(r.src)} · ${relTime(r.published)}<span class="goto">기사 보기 ↗</span></div>
+      </div>
+      <div class="status">
+        <span class="badge ${st.cls}">${st.label}</span>
+        <div class="signal" data-lv="${r.lv}"><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="signal-lbl">신뢰도 ${r.lv}/5</div>
+      </div>
+    </a>`;
+  }).join("");
+}
+
+/* 필터 이벤트 */
+function bindFilter(id, key){
+  document.getElementById(id).addEventListener("click", e=>{
+    const btn = e.target.closest(".chip"); if(!btn) return;
+    document.querySelectorAll(`#${id} .chip`).forEach(c=>c.classList.remove("on"));
+    btn.classList.add("on");
+    if(key==="league") curLeague = btn.dataset.league; else curStatus = btn.dataset.status;
+    render();
+  });
+}
+bindFilter("leagueFilter","league");
+bindFilter("statusFilter","status");
+
+/* 외부 데이터(기사 제목) 삽입용 이스케이프 */
+function esc(s){const d=document.createElement("div");d.textContent=s??"";return d.innerHTML}
+
+/* 티커 */
+function renderTicker(){
+  const items = rumors.slice(0,6).map(r=>`<b>${statusMeta[r.status].label}</b>${esc(r.title)}<span class="dot"> ● </span>`).join("");
+  document.getElementById("ticker").innerHTML = items + items; /* 무한 루프용 복제 */
+}
+
+/* 리그별 지출 보드 */
+const spend = [
+  {k:"EPL", amt:1240, max:1240}, {k:"LALIGA", amt:610}, {k:"SERIEA", amt:540},
+  {k:"BUND", amt:480}, {k:"LIGUE1", amt:430}
+];
+document.getElementById("spendBoard").innerHTML = spend.map(s=>`
+  <div class="spend-row">
+    <div style="flex:1">
+      <div><span class="lg-dot" style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${leagueMeta[s.k].color};margin-right:6px"></span>${leagueMeta[s.k].name}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${s.amt/12.4}%;background:${leagueMeta[s.k].color}"></div></div>
+    </div>
+    <span class="amt disp">€${s.amt}M</span>
+  </div>`).join("");
+
+/* 이적시장 마감 D-day (2026 여름: 9/1 가정) */
+const dday = Math.ceil((new Date("2026-09-01") - new Date())/(1000*60*60*24));
+document.getElementById("ddayNum").textContent = "D-"+dday;
+
+loadData();
+</script>
+</body>
+</html>
