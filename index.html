@@ -69,6 +69,7 @@
   .card h3{font-size:1.05rem;font-weight:700;margin:2px 0}
   .card h3 .fee{font-family:'Barlow Condensed';font-weight:800;color:var(--yellow);font-size:1.1rem;margin-left:8px}
   .card .meta{font-size:.75rem;color:var(--ink-dim)}
+  .card .orig{font-size:.72rem;color:var(--ink-dim);margin:-1px 0 3px;opacity:.75}
   .card .meta a{color:var(--ink-dim)}
   .status{align-self:start;justify-self:end;text-align:right}
   .badge{display:inline-block;font-size:.7rem;font-weight:700;padding:3px 9px;border-radius:4px}
@@ -250,7 +251,8 @@ function render(){
         <div class="route">
           <span class="lg" style="background:${lg.color}">${lg.name}</span>
         </div>
-        <h3>${esc(r.title)}${r.fee ? `<span class="fee disp">${esc(r.fee)}</span>` : ""}</h3>
+        <h3>${esc(r.title_ko || r.title)}${r.fee ? `<span class="fee disp">${esc(r.fee)}</span>` : ""}</h3>
+        ${r.title_ko ? `<div class="orig">${esc(r.title)}</div>` : ""}
         <div class="meta">출처: ${esc(r.src)} · ${relTime(r.published)}<span class="goto">기사 보기 ↗</span></div>
       </div>
       <div class="status">
@@ -280,7 +282,7 @@ function esc(s){const d=document.createElement("div");d.textContent=s??"";return
 
 /* 티커 */
 function renderTicker(){
-  const items = rumors.slice(0,6).map(r=>`<b>${statusMeta[r.status].label}</b>${esc(r.title)}<span class="dot"> ● </span>`).join("");
+  const items = rumors.slice(0,6).map(r=>`<b>${statusMeta[r.status].label}</b>${esc(r.title_ko||r.title)}<span class="dot"> ● </span>`).join("");
   document.getElementById("ticker").innerHTML = items + items; /* 무한 루프용 복제 */
 }
 
