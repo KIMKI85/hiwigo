@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-히위고 HWG — RSS 수집기 v2
-개선사항:
- 1. 제목 기준 중복 제거 추가 (같은 기사가 다른 URL로 재발행돼도 걸러냄)
- 2. 클럽 사전 대폭 보강 + 영입 주체(제목 앞쪽) 가중치 (Paris FC 등 오분류 수정)
- 3. 이적 키워드를 단어 단위(정규식)로 판정 ("swapped the referee" 같은 오탐 제거)
- 4. 제목 한글 번역 (구글 번역, 실패 시 원문 유지 — 수집은 절대 중단되지 않음)
+히위고 HWG — RSS 수집기 v3
+v3 추가사항:
+ 1. 소스 확장: 6개 → 13개 (독일·프랑스·이탈리아·스페인 현지 매체 + 영어권 루머 전문지)
+ 2. 다국어 이적 키워드 (Wechsel/transfert/colpo/fichaje 등)
+ 3. league_hint: 클럽명 매칭 실패 시 매체 기본 리그로 분류 (현지 매체 수집률 향상)
+ 4. skip_filter: 이적 전문 피드는 키워드 필터 면제 (전부 이적 기사이므로)
+※ 피드 URL은 매체 사정으로 바뀔 수 있음. Actions 로그의 [SKIP] 표시가 계속되는 피드는
+  해당 줄을 삭제하면 됨. 피드 하나가 죽어도 나머지 수집엔 영향 없음.
 """
 
 import json, re, hashlib
@@ -26,20 +28,36 @@ ARCHIVE = DATA / "archive"
 LATEST_FILE = DATA / "latest.json"
 LATEST_LIMIT = 100
 
+# league_hint: 클럽명 매칭 실패 시 적용할 기본 리그 (현지 매체용)
+# skip_filter: True면 이적 키워드 필터 생략 (이적 전문 피드)
 FEEDS = [
+    # ── 영어권 종합 (1티어) ──
     {"name": "BBC Sport Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "tier": 1},
     {"name": "Sky Sports Football", "url": "https://www.skysports.com/rss/12040", "tier": 1},
     {"name": "Guardian Football", "url": "https://www.theguardian.com/football/rss", "tier": 1},
-    {"name": "Marca (EN)", "url": "https://e00-marca.uecdn.es/rss/en/football.xml", "tier": 2},
-    {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2},
+    # ── 현지 매체 (각 리그 원천 소스) ──
+    {"name": "kicker (DE)", "url": "https://newsfeed.kicker.de/news/bundesliga", "tier": 1, "league_hint": "BUND"},
+    {"name": "L'Équipe Football (FR)", "url": "https://www.lequipe.fr/rss/actu_rss_Football.xml", "tier": 1, "league_hint": "LIGUE1"},
+    {"name": "Gazzetta Calcio (IT)", "url": "https://www.gazzetta.it/rss/calcio.xml", "tier": 1, "league_hint": "SERIEA"},
+    {"name": "Marca (EN)", "url": "https://e00-marca.uecdn.es/rss/en/football.xml", "tier": 2, "league_hint": "LALIGA"},
+    {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2, "league_hint": "SERIEA"},
+    # ── 영어권 루머·이적 전문 (3티어: 빠르지만 신뢰도 낮음) ──
     {"name": "Mirror Football", "url": "https://www.mirror.co.uk/sport/football/?service=rss", "tier": 3},
+    {"name": "TEAMtalk", "url": "https://www.teamtalk.com/feed", "tier": 3},
+    {"name": "Football365", "url": "https://www.football365.com/feed", "tier": 3},
+    {"name": "CaughtOffside", "url": "https://www.caughtoffside.com/feed", "tier": 3},
+    {"name": "Fichajes (ES)", "url": "https://www.fichajes.net/rss", "tier": 3, "league_hint": "LALIGA", "skip_filter": True},
 ]
 
 # ── 이적 키워드: 단어 단위 정규식 (오탐 방지) ─────────────────
 TRANSFER_RE = re.compile(
     r"\b(transfers?|signs?|signing|signed|deal|deals|loan|loans|bid|bids|fee|fees|"
     r"medical|joins?|joined|move|moves|swap|agreement|agreed|contract|unveils?|"
-    r"release clause|here we go|done deal|target|targets)\b",
+    r"release clause|here we go|done deal|targets?|"
+    r"wechsel|wechselt|verpflichtet|transfergerücht|ablöse|leihe|"      # 독일어
+    r"transfert|signe|prêt|recrue|mercato|"                             # 프랑스어
+    r"acquisto|cessione|trattativa|colpo|"                              # 이탈리아어
+    r"fichajes?|ficha|traspaso|cesión|acuerdo)\b",                     # 스페인어
     re.I,
 )
 
@@ -85,7 +103,7 @@ STATUS_RULES = [
                   "agree personal terms", "push for", "in contact"]),
 ]
 
-FEE_RE = re.compile(r"[€£$]\s?(\d+(?:\.\d+)?)\s?(m|million|bn)", re.I)
+FEE_RE = re.compile(r"[€£$]\s?(\d+(?:\.\d+)?)\s?(m|mln|million|millionen|millones|bn)", re.I)
 
 
 def norm_title(title: str) -> str:
@@ -143,9 +161,9 @@ def entry_to_item(entry, feed_cfg):
     link = (entry.get("link") or "").strip()
     if not title or not link:
         return None
-    if not TRANSFER_RE.search(title):
+    if not feed_cfg.get("skip_filter") and not TRANSFER_RE.search(title):
         return None
-    league = classify_league(title)
+    league = classify_league(title) or feed_cfg.get("league_hint")
     if league is None:
         return None
 
