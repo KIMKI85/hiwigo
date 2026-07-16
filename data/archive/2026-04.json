@@ -1,0 +1,26 @@
+[
+ {
+  "id": "61e3f0c3fbbb",
+  "title": "A former legend explains why Jürgen Klopp can't join Real Madrid",
+  "title_ko": "전 레전드가 위르겐 클롭이 레알 마드리드에 합류할 수 없는 이유를 설명합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Marca (EN)",
+  "url": "https://www.marca.com/en/football/real-madrid/2026/04/28/69efda00268e3e8c648b4571.html",
+  "fee": null,
+  "published": "2026-04-28T00:18:57+00:00"
+ },
+ {
+  "id": "070d602b45c2",
+  "title": "The Cost of Chaos: Manchester United faces a multi-million dollar hit in its desperate bid to return to glory",
+  "title_ko": "혼돈의 대가: 맨체스터 유나이티드는 영광을 되찾기 위한 필사적인 노력으로 수백만 달러의 타격을 입었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Marca (EN)",
+  "url": "https://www.marca.com/en/football/manchester-united/2026/04/27/69ef3301268e3e9b678b45c2.html",
+  "fee": null,
+  "published": "2026-04-27T10:30:20+00:00"
+ }
+]
