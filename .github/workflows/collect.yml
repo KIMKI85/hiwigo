@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
 
       - name: 의존성 설치
-        run: pip install feedparser
+        run: pip install feedparser deep-translator
 
       - name: RSS 수집 실행
         run: python scripts/fetch_rss.py
