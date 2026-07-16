@@ -1,5 +1,53 @@
 [
  {
+  "id": "998ad2335081",
+  "title": "Arsenal on verge of signing Club Brugge's Tzolis",
+  "title_ko": "아스날, 클럽 브뤼헤의 촐리스 영입 임박",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c235lr80ekko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-16T15:12:20+00:00"
+ },
+ {
+  "id": "15df42c7aa5b",
+  "title": "Liverpool confirm Jeremy Jacquet shirt number as new transfer seizes on major exit",
+  "title_ko": "리버풀은 새로운 이적이 주요 출구를 점유함에 따라 Jeremy Jacquet의 셔츠 등번호를 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-jeremy-jacquet-shirt-number-37440514",
+  "fee": null,
+  "published": "2026-07-16T15:04:33+00:00"
+ },
+ {
+  "id": "ba55ee9fdaf4",
+  "title": "Arsenal agree £34m deal to sign Greek winger Tzolis",
+  "title_ko": "아스날은 그리스 윙어 Tzolis를 영입하기 위해 £ 34m 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564048/christos-tzolis-arsenal-agree-fee-with-club-brugge-to-sign-greek-winger-as-replacement-for-leandro-trossard",
+  "fee": "£34M",
+  "published": "2026-07-16T14:58:00+00:00"
+ },
+ {
+  "id": "f7df779f4df8",
+  "title": "Man United explore move for Tottenham star after La Liga interest in key player",
+  "title_ko": "맨유는 라 리가 핵심 선수에 대한 관심을 보인 후 토트넘 스타 영입을 모색하고 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/man-united-explore-move-for-tottenham-star-after-la-liga-interest-in-key-player/",
+  "fee": null,
+  "published": "2026-07-16T14:30:27+00:00"
+ },
+ {
   "id": "6454960561f6",
   "title": "Transfer news LIVE: Arsenal signing close, Man Utd triple deal, Bradley Barcola twist",
   "title_ko": "이적 뉴스 라이브: 아스널 계약 종료, 맨유 트리플 딜, 브래들리 바르콜라 트위스트",
@@ -12,6 +60,42 @@
   "published": "2026-07-16T14:13:21+00:00"
  },
  {
+  "id": "96e67c93b179",
+  "title": "Ex-Düsseldorfer Tzolis vor Arsenal-Wechsel - Hull bestätigt Interesse an Njinmah",
+  "title_ko": "아스날 이적 전 전 뒤셀도르퍼 촐리스 - 헐, 은진마에 대한 관심 확인",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-16T14:07:41+00:00"
+ },
+ {
+  "id": "038e1425bdf9",
+  "title": "Chelsea launch move to hijack Manchester United’s £50m target",
+  "title_ko": "첼시는 맨체스터 유나이티드의 £50m 목표를 가로채기 위한 움직임을 시작했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/chelsea-launch-move-to-hijack-manchester-uniteds-50m-target/",
+  "fee": "£50M",
+  "published": "2026-07-16T14:00:54+00:00"
+ },
+ {
+  "id": "31af2c4462b6",
+  "title": "Köln-Talent vor Leihe: Frühstarter Kristal sucht den nächsten Schritt",
+  "title_ko": "임대 전 쾰른의 재능: 초기 선발 크리스탈은 다음 단계를 찾고 있습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker (DE)",
+  "url": "https://www.kicker.de/koeln-talent-vor-leihe-fruehstarter-kristal-sucht-den-naechsten-schritt-1236685/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-16T13:45:22+00:00"
+ },
+ {
   "id": "f7de84169b03",
   "title": "Arsenal strike £34million transfer agreement for Greek winger Christos Tzolis",
   "title_ko": "아스날은 그리스 윙어 크리스토스 촐리스(Christos Tzolis)에게 3,400만 파운드의 이적 계약을 체결했습니다.",
@@ -22,6 +106,18 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-christos-tzolis-transfer-agreement-37440243",
   "fee": "£34M",
   "published": "2026-07-16T13:40:33+00:00"
+ },
+ {
+  "id": "c323961513e8",
+  "title": "Liverpool identify £130m-rated Brazilian sensation as key attacking target",
+  "title_ko": "리버풀은 £130m 평가의 브라질 센세이션을 핵심 공격 목표로 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/liverpool-identify-130m-rated-brazilian-sensation-as-key-attacking-target/",
+  "fee": "£130M",
+  "published": "2026-07-16T13:30:23+00:00"
  },
  {
   "id": "bd62baa40b3b",
@@ -48,6 +144,18 @@
   "published": "2026-07-16T13:07:16+00:00"
  },
  {
+  "id": "90df7cd02288",
+  "title": "Chelsea line up €100m bid for 23-G/A wonderkid after Liverpool links fade",
+  "title_ko": "첼시는 리버풀 링크가 사라진 후 23-G/A 원더키드에 대한 €100m의 입찰을 준비했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/chelsea-line-up-e100m-bid-for-23-g-a-wonderkid-after-liverpool-links-fade/",
+  "fee": "€100M",
+  "published": "2026-07-16T13:00:10+00:00"
+ },
+ {
   "id": "959a8b42c5f7",
   "title": "Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola",
   "title_ko": "도미닉 소보슬라이는 안도니 이라올라의 영입을 위해 리버풀과 새로운 계약을 체결했습니다.",
@@ -58,6 +166,54 @@
   "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
   "fee": null,
   "published": "2026-07-16T12:31:18+00:00"
+ },
+ {
+  "id": "798cf7ea574a",
+  "title": "Tottenham consider €30m deal for highly-rated Belgian ace",
+  "title_ko": "토트넘은 높은 평가를 받는 벨기에 에이스의 €30m 거래를 고려하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/tottenham-consider-e30m-deal-for-highly-rated-belgian-ace/",
+  "fee": "€30M",
+  "published": "2026-07-16T12:00:09+00:00"
+ },
+ {
+  "id": "36f899cdc0fe",
+  "title": "Liverpool reach agreement over blockbuster deal with 25-G/A star",
+  "title_ko": "리버풀은 25-G/A 스타와 블록버스터 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/liverpool-reach-agreement-over-blockbuster-deal-with-25-g-a-star/",
+  "fee": null,
+  "published": "2026-07-16T11:30:43+00:00"
+ },
+ {
+  "id": "e1fe0b16f5a6",
+  "title": "Romano issues seismic Marcus Rashford update regarding potential move away",
+  "title_ko": "Romano는 잠재적인 이적에 관해 Marcus Rashford의 엄청난 업데이트를 발표했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/romano-issues-seismic-marcus-rashford-update/",
+  "fee": null,
+  "published": "2026-07-16T10:45:12+00:00"
+ },
+ {
+  "id": "2f8ffcf1a2e7",
+  "title": "Man United line up £30m winger deal but it all depends on the future of Rashford",
+  "title_ko": "맨유는 3000만 파운드의 윙어 딜을 준비했지만 모든 것은 래쉬포드의 미래에 달려 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/16/man-united-line-winger-deal-future-of-rashford/",
+  "fee": "£30M",
+  "published": "2026-07-16T10:37:51+00:00"
  },
  {
   "id": "3a7e59ebba03",
@@ -214,6 +370,18 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5yzyn8xxq3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-15T10:21:44+00:00"
+ },
+ {
+  "id": "044e782bb61a",
+  "title": "Bayers heikler Deal: Sechs Fragen zum Alajbegovic-Poker",
+  "title_ko": "바이엘의 섬세한 거래: Alajbegovic 포커에 대한 여섯 가지 질문",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker (DE)",
+  "url": "https://www.kicker.de/bayers-heikler-deal-sechs-fragen-zum-alajbegovic-poker-1236071/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-15T10:12:37+00:00"
  },
  {
   "id": "fcbef8785cfd",
