@@ -22,6 +22,10 @@ try:
 except Exception:
     _translator = None  # 라이브러리 없거나 실패해도 수집은 계속
 
+# 일부 매체는 기본 봇 UA를 차단하므로 브라우저 UA로 요청
+AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+         "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 ARCHIVE = DATA / "archive"
@@ -37,14 +41,15 @@ FEEDS = [
     {"name": "Guardian Football", "url": "https://www.theguardian.com/football/rss", "tier": 1},
     # ── 현지 매체 (각 리그 원천 소스) ──
     {"name": "kicker (DE)", "url": "https://newsfeed.kicker.de/news/bundesliga", "tier": 1, "league_hint": "BUND"},
-    {"name": "L'Équipe Football (FR)", "url": "https://www.lequipe.fr/rss/actu_rss_Football.xml", "tier": 1, "league_hint": "LIGUE1"},
+    {"name": "Foot Mercato (FR)", "url": "https://www.footmercato.net/rss", "tier": 2, "league_hint": "LIGUE1", "skip_filter": True},
+    {"name": "RMC Sport (FR)", "url": "https://rmcsport.bfmtv.com/rss/football/", "tier": 1, "league_hint": "LIGUE1"},
     {"name": "Gazzetta Calcio (IT)", "url": "https://www.gazzetta.it/rss/calcio.xml", "tier": 1, "league_hint": "SERIEA"},
     {"name": "Marca (EN)", "url": "https://e00-marca.uecdn.es/rss/en/football.xml", "tier": 2, "league_hint": "LALIGA"},
     {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2, "league_hint": "SERIEA"},
     # ── 영어권 루머·이적 전문 (3티어: 빠르지만 신뢰도 낮음) ──
     {"name": "Mirror Football", "url": "https://www.mirror.co.uk/sport/football/?service=rss", "tier": 3},
-    {"name": "TEAMtalk", "url": "https://www.teamtalk.com/feed", "tier": 3},
-    {"name": "Football365", "url": "https://www.football365.com/feed", "tier": 3},
+    {"name": "TEAMtalk", "url": "https://www.teamtalk.com/feed/", "tier": 3},
+    {"name": "Football365", "url": "https://www.football365.com/feed/", "tier": 3},
     {"name": "CaughtOffside", "url": "https://www.caughtoffside.com/feed", "tier": 3},
     {"name": "Fichajes (ES)", "url": "https://www.fichajes.net/rss", "tier": 3, "league_hint": "LALIGA", "skip_filter": True},
 ]
@@ -208,12 +213,13 @@ def main():
     collected = []
     for feed_cfg in FEEDS:
         try:
-            parsed = feedparser.parse(feed_cfg["url"])
+            parsed = feedparser.parse(feed_cfg["url"], agent=AGENT)
             for entry in parsed.entries:
                 item = entry_to_item(entry, feed_cfg)
                 if item:
                     collected.append(item)
-            print(f"[OK] {feed_cfg['name']}: {len(parsed.entries)}건 중 이적기사 추출")
+            tag = "[OK]" if parsed.entries else "[EMPTY]"
+            print(f"{tag} {feed_cfg['name']}: {len(parsed.entries)}건 중 이적기사 추출")
         except Exception as e:
             print(f"[SKIP] {feed_cfg['name']}: {e}")
 
