@@ -1,0 +1,41 @@
+{
+ "updated": "2026-07-17T08:32:37.508121+00:00",
+ "competitions": {
+  "EPL": {
+   "name": "프리미어리그",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  },
+  "LALIGA": {
+   "name": "라리가",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  },
+  "SERIEA": {
+   "name": "세리에 A",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  },
+  "BUND": {
+   "name": "분데스리가",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  },
+  "LIGUE1": {
+   "name": "리그 1",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  },
+  "UCL": {
+   "name": "챔피언스리그",
+   "standings": [],
+   "results": [],
+   "scorers": []
+  }
+ }
+}
