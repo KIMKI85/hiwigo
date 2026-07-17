@@ -40,6 +40,9 @@
   .window-count{text-align:right}
   .window-count .num{font-family:'Barlow Condensed';font-weight:800;font-size:2rem;color:var(--yellow)}
   .window-count .lbl{font-size:.72rem;color:var(--ink-dim)}
+  nav.tabs{display:flex;gap:2px;margin-top:14px}
+  nav.tabs a{padding:7px 16px;font-size:.85rem;font-weight:700;color:var(--ink-dim);text-decoration:none;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+  nav.tabs a.on{color:#111;background:var(--yellow);border-color:var(--yellow)}
   .demo-badge{background:var(--panel-2);border:1px dashed var(--ink-dim);color:var(--ink-dim);font-size:.7rem;padding:3px 8px;border-radius:4px}
 
   /* ── 필터 ── */
@@ -118,6 +121,10 @@
     <div class="logo disp">히위고 <em>HWG</em>
       <small>HERE WE GO — 5대 리그 이적시장 실시간 트래커</small>
     </div>
+    <nav class="tabs">
+      <a href="index.html" class="on">⚡ 이적센터</a>
+      <a href="stats.html">📊 순위·기록</a>
+    </nav>
   </div>
   <div style="display:flex;align-items:center;gap:16px">
     <span class="demo-badge">⚠ 프로토타입 · 샘플 데이터</span>
