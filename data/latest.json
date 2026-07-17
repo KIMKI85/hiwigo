@@ -1,5 +1,17 @@
 [
  {
+  "id": "d4317443ed84",
+  "title": "Villa sign Newcastle target Manzambi in club-record deal",
+  "title_ko": "빌라는 클럽 기록 계약으로 뉴캐슬과 만잠비를 계약했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal",
+  "fee": null,
+  "published": "2026-07-17T18:04:00+00:00"
+ },
+ {
   "id": "ec7f1a20f7c5",
   "title": "Man Utd latest: Atalanta closing in on new deal for Ederson",
   "title_ko": "맨유 최신: 아탈란타가 에데르송과 재계약을 마무리했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5yzyn8xxq3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-15T10:21:44+00:00"
- },
- {
-  "id": "044e782bb61a",
-  "title": "Bayers heikler Deal: Sechs Fragen zum Alajbegovic-Poker",
-  "title_ko": "바이엘의 섬세한 거래: Alajbegovic 포커에 대한 여섯 가지 질문",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/bayers-heikler-deal-sechs-fragen-zum-alajbegovic-poker-1236071/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-15T10:12:37+00:00"
  }
 ]
