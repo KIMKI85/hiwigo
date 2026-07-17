@@ -2,7 +2,7 @@ name: RSS 수집
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30분마다 실행 (UTC 기준)
+    - cron: "3,18,33,48 * * * *"   # 15분 간격, 혼잡 시간대 회피
   workflow_dispatch:          # Actions 탭에서 수동 실행 버튼도 제공
 
 permissions:
