@@ -1,5 +1,41 @@
 [
  {
+  "id": "d6aa8e2f6b3e",
+  "title": "Szoboszlai signs new long-term Liverpool deal",
+  "title_ko": "소보슬라이는 리버풀과 새로운 장기 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
+  "fee": null,
+  "published": "2026-07-17T15:00:00+00:00"
+ },
+ {
+  "id": "12623e8da86c",
+  "title": "Mercato: la mise au point du patron de l'Atlético de Madrid sur Julian Alvarez",
+  "title_ko": "Mercato: Atlético de Madrid의 감독 Julian Alvarez에 대한 업데이트",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-mise-au-point-du-patron-de-l-atletico-de-madrid-sur-julian-alvarez_AN-202607170528.html",
+  "fee": null,
+  "published": "2026-07-17T14:03:41+00:00"
+ },
+ {
+  "id": "5f7984d19530",
+  "title": "Liverpool midfielder Szoboszlai signs new five-year deal",
+  "title_ko": "리버풀의 미드필더 소보슬라이(Szoboszlai)가 새로운 5년 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-17T14:03:30+00:00"
+ },
+ {
   "id": "42da481b1a28",
   "title": "Noch zwei Spiele für die Hearts: Schwolow wechselt nach Mainz",
   "title_ko": "Hearts를 위한 두 개의 게임이 더 있습니다: Schwolow가 마인츠로 이동합니다",
