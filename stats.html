@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>히위고 HWG — 순위·기록</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0E1219; --panel:#171D28; --panel-2:#1E2634; --line:#2A3446;
+    --ink:#F2F5FA; --ink-dim:#8B96A8; --yellow:#FFD400;
+    --green:#2ECC71; --red:#FF4D5E;
+    font-size:15px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Noto Sans KR',sans-serif;line-height:1.5}
+  .disp{font-family:'Barlow Condensed','Noto Sans KR',sans-serif;letter-spacing:.02em}
+
+  header{padding:26px 22px 0;border-bottom:1px solid var(--line)}
+  .head-top{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  .logo{font-family:'Barlow Condensed';font-weight:800;font-size:2.2rem;line-height:1}
+  .logo em{font-style:normal;color:var(--yellow)}
+  .logo small{display:block;font-family:'Noto Sans KR';font-weight:500;font-size:.78rem;color:var(--ink-dim);letter-spacing:.14em;margin-top:5px}
+  .updated{font-size:.72rem;color:var(--ink-dim)}
+  nav.tabs{display:flex;gap:2px;margin-top:18px}
+  nav.tabs a{padding:9px 18px;font-size:.9rem;font-weight:700;color:var(--ink-dim);text-decoration:none;border:1px solid var(--line);border-bottom:none;border-radius:8px 8px 0 0;background:var(--panel)}
+  nav.tabs a.on{color:#111;background:var(--yellow);border-color:var(--yellow)}
+
+  .filters{padding:14px 22px;display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+  .chip{background:var(--panel);border:1px solid var(--line);color:var(--ink-dim);padding:6px 13px;border-radius:99px;font-size:.82rem;font-weight:500;cursor:pointer;transition:.15s}
+  .chip:hover{color:var(--ink)}
+  .chip.on{background:var(--yellow);border-color:var(--yellow);color:#111;font-weight:700}
+
+  .wrap{display:grid;grid-template-columns:1.4fr 1fr;gap:22px;padding:22px;max-width:1200px;margin:0 auto}
+  @media(max-width:900px){.wrap{grid-template-columns:1fr}}
+  .box{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:16px}
+  .box h4{font-size:.8rem;letter-spacing:.1em;color:var(--ink-dim);margin-bottom:12px;font-weight:700}
+
+  table{width:100%;border-collapse:collapse;font-size:.85rem}
+  th{font-size:.7rem;color:var(--ink-dim);font-weight:500;text-align:right;padding:4px 6px;border-bottom:1px solid var(--line)}
+  th.t{text-align:left}
+  td{padding:6px;text-align:right;border-bottom:1px solid rgba(42,52,70,.5)}
+  td.t{text-align:left;font-weight:500;white-space:nowrap}
+  tr:last-child td{border-bottom:none}
+  .pos{font-family:'Barlow Condensed';font-weight:800;color:var(--ink-dim);width:26px}
+  tr.ucl .pos{color:var(--yellow)}          /* 챔스권 */
+  tr.rel .pos{color:var(--red)}             /* 강등권 */
+  .pts{font-family:'Barlow Condensed';font-weight:800;font-size:1rem;color:var(--yellow)}
+
+  .match{display:flex;align-items:center;gap:8px;padding:8px 2px;border-bottom:1px solid rgba(42,52,70,.5);font-size:.85rem}
+  .match:last-child{border-bottom:none}
+  .match .d{font-size:.68rem;color:var(--ink-dim);width:44px;flex-shrink:0}
+  .match .h,.match .a{flex:1}
+  .match .h{text-align:right}
+  .match .s{font-family:'Barlow Condensed';font-weight:800;font-size:1rem;background:var(--panel-2);border-radius:5px;padding:1px 9px;white-space:nowrap}
+
+  .scorer{display:flex;align-items:center;gap:10px;padding:7px 2px;border-bottom:1px solid rgba(42,52,70,.5);font-size:.85rem}
+  .scorer:last-child{border-bottom:none}
+  .scorer .rk{font-family:'Barlow Condensed';font-weight:800;color:var(--ink-dim);width:20px}
+  .scorer .nm{flex:1}.scorer .nm small{display:block;font-size:.7rem;color:var(--ink-dim)}
+  .scorer .g{font-family:'Barlow Condensed';font-weight:800;font-size:1.05rem;color:var(--yellow)}
+  .scorer .g small{font-size:.65rem;color:var(--ink-dim);font-weight:400}
+
+  .empty{text-align:center;color:var(--ink-dim);padding:60px 20px;font-size:.9rem;line-height:1.8}
+  footer{text-align:center;color:var(--ink-dim);font-size:.72rem;padding:26px;border-top:1px solid var(--line);margin-top:10px}
+  footer a{color:var(--ink-dim)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="head-top">
+    <div class="logo disp">히위고 <em>HWG</em>
+      <small>HERE WE GO — 5대 리그 이적시장 실시간 트래커</small>
+    </div>
+    <div class="updated" id="updated"></div>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">⚡ 이적센터</a>
+    <a href="stats.html" class="on">📊 순위·기록</a>
+  </nav>
+</header>
+
+<div class="filters" id="compFilter" role="group" aria-label="대회 선택"></div>
+
+<div class="wrap" id="content">
+  <div class="empty" style="grid-column:1/-1">데이터를 불러오는 중...</div>
+</div>
+
+<footer>
+  경기 데이터 제공: <a href="https://www.football-data.org" target="_blank" rel="noopener">football-data.org</a> · 순위·기록은 하루 4회 자동 갱신됩니다.
+</footer>
+
+<script>
+const ORDER = ["EPL","LALIGA","SERIEA","BUND","LIGUE1","UCL"];
+let stats = null, cur = "EPL";
+
+function esc(s){const d=document.createElement("div");d.textContent=s??"";return d.innerHTML}
+
+function renderTabs(){
+  const el = document.getElementById("compFilter");
+  el.innerHTML = ORDER.map(k=>{
+    const c = stats?.competitions?.[k];
+    if(!c) return "";
+    return `<button class="chip ${k===cur?'on':''}" data-k="${k}">${esc(c.name)}</button>`;
+  }).join("");
+}
+
+function render(){
+  const c = stats?.competitions?.[cur];
+  const wrap = document.getElementById("content");
+  if(!c || (!c.standings.length && !c.results.length)){
+    wrap.innerHTML = `<div class="empty" style="grid-column:1/-1">
+      아직 표시할 데이터가 없습니다.<br>
+      26-27 시즌 개막 후 순위·결과가 자동으로 채워집니다.</div>`;
+    return;
+  }
+  const n = c.standings.length;
+  const rows = c.standings.map(r=>{
+    const cls = r.pos<=4 ? "ucl" : (n>=18 && r.pos>n-3 ? "rel" : "");
+    return `<tr class="${cls}"><td class="pos">${r.pos}</td><td class="t">${esc(r.team)}</td>
+      <td>${r.played}</td><td>${r.won}</td><td>${r.draw}</td><td>${r.lost}</td>
+      <td>${r.gd>0?"+":""}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
+  }).join("");
+  const matches = c.results.map(m=>`<div class="match">
+      <span class="d">${m.date.slice(5)}</span>
+      <span class="h">${esc(m.home)}</span>
+      <span class="s">${m.hs} : ${m.as}</span>
+      <span class="a">${esc(m.away)}</span></div>`).join("") || `<div class="empty">최근 경기 없음</div>`;
+  const scorers = c.scorers.map((s,i)=>`<div class="scorer">
+      <span class="rk">${i+1}</span>
+      <span class="nm">${esc(s.name)}<small>${esc(s.team)}</small></span>
+      <span class="g">${s.goals}<small> 골${s.assists?` · ${s.assists}도움`:""}</small></span></div>`).join("") || `<div class="empty">기록 없음</div>`;
+
+  wrap.innerHTML = `
+    <div class="box">
+      <h4>순위표 <span style="color:var(--yellow)">■</span> 챔스권 <span style="color:var(--red)">■</span> 강등권</h4>
+      <table><thead><tr><th></th><th class="t">팀</th><th>경기</th><th>승</th><th>무</th><th>패</th><th>득실</th><th>승점</th></tr></thead>
+      <tbody>${rows}</tbody></table>
+    </div>
+    <div>
+      <div class="box"><h4>최근 결과</h4>${matches}</div>
+      <div class="box"><h4>득점 순위</h4>${scorers}</div>
+    </div>`;
+}
+
+document.getElementById("compFilter").addEventListener("click", e=>{
+  const btn = e.target.closest(".chip"); if(!btn) return;
+  cur = btn.dataset.k;
+  renderTabs(); render();
+});
+
+(async function(){
+  try{
+    const res = await fetch("data/stats.json", {cache:"no-store"});
+    if(!res.ok) throw new Error(res.status);
+    stats = await res.json();
+    const d = new Date(stats.updated);
+    document.getElementById("updated").textContent =
+      "갱신: " + d.toLocaleString("ko-KR",{month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});
+    renderTabs(); render();
+  }catch(e){
+    document.getElementById("content").innerHTML = `<div class="empty" style="grid-column:1/-1">
+      통계 데이터가 아직 수집되지 않았습니다.<br>
+      "리그 통계 수집" 액션을 실행하면 이 페이지가 채워집니다.</div>`;
+  }
+})();
+</script>
+</body>
+</html>
