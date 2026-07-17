@@ -1,5 +1,29 @@
 [
  {
+  "id": "1361995d4723",
+  "title": "Official: Genoa sign Traore from Olympique Marseille, loan with €10m option",
+  "title_ko": "공식: 제노아가 올림피크 마르세유에서 트라오레를 €10m 옵션으로 임대 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-genoa-sign-traore-olympique-marseille/",
+  "fee": "€10M",
+  "published": "2026-07-17T16:12:05+00:00"
+ },
+ {
+  "id": "bfbe749fd9f2",
+  "title": "Leeds sign £34.1m defender Muharemovic",
+  "title_ko": "리즈, 수비수 무하레모비치(3410만 파운드) 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9w0kl9rjpno?at_medium=RSS&at_campaign=rss",
+  "fee": "£34.1M",
+  "published": "2026-07-17T16:00:06+00:00"
+ },
+ {
   "id": "19c3d06cf4a2",
   "title": "Bizarre Oulai report as Fiorentina target nearly kidnapped by fake Trabzonspor directors",
   "title_ko": "기괴한 Oulai는 가짜 Trabzonspor 감독에 의해 Fiorentina 목표가 거의 납치되었다고 보고했습니다.",
