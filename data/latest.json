@@ -1,5 +1,17 @@
 [
  {
+  "id": "6d8afb7bde38",
+  "title": "Mo Salah's next club confirmed as Liverpool icon agrees huge deal with Turkish giants",
+  "title_ko": "리버풀의 아이콘이 터키 거인과 엄청난 계약을 체결함에 따라 모 살라의 다음 클럽이 확정되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mo-salah-next-club-besiktas-37446324",
+  "fee": null,
+  "published": "2026-07-17T18:34:43+00:00"
+ },
+ {
   "id": "d4317443ed84",
   "title": "Villa sign Newcastle target Manzambi in club-record deal",
   "title_ko": "빌라는 클럽 기록 계약으로 뉴캐슬과 만잠비를 계약했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c2dyd63e13xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-15T14:54:56+00:00"
- },
- {
-  "id": "d85843bb0ac0",
-  "title": "Aston Villa sign keeper Ramsey on free transfer",
-  "title_ko": "아스톤 빌라의 간판 키퍼 램지, 자유계약으로 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgrkrr5gxkvo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-15T14:16:40+00:00"
  }
 ]
