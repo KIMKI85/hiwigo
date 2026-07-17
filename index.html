@@ -145,6 +145,14 @@
     <button class="chip" data-status="nego">협상중</button>
     <button class="chip" data-status="rumor">루머</button>
   </div>
+  <div class="fsep"></div>
+  <div class="fgroup" id="lvFilter" role="group" aria-label="신뢰도 필터">
+    <button class="chip on" data-lv="1">신뢰도 전체</button>
+    <button class="chip" data-lv="2">2+</button>
+    <button class="chip" data-lv="3">3+</button>
+    <button class="chip" data-lv="4">4+</button>
+    <button class="chip" data-lv="5">5만</button>
+  </div>
 </div>
 
 <div class="wrap">
@@ -235,13 +243,14 @@ const statusMeta = {
   rumor:{cls:"b-rumor", label:"루머"}
 };
 
-let curLeague="all", curStatus="all";
+let curLeague="all", curStatus="all", curMinLv=1;
 
 function render(){
   const feed = document.getElementById("feed");
   const list = rumors.filter(r =>
     (curLeague==="all"||r.league===curLeague) &&
-    (curStatus==="all"||r.status===curStatus));
+    (curStatus==="all"||r.status===curStatus) &&
+    (r.lv||1) >= curMinLv);
   if(!list.length){feed.innerHTML=`<div class="empty">조건에 맞는 이적 소식이 없습니다.</div>`;return}
   feed.innerHTML = list.map(r=>{
     const lg=leagueMeta[r.league], st=statusMeta[r.status];
@@ -269,12 +278,15 @@ function bindFilter(id, key){
     const btn = e.target.closest(".chip"); if(!btn) return;
     document.querySelectorAll(`#${id} .chip`).forEach(c=>c.classList.remove("on"));
     btn.classList.add("on");
-    if(key==="league") curLeague = btn.dataset.league; else curStatus = btn.dataset.status;
+    if(key==="league") curLeague = btn.dataset.league;
+    else if(key==="lv") curMinLv = parseInt(btn.dataset.lv);
+    else curStatus = btn.dataset.status;
     render();
   });
 }
 bindFilter("leagueFilter","league");
 bindFilter("statusFilter","status");
+bindFilter("lvFilter","lv");
 
 /* 외부 데이터(기사 제목) 삽입용 이스케이프 */
 function esc(s){const d=document.createElement("div");d.textContent=s??"";return d.innerHTML}
