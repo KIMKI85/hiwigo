@@ -50,6 +50,7 @@
   .chip:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
   .chip.on{background:var(--yellow);border-color:var(--yellow);color:#111;font-weight:700}
   .chip .lg-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px}
+  .chip .lg-ico{width:18px;height:13px;vertical-align:-2px;margin-right:6px}
   .fsep{width:1px;height:22px;background:var(--line)}
 
   /* ── 레이아웃 ── */
@@ -131,11 +132,11 @@
 <div class="filters">
   <div class="fgroup" id="leagueFilter" role="group" aria-label="리그 필터">
     <button class="chip on" data-league="all">전체</button>
-    <button class="chip" data-league="EPL"><span class="lg-dot" style="background:var(--epl)"></span>프리미어리그</button>
-    <button class="chip" data-league="LALIGA"><span class="lg-dot" style="background:var(--laliga)"></span>라리가</button>
-    <button class="chip" data-league="SERIEA"><span class="lg-dot" style="background:var(--seriea)"></span>세리에 A</button>
-    <button class="chip" data-league="BUND"><span class="lg-dot" style="background:var(--bund)"></span>분데스리가</button>
-    <button class="chip" data-league="LIGUE1"><span class="lg-dot" style="background:var(--ligue1)"></span>리그 1</button>
+    <button class="chip" data-league="EPL"><svg class="lg-ico" viewBox="0 0 20 14" aria-hidden="true"><defs><clipPath id="feng"><rect width="20" height="14" rx="2"/></clipPath></defs><g clip-path="url(#feng)"><rect width="20" height="14" fill="#fff"/><rect x="8.2" width="3.6" height="14" fill="#CE1124"/><rect y="5.2" width="20" height="3.6" fill="#CE1124"/></g><rect x="0.5" y="0.5" width="19" height="13" rx="2" fill="none" stroke="rgba(255,255,255,.25)"/></svg>프리미어리그</button>
+    <button class="chip" data-league="LALIGA"><svg class="lg-ico" viewBox="0 0 20 14" aria-hidden="true"><defs><clipPath id="fesp"><rect width="20" height="14" rx="2"/></clipPath></defs><g clip-path="url(#fesp)"><rect width="20" height="14" fill="#AA151B"/><rect y="3.5" width="20" height="7" fill="#F1BF00"/></g><rect x="0.5" y="0.5" width="19" height="13" rx="2" fill="none" stroke="rgba(255,255,255,.25)"/></svg>라리가</button>
+    <button class="chip" data-league="SERIEA"><svg class="lg-ico" viewBox="0 0 20 14" aria-hidden="true"><defs><clipPath id="fita"><rect width="20" height="14" rx="2"/></clipPath></defs><g clip-path="url(#fita)"><rect width="6.67" height="14" fill="#009246"/><rect x="6.67" width="6.67" height="14" fill="#fff"/><rect x="13.33" width="6.67" height="14" fill="#CE2B37"/></g><rect x="0.5" y="0.5" width="19" height="13" rx="2" fill="none" stroke="rgba(255,255,255,.25)"/></svg>세리에 A</button>
+    <button class="chip" data-league="BUND"><svg class="lg-ico" viewBox="0 0 20 14" aria-hidden="true"><defs><clipPath id="fger"><rect width="20" height="14" rx="2"/></clipPath></defs><g clip-path="url(#fger)"><rect width="20" height="4.67" fill="#111"/><rect y="4.67" width="20" height="4.67" fill="#DD0000"/><rect y="9.33" width="20" height="4.67" fill="#FFCE00"/></g><rect x="0.5" y="0.5" width="19" height="13" rx="2" fill="none" stroke="rgba(255,255,255,.25)"/></svg>분데스리가</button>
+    <button class="chip" data-league="LIGUE1"><svg class="lg-ico" viewBox="0 0 20 14" aria-hidden="true"><defs><clipPath id="ffra"><rect width="20" height="14" rx="2"/></clipPath></defs><g clip-path="url(#ffra)"><rect width="6.67" height="14" fill="#0055A4"/><rect x="6.67" width="6.67" height="14" fill="#fff"/><rect x="13.33" width="6.67" height="14" fill="#EF4135"/></g><rect x="0.5" y="0.5" width="19" height="13" rx="2" fill="none" stroke="rgba(255,255,255,.25)"/></svg>리그 1</button>
   </div>
   <div class="fsep"></div>
   <div class="fgroup" id="statusFilter" role="group" aria-label="상태 필터">
