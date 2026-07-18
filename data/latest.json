@@ -1,5 +1,29 @@
 [
  {
+  "id": "472b606ed6f8",
+  "title": "Milan rival Borussia Dortmund for Karetsas and target Hojbjerg",
+  "title_ko": "Karetsas의 밀란 라이벌 보루시아 도르트문트와 Hojbjerg를 목표로 삼고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-rival-borussia-karetsas-target-hojbjerg/",
+  "fee": null,
+  "published": "2026-07-18T09:13:09+00:00"
+ },
+ {
+  "id": "6e7a0e98f7dc",
+  "title": "Journalist provides major Tottenham transfer update following crazy 24 hours",
+  "title_ko": "저널리스트는 미친 24시간 이후 주요 토트넘 이적 업데이트를 제공합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/tottenham-crysencio-summerville-transfer-2/",
+  "fee": null,
+  "published": "2026-07-18T09:04:30+00:00"
+ },
+ {
   "id": "c69dcf6380f0",
   "title": "Juventus transfer hopes alive as Kolo Muani trains with U19 PSG team",
   "title_ko": "Kolo Muani가 U19 PSG 팀과 훈련하면서 유벤투스 이적 희망이 살아 있습니다.",
@@ -1174,29 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/chelsea-line-up-e100m-bid-for-23-g-a-wonderkid-after-liverpool-links-fade/",
   "fee": "€100M",
   "published": "2026-07-16T13:00:10+00:00"
- },
- {
-  "id": "959a8b42c5f7",
-  "title": "Dominik Szoboszlai agrees new Liverpool contract in boost to Andoni Iraola",
-  "title_ko": "도미닉 소보슬라이는 안도니 이라올라의 영입을 위해 리버풀과 새로운 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
-  "fee": null,
-  "published": "2026-07-16T12:31:18+00:00"
- },
- {
-  "id": "798cf7ea574a",
-  "title": "Tottenham consider €30m deal for highly-rated Belgian ace",
-  "title_ko": "토트넘은 높은 평가를 받는 벨기에 에이스의 €30m 거래를 고려하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/tottenham-consider-e30m-deal-for-highly-rated-belgian-ace/",
-  "fee": "€30M",
-  "published": "2026-07-16T12:00:09+00:00"
  }
 ]
