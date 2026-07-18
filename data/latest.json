@@ -1,5 +1,17 @@
 [
  {
+  "id": "c81e06e1039b",
+  "title": "BREAKING: Chelsea strike mega £117m Morgan Rogers transfer with Arsenal set to miss out on star",
+  "title_ko": "속보: 첼시는 1억 1700만 파운드에 모건 로저스의 이적을 성사시켰고 아스날은 스타를 놓칠 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-morgan-rogers-transfer-arsenal-37448524",
+  "fee": "£117M",
+  "published": "2026-07-18T17:38:21+00:00"
+ },
+ {
   "id": "659eb20ab571",
   "title": "Arsenal transfer target told he wouldn’t get into Man Utd team in brutal verdict",
   "title_ko": "아스날 이적 타겟은 잔인한 판결로 맨유 팀에 들어갈 수 없을 것이라고 말했다",
@@ -1186,17 +1198,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/mercato-je-ne-pouvais-pas-dire-non-rosenior-enthousiaste-a-l-idee-d-entrainer-le-paris-fc_AD-202607160589.html",
   "fee": null,
   "published": "2026-07-16T16:12:51+00:00"
- },
- {
-  "id": "50445562c35c",
-  "title": "Official: Jimenez signs for Fiorentina on loan with option to buy from Bournemouth",
-  "title_ko": "공식: 히메네즈는 본머스로부터 구매 옵션과 함께 피오렌티나 임대 계약을 맺었습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-jimenez-signs-for-fiorentina/",
-  "fee": null,
-  "published": "2026-07-16T15:42:00+00:00"
  }
 ]
