@@ -1,5 +1,17 @@
 [
  {
+  "id": "6f4bc0f06b9c",
+  "title": "Cavani wanted by Lecce as Serie A survivors target former Napoli striker",
+  "title_ko": "세리에 A 생존자들이 전 나폴리 스트라이커를 노리고 있기 때문에 레체는 카바니를 원했다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/cavani-wanted-by-lecce-target/",
+  "fee": null,
+  "published": "2026-07-18T15:04:37+00:00"
+ },
+ {
   "id": "a20469744582",
   "title": "Will the World Cup affect Arsenal's transfer plans?",
   "title_ko": "월드컵이 아스날의 이적 계획에 영향을 미칠까?",
@@ -1186,17 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-orozco-37440355",
   "fee": null,
   "published": "2026-07-16T15:22:55+00:00"
- },
- {
-  "id": "998ad2335081",
-  "title": "Arsenal on verge of signing Club Brugge's Tzolis",
-  "title_ko": "아스날, 클럽 브뤼헤의 촐리스 영입 임박",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c235lr80ekko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-16T15:12:20+00:00"
  }
 ]
