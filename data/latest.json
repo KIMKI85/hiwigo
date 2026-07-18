@@ -1,5 +1,17 @@
 [
  {
+  "id": "ce332a7458c3",
+  "title": "Tottenham confident of Savinho signing - Sunday's gossip",
+  "title_ko": "토트넘은 사비뉴 영입에 자신감을 갖고 있다 - 일요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cn8nypvz22no?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-18T20:46:50+00:00"
+ },
+ {
   "id": "ec885352b993",
   "title": "West Ham accelerate move for exciting 20-year-old defender in summer overhaul",
   "title_ko": "웨스트햄, 여름 점검을 통해 흥미진진한 20세 수비수 영입 가속화",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/dragusin-reveals-how-paratici-was-decisive/",
   "fee": null,
   "published": "2026-07-16T19:40:10+00:00"
- },
- {
-  "id": "c3b5144a4fe9",
-  "title": "Al-Hilal join race for Tomori but fall short of Milan’s €20m price",
-  "title_ko": "알-힐랄은 토모리 영입 경쟁에 합류했지만 밀란의 €20m 가격에는 미치지 못했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/al-hilal-join-race-for-tomori-short-of-milan/",
-  "fee": "€20M",
-  "published": "2026-07-16T19:19:00+00:00"
  }
 ]
