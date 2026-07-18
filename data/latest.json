@@ -1,5 +1,17 @@
 [
  {
+  "id": "48aa7b74059b",
+  "title": "Roma bid €46m for West Ham forward Summerville",
+  "title_ko": "로마는 웨스트햄의 포워드 서머빌에게 4600만 유로를 제안했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-bid-e46m-for-west-ham-forward-summerville/",
+  "fee": "€46M",
+  "published": "2026-07-18T16:20:46+00:00"
+ },
+ {
   "id": "70092cfa46b1",
   "title": "Juventus eye Richarlison as Brazilian enters last year of Tottenham contract",
   "title_ko": "유벤투스는 브라질 선수가 토트넘 계약의 마지막 해에 돌입하면서 히샤를리송을 주시하고 있습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c07rexv3y8go?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-16T15:39:52+00:00"
- },
- {
-  "id": "309cad897d89",
-  "title": "Aston Villa and Milan talks in advanced stages over Estupinan deal",
-  "title_ko": "Aston Villa와 Milan은 Estupinan 계약을 통해 진전된 단계에서 대화를 나누고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/aston-villa-and-milan-talks-advanced-estupinan/",
-  "fee": null,
-  "published": "2026-07-16T15:27:08+00:00"
  }
 ]
