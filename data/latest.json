@@ -552,6 +552,18 @@
   "published": "2026-07-18T03:00:00+00:00"
  },
  {
+  "id": "187f0f187240",
+  "title": "Papers: Jackson, Summerville on Villa's radar after Chelsea's Rogers move",
+  "title_ko": "논문: 첼시의 로저스가 이적한 후 빌라의 레이더에 있는 잭슨, 서머빌",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564829/nicolas-jackson-and-crysencio-summerville-on-aston-villas-radar-paper-talk",
+  "fee": null,
+  "published": "2026-07-17T22:45:00+00:00"
+ },
+ {
   "id": "766065ad547a",
   "title": "Done Deal: Oulai flies out for Fiorentina medical, €29m plus bonus from Trabzonspor",
   "title_ko": "거래 완료: 오울라이, 피오렌티나 메디컬로 이적, €29m + 트라브존스포르 보너스",
@@ -1186,17 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-mikel-arteta-37439141",
   "fee": "£25M",
   "published": "2026-07-17T03:00:00+00:00"
- },
- {
-  "id": "7be9634904b6",
-  "title": "Transfer round-up: Second Juventus signing, Estupinan, Chalobah and Koné updates",
-  "title_ko": "이적 요약: 두 번째 유벤투스 영입, Estupinan, Chalobah 및 Koné 업데이트",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/transfer-round-up-juventus-estupinan-kone/",
-  "fee": null,
-  "published": "2026-07-16T20:03:45+00:00"
  }
 ]
