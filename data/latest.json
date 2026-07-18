@@ -1,5 +1,17 @@
 [
  {
+  "id": "4f5eaeb1adc1",
+  "title": "Offer imminent: Arsenal confident of £100m-plus transfer",
+  "title_ko": "제안 임박: 아스날은 £100m 이상의 이적을 확신",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/arsenal-confident-over-morgan-rogers-transfer/",
+  "fee": "£100M",
+  "published": "2026-07-18T13:40:49+00:00"
+ },
+ {
   "id": "af4a4c168f0d",
   "title": "West Ham considering loan deal for recent Arsenal signing",
   "title_ko": "웨스트햄은 최근 아스날과의 계약을 위해 임대 계약을 고려하고 있습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.skysports.com/football/news/12040/13564048/christos-tzolis-arsenal-agree-fee-with-club-brugge-to-sign-greek-winger-as-replacement-for-leandro-trossard",
   "fee": "£34M",
   "published": "2026-07-16T14:58:00+00:00"
- },
- {
-  "id": "f7df779f4df8",
-  "title": "Man United explore move for Tottenham star after La Liga interest in key player",
-  "title_ko": "맨유는 라 리가 핵심 선수에 대한 관심을 보인 후 토트넘 스타 영입을 모색하고 있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/man-united-explore-move-for-tottenham-star-after-la-liga-interest-in-key-player/",
-  "fee": null,
-  "published": "2026-07-16T14:30:27+00:00"
  }
 ]
