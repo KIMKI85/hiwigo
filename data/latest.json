@@ -24,6 +24,18 @@
   "published": "2026-07-18T19:10:00+00:00"
  },
  {
+  "id": "db0661a5bac4",
+  "title": "Chelsea target exciting 17-G/A attacker after Xabi Alonso’s recommendation",
+  "title_ko": "첼시는 사비 알론소의 추천으로 흥미로운 17G/A 공격수를 노리고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/chelsea-target-exciting-17-g-a-attacker-after-xabi-alonsos-recommendation/",
+  "fee": null,
+  "published": "2026-07-18T18:40:44+00:00"
+ },
+ {
   "id": "c827fdc316bc",
   "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
   "title_ko": "첼시는 기록적인 £117m 계약으로 아스톤 빌라의 모건 로저스를 영입할 준비가 되어 있습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-szoboszlai-contract-37441546",
   "fee": null,
   "published": "2026-07-16T17:51:19+00:00"
- },
- {
-  "id": "9f6f94177b1d",
-  "title": "Summer Transfer window LIVE: Done deals tracker for Serie A clubs and Italy players",
-  "title_ko": "여름 이적 기간 LIVE: 세리에 A 클럽 및 이탈리아 선수들을 위한 거래 완료 추적기",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/summer-transfer-window-live-serie-a-done-deals-tracker/",
-  "fee": null,
-  "published": "2026-07-16T17:15:35+00:00"
  }
 ]
