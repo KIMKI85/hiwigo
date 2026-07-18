@@ -1,5 +1,17 @@
 [
  {
+  "id": "9f63845dae7f",
+  "title": "Leeds aim to sign £20m defender before Juventus and Inter persuade him to wait",
+  "title_ko": "리즈는 유벤투스와 인테르가 기다리도록 설득하기 전에 2천만 파운드의 수비수와 계약하는 것을 목표로 하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/leeds-aim-to-sign-20m-defender-before-leeds-inter-swoop/",
+  "fee": "£20M",
+  "published": "2026-07-18T13:00:00+00:00"
+ },
+ {
   "id": "bd4aba81236c",
   "title": "20 year old Chelsea defender has “several options” for loan move to Premier League",
   "title_ko": "20세 첼시 수비수는 프리미어리그로 임대 이적할 수 있는 \"여러 가지 옵션\"을 가지고 있습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37437815",
   "fee": null,
   "published": "2026-07-16T14:13:21+00:00"
- },
- {
-  "id": "96e67c93b179",
-  "title": "Ex-Düsseldorfer Tzolis vor Arsenal-Wechsel - Hull bestätigt Interesse an Njinmah",
-  "title_ko": "아스날 이적 전 전 뒤셀도르퍼 촐리스 - 헐, 은진마에 대한 관심 확인",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-16T14:07:41+00:00"
  }
 ]
