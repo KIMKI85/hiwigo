@@ -1,5 +1,17 @@
 [
  {
+  "id": "c69dcf6380f0",
+  "title": "Juventus transfer hopes alive as Kolo Muani trains with U19 PSG team",
+  "title_ko": "Kolo Muani가 U19 PSG 팀과 훈련하면서 유벤투스 이적 희망이 살아 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-transfer-hope-kolo-muani-u19-psg/",
+  "fee": null,
+  "published": "2026-07-18T08:35:09+00:00"
+ },
+ {
   "id": "9f8fbdec67ce",
   "title": "Chelsea’s teenage goal machine ready for senior loan after contract breakthrough",
   "title_ko": "첼시의 10대 골 머신, 계약 타결 후 선배 임대 준비 완료",
@@ -1186,17 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/tottenham-consider-e30m-deal-for-highly-rated-belgian-ace/",
   "fee": "€30M",
   "published": "2026-07-16T12:00:09+00:00"
- },
- {
-  "id": "36f899cdc0fe",
-  "title": "Liverpool reach agreement over blockbuster deal with 25-G/A star",
-  "title_ko": "리버풀은 25-G/A 스타와 블록버스터 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/liverpool-reach-agreement-over-blockbuster-deal-with-25-g-a-star/",
-  "fee": null,
-  "published": "2026-07-16T11:30:43+00:00"
  }
 ]
