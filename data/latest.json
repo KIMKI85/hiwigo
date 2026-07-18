@@ -1,5 +1,29 @@
 [
  {
+  "id": "295dbfb343bb",
+  "title": "Chelsea agree record £117m deal for Villa midfielder Rogers",
+  "title_ko": "첼시는 빌라 미드필더 로저스의 이적료로 £117m에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
+  "fee": "£117M",
+  "published": "2026-07-18T18:02:48+00:00"
+ },
+ {
+  "id": "8ff8af25903a",
+  "title": "Aston Villa close in on 28-year-old wide man after agreement reached",
+  "title_ko": "Aston Villa는 합의에 도달한 후 28세의 와이드맨을 영입했습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/aston-villa-close-in-on-28-year-old-wide-man-after-agreement-reached/",
+  "fee": null,
+  "published": "2026-07-18T18:00:01+00:00"
+ },
+ {
   "id": "c81e06e1039b",
   "title": "BREAKING: Chelsea strike mega £117m Morgan Rogers transfer with Arsenal set to miss out on star",
   "title_ko": "속보: 첼시는 1억 1700만 파운드에 모건 로저스의 이적을 성사시켰고 아스날은 스타를 놓칠 예정입니다.",
@@ -1174,29 +1198,5 @@
   "url": "https://football-italia.net/udinese-striker-davis-urges-zaniolo-return/",
   "fee": null,
   "published": "2026-07-16T16:36:33+00:00"
- },
- {
-  "id": "cb0550f4b2ce",
-  "title": "Arsenal on the verge of completing exciting €40m transfer, journalist confirms",
-  "title_ko": "아스날은 흥미진진한 €40m 이적을 앞두고 있다고 기자가 확인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/arsenal-on-the-verge-of-completing-exciting-e40m-transfer-journalist-confirms/",
-  "fee": "€40M",
-  "published": "2026-07-16T16:30:36+00:00"
- },
- {
-  "id": "433bba92a0a0",
-  "title": "Mercato: \"Il y a de fortes chances pour qu'il reste\", Létang veut garder Bouaddi à Lille",
-  "title_ko": "메르카토: \"그가 남을 가능성이 크다\", 레탕은 부아디를 릴에 머물고 싶어한다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-y-a-de-fortes-chances-pour-qu-il-reste-letang-veut-garder-bouaddi-a-lille_AV-202607160608.html",
-  "fee": null,
-  "published": "2026-07-16T16:25:13+00:00"
  }
 ]
