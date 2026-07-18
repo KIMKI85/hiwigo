@@ -1,5 +1,17 @@
 [
  {
+  "id": "3a2dd4980e67",
+  "title": "Video: Oulaï arrives from Trabzonspor to complete Fiorentina transfer",
+  "title_ko": "비디오: Oulaï는 Fiorentina 이적을 완료하기 위해 Trabzonspor에서 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/oulai-arrives-from-trabzonspor-fiorentina/",
+  "fee": null,
+  "published": "2026-07-18T09:51:32+00:00"
+ },
+ {
   "id": "c7260763f9dc",
   "title": "Rückkehr perfekt: Freiburg verpflichtet Engelhardt",
   "title_ko": "완벽한 복귀: 프라이부르크, 엥겔하르트 영입",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/official-coppola-joins-paris-fc-brighton/",
   "fee": "€20M",
   "published": "2026-07-16T13:15:03+00:00"
- },
- {
-  "id": "283acae6dfcd",
-  "title": "Juventus push for free Kessié transfer amid Thuram knee issues",
-  "title_ko": "유벤투스, 튀랑 무릎 부상으로 케시에 무료 이적 추진",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-push-kessie-free-thuram-knee-issues/",
-  "fee": null,
-  "published": "2026-07-16T13:07:16+00:00"
  }
 ]
