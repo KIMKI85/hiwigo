@@ -1,5 +1,17 @@
 [
  {
+  "id": "97951134457f",
+  "title": "Aston Villa and Crystal Palace offered chance to sign €20m midfielder",
+  "title_ko": "Aston Villa와 Crystal Palace는 €20m의 미드필더를 영입할 기회를 제공했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/aston-villa-and-crystal-palace-offered-chance-to-sign-e20m-midfielder/",
+  "fee": "€20M",
+  "published": "2026-07-18T21:00:47+00:00"
+ },
+ {
   "id": "ce332a7458c3",
   "title": "Tottenham confident of Savinho signing - Sunday's gossip",
   "title_ko": "토트넘은 사비뉴 영입에 자신감을 갖고 있다 - 일요일의 가십",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/transfer-round-up-juventus-estupinan-kone/",
   "fee": null,
   "published": "2026-07-16T20:03:45+00:00"
- },
- {
-  "id": "abeb6994d73b",
-  "title": "Tomiyasu set for Venezia as ex-Arsenal defender to move on free transfer",
-  "title_ko": "토미야스는 전 아스널 수비수로 베네치아로 자유 이적을 결정했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tomiyasu-set-for-venezia-free-transfer/",
-  "fee": null,
-  "published": "2026-07-16T20:02:51+00:00"
  }
 ]
