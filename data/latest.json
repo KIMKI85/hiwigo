@@ -1,5 +1,17 @@
 [
  {
+  "id": "bd4aba81236c",
+  "title": "20 year old Chelsea defender has “several options” for loan move to Premier League",
+  "title_ko": "20세 첼시 수비수는 프리미어리그로 임대 이적할 수 있는 \"여러 가지 옵션\"을 가지고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/chelsea-defender-several-options-for-loan/",
+  "fee": null,
+  "published": "2026-07-18T12:40:00+00:00"
+ },
+ {
   "id": "8e76cd940181",
   "title": "Roma plot transfer revenge on Juventus and Massara",
   "title_ko": "유벤투스와 마사라에 대한 로마의 이적 복수 계획",
@@ -1186,17 +1198,5 @@
   "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "fee": null,
   "published": "2026-07-16T14:07:41+00:00"
- },
- {
-  "id": "038e1425bdf9",
-  "title": "Chelsea launch move to hijack Manchester United’s £50m target",
-  "title_ko": "첼시는 맨체스터 유나이티드의 £50m 목표를 가로채기 위한 움직임을 시작했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/chelsea-launch-move-to-hijack-manchester-uniteds-50m-target/",
-  "fee": "£50M",
-  "published": "2026-07-16T14:00:54+00:00"
  }
 ]
