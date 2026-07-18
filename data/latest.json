@@ -1,5 +1,17 @@
 [
  {
+  "id": "ada8f3a70c27",
+  "title": "Jason Wilcox makes exciting Man Utd transfer promise to Michael Carrick",
+  "title_ko": "제이슨 윌콕스가 마이클 캐릭에게 맨유 이적을 약속했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-jason-wilcox-37447986",
+  "fee": null,
+  "published": "2026-07-18T13:45:52+00:00"
+ },
+ {
   "id": "4f5eaeb1adc1",
   "title": "Offer imminent: Arsenal confident of £100m-plus transfer",
   "title_ko": "제안 임박: 아스날은 £100m 이상의 이적을 확신",
@@ -1186,17 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/liverpool-explore-surprise-move-for-26-year-old-everton-star-this-summer/",
   "fee": null,
   "published": "2026-07-16T15:00:58+00:00"
- },
- {
-  "id": "ba55ee9fdaf4",
-  "title": "Arsenal agree £34m deal to sign Greek winger Tzolis",
-  "title_ko": "아스날은 그리스 윙어 Tzolis를 영입하기 위해 £ 34m 계약에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564048/christos-tzolis-arsenal-agree-fee-with-club-brugge-to-sign-greek-winger-as-replacement-for-leandro-trossard",
-  "fee": "£34M",
-  "published": "2026-07-16T14:58:00+00:00"
  }
 ]
