@@ -1,5 +1,17 @@
 [
  {
+  "id": "4ffe5c26fe1a",
+  "title": "Manchester City have “made progress” on potential €100m transfer after latest round of talks",
+  "title_ko": "맨체스터 시티는 최근 협상 이후 잠재적인 €100m 이적에 대해 \"진행\"했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/manchester-city-made-progress-potential-e100m-deal/",
+  "fee": "€100M",
+  "published": "2026-07-18T06:55:00+00:00"
+ },
+ {
   "id": "520a2a4cd6e0",
   "title": "Arsenal “engaging in club to club talks” over potential big-money transfer for “incredible” forward",
   "title_ko": "아스날은 \"놀라운\" 포워드에 대한 잠재적인 큰 돈 이적에 대해 \"클럽 간 대화에 참여\"",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9980gjgn0xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-16T10:32:42+00:00"
- },
- {
-  "id": "809a78a97b23",
-  "title": "Juventus consider Lucumí offer as Muharemovic’s Leeds move boosts budget",
-  "title_ko": "유벤투스는 무하레모비치의 리즈 이적이 예산을 늘리면서 루쿠미 제안을 고려하고 있습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-lucumi-offer-muharemovic-leeds-boost/",
-  "fee": null,
-  "published": "2026-07-16T09:30:49+00:00"
  }
 ]
