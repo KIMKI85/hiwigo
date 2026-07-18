@@ -1,5 +1,17 @@
 [
  {
+  "id": "716273a6f496",
+  "title": "Spurs ready to “open formal talks” with defender after sudden change of heart over transfer",
+  "title_ko": "이적에 대한 갑작스런 마음의 변화 후 수비수와 \"공식 대화\"를 시작할 준비가 된 토트넘",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/spurs-change-heart-formal-talks-defender/",
+  "fee": null,
+  "published": "2026-07-18T11:12:59+00:00"
+ },
+ {
   "id": "7d1d0242711a",
   "title": "Spurs “closing in” on £60m deal for Premier League winger after personal terms agreed",
   "title_ko": "스퍼스는 개인 조건에 동의한 후 프리미어 리그 윙어에 대한 £60m 계약을 \"마감\"했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.kicker.de/koeln-talent-vor-leihe-fruehstarter-kristal-sucht-den-naechsten-schritt-1236685/artikel#omrss",
   "fee": null,
   "published": "2026-07-16T13:45:22+00:00"
- },
- {
-  "id": "f7de84169b03",
-  "title": "Arsenal strike £34million transfer agreement for Greek winger Christos Tzolis",
-  "title_ko": "아스날은 그리스 윙어 크리스토스 촐리스(Christos Tzolis)에게 3,400만 파운드의 이적 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-christos-tzolis-transfer-agreement-37440243",
-  "fee": "£34M",
-  "published": "2026-07-16T13:40:33+00:00"
  }
 ]
