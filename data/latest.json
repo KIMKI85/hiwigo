@@ -1,5 +1,17 @@
 [
  {
+  "id": "ff76ba57bc3b",
+  "title": "Sources: Chelsea still in talks to sign World Cup star but asking price “has risen”, Arsenal also in race",
+  "title_ko": "출처: 첼시는 여전히 월드컵 스타 영입을 위해 협상 중이지만 가격이 \"올랐습니다\", 아스널도 경쟁에 나섰습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/chelsea-arsenal-maxence-lacroix-transfer/",
+  "fee": null,
+  "published": "2026-07-18T07:59:51+00:00"
+ },
+ {
   "id": "67cadc4a10d6",
   "title": "From Germany: Man United & Newcastle interested in signing 22-year-old talent",
   "title_ko": "독일에서: 맨유와 뉴캐슬이 22세 유망주 영입에 관심을 갖고 있다",
@@ -1186,17 +1198,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-zinedine-zidane-aubameyang-icardi-les-5-infos-mercato-du-16-juillet-a-13h_VN-202607160413.html",
   "fee": null,
   "published": "2026-07-16T11:00:49+00:00"
- },
- {
-  "id": "e1fe0b16f5a6",
-  "title": "Romano issues seismic Marcus Rashford update regarding potential move away",
-  "title_ko": "Romano는 잠재적인 이적에 관해 Marcus Rashford의 엄청난 업데이트를 발표했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/romano-issues-seismic-marcus-rashford-update/",
-  "fee": null,
-  "published": "2026-07-16T10:45:12+00:00"
  }
 ]
