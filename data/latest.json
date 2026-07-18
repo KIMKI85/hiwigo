@@ -1,5 +1,17 @@
 [
  {
+  "id": "d0faacc5a95b",
+  "title": "“Here we go” for Arsenal to sign Tottenham defender, says Fabrizio Romano in morning update",
+  "title_ko": "아침 업데이트에서 파브리치오 로마노는 아스날이 토트넘 수비수를 영입하기 위해 \"여기 있습니다\"라고 말했습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/arsenal-transfer-elijah-upson-here-we-go-romano/",
+  "fee": null,
+  "published": "2026-07-18T07:16:22+00:00"
+ },
+ {
   "id": "4ffe5c26fe1a",
   "title": "Manchester City have “made progress” on potential €100m transfer after latest round of talks",
   "title_ko": "맨체스터 시티는 최근 협상 이후 잠재적인 €100m 이적에 대해 \"진행\"했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/man-united-line-winger-deal-future-of-rashford/",
   "fee": "£30M",
   "published": "2026-07-16T10:37:51+00:00"
- },
- {
-  "id": "3a7e59ebba03",
-  "title": "Newcastle sign Scotland defender McLauchlan",
-  "title_ko": "뉴캐슬, 스코틀랜드 수비수 맥라우클란 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9980gjgn0xo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-16T10:32:42+00:00"
  }
 ]
