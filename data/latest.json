@@ -1,5 +1,17 @@
 [
  {
+  "id": "afe02cf981a9",
+  "title": "Man Utd transfer news: Morgan Rogers details 'under wraps' as £40m clause expires",
+  "title_ko": "맨유 이적 소식: 모건 로저스, £40m 조항 만료로 '숨겨진' 내용",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-morgan-rogers-clause-37444747",
+  "fee": "£40M",
+  "published": "2026-07-18T03:30:00+00:00"
+ },
+ {
   "id": "c108ffed3a76",
   "title": "Arsenal news: Mikel Arteta gets transfer green light for £150m double raid as medical booked",
   "title_ko": "아스날 뉴스: 미켈 아르테타(Mikel Arteta)가 메디컬 예약으로 £150m 더블 레이드에 대한 이적 승인을 받았습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/report-vojvoda-on-verge-of-udinese-move-como/",
   "fee": null,
   "published": "2026-07-15T19:48:08+00:00"
- },
- {
-  "id": "21d216d77377",
-  "title": "Man Utd target Summerville - Thursday's gossip",
-  "title_ko": "맨유는 서머빌을 노린다 - 목요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1mymdm2rp8o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-15T18:53:17+00:00"
  }
 ]
