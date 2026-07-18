@@ -1,5 +1,17 @@
 [
  {
+  "id": "ec885352b993",
+  "title": "West Ham accelerate move for exciting 20-year-old defender in summer overhaul",
+  "title_ko": "웨스트햄, 여름 점검을 통해 흥미진진한 20세 수비수 영입 가속화",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/west-ham-accelerate-move-for-exciting-20-year-old-defender-in-summer-overhaul/",
+  "fee": null,
+  "published": "2026-07-18T20:00:22+00:00"
+ },
+ {
   "id": "8d2d9d2077af",
   "title": "'Statement of intent!' | How Chelsea agreed HUGE £117m deal for Rogers!",
   "title_ko": "'의향서!' | 첼시가 로저스에게 1억 1700만 파운드라는 엄청난 딜을 합의한 방법!",
@@ -10,6 +22,18 @@
   "url": "https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers",
   "fee": "£117M",
   "published": "2026-07-18T19:31:00+00:00"
+ },
+ {
+  "id": "8580defdfb5b",
+  "title": "Manchester United start new signing Andrey Santos in pre-season loss to Wrexham",
+  "title_ko": "맨체스터 유나이티드는 프리시즌에서 렉섬에게 패한 안드레이 산토스와 새로운 계약을 시작했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/18/manchester-united-start-new-signing-andrey-santos-in-pre-season-loss-to-wrexham",
+  "fee": null,
+  "published": "2026-07-18T19:15:10+00:00"
  },
  {
   "id": "a7e8ab936c98",
