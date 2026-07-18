@@ -1,5 +1,17 @@
 [
  {
+  "id": "c108ffed3a76",
+  "title": "Arsenal news: Mikel Arteta gets transfer green light for £150m double raid as medical booked",
+  "title_ko": "아스날 뉴스: 미켈 아르테타(Mikel Arteta)가 메디컬 예약으로 £150m 더블 레이드에 대한 이적 승인을 받았습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-konsa-rogers-tzolis-37444694",
+  "fee": "£150M",
+  "published": "2026-07-18T03:00:00+00:00"
+ },
+ {
   "id": "766065ad547a",
   "title": "Done Deal: Oulai flies out for Fiorentina medical, €29m plus bonus from Trabzonspor",
   "title_ko": "거래 완료: 오울라이, 피오렌티나 메디컬로 이적, €29m + 트라브존스포르 보너스",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1mymdm2rp8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-15T18:53:17+00:00"
- },
- {
-  "id": "28b98c3f6972",
-  "title": "Arsenal forward Trossard joins Besiktas for £15.3m",
-  "title_ko": "아스날의 포워드 트로사드는 £15.3m에 베식타스에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
-  "fee": "£15.3M",
-  "published": "2026-07-15T17:50:52+00:00"
  }
 ]
