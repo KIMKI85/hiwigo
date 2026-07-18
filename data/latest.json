@@ -1,5 +1,17 @@
 [
  {
+  "id": "67cadc4a10d6",
+  "title": "From Germany: Man United & Newcastle interested in signing 22-year-old talent",
+  "title_ko": "독일에서: 맨유와 뉴캐슬이 22세 유망주 영입에 관심을 갖고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/hugo-larsson-transfer-man-united-newcastle/",
+  "fee": null,
+  "published": "2026-07-18T07:37:18+00:00"
+ },
+ {
   "id": "d0faacc5a95b",
   "title": "“Here we go” for Arsenal to sign Tottenham defender, says Fabrizio Romano in morning update",
   "title_ko": "아침 업데이트에서 파브리치오 로마노는 아스날이 토트넘 수비수를 영입하기 위해 \"여기 있습니다\"라고 말했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/romano-issues-seismic-marcus-rashford-update/",
   "fee": null,
   "published": "2026-07-16T10:45:12+00:00"
- },
- {
-  "id": "2f8ffcf1a2e7",
-  "title": "Man United line up £30m winger deal but it all depends on the future of Rashford",
-  "title_ko": "맨유는 3000만 파운드의 윙어 딜을 준비했지만 모든 것은 래쉬포드의 미래에 달려 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/man-united-line-winger-deal-future-of-rashford/",
-  "fee": "£30M",
-  "published": "2026-07-16T10:37:51+00:00"
  }
 ]
