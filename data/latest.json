@@ -1,5 +1,17 @@
 [
  {
+  "id": "067ff39fb043",
+  "title": "Benfica agree deal for former Premier League striker who is ready for fresh start",
+  "title_ko": "벤피카는 새로운 출발을 준비하는 전 프리미어리그 스트라이커와의 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/benfica-deal-former-premier-league-striker/",
+  "fee": null,
+  "published": "2026-07-18T05:45:00+00:00"
+ },
+ {
   "id": "670373e58f9d",
   "title": "Newcastle see “writing on the wall” over £90m transfer of key midfielder",
   "title_ko": "뉴캐슬은 핵심 미드필더의 £90m 이적에 대해 \"벽에 쓴 글\"을 봅니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cnv9vnv4z4go?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-16T08:40:06+00:00"
- },
- {
-  "id": "21925418cc9a",
-  "title": "Atalanta edge closer to Alajbegovic with new €25m plus bonus bid",
-  "title_ko": "아탈란타는 새로운 2,500만 유로에 보너스를 더해 알라이베고비치에 더 가까워졌습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/atalanta-edge-closer-to-alajbegovic-new-e25m/",
-  "fee": "€25M",
-  "published": "2026-07-15T20:17:42+00:00"
  }
 ]
