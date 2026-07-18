@@ -1,5 +1,29 @@
 [
  {
+  "id": "a7e8ab936c98",
+  "title": "Chelsea agree British record £117m deal for Villa's Rogers",
+  "title_ko": "첼시는 빌라의 로저스와 영국 기록인 1억 1700만 파운드 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-have-british-record-117m-bid-accepted-for-aston-villa-forward-and-arsenals-no-1-target",
+  "fee": "£117M",
+  "published": "2026-07-18T19:10:00+00:00"
+ },
+ {
+  "id": "c827fdc316bc",
+  "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
+  "title_ko": "첼시는 기록적인 £117m 계약으로 아스톤 빌라의 모건 로저스를 영입할 준비가 되어 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
+  "fee": "£117M",
+  "published": "2026-07-18T18:10:33+00:00"
+ },
+ {
   "id": "295dbfb343bb",
   "title": "Chelsea agree record £117m deal for Villa midfielder Rogers",
   "title_ko": "첼시는 빌라 미드필더 로저스의 이적료로 £117m에 합의했습니다.",
@@ -1174,29 +1198,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/16/oliver-glasner-says-marinakis-ambition-convinced-him-to-take-nottingham-forest-job",
   "fee": null,
   "published": "2026-07-16T17:03:33+00:00"
- },
- {
-  "id": "298072165f56",
-  "title": "Manchester United make fresh contact to sign 28-year-old Premier League powerhouse",
-  "title_ko": "맨체스터 유나이티드가 28세의 프리미어 리그 강팀과 계약하기 위해 새로운 접촉을 했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/manchester-united-make-fresh-contact-to-sign-28-year-old-premier-league-powerhouse/",
-  "fee": null,
-  "published": "2026-07-16T17:00:42+00:00"
- },
- {
-  "id": "dcc169c11470",
-  "title": "Udinese striker Davis urges Zaniolo return amid contract stand-off",
-  "title_ko": "우디네세의 스트라이커 데이비스는 계약 대립 속에서 자니올로의 복귀를 촉구했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/udinese-striker-davis-urges-zaniolo-return/",
-  "fee": null,
-  "published": "2026-07-16T16:36:33+00:00"
  }
 ]
