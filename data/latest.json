@@ -1,5 +1,17 @@
 [
  {
+  "id": "8e76cd940181",
+  "title": "Roma plot transfer revenge on Juventus and Massara",
+  "title_ko": "유벤투스와 마사라에 대한 로마의 이적 복수 계획",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-plot-transfer-revenge-juventus-massara/",
+  "fee": null,
+  "published": "2026-07-18T11:51:00+00:00"
+ },
+ {
   "id": "716273a6f496",
   "title": "Spurs ready to “open formal talks” with defender after sudden change of heart over transfer",
   "title_ko": "이적에 대한 갑작스런 마음의 변화 후 수비수와 \"공식 대화\"를 시작할 준비가 된 토트넘",
@@ -1186,17 +1198,5 @@
   "url": "https://www.caughtoffside.com/2026/07/16/chelsea-launch-move-to-hijack-manchester-uniteds-50m-target/",
   "fee": "£50M",
   "published": "2026-07-16T14:00:54+00:00"
- },
- {
-  "id": "31af2c4462b6",
-  "title": "Köln-Talent vor Leihe: Frühstarter Kristal sucht den nächsten Schritt",
-  "title_ko": "임대 전 쾰른의 재능: 초기 선발 크리스탈은 다음 단계를 찾고 있습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/koeln-talent-vor-leihe-fruehstarter-kristal-sucht-den-naechsten-schritt-1236685/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-16T13:45:22+00:00"
  }
 ]
