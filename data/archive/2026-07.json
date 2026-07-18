@@ -1,5 +1,29 @@
 [
  {
+  "id": "7d1d0242711a",
+  "title": "Spurs “closing in” on £60m deal for Premier League winger after personal terms agreed",
+  "title_ko": "스퍼스는 개인 조건에 동의한 후 프리미어 리그 윙어에 대한 £60m 계약을 \"마감\"했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/spurs-closing-in-on-60m-deal-for-premier-league-winger/",
+  "fee": "£60M",
+  "published": "2026-07-18T11:00:16+00:00"
+ },
+ {
+  "id": "93d7c0193a7c",
+  "title": "Hojbjerg, Salah, Spence... Les 5 infos mercato du 18 juillet à la mi-journée",
+  "title_ko": "호이비에르, 살라, 스펜스... 7월 18일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-hojbjerg-salah-spence-les-5-infos-mercato-du-18-juillet-a-la-mi-journee_VN-202607180200.html",
+  "fee": null,
+  "published": "2026-07-18T10:53:08+00:00"
+ },
+ {
   "id": "0d7690d43fbe",
   "title": "Yildiz reacts to Muharemovic’s Leeds move as defender sends message to Sassuolo",
   "title_ko": "Yildiz는 수비수가 Sassuolo에게 메시지를 보내면서 Muharemovic의 Leeds 움직임에 반응합니다.",

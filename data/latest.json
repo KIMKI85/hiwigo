@@ -1,5 +1,29 @@
 [
  {
+  "id": "7d1d0242711a",
+  "title": "Spurs “closing in” on £60m deal for Premier League winger after personal terms agreed",
+  "title_ko": "스퍼스는 개인 조건에 동의한 후 프리미어 리그 윙어에 대한 £60m 계약을 \"마감\"했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/spurs-closing-in-on-60m-deal-for-premier-league-winger/",
+  "fee": "£60M",
+  "published": "2026-07-18T11:00:16+00:00"
+ },
+ {
+  "id": "93d7c0193a7c",
+  "title": "Hojbjerg, Salah, Spence... Les 5 infos mercato du 18 juillet à la mi-journée",
+  "title_ko": "호이비에르, 살라, 스펜스... 7월 18일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-hojbjerg-salah-spence-les-5-infos-mercato-du-18-juillet-a-la-mi-journee_VN-202607180200.html",
+  "fee": null,
+  "published": "2026-07-18T10:53:08+00:00"
+ },
+ {
   "id": "0d7690d43fbe",
   "title": "Yildiz reacts to Muharemovic’s Leeds move as defender sends message to Sassuolo",
   "title_ko": "Yildiz는 수비수가 Sassuolo에게 메시지를 보내면서 Muharemovic의 Leeds 움직임에 반응합니다.",
@@ -1174,29 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-christos-tzolis-transfer-agreement-37440243",
   "fee": "£34M",
   "published": "2026-07-16T13:40:33+00:00"
- },
- {
-  "id": "35388c5f3730",
-  "title": "DIRECT. Mercato: Arsenal boucle un ailier grec pour 40 millions d'euros",
-  "title_ko": "직접. 메르카토: 아스날은 그리스 윙어를 4천만 유로에 봉인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-16-juillet-2026_LN-202607160332.html",
-  "fee": null,
-  "published": "2026-07-16T13:39:37+00:00"
- },
- {
-  "id": "c323961513e8",
-  "title": "Liverpool identify £130m-rated Brazilian sensation as key attacking target",
-  "title_ko": "리버풀은 £130m 평가의 브라질 센세이션을 핵심 공격 목표로 확인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/16/liverpool-identify-130m-rated-brazilian-sensation-as-key-attacking-target/",
-  "fee": "£130M",
-  "published": "2026-07-16T13:30:23+00:00"
  }
 ]
