@@ -1,5 +1,17 @@
 [
  {
+  "id": "670373e58f9d",
+  "title": "Newcastle see “writing on the wall” over £90m transfer of key midfielder",
+  "title_ko": "뉴캐슬은 핵심 미드필더의 £90m 이적에 대해 \"벽에 쓴 글\"을 봅니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/bruno-midfielder-writing-on-the-wall-90m/",
+  "fee": "£90M",
+  "published": "2026-07-18T05:20:00+00:00"
+ },
+ {
   "id": "afe02cf981a9",
   "title": "Man Utd transfer news: Morgan Rogers details 'under wraps' as £40m clause expires",
   "title_ko": "맨유 이적 소식: 모건 로저스, £40m 조항 만료로 '숨겨진' 내용",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/atalanta-edge-closer-to-alajbegovic-new-e25m/",
   "fee": "€25M",
   "published": "2026-07-15T20:17:42+00:00"
- },
- {
-  "id": "ff6fe823e927",
-  "title": "Report Vojvoda on verge of Udinese move after Como accept offer",
-  "title_ko": "Como가 제안을 수락한 후 Vojvoda가 우디네세 이적 직전에 보고함",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-vojvoda-on-verge-of-udinese-move-como/",
-  "fee": null,
-  "published": "2026-07-15T19:48:08+00:00"
  }
 ]
