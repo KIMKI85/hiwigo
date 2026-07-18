@@ -12,6 +12,18 @@
   "published": "2026-07-18T19:31:00+00:00"
  },
  {
+  "id": "7234bbba7299",
+  "title": "Chelsea agree record £117m deal for Villa's Rogers",
+  "title_ko": "첼시는 빌라의 로저스에 대한 기록적인 £117m 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
+  "fee": "£117M",
+  "published": "2026-07-18T19:10:00+00:00"
+ },
+ {
   "id": "a7e8ab936c98",
   "title": "Chelsea agree British record £117m deal for Villa's Rogers",
   "title_ko": "첼시는 빌라의 로저스와 영국 기록인 1억 1700만 파운드 계약에 동의했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/mancini-signs-new-roma-deal-the-details/",
   "fee": null,
   "published": "2026-07-16T18:00:00+00:00"
- },
- {
-  "id": "98b5e5356465",
-  "title": "Andoni Iraola gets major boost as 'future Liverpool captain' agrees new contract",
-  "title_ko": "안도니 이라올라는 '미래 리버풀 주장'이 새로운 계약에 동의하면서 큰 힘을 얻습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-szoboszlai-contract-37441546",
-  "fee": null,
-  "published": "2026-07-16T17:51:19+00:00"
  }
 ]
