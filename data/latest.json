@@ -1,5 +1,17 @@
 [
  {
+  "id": "3c0adde4892d",
+  "title": "Bid rejected: Tottenham not playing ball in transfer deal that could help Arsenal",
+  "title_ko": "입찰 거부됨: 토트넘은 아스날에 도움이 될 수 있는 이적 거래에서 공을 던지지 않습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/18/tottenham-reject-lucas-bergvall-transfer-bid-from-newcastle/",
+  "fee": null,
+  "published": "2026-07-18T06:01:47+00:00"
+ },
+ {
   "id": "067ff39fb043",
   "title": "Benfica agree deal for former Premier League striker who is ready for fresh start",
   "title_ko": "벤피카는 새로운 출발을 준비하는 전 프리미어리그 스트라이커와의 계약에 합의했습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://football-italia.net/spence-keen-inter-move-tottenham-open-sale/",
   "fee": null,
   "published": "2026-07-16T09:07:22+00:00"
- },
- {
-  "id": "b2dd09a5cf08",
-  "title": "Rangers agree deal for Partizan's Dragojevic - gossip",
-  "title_ko": "레인저스는 Partizan의 Dragojevic에 대한 거래에 동의했습니다 - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cnv9vnv4z4go?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-16T08:40:06+00:00"
  }
 ]
