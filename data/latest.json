@@ -1,5 +1,18 @@
 [
  {
+  "id": "86e6da67ecb2",
+  "title": "Inter prepare for Tottenham talks over Spence transfer",
+  "player": null,
+  "title_ko": "인테르는 스펜스 이적을 두고 토트넘과 대화를 준비한다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-prepare-tottenham-talks-spence-transfer/",
+  "fee": null,
+  "published": "2026-07-19T11:12:38+00:00"
+ },
+ {
   "id": "e2d066096cae",
   "title": "Rogers, Alvarez, Summerville... Les 5 infos mercato du 19 juillet à la mi-journée",
   "player": "Morgan Rogers",
@@ -1197,17 +1210,5 @@
   "url": "https://www.caughtoffside.com/2026/07/17/dominik-szoboszlai-signed-liverpool-contract-today-says-romano/",
   "fee": null,
   "published": "2026-07-17T09:25:52+00:00"
- },
- {
-  "id": "abe19d3c29f3",
-  "title": "Arsenal expected to make approach for No 1 target Rogers",
-  "title_ko": "아스널은 1번 타깃인 로저스에게 접근할 것으로 예상된다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564260/morgan-rogers-transfer-news-arsenal-expected-to-make-approach-for-top-target-but-aston-villa-set-to-demand-over-100m",
-  "fee": null,
-  "published": "2026-07-17T09:21:00+00:00"
  }
 ]
