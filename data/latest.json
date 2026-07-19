@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a6360f7c1f7",
+  "title": "Juventus urged to sign one specific player after first summer friendly",
+  "player": null,
+  "title_ko": "유벤투스는 첫 여름 친선경기 이후 특정 선수 한 명과 계약할 것을 촉구했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-urged-sign-1-player-summer-friendly/",
+  "fee": null,
+  "published": "2026-07-19T12:06:00+00:00"
+ },
+ {
   "id": "42719ea78edc",
   "title": "Roma give West Ham deadline over Summerville deal with fee revealed",
   "player": "Matteo Moretto",
@@ -1199,17 +1212,5 @@
   "url": "https://www.caughtoffside.com/2026/07/17/michael-olise-transfer-christian-falk/",
   "fee": null,
   "published": "2026-07-17T09:52:14+00:00"
- },
- {
-  "id": "b365143f973d",
-  "title": "Defender Cascarino joins West Ham in permanent deal",
-  "title_ko": "수비수 카스카리노가 웨스트햄에 영구 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5yzye502vko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T09:30:47+00:00"
  }
 ]
