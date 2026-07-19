@@ -13,6 +13,19 @@
   "published": "2026-07-19T17:14:05+00:00"
  },
  {
+  "id": "14e5ff73c702",
+  "title": "Chelsea plot move for €35m-rated creator with 29 goal contributions",
+  "player": "Konstantinos Karetsas",
+  "title_ko": "Chelsea는 29골 기여로 €35m 등급 크리에이터를 위한 계획을 세웠습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/chelsea-plot-move-for-e35m-rated-creator-with-29-goal-contributions/",
+  "fee": "€35M",
+  "published": "2026-07-19T17:10:58+00:00"
+ },
+ {
   "id": "5d885d853f63",
   "title": "Juventus considering Ekhator loan to Parma and Owusu promotion",
   "player": "Jeff Ekhator",
@@ -1210,17 +1223,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-man-utd-37444235",
   "fee": null,
   "published": "2026-07-17T12:03:53+00:00"
- },
- {
-  "id": "30d7eb3e1912",
-  "title": "Juventus’ slow rebuild – Celik signed, what happens now?",
-  "title_ko": "유벤투스의 느린 리빌딩 – 셀릭 영입, 이제 어떻게 될까요?",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-slow-rebuild-celik-signed-what-now/",
-  "fee": null,
-  "published": "2026-07-17T11:37:26+00:00"
  }
 ]
