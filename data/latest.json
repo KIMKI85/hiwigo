@@ -1,5 +1,18 @@
 [
  {
+  "id": "a08d4f54ade8",
+  "title": "LIVE! Hoeneß wechselt zur Pause komplett durch - auch Jovanovic trifft doppelt",
+  "player": "Gegen den Oberligisten",
+  "title_ko": "살다! 회네스는 휴식 시간에 완전히 변화합니다 - 요바노비치도 두 골을 넣습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker (DE)",
+  "url": "https://www.kicker.de/tsg-balingen-gegen-stuttgart-2026-vereine-freundschaftsspiele-5203440/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-07-19T14:01:59+00:00"
+ },
+ {
   "id": "85c719b69de7",
   "title": "Arsenal 'complete Tottenham transfer swoop' despite Morgan Rogers blow as player rejects rivals",
   "player": "Morgan Rogers",
@@ -1203,17 +1216,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-bouaddi-pagis-oyarzabal-les-5-infos-mercato-du-17-juillet-a-12h_VN-202607170403.html",
   "fee": null,
   "published": "2026-07-17T10:04:35+00:00"
- },
- {
-  "id": "337039d8427d",
-  "title": "Aston Villa sign defender Harviken from Juventus",
-  "title_ko": "Aston Villa는 유벤투스의 수비수 Harviken을 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T10:00:16+00:00"
  }
 ]
