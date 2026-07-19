@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ca0474137b9",
+  "title": "Ibrahimovic warning after Rogers move to Chelsea: ‘Not every player worth £100m’",
+  "player": "Zlatan Ibrahimovic",
+  "title_ko": "로저스 첼시 이적 후 이브라히모비치 경고: '모든 선수가 £100m 가치가 있는 것은 아니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ibrahimovic-rogers-chelsea-not-worth-100m/",
+  "fee": "£100M",
+  "published": "2026-07-19T15:13:22+00:00"
+ },
+ {
   "id": "85639eb9d4cb",
   "title": "Potential Milinkovic-Savic swap with Vicario between Napoli and Tottenham",
   "player": "Potential Milinkovic-",
@@ -1206,17 +1219,5 @@
   "url": "https://www.skysports.com/football/news/12040/13556620/morgan-rogers-transfer-news-why-arsenal-have-made-aston-villa-star-their-top-forward-target-this-summer",
   "fee": null,
   "published": "2026-07-17T10:28:00+00:00"
- },
- {
-  "id": "f4c67b400cc8",
-  "title": "What happened at Man City's loans exhibition day?",
-  "title_ko": "맨시티 임대전시회날 무슨 일이 일어났나?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T10:16:57+00:00"
  }
 ]
