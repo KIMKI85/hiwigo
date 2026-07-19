@@ -1,5 +1,18 @@
 [
  {
+  "id": "5e1673b99c63",
+  "title": "Arsenal line up Stones free transfer - Monday's gossip",
+  "player": "John Stones",
+  "title_ko": "아스날 라인업 스톤즈 무료 이적 - 월요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-19T20:48:37+00:00"
+ },
+ {
   "id": "9f682f876c3c",
   "title": "Report: Arsenal plotting surprise move for Premier League winner after Saliba injury",
   "player": "John Stones",
@@ -1217,17 +1230,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-mise-au-point-du-patron-de-l-atletico-de-madrid-sur-julian-alvarez_AN-202607170528.html",
   "fee": null,
   "published": "2026-07-17T14:03:41+00:00"
- },
- {
-  "id": "5f7984d19530",
-  "title": "Liverpool midfielder Szoboszlai signs new five-year deal",
-  "title_ko": "리버풀의 미드필더 소보슬라이(Szoboszlai)가 새로운 5년 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T14:03:30+00:00"
  }
 ]
