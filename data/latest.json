@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f682f876c3c",
+  "title": "Report: Arsenal plotting surprise move for Premier League winner after Saliba injury",
+  "player": "John Stones",
+  "title_ko": "보고서: 아스날은 살리바 부상 이후 프리미어 리그 우승팀의 깜짝 이적을 계획하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/arsenal-john-stones-transfer-free-agent-william-saliba-injury/",
+  "fee": null,
+  "published": "2026-07-19T20:07:11+00:00"
+ },
+ {
   "id": "6809758f8760",
   "title": "Manchester United explore £10m deal for highly-rated defensive talent",
   "player": "Ben Nelson",
@@ -1216,17 +1229,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-17T14:03:30+00:00"
- },
- {
-  "id": "42da481b1a28",
-  "title": "Noch zwei Spiele für die Hearts: Schwolow wechselt nach Mainz",
-  "title_ko": "Hearts를 위한 두 개의 게임이 더 있습니다: Schwolow가 마인츠로 이동합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/noch-zwei-spiele-fuer-die-hearts-schwolow-wechselt-nach-mainz-1236906/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-17T13:41:59+00:00"
  }
 ]
