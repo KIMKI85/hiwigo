@@ -1,5 +1,17 @@
 [
  {
+  "id": "573759bdc1fa",
+  "title": "Liverpool news: Double transfer demand received in £100m snub as rivals beaten to signing",
+  "title_ko": "리버풀 뉴스: 라이벌이 계약에서 패배하면서 £100m의 이중 이적 요구가 접수되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-signings-targets-37447706",
+  "fee": "£100M",
+  "published": "2026-07-19T04:00:00+00:00"
+ },
+ {
   "id": "2b1d1b3a07e8",
   "title": "Man Utd news: Final decision made on £38million transfer as exit agreement nears",
   "title_ko": "맨유 뉴스: 이탈 합의가 가까워짐에 따라 £38m 이적에 대한 최종 결정이 내려졌습니다.",
@@ -1186,17 +1198,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-summer-transfer-mikel-arteta-37435443",
   "fee": "£88M",
   "published": "2026-07-17T04:30:00+00:00"
- },
- {
-  "id": "abb13a1689aa",
-  "title": "Liverpool transfer news: Mohamed Salah's future addressed as star decides on new club",
-  "title_ko": "리버풀 이적 소식: 스타가 새 클럽을 결정함에 따라 모하메드 살라의 미래가 언급됨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-next-club-37440233",
-  "fee": null,
-  "published": "2026-07-17T04:00:00+00:00"
  }
 ]
