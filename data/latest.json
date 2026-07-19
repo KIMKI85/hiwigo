@@ -1,5 +1,18 @@
 [
  {
+  "id": "6809758f8760",
+  "title": "Manchester United explore £10m deal for highly-rated defensive talent",
+  "player": "Ben Nelson",
+  "title_ko": "맨체스터 유나이티드는 높은 평가를 받는 수비 재능을 위한 £10m 계약을 모색합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/manchester-united-explore-10m-deal-for-highly-rated-defensive-talent/",
+  "fee": "£10M",
+  "published": "2026-07-19T18:45:12+00:00"
+ },
+ {
   "id": "daca0758975d",
   "title": "Liverpool submit opening bid for 39 goal, 37 assist Salah replacement as talks begin – report",
   "player": "Bradley Barcola",
@@ -1215,17 +1228,5 @@
   "url": "https://www.kicker.de/noch-zwei-spiele-fuer-die-hearts-schwolow-wechselt-nach-mainz-1236906/artikel#omrss",
   "fee": null,
   "published": "2026-07-17T13:41:59+00:00"
- },
- {
-  "id": "0de54d48c9ab",
-  "title": "Bid prepared: Arsenal step up interest in signing England star – not Morgan Rogers",
-  "title_ko": "입찰 준비됨: 아스날은 모건 로저스가 아닌 잉글랜드 스타 영입에 대한 관심을 높였습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/arsenal-prepare-ezri-konsa-transfer-bid/",
-  "fee": null,
-  "published": "2026-07-17T13:35:59+00:00"
  }
 ]
