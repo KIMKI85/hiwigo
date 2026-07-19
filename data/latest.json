@@ -1,5 +1,31 @@
 [
  {
+  "id": "bbc18300846f",
+  "title": "Just in: Man United explore Premier League full-back deal as defensive search intensifies",
+  "player": "Michael Carrick",
+  "title_ko": "Just in: 맨유는 수비 검색이 강화됨에 따라 프리미어리그 풀백 계약을 모색합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/just-in-man-united-premier-league-full-back-deal/",
+  "fee": null,
+  "published": "2026-07-19T09:55:53+00:00"
+ },
+ {
+  "id": "f3ba90825a07",
+  "title": "TSG-Flop Orban vor Wechsel in die Türkei",
+  "player": "Flop Orban",
+  "title_ko": "TSG는 터키로 이적하기 전에 Orban을 실패했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker (DE)",
+  "url": "https://www.kicker.de/tsg-flop-orban-vor-wechsel-in-die-tuerkei-1237198/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-19T09:50:12+00:00"
+ },
+ {
   "id": "45e7f634077e",
   "title": "Tottenham open door to transfer of player who impressed highly at the World Cup",
   "player": "Roberto De Zerbi",
@@ -1181,29 +1207,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cjwx3wjg1v5o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-17T09:00:09+00:00"
- },
- {
-  "id": "66bc145aeb5f",
-  "title": "Sources: Arsenal set to “intensify” transfer mission due to “real concern” emerging…",
-  "title_ko": "출처: 아스날은 \"진정한 우려\"가 떠오르면서 이적 임무를 \"강화\"할 예정입니다...",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/arsenal-konsa-transfer-saliba-injury/",
-  "fee": null,
-  "published": "2026-07-17T08:46:27+00:00"
- },
- {
-  "id": "b52f6a874e2b",
-  "title": "Andoni Iraola drops interesting hint about Liverpool winger signing",
-  "title_ko": "안도니 이라올라(Andoni Iraola)가 리버풀 윙어 영입에 대한 흥미로운 힌트를 던졌습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/andoni-iraola-on-liverpool-winger-target/",
-  "fee": null,
-  "published": "2026-07-17T08:08:56+00:00"
  }
 ]
