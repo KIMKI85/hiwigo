@@ -1,5 +1,18 @@
 [
  {
+  "id": "9528783c017d",
+  "title": "Report Zaniolo closer to Udinese agreement on new contract",
+  "player": "Nicolò Zaniolo",
+  "title_ko": "Zaniolo가 새로운 계약에 대한 우디네세의 합의에 가까워졌다고 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-zaniolo-closer-to-udinese-agreement/",
+  "fee": null,
+  "published": "2026-07-19T14:22:27+00:00"
+ },
+ {
   "id": "a08d4f54ade8",
   "title": "LIVE! Hoeneß wechselt zur Pause komplett durch - auch Jovanovic trifft doppelt",
   "player": "Gegen den Oberligisten",
@@ -1204,17 +1217,5 @@
   "url": "https://football-italia.net/roma-forced-to-rethink-transfer-plans/",
   "fee": null,
   "published": "2026-07-17T10:14:00+00:00"
- },
- {
-  "id": "24919f9831b6",
-  "title": "Bouaddi, Pagis, Oyarzabal… Les 5 infos mercato du 17 juillet à 12h !",
-  "title_ko": "부아디, 파기스, 오야르자발... 7월 17일 낮 12시 5대 시장뉴스!",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-bouaddi-pagis-oyarzabal-les-5-infos-mercato-du-17-juillet-a-12h_VN-202607170403.html",
-  "fee": null,
-  "published": "2026-07-17T10:04:35+00:00"
  }
 ]
