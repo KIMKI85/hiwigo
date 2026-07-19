@@ -1,5 +1,18 @@
 [
  {
+  "id": "b2907e776b8c",
+  "title": "“Keep a close eye…”: Romano drops major Arsenal transfer update on elite attacker",
+  "player": "Julian Alvarez",
+  "title_ko": "\"계속 주시하세요…\": Romano는 엘리트 공격수에 대한 주요 아스날 이적 업데이트를 삭제합니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/keep-a-close-eye-romano-drops-major-arsenal-transfer-update-on-elite-attacker/",
+  "fee": null,
+  "published": "2026-07-19T18:00:39+00:00"
+ },
+ {
   "id": "453f10f40fbf",
   "title": "Roma ready to pay Summerville release clause from West Ham, but is it €53m?",
   "player": "Crysencio Summerville",
@@ -1213,17 +1226,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/sudden-christos-tzolis-transfer-decision-37444574",
   "fee": null,
   "published": "2026-07-17T13:23:42+00:00"
- },
- {
-  "id": "a318292c45df",
-  "title": "Norton-Cuffy targeted by Everton, Arsenal to get cut of €20m deal from Genoa",
-  "title_ko": "노튼-커피는 에버턴과 아스날이 제노아로부터 2천만 유로의 계약을 삭감할 것을 노리고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/norton-cuffy-targeted-by-everton-arsenal-genoa/",
-  "fee": "€20M",
-  "published": "2026-07-17T13:02:55+00:00"
  }
 ]
