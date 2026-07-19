@@ -1,5 +1,31 @@
 [
  {
+  "id": "7cfd24646ace",
+  "title": "Report: Tottenham transfer plan takes shape as £50m sale becomes possible",
+  "player": "Roberto De Zerbi",
+  "title_ko": "보고서: £50m 판매가 가능해지면서 토트넘 이적 계획이 구체화되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/report-tottenham-transfer-plan-takes-shape-sale-possible/",
+  "fee": "£50M",
+  "published": "2026-07-19T08:09:32+00:00"
+ },
+ {
+  "id": "bfe6618e5f5f",
+  "title": "Transfer news LIVE: Chelsea medical, £39m bid for Man Utd target, Diomande hijack",
+  "player": "Morgan Rogers",
+  "title_ko": "이적 소식 LIVE: 첼시 메디컬, 맨유 타깃에 대한 £39m 입찰, 디오만데 하이재킹",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37449281",
+  "fee": "£39M",
+  "published": "2026-07-19T08:06:30+00:00"
+ },
+ {
   "id": "19d49bcf44d1",
   "title": "Club with positive relationship with Man City hoping to pull off dream Foden signing",
   "player": null,
