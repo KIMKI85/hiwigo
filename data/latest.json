@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee7b0d705d3f",
+  "title": "Sources: Liverpool make ‘concrete plan’ to sign left-back likely to cost between €40-€50m",
+  "player": null,
+  "title_ko": "출처: 리버풀은 €40-€50m의 비용이 들 것으로 예상되는 레프트백 영입을 위한 '구체적인 계획'을 세웠습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/sources-liverpool-concrete-plan-sign-left-back/",
+  "fee": "€50M",
+  "published": "2026-07-19T06:15:41+00:00"
+ },
+ {
   "id": "db89c98245db",
   "title": "Arsenal still not in contact to sign alternative target after losing Rogers to Chelsea",
   "player": "Morgan Rogers",
@@ -1188,17 +1201,5 @@
   "url": "https://www.caughtoffside.com/2026/07/17/morgan-rogers-arsenal-transfer-romano/",
   "fee": null,
   "published": "2026-07-17T06:24:07+00:00"
- },
- {
-  "id": "18ebb05da053",
-  "title": "From Italy: Club working on signing €90m Tottenham duo in ambitious double raid",
-  "title_ko": "이탈리아에서: 클럽은 야심찬 더블 레이드를 통해 €90m의 토트넘 듀오 영입을 위해 노력하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/tottenham-duo-romero-and-spence-eyed-for-inter-transfers/",
-  "fee": "€90M",
-  "published": "2026-07-17T06:06:28+00:00"
  }
 ]
