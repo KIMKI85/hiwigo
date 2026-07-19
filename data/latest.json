@@ -1,5 +1,18 @@
 [
  {
+  "id": "45e7f634077e",
+  "title": "Tottenham open door to transfer of player who impressed highly at the World Cup",
+  "player": "Roberto De Zerbi",
+  "title_ko": "토트넘, 월드컵에서 좋은 인상을 남긴 선수 이적 가능성 열려",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "CaughtOffside",
+  "url": "https://www.caughtoffside.com/2026/07/19/tottenham-open-door-transfer-player-impressed-highly/",
+  "fee": null,
+  "published": "2026-07-19T09:08:01+00:00"
+ },
+ {
   "id": "7cfd24646ace",
   "title": "Report: Tottenham transfer plan takes shape as £50m sale becomes possible",
   "player": "Roberto De Zerbi",
@@ -1192,17 +1205,5 @@
   "url": "https://www.caughtoffside.com/2026/07/17/andoni-iraola-on-liverpool-winger-target/",
   "fee": null,
   "published": "2026-07-17T08:08:56+00:00"
- },
- {
-  "id": "06e6e2f7da4d",
-  "title": "Official: Celik joins Juventus until 2029 on free transfer from Roma, €1m agent fee",
-  "title_ko": "공식: 셀릭은 2029년까지 로마에서 무료 이적, 에이전트 수수료 €1m으로 유벤투스에 합류합니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-celik-joins-juventus-until-2029/",
-  "fee": "€1M",
-  "published": "2026-07-17T07:41:08+00:00"
  }
 ]
