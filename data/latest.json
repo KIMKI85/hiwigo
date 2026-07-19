@@ -1,5 +1,18 @@
 [
  {
+  "id": "e2d066096cae",
+  "title": "Rogers, Alvarez, Summerville... Les 5 infos mercato du 19 juillet à la mi-journée",
+  "player": "Morgan Rogers",
+  "title_ko": "로저스, 알바레즈, 서머빌... 7월 19일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-rogers-alvarez-summerville-les-5-infos-mercato-du-19-juillet-a-la-mi-journee_VN-202607190203.html",
+  "fee": null,
+  "published": "2026-07-19T10:34:05+00:00"
+ },
+ {
   "id": "bd2544b947f3",
   "title": "Morgan Rogers' three reasons for choosing £117m Chelsea transfer as Arsenal snubbed",
   "player": "Morgan Rogers",
@@ -1196,17 +1209,5 @@
   "url": "https://www.skysports.com/football/news/12040/13564260/morgan-rogers-transfer-news-arsenal-expected-to-make-approach-for-top-target-but-aston-villa-set-to-demand-over-100m",
   "fee": null,
   "published": "2026-07-17T09:21:00+00:00"
- },
- {
-  "id": "2aeebc74f4b4",
-  "title": "Gasperini furious after details of Roma’s Celik agreement revealed",
-  "title_ko": "가스페리니는 로마와 첼릭의 합의 내용이 공개되자 분노했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gasperini-furious-after-details-of-roma-celik/",
-  "fee": null,
-  "published": "2026-07-17T09:15:17+00:00"
  }
 ]
