@@ -1,5 +1,18 @@
 [
  {
+  "id": "a71deb81142f",
+  "title": "Arsenal eye shock transfer for England World Cup hero after Morgan Rogers snub",
+  "player": "England World",
+  "title_ko": "모건 로저스의 거절 이후 잉글랜드 월드컵 영웅에게 아스날의 충격 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-england-37450750",
+  "fee": null,
+  "published": "2026-07-19T17:14:05+00:00"
+ },
+ {
   "id": "5d885d853f63",
   "title": "Juventus considering Ekhator loan to Parma and Owusu promotion",
   "player": "Jeff Ekhator",
@@ -1209,17 +1222,5 @@
   "url": "https://football-italia.net/juventus-slow-rebuild-celik-signed-what-now/",
   "fee": null,
   "published": "2026-07-17T11:37:26+00:00"
- },
- {
-  "id": "008881264d90",
-  "title": "Report: Liverpool’s priority target now is just the player England were missing against Argentina",
-  "title_ko": "보고서: 이제 리버풀의 최우선 목표는 잉글랜드가 아르헨티나를 상대로 놓쳤던 바로 그 선수입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/liverpool-make-adam-wharton-top-transfer-target/",
-  "fee": null,
-  "published": "2026-07-17T11:00:11+00:00"
  }
 ]
