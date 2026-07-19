@@ -1,5 +1,18 @@
 [
  {
+  "id": "85c719b69de7",
+  "title": "Arsenal 'complete Tottenham transfer swoop' despite Morgan Rogers blow as player rejects rivals",
+  "player": "Morgan Rogers",
+  "title_ko": "선수가 라이벌을 거부하면서 모건 로저스가 타격을 입었음에도 불구하고 아스날은 '토트넘 이적을 완료'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/elijah-upson-arsenal-transfer-tottenham-37450072",
+  "fee": null,
+  "published": "2026-07-19T13:22:41+00:00"
+ },
+ {
   "id": "f81be550833c",
   "title": "Man Utd star makes transfer statement and confirms he wants exit - 'I am ready'",
   "player": "Radek Vitek's",
@@ -1202,17 +1215,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-17T10:00:16+00:00"
- },
- {
-  "id": "903c3e76978c",
-  "title": "Defender Esteve leaves Burnley to join RB Leipzig",
-  "title_ko": "수비수 에스테베는 번리를 떠나 RB 라이프치히로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T09:59:26+00:00"
  }
 ]
