@@ -1,5 +1,17 @@
 [
  {
+  "id": "2b1d1b3a07e8",
+  "title": "Man Utd news: Final decision made on £38million transfer as exit agreement nears",
+  "title_ko": "맨유 뉴스: 이탈 합의가 가까워짐에 따라 £38m 이적에 대한 최종 결정이 내려졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-summer-transfers-latest-37447428",
+  "fee": "£38M",
+  "published": "2026-07-19T03:30:00+00:00"
+ },
+ {
   "id": "96d8e49fed7a",
   "title": "Arsenal news: Shock Morgan Rogers blow as £34million transfer deadline passes",
   "title_ko": "아스날 뉴스: £34m 이적 마감일이 지나자 충격적인 모건 로저스가 타격을 입었습니다.",
