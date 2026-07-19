@@ -1,5 +1,18 @@
 [
  {
+  "id": "f81be550833c",
+  "title": "Man Utd star makes transfer statement and confirms he wants exit - 'I am ready'",
+  "player": "Radek Vitek's",
+  "title_ko": "맨유의 스타는 이적 성명을 발표하고 떠나고 싶다고 확인했다 - '나는 준비됐다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-radek-vitek-future-37449993",
+  "fee": null,
+  "published": "2026-07-19T13:08:45+00:00"
+ },
+ {
   "id": "b69a67bd66a1",
   "title": "Formal talks: Chelsea in contact to sign £55m centre-back appreciate by Arsenal",
   "player": null,
@@ -1201,17 +1214,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-17T09:59:26+00:00"
- },
- {
-  "id": "f83f83240c60",
-  "title": "How have missed targets affected Newcastle's summer rebuild?",
-  "title_ko": "놓친 목표가 뉴캐슬의 여름 재건에 어떤 영향을 미쳤습니까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c8626pzz96zo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T09:53:44+00:00"
  }
 ]
