@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-히위고 HWG — RSS 수집기 v3
+히위고 HWG — RSS 수집기 v4 (선수명 자동 추출 추가)
 v3 추가사항:
  1. 소스 확장: 6개 → 13개 (독일·프랑스·이탈리아·스페인 현지 매체 + 영어권 루머 전문지)
  2. 다국어 이적 키워드 (Wechsel/transfert/colpo/fichaje 등)
@@ -111,6 +111,59 @@ STATUS_RULES = [
 FEE_RE = re.compile(r"[€£$]\s?(\d+(?:\.\d+)?)\s?(m|mln|million|millionen|millones|bn)", re.I)
 
 
+# ── 선수명 추출 ──────────────────────────────────────────────
+# 대문자로 시작하는 2~3단어 인명 후보를 찾고, 클럽명·헤드라인 상용어를 제외
+_NAME_RE = re.compile(r"\b([A-ZÀ-Þ][a-zà-ÿ'\-]+(?:\s(?:van|von|de|di|da|den|der|el|al)\s?)?(?:\s[A-ZÀ-Þ][a-zà-ÿ'\-]+){1,2})\b")
+
+def _build_exclude():
+    words = set()
+    for clubs in LEAGUE_CLUBS.values():
+        for c in clubs:
+            words.update(c.split())
+    words.update("""
+        transfer transfers news live update updates official here we go done deal deals
+        premier league champions europa cup city united town athletic club real sporting
+        january june july august summer winter window deadline day exclusive report
+        breaking rumour rumours gossip exit move loan bid fee medical talks agreement
+        contract statement confirmed signing signs manager boss coach mercato fichajes
+        saturday sunday monday tuesday wednesday thursday friday
+        shock star stars blow twist boost race battle plan plans chief chiefs double
+        triple final decision future major huge massive new next top the this that
+        reds blues gunners citizens hammers toffees foxes saints villans magpies
+        cherries seagulls bees eagles lilywhites baggies clarets terriers
+        rossoneri nerazzurri bianconeri azzurri giallorossi blaugrana merengues
+    """.split())
+    return words
+
+_EXCLUDE = None
+
+def extract_player(title, summary=""):
+    """제목(우선)·요약에서 선수명 후보 추출. 확신 없으면 None (오표기보다 미표기가 낫다)."""
+    global _EXCLUDE
+    if _EXCLUDE is None:
+        _EXCLUDE = _build_exclude()
+    for text in (title, summary):
+        if not text:
+            continue
+        for m in _NAME_RE.finditer(text):
+            toks = m.group(1).split()
+            # 앞뒤에 붙은 헤드라인 상용어("Shock", "Boss" 등)를 잘라냄
+            while toks and toks[0].lower().strip("'-") in _EXCLUDE:
+                toks.pop(0)
+            while toks and toks[-1].lower().strip("'-") in _EXCLUDE:
+                toks.pop()
+            if not (2 <= len(toks) <= 3):
+                continue
+            if any(t.lower().strip("'-") in _EXCLUDE for t in toks):
+                continue
+            cand = " ".join(toks)
+            if len(cand) < 6:
+                continue
+            return cand
+    return None
+
+
+
 def norm_title(title: str) -> str:
     """중복 판정용 제목 정규화: 소문자 + 영숫자만"""
     return re.sub(r"[^a-z0-9가-힣]", "", title.lower())
@@ -180,6 +233,9 @@ def entry_to_item(entry, feed_cfg):
     if published is None:
         published = datetime.now(timezone.utc)
 
+    # RSS 요약문 (HTML 태그 제거) — 제목에 선수명이 없을 때 보조로 사용
+    summary = re.sub(r"<[^>]+>", " ", entry.get("summary", "") or "")[:400]
+
     status = classify_status(title)
     fee_match = FEE_RE.search(title)
     fee = fee_match.group(0).upper().replace("MILLION", "M") if fee_match else None
@@ -187,6 +243,7 @@ def entry_to_item(entry, feed_cfg):
     return {
         "id": hashlib.md5(link.encode()).hexdigest()[:12],
         "title": title,
+        "player": extract_player(title, summary),
         "title_ko": None,  # 신규 판정 후에만 번역 (호출 최소화)
         "league": league,
         "status": status,
