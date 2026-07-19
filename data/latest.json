@@ -1,5 +1,18 @@
 [
  {
+  "id": "42719ea78edc",
+  "title": "Roma give West Ham deadline over Summerville deal with fee revealed",
+  "player": "Matteo Moretto",
+  "title_ko": "로마, 웨스트햄에게 서머빌 거래 마감시한 제시, 이적료 공개",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-west-ham-deadline-summerville-fee/",
+  "fee": null,
+  "published": "2026-07-19T11:45:15+00:00"
+ },
+ {
   "id": "86e6da67ecb2",
   "title": "Inter prepare for Tottenham talks over Spence transfer",
   "player": null,
@@ -1198,17 +1211,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5yzye502vko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-17T09:30:47+00:00"
- },
- {
-  "id": "13abb566bddb",
-  "title": "“Signed today. All done” – Fabrizio Romano issues hugely positive Liverpool update",
-  "title_ko": "\"오늘 서명했습니다. 모든 작업이 완료되었습니다.\" – Fabrizio Romano는 매우 긍정적인 리버풀 업데이트를 발표했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/17/dominik-szoboszlai-signed-liverpool-contract-today-says-romano/",
-  "fee": null,
-  "published": "2026-07-17T09:25:52+00:00"
  }
 ]
