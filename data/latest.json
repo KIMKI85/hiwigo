@@ -1,5 +1,18 @@
 [
  {
+  "id": "b06506792d36",
+  "title": "Report Roma down to Summerville details in €50m West Ham agreement",
+  "player": "Crysencio Summerville",
+  "title_ko": "€50m 웨스트햄 계약에서 로마를 Summerville에 세부사항까지 보고하세요",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-roma-summerville-details-50m-west-ham/",
+  "fee": "€50M",
+  "published": "2026-07-20T12:38:03+00:00"
+ },
+ {
   "id": "ca12f4938436",
   "title": "Bologna want €40m for Chelsea and Aston Villa target Rowe",
   "player": "Jonathan Rowe",
@@ -1233,18 +1246,5 @@
   "url": "https://football-italia.net/transfer-roundup-guardiola-italy-chalobah-como/",
   "fee": null,
   "published": "2026-07-17T20:49:04+00:00"
- },
- {
-  "id": "f072064baeed",
-  "title": "Una Real sin fichajes y sin mundialistas recibe en Zubieta al Racing de Canales",
-  "player": "Zubieta al Racing",
-  "title_ko": "계약이 없고 월드컵 선수가 없는 레알은 Zubieta에서 Racing de Canales를 받습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/17/real-fichajes-mundialistas-recibe-zubieta-racing-canales.html",
-  "fee": null,
-  "published": "2026-07-17T20:35:10+00:00"
  }
 ]
