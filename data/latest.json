@@ -1,5 +1,18 @@
 [
  {
+  "id": "38c07aca90a1",
+  "title": "Summerville breaks silence ahead of €50m Roma move from West Ham United",
+  "player": "Crysencio Summerville",
+  "title_ko": "서머빌은 웨스트햄 유나이티드에서 €50m의 로마 이적을 앞두고 침묵을 깨뜨렸습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/summerville-breaks-silence-ahead-50m-roma-move/",
+  "fee": "€50M",
+  "published": "2026-07-20T19:15:39+00:00"
+ },
+ {
   "id": "7ae68301e989",
   "title": "Zaniolo reaches new agreement with Udinese for contract to 2029",
   "player": "Nicolò Zaniolo",
@@ -1248,17 +1261,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/tottenham-crysencio-summerville-transfer-2/",
   "fee": null,
   "published": "2026-07-18T09:04:30+00:00"
- },
- {
-  "id": "c69dcf6380f0",
-  "title": "Juventus transfer hopes alive as Kolo Muani trains with U19 PSG team",
-  "title_ko": "Kolo Muani가 U19 PSG 팀과 훈련하면서 유벤투스 이적 희망이 살아 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-transfer-hope-kolo-muani-u19-psg/",
-  "fee": null,
-  "published": "2026-07-18T08:35:09+00:00"
  }
 ]
