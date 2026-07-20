@@ -1,5 +1,18 @@
 [
  {
+  "id": "a9ac6d3a30a1",
+  "title": "Man Utd news: Bid for £42.5m target could come today as star admits he's hoping for offers",
+  "player": null,
+  "title_ko": "맨유 뉴스: 스타가 제안을 원한다고 인정함에 따라 £42.5m 목표에 대한 입찰이 오늘 올 수도 있습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-target-offer-37450005",
+  "fee": "£42.5M",
+  "published": "2026-07-20T03:30:00+00:00"
+ },
+ {
   "id": "5e1673b99c63",
   "title": "Arsenal line up Stones free transfer - Monday's gossip",
   "player": "John Stones",
@@ -1219,17 +1232,5 @@
   "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
   "fee": null,
   "published": "2026-07-17T15:00:00+00:00"
- },
- {
-  "id": "13ae3740a75c",
-  "title": "Report Belotti failed Cagliari medical and remains a free agent",
-  "title_ko": "벨로티가 칼리아리 메디컬 테스트에 실패해 자유계약선수(FA)로 남아있다고 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-belotti-failed-cagliari-medical-free/",
-  "fee": null,
-  "published": "2026-07-17T14:20:12+00:00"
  }
 ]
