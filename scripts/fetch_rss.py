@@ -39,19 +39,24 @@ FEEDS = [
     {"name": "BBC Sport Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "tier": 1},
     {"name": "Sky Sports Football", "url": "https://www.skysports.com/rss/12040", "tier": 1},
     {"name": "Guardian Football", "url": "https://www.theguardian.com/football/rss", "tier": 1},
-    # ── 현지 매체 (각 리그 원천 소스) ──
-    {"name": "kicker (DE)", "url": "https://newsfeed.kicker.de/news/bundesliga", "tier": 1, "league_hint": "BUND"},
-    {"name": "Foot Mercato (FR)", "url": "https://www.footmercato.net/rss", "tier": 2, "league_hint": "LIGUE1", "skip_filter": True},
+    # ── 독일 ──
+    {"name": "kicker Bundesliga (DE)", "url": "https://newsfeed.kicker.de/news/bundesliga", "tier": 1, "league_hint": "BUND"},
+    {"name": "kicker Fussball (DE)", "url": "https://newsfeed.kicker.de/news/fussball", "tier": 1, "league_hint": "BUND"},
+    {"name": "Sport1 (DE)", "url": "https://www.sport1.de/news.rss", "tier": 2, "league_hint": "BUND"},
+    # ── 프랑스 ──
     {"name": "RMC Sport (FR)", "url": "https://rmcsport.bfmtv.com/rss/football/", "tier": 1, "league_hint": "LIGUE1"},
-    {"name": "Gazzetta Calcio (IT)", "url": "https://www.gazzetta.it/rss/calcio.xml", "tier": 1, "league_hint": "SERIEA"},
+    {"name": "Le10Sport (FR)", "url": "https://le10sport.com/feed", "tier": 3, "league_hint": "LIGUE1", "skip_filter": True},
+    {"name": "Maxifoot (FR)", "url": "https://www.maxifoot.fr/rss.xml", "tier": 2, "league_hint": "LIGUE1"},
+    # ── 스페인 ──
     {"name": "Marca (EN)", "url": "https://e00-marca.uecdn.es/rss/en/football.xml", "tier": 2, "league_hint": "LALIGA"},
-    {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2, "league_hint": "SERIEA"},
-    # ── 영어권 루머·이적 전문 (3티어: 빠르지만 신뢰도 낮음) ──
-    {"name": "Mirror Football", "url": "https://www.mirror.co.uk/sport/football/?service=rss", "tier": 3},
-    {"name": "TEAMtalk", "url": "https://www.teamtalk.com/feed/", "tier": 3},
-    {"name": "Football365", "url": "https://www.football365.com/feed/", "tier": 3},
-    {"name": "CaughtOffside", "url": "https://www.caughtoffside.com/feed", "tier": 3},
+    {"name": "Marca Primera (ES)", "url": "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml", "tier": 1, "league_hint": "LALIGA"},
+    {"name": "AS Futbol (ES)", "url": "https://as.com/rss/futbol/portada.xml", "tier": 1, "league_hint": "LALIGA"},
     {"name": "Fichajes (ES)", "url": "https://www.fichajes.net/rss", "tier": 3, "league_hint": "LALIGA", "skip_filter": True},
+    # ── 이탈리아 ──
+    {"name": "Gazzetta Calcio (IT)", "url": "https://www.gazzetta.it/rss/calcio.xml", "tier": 1, "league_hint": "SERIEA"},
+    {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2, "league_hint": "SERIEA"},
+    # ── 영어권 타블로이드 (3티어) ──
+    {"name": "Mirror Football", "url": "https://www.mirror.co.uk/sport/football/?service=rss", "tier": 3},
 ]
 
 # ── 이적 키워드: 단어 단위 정규식 (오탐 방지) ─────────────────
