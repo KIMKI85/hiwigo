@@ -1,5 +1,18 @@
 [
  {
+  "id": "bb1ea3955a67",
+  "title": "RWO verliert seine Nummer 1: Kratzsch wechselt zu Zweitliga-Aufsteiger Cottbus",
+  "player": "Aufsteiger Cottbus",
+  "title_ko": "RWO가 1위를 잃었습니다: Kratzsch는 Cottbus로 승격된 2부 리그로 이동했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/rwo-verliert-seine-nummer-1-kratzsch-wechselt-zu-zweitliga-aufsteiger-cottbus-1237528/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-20T15:35:11+00:00"
+ },
+ {
   "id": "f671adbe164c",
   "title": "What does Rogers' move mean for Chelsea's squad?",
   "player": "Morgan Rogers",
@@ -1243,17 +1256,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/arsenal-transfer-elijah-upson-here-we-go-romano/",
   "fee": null,
   "published": "2026-07-18T07:16:22+00:00"
- },
- {
-  "id": "4ffe5c26fe1a",
-  "title": "Manchester City have “made progress” on potential €100m transfer after latest round of talks",
-  "title_ko": "맨체스터 시티는 최근 협상 이후 잠재적인 €100m 이적에 대해 \"진행\"했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/manchester-city-made-progress-potential-e100m-deal/",
-  "fee": "€100M",
-  "published": "2026-07-18T06:55:00+00:00"
  }
 ]
