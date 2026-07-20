@@ -1,5 +1,18 @@
 [
  {
+  "id": "7ae68301e989",
+  "title": "Zaniolo reaches new agreement with Udinese for contract to 2029",
+  "player": "Nicolò Zaniolo",
+  "title_ko": "자니올로는 우디네세와 2029년까지 계약을 위한 새로운 계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/zaniolo-reaches-new-agreement-with-udinese/",
+  "fee": null,
+  "published": "2026-07-20T18:09:25+00:00"
+ },
+ {
   "id": "a63cdc46ecbd",
   "title": "Official: Bologna buy Alhassane from Real Oviedo, fee believed to be €3.5m",
   "player": "Rahim Alhassane",
@@ -1247,17 +1260,5 @@
   "url": "https://football-italia.net/juventus-transfer-hope-kolo-muani-u19-psg/",
   "fee": null,
   "published": "2026-07-18T08:35:09+00:00"
- },
- {
-  "id": "9f8fbdec67ce",
-  "title": "Chelsea’s teenage goal machine ready for senior loan after contract breakthrough",
-  "title_ko": "첼시의 10대 골 머신, 계약 타결 후 선배 임대 준비 완료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/chelsea-teenage-goal-machine-ready-for-loan-after-breakthrough/",
-  "fee": null,
-  "published": "2026-07-18T08:03:00+00:00"
  }
 ]
