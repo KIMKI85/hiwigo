@@ -1,5 +1,44 @@
 [
  {
+  "id": "ca12f4938436",
+  "title": "Bologna want €40m for Chelsea and Aston Villa target Rowe",
+  "player": "Jonathan Rowe",
+  "title_ko": "볼로냐는 첼시와 아스톤 빌라가 노리는 로우에게 4천만 유로를 원합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bologna-want-40m-for-chelsea-villa-target-rowe/",
+  "fee": "€40M",
+  "published": "2026-07-20T12:15:00+00:00"
+ },
+ {
+  "id": "38fb81eedd1c",
+  "title": "Man Utd land £8m teenage star from Premier League rivals as they repeat transfer trick",
+  "player": "Tynan Thompson",
+  "title_ko": "맨유는 이적 트릭을 반복하면서 프리미어 리그 라이벌로부터 800만 파운드의 10대 스타를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-tottenham-tynan-thompson-37453429",
+  "fee": "£8M",
+  "published": "2026-07-20T11:51:36+00:00"
+ },
+ {
+  "id": "0cea22e4487f",
+  "title": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list",
+  "player": "João Gomes",
+  "title_ko": "주앙 고메스, £38m에 아스톤 빌라로 이적, 홀과 로빈슨을 맨체스터 유나이티드 명단에 포함",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest",
+  "fee": "£38M",
+  "published": "2026-07-20T11:45:42+00:00"
+ },
+ {
   "id": "00ea42e13f04",
   "title": "'Rogers move is crazy money for a player Chelsea don't need!'",
   "player": "Sky Sports' Paul",

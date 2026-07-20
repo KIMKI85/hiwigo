@@ -1,5 +1,44 @@
 [
  {
+  "id": "ca12f4938436",
+  "title": "Bologna want €40m for Chelsea and Aston Villa target Rowe",
+  "player": "Jonathan Rowe",
+  "title_ko": "볼로냐는 첼시와 아스톤 빌라가 노리는 로우에게 4천만 유로를 원합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bologna-want-40m-for-chelsea-villa-target-rowe/",
+  "fee": "€40M",
+  "published": "2026-07-20T12:15:00+00:00"
+ },
+ {
+  "id": "38fb81eedd1c",
+  "title": "Man Utd land £8m teenage star from Premier League rivals as they repeat transfer trick",
+  "player": "Tynan Thompson",
+  "title_ko": "맨유는 이적 트릭을 반복하면서 프리미어 리그 라이벌로부터 800만 파운드의 10대 스타를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-tottenham-tynan-thompson-37453429",
+  "fee": "£8M",
+  "published": "2026-07-20T11:51:36+00:00"
+ },
+ {
+  "id": "0cea22e4487f",
+  "title": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list",
+  "player": "João Gomes",
+  "title_ko": "주앙 고메스, £38m에 아스톤 빌라로 이적, 홀과 로빈슨을 맨체스터 유나이티드 명단에 포함",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest",
+  "fee": "£38M",
+  "published": "2026-07-20T11:45:42+00:00"
+ },
+ {
   "id": "00ea42e13f04",
   "title": "'Rogers move is crazy money for a player Chelsea don't need!'",
   "player": "Sky Sports' Paul",
@@ -1207,41 +1246,5 @@
   "url": "https://www.marca.com/futbol/real-sociedad/2026/07/17/real-fichajes-mundialistas-recibe-zubieta-racing-canales.html",
   "fee": null,
   "published": "2026-07-17T20:35:10+00:00"
- },
- {
-  "id": "6d5f7c712caf",
-  "title": "Ederson extends Atalanta contract after Man Utd move collapses",
-  "title_ko": "에데르손은 맨유 이적이 무산된 후 아탈란타와 계약을 연장했다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c629dxeye0lo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-17T19:12:58+00:00"
- },
- {
-  "id": "6d8afb7bde38",
-  "title": "Mo Salah's next club confirmed as Liverpool icon agrees huge deal with Turkish giants",
-  "title_ko": "리버풀의 아이콘이 터키 거인과 엄청난 계약을 체결함에 따라 모 살라의 다음 클럽이 확정되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mo-salah-next-club-besiktas-37446324",
-  "fee": null,
-  "published": "2026-07-17T18:34:43+00:00"
- },
- {
-  "id": "d4317443ed84",
-  "title": "Villa sign Newcastle target Manzambi in club-record deal",
-  "title_ko": "빌라는 클럽 기록 계약으로 뉴캐슬과 만잠비를 계약했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal",
-  "fee": null,
-  "published": "2026-07-17T18:04:00+00:00"
  }
 ]
