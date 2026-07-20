@@ -1,5 +1,18 @@
 [
  {
+  "id": "53573ea91d51",
+  "title": "Why are Premier League transfer fees soaring?",
+  "player": "With Morgan Rogers",
+  "title_ko": "프리미어리그 이적료가 폭등하는 이유는 무엇일까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g37y2nyp3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-20T13:04:41+00:00"
+ },
+ {
   "id": "b06506792d36",
   "title": "Report Roma down to Summerville details in €50m West Ham agreement",
   "player": "Crysencio Summerville",
@@ -1234,17 +1247,5 @@
   "url": "https://football-italia.net/done-deal-oulai-flies-out-fiorentina-medical/",
   "fee": "€29M",
   "published": "2026-07-17T21:40:12+00:00"
- },
- {
-  "id": "21784c475a00",
-  "title": "Transfer round-up: Guardiola closes the door on Italy, third Como offer for Chalobah",
-  "title_ko": "이적 요약: 과르디올라는 이탈리아에서 문을 닫았고, 찰로바에 대한 세 번째 코모 제안입니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/transfer-roundup-guardiola-italy-chalobah-como/",
-  "fee": null,
-  "published": "2026-07-17T20:49:04+00:00"
  }
 ]
