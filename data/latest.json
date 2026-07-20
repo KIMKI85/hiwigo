@@ -1,5 +1,31 @@
 [
  {
+  "id": "4b0ffe69c2c7",
+  "title": "Live transfer news, Serie A debate and more: Football Italia’s new YouTube Show",
+  "player": "Football Italia",
+  "title_ko": "실시간 이적 소식, 세리에 A 토론 등: Football Italia의 새로운 YouTube 쇼",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/football-italia-live-youtube-transfers-serie-a/",
+  "fee": null,
+  "published": "2026-07-20T10:23:43+00:00"
+ },
+ {
+  "id": "5acada014ec4",
+  "title": "Modric set to sign new Milan deal this week: the details",
+  "player": "Luka Modric",
+  "title_ko": "모드리치는 이번 주에 새로운 밀란 계약을 체결할 예정입니다: 세부 사항",
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/modric-set-to-sign-new-milan-deal/",
+  "fee": null,
+  "published": "2026-07-20T10:20:00+00:00"
+ },
+ {
   "id": "3f4b20bb45c0",
   "title": "Villa sign Wolves midfielder Gomes in £38m deal",
   "player": "Joao Gomes",
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/watch/video/13565165/morgan-rogers-spotted-arriving-for-chelsea-medical-ahead-of-117m-deal",
   "fee": "£117M",
   "published": "2026-07-20T10:06:00+00:00"
+ },
+ {
+  "id": "70e6caa2aaad",
+  "title": "Torres, Stones, Salah... Les 5 infos mercato du 20 juillet à la mi-journée",
+  "player": "Ferran Torres",
+  "title_ko": "토레스, 스톤스, 살라… 7월 20일 정오부터 5개 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-torres-stones-salah-les-5-infos-mercato-du-20-juillet-a-la-mi-journee_VN-202607200338.html",
+  "fee": null,
+  "published": "2026-07-20T10:01:20+00:00"
  },
  {
   "id": "50a1ec66ae2f",
@@ -1200,41 +1239,5 @@
   "url": "https://football-italia.net/gosens-bitter-goodbye-fiorentina-schalke-04/",
   "fee": null,
   "published": "2026-07-17T16:46:21+00:00"
- },
- {
-  "id": "1b89ff350103",
-  "title": "Official: Muharemovic joins Leeds United in €40m agreement from Sassuolo",
-  "title_ko": "공식: 무하레모비치는 사수올로로부터 €40m 계약으로 리즈 유나이티드에 합류했습니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-muharemovic-leeds-united-sassuolo/",
-  "fee": "€40M",
-  "published": "2026-07-17T16:24:21+00:00"
- },
- {
-  "id": "1361995d4723",
-  "title": "Official: Genoa sign Traore from Olympique Marseille, loan with €10m option",
-  "title_ko": "공식: 제노아가 올림피크 마르세유에서 트라오레를 €10m 옵션으로 임대 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-genoa-sign-traore-olympique-marseille/",
-  "fee": "€10M",
-  "published": "2026-07-17T16:12:05+00:00"
- },
- {
-  "id": "bfbe749fd9f2",
-  "title": "Leeds sign £34.1m defender Muharemovic",
-  "title_ko": "리즈, 수비수 무하레모비치(3410만 파운드) 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9w0kl9rjpno?at_medium=RSS&at_campaign=rss",
-  "fee": "£34.1M",
-  "published": "2026-07-17T16:00:06+00:00"
  }
 ]
