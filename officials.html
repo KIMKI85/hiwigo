@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>히위고 HWG — 오피셜 보드</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0E1219; --panel:#171D28; --panel-2:#1E2634; --line:#2A3446;
+    --ink:#F2F5FA; --ink-dim:#8B96A8; --yellow:#FFD400; --green:#2ECC71;
+    --epl:#8556E5; --laliga:#FF5A36; --seriea:#2E86FF; --bund:#E1252B; --ligue1:#F5C518;
+    font-size:15px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Noto Sans KR',sans-serif;line-height:1.5}
+  .disp{font-family:'Barlow Condensed','Noto Sans KR',sans-serif;letter-spacing:.02em}
+  header{padding:26px 22px 0;border-bottom:1px solid var(--line)}
+  .logo{font-family:'Barlow Condensed';font-weight:800;font-size:2.2rem;line-height:1}
+  .logo em{font-style:normal;color:var(--yellow)}
+  .logo small{display:block;font-family:'Noto Sans KR';font-weight:500;font-size:.78rem;color:var(--ink-dim);letter-spacing:.14em;margin-top:5px}
+  nav.tabs{display:flex;gap:2px;margin-top:18px}
+  nav.tabs a{padding:9px 18px;font-size:.9rem;font-weight:700;color:var(--ink-dim);text-decoration:none;border:1px solid var(--line);border-bottom:none;border-radius:8px 8px 0 0;background:var(--panel)}
+  nav.tabs a.on{color:#111;background:var(--yellow);border-color:var(--yellow)}
+
+  .filters{padding:14px 22px;display:flex;gap:6px;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+  .chip{background:var(--panel);border:1px solid var(--line);color:var(--ink-dim);padding:6px 13px;border-radius:99px;font-size:.82rem;font-weight:500;cursor:pointer;transition:.15s}
+  .chip:hover{color:var(--ink)}
+  .chip.on{background:var(--yellow);border-color:var(--yellow);color:#111;font-weight:700}
+
+  .wrap{max-width:1000px;margin:0 auto;padding:22px}
+  .summary{font-size:.82rem;color:var(--ink-dim);margin-bottom:14px}
+  .summary b{color:var(--yellow)}
+
+  .board{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .row{display:grid;grid-template-columns:32px 1.1fr 1.6fr .7fr .55fr;gap:10px;align-items:center;
+       padding:13px 16px;border-bottom:1px solid rgba(42,52,70,.5);text-decoration:none;color:inherit;transition:background .12s}
+  .row:last-child{border-bottom:none}
+  .row:hover{background:var(--panel-2)}
+  .row.head{background:var(--panel-2);font-size:.7rem;color:var(--ink-dim);font-weight:700;letter-spacing:.08em;padding:9px 16px}
+  .lg{font-weight:700;font-size:.62rem;padding:2px 0;border-radius:4px;color:#fff;text-align:center}
+  .pl{font-weight:700;font-size:.92rem}
+  .pl small{display:block;font-weight:400;font-size:.68rem;color:var(--ink-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .route{font-size:.85rem;display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+  .route .arrow{color:var(--yellow);font-weight:800}
+  .route .to{font-weight:700}
+  .fee{font-family:'Barlow Condensed';font-weight:800;font-size:1.05rem;color:var(--yellow);text-align:right}
+  .date{font-size:.7rem;color:var(--ink-dim);text-align:right}
+  .fix{background:none;border:none;color:var(--ink-dim);cursor:pointer;font-size:.8rem;opacity:0;transition:.15s;padding:2px 4px}
+  .row:hover .fix{opacity:.7}
+  .fix:hover{opacity:1;color:var(--yellow)}
+  .empty{text-align:center;color:var(--ink-dim);padding:60px 20px;font-size:.9rem;line-height:1.8}
+  .note{font-size:.68rem;color:var(--ink-dim);margin-top:12px;line-height:1.6}
+  footer{text-align:center;color:var(--ink-dim);font-size:.72rem;padding:26px;border-top:1px solid var(--line);margin-top:10px}
+  @media(max-width:640px){
+    .row{grid-template-columns:28px 1fr .6fr;gap:8px}
+    .route{grid-column:2/4;font-size:.78rem}
+    .date{display:none}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo disp">히위고 <em>HWG</em>
+    <small>HERE WE GO — 5대 리그 이적시장 실시간 트래커</small>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">⚡ 이적센터</a>
+    <a href="officials.html" class="on">✅ 오피셜</a>
+    <a href="stats.html">📊 순위·기록</a>
+  </nav>
+</header>
+
+<div class="filters" id="leagueFilter" role="group" aria-label="리그 필터">
+  <button class="chip on" data-league="all">전체</button>
+  <button class="chip" data-league="EPL">프리미어리그</button>
+  <button class="chip" data-league="LALIGA">라리가</button>
+  <button class="chip" data-league="SERIEA">세리에 A</button>
+  <button class="chip" data-league="BUND">분데스리가</button>
+  <button class="chip" data-league="LIGUE1">리그 1</button>
+</div>
+
+<div class="wrap">
+  <div class="summary" id="summary"></div>
+  <div class="board" id="board"><div class="empty">불러오는 중...</div></div>
+  <div class="note">히위고가 수집한 오피셜(구단 공식 발표) 기사 기준 자동 정리입니다.
+    From/To는 기사 제목에서 자동 추출되며, 파싱이 어려운 건은 —로 표시됩니다 (행 클릭 시 원문 확인, ✎ 버튼으로 수동 보정 가능).
+    같은 이적의 중복 기사는 하나로 합칩니다.</div>
+</div>
+
+<footer>히위고 HWG · hiwigo.kr</footer>
+
+<script>
+const leagueMeta = {
+  EPL:{name:"EPL", color:"var(--epl)"}, LALIGA:{name:"라리가", color:"var(--laliga)"},
+  SERIEA:{name:"세리에", color:"var(--seriea)"}, BUND:{name:"분데스", color:"var(--bund)"},
+  LIGUE1:{name:"리그1", color:"var(--ligue1)"}
+};
+
+/* 클럽 사전: 제목에서 클럽명을 찾기 위한 표기 목록 (긴 이름 우선 매칭) */
+const CLUBS = [
+ "Manchester United","Manchester City","Man United","Man Utd","Man City","Arsenal","Liverpool",
+ "Chelsea","Tottenham","Spurs","Newcastle","Aston Villa","West Ham","Everton","Brighton",
+ "Bournemouth","Brentford","Fulham","Crystal Palace","Wolves","Nottingham Forest","Leeds",
+ "Sunderland","Burnley",
+ "Real Madrid","Barcelona","Atletico Madrid","Atlético","Sevilla","Villarreal","Athletic Club",
+ "Real Sociedad","Real Betis","Betis","Valencia","Girona","Celta","Getafe","Osasuna","Mallorca",
+ "Espanyol","Levante","Elche","Oviedo","Rayo Vallecano",
+ "Juventus","Inter Milan","AC Milan","Inter","Milan","Napoli","Roma","Lazio","Atalanta",
+ "Fiorentina","Bologna","Torino","Genoa","Udinese","Cagliari","Verona","Parma","Como","Lecce",
+ "Sassuolo","Cremonese","Pisa",
+ "Bayern Munich","Bayern","Borussia Dortmund","Dortmund","Leverkusen","RB Leipzig","Leipzig",
+ "Eintracht Frankfurt","Frankfurt","Stuttgart","Gladbach","Wolfsburg","Freiburg","Mainz",
+ "Hoffenheim","Augsburg","Union Berlin","Werder Bremen","St Pauli","Cologne","Hamburg","Heidenheim",
+ "Paris Saint-Germain","PSG","Paris FC","Marseille","Monaco","Lyon","Lille","Nice","Lens",
+ "Rennes","Strasbourg","Toulouse","Nantes","Brest","Auxerre","Le Havre","Lorient","Metz","Angers",
+ "Benfica","Porto","Sporting","Ajax","PSV","Feyenoord","Celtic","Rangers","Galatasaray",
+ "Fenerbahce","Al Hilal","Al Nassr","Al Ittihad","Salzburg","Club Brugge"
+].sort((a,b)=>b.length-a.length);
+
+function esc(s){const d=document.createElement("div");d.textContent=s??"";return d.innerHTML}
+
+/* 제목에서 클럽 위치 찾기 */
+function findClubs(title){
+  const found = [];
+  let masked = title;
+  for(const c of CLUBS){
+    const idx = masked.toLowerCase().indexOf(c.toLowerCase());
+    if(idx >= 0){
+      found.push({club:c, idx});
+      masked = masked.slice(0,idx) + "#".repeat(c.length) + masked.slice(idx+c.length);
+    }
+  }
+  return found.sort((a,b)=>a.idx-b.idx);
+}
+
+/* from/to 추출: "joins B from A", "B sign X from A" 등의 패턴 */
+function parseRoute(title){
+  const clubs = findClubs(title);
+  if(!clubs.length) return {from:null, to:null};
+  const t = title.toLowerCase();
+  let from = null, to = null;
+
+  // "from <club>" → from 확정
+  for(const c of clubs){
+    const before = t.slice(Math.max(0, c.idx-8), c.idx);
+    if(/\bfrom\s+$|\bda\s+$|\bvon\s+$|\bdel?\s+$/.test(before)) from = c.club;
+  }
+  // "joins <club>" / "signs for <club>" → to 확정
+  const joinM = t.match(/\b(?:joins|signs? for|moves? to|arrives? at)\s+/);
+  if(joinM){
+    const after = clubs.find(c => c.idx >= joinM.index + joinM[0].length - 1 && c.idx <= joinM.index + joinM[0].length + 3);
+    if(after) to = after.club;
+  }
+  // 미확정분: 첫 등장 클럽 = 주어(영입 클럽)로 추정
+  const rest = clubs.map(c=>c.club).filter(c => c!==from && c!==to);
+  if(!to && rest.length) to = rest.shift();
+  if(!from && rest.length) from = rest.shift();
+  if(from === to) from = null;
+  return {from, to};
+}
+
+let all = [], curLeague = "all";
+
+async function load(){
+  const months = ["2026-06","2026-07","2026-08","2026-09"];
+  let items = [];
+  try{
+    const r = await fetch("data/latest.json", {cache:"no-store"});
+    if(r.ok) items = await r.json();
+  }catch(e){}
+  for(const m of months){
+    try{
+      const r = await fetch(`data/archive/${m}.json`, {cache:"no-store"});
+      if(r.ok) items = items.concat(await r.json());
+    }catch(e){}
+  }
+  // 수동 보정 파일: data/overrides.json 의 값이 자동 파싱을 덮어씀
+  let overrides = {};
+  try{
+    const r = await fetch("data/overrides.json", {cache:"no-store"});
+    if(r.ok) overrides = await r.json();
+  }catch(e){}
+
+  const officials = items.filter(x => x.status === "official");
+  // 중복 합치기: 리그+금액+선수 (또는 URL)
+  const seen = new Set(); all = [];
+  officials.sort((a,b)=> b.published.localeCompare(a.published));
+  for(const it of officials){
+    const key = it.league + "|" + (it.fee || "") + "|" + (it.player || it.url);
+    if(seen.has(key)) continue;
+    seen.add(key);
+    const {from, to} = parseRoute(it.title);
+    const ov = overrides[it.id] || {};
+    if(ov.hide) continue;  // "hide": true 로 특정 건 숨김도 가능
+    all.push({...it,
+      club_from: ov.from ?? from,
+      club_to:   ov.to   ?? to,
+      player:    ov.player ?? it.player,
+      fee:       ov.fee    ?? it.fee});
+  }
+  render();
+}
+
+function render(){
+  const list = all.filter(x => curLeague==="all" || x.league===curLeague);
+  const board = document.getElementById("board");
+  document.getElementById("summary").innerHTML =
+    `이번 여름 확정 이적 <b>${list.length}건</b> · 히위고 수집 기준`;
+  if(!list.length){
+    board.innerHTML = `<div class="empty">아직 집계된 오피셜이 없습니다.<br>새 오피셜이 수집되면 자동으로 나타납니다.</div>`;
+    return;
+  }
+  const head = `<div class="row head"><span></span><span>선수</span><span>FROM → TO</span><span style="text-align:right">가격</span><span style="text-align:right">날짜</span></div>`;
+  board.innerHTML = head + list.map(it => `
+    <a class="row" href="${it.url}" target="_blank" rel="noopener noreferrer">
+      <span class="lg" style="background:${leagueMeta[it.league].color}">${leagueMeta[it.league].name.slice(0,3)}</span>
+      <span class="pl">${it.player ? esc(it.player) : "—"}<small>${esc(it.title_ko || it.title)}</small></span>
+      <span class="route">
+        <span>${it.club_from ? esc(it.club_from) : "—"}</span>
+        <span class="arrow">→</span>
+        <span class="to">${it.club_to ? esc(it.club_to) : "—"}</span>
+      </span>
+      <span class="fee disp">${it.fee ? esc(it.fee) : "비공개"}</span>
+      <span class="date">${it.published.slice(5,10).replace("-",".")}
+        <button class="fix" data-id="${it.id}" data-from="${esc(it.club_from||"")}" data-to="${esc(it.club_to||"")}" title="From/To 수동 보정">✎</button></span>
+    </a>`).join("");
+}
+
+/* ✎ 버튼: 보정 스니펫을 클립보드에 복사하고 GitHub 편집창을 엶 (저장소 주인만 커밋 가능) */
+document.getElementById("board").addEventListener("click", async e=>{
+  const btn = e.target.closest(".fix");
+  if(!btn) return;
+  e.preventDefault(); e.stopPropagation();
+  const snippet = `"${btn.dataset.id}": { "from": "${btn.dataset.from}", "to": "${btn.dataset.to}", "player": "", "fee": "" }`;
+  try{ await navigator.clipboard.writeText(snippet); }catch(err){}
+  alert("보정 코드가 복사되었습니다.\n\n열리는 GitHub 편집창의 { } 안에 붙여넣고,\n틀린 값만 고친 뒤 (빈 칸은 지워도 됨) Commit 하세요.\n여러 건이면 쉼표(,)로 구분합니다.\n\n" + snippet);
+  window.open("https://github.com/KIMKI85/hiwigo/edit/main/data/overrides.json", "_blank");
+});
+
+document.getElementById("leagueFilter").addEventListener("click", e=>{
+  const btn = e.target.closest(".chip"); if(!btn) return;
+  document.querySelectorAll("#leagueFilter .chip").forEach(c=>c.classList.remove("on"));
+  btn.classList.add("on");
+  curLeague = btn.dataset.league;
+  render();
+});
+
+load();
+</script>
+</body>
+</html>
