@@ -1040,6 +1040,19 @@
   "published": "2026-07-17T20:49:04+00:00"
  },
  {
+  "id": "f072064baeed",
+  "title": "Una Real sin fichajes y sin mundialistas recibe en Zubieta al Racing de Canales",
+  "player": "Zubieta al Racing",
+  "title_ko": "계약이 없고 월드컵 선수가 없는 레알은 Zubieta에서 Racing de Canales를 받습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/17/real-fichajes-mundialistas-recibe-zubieta-racing-canales.html",
+  "fee": null,
+  "published": "2026-07-17T20:35:10+00:00"
+ },
+ {
   "id": "6d5f7c712caf",
   "title": "Ederson extends Atalanta contract after Man Utd move collapses",
   "title_ko": "에데르손은 맨유 이적이 무산된 후 아탈란타와 계약을 연장했다",
@@ -1388,6 +1401,19 @@
   "published": "2026-07-17T10:14:00+00:00"
  },
  {
+  "id": "01166dfe3a40",
+  "title": "Javi Rodríguez tendrá ficha del primer equipo",
+  "player": "Javi Rodríguez",
+  "title_ko": "Javi Rodríguez는 첫 번째 팀 기록을 보유하게됩니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/celta/2026/07/17/javi-rodriguez-tendra-ficha-primer-equipo.html",
+  "fee": null,
+  "published": "2026-07-17T10:10:43+00:00"
+ },
+ {
   "id": "24919f9831b6",
   "title": "Bouaddi, Pagis, Oyarzabal… Les 5 infos mercato du 17 juillet à 12h !",
   "title_ko": "부아디, 파기스, 오야르자발... 7월 17일 낮 12시 5대 시장뉴스!",
@@ -1530,6 +1556,19 @@
   "url": "https://www.caughtoffside.com/2026/07/17/andoni-iraola-on-liverpool-winger-target/",
   "fee": null,
   "published": "2026-07-17T08:08:56+00:00"
+ },
+ {
+  "id": "603188ab6e7e",
+  "title": "El Betis cierra el fichaje de Diego Conde, cedido con opción de compra",
+  "player": "Diego Conde",
+  "title_ko": "베티스는 구매 옵션이 포함된 임대로 디에고 콘데의 영입을 마무리했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/07/17/betis-cierra-fichaje-diego-conde-cedido-opcion-compra.html",
+  "fee": null,
+  "published": "2026-07-17T08:08:52+00:00"
  },
  {
   "id": "06e6e2f7da4d",
@@ -1710,6 +1749,19 @@
   "url": "https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club-brugge-forward-christos-tzolis-premier-league",
   "fee": "£34M",
   "published": "2026-07-16T18:22:22+00:00"
+ },
+ {
+  "id": "36f245ed7f9d",
+  "title": "El Málaga busca la cesión de Juan Cruz",
+  "player": "El Málaga",
+  "title_ko": "말라가는 후안 크루즈의 임대를 원합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/16/malaga-busca-cesion-juan-cruz.html",
+  "fee": null,
+  "published": "2026-07-16T18:15:32+00:00"
  },
  {
   "id": "09a37f80327f",
