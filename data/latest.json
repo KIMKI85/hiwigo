@@ -1,5 +1,18 @@
 [
  {
+  "id": "f671adbe164c",
+  "title": "What does Rogers' move mean for Chelsea's squad?",
+  "player": "Morgan Rogers",
+  "title_ko": "로저스의 움직임은 첼시 선수단에 어떤 의미를 갖는가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad",
+  "fee": null,
+  "published": "2026-07-20T15:00:00+00:00"
+ },
+ {
   "id": "3835e09cb6a5",
   "title": "Chelsea sign Malard from Man Utd",
   "player": "Melvine Malard",
@@ -1242,17 +1255,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/manchester-city-made-progress-potential-e100m-deal/",
   "fee": "€100M",
   "published": "2026-07-18T06:55:00+00:00"
- },
- {
-  "id": "520a2a4cd6e0",
-  "title": "Arsenal “engaging in club to club talks” over potential big-money transfer for “incredible” forward",
-  "title_ko": "아스날은 \"놀라운\" 포워드에 대한 잠재적인 큰 돈 이적에 대해 \"클럽 간 대화에 참여\"",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/arsenal-aston-villa-talks-morgan-rogers-transfer/",
-  "fee": null,
-  "published": "2026-07-18T06:17:33+00:00"
  }
 ]
