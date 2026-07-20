@@ -42,16 +42,12 @@ FEEDS = [
     # ── 독일 ──
     {"name": "kicker Bundesliga (DE)", "url": "https://newsfeed.kicker.de/news/bundesliga", "tier": 1, "league_hint": "BUND"},
     {"name": "kicker Fussball (DE)", "url": "https://newsfeed.kicker.de/news/fussball", "tier": 1, "league_hint": "BUND"},
-    {"name": "Sport1 (DE)", "url": "https://www.sport1.de/news.rss", "tier": 2, "league_hint": "BUND"},
     # ── 프랑스 ──
     {"name": "RMC Sport (FR)", "url": "https://rmcsport.bfmtv.com/rss/football/", "tier": 1, "league_hint": "LIGUE1"},
-    {"name": "Le10Sport (FR)", "url": "https://le10sport.com/feed", "tier": 3, "league_hint": "LIGUE1", "skip_filter": True},
-    {"name": "Maxifoot (FR)", "url": "https://www.maxifoot.fr/rss.xml", "tier": 2, "league_hint": "LIGUE1"},
     # ── 스페인 ──
     {"name": "Marca (EN)", "url": "https://e00-marca.uecdn.es/rss/en/football.xml", "tier": 2, "league_hint": "LALIGA"},
     {"name": "Marca Primera (ES)", "url": "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml", "tier": 1, "league_hint": "LALIGA"},
     {"name": "AS Futbol (ES)", "url": "https://as.com/rss/futbol/portada.xml", "tier": 1, "league_hint": "LALIGA"},
-    {"name": "Fichajes (ES)", "url": "https://www.fichajes.net/rss", "tier": 3, "league_hint": "LALIGA", "skip_filter": True},
     # ── 이탈리아 ──
     {"name": "Gazzetta Calcio (IT)", "url": "https://www.gazzetta.it/rss/calcio.xml", "tier": 1, "league_hint": "SERIEA"},
     {"name": "Football Italia", "url": "https://football-italia.net/feed/", "tier": 2, "league_hint": "SERIEA"},
@@ -237,6 +233,10 @@ def entry_to_item(entry, feed_cfg):
             break
     if published is None:
         published = datetime.now(timezone.utc)
+
+    # 신선도 가드: 일부 피드가 옛날 기사를 재노출하므로 14일 초과분은 제외
+    if (datetime.now(timezone.utc) - published).days > 14:
+        return None
 
     # RSS 요약문 (HTML 태그 제거) — 제목에 선수명이 없을 때 보조로 사용
     summary = re.sub(r"<[^>]+>", " ", entry.get("summary", "") or "")[:400]
