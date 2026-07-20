@@ -1,5 +1,18 @@
 [
  {
+  "id": "50a1ec66ae2f",
+  "title": "DIRECT. Mercato: Jürgen Klopp confirme son arrivée au poste de sélectionneur de l'Allemagne",
+  "player": "Jürgen Klopp",
+  "title_ko": "직접. Mercato: 위르겐 클롭, 독일 감독으로 합류 확인",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-jurgen-klopp-confirme-son-arrivee-au-poste-de-selectionneur-de-l-allemagne_LN-202607200254.html",
+  "fee": null,
+  "published": "2026-07-20T07:34:13+00:00"
+ },
+ {
   "id": "92b077c132ba",
   "title": "Liverpool news: Deal agreed for third summer signing as PSG star set to leave",
   "player": null,
@@ -1221,17 +1234,5 @@
   "url": "https://www.kicker.de/wechsel-zum-herzensklub-perfekt-schalke-verpflichtet-gosens-1236280/artikel#omrss",
   "fee": null,
   "published": "2026-07-17T15:35:09+00:00"
- },
- {
-  "id": "94acc181f3a9",
-  "title": "Official: Cuenca, 19-year-old Barcelona talent, joins Como",
-  "title_ko": "공식: 바르셀로나의 19세 유망주 쿠엥카가 코모에 합류했습니다.",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-cuenca-19-year-old-barcelona-como/",
-  "fee": null,
-  "published": "2026-07-17T15:18:58+00:00"
  }
 ]
