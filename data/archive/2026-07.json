@@ -1,5 +1,31 @@
 [
  {
+  "id": "50a8ab9feb2e",
+  "title": "Aston Villa sign Gomes from Wolves in £38m deal",
+  "player": "Joao Gomes",
+  "title_ko": "Aston Villa는 £ 38m 거래로 울브스의 고메스를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564311/joao-gomes-aston-villa-sign-midfielder-from-wolves-in-38m-deal",
+  "fee": "£38M",
+  "published": "2026-07-20T11:13:00+00:00"
+ },
+ {
+  "id": "9d035b28b010",
+  "title": "Michael Olise 'desperate' to leave Bayern Munich as Liverpool transfer target takes action",
+  "player": "Michael Olise",
+  "title_ko": "리버풀 이적 목표가 조치를 취함에 따라 마이클 올리세는 바이에른 뮌헨을 떠나기 위해 '절박하다'",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/olise-bayern-real-madrid-liverpool-37453025",
+  "fee": null,
+  "published": "2026-07-20T10:25:32+00:00"
+ },
+ {
   "id": "4b0ffe69c2c7",
   "title": "Live transfer news, Serie A debate and more: Football Italia’s new YouTube Show",
   "player": "Football Italia",
