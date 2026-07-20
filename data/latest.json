@@ -13,6 +13,45 @@
   "published": "2026-07-20T15:00:00+00:00"
  },
  {
+  "id": "abe64a785082",
+  "title": "Everton sign defender Blundell on permament deal",
+  "player": "Hannah Blundell",
+  "title_ko": "에버튼은 수비수 블런델과 영구 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-20T14:27:07+00:00"
+ },
+ {
+  "id": "e20139ca0aa3",
+  "title": "Liverpool sign midfielder Itamura from Feyenoord",
+  "player": "Mao Itamura",
+  "title_ko": "리버풀은 페예노르트의 미드필더 이타무라를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly520nn5r8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-20T14:14:29+00:00"
+ },
+ {
+  "id": "b2b259829061",
+  "title": "El Málaga cerrará el fichaje de Dotor esta semana",
+  "player": "El Málaga",
+  "title_ko": "말라가는 이번 주에 Dotor의 영입을 마무리할 것입니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/20/malaga-cerrara-fichaje-dotor-semana.html",
+  "fee": null,
+  "published": "2026-07-20T14:12:42+00:00"
+ },
+ {
   "id": "7ac5d404f020",
   "title": "Reitz über Wechsel-Theater: \"Spurlos geht das nicht vorbei\"",
   "player": "Rocco Reitz",
@@ -1215,41 +1254,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/arsenal-aston-villa-talks-morgan-rogers-transfer/",
   "fee": null,
   "published": "2026-07-18T06:17:33+00:00"
- },
- {
-  "id": "3c0adde4892d",
-  "title": "Bid rejected: Tottenham not playing ball in transfer deal that could help Arsenal",
-  "title_ko": "입찰 거부됨: 토트넘은 아스날에 도움이 될 수 있는 이적 거래에서 공을 던지지 않습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/tottenham-reject-lucas-bergvall-transfer-bid-from-newcastle/",
-  "fee": null,
-  "published": "2026-07-18T06:01:47+00:00"
- },
- {
-  "id": "067ff39fb043",
-  "title": "Benfica agree deal for former Premier League striker who is ready for fresh start",
-  "title_ko": "벤피카는 새로운 출발을 준비하는 전 프리미어리그 스트라이커와의 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/benfica-deal-former-premier-league-striker/",
-  "fee": null,
-  "published": "2026-07-18T05:45:00+00:00"
- },
- {
-  "id": "670373e58f9d",
-  "title": "Newcastle see “writing on the wall” over £90m transfer of key midfielder",
-  "title_ko": "뉴캐슬은 핵심 미드필더의 £90m 이적에 대해 \"벽에 쓴 글\"을 봅니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/bruno-midfielder-writing-on-the-wall-90m/",
-  "fee": "£90M",
-  "published": "2026-07-18T05:20:00+00:00"
  }
 ]
