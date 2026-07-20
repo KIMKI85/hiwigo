@@ -186,8 +186,10 @@
 
   <aside>
     <div class="box">
-      <h4>리그별 이적료 지출 (샘플)</h4>
-      <div id="spendBoard"></div>
+      <h4>리그별 오피셜 동향 <span style="font-weight:400;letter-spacing:0">— 이번 여름</span></h4>
+      <div id="spendBoard"><div style="color:var(--ink-dim);font-size:.8rem">집계 중...</div></div>
+      <div style="font-size:.65rem;color:var(--ink-dim);margin-top:10px;line-height:1.5">
+        히위고가 수집한 오피셜 기사 기준 자체 집계.<br>이적료는 기사 제목에서 파악된 금액의 추정 합산(£·$는 € 환산)입니다.</div>
     </div>
     <!-- 사이드 광고 자리 -->
     <div class="ad-slot ad-300"><b>AD · 300×250</b>구글 애드센스 — 사이드 렉탱글<span style="font-size:.68rem">스크롤 고정(sticky) 영역 추천</span></div>
@@ -251,6 +253,7 @@ async function loadData(){
   }
   render();
   renderTicker();
+  renderSpend();
 }
 
 const leagueMeta = {
@@ -319,19 +322,52 @@ function renderTicker(){
   document.getElementById("ticker").innerHTML = items + items; /* 무한 루프용 복제 */
 }
 
-/* 리그별 지출 보드 */
-const spend = [
-  {k:"EPL", amt:1240, max:1240}, {k:"LALIGA", amt:610}, {k:"SERIEA", amt:540},
-  {k:"BUND", amt:480}, {k:"LIGUE1", amt:430}
-];
-document.getElementById("spendBoard").innerHTML = spend.map(s=>`
-  <div class="spend-row">
-    <div style="flex:1">
-      <div><span class="lg-dot" style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${leagueMeta[s.k].color};margin-right:6px"></span>${leagueMeta[s.k].name}</div>
-      <div class="bar-track"><div class="bar-fill" style="width:${s.amt/12.4}%;background:${leagueMeta[s.k].color}"></div></div>
-    </div>
-    <span class="amt disp">€${s.amt}M</span>
-  </div>`).join("");
+/* 리그별 오피셜 동향: 이번 여름(6월~) 아카이브 + 최신 데이터에서 오피셜만 집계 */
+async function renderSpend(){
+  const months = ["2026-06","2026-07","2026-08","2026-09"];
+  let all = [...rumors];
+  for(const m of months){
+    try{
+      const r = await fetch(`data/archive/${m}.json`, {cache:"no-store"});
+      if(r.ok) all = all.concat(await r.json());
+    }catch(e){}
+  }
+  const officials = all.filter(x => x.status === "official");
+  // 같은 딜의 중복 기사 제거: 리그+금액(+선수) 기준
+  const seen = new Set();
+  const stats = {}; // league -> {count, fee}
+  for(const it of officials){
+    const key = it.league + "|" + (it.fee || it.url) + "|" + (it.player || "");
+    if(seen.has(key)) continue;
+    seen.add(key);
+    const s = stats[it.league] = stats[it.league] || {count:0, fee:0};
+    s.count++;
+    if(it.fee){
+      const m2 = it.fee.match(/([€£$])\s?(\d+(?:\.\d+)?)/);
+      if(m2){
+        let v = parseFloat(m2[2]);
+        if(m2[1] === "£") v *= 1.17;      // 파운드 → 유로 추정 환산
+        else if(m2[1] === "$") v *= 0.92; // 달러 → 유로 추정 환산
+        s.fee += v;
+      }
+    }
+  }
+  const order = ["EPL","LALIGA","SERIEA","BUND","LIGUE1"];
+  const maxFee = Math.max(1, ...order.map(k => stats[k]?.fee || 0));
+  const el = document.getElementById("spendBoard");
+  const rows = order.map(k => {
+    const s = stats[k] || {count:0, fee:0};
+    return `<div class="spend-row">
+      <div style="flex:1">
+        <div><span class="lg-dot" style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${leagueMeta[k].color};margin-right:6px"></span>${leagueMeta[k].name}
+          <span style="color:var(--ink-dim);font-size:.72rem"> 오피셜 ${s.count}건</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:${Math.round(s.fee/maxFee*100)}%;background:${leagueMeta[k].color}"></div></div>
+      </div>
+      <span class="amt disp">${s.fee ? "€"+Math.round(s.fee)+"M+" : "—"}</span>
+    </div>`;
+  }).join("");
+  el.innerHTML = rows;
+}
 
 /* 이적시장 마감 D-day (2026 여름: 9/1 가정) */
 const dday = Math.ceil((new Date("2026-09-01") - new Date())/(1000*60*60*24));
