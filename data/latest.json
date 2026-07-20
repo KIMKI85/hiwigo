@@ -1,5 +1,31 @@
 [
  {
+  "id": "e4bef3db029d",
+  "title": "Michael Carrick issues next Man Utd transfer demand as Premier League stars targeted",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭은 프리미어리그 스타들을 타겟으로 하여 다음 맨유 이적 요구를 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-michael-carrick-37455235",
+  "fee": null,
+  "published": "2026-07-20T16:10:41+00:00"
+ },
+ {
+  "id": "8db38b2ba1d6",
+  "title": "Als Will-Ersatz: Darmstadt verpflichtet Sickinger",
+  "player": "Als Will-",
+  "title_ko": "윌의 대체자로: 다름슈타트가 시킹어와 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/als-will-ersatz-darmstadt-verpflichtet-sickinger-1237524/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-20T16:10:05+00:00"
+ },
+ {
   "id": "bb1ea3955a67",
   "title": "RWO verliert seine Nummer 1: Kratzsch wechselt zu Zweitliga-Aufsteiger Cottbus",
   "player": "Aufsteiger Cottbus",
@@ -1232,29 +1258,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/chelsea-arsenal-maxence-lacroix-transfer/",
   "fee": null,
   "published": "2026-07-18T07:59:51+00:00"
- },
- {
-  "id": "67cadc4a10d6",
-  "title": "From Germany: Man United & Newcastle interested in signing 22-year-old talent",
-  "title_ko": "독일에서: 맨유와 뉴캐슬이 22세 유망주 영입에 관심을 갖고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/hugo-larsson-transfer-man-united-newcastle/",
-  "fee": null,
-  "published": "2026-07-18T07:37:18+00:00"
- },
- {
-  "id": "d0faacc5a95b",
-  "title": "“Here we go” for Arsenal to sign Tottenham defender, says Fabrizio Romano in morning update",
-  "title_ko": "아침 업데이트에서 파브리치오 로마노는 아스날이 토트넘 수비수를 영입하기 위해 \"여기 있습니다\"라고 말했습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/arsenal-transfer-elijah-upson-here-we-go-romano/",
-  "fee": null,
-  "published": "2026-07-18T07:16:22+00:00"
  }
 ]
