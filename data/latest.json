@@ -13,6 +13,19 @@
   "published": "2026-07-20T11:13:00+00:00"
  },
  {
+  "id": "d5969b5c9dcb",
+  "title": "Fiorentina target ambitious move for Leipzig forward Bakayoko",
+  "player": "Johan Bakayoko",
+  "title_ko": "피오렌티나는 라이프치히 공격수 바카요코의 야심찬 움직임을 목표로 하고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-ambitious-move-leipzig-bakayoko/",
+  "fee": null,
+  "published": "2026-07-20T11:00:00+00:00"
+ },
+ {
   "id": "9d035b28b010",
   "title": "Michael Olise 'desperate' to leave Bayern Munich as Liverpool transfer target takes action",
   "player": "Michael Olise",
@@ -1229,17 +1242,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-07-17T17:50:00+00:00"
- },
- {
-  "id": "d2a57e7eec25",
-  "title": "Manager confirms Arsenal transfer deal imminent after £34m agreement reached",
-  "title_ko": "감독은 £34m 합의 후 아스날 이적 계약이 임박했음을 확인했습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-christos-tzolis-37446248",
-  "fee": "£34M",
-  "published": "2026-07-17T17:42:33+00:00"
  }
 ]
