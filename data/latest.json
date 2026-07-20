@@ -1,5 +1,57 @@
 [
  {
+  "id": "3835e09cb6a5",
+  "title": "Chelsea sign Malard from Man Utd",
+  "player": "Melvine Malard",
+  "title_ko": "첼시가 맨유에서 말라드를 영입했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565293/melvine-malard-chelsea-complete-signing-of-manchester-united-forward-on-750000-deal",
+  "fee": null,
+  "published": "2026-07-20T15:00:00+00:00"
+ },
+ {
+  "id": "7ac5d404f020",
+  "title": "Reitz über Wechsel-Theater: \"Spurlos geht das nicht vorbei\"",
+  "player": "Rocco Reitz",
+  "title_ko": "Wechsel-Theater에 대한 Reitz: “흔적 없이는 사라지지 않을 것입니다”",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/reitz-ueber-wechsel-theater-spurlos-geht-das-nicht-vorbei-1237496/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-20T14:09:35+00:00"
+ },
+ {
+  "id": "d24e3cb0360e",
+  "title": "Chelsea sign Man Utd striker Malard for £850,000",
+  "player": "Melvine Malard",
+  "title_ko": "첼시는 맨유의 스트라이커 말라드를 £850,000에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62120n7y8jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-20T14:09:05+00:00"
+ },
+ {
+  "id": "523e0209f970",
+  "title": "Every Premier League summer transfer as Man Utd, Arsenal and Liverpool splash the cash",
+  "player": null,
+  "title_ko": "맨유, 아스날, 리버풀이 현금을 쏟아부으면서 프리미어리그 여름 이적 때마다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-transfers-done-deals-37454347",
+  "fee": null,
+  "published": "2026-07-20T13:56:29+00:00"
+ },
+ {
   "id": "53573ea91d51",
   "title": "Why are Premier League transfer fees soaring?",
   "player": "With Morgan Rogers",
@@ -1199,53 +1251,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/bruno-midfielder-writing-on-the-wall-90m/",
   "fee": "£90M",
   "published": "2026-07-18T05:20:00+00:00"
- },
- {
-  "id": "afe02cf981a9",
-  "title": "Man Utd transfer news: Morgan Rogers details 'under wraps' as £40m clause expires",
-  "title_ko": "맨유 이적 소식: 모건 로저스, £40m 조항 만료로 '숨겨진' 내용",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-morgan-rogers-clause-37444747",
-  "fee": "£40M",
-  "published": "2026-07-18T03:30:00+00:00"
- },
- {
-  "id": "c108ffed3a76",
-  "title": "Arsenal news: Mikel Arteta gets transfer green light for £150m double raid as medical booked",
-  "title_ko": "아스날 뉴스: 미켈 아르테타(Mikel Arteta)가 메디컬 예약으로 £150m 더블 레이드에 대한 이적 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-konsa-rogers-tzolis-37444694",
-  "fee": "£150M",
-  "published": "2026-07-18T03:00:00+00:00"
- },
- {
-  "id": "187f0f187240",
-  "title": "Papers: Jackson, Summerville on Villa's radar after Chelsea's Rogers move",
-  "title_ko": "논문: 첼시의 로저스가 이적한 후 빌라의 레이더에 있는 잭슨, 서머빌",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564829/nicolas-jackson-and-crysencio-summerville-on-aston-villas-radar-paper-talk",
-  "fee": null,
-  "published": "2026-07-17T22:45:00+00:00"
- },
- {
-  "id": "766065ad547a",
-  "title": "Done Deal: Oulai flies out for Fiorentina medical, €29m plus bonus from Trabzonspor",
-  "title_ko": "거래 완료: 오울라이, 피오렌티나 메디컬로 이적, €29m + 트라브존스포르 보너스",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-oulai-flies-out-fiorentina-medical/",
-  "fee": "€29M",
-  "published": "2026-07-17T21:40:12+00:00"
  }
 ]
