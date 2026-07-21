@@ -1,5 +1,18 @@
 [
  {
+  "id": "cda22341991a",
+  "title": "Man City to sign youngster from under Arsenal's noses after contract rejection",
+  "player": "Mishel Nduka",
+  "title_ko": "계약 거부 후 아스날의 코앞에서 젊은 선수를 영입하는 맨시티",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-teenager-contract-37458813",
+  "fee": null,
+  "published": "2026-07-21T12:58:38+00:00"
+ },
+ {
   "id": "327635bec6c2",
   "title": "Mercato: le FC Barcelone s'intéresse au champion du monde, Aymeric Laporte",
   "player": "Aymeric Laporte",
@@ -1279,17 +1292,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/newcastle-plot-ambitious-move-for-serie-a-midfield-powerhouse/",
   "fee": null,
   "published": "2026-07-18T20:30:23+00:00"
- },
- {
-  "id": "ec885352b993",
-  "title": "West Ham accelerate move for exciting 20-year-old defender in summer overhaul",
-  "title_ko": "웨스트햄, 여름 점검을 통해 흥미진진한 20세 수비수 영입 가속화",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/west-ham-accelerate-move-for-exciting-20-year-old-defender-in-summer-overhaul/",
-  "fee": null,
-  "published": "2026-07-18T20:00:22+00:00"
  }
 ]
