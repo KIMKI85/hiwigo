@@ -130,6 +130,19 @@
   "published": "2026-07-21T11:17:34+00:00"
  },
  {
+  "id": "3c76e9c14cad",
+  "title": "Lacroix, Sinayoko, Digne... les 5 infos mercato du 21 juillet à la mi-journée",
+  "player": null,
+  "title_ko": "라크로아, 시나요코, 디뉴... 7월 21일 정오부터 5번의 이적 창구 안내",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-lacroix-sinayoko-digne-les-5-infos-mercato-du-21-juillet-a-la-mi-journee_VN-202607210447.html",
+  "fee": null,
+  "published": "2026-07-21T11:16:19+00:00"
+ },
+ {
   "id": "84a8edcdd542",
   "title": "Chelsea to announce £34m transfer after Jude Bellingham World Cup slap",
   "player": "Jude Bellingham World",
@@ -1282,17 +1295,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-guirassy-37447998",
   "fee": "£34M",
   "published": "2026-07-19T03:00:00+00:00"
- },
- {
-  "id": "97951134457f",
-  "title": "Aston Villa and Crystal Palace offered chance to sign €20m midfielder",
-  "title_ko": "Aston Villa와 Crystal Palace는 €20m의 미드필더를 영입할 기회를 제공했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/aston-villa-and-crystal-palace-offered-chance-to-sign-e20m-midfielder/",
-  "fee": "€20M",
-  "published": "2026-07-18T21:00:47+00:00"
  }
 ]
