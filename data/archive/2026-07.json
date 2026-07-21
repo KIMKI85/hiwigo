@@ -1,5 +1,31 @@
 [
  {
+  "id": "153f7d6d88ae",
+  "title": "Stones emerges as potential Chelsea target",
+  "player": "John Stones",
+  "title_ko": "스톤즈가 첼시의 잠재적 타깃으로 떠올랐다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
+  "fee": null,
+  "published": "2026-07-21T19:27:00+00:00"
+ },
+ {
+  "id": "f4f26df5bc61",
+  "title": "Adams flies out for Venezia medical in deal worth total €23m",
+  "player": "Akor Adams",
+  "title_ko": "아담스는 베네치아 메디컬로 총 2300만 유로 상당의 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/adams-flies-out-for-venezia-medical-total-e23m/",
+  "fee": "€23M",
+  "published": "2026-07-21T18:41:18+00:00"
+ },
+ {
   "id": "f7951e554df5",
   "title": "Done Deal: Modric agreement for new Milan contract to June 2027",
   "player": "Luka Modric",

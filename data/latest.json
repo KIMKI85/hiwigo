@@ -1,5 +1,31 @@
 [
  {
+  "id": "153f7d6d88ae",
+  "title": "Stones emerges as potential Chelsea target",
+  "player": "John Stones",
+  "title_ko": "스톤즈가 첼시의 잠재적 타깃으로 떠올랐다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
+  "fee": null,
+  "published": "2026-07-21T19:27:00+00:00"
+ },
+ {
+  "id": "f4f26df5bc61",
+  "title": "Adams flies out for Venezia medical in deal worth total €23m",
+  "player": "Akor Adams",
+  "title_ko": "아담스는 베네치아 메디컬로 총 2300만 유로 상당의 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/adams-flies-out-for-venezia-medical-total-e23m/",
+  "fee": "€23M",
+  "published": "2026-07-21T18:41:18+00:00"
+ },
+ {
   "id": "f7951e554df5",
   "title": "Done Deal: Modric agreement for new Milan contract to June 2027",
   "player": "Luka Modric",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/inter-prepare-tottenham-talks-spence-transfer/",
   "fee": null,
   "published": "2026-07-19T11:12:38+00:00"
- },
- {
-  "id": "e2d066096cae",
-  "title": "Rogers, Alvarez, Summerville... Les 5 infos mercato du 19 juillet à la mi-journée",
-  "player": "Morgan Rogers",
-  "title_ko": "로저스, 알바레즈, 서머빌... 7월 19일 정오부터 5번 이적시장 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-rogers-alvarez-summerville-les-5-infos-mercato-du-19-juillet-a-la-mi-journee_VN-202607190203.html",
-  "fee": null,
-  "published": "2026-07-19T10:34:05+00:00"
- },
- {
-  "id": "bd2544b947f3",
-  "title": "Morgan Rogers' three reasons for choosing £117m Chelsea transfer as Arsenal snubbed",
-  "player": "Morgan Rogers",
-  "title_ko": "아스날이 거절당했을 때 모건 로저스가 1억 1700만 파운드로 첼시 이적을 선택한 세 가지 이유",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/morgan-rogers-chelsea-transfer-arsenal-37449640",
-  "fee": "£117M",
-  "published": "2026-07-19T10:16:14+00:00"
  }
 ]
