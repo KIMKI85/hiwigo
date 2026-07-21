@@ -1,5 +1,18 @@
 [
  {
+  "id": "69cff4dee26a",
+  "title": "West Ham agree big-money deal with Al Hilal for Summerville",
+  "player": "Al Hilal",
+  "title_ko": "웨스트햄, 서머빌 이적료로 알 힐랄과 거액 계약 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
+  "fee": null,
+  "published": "2026-07-21T17:15:00+00:00"
+ },
+ {
   "id": "23446e9fbd5f",
   "title": "Aston Villa in talks to sign Garnacho",
   "player": "Alejandro Garnacho",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea",
   "fee": null,
   "published": "2026-07-21T16:46:00+00:00"
+ },
+ {
+  "id": "23eefd948774",
+  "title": "Villa in talks to sign Chelsea's Garnacho",
+  "player": "Chelsea's Garnacho",
+  "title_ko": "빌라, 첼시 가르나초 영입 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T16:16:41+00:00"
  },
  {
   "id": "deb33497ccd0",

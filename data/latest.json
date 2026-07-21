@@ -1,5 +1,18 @@
 [
  {
+  "id": "69cff4dee26a",
+  "title": "West Ham agree big-money deal with Al Hilal for Summerville",
+  "player": "Al Hilal",
+  "title_ko": "웨스트햄, 서머빌 이적료로 알 힐랄과 거액 계약 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
+  "fee": null,
+  "published": "2026-07-21T17:15:00+00:00"
+ },
+ {
   "id": "23446e9fbd5f",
   "title": "Aston Villa in talks to sign Garnacho",
   "player": "Alejandro Garnacho",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea",
   "fee": null,
   "published": "2026-07-21T16:46:00+00:00"
+ },
+ {
+  "id": "23eefd948774",
+  "title": "Villa in talks to sign Chelsea's Garnacho",
+  "player": "Chelsea's Garnacho",
+  "title_ko": "빌라, 첼시 가르나초 영입 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T16:16:41+00:00"
  },
  {
   "id": "deb33497ccd0",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37449281",
   "fee": "£39M",
   "published": "2026-07-19T08:06:30+00:00"
- },
- {
-  "id": "19d49bcf44d1",
-  "title": "Club with positive relationship with Man City hoping to pull off dream Foden signing",
-  "player": null,
-  "title_ko": "꿈의 포덴 영입을 희망하는 맨시티와 긍정적인 관계를 맺고 있는 클럽",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/club-positive-relationship-man-city-foden-signing/",
-  "fee": null,
-  "published": "2026-07-19T07:54:48+00:00"
- },
- {
-  "id": "ee7b0d705d3f",
-  "title": "Sources: Liverpool make ‘concrete plan’ to sign left-back likely to cost between €40-€50m",
-  "player": null,
-  "title_ko": "출처: 리버풀은 €40-€50m의 비용이 들 것으로 예상되는 레프트백 영입을 위한 '구체적인 계획'을 세웠습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/sources-liverpool-concrete-plan-sign-left-back/",
-  "fee": "€50M",
-  "published": "2026-07-19T06:15:41+00:00"
  }
 ]
