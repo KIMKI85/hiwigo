@@ -13,6 +13,32 @@
   "published": "2026-07-21T21:40:00+00:00"
  },
  {
+  "id": "2c128d427551",
+  "title": "Alejandro Garnacho set to swap places with Morgan Rogers as Aston Villa eye swoop",
+  "player": "Alejandro Garnacho",
+  "title_ko": "알레한드로 가르나초는 아스톤 빌라의 시선을 사로잡을 모건 로저스와 자리를 바꿀 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-chelsea-villa-transfer-37460881",
+  "fee": null,
+  "published": "2026-07-21T21:25:25+00:00"
+ },
+ {
+  "id": "a6530695ea99",
+  "title": "Morgan Rogers ‘excited to join biggest club in London’ after signing £117m Chelsea deal",
+  "player": "Morgan Rogers",
+  "title_ko": "모건 로저스, £117m 첼시 계약 후 '런던 최대 클럽에 합류하게 돼 기쁘다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal",
+  "fee": "£117M",
+  "published": "2026-07-21T21:16:26+00:00"
+ },
+ {
   "id": "0709982d8b6c",
   "title": "Rogers wechselt für Rekordsumme von Aston Villa zu Chelsea",
   "player": "Rekordsumme von",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/milinkovic-savic-swap-vicario-napoli-tottenham/",
   "fee": null,
   "published": "2026-07-19T14:49:05+00:00"
- },
- {
-  "id": "9528783c017d",
-  "title": "Report Zaniolo closer to Udinese agreement on new contract",
-  "player": "Nicolò Zaniolo",
-  "title_ko": "Zaniolo가 새로운 계약에 대한 우디네세의 합의에 가까워졌다고 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-zaniolo-closer-to-udinese-agreement/",
-  "fee": null,
-  "published": "2026-07-19T14:22:27+00:00"
- },
- {
-  "id": "a08d4f54ade8",
-  "title": "LIVE! Hoeneß wechselt zur Pause komplett durch - auch Jovanovic trifft doppelt",
-  "player": "Gegen den Oberligisten",
-  "title_ko": "살다! 회네스는 휴식 시간에 완전히 변화합니다 - 요바노비치도 두 골을 넣습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/tsg-balingen-gegen-stuttgart-2026-vereine-freundschaftsspiele-5203440/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-07-19T14:01:59+00:00"
  }
 ]
