@@ -1,5 +1,31 @@
 [
  {
+  "id": "12cfef2799d5",
+  "title": "Antonio Silva set for Bournemouth move after Milan speculation",
+  "player": "Antonio Silva",
+  "title_ko": "안토니오 실바는 밀란의 추측 이후 본머스로 이적할 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/antonio-silva-bournemouth-milan-speculation/",
+  "fee": null,
+  "published": "2026-07-21T11:17:34+00:00"
+ },
+ {
+  "id": "84a8edcdd542",
+  "title": "Chelsea to announce £34m transfer after Jude Bellingham World Cup slap",
+  "player": "Jude Bellingham World",
+  "title_ko": "Chelsea는 Jude Bellingham 월드컵 때린 후 £ 34m 이적을 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-valentin-barco-bellingham-37457872",
+  "fee": "£34M",
+  "published": "2026-07-21T11:15:01+00:00"
+ },
+ {
   "id": "63f2bf75e31b",
   "title": "Chelsea could ruin Arsenal transfer plans AGAIN as Blues target John Stones",
   "player": "John Stones",

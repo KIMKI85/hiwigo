@@ -1,5 +1,31 @@
 [
  {
+  "id": "12cfef2799d5",
+  "title": "Antonio Silva set for Bournemouth move after Milan speculation",
+  "player": "Antonio Silva",
+  "title_ko": "안토니오 실바는 밀란의 추측 이후 본머스로 이적할 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/antonio-silva-bournemouth-milan-speculation/",
+  "fee": null,
+  "published": "2026-07-21T11:17:34+00:00"
+ },
+ {
+  "id": "84a8edcdd542",
+  "title": "Chelsea to announce £34m transfer after Jude Bellingham World Cup slap",
+  "player": "Jude Bellingham World",
+  "title_ko": "Chelsea는 Jude Bellingham 월드컵 때린 후 £ 34m 이적을 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-valentin-barco-bellingham-37457872",
+  "fee": "£34M",
+  "published": "2026-07-21T11:15:01+00:00"
+ },
+ {
   "id": "63f2bf75e31b",
   "title": "Chelsea could ruin Arsenal transfer plans AGAIN as Blues target John Stones",
   "player": "John Stones",
@@ -1259,29 +1285,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
   "fee": "£117M",
   "published": "2026-07-18T18:10:33+00:00"
- },
- {
-  "id": "295dbfb343bb",
-  "title": "Chelsea agree record £117m deal for Villa midfielder Rogers",
-  "title_ko": "첼시는 빌라 미드필더 로저스의 이적료로 £117m에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
-  "fee": "£117M",
-  "published": "2026-07-18T18:02:48+00:00"
- },
- {
-  "id": "8ff8af25903a",
-  "title": "Aston Villa close in on 28-year-old wide man after agreement reached",
-  "title_ko": "Aston Villa는 합의에 도달한 후 28세의 와이드맨을 영입했습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/aston-villa-close-in-on-28-year-old-wide-man-after-agreement-reached/",
-  "fee": null,
-  "published": "2026-07-18T18:00:01+00:00"
  }
 ]
