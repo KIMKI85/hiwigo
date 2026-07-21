@@ -13,6 +13,19 @@
   "published": "2026-07-21T21:40:00+00:00"
  },
  {
+  "id": "0709982d8b6c",
+  "title": "Rogers wechselt für Rekordsumme von Aston Villa zu Chelsea",
+  "player": "Rekordsumme von",
+  "title_ko": "로저스는 기록적인 이적료로 아스톤 빌라에서 첼시로 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/rogers-wechselt-fuer-rekordsumme-von-aston-villa-zu-chelsea-1237113/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-21T21:02:12+00:00"
+ },
+ {
   "id": "19ebfb99367b",
   "title": "Chelsea sign £117m Rogers - what will he bring?",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/tsg-balingen-gegen-stuttgart-2026-vereine-freundschaftsspiele-5203440/spielbericht#omrss",
   "fee": null,
   "published": "2026-07-19T14:01:59+00:00"
- },
- {
-  "id": "85c719b69de7",
-  "title": "Arsenal 'complete Tottenham transfer swoop' despite Morgan Rogers blow as player rejects rivals",
-  "player": "Morgan Rogers",
-  "title_ko": "선수가 라이벌을 거부하면서 모건 로저스가 타격을 입었음에도 불구하고 아스날은 '토트넘 이적을 완료'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/elijah-upson-arsenal-transfer-tottenham-37450072",
-  "fee": null,
-  "published": "2026-07-19T13:22:41+00:00"
  }
 ]
