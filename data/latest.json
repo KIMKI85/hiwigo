@@ -1,5 +1,18 @@
 [
  {
+  "id": "604d09170673",
+  "title": "Al-Hilal surge for Summerville, but Roma remain confident of €50m agreement",
+  "player": null,
+  "title_ko": "Summerville의 Al-Hilal 급증, 그러나 Roma는 € 50m 합의를 확신합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/al-hilal-surge-for-summerville-roma-confident/",
+  "fee": "€50M",
+  "published": "2026-07-21T14:52:31+00:00"
+ },
+ {
   "id": "552119aa9d41",
   "title": "Australia striker McNamara joins Everton",
   "player": null,
@@ -1284,17 +1297,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-signings-targets-37447706",
   "fee": "£100M",
   "published": "2026-07-19T04:00:00+00:00"
- },
- {
-  "id": "2b1d1b3a07e8",
-  "title": "Man Utd news: Final decision made on £38million transfer as exit agreement nears",
-  "title_ko": "맨유 뉴스: 이탈 합의가 가까워짐에 따라 £38m 이적에 대한 최종 결정이 내려졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-summer-transfers-latest-37447428",
-  "fee": "£38M",
-  "published": "2026-07-19T03:30:00+00:00"
  }
 ]
