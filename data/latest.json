@@ -1,5 +1,18 @@
 [
  {
+  "id": "aa1114a6b3da",
+  "title": "Japan goalkeeper Okuma signs for Aston Villa",
+  "player": "Akane Okuma",
+  "title_ko": "일본 골키퍼 오쿠마가 아스톤 빌라로 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T09:22:27+00:00"
+ },
+ {
   "id": "0d5d12041660",
   "title": "Arsenal, Man Utd and Liverpool all facing nine-figure transfer problem this summer",
   "player": null,
@@ -1264,17 +1277,5 @@
   "url": "https://football-italia.net/cavani-wanted-by-lecce-target/",
   "fee": null,
   "published": "2026-07-18T15:04:37+00:00"
- },
- {
-  "id": "a20469744582",
-  "title": "Will the World Cup affect Arsenal's transfer plans?",
-  "title_ko": "월드컵이 아스날의 이적 계획에 영향을 미칠까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-18T14:47:45+00:00"
  }
 ]
