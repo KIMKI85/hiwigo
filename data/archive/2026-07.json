@@ -26,6 +26,19 @@
   "published": "2026-07-21T16:46:00+00:00"
  },
  {
+  "id": "167d136e0481",
+  "title": "Middlesbrough agree fee for Spurs striker Lankshear",
+  "player": "Will Lankshear",
+  "title_ko": "미들즈브러는 스퍼스의 스트라이커 랭크시어의 이적료에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T16:36:15+00:00"
+ },
+ {
   "id": "23eefd948774",
   "title": "Villa in talks to sign Chelsea's Garnacho",
   "player": "Chelsea's Garnacho",
@@ -154,6 +167,19 @@
   "url": "https://football-italia.net/agent-bastoni-transfer-stance-al-hilal-rumours/",
   "fee": null,
   "published": "2026-07-21T12:51:32+00:00"
+ },
+ {
+  "id": "c193ae78422e",
+  "title": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
+  "player": "Sepp Blatter",
+  "title_ko": "'축구 회복': 제프 블래터(Sepp Blatter)가 라 리가 수장과 합류해 지아니 인판티노의 사임을 요구",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit",
+  "fee": null,
+  "published": "2026-07-21T12:44:40+00:00"
  },
  {
   "id": "869dd21a0d52",
