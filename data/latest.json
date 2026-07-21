@@ -1,5 +1,18 @@
 [
  {
+  "id": "ff52b94f35c2",
+  "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
+  "player": null,
+  "title_ko": "논문: 맨유는 PSG의 자이르-에메리 영입을 고려하고 있다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
+  "fee": null,
+  "published": "2026-07-21T23:15:00+00:00"
+ },
+ {
   "id": "21cc599ab7db",
   "title": "Chelsea sign Rogers in record-breaking £117m deal",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/tottenham-linked-with-29-year-old-veteran-as-potential-swap-plan-take-shape/",
   "fee": null,
   "published": "2026-07-19T16:35:21+00:00"
- },
- {
-  "id": "1ca0474137b9",
-  "title": "Ibrahimovic warning after Rogers move to Chelsea: ‘Not every player worth £100m’",
-  "player": "Zlatan Ibrahimovic",
-  "title_ko": "로저스 첼시 이적 후 이브라히모비치 경고: '모든 선수가 £100m 가치가 있는 것은 아니다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ibrahimovic-rogers-chelsea-not-worth-100m/",
-  "fee": "£100M",
-  "published": "2026-07-19T15:13:22+00:00"
  }
 ]
