@@ -1,5 +1,18 @@
 [
  {
+  "id": "100e9d86bfed",
+  "title": "Liverpool news: Yan Diomande transfer U-turn and club issue statement over arrival",
+  "player": "Yan Diomande",
+  "title_ko": "리버풀 뉴스: 얀 디오만데 이적 유턴 및 도착에 대한 클럽 이슈 성명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-yan-diomande-psg-37454105",
+  "fee": null,
+  "published": "2026-07-21T04:00:00+00:00"
+ },
+ {
   "id": "718f1512af5c",
   "title": "Man Utd news: Marcus Rashford latest as transfer completed with Tottenham for star",
   "player": "Marcus Rashford",
@@ -1252,17 +1265,5 @@
   "url": "https://football-italia.net/yildiz-reacts-muharemovic-leeds-message/",
   "fee": null,
   "published": "2026-07-18T10:36:11+00:00"
- },
- {
-  "id": "3a2dd4980e67",
-  "title": "Video: Oulaï arrives from Trabzonspor to complete Fiorentina transfer",
-  "title_ko": "비디오: Oulaï는 Fiorentina 이적을 완료하기 위해 Trabzonspor에서 도착했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/oulai-arrives-from-trabzonspor-fiorentina/",
-  "fee": null,
-  "published": "2026-07-18T09:51:32+00:00"
  }
 ]
