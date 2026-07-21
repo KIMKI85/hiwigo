@@ -1,5 +1,31 @@
 [
  {
+  "id": "deb33497ccd0",
+  "title": "Luzern verpflichtet Simoni von Eintracht Frankfurt",
+  "player": "Simoni von Eintracht",
+  "title_ko": "루체른은 아인트라흐트 프랑크푸르트에서 시모니를 영입했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/luzern-verpflichtet-simoni-von-eintracht-frankfurt-1237744/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-21T15:21:38+00:00"
+ },
+ {
+  "id": "f46ab9f6dbf2",
+  "title": "Zaniolo and Udinese end salary stand-off with new contract to 2029",
+  "player": "Nicolò Zaniolo",
+  "title_ko": "자니올로와 우디네세는 연봉 대립을 끝내고 2029년까지 재계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/zaniolo-udinese-end-salary-stand-off-contract/",
+  "fee": null,
+  "published": "2026-07-21T15:18:16+00:00"
+ },
+ {
   "id": "604d09170673",
   "title": "Al-Hilal surge for Summerville, but Roma remain confident of €50m agreement",
   "player": null,
@@ -1272,30 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/arsenal-still-not-in-contact-sign-alternative-target/",
   "fee": null,
   "published": "2026-07-19T06:03:42+00:00"
- },
- {
-  "id": "4c3f117c9a3d",
-  "title": "Romano issues seismic Joao Pedro update as Chelsea agree Morgan Rogers deal",
-  "player": "Joao Pedro",
-  "title_ko": "Romano는 Chelsea가 Morgan Rogers의 거래에 동의함에 따라 Joao Pedro 업데이트를 발표했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/romano-issues-seismic-joao-pedro-update-chelsea/",
-  "fee": null,
-  "published": "2026-07-19T05:55:24+00:00"
- },
- {
-  "id": "573759bdc1fa",
-  "title": "Liverpool news: Double transfer demand received in £100m snub as rivals beaten to signing",
-  "title_ko": "리버풀 뉴스: 라이벌이 계약에서 패배하면서 £100m의 이중 이적 요구가 접수되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-signings-targets-37447706",
-  "fee": "£100M",
-  "published": "2026-07-19T04:00:00+00:00"
  }
 ]

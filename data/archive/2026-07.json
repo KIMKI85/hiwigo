@@ -1,5 +1,31 @@
 [
  {
+  "id": "deb33497ccd0",
+  "title": "Luzern verpflichtet Simoni von Eintracht Frankfurt",
+  "player": "Simoni von Eintracht",
+  "title_ko": "루체른은 아인트라흐트 프랑크푸르트에서 시모니를 영입했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/luzern-verpflichtet-simoni-von-eintracht-frankfurt-1237744/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-21T15:21:38+00:00"
+ },
+ {
+  "id": "f46ab9f6dbf2",
+  "title": "Zaniolo and Udinese end salary stand-off with new contract to 2029",
+  "player": "Nicolò Zaniolo",
+  "title_ko": "자니올로와 우디네세는 연봉 대립을 끝내고 2029년까지 재계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/zaniolo-udinese-end-salary-stand-off-contract/",
+  "fee": null,
+  "published": "2026-07-21T15:18:16+00:00"
+ },
+ {
   "id": "604d09170673",
   "title": "Al-Hilal surge for Summerville, but Roma remain confident of €50m agreement",
   "player": null,
