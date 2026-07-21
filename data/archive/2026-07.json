@@ -1,5 +1,44 @@
 [
  {
+  "id": "037befc6bf29",
+  "title": "Arsenal make first Bruno Guimaraes transfer approach as £60m plans ripped up",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 £60m 계획이 무산되면서 브루노 기마랑스의 첫 이적 접근 방식을 취했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-bruno-guimaraes-newcastle-37458305",
+  "fee": "£60M",
+  "published": "2026-07-21T11:40:49+00:00"
+ },
+ {
+  "id": "585e0e0c55c9",
+  "title": "Mercato: Rodri rêve de rejoindre le Real Madrid… mais l'intérêt n'est pas réciproque",
+  "player": "Fabrizio Romano",
+  "title_ko": "메르카토: 로드리는 레알 마드리드 이적을 꿈꾸지만… 관심은 호혜적이지 않다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-reve-de-rejoindre-le-real-madrid-mais-l-interet-n-est-pas-reciproque_AV-202607210376.html",
+  "fee": null,
+  "published": "2026-07-21T11:37:45+00:00"
+ },
+ {
+  "id": "0e81d82762d4",
+  "title": "Aston Villa are down familiar transfer path but eventually Unai Emery’s magic won’t be enough",
+  "player": "Unai Emery",
+  "title_ko": "Aston Villa는 익숙한 이적 경로를 따라가고 있지만 결국 Unai Emery의 마법만으로는 충분하지 않을 것입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-down-familiar-transfer-37457860",
+  "fee": null,
+  "published": "2026-07-21T11:29:04+00:00"
+ },
+ {
   "id": "12cfef2799d5",
   "title": "Antonio Silva set for Bournemouth move after Milan speculation",
   "player": "Antonio Silva",
