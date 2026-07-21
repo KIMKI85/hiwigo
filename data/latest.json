@@ -1,5 +1,31 @@
 [
  {
+  "id": "0d5d12041660",
+  "title": "Arsenal, Man Utd and Liverpool all facing nine-figure transfer problem this summer",
+  "player": null,
+  "title_ko": "아스날, 맨유, 리버풀 모두 이번 여름 이적 문제에 직면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-liverpool-transfers-37456676",
+  "fee": null,
+  "published": "2026-07-21T09:01:23+00:00"
+ },
+ {
+  "id": "123d02bc5ea2",
+  "title": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
+  "player": "Alice Sombath",
+  "title_ko": "토트넘, 리옹에서 앨리스 솜바스 영입으로 여성 이적 기록 경신",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record",
+  "fee": null,
+  "published": "2026-07-21T08:47:31+00:00"
+ },
+ {
   "id": "92f95330474c",
   "title": "Akor Adams pone rumbo a Italia para cerrar su fichaje por el Venezia",
   "player": "Akor Adams",
@@ -1250,29 +1276,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-18T14:47:45+00:00"
- },
- {
-  "id": "46f561033089",
-  "title": "Youri Tielemans transfer clause Man Utd used kept secret from Aston Villa staff",
-  "title_ko": "Youri Tielemans 이적 조항 Man Utd는 Aston Villa 직원에게 비밀을 유지했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-tielemans-37447956",
-  "fee": null,
-  "published": "2026-07-18T14:35:53+00:00"
- },
- {
-  "id": "ada8f3a70c27",
-  "title": "Jason Wilcox makes exciting Man Utd transfer promise to Michael Carrick",
-  "title_ko": "제이슨 윌콕스가 마이클 캐릭에게 맨유 이적을 약속했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-jason-wilcox-37447986",
-  "fee": null,
-  "published": "2026-07-18T13:45:52+00:00"
  }
 ]
