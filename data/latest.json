@@ -1,5 +1,18 @@
 [
  {
+  "id": "92f95330474c",
+  "title": "Akor Adams pone rumbo a Italia para cerrar su fichaje por el Venezia",
+  "player": "Akor Adams",
+  "title_ko": "Akor Adams는 베네치아와의 계약을 마무리하기 위해 이탈리아로 향합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/07/21/akor-adams-pone-rumbo-italia-cerrar-fichaje-venezia.html",
+  "fee": null,
+  "published": "2026-07-21T08:34:11+00:00"
+ },
+ {
   "id": "51b1c8125cb8",
   "title": "Bournemouth midfielder Scott rejects new contract",
   "player": "Alex Scott",
@@ -1261,17 +1274,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-jason-wilcox-37447986",
   "fee": null,
   "published": "2026-07-18T13:45:52+00:00"
- },
- {
-  "id": "4f5eaeb1adc1",
-  "title": "Offer imminent: Arsenal confident of £100m-plus transfer",
-  "title_ko": "제안 임박: 아스날은 £100m 이상의 이적을 확신",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/arsenal-confident-over-morgan-rogers-transfer/",
-  "fee": "£100M",
-  "published": "2026-07-18T13:40:49+00:00"
  }
 ]
