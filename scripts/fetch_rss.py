@@ -208,8 +208,17 @@ def translate_ko(title: str):
         return None
     try:
         ko = _translator.translate(title)
-        if ko and ko.strip() and ko.strip() != title.strip():
-            return ko.strip()
+        ko = (ko or "").strip()
+        if not ko or ko == title.strip():
+            return None
+        # 번역 서버가 에러 메시지를 본문처럼 반환하는 경우 차단
+        low = ko.lower()
+        bad = ["error 500", "server error", "that's an error", "there was an error",
+               "try again later", "that\u2019s all we know", "429", "too many requests",
+               "service unavailable", "bad gateway"]
+        if any(b in low for b in bad):
+            return None
+        return ko
     except Exception:
         pass
     return None
