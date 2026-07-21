@@ -1,5 +1,18 @@
 [
  {
+  "id": "525d98bef10c",
+  "title": "Man Utd’s failed transfers for five-time Champions League winner and two World Cup heroes",
+  "player": null,
+  "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-world-cup-37452783",
+  "fee": null,
+  "published": "2026-07-21T04:30:00+00:00"
+ },
+ {
   "id": "100e9d86bfed",
   "title": "Liverpool news: Yan Diomande transfer U-turn and club issue statement over arrival",
   "player": "Yan Diomande",
@@ -1253,17 +1266,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-hojbjerg-salah-spence-les-5-infos-mercato-du-18-juillet-a-la-mi-journee_VN-202607180200.html",
   "fee": null,
   "published": "2026-07-18T10:53:08+00:00"
- },
- {
-  "id": "0d7690d43fbe",
-  "title": "Yildiz reacts to Muharemovic’s Leeds move as defender sends message to Sassuolo",
-  "title_ko": "Yildiz는 수비수가 Sassuolo에게 메시지를 보내면서 Muharemovic의 Leeds 움직임에 반응합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/yildiz-reacts-muharemovic-leeds-message/",
-  "fee": null,
-  "published": "2026-07-18T10:36:11+00:00"
  }
 ]
