@@ -1,5 +1,18 @@
 [
  {
+  "id": "28aefa50265a",
+  "title": "Liverpool can only make ONE specific signing thanks to Premier League rule",
+  "player": null,
+  "title_ko": "리버풀은 프리미어리그 규정으로 인해 단 한 번의 특정 계약만 체결할 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-home-grown-37454685",
+  "fee": null,
+  "published": "2026-07-21T05:15:00+00:00"
+ },
+ {
   "id": "525d98bef10c",
   "title": "Man Utd’s failed transfers for five-time Champions League winner and two World Cup heroes",
   "player": null,
@@ -1254,17 +1267,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/spurs-closing-in-on-60m-deal-for-premier-league-winger/",
   "fee": "£60M",
   "published": "2026-07-18T11:00:16+00:00"
- },
- {
-  "id": "93d7c0193a7c",
-  "title": "Hojbjerg, Salah, Spence... Les 5 infos mercato du 18 juillet à la mi-journée",
-  "title_ko": "호이비에르, 살라, 스펜스... 7월 18일 정오부터 5번 이적시장 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-hojbjerg-salah-spence-les-5-infos-mercato-du-18-juillet-a-la-mi-journee_VN-202607180200.html",
-  "fee": null,
-  "published": "2026-07-18T10:53:08+00:00"
  }
 ]
