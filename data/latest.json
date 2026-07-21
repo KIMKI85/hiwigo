@@ -1,5 +1,31 @@
 [
  {
+  "id": "327635bec6c2",
+  "title": "Mercato: le FC Barcelone s'intéresse au champion du monde, Aymeric Laporte",
+  "player": "Aymeric Laporte",
+  "title_ko": "Mercato: FC 바르셀로나는 세계 챔피언 Aymeric Laporte에 관심이 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-fc-barcelone-s-interesse-au-champion-du-monde-aymeric-laporte_AV-202607210424.html",
+  "fee": null,
+  "published": "2026-07-21T12:55:53+00:00"
+ },
+ {
+  "id": "01fa625fba76",
+  "title": "Agent confirms Bastoni’s transfer stance amid Al Hilal rumours",
+  "player": "Al Hilal",
+  "title_ko": "에이전트는 Al Hilal 소문 속에서 Bastoni의 이적 입장을 확인했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/agent-bastoni-transfer-stance-al-hilal-rumours/",
+  "fee": null,
+  "published": "2026-07-21T12:51:32+00:00"
+ },
+ {
   "id": "869dd21a0d52",
   "title": "Report Summerville will join Roma for under €50m, despite Aston Villa interest",
   "player": "Alfredo Pedullà",
@@ -1265,29 +1291,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/west-ham-accelerate-move-for-exciting-20-year-old-defender-in-summer-overhaul/",
   "fee": null,
   "published": "2026-07-18T20:00:22+00:00"
- },
- {
-  "id": "8d2d9d2077af",
-  "title": "'Statement of intent!' | How Chelsea agreed HUGE £117m deal for Rogers!",
-  "title_ko": "'의향서!' | 첼시가 로저스에게 1억 1700만 파운드라는 엄청난 딜을 합의한 방법!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers",
-  "fee": "£117M",
-  "published": "2026-07-18T19:31:00+00:00"
- },
- {
-  "id": "8580defdfb5b",
-  "title": "Manchester United start new signing Andrey Santos in pre-season loss to Wrexham",
-  "title_ko": "맨체스터 유나이티드는 프리시즌에서 렉섬에게 패한 안드레이 산토스와 새로운 계약을 시작했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/18/manchester-united-start-new-signing-andrey-santos-in-pre-season-loss-to-wrexham",
-  "fee": null,
-  "published": "2026-07-18T19:15:10+00:00"
  }
 ]

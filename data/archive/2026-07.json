@@ -1,5 +1,31 @@
 [
  {
+  "id": "327635bec6c2",
+  "title": "Mercato: le FC Barcelone s'intéresse au champion du monde, Aymeric Laporte",
+  "player": "Aymeric Laporte",
+  "title_ko": "Mercato: FC 바르셀로나는 세계 챔피언 Aymeric Laporte에 관심이 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-fc-barcelone-s-interesse-au-champion-du-monde-aymeric-laporte_AV-202607210424.html",
+  "fee": null,
+  "published": "2026-07-21T12:55:53+00:00"
+ },
+ {
+  "id": "01fa625fba76",
+  "title": "Agent confirms Bastoni’s transfer stance amid Al Hilal rumours",
+  "player": "Al Hilal",
+  "title_ko": "에이전트는 Al Hilal 소문 속에서 Bastoni의 이적 입장을 확인했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/agent-bastoni-transfer-stance-al-hilal-rumours/",
+  "fee": null,
+  "published": "2026-07-21T12:51:32+00:00"
+ },
+ {
   "id": "869dd21a0d52",
   "title": "Report Summerville will join Roma for under €50m, despite Aston Villa interest",
   "player": "Alfredo Pedullà",
