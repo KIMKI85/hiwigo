@@ -13,6 +13,19 @@
   "published": "2026-07-21T08:00:00+00:00"
  },
  {
+  "id": "a5353b8c942d",
+  "title": "Video: Milan unveil 2026-27 away kit",
+  "player": null,
+  "title_ko": "비디오: 밀란, 2026-27 어웨이 키트 공개",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-milan-unveil-2026-27-away-kit-inzaghi/",
+  "fee": null,
+  "published": "2026-07-21T07:57:12+00:00"
+ },
+ {
   "id": "f8e8a00127da",
   "title": "Man Utd ahead of Arsenal in Manu Kone race after opening transfer talks for £51m star",
   "player": "Manu Kone",
@@ -1257,17 +1270,5 @@
   "url": "https://www.caughtoffside.com/2026/07/18/chelsea-defender-several-options-for-loan/",
   "fee": null,
   "published": "2026-07-18T12:40:00+00:00"
- },
- {
-  "id": "8e76cd940181",
-  "title": "Roma plot transfer revenge on Juventus and Massara",
-  "title_ko": "유벤투스와 마사라에 대한 로마의 이적 복수 계획",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-plot-transfer-revenge-juventus-massara/",
-  "fee": null,
-  "published": "2026-07-18T11:51:00+00:00"
  }
 ]
