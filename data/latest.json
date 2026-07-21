@@ -1,5 +1,18 @@
 [
  {
+  "id": "718f1512af5c",
+  "title": "Man Utd news: Marcus Rashford latest as transfer completed with Tottenham for star",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 뉴스: 마커스 래시포드가 최근 토트넘과의 스타 이적을 완료했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37454392",
+  "fee": null,
+  "published": "2026-07-21T03:30:00+00:00"
+ },
+ {
   "id": "4b66ac29da45",
   "title": "Arsenal news: Tottenham beaten to signing as shock short-term transfer to save millions eyed",
   "player": "Mikel Arteta",
@@ -1251,17 +1264,5 @@
   "url": "https://football-italia.net/oulai-arrives-from-trabzonspor-fiorentina/",
   "fee": null,
   "published": "2026-07-18T09:51:32+00:00"
- },
- {
-  "id": "c7260763f9dc",
-  "title": "Rückkehr perfekt: Freiburg verpflichtet Engelhardt",
-  "title_ko": "완벽한 복귀: 프라이부르크, 엥겔하르트 영입",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker (DE)",
-  "url": "https://www.kicker.de/rueckkehr-perfekt-freiburg-verpflichtet-engelhardt-1236130/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-18T09:15:55+00:00"
  }
 ]
