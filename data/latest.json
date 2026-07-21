@@ -1,5 +1,18 @@
 [
  {
+  "id": "e7c9f374dcc7",
+  "title": "Report Romagnoli transfer to Al-Sadd could collapse for 2nd time",
+  "player": "Alessio Romagnoli",
+  "title_ko": "로마뇰리의 알-사드 이적이 두 번째로 무산될 수 있다고 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-romagnoli-transfer-al-sadd-can-collapse/",
+  "fee": null,
+  "published": "2026-07-21T13:13:34+00:00"
+ },
+ {
   "id": "cda22341991a",
   "title": "Man City to sign youngster from under Arsenal's noses after contract rejection",
   "player": "Mishel Nduka",
@@ -1280,17 +1293,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cn8nypvz22no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-18T20:46:50+00:00"
- },
- {
-  "id": "bd99a3184c06",
-  "title": "Newcastle plot ambitious move for Serie A midfield powerhouse",
-  "title_ko": "뉴캐슬은 세리에 A 미드필더 강국을 위한 야심찬 움직임을 계획하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/newcastle-plot-ambitious-move-for-serie-a-midfield-powerhouse/",
-  "fee": null,
-  "published": "2026-07-18T20:30:23+00:00"
  }
 ]
