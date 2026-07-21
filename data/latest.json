@@ -1,5 +1,44 @@
 [
  {
+  "id": "21cc599ab7db",
+  "title": "Chelsea sign Rogers in record-breaking £117m deal",
+  "player": "Morgan Rogers",
+  "title_ko": "첼시는 기록적인 £117m 계약으로 로저스와 계약했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-117m-deal-to-sign-forward-from-aston-villa",
+  "fee": "£117M",
+  "published": "2026-07-21T21:40:00+00:00"
+ },
+ {
+  "id": "19ebfb99367b",
+  "title": "Chelsea sign £117m Rogers - what will he bring?",
+  "player": "Morgan Rogers",
+  "title_ko": "첼시가 1억 1700만 파운드에 로저스와 계약을 맺었습니다. 그는 무엇을 가져올까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+  "fee": "£117M",
+  "published": "2026-07-21T20:57:20+00:00"
+ },
+ {
+  "id": "342634bce68c",
+  "title": "BREAKING: Morgan Rogers completes record-breaking £117m transfer to Chelsea",
+  "player": "Morgan Rogers",
+  "title_ko": "속보: 모건 로저스가 기록적인 £117m의 첼시 이적을 완료했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/morgan-rogers-chelsea-transfer-arsenal-37457316",
+  "fee": "£117M",
+  "published": "2026-07-21T20:46:24+00:00"
+ },
+ {
   "id": "153f7d6d88ae",
   "title": "Stones emerges as potential Chelsea target",
   "player": "John Stones",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/elijah-upson-arsenal-transfer-tottenham-37450072",
   "fee": null,
   "published": "2026-07-19T13:22:41+00:00"
- },
- {
-  "id": "f81be550833c",
-  "title": "Man Utd star makes transfer statement and confirms he wants exit - 'I am ready'",
-  "player": "Radek Vitek's",
-  "title_ko": "맨유의 스타는 이적 성명을 발표하고 떠나고 싶다고 확인했다 - '나는 준비됐다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-radek-vitek-future-37449993",
-  "fee": null,
-  "published": "2026-07-19T13:08:45+00:00"
- },
- {
-  "id": "b69a67bd66a1",
-  "title": "Formal talks: Chelsea in contact to sign £55m centre-back appreciate by Arsenal",
-  "player": null,
-  "title_ko": "공식 회담: 아스날이 평가한 5500만 파운드의 센터백 영입을 위해 첼시가 접촉 중",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/formal-talks-chelsea-contact-sign-centre-back-arsenal/",
-  "fee": "£55M",
-  "published": "2026-07-19T12:32:27+00:00"
- },
- {
-  "id": "4a6360f7c1f7",
-  "title": "Juventus urged to sign one specific player after first summer friendly",
-  "player": null,
-  "title_ko": "유벤투스는 첫 여름 친선경기 이후 특정 선수 한 명과 계약할 것을 촉구했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-urged-sign-1-player-summer-friendly/",
-  "fee": null,
-  "published": "2026-07-19T12:06:00+00:00"
  }
 ]

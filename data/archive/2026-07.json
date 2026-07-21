@@ -1,5 +1,44 @@
 [
  {
+  "id": "21cc599ab7db",
+  "title": "Chelsea sign Rogers in record-breaking £117m deal",
+  "player": "Morgan Rogers",
+  "title_ko": "첼시는 기록적인 £117m 계약으로 로저스와 계약했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-117m-deal-to-sign-forward-from-aston-villa",
+  "fee": "£117M",
+  "published": "2026-07-21T21:40:00+00:00"
+ },
+ {
+  "id": "19ebfb99367b",
+  "title": "Chelsea sign £117m Rogers - what will he bring?",
+  "player": "Morgan Rogers",
+  "title_ko": "첼시가 1억 1700만 파운드에 로저스와 계약을 맺었습니다. 그는 무엇을 가져올까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+  "fee": "£117M",
+  "published": "2026-07-21T20:57:20+00:00"
+ },
+ {
+  "id": "342634bce68c",
+  "title": "BREAKING: Morgan Rogers completes record-breaking £117m transfer to Chelsea",
+  "player": "Morgan Rogers",
+  "title_ko": "속보: 모건 로저스가 기록적인 £117m의 첼시 이적을 완료했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/morgan-rogers-chelsea-transfer-arsenal-37457316",
+  "fee": "£117M",
+  "published": "2026-07-21T20:46:24+00:00"
+ },
+ {
   "id": "153f7d6d88ae",
   "title": "Stones emerges as potential Chelsea target",
   "player": "John Stones",
