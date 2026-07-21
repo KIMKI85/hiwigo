@@ -1,5 +1,44 @@
 [
  {
+  "id": "51b1c8125cb8",
+  "title": "Bournemouth midfielder Scott rejects new contract",
+  "player": "Alex Scott",
+  "title_ko": "본머스 미드필더 스콧, 재계약 거부",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T08:10:01+00:00"
+ },
+ {
+  "id": "e59a31b2921e",
+  "title": "Arsenal and Tottenham told Eli Junior Kroupi transfer won't happen - for any price",
+  "player": "Eli Junior Kroupi",
+  "title_ko": "아스날과 토트넘은 엘리 주니어 크루피 이적이 어떤 대가를 치르더라도 일어나지 않을 것이라고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bournemouth-kroupi-future-arsenal-tottenham-37456596",
+  "fee": null,
+  "published": "2026-07-21T08:04:48+00:00"
+ },
+ {
+  "id": "9bcb3d5a8373",
+  "title": "Tottenham sign France defender Sombath from Lyon",
+  "player": "Alice Sombath",
+  "title_ko": "토트넘은 리옹에서 프랑스 수비수 솜바스를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-21T08:00:28+00:00"
+ },
+ {
   "id": "c4774b95c694",
   "title": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
   "player": "Alex Scott",
