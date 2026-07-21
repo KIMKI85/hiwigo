@@ -1,5 +1,18 @@
 [
  {
+  "id": "c4774b95c694",
+  "title": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
+  "player": "Alex Scott",
+  "title_ko": "아스날, 첼시, 맨유의 타겟 스콧은 본머스의 새로운 계약을 거부했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united",
+  "fee": null,
+  "published": "2026-07-21T08:00:00+00:00"
+ },
+ {
   "id": "f8e8a00127da",
   "title": "Man Utd ahead of Arsenal in Manu Kone race after opening transfer talks for £51m star",
   "player": "Manu Kone",
@@ -1256,17 +1269,5 @@
   "url": "https://football-italia.net/roma-plot-transfer-revenge-juventus-massara/",
   "fee": null,
   "published": "2026-07-18T11:51:00+00:00"
- },
- {
-  "id": "716273a6f496",
-  "title": "Spurs ready to “open formal talks” with defender after sudden change of heart over transfer",
-  "title_ko": "이적에 대한 갑작스런 마음의 변화 후 수비수와 \"공식 대화\"를 시작할 준비가 된 토트넘",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/18/spurs-change-heart-formal-talks-defender/",
-  "fee": null,
-  "published": "2026-07-18T11:12:59+00:00"
  }
 ]
