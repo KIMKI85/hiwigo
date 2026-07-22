@@ -1,5 +1,31 @@
 [
  {
+  "id": "244afe9f23b3",
+  "title": "Man Utd and Arsenal locked in £40million transfer battle as duo hold talks over deal",
+  "player": "Alex Scott",
+  "title_ko": "맨유와 아스날은 두 사람이 거래 협상을 진행하면서 4천만 파운드의 이적 경쟁을 벌였습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-locked-40million-37463004",
+  "fee": "£40M",
+  "published": "2026-07-22T11:33:50+00:00"
+ },
+ {
+  "id": "195ea4868c80",
+  "title": "Funes, capataz en los fichajes del Málaga",
+  "player": null,
+  "title_ko": "푸네스, 말라가 영입 감독",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/22/funes-capataz-fichajes-malaga.html",
+  "fee": null,
+  "published": "2026-07-22T11:25:04+00:00"
+ },
+ {
   "id": "b7a612ffc299",
   "title": "Bruno Fernandes commits future to Manchester United despite new contract wait",
   "player": "Bruno Fernandes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss",
   "fee": "£38M",
   "published": "2026-07-20T10:08:19+00:00"
- },
- {
-  "id": "b93b3e67a530",
-  "title": "Rogers spotted arriving for Chelsea medical ahead of £117m deal",
-  "player": "Morgan Rogers",
-  "title_ko": "로저스는 £117m 계약을 앞두고 첼시 메디컬로 도착했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13565165/morgan-rogers-spotted-arriving-for-chelsea-medical-ahead-of-117m-deal",
-  "fee": "£117M",
-  "published": "2026-07-20T10:06:00+00:00"
- },
- {
-  "id": "70e6caa2aaad",
-  "title": "Torres, Stones, Salah... Les 5 infos mercato du 20 juillet à la mi-journée",
-  "player": "Ferran Torres",
-  "title_ko": "토레스, 스톤스, 살라… 7월 20일 정오부터 5개 이적시장 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-torres-stones-salah-les-5-infos-mercato-du-20-juillet-a-la-mi-journee_VN-202607200338.html",
-  "fee": null,
-  "published": "2026-07-20T10:01:20+00:00"
  }
 ]

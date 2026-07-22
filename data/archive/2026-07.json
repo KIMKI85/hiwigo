@@ -1,5 +1,31 @@
 [
  {
+  "id": "244afe9f23b3",
+  "title": "Man Utd and Arsenal locked in £40million transfer battle as duo hold talks over deal",
+  "player": "Alex Scott",
+  "title_ko": "맨유와 아스날은 두 사람이 거래 협상을 진행하면서 4천만 파운드의 이적 경쟁을 벌였습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-locked-40million-37463004",
+  "fee": "£40M",
+  "published": "2026-07-22T11:33:50+00:00"
+ },
+ {
+  "id": "195ea4868c80",
+  "title": "Funes, capataz en los fichajes del Málaga",
+  "player": null,
+  "title_ko": "푸네스, 말라가 영입 감독",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/22/funes-capataz-fichajes-malaga.html",
+  "fee": null,
+  "published": "2026-07-22T11:25:04+00:00"
+ },
+ {
   "id": "b7a612ffc299",
   "title": "Bruno Fernandes commits future to Manchester United despite new contract wait",
   "player": "Bruno Fernandes",
