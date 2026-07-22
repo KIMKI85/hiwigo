@@ -1,5 +1,18 @@
 [
  {
+  "id": "9b49ebd8577c",
+  "title": "Arsenal news: Bruno Guimaraes transfer update as £70m deal signed",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날 뉴스: 브루노 기마랑스 이적 업데이트, £70m 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37458829",
+  "fee": "£70M",
+  "published": "2026-07-22T03:00:00+00:00"
+ },
+ {
   "id": "ff52b94f35c2",
   "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-considering-ekhator-loan-parma-owusu/",
   "fee": null,
   "published": "2026-07-19T17:04:25+00:00"
- },
- {
-  "id": "00c299e7bc79",
-  "title": "Tottenham linked with 29-year-old veteran as potential swap plan take shape",
-  "player": "Vanja Milinkovic-",
-  "title_ko": "잠재적인 스왑 계획이 구체화되면서 토트넘은 29세 베테랑과 연결되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/tottenham-linked-with-29-year-old-veteran-as-potential-swap-plan-take-shape/",
-  "fee": null,
-  "published": "2026-07-19T16:35:21+00:00"
  }
 ]
