@@ -1,5 +1,18 @@
 [
  {
+  "id": "24442306eab6",
+  "title": "Why Chelsea have signed so many Man City academy graduates",
+  "player": "Morgan Rogers",
+  "title_ko": "첼시가 맨시티 아카데미 졸업생을 그렇게 많이 영입한 이유",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T06:13:29+00:00"
+ },
+ {
   "id": "38b1cd63388b",
   "title": "Transfer news LIVE: Chelsea bid rejected, Bruno Guimaraes to Arsenal and Man Utd blow",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/manchester-united-explore-10m-deal-for-highly-rated-defensive-talent/",
   "fee": "£10M",
   "published": "2026-07-19T18:45:12+00:00"
- },
- {
-  "id": "daca0758975d",
-  "title": "Liverpool submit opening bid for 39 goal, 37 assist Salah replacement as talks begin – report",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 협상이 시작되면서 39골, 37도움 살라 교체에 대한 첫 입찰을 제출했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/bradley-barcola-liverpool-transfer-opening-bid-psg/",
-  "fee": null,
-  "published": "2026-07-19T18:22:06+00:00"
  }
 ]
