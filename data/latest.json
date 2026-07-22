@@ -1,5 +1,18 @@
 [
  {
+  "id": "2048a9ded074",
+  "title": "Barcelona closing in on record-breaking Kerolin deal",
+  "player": null,
+  "title_ko": "바르셀로나, 기록적인 케롤린 계약 마무리",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m",
+  "fee": null,
+  "published": "2026-07-22T17:30:00+00:00"
+ },
+ {
   "id": "e8e995963ede",
   "title": "Al-Ahli join Al-Hilal and Man Utd in race for Roma’s Kone",
   "player": "Manu Kone",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-bologna-buy-alhassane-real-oviedo/",
   "fee": "€3.5M",
   "published": "2026-07-20T16:15:28+00:00"
- },
- {
-  "id": "e4bef3db029d",
-  "title": "Michael Carrick issues next Man Utd transfer demand as Premier League stars targeted",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 프리미어리그 스타들을 타겟으로 하여 다음 맨유 이적 요구를 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-michael-carrick-37455235",
-  "fee": null,
-  "published": "2026-07-20T16:10:41+00:00"
  }
 ]
