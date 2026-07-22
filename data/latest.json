@@ -1,5 +1,18 @@
 [
  {
+  "id": "cedd101c5212",
+  "title": "Roma transfer news: Summerville heads to Al-Hilal; Garnacho waited before Aston Villa move",
+  "player": null,
+  "title_ko": "로마 이적 소식: 서머빌이 알 힐랄로 향합니다. 가르나초는 아스톤 빌라가 이적하기 전에 기다렸다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-transfer-news-summerville-garnacho/",
+  "fee": null,
+  "published": "2026-07-22T19:54:22+00:00"
+ },
+ {
   "id": "0e605112a5b4",
   "title": "Aston Villa agree deal to sign Garnacho",
   "player": "Alejandro Garnacho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record",
   "fee": null,
   "published": "2026-07-21T08:47:31+00:00"
- },
- {
-  "id": "92f95330474c",
-  "title": "Akor Adams pone rumbo a Italia para cerrar su fichaje por el Venezia",
-  "player": "Akor Adams",
-  "title_ko": "Akor Adams는 베네치아와의 계약을 마무리하기 위해 이탈리아로 향합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/07/21/akor-adams-pone-rumbo-italia-cerrar-fichaje-venezia.html",
-  "fee": null,
-  "published": "2026-07-21T08:34:11+00:00"
  }
 ]
