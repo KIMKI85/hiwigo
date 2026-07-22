@@ -1,5 +1,18 @@
 [
  {
+  "id": "5ee5c731b0c4",
+  "title": "Six standout World Cup stars who Man Utd could sign next for Michael Carrick rebuild",
+  "player": "Michael Carrick",
+  "title_ko": "맨유가 마이클 캐릭 리빌딩을 위해 다음 계약을 맺을 수 있는 뛰어난 월드컵 스타 6명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-world-cup-37458459",
+  "fee": null,
+  "published": "2026-07-22T05:30:00+00:00"
+ },
+ {
   "id": "481beb37031f",
   "title": "Arsenal could boost transfer war chest by £90m with four exits in the works",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-pay-summerville-release-clause-west-ham/",
   "fee": "€53M",
   "published": "2026-07-19T17:47:20+00:00"
- },
- {
-  "id": "d32dcb29f901",
-  "title": "Liverpool win race to sign the next Kaka after beating European giants",
-  "player": "Samuel Martinez",
-  "title_ko": "리버풀은 유럽의 거물들을 꺾고 차기 카카 영입 경쟁에서 승리했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/liverpool-win-race-to-sign-the-next-kaka-after-beating-european-giants/",
-  "fee": null,
-  "published": "2026-07-19T17:40:41+00:00"
  }
 ]
