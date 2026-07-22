@@ -13,6 +13,45 @@
   "published": "2026-07-22T10:00:00+00:00"
  },
  {
+  "id": "277c6cbcff8a",
+  "title": "Blau-weiße Vereinsfarben: Werder wechselt die Tornetze im Zillertal",
+  "player": null,
+  "title_ko": "파란색과 흰색 클럽 색상: Werder는 Zillertal에서 골네트를 변경합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/blau-weisse-vereinsfarben-werder-wechselt-die-tornetze-im-zillertal-1237864/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T09:21:50+00:00"
+ },
+ {
+  "id": "b63385a7dfac",
+  "title": "Al-Hilal in direct contact with Roma for Manchester United target Kone",
+  "player": "Manu Kone",
+  "title_ko": "알힐랄은 맨체스터 유나이티드의 타겟인 코네를 위해 로마와 직접 접촉하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/al-hilal-direct-contact-with-roma-for-kone/",
+  "fee": null,
+  "published": "2026-07-22T09:18:55+00:00"
+ },
+ {
+  "id": "4b8eb1512b39",
+  "title": "'Frustrated' Newcastle will demand £80m for Arsenal target Guimaraes",
+  "player": "Bruno Guimaraes",
+  "title_ko": "좌절한 뉴캐슬은 아스날이 타겟인 기마랑이스에게 £80m를 요구할 것입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565860/newcastle-frustrated-by-arsenals-pursuit-of-bruno-guimaraes-and-will-demand-transfer-fee-of-80m-for-captain",
+  "fee": "£80M",
+  "published": "2026-07-22T09:06:00+00:00"
+ },
+ {
   "id": "50b2ebd9b50d",
   "title": "Arsenal sign Spain goalkeeper Rodriguez on free",
   "player": "Misa Rodriguez",
