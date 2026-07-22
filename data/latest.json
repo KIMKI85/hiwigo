@@ -1,5 +1,18 @@
 [
  {
+  "id": "28135e576c6a",
+  "title": "Done Deal: Venezia break club record to sign Nigeria striker Adams",
+  "player": "Akor Adams",
+  "title_ko": "거래 완료: 베네치아, 나이지리아 스트라이커 아담스 영입으로 클럽 기록 경신",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-venezia-break-club-record-adams/",
+  "fee": null,
+  "published": "2026-07-22T15:38:26+00:00"
+ },
+ {
   "id": "4efaff32eaa9",
   "title": "Aston Villa are inviting a nightmare to their door with ludicrous Alejandro Garnacho transfer",
   "player": "Alejandro Garnacho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/als-will-ersatz-darmstadt-verpflichtet-sickinger-1237524/artikel#omrss",
   "fee": null,
   "published": "2026-07-20T16:10:05+00:00"
- },
- {
-  "id": "bb1ea3955a67",
-  "title": "RWO verliert seine Nummer 1: Kratzsch wechselt zu Zweitliga-Aufsteiger Cottbus",
-  "player": "Aufsteiger Cottbus",
-  "title_ko": "RWO가 1위를 잃었습니다: Kratzsch는 Cottbus로 승격된 2부 리그로 이동했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/rwo-verliert-seine-nummer-1-kratzsch-wechselt-zu-zweitliga-aufsteiger-cottbus-1237528/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-20T15:35:11+00:00"
  }
 ]
