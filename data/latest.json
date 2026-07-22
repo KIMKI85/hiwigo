@@ -1,5 +1,18 @@
 [
  {
+  "id": "c7d8e95d02e1",
+  "title": "New Man Utd signing gets green light from Harry Maguire as exciting comment made",
+  "player": "Harry Maguire",
+  "title_ko": "새로운 맨유의 영입은 흥미진진한 발언으로 해리 맥과이어로부터 승인을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-verdict-maguire-37459618",
+  "fee": null,
+  "published": "2026-07-22T05:45:00+00:00"
+ },
+ {
   "id": "5ee5c731b0c4",
   "title": "Six standout World Cup stars who Man Utd could sign next for Michael Carrick rebuild",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/keep-a-close-eye-romano-drops-major-arsenal-transfer-update-on-elite-attacker/",
   "fee": null,
   "published": "2026-07-19T18:00:39+00:00"
- },
- {
-  "id": "453f10f40fbf",
-  "title": "Roma ready to pay Summerville release clause from West Ham, but is it €53m?",
-  "player": "Crysencio Summerville",
-  "title_ko": "로마는 웨스트햄으로부터 서머빌의 방출 조항을 지불할 준비가 되어 있지만, €53m인가?",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-pay-summerville-release-clause-west-ham/",
-  "fee": "€53M",
-  "published": "2026-07-19T17:47:20+00:00"
  }
 ]
