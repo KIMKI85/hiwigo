@@ -1,5 +1,18 @@
 [
  {
+  "id": "e8e995963ede",
+  "title": "Al-Ahli join Al-Hilal and Man Utd in race for Roma’s Kone",
+  "player": "Manu Kone",
+  "title_ko": "알 알리(Al-Ahli)는 알 힐랄(Al-Hilal), 맨유(Man Utd)와 함께 로마의 콘(Kone) 경쟁에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/al-ahli-join-al-hilal-and-man-utd-roma-kone/",
+  "fee": null,
+  "published": "2026-07-22T16:14:14+00:00"
+ },
+ {
   "id": "28135e576c6a",
   "title": "Done Deal: Venezia break club record to sign Nigeria striker Adams",
   "player": "Akor Adams",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-michael-carrick-37455235",
   "fee": null,
   "published": "2026-07-20T16:10:41+00:00"
- },
- {
-  "id": "8db38b2ba1d6",
-  "title": "Als Will-Ersatz: Darmstadt verpflichtet Sickinger",
-  "player": "Als Will-",
-  "title_ko": "윌의 대체자로: 다름슈타트가 시킹어와 계약함",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/als-will-ersatz-darmstadt-verpflichtet-sickinger-1237524/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-20T16:10:05+00:00"
  }
 ]
