@@ -1,5 +1,18 @@
 [
  {
+  "id": "2ad8f63998f4",
+  "title": "Bundesliga-Duo ausgestochen: Damar vor Wechsel nach Wolfsburg",
+  "player": "von Mittelfeldspieler Muhammed",
+  "title_ko": "분데스리가 듀오: 볼프스부르크로 이적하기 전 다마르",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/bundesliga-duo-ausgestochen-damar-vor-wechsel-nach-wolfsburg-1237885/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T10:47:43+00:00"
+ },
+ {
   "id": "eeeba698be82",
   "title": "Torres, Rogers, Openda... les 5 infos mercato du 22 juillet à midi",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13565146/arsenal-forward-charles-sagoe-jr-on-life-on-loan-in-sweden-with-kalmar-noni-maduekes-advice-and-inspiration-from-gunners-premier-league-win",
   "fee": null,
   "published": "2026-07-20T09:11:00+00:00"
- },
- {
-  "id": "50a1ec66ae2f",
-  "title": "DIRECT. Mercato: Jürgen Klopp confirme son arrivée au poste de sélectionneur de l'Allemagne",
-  "player": "Jürgen Klopp",
-  "title_ko": "직접. Mercato: 위르겐 클롭, 독일 감독으로 합류 확인",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-jurgen-klopp-confirme-son-arrivee-au-poste-de-selectionneur-de-l-allemagne_LN-202607200254.html",
-  "fee": null,
-  "published": "2026-07-20T07:34:13+00:00"
  }
 ]
