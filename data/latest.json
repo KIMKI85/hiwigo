@@ -13,6 +13,32 @@
   "published": "2026-07-22T13:00:00+00:00"
  },
  {
+  "id": "afd5863ff685",
+  "title": "\"Salut à tous, je m’appelle Axel Rouquette\": le bizutage totalement déchaîné d’une nouvelle recrue de l’US Créteil",
+  "player": "Axel Rouquette",
+  "title_ko": "“안녕하세요 여러분, 제 이름은 Axel Rouquette입니다”: US Créteil의 신입 사원에 대한 완전히 해방된 신고식",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/salut-a-tous-je-m-appelle-axel-rouquette-le-bizutage-totalement-dechaine-d-une-nouvelle-recrue-de-l-us-creteil_AN-202607220421.html",
+  "fee": null,
+  "published": "2026-07-22T12:37:54+00:00"
+ },
+ {
+  "id": "cc41136c25cf",
+  "title": "Die teuersten Transfers der Welt: Rogers knapp hinter dem Treppchen",
+  "player": "der Welt",
+  "title_ko": "세계에서 가장 비싼 이적료: 시상대 바로 뒤의 로저스",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-teuersten-transfers-der-welt-rogers-knapp-hinter-dem-treppchen-867614/slideshow#omrss",
+  "fee": null,
+  "published": "2026-07-22T12:37:35+00:00"
+ },
+ {
   "id": "689b830ccda8",
   "title": "Foden signs new four-year Man City contract",
   "player": "Phil Foden",
@@ -24,6 +50,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-22T12:17:51+00:00"
+ },
+ {
+  "id": "8764ae7e5d7e",
+  "title": "Nationalspieler mit Drittliga-Erfahrung: Mickels wechselt zum SV Waldhof",
+  "player": "Waldhof Mannheim",
+  "title_ko": "3부 리그 경험이 있는 국가대표 선수: 미켈스는 SV 발트호프로 이적합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-sv-waldhof-1237924/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T12:12:15+00:00"
  },
  {
   "id": "287f3014a856",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/bologna-want-40m-for-chelsea-villa-target-rowe/",
   "fee": "€40M",
   "published": "2026-07-20T12:15:00+00:00"
- },
- {
-  "id": "38fb81eedd1c",
-  "title": "Man Utd land £8m teenage star from Premier League rivals as they repeat transfer trick",
-  "player": "Tynan Thompson",
-  "title_ko": "맨유는 이적 트릭을 반복하면서 프리미어 리그 라이벌로부터 800만 파운드의 10대 스타를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-tottenham-tynan-thompson-37453429",
-  "fee": "£8M",
-  "published": "2026-07-20T11:51:36+00:00"
- },
- {
-  "id": "0cea22e4487f",
-  "title": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list",
-  "player": "João Gomes",
-  "title_ko": "주앙 고메스, £38m에 아스톤 빌라로 이적, 홀과 로빈슨을 맨체스터 유나이티드 명단에 포함",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest",
-  "fee": "£38M",
-  "published": "2026-07-20T11:45:42+00:00"
- },
- {
-  "id": "00ea42e13f04",
-  "title": "'Rogers move is crazy money for a player Chelsea don't need!'",
-  "player": "Sky Sports' Paul",
-  "title_ko": "'로저스 이적은 첼시가 필요로 하지 않는 선수에게 미친 돈입니다!'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565204/morgan-rogers-to-chelsea-paul-merson-says-blues-do-not-need-to-spend-117m-on-aston-villa-forward-as-they-have-cole-palmer",
-  "fee": null,
-  "published": "2026-07-20T11:34:00+00:00"
  }
 ]
