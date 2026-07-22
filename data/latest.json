@@ -13,6 +13,32 @@
   "published": "2026-07-22T13:00:00+00:00"
  },
  {
+  "id": "689b830ccda8",
+  "title": "Foden signs new four-year Man City contract",
+  "player": "Phil Foden",
+  "title_ko": "포덴, 맨시티와 4년 새 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T12:17:51+00:00"
+ },
+ {
+  "id": "287f3014a856",
+  "title": "Nationalspieler mit Drittliga-Erfahrung: Mickels wechselt zum Waldhof",
+  "player": "Waldhof Mannheim",
+  "title_ko": "3부 리그 경험이 있는 국가대표 선수: 미켈스는 발트호프로 이적합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-waldhof-1237924/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T12:12:15+00:00"
+ },
+ {
   "id": "8d300866bc07",
   "title": "Phil Foden comments on Enzo Maresca speak volumes as he signs new Man City contract",
   "player": "Phil Foden",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13565204/morgan-rogers-to-chelsea-paul-merson-says-blues-do-not-need-to-spend-117m-on-aston-villa-forward-as-they-have-cole-palmer",
   "fee": null,
   "published": "2026-07-20T11:34:00+00:00"
- },
- {
-  "id": "50a8ab9feb2e",
-  "title": "Aston Villa sign Gomes from Wolves in £38m deal",
-  "player": "Joao Gomes",
-  "title_ko": "Aston Villa는 £ 38m 거래로 울브스의 고메스를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564311/joao-gomes-aston-villa-sign-midfielder-from-wolves-in-38m-deal",
-  "fee": "£38M",
-  "published": "2026-07-20T11:13:00+00:00"
- },
- {
-  "id": "d5969b5c9dcb",
-  "title": "Fiorentina target ambitious move for Leipzig forward Bakayoko",
-  "player": "Johan Bakayoko",
-  "title_ko": "피오렌티나는 라이프치히 공격수 바카요코의 야심찬 움직임을 목표로 하고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fiorentina-ambitious-move-leipzig-bakayoko/",
-  "fee": null,
-  "published": "2026-07-20T11:00:00+00:00"
  }
 ]

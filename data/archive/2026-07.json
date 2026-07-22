@@ -13,6 +13,32 @@
   "published": "2026-07-22T13:00:00+00:00"
  },
  {
+  "id": "689b830ccda8",
+  "title": "Foden signs new four-year Man City contract",
+  "player": "Phil Foden",
+  "title_ko": "포덴, 맨시티와 4년 새 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T12:17:51+00:00"
+ },
+ {
+  "id": "287f3014a856",
+  "title": "Nationalspieler mit Drittliga-Erfahrung: Mickels wechselt zum Waldhof",
+  "player": "Waldhof Mannheim",
+  "title_ko": "3부 리그 경험이 있는 국가대표 선수: 미켈스는 발트호프로 이적합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-waldhof-1237924/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T12:12:15+00:00"
+ },
+ {
   "id": "8d300866bc07",
   "title": "Phil Foden comments on Enzo Maresca speak volumes as he signs new Man City contract",
   "player": "Phil Foden",
