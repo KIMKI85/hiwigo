@@ -1,5 +1,31 @@
 [
  {
+  "id": "3e8a0d872bd0",
+  "title": "Genoa join Ajax in race for Wolves striker Arokodare",
+  "player": null,
+  "title_ko": "제노아는 울브스의 스트라이커 아로코다레를 영입하기 위해 아약스와 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/genoa-join-ajax-wolves-striker-arokodare/",
+  "fee": null,
+  "published": "2026-07-22T18:13:14+00:00"
+ },
+ {
+  "id": "67ebd3be79c7",
+  "title": "Dritter Bundesligist: Wöber wechselt zur \"reizvollen Aufgabe\" Schalke",
+  "player": "Dritter Bundesligist",
+  "title_ko": "세 번째 분데스리가 팀: Wöber는 \"흥미진진한 작업\" Schalke로 이동합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/dritter-bundesligist-woeber-wechselt-zur-reizvollen-aufgabe-schalke-1237889/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-22T18:05:00+00:00"
+ },
+ {
   "id": "40b8b69bf1c3",
   "title": "Inter Miami sign Casemiro as MLS announces investigation into tampering",
   "player": "South Florida",
