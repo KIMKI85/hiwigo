@@ -1,5 +1,31 @@
 [
  {
+  "id": "4efaff32eaa9",
+  "title": "Aston Villa are inviting a nightmare to their door with ludicrous Alejandro Garnacho transfer",
+  "player": "Alejandro Garnacho",
+  "title_ko": "Aston Villa는 우스꽝스러운 Alejandro Garnacho 이적을 통해 악몽을 문으로 초대하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-transfer-aston-villa-37464015",
+  "fee": null,
+  "published": "2026-07-22T15:15:43+00:00"
+ },
+ {
+  "id": "833104b98ce5",
+  "title": "Man Utd given green light to complete transfer as forward 'says yes' to move",
+  "player": "Red Devils",
+  "title_ko": "맨유는 포워드가 이적을 '예'라고 말하면서 이적을 완료하라는 승인을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-joshua-zirkzee-transfer-37464333",
+  "fee": null,
+  "published": "2026-07-22T15:09:47+00:00"
+ },
+ {
   "id": "bcb3b960f1c1",
   "title": "Fiorentina sound out Real Madrid over Mastantuono loan",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/fiorentina-sound-out-real-madrid-mastantuono/",
   "fee": null,
   "published": "2026-07-22T15:08:30+00:00"
+ },
+ {
+  "id": "de298bca4a1c",
+  "title": "Liverpool confident of beating Arsenal to £100m star as they move on second winger",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 두 번째 윙어로 이동하면서 아스날을 꺾고 £100m의 스타가 될 것이라고 확신합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-arsenal-barcola-akliouche-37464449",
+  "fee": "£100M",
+  "published": "2026-07-22T15:08:29+00:00"
  },
  {
   "id": "351839069b67",
@@ -1259,44 +1298,5 @@
   "url": "https://www.kicker.de/rwo-verliert-seine-nummer-1-kratzsch-wechselt-zu-zweitliga-aufsteiger-cottbus-1237528/artikel#omrss",
   "fee": null,
   "published": "2026-07-20T15:35:11+00:00"
- },
- {
-  "id": "3835e09cb6a5",
-  "title": "Chelsea sign Malard from Man Utd",
-  "player": "Melvine Malard",
-  "title_ko": "첼시가 맨유에서 말라드를 영입했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565293/melvine-malard-chelsea-complete-signing-of-manchester-united-forward-on-750000-deal",
-  "fee": null,
-  "published": "2026-07-20T15:00:00+00:00"
- },
- {
-  "id": "abe64a785082",
-  "title": "Everton sign defender Blundell on permament deal",
-  "player": "Hannah Blundell",
-  "title_ko": "에버튼은 수비수 블런델과 영구 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-20T14:27:07+00:00"
- },
- {
-  "id": "e20139ca0aa3",
-  "title": "Liverpool sign midfielder Itamura from Feyenoord",
-  "player": "Mao Itamura",
-  "title_ko": "리버풀은 페예노르트의 미드필더 이타무라를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cly520nn5r8o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-20T14:14:29+00:00"
  }
 ]

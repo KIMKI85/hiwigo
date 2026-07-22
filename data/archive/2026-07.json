@@ -1,5 +1,31 @@
 [
  {
+  "id": "4efaff32eaa9",
+  "title": "Aston Villa are inviting a nightmare to their door with ludicrous Alejandro Garnacho transfer",
+  "player": "Alejandro Garnacho",
+  "title_ko": "Aston Villa는 우스꽝스러운 Alejandro Garnacho 이적을 통해 악몽을 문으로 초대하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-transfer-aston-villa-37464015",
+  "fee": null,
+  "published": "2026-07-22T15:15:43+00:00"
+ },
+ {
+  "id": "833104b98ce5",
+  "title": "Man Utd given green light to complete transfer as forward 'says yes' to move",
+  "player": "Red Devils",
+  "title_ko": "맨유는 포워드가 이적을 '예'라고 말하면서 이적을 완료하라는 승인을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-joshua-zirkzee-transfer-37464333",
+  "fee": null,
+  "published": "2026-07-22T15:09:47+00:00"
+ },
+ {
   "id": "bcb3b960f1c1",
   "title": "Fiorentina sound out Real Madrid over Mastantuono loan",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/fiorentina-sound-out-real-madrid-mastantuono/",
   "fee": null,
   "published": "2026-07-22T15:08:30+00:00"
+ },
+ {
+  "id": "de298bca4a1c",
+  "title": "Liverpool confident of beating Arsenal to £100m star as they move on second winger",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 두 번째 윙어로 이동하면서 아스날을 꺾고 £100m의 스타가 될 것이라고 확신합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-arsenal-barcola-akliouche-37464449",
+  "fee": "£100M",
+  "published": "2026-07-22T15:08:29+00:00"
  },
  {
   "id": "351839069b67",
