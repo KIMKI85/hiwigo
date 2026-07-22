@@ -1,5 +1,31 @@
 [
  {
+  "id": "20bb3bb7f1b9",
+  "title": "Papers: Rodri pushing for Real Madrid move",
+  "player": null,
+  "title_ko": "서류: 레알 마드리드 이적을 추진하는 로드리",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566135/man-city-transfer-news-rodri-pushing-for-real-madrid-move-despite-being-set-to-undergo-back-surgery",
+  "fee": null,
+  "published": "2026-07-22T22:45:00+00:00"
+ },
+ {
+  "id": "a57ee7bd37e6",
+  "title": "Man Utd hatch transfer plan as Man City star Rodri gives green light to summer move",
+  "player": "Aurelien Tchouameni",
+  "title_ko": "맨시티의 스타 로드리가 여름 이적에 청신호를 켜자 맨유의 해치 이적 계획",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-future-real-madrid-manutd-37465787",
+  "fee": null,
+  "published": "2026-07-22T21:46:24+00:00"
+ },
+ {
   "id": "f05d2220013a",
   "title": "Liverpool confident of signing Barcola - Thursday's gossip",
   "player": "Alex Scott",
