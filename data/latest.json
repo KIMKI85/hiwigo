@@ -1,5 +1,18 @@
 [
  {
+  "id": "481beb37031f",
+  "title": "Arsenal could boost transfer war chest by £90m with four exits in the works",
+  "player": null,
+  "title_ko": "아스날은 4개의 출구 작업을 통해 이적 자금을 £90m 늘릴 수 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-jesus-martinelli-37454582",
+  "fee": "£90M",
+  "published": "2026-07-22T04:45:00+00:00"
+ },
+ {
   "id": "fea3094ec7b2",
   "title": "Liverpool news: Bargain World Cup hero eyed as path opens to £80m Andoni Iraola transfer reunion",
   "player": "Bargain World",
@@ -1285,18 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/liverpool-win-race-to-sign-the-next-kaka-after-beating-european-giants/",
   "fee": null,
   "published": "2026-07-19T17:40:41+00:00"
- },
- {
-  "id": "a71deb81142f",
-  "title": "Arsenal eye shock transfer for England World Cup hero after Morgan Rogers snub",
-  "player": "England World",
-  "title_ko": "모건 로저스의 거절 이후 잉글랜드 월드컵 영웅에게 아스날의 충격 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-england-37450750",
-  "fee": null,
-  "published": "2026-07-19T17:14:05+00:00"
  }
 ]
