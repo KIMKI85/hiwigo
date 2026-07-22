@@ -67,6 +67,28 @@ TRANSFER_RE = re.compile(
     re.I,
 )
 
+# ── 이적 뉴스가 아닌 것을 걸러내는 규칙 ─────────────────────
+# 1) 구단 경영·지분·감독 선임 등 (선수 이적과 무관)
+NON_TRANSFER_RE = re.compile(
+    r"\b(takeover|take-over|stake|shareholder|shares?|consortium|investor|investment|"
+    r"ownership|owners?|buyout|acquire the club|billionaire|"
+    r"appointed? (?:as )?(?:manager|head coach|boss)|new (?:manager|head coach|boss)|"
+    r"sacked|sack|fired|resigns?|steps? down|interim (?:manager|boss)|"
+    r"kit|jersey|shirt launch|tickets?|stadium|training ground|"
+    r"injury update|injured|fitness|suspension|banned|charged|"
+    r"preview|predicted (?:line-?up|xi)|player ratings|match report|highlights)\b",
+    re.I,
+)
+
+# 2) 분석·칼럼·리스티클 (특정 딜 소식이 아님)
+ANALYSIS_RE = re.compile(
+    r"^(why|how|what|who|when|where|is |are |should |could |can )|"
+    r"\b(explained|analysis|opinion|column|verdict|ranked|rating|best xi|"
+    r"every (?:signing|transfer)|\d+ (?:reasons|things|players|signings)|"
+    r"quiz|debate|talking points|winners and losers)\b",
+    re.I,
+)
+
 # ── 리그별 클럽 사전 (보강판) ────────────────────────────────
 LEAGUE_CLUBS = {
     "EPL": [
@@ -230,6 +252,9 @@ def entry_to_item(entry, feed_cfg):
     if not title or not link:
         return None
     if not feed_cfg.get("skip_filter") and not TRANSFER_RE.search(title):
+        return None
+    # 이적 무관 주제(지분·감독·부상 등)와 분석 칼럼은 제외
+    if NON_TRANSFER_RE.search(title) or ANALYSIS_RE.search(title):
         return None
     league = classify_league(title) or feed_cfg.get("league_hint")
     if league is None:
