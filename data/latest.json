@@ -1,5 +1,18 @@
 [
  {
+  "id": "3db216a2d046",
+  "title": "Mercato: 137 millions d'euros pour Morgan Rogers à Chelsea, jusqu'où la folie des transferts ira-t-elle?",
+  "player": "Morgan Rogers",
+  "title_ko": "메르카토: 첼시의 모건 로저스에게 1억 3700만 유로, 이적 광란은 어디까지 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-137-millions-d-euros-pour-morgan-rogers-a-chelsea-jusqu-ou-la-folie-des-transferts-ira-t-elle_AV-202607220675.html",
+  "fee": null,
+  "published": "2026-07-22T20:16:47+00:00"
+ },
+ {
   "id": "cedd101c5212",
   "title": "Roma transfer news: Summerville heads to Al-Hilal; Garnacho waited before Aston Villa move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-liverpool-transfers-37456676",
   "fee": null,
   "published": "2026-07-21T09:01:23+00:00"
- },
- {
-  "id": "123d02bc5ea2",
-  "title": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
-  "player": "Alice Sombath",
-  "title_ko": "토트넘, 리옹에서 앨리스 솜바스 영입으로 여성 이적 기록 경신",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record",
-  "fee": null,
-  "published": "2026-07-21T08:47:31+00:00"
  }
 ]
