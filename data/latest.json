@@ -1,5 +1,18 @@
 [
  {
+  "id": "b7a612ffc299",
+  "title": "Bruno Fernandes commits future to Manchester United despite new contract wait",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스는 새로운 계약 대기에도 불구하고 맨체스터 유나이티드에 미래를 약속합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/exclusive-bruno-fernandes-contract-united-37462754",
+  "fee": null,
+  "published": "2026-07-22T11:00:00+00:00"
+ },
+ {
   "id": "2ad8f63998f4",
   "title": "Bundesliga-Duo ausgestochen: Damar vor Wechsel nach Wolfsburg",
   "player": "von Mittelfeldspieler Muhammed",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-torres-stones-salah-les-5-infos-mercato-du-20-juillet-a-la-mi-journee_VN-202607200338.html",
   "fee": null,
   "published": "2026-07-20T10:01:20+00:00"
- },
- {
-  "id": "8c3f7f651a6a",
-  "title": "Sagoe Jr in Sweden: Arsenal talent thriving after Madueke advice and unusual loan",
-  "player": "Sagoe Jr",
-  "title_ko": "스웨덴의 Sagoe Jr: Madueke의 조언과 특이한 임대 이후 번성하는 아스날 재능",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565146/arsenal-forward-charles-sagoe-jr-on-life-on-loan-in-sweden-with-kalmar-noni-maduekes-advice-and-inspiration-from-gunners-premier-league-win",
-  "fee": null,
-  "published": "2026-07-20T09:11:00+00:00"
  }
 ]
