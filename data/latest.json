@@ -13,6 +13,19 @@
   "published": "2026-07-22T19:33:00+00:00"
  },
  {
+  "id": "a9662a81a79b",
+  "title": "Villa agree loan deal for Chelsea winger Garnacho",
+  "player": "Alejandro Garnacho",
+  "title_ko": "빌라는 첼시의 윙어 가르나초의 임대 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly9nrel0pyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T18:58:52+00:00"
+ },
+ {
   "id": "ad2b365010d6",
   "title": "El traspaso de Akor Adams al Venezia ya es oficial: firma hasta 2030",
   "player": "Akor Adams",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/07/21/akor-adams-pone-rumbo-italia-cerrar-fichaje-venezia.html",
   "fee": null,
   "published": "2026-07-21T08:34:11+00:00"
- },
- {
-  "id": "51b1c8125cb8",
-  "title": "Bournemouth midfielder Scott rejects new contract",
-  "player": "Alex Scott",
-  "title_ko": "본머스 미드필더 스콧, 재계약 거부",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-21T08:10:01+00:00"
  }
 ]
