@@ -1,5 +1,18 @@
 [
  {
+  "id": "351839069b67",
+  "title": "5 attackers Arsenal could still sign after Morgan Rogers transfer setback",
+  "player": "Morgan Rogers",
+  "title_ko": "모건 로저스 이적 실패 이후에도 아스날의 공격수 5명은 여전히 ​​계약할 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-arteta-37463333",
+  "fee": null,
+  "published": "2026-07-22T14:30:57+00:00"
+ },
+ {
   "id": "1b3e4689495d",
   "title": "Borja Jiménez avala el fichaje de Juan Cruz: \"Puede ser diferencial para la permanencia\"",
   "player": "Borja Jiménez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/malaga/2026/07/20/malaga-cerrara-fichaje-dotor-semana.html",
   "fee": null,
   "published": "2026-07-20T14:12:42+00:00"
- },
- {
-  "id": "7ac5d404f020",
-  "title": "Reitz über Wechsel-Theater: \"Spurlos geht das nicht vorbei\"",
-  "player": "Rocco Reitz",
-  "title_ko": "Wechsel-Theater에 대한 Reitz: “흔적 없이는 사라지지 않을 것입니다”",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/reitz-ueber-wechsel-theater-spurlos-geht-das-nicht-vorbei-1237496/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-20T14:09:35+00:00"
  }
 ]
