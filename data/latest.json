@@ -1,5 +1,31 @@
 [
  {
+  "id": "0f2a96c20fdf",
+  "title": "Ipswich sign Diop from Fulham",
+  "player": "Issa Diop",
+  "title_ko": "입스위치는 풀럼에서 디오프를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T13:27:08+00:00"
+ },
+ {
+  "id": "465a1baed40e",
+  "title": "Liverpool facing more Real Madrid transfer frustration as Jose Mourinho eyes Reds target",
+  "player": "Jose Mourinho",
+  "title_ko": "리버풀은 호세 무리뉴가 레즈의 목표를 노리면서 레알 마드리드 이적에 더 많은 좌절감을 안고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-nico-schlotterbeck-37463451",
+  "fee": null,
+  "published": "2026-07-22T13:14:06+00:00"
+ },
+ {
   "id": "e5ada8fbfb5f",
   "title": "'This means everything to me' - Foden signs new Man City contract",
   "player": "Phil Foden",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c62120n7y8jo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-20T14:09:05+00:00"
- },
- {
-  "id": "523e0209f970",
-  "title": "Every Premier League summer transfer as Man Utd, Arsenal and Liverpool splash the cash",
-  "player": null,
-  "title_ko": "맨유, 아스날, 리버풀이 현금을 쏟아부으면서 프리미어리그 여름 이적 때마다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-transfers-done-deals-37454347",
-  "fee": null,
-  "published": "2026-07-20T13:56:29+00:00"
- },
- {
-  "id": "b06506792d36",
-  "title": "Report Roma down to Summerville details in €50m West Ham agreement",
-  "player": "Crysencio Summerville",
-  "title_ko": "€50m 웨스트햄 계약에서 로마를 Summerville에 세부사항까지 보고하세요",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-roma-summerville-details-50m-west-ham/",
-  "fee": "€50M",
-  "published": "2026-07-20T12:38:03+00:00"
  }
 ]
