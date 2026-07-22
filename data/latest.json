@@ -1,5 +1,18 @@
 [
  {
+  "id": "0e605112a5b4",
+  "title": "Aston Villa agree deal to sign Garnacho",
+  "player": "Alejandro Garnacho",
+  "title_ko": "Aston Villa는 Garnacho와의 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
+  "fee": null,
+  "published": "2026-07-22T19:33:00+00:00"
+ },
+ {
   "id": "3e8a0d872bd0",
   "title": "Genoa join Ajax in race for Wolves striker Arokodare",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bournemouth-kroupi-future-arsenal-tottenham-37456596",
   "fee": null,
   "published": "2026-07-21T08:04:48+00:00"
- },
- {
-  "id": "9bcb3d5a8373",
-  "title": "Tottenham sign France defender Sombath from Lyon",
-  "player": "Alice Sombath",
-  "title_ko": "토트넘은 리옹에서 프랑스 수비수 솜바스를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-21T08:00:28+00:00"
  }
 ]
