@@ -1,5 +1,18 @@
 [
  {
+  "id": "bcb3b960f1c1",
+  "title": "Fiorentina sound out Real Madrid over Mastantuono loan",
+  "player": null,
+  "title_ko": "피오렌티나는 마스탄투오노의 임대를 놓고 레알 마드리드를 제압했다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-sound-out-real-madrid-mastantuono/",
+  "fee": null,
+  "published": "2026-07-22T15:08:30+00:00"
+ },
+ {
   "id": "351839069b67",
   "title": "5 attackers Arsenal could still sign after Morgan Rogers transfer setback",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cly520nn5r8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-20T14:14:29+00:00"
- },
- {
-  "id": "b2b259829061",
-  "title": "El Málaga cerrará el fichaje de Dotor esta semana",
-  "player": "El Málaga",
-  "title_ko": "말라가는 이번 주에 Dotor의 영입을 마무리할 것입니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/07/20/malaga-cerrara-fichaje-dotor-semana.html",
-  "fee": null,
-  "published": "2026-07-20T14:12:42+00:00"
  }
 ]
