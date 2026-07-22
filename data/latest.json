@@ -1,5 +1,18 @@
 [
  {
+  "id": "5a34ae4a27ae",
+  "title": "Amazon billionaire Bezos approached to join consortium seeking stake in Liverpool",
+  "player": "Jeff Bezos",
+  "title_ko": "아마존 억만장자 베조스, 리버풀 지분 확보를 위한 컨소시엄 합류 제안",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club",
+  "fee": null,
+  "published": "2026-07-22T07:05:00+00:00"
+ },
+ {
   "id": "24442306eab6",
   "title": "Why Chelsea have signed so many Man City academy graduates",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.caughtoffside.com/2026/07/19/arsenal-john-stones-transfer-free-agent-william-saliba-injury/",
   "fee": null,
   "published": "2026-07-19T20:07:11+00:00"
- },
- {
-  "id": "6809758f8760",
-  "title": "Manchester United explore £10m deal for highly-rated defensive talent",
-  "player": "Ben Nelson",
-  "title_ko": "맨체스터 유나이티드는 높은 평가를 받는 수비 재능을 위한 £10m 계약을 모색합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/manchester-united-explore-10m-deal-for-highly-rated-defensive-talent/",
-  "fee": "£10M",
-  "published": "2026-07-19T18:45:12+00:00"
  }
 ]
