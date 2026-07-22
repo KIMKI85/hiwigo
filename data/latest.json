@@ -1,5 +1,18 @@
 [
  {
+  "id": "fea3094ec7b2",
+  "title": "Liverpool news: Bargain World Cup hero eyed as path opens to £80m Andoni Iraola transfer reunion",
+  "player": "Bargain World",
+  "title_ko": "리버풀 뉴스: £80m의 안도니 이라올라 이적 재결합을 위한 길이 열리면서 할인 월드컵 영웅이 눈에 띕니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-torres-scott-37458773",
+  "fee": "£80M",
+  "published": "2026-07-22T04:00:00+00:00"
+ },
+ {
   "id": "45e00ef47c22",
   "title": "Man Utd news: £60m star rejects new contract as 'calls and texts' to transfer target emerge",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-england-37450750",
   "fee": null,
   "published": "2026-07-19T17:14:05+00:00"
- },
- {
-  "id": "14e5ff73c702",
-  "title": "Chelsea plot move for €35m-rated creator with 29 goal contributions",
-  "player": "Konstantinos Karetsas",
-  "title_ko": "Chelsea는 29골 기여로 €35m 등급 크리에이터를 위한 계획을 세웠습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "CaughtOffside",
-  "url": "https://www.caughtoffside.com/2026/07/19/chelsea-plot-move-for-e35m-rated-creator-with-29-goal-contributions/",
-  "fee": "€35M",
-  "published": "2026-07-19T17:10:58+00:00"
  }
 ]
