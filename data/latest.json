@@ -13,32 +13,6 @@
   "published": "2026-07-22T07:49:35+00:00"
  },
  {
-  "id": "5a34ae4a27ae",
-  "title": "Amazon billionaire Bezos approached to join consortium seeking stake in Liverpool",
-  "player": "Jeff Bezos",
-  "title_ko": "아마존 억만장자 베조스, 리버풀 지분 확보를 위한 컨소시엄 합류 제안",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club",
-  "fee": null,
-  "published": "2026-07-22T07:05:00+00:00"
- },
- {
-  "id": "24442306eab6",
-  "title": "Why Chelsea have signed so many Man City academy graduates",
-  "player": "Morgan Rogers",
-  "title_ko": "첼시가 맨시티 아카데미 졸업생을 그렇게 많이 영입한 이유",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-22T06:13:29+00:00"
- },
- {
   "id": "38b1cd63388b",
   "title": "Transfer news LIVE: Chelsea bid rejected, Bruno Guimaraes to Arsenal and Man Utd blow",
   "player": "Bruno Guimaraes",
@@ -312,19 +286,6 @@
   "published": "2026-07-21T17:15:00+00:00"
  },
  {
-  "id": "693a1f2be1a0",
-  "title": "FSG confirm Liverpool sale talks as billionaire family eyes deal after resignation",
-  "player": "Fenway Sports Group",
-  "title_ko": "FSG는 사임 후 억만장자 가족이 거래를 고려하면서 리버풀 매각 협상을 확인했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-takeover-amit-bhatia-fsg-37460296",
-  "fee": null,
-  "published": "2026-07-21T17:14:01+00:00"
- },
- {
   "id": "23446e9fbd5f",
   "title": "Aston Villa in talks to sign Garnacho",
   "player": "Alejandro Garnacho",
@@ -492,19 +453,6 @@
   "url": "https://football-italia.net/agent-bastoni-transfer-stance-al-hilal-rumours/",
   "fee": null,
   "published": "2026-07-21T12:51:32+00:00"
- },
- {
-  "id": "c193ae78422e",
-  "title": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
-  "player": "Sepp Blatter",
-  "title_ko": "'축구 회복': 제프 블래터(Sepp Blatter)가 라 리가 수장과 합류해 지아니 인판티노의 사임을 요구",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit",
-  "fee": null,
-  "published": "2026-07-21T12:44:40+00:00"
  },
  {
   "id": "869dd21a0d52",
@@ -780,19 +728,6 @@
   "published": "2026-07-21T08:00:00+00:00"
  },
  {
-  "id": "a5353b8c942d",
-  "title": "Video: Milan unveil 2026-27 away kit",
-  "player": null,
-  "title_ko": "비디오: 밀란, 2026-27 어웨이 키트 공개",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-milan-unveil-2026-27-away-kit-inzaghi/",
-  "fee": null,
-  "published": "2026-07-21T07:57:12+00:00"
- },
- {
   "id": "f8e8a00127da",
   "title": "Man Utd ahead of Arsenal in Manu Kone race after opening transfer talks for £51m star",
   "player": "Manu Kone",
@@ -962,19 +897,6 @@
   "published": "2026-07-20T15:35:11+00:00"
  },
  {
-  "id": "f671adbe164c",
-  "title": "What does Rogers' move mean for Chelsea's squad?",
-  "player": "Morgan Rogers",
-  "title_ko": "로저스의 움직임은 첼시 선수단에 어떤 의미를 갖는가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad",
-  "fee": null,
-  "published": "2026-07-20T15:00:00+00:00"
- },
- {
   "id": "3835e09cb6a5",
   "title": "Chelsea sign Malard from Man Utd",
   "player": "Melvine Malard",
@@ -1064,19 +986,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-transfers-done-deals-37454347",
   "fee": null,
   "published": "2026-07-20T13:56:29+00:00"
- },
- {
-  "id": "53573ea91d51",
-  "title": "Why are Premier League transfer fees soaring?",
-  "player": "With Morgan Rogers",
-  "title_ko": "프리미어리그 이적료가 폭등하는 이유는 무엇일까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4g37y2nyp3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-20T13:04:41+00:00"
  },
  {
   "id": "b06506792d36",
@@ -1181,19 +1090,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/olise-bayern-real-madrid-liverpool-37453025",
   "fee": null,
   "published": "2026-07-20T10:25:32+00:00"
- },
- {
-  "id": "4b0ffe69c2c7",
-  "title": "Live transfer news, Serie A debate and more: Football Italia’s new YouTube Show",
-  "player": "Football Italia",
-  "title_ko": "실시간 이적 소식, 세리에 A 토론 등: Football Italia의 새로운 YouTube 쇼",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/football-italia-live-youtube-transfers-serie-a/",
-  "fee": null,
-  "published": "2026-07-20T10:23:43+00:00"
  },
  {
   "id": "5acada014ec4",
