@@ -26,6 +26,32 @@
   "published": "2026-07-22T17:30:00+00:00"
  },
  {
+  "id": "9cf2c28c76b3",
+  "title": "Mercato: Liverpool s'intéresse à Akliouche malgré l'accord avec le PSG",
+  "player": "Maghnes Akliouche",
+  "title_ko": "Mercato: 리버풀은 PSG와의 합의에도 불구하고 Akliouche에 관심이 있음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-liverpool-s-interesse-a-akliouche-malgre-l-accord-avec-le-psg_AV-202607220609.html",
+  "fee": null,
+  "published": "2026-07-22T17:29:02+00:00"
+ },
+ {
+  "id": "46499cbc47c7",
+  "title": "Mercato: Presnel Kimpembe devrait signer en deuxieme division au Qatar",
+  "player": "Presnel Kimpembe",
+  "title_ko": "Mercato: Presnel Kimpembe는 카타르의 두 번째 디비전과 계약해야 합니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-presnel-kimpembe-devrait-signer-en-deuxieme-division-au-qatar_AN-202607220602.html",
+  "fee": null,
+  "published": "2026-07-22T17:19:16+00:00"
+ },
+ {
   "id": "f2e5634f5df8",
   "title": "Transfer round-up: Juventus’ attacking concerns grow, another Chelsea defender eyed by Serie A",
   "player": "Axel Disasi",
