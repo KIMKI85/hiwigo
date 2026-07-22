@@ -13,6 +13,19 @@
   "published": "2026-07-22T10:00:00+00:00"
  },
  {
+  "id": "4e365da6df01",
+  "title": "Malen made last-ditch attempt to convince Summerville to join Roma instead of Al-Hilal",
+  "player": "Crysencio Summerville",
+  "title_ko": "Malen은 Summerville이 Al-Hilal 대신 Roma에 합류하도록 설득하기 위해 최후의 시도를 했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/malen-made-last-ditch-attempt-for-summerville/",
+  "fee": null,
+  "published": "2026-07-22T09:52:13+00:00"
+ },
+ {
   "id": "7c2c86da3c7a",
   "title": "Andoni Iraola confirms Liverpool transfer priority - 'Not the ideal situation'",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-summer-transfer-signings-psg-37450235",
   "fee": null,
   "published": "2026-07-20T04:00:00+00:00"
- },
- {
-  "id": "a9ac6d3a30a1",
-  "title": "Man Utd news: Bid for £42.5m target could come today as star admits he's hoping for offers",
-  "player": null,
-  "title_ko": "맨유 뉴스: 스타가 제안을 원한다고 인정함에 따라 £42.5m 목표에 대한 입찰이 오늘 올 수도 있습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-target-offer-37450005",
-  "fee": "£42.5M",
-  "published": "2026-07-20T03:30:00+00:00"
  }
 ]
