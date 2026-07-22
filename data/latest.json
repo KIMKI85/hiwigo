@@ -1,5 +1,44 @@
 [
  {
+  "id": "e5ada8fbfb5f",
+  "title": "'This means everything to me' - Foden signs new Man City contract",
+  "player": "Phil Foden",
+  "title_ko": "'이것은 나에게 모든 것을 의미합니다' - 포덴은 맨시티와 새로운 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
+  "fee": null,
+  "published": "2026-07-22T13:00:00+00:00"
+ },
+ {
+  "id": "8d300866bc07",
+  "title": "Phil Foden comments on Enzo Maresca speak volumes as he signs new Man City contract",
+  "player": "Phil Foden",
+  "title_ko": "필 포덴(Phil Foden)은 엔조 마레스카(Enzo Maresca)가 새로운 맨시티 계약에 서명하면서 많은 말을 했다고 언급했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/phil-foden-manchester-city-contract-37463108",
+  "fee": null,
+  "published": "2026-07-22T12:04:41+00:00"
+ },
+ {
+  "id": "34e8b9faa2b5",
+  "title": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract",
+  "player": "Phil Foden",
+  "title_ko": "'독특한 재능': 필 포덴이 맨체스터 시티와 새로운 4년 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract",
+  "fee": null,
+  "published": "2026-07-22T12:00:14+00:00"
+ },
+ {
   "id": "244afe9f23b3",
   "title": "Man Utd and Arsenal locked in £40million transfer battle as duo hold talks over deal",
   "player": "Alex Scott",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/fiorentina-ambitious-move-leipzig-bakayoko/",
   "fee": null,
   "published": "2026-07-20T11:00:00+00:00"
- },
- {
-  "id": "9d035b28b010",
-  "title": "Michael Olise 'desperate' to leave Bayern Munich as Liverpool transfer target takes action",
-  "player": "Michael Olise",
-  "title_ko": "리버풀 이적 목표가 조치를 취함에 따라 마이클 올리세는 바이에른 뮌헨을 떠나기 위해 '절박하다'",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/olise-bayern-real-madrid-liverpool-37453025",
-  "fee": null,
-  "published": "2026-07-20T10:25:32+00:00"
- },
- {
-  "id": "5acada014ec4",
-  "title": "Modric set to sign new Milan deal this week: the details",
-  "player": "Luka Modric",
-  "title_ko": "모드리치는 이번 주에 새로운 밀란 계약을 체결할 예정입니다: 세부 사항",
-  "league": "SERIEA",
-  "status": "herewego",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/modric-set-to-sign-new-milan-deal/",
-  "fee": null,
-  "published": "2026-07-20T10:20:00+00:00"
- },
- {
-  "id": "3f4b20bb45c0",
-  "title": "Villa sign Wolves midfielder Gomes in £38m deal",
-  "player": "Joao Gomes",
-  "title_ko": "빌라는 울브스의 미드필더 고메스를 £38m 계약으로 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss",
-  "fee": "£38M",
-  "published": "2026-07-20T10:08:19+00:00"
  }
 ]
