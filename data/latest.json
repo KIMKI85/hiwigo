@@ -13,6 +13,19 @@
   "published": "2026-07-22T13:00:00+00:00"
  },
  {
+  "id": "93362cabcf93",
+  "title": "Viktor Gyokeres 'not trusted' at Arsenal and Mikel Arteta's warning as transfer swap mooted",
+  "player": "Viktor Gyokeres",
+  "title_ko": "아스날의 빅토르 교케레스는 '신뢰할 수 없다'고 이적 스왑이 논의되자 미켈 아르테타의 경고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-julian-alvarez-viktor-gyokeres-37463295",
+  "fee": null,
+  "published": "2026-07-22T12:57:02+00:00"
+ },
+ {
   "id": "afd5863ff685",
   "title": "\"Salut à tous, je m’appelle Axel Rouquette\": le bizutage totalement déchaîné d’une nouvelle recrue de l’US Créteil",
   "player": "Axel Rouquette",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-roma-summerville-details-50m-west-ham/",
   "fee": "€50M",
   "published": "2026-07-20T12:38:03+00:00"
- },
- {
-  "id": "ca12f4938436",
-  "title": "Bologna want €40m for Chelsea and Aston Villa target Rowe",
-  "player": "Jonathan Rowe",
-  "title_ko": "볼로냐는 첼시와 아스톤 빌라가 노리는 로우에게 4천만 유로를 원합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bologna-want-40m-for-chelsea-villa-target-rowe/",
-  "fee": "€40M",
-  "published": "2026-07-20T12:15:00+00:00"
  }
 ]
