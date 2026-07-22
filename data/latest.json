@@ -1,5 +1,18 @@
 [
  {
+  "id": "f05d2220013a",
+  "title": "Liverpool confident of signing Barcola - Thursday's gossip",
+  "player": "Alex Scott",
+  "title_ko": "리버풀은 바르콜라 영입을 자신했다 - 목요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c78gx10d9n4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-22T21:34:28+00:00"
+ },
+ {
   "id": "3db216a2d046",
   "title": "Mercato: 137 millions d'euros pour Morgan Rogers à Chelsea, jusqu'où la folie des transferts ira-t-elle?",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-21T09:22:27+00:00"
- },
- {
-  "id": "0d5d12041660",
-  "title": "Arsenal, Man Utd and Liverpool all facing nine-figure transfer problem this summer",
-  "player": null,
-  "title_ko": "아스날, 맨유, 리버풀 모두 이번 여름 이적 문제에 직면",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-liverpool-transfers-37456676",
-  "fee": null,
-  "published": "2026-07-21T09:01:23+00:00"
  }
 ]
