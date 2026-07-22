@@ -13,6 +13,19 @@
   "published": "2026-07-22T18:13:14+00:00"
  },
  {
+  "id": "7adc361c3e83",
+  "title": "5 transfers you missed during the World Cup including £47m Chelsea move and Arsenal bargain",
+  "player": null,
+  "title_ko": "£47m 첼시 이적과 아스널 할인을 포함해 월드컵 기간 동안 놓친 5번의 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/summer-deals-arsenal-chelsea-leeds-37465254",
+  "fee": "£47M",
+  "published": "2026-07-22T18:10:55+00:00"
+ },
+ {
   "id": "67ebd3be79c7",
   "title": "Dritter Bundesligist: Wöber wechselt zur \"reizvollen Aufgabe\" Schalke",
   "player": "Dritter Bundesligist",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-21T08:00:28+00:00"
- },
- {
-  "id": "c4774b95c694",
-  "title": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
-  "player": "Alex Scott",
-  "title_ko": "아스날, 첼시, 맨유의 타겟 스콧은 본머스의 새로운 계약을 거부했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united",
-  "fee": null,
-  "published": "2026-07-21T08:00:00+00:00"
  }
 ]
