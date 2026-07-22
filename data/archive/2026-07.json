@@ -13,6 +13,58 @@
   "published": "2026-07-22T17:30:00+00:00"
  },
  {
+  "id": "508d4524cb49",
+  "title": "Casemiro joins Inter Miami on free transfer",
+  "player": null,
+  "title_ko": "카세미루, 자유계약으로 인터 마이애미 합류",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
+  "fee": null,
+  "published": "2026-07-22T17:30:00+00:00"
+ },
+ {
+  "id": "f2e5634f5df8",
+  "title": "Transfer round-up: Juventus’ attacking concerns grow, another Chelsea defender eyed by Serie A",
+  "player": "Axel Disasi",
+  "title_ko": "이적 요약: 유벤투스의 공격 우려가 커지고 있으며 세리에 A가 주목하는 또 다른 첼시 수비수",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/transfer-round-up-july-22-juventus-3rd-chelsea/",
+  "fee": null,
+  "published": "2026-07-22T17:00:00+00:00"
+ },
+ {
+  "id": "5ab3c4e39da1",
+  "title": "No Garnacho for Roma & Napoli as Argentine joins Aston Villa on loan",
+  "player": "No Garnacho",
+  "title_ko": "아르헨티나가 아스톤 빌라에 임대로 합류함에 따라 로마와 나폴리에는 가르나초가 없습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/no-garnacho-for-roma-napoli-aston-villa/",
+  "fee": null,
+  "published": "2026-07-22T16:58:31+00:00"
+ },
+ {
+  "id": "b1e2bae3f321",
+  "title": "Man Utd plot Aurelien Tchouameni transfer despite rejecting Real Madrid star",
+  "player": "Aurelien Tchouameni",
+  "title_ko": "맨유는 레알 마드리드 스타를 거부했지만 아우렐리앙 추아메니의 이적을 계획하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-tchouameni-real-madrid-future-37464901",
+  "fee": null,
+  "published": "2026-07-22T16:42:59+00:00"
+ },
+ {
   "id": "e8e995963ede",
   "title": "Al-Ahli join Al-Hilal and Man Utd in race for Roma’s Kone",
   "player": "Manu Kone",

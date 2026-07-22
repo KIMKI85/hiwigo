@@ -1,5 +1,18 @@
 [
  {
+  "id": "508d4524cb49",
+  "title": "Casemiro joins Inter Miami on free transfer",
+  "player": null,
+  "title_ko": "카세미루, 자유계약으로 인터 마이애미 합류",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
+  "fee": null,
+  "published": "2026-07-22T17:30:00+00:00"
+ },
+ {
   "id": "2048a9ded074",
   "title": "Barcelona closing in on record-breaking Kerolin deal",
   "player": null,
@@ -11,6 +24,45 @@
   "url": "https://www.skysports.com/football/news/12040/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m",
   "fee": null,
   "published": "2026-07-22T17:30:00+00:00"
+ },
+ {
+  "id": "f2e5634f5df8",
+  "title": "Transfer round-up: Juventus’ attacking concerns grow, another Chelsea defender eyed by Serie A",
+  "player": "Axel Disasi",
+  "title_ko": "이적 요약: 유벤투스의 공격 우려가 커지고 있으며 세리에 A가 주목하는 또 다른 첼시 수비수",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/transfer-round-up-july-22-juventus-3rd-chelsea/",
+  "fee": null,
+  "published": "2026-07-22T17:00:00+00:00"
+ },
+ {
+  "id": "5ab3c4e39da1",
+  "title": "No Garnacho for Roma & Napoli as Argentine joins Aston Villa on loan",
+  "player": "No Garnacho",
+  "title_ko": "아르헨티나가 아스톤 빌라에 임대로 합류함에 따라 로마와 나폴리에는 가르나초가 없습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/no-garnacho-for-roma-napoli-aston-villa/",
+  "fee": null,
+  "published": "2026-07-22T16:58:31+00:00"
+ },
+ {
+  "id": "b1e2bae3f321",
+  "title": "Man Utd plot Aurelien Tchouameni transfer despite rejecting Real Madrid star",
+  "player": "Aurelien Tchouameni",
+  "title_ko": "맨유는 레알 마드리드 스타를 거부했지만 아우렐리앙 추아메니의 이적을 계획하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-tchouameni-real-madrid-future-37464901",
+  "fee": null,
+  "published": "2026-07-22T16:42:59+00:00"
  },
  {
   "id": "e8e995963ede",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-latest-tottenham-target-37454760",
   "fee": null,
   "published": "2026-07-21T03:00:00+00:00"
- },
- {
-  "id": "130cb05ded3a",
-  "title": "Reitz zu Wechsel: \"Am Ende hat jeder das Recht seine Meinung zu teilen\"",
-  "player": "Am Ende",
-  "title_ko": "변화에 대한 Reitz: “결국 모든 사람은 자신의 의견을 공유할 권리가 있습니다.”",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/reitz-zu-wechsel-am-ende-hat-jeder-das-recht-seine-meinung-zu-teilen-1237584/video#omrss",
-  "fee": null,
-  "published": "2026-07-20T21:51:57+00:00"
- },
- {
-  "id": "38c07aca90a1",
-  "title": "Summerville breaks silence ahead of €50m Roma move from West Ham United",
-  "player": "Crysencio Summerville",
-  "title_ko": "서머빌은 웨스트햄 유나이티드에서 €50m의 로마 이적을 앞두고 침묵을 깨뜨렸습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/summerville-breaks-silence-ahead-50m-roma-move/",
-  "fee": "€50M",
-  "published": "2026-07-20T19:15:39+00:00"
- },
- {
-  "id": "7ae68301e989",
-  "title": "Zaniolo reaches new agreement with Udinese for contract to 2029",
-  "player": "Nicolò Zaniolo",
-  "title_ko": "자니올로는 우디네세와 2029년까지 계약을 위한 새로운 계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zaniolo-reaches-new-agreement-with-udinese/",
-  "fee": null,
-  "published": "2026-07-20T18:09:25+00:00"
- },
- {
-  "id": "a63cdc46ecbd",
-  "title": "Official: Bologna buy Alhassane from Real Oviedo, fee believed to be €3.5m",
-  "player": "Rahim Alhassane",
-  "title_ko": "공식: 볼로냐는 레알 오비에도에서 알하산을 인수했으며 이적료는 €3.5m으로 추정됩니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-bologna-buy-alhassane-real-oviedo/",
-  "fee": "€3.5M",
-  "published": "2026-07-20T16:15:28+00:00"
  }
 ]
