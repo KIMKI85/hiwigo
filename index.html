@@ -285,7 +285,7 @@ function render(){
         <div class="route">
           <span class="lg" style="background:${lg.color}">${lg.name}</span>
         </div>
-        <h3>${r.player ? `<span class="ptag">[${esc(r.player)}]</span> ` : ""}${esc(r.title_ko || r.title)}${r.fee ? `<span class="fee disp">${esc(r.fee)}</span>` : ""}</h3>
+        <h3>${(r.player || playerFallback(r.title)) ? `<span class="ptag">[${esc(r.player || playerFallback(r.title))}]</span> ` : ""}${esc(r.title_ko || r.title)}${r.fee ? `<span class="fee disp">${esc(r.fee)}</span>` : ""}</h3>
         ${r.title_ko ? `<div class="orig">${esc(r.title)}</div>` : ""}
         <div class="meta">출처: ${esc(r.src)} · ${relTime(r.published)}<span class="goto">기사 보기 ↗</span></div>
       </div>
@@ -316,6 +316,36 @@ bindFilter("lvFilter","lv");
 
 /* 외부 데이터(기사 제목) 삽입용 이스케이프 */
 function esc(s){const d=document.createElement("div");d.textContent=s??"";return d.innerHTML}
+
+/* 보조 추출: "PSG's Zaire-Emery", "bid for Wirtz", "sign Kone"처럼
+   선수 자리가 확실한 문맥에서만 한 단어(성씨) 이름을 인정 */
+const _CLUBWORDS = new Set(("psg paris arsenal liverpool chelsea tottenham spurs newcastle everton brighton " +
+ "bournemouth brentford fulham palace wolves forest leeds sunderland burnley villa united city utd " +
+ "madrid barcelona barca atletico sevilla villarreal athletic sociedad betis valencia girona celta " +
+ "getafe osasuna mallorca espanyol levante elche oviedo rayo juventus juve inter milan napoli roma " +
+ "lazio atalanta fiorentina bologna torino genoa udinese cagliari verona parma como lecce sassuolo " +
+ "cremonese pisa bayern dortmund bvb leverkusen leipzig frankfurt stuttgart gladbach wolfsburg " +
+ "freiburg mainz hoffenheim augsburg union bremen pauli cologne hamburg heidenheim marseille monaco " +
+ "lyon lille nice lens rennes strasbourg toulouse nantes brest auxerre havre lorient metz angers " +
+ "benfica porto sporting ajax psv feyenoord celtic rangers galatasaray fenerbahce hilal nassr " +
+ "ittihad salzburg brugge premier league liga serie bundesliga ligue papers gossip news official " +
+ "here transfer deal medical loan fee bid star talks summer window january june july august").split(" "));
+
+function playerFallback(title){
+  // 1) "<Club>'s <Name>"  2) "for/sign/signing/bid for <Name>"
+  const pats = [
+    /[A-ZÀ-Þ][\w.]*['’]s\s+([A-ZÀ-Þ][a-zà-ÿ]+(?:-[A-ZÀ-Þ][a-zà-ÿ]+)?)/,
+    /\b(?:bid for|move for|sign|signing|signs|deal for|swoop for|interest in|target)\s+([A-ZÀ-Þ][a-zà-ÿ]+(?:-[A-ZÀ-Þ][a-zà-ÿ]+)?)/,
+  ];
+  for(const re of pats){
+    const m = title.match(re);
+    if(m){
+      const name = m[1];
+      if(name.length >= 4 && !_CLUBWORDS.has(name.toLowerCase())) return name;
+    }
+  }
+  return null;
+}
 
 /* 티커 */
 function renderTicker(){
