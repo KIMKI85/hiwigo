@@ -1,5 +1,31 @@
 [
  {
+  "id": "d59d30018daf",
+  "title": "Wartezeit vorbei: Adeyemis Wechsel nach Barcelona fix",
+  "player": "Adeyemis Wechsel",
+  "title_ko": "대기 시간 종료: 아데예미의 바르셀로나 이적이 완료되었습니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wartezeit-vorbei-adeyemis-wechsel-nach-barcelona-fix-1235334/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T10:39:04+00:00"
+ },
+ {
+  "id": "77b2205bfdb4",
+  "title": "Newcastle agree £34m deal for Monaco's Bamba",
+  "player": "Monaco's Bamba",
+  "title_ko": "뉴캐슬은 모나코의 밤바와 £34m 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+  "fee": "£34M",
+  "published": "2026-07-23T10:33:28+00:00"
+ },
+ {
   "id": "fa46c50d0dfd",
   "title": "Zidane, Cancelo, Guardiola... les 5 infos Mercato du 23 juillet à la mi-journée",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-21T13:54:14+00:00"
- },
- {
-  "id": "7f62553389ba",
-  "title": "Mercato: Chelsea et Crystal Palace négocient pour le transfert de Maxence Lacroix",
-  "player": "Maxence Lacroix",
-  "title_ko": "Mercato: Chelsea와 Crystal Palace는 Maxence Lacroix의 이적을 위해 협상합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-et-crystal-palace-negocient-pour-le-transfert-de-maxence-lacroix_AV-202607210436.html",
-  "fee": null,
-  "published": "2026-07-21T13:19:45+00:00"
- },
- {
-  "id": "e7c9f374dcc7",
-  "title": "Report Romagnoli transfer to Al-Sadd could collapse for 2nd time",
-  "player": "Alessio Romagnoli",
-  "title_ko": "로마뇰리의 알-사드 이적이 두 번째로 무산될 수 있다고 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-romagnoli-transfer-al-sadd-can-collapse/",
-  "fee": null,
-  "published": "2026-07-21T13:13:34+00:00"
  }
 ]

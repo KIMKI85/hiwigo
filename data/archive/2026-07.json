@@ -1,5 +1,31 @@
 [
  {
+  "id": "d59d30018daf",
+  "title": "Wartezeit vorbei: Adeyemis Wechsel nach Barcelona fix",
+  "player": "Adeyemis Wechsel",
+  "title_ko": "대기 시간 종료: 아데예미의 바르셀로나 이적이 완료되었습니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wartezeit-vorbei-adeyemis-wechsel-nach-barcelona-fix-1235334/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T10:39:04+00:00"
+ },
+ {
+  "id": "77b2205bfdb4",
+  "title": "Newcastle agree £34m deal for Monaco's Bamba",
+  "player": "Monaco's Bamba",
+  "title_ko": "뉴캐슬은 모나코의 밤바와 £34m 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+  "fee": "£34M",
+  "published": "2026-07-23T10:33:28+00:00"
+ },
+ {
   "id": "fa46c50d0dfd",
   "title": "Zidane, Cancelo, Guardiola... les 5 infos Mercato du 23 juillet à la mi-journée",
   "player": null,
