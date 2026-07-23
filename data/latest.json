@@ -26,6 +26,19 @@
   "published": "2026-07-23T17:00:00+00:00"
  },
  {
+  "id": "d2069dbc79c7",
+  "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
+  "player": "Newcastle's Guimaraes",
+  "title_ko": "아스날은 뉴캐슬의 기마랑이스에 £70m을 제의할 예정입니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
+  "fee": "£70M",
+  "published": "2026-07-23T16:56:18+00:00"
+ },
+ {
   "id": "b93273fdb442",
   "title": "Done Deal: Bologna secure Amondarain despite Nottingham Forest interest",
   "player": "Mikel Amondarain",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-torres-rogers-openda-les-5-infos-mercato-du-22-juillet-a-midi_VN-202607220362.html",
   "fee": null,
   "published": "2026-07-22T10:23:02+00:00"
- },
- {
-  "id": "2293babbab68",
-  "title": "Arsenal sign Real Madrid goalkeeper Rodriguez",
-  "player": "Misa Rodriguez",
-  "title_ko": "아스날, 레알 마드리드 골키퍼 로드리게스 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565873/misa-rodriguez-arsenal-sign-real-madrid-goalkeeper-on-a-free-transfer",
-  "fee": null,
-  "published": "2026-07-22T10:00:00+00:00"
  }
 ]
