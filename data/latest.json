@@ -1,5 +1,18 @@
 [
  {
+  "id": "709442865690",
+  "title": "Mercato: le clan Diomandé lassé d’attendre le PSG?",
+  "player": "Yan Diomandé",
+  "title_ko": "Mercato: PSG를 기다리는 데 지친 Diomandé 클랜?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-clan-diomande-lasse-d-attendre-le-psg_AV-202607230284.html",
+  "fee": null,
+  "published": "2026-07-23T08:40:08+00:00"
+ },
+ {
   "id": "acc99ddf91c4",
   "title": "Statt Ablöse: Spendet der DFB für Klopp eine Million Euro an Red Bull?",
   "player": "Statt Ablöse",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-reve-de-rejoindre-le-real-madrid-mais-l-interet-n-est-pas-reciproque_AV-202607210376.html",
   "fee": null,
   "published": "2026-07-21T11:37:45+00:00"
- },
- {
-  "id": "0e81d82762d4",
-  "title": "Aston Villa are down familiar transfer path but eventually Unai Emery’s magic won’t be enough",
-  "player": "Unai Emery",
-  "title_ko": "Aston Villa는 익숙한 이적 경로를 따라가고 있지만 결국 Unai Emery의 마법만으로는 충분하지 않을 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-down-familiar-transfer-37457860",
-  "fee": null,
-  "published": "2026-07-21T11:29:04+00:00"
  }
 ]
