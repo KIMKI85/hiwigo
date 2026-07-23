@@ -13,6 +13,19 @@
   "published": "2026-07-23T13:00:00+00:00"
  },
  {
+  "id": "9b97b79ebc22",
+  "title": "Ex-Düsseldorfer Tzolis wechselt zum FC Arsenal",
+  "player": "Düsseldorfer Tzolis",
+  "title_ko": "전 뒤셀도르퍼 촐리스가 아스날로 이적합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ex-duesseldorfer-tzolis-wechselt-zum-fc-arsenal-1236733/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T12:21:33+00:00"
+ },
+ {
   "id": "786a05fa656b",
   "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
   "player": "Dev's Digest",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13564388/devs-digest",
   "fee": null,
   "published": "2026-07-23T12:15:00+00:00"
+ },
+ {
+  "id": "5e926d6a6f5e",
+  "title": "Transfer roundup: Barcelona sign Adeyemi, Monaco’s Bamba set for Newcastle",
+  "player": "Karim Adeyemi",
+  "title_ko": "이적 정리: 바르셀로나는 아데예미, 모나코의 밤바를 뉴캐슬로 영입했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco",
+  "fee": null,
+  "published": "2026-07-23T12:09:38+00:00"
  },
  {
   "id": "4dffe5552a5b",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-west-ham-transfer-37460660",
   "fee": "£68M",
   "published": "2026-07-21T19:08:40+00:00"
- },
- {
-  "id": "f4f26df5bc61",
-  "title": "Adams flies out for Venezia medical in deal worth total €23m",
-  "player": "Akor Adams",
-  "title_ko": "아담스는 베네치아 메디컬로 총 2300만 유로 상당의 계약을 맺었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/adams-flies-out-for-venezia-medical-total-e23m/",
-  "fee": "€23M",
-  "published": "2026-07-21T18:41:18+00:00"
- },
- {
-  "id": "f7951e554df5",
-  "title": "Done Deal: Modric agreement for new Milan contract to June 2027",
-  "player": "Luka Modric",
-  "title_ko": "거래 완료: 2027년 6월까지 새로운 밀란 계약에 대한 모드리치의 합의",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-modric-agreement-new-milan-contract/",
-  "fee": null,
-  "published": "2026-07-21T17:36:49+00:00"
  }
 ]
