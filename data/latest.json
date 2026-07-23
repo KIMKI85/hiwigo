@@ -13,6 +13,19 @@
   "published": "2026-07-23T13:00:00+00:00"
  },
  {
+  "id": "58995aee0c2d",
+  "title": "Iraola in talks with clubs before Liverpool move",
+  "player": "Andoni Iraola",
+  "title_ko": "이라올라, 리버풀 이적 전 클럽들과 논의 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cg4d5ex1ewzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T12:44:30+00:00"
+ },
+ {
   "id": "9b97b79ebc22",
   "title": "Ex-Düsseldorfer Tzolis wechselt zum FC Arsenal",
   "player": "Düsseldorfer Tzolis",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/ayyoub-bouaddi-man-city-transfer-37460693",
   "fee": null,
   "published": "2026-07-21T19:24:49+00:00"
- },
- {
-  "id": "441ffda3eb41",
-  "title": "West Ham strike £68m deal to sell Crysencio Summerville amid Man Utd interest",
-  "player": "Crysencio Summerville",
-  "title_ko": "웨스트햄은 맨유의 관심 속에 크라이센시오 서머빌을 판매하기 위해 £68m 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-west-ham-transfer-37460660",
-  "fee": "£68M",
-  "published": "2026-07-21T19:08:40+00:00"
  }
 ]
