@@ -13,6 +13,19 @@
   "published": "2026-07-23T13:00:00+00:00"
  },
  {
+  "id": "eb4dedecfe93",
+  "title": "Sky: Man United leading Koné race but in no rush over Roma deal",
+  "player": "Sky Sports",
+  "title_ko": "스카이: 맨유가 코네 경쟁에서 선두를 달리고 있지만 로마 계약에는 서두르지 않는다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sky-man-united-leading-kone-race-no-rush-roma/",
+  "fee": null,
+  "published": "2026-07-23T12:55:43+00:00"
+ },
+ {
   "id": "58995aee0c2d",
   "title": "Iraola in talks with clubs before Liverpool move",
   "player": "Andoni Iraola",
@@ -24,6 +37,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cg4d5ex1ewzo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-23T12:44:30+00:00"
+ },
+ {
+  "id": "8f656073fcf1",
+  "title": "Grosso does not rule out Kean transfer to Como: ‘If something suits everyone …’",
+  "player": "Fabio Grosso",
+  "title_ko": "그로소는 킨의 코모 이적 가능성을 배제하지 않았다: '만약 모두에게 적합한 것이 있다면...'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/grosso-does-not-rule-out-kean-transfer-to-como/",
+  "fee": null,
+  "published": "2026-07-23T12:43:22+00:00"
  },
  {
   "id": "9b97b79ebc22",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/morgan-rogers-chelsea-transfer-arsenal-37457316",
   "fee": "£117M",
   "published": "2026-07-21T20:46:24+00:00"
- },
- {
-  "id": "153f7d6d88ae",
-  "title": "Stones emerges as potential Chelsea target",
-  "player": "John Stones",
-  "title_ko": "스톤즈가 첼시의 잠재적 타깃으로 떠올랐다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
-  "fee": null,
-  "published": "2026-07-21T19:27:00+00:00"
- },
- {
-  "id": "37b08a0ba8a1",
-  "title": "Ayyoub Bouaddi 'reaches transfer agreement' after Man City, Man Utd and Arsenal interest",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "아이유브 부아디는 맨시티, 맨유, 아스날의 관심 이후 '이적 계약에 도달'했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ayyoub-bouaddi-man-city-transfer-37460693",
-  "fee": null,
-  "published": "2026-07-21T19:24:49+00:00"
  }
 ]
