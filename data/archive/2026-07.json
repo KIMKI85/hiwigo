@@ -1,5 +1,18 @@
 [
  {
+  "id": "786a05fa656b",
+  "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
+  "player": "Dev's Digest",
+  "title_ko": "Dev's Digest: 촬영 현장의 Singh, Bhatia의 리버풀 입찰, Antonio의 깜짝 복귀",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564388/devs-digest",
+  "fee": null,
+  "published": "2026-07-23T12:15:00+00:00"
+ },
+ {
   "id": "4dffe5552a5b",
   "title": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
   "player": "Roma's Manu Kone",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
   "fee": null,
   "published": "2026-07-23T11:40:00+00:00"
+ },
+ {
+  "id": "d70a3587c622",
+  "title": "Rodri to Real Madrid transfer truth as Man City contract stipulation revealed",
+  "player": null,
+  "title_ko": "맨시티 계약 조항이 공개되면서 로드리의 레알 마드리드 이적 사실이 드러났다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-real-madrid-transfer-truth-37467386",
+  "fee": null,
+  "published": "2026-07-23T11:08:43+00:00"
  },
  {
   "id": "9e45b7a5a44b",
