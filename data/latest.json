@@ -1,5 +1,18 @@
 [
  {
+  "id": "4dffe5552a5b",
+  "title": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
+  "player": "Roma's Manu Kone",
+  "title_ko": "맨유가 세 번째 미드필더 영입을 위해 코네와 발레바를 강력히 고려하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
+  "fee": null,
+  "published": "2026-07-23T12:00:00+00:00"
+ },
+ {
   "id": "2c7af3a98bcb",
   "title": "Leeds in talks with Man City over deal for Trafford",
   "player": "James Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-21T16:16:41+00:00"
- },
- {
-  "id": "deb33497ccd0",
-  "title": "Luzern verpflichtet Simoni von Eintracht Frankfurt",
-  "player": "Simoni von Eintracht",
-  "title_ko": "루체른은 아인트라흐트 프랑크푸르트에서 시모니를 영입했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/luzern-verpflichtet-simoni-von-eintracht-frankfurt-1237744/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-21T15:21:38+00:00"
  }
 ]
