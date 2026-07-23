@@ -1,5 +1,18 @@
 [
  {
+  "id": "108b6e2397c9",
+  "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
+  "player": null,
+  "title_ko": "리버풀 최신: 골키퍼가 임대로 떠나면서 새로운 계약에 서명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-07-23T16:23:00+00:00"
+ },
+ {
   "id": "404d8c8f1823",
   "title": "Aston Villa seal loan signing of Alejandro Garnacho from Chelsea",
   "player": "Alejandro Garnacho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/hoeflicher-bischof-erklaert-rueckennummer-wechsel-1237828/artikel#omrss",
   "fee": null,
   "published": "2026-07-22T07:49:35+00:00"
- },
- {
-  "id": "38b1cd63388b",
-  "title": "Transfer news LIVE: Chelsea bid rejected, Bruno Guimaraes to Arsenal and Man Utd blow",
-  "player": "Bruno Guimaraes",
-  "title_ko": "이적 뉴스 LIVE: 첼시의 입찰 거부, 브루노 기마라스가 아스날과 맨유에 타격을 입혔습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37461253",
-  "fee": null,
-  "published": "2026-07-22T06:11:45+00:00"
  }
 ]
