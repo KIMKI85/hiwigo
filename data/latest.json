@@ -1,5 +1,18 @@
 [
  {
+  "id": "cc45f178f49b",
+  "title": "Villa sign Garnacho on loan from Chelsea",
+  "player": "Alejandro Garnacho",
+  "title_ko": "빌라는 첼시에서 가르나초를 임대 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566112/alejandro-garnacho-transfer-news-aston-villa-sign-chelsea-winger-on-initial-loan-deal-with-conditional-obligation-to-buy",
+  "fee": null,
+  "published": "2026-07-23T14:45:00+00:00"
+ },
+ {
   "id": "b260f7e50dea",
   "title": "Aston Villa confirm signing of Alejandro Garnacho with £43m Chelsea clause",
   "player": "Alejandro Garnacho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37458829",
   "fee": "£70M",
   "published": "2026-07-22T03:00:00+00:00"
- },
- {
-  "id": "ff52b94f35c2",
-  "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
-  "player": null,
-  "title_ko": "논문: 맨유는 PSG의 자이르-에메리 영입을 고려하고 있다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
-  "fee": null,
-  "published": "2026-07-21T23:15:00+00:00"
  }
 ]
