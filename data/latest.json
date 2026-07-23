@@ -1,5 +1,18 @@
 [
  {
+  "id": "fa46c50d0dfd",
+  "title": "Zidane, Cancelo, Guardiola... les 5 infos Mercato du 23 juillet à la mi-journée",
+  "player": null,
+  "title_ko": "지단, 칸셀루, 과르디올라... 7월 23일 정오 5개의 메르카토 소식",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-zidane-cancelo-guardiola-les-5-infos-mercato-du-23-juillet-a-la-mi-journee_VN-202607230342.html",
+  "fee": null,
+  "published": "2026-07-23T10:03:22+00:00"
+ },
+ {
   "id": "6c7282980e39",
   "title": "Kubo y Sucic, a ser otra vez fichajes",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-romagnoli-transfer-al-sadd-can-collapse/",
   "fee": null,
   "published": "2026-07-21T13:13:34+00:00"
- },
- {
-  "id": "cda22341991a",
-  "title": "Man City to sign youngster from under Arsenal's noses after contract rejection",
-  "player": "Mishel Nduka",
-  "title_ko": "계약 거부 후 아스날의 코앞에서 젊은 선수를 영입하는 맨시티",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-teenager-contract-37458813",
-  "fee": null,
-  "published": "2026-07-21T12:58:38+00:00"
  }
 ]
