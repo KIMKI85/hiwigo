@@ -1,5 +1,18 @@
 [
  {
+  "id": "ef3eac507564",
+  "title": "La triple presentación de los nuevos fichajes del Málaga",
+  "player": "Juan Cruz",
+  "title_ko": "말라가의 새로운 영입에 대한 세 번의 발표",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/23/triple-presentacion-nuevos-fichajes-malaga.html",
+  "fee": null,
+  "published": "2026-07-23T18:29:18+00:00"
+ },
+ {
   "id": "87349b1722ef",
   "title": "Arsenal to launch £70m Bruno Guimaraes bid - but transfer for Newcastle star hangs in balance",
   "player": "Bruno Guimaraes",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-sv-waldhof-1237924/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-22T12:12:15+00:00"
- },
- {
-  "id": "287f3014a856",
-  "title": "Nationalspieler mit Drittliga-Erfahrung: Mickels wechselt zum Waldhof",
-  "player": "Waldhof Mannheim",
-  "title_ko": "3부 리그 경험이 있는 국가대표 선수: 미켈스는 발트호프로 이적합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-waldhof-1237924/artikel#omrss",
   "fee": null,
   "published": "2026-07-22T12:12:15+00:00"
  }
