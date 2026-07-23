@@ -1,5 +1,18 @@
 [
  {
+  "id": "59faea7f2bd3",
+  "title": "Liverpool's £215m summer transfer war chest rests on sales as World Cup-winner could leave",
+  "player": "World Cup-winner",
+  "title_ko": "리버풀의 여름 이적 자금 £215m은 월드컵 우승자가 떠날 수 있기 때문에 판매에 달려 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-mac-allister-37459588",
+  "fee": "£215M",
+  "published": "2026-07-23T04:15:00+00:00"
+ },
+ {
   "id": "b988f25c08b8",
   "title": "Man Utd news: Manu Kone transfer twist as club in ‘pole position’ for midfield target",
   "player": "Manu Kone",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/fca-landet-transfer-coups-bahn-und-schumacher-bringen-ueber-500-profi-spiele-zur-u-23-1237660/artikel#omrss",
   "fee": null,
   "published": "2026-07-21T10:43:06+00:00"
- },
- {
-  "id": "13ca74552421",
-  "title": "Everton agree deal to sign Leicester’s Rantala",
-  "player": "Jutta Rantala",
-  "title_ko": "에버턴은 레스터의 란탈라와 계약하는 데 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj360rjljkdo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-21T10:18:16+00:00"
  }
 ]
