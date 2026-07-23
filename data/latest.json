@@ -1,5 +1,18 @@
 [
  {
+  "id": "ab3698aaffda",
+  "title": "Codina on why she joined West Ham project",
+  "player": "Laia Codina",
+  "title_ko": "코디나가 웨스트햄 프로젝트에 합류한 이유",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cn4nmjwl8j1o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T13:22:48+00:00"
+ },
+ {
   "id": "64e89524e835",
   "title": "Arsenal sign Greek forward Tzolis for £34m",
   "player": "Christos Tzolis",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal",
   "fee": "£117M",
   "published": "2026-07-21T21:16:26+00:00"
- },
- {
-  "id": "0709982d8b6c",
-  "title": "Rogers wechselt für Rekordsumme von Aston Villa zu Chelsea",
-  "player": "Rekordsumme von",
-  "title_ko": "로저스는 기록적인 이적료로 아스톤 빌라에서 첼시로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/rogers-wechselt-fuer-rekordsumme-von-aston-villa-zu-chelsea-1237113/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-21T21:02:12+00:00"
  }
 ]
