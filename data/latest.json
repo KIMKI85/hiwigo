@@ -39,6 +39,19 @@
   "published": "2026-07-23T11:40:00+00:00"
  },
  {
+  "id": "cd9bee652c10",
+  "title": "Pandur joined Rangers after Hull planned new number one",
+  "player": "Ivor Pandur",
+  "title_ko": "Pandur는 Hull이 새로운 1위를 계획한 후 레인저스에 합류했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c80n51kngzjo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T11:37:26+00:00"
+ },
+ {
   "id": "d70a3587c622",
   "title": "Rodri to Real Madrid transfer truth as Man City contract stipulation revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea",
   "fee": null,
   "published": "2026-07-21T16:46:00+00:00"
- },
- {
-  "id": "167d136e0481",
-  "title": "Middlesbrough agree fee for Spurs striker Lankshear",
-  "player": "Will Lankshear",
-  "title_ko": "미들즈브러는 스퍼스의 스트라이커 랭크시어의 이적료에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-21T16:36:15+00:00"
  }
 ]
