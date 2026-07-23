@@ -26,6 +26,19 @@
   "published": "2026-07-23T16:23:00+00:00"
  },
  {
+  "id": "972d43d414b1",
+  "title": "Official: Modric signs new contract with Milan to 2027",
+  "player": "Luka Modric",
+  "title_ko": "공식: 모드리치는 밀란과 2027년까지 재계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-modric-signs-new-contract-with-milan/",
+  "fee": null,
+  "published": "2026-07-23T16:17:09+00:00"
+ },
+ {
   "id": "03920c28a9af",
   "title": "Done Deal: Udinese hand Iker Bravo, Zemura and Payero to Watford",
   "player": "Iker Bravo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-sign-spain-goalkeeper-misa-rodriguez",
   "fee": null,
   "published": "2026-07-22T09:22:35+00:00"
- },
- {
-  "id": "277c6cbcff8a",
-  "title": "Blau-weiße Vereinsfarben: Werder wechselt die Tornetze im Zillertal",
-  "player": null,
-  "title_ko": "파란색과 흰색 클럽 색상: Werder는 Zillertal에서 골네트를 변경합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/blau-weisse-vereinsfarben-werder-wechselt-die-tornetze-im-zillertal-1237864/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-22T09:21:50+00:00"
  }
 ]
