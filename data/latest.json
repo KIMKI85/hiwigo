@@ -1,5 +1,44 @@
 [
  {
+  "id": "2c7af3a98bcb",
+  "title": "Leeds in talks with Man City over deal for Trafford",
+  "player": "James Trafford",
+  "title_ko": "리즈, 트래포드 영입을 위해 맨시티와 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
+  "fee": null,
+  "published": "2026-07-23T11:40:00+00:00"
+ },
+ {
+  "id": "9e45b7a5a44b",
+  "title": "Tottenham’s decision on Vicario for pre-season tour boosts Juventus’ transfer hopes",
+  "player": "Guglielmo Vicario",
+  "title_ko": "토트넘이 프리시즌 투어에 비카리오를 결정한 것은 유벤투스의 이적 희망을 높여준다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tottenham-vicario-decision-pre-season-juventus/",
+  "fee": null,
+  "published": "2026-07-23T10:52:40+00:00"
+ },
+ {
+  "id": "be96251d1cc0",
+  "title": "\"Flexibler Linksfuß\": Viktoria verpflichtet Ex-Löwe Jakob",
+  "player": "Löwe Jakob",
+  "title_ko": "\"유연한 왼발\": 빅토리아는 전 라이온 야콥과 계약했습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/flexibler-linksfuss-viktoria-verpflichtet-ex-loewe-jakob-1238091/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T10:49:38+00:00"
+ },
+ {
   "id": "d59d30018daf",
   "title": "Wartezeit vorbei: Adeyemis Wechsel nach Barcelona fix",
   "player": "Adeyemis Wechsel",
@@ -1259,44 +1298,5 @@
   "url": "https://www.kicker.de/luzern-verpflichtet-simoni-von-eintracht-frankfurt-1237744/artikel#omrss",
   "fee": null,
   "published": "2026-07-21T15:21:38+00:00"
- },
- {
-  "id": "f46ab9f6dbf2",
-  "title": "Zaniolo and Udinese end salary stand-off with new contract to 2029",
-  "player": "Nicolò Zaniolo",
-  "title_ko": "자니올로와 우디네세는 연봉 대립을 끝내고 2029년까지 재계약을 맺었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zaniolo-udinese-end-salary-stand-off-contract/",
-  "fee": null,
-  "published": "2026-07-21T15:18:16+00:00"
- },
- {
-  "id": "604d09170673",
-  "title": "Al-Hilal surge for Summerville, but Roma remain confident of €50m agreement",
-  "player": null,
-  "title_ko": "Summerville의 Al-Hilal 급증, 그러나 Roma는 € 50m 합의를 확신합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/al-hilal-surge-for-summerville-roma-confident/",
-  "fee": "€50M",
-  "published": "2026-07-21T14:52:31+00:00"
- },
- {
-  "id": "552119aa9d41",
-  "title": "Australia striker McNamara joins Everton",
-  "player": null,
-  "title_ko": "호주의 공격수 맥나마라(McNamara)가 에버턴에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-21T13:54:14+00:00"
  }
 ]

@@ -1,5 +1,44 @@
 [
  {
+  "id": "2c7af3a98bcb",
+  "title": "Leeds in talks with Man City over deal for Trafford",
+  "player": "James Trafford",
+  "title_ko": "리즈, 트래포드 영입을 위해 맨시티와 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
+  "fee": null,
+  "published": "2026-07-23T11:40:00+00:00"
+ },
+ {
+  "id": "9e45b7a5a44b",
+  "title": "Tottenham’s decision on Vicario for pre-season tour boosts Juventus’ transfer hopes",
+  "player": "Guglielmo Vicario",
+  "title_ko": "토트넘이 프리시즌 투어에 비카리오를 결정한 것은 유벤투스의 이적 희망을 높여준다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tottenham-vicario-decision-pre-season-juventus/",
+  "fee": null,
+  "published": "2026-07-23T10:52:40+00:00"
+ },
+ {
+  "id": "be96251d1cc0",
+  "title": "\"Flexibler Linksfuß\": Viktoria verpflichtet Ex-Löwe Jakob",
+  "player": "Löwe Jakob",
+  "title_ko": "\"유연한 왼발\": 빅토리아는 전 라이온 야콥과 계약했습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/flexibler-linksfuss-viktoria-verpflichtet-ex-loewe-jakob-1238091/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T10:49:38+00:00"
+ },
+ {
   "id": "d59d30018daf",
   "title": "Wartezeit vorbei: Adeyemis Wechsel nach Barcelona fix",
   "player": "Adeyemis Wechsel",
