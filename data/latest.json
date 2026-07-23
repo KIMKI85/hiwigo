@@ -1,5 +1,18 @@
 [
  {
+  "id": "281563432650",
+  "title": "Modric extension with Milan imminent after contract signing",
+  "player": "Luka Modric",
+  "title_ko": "계약 체결 후 밀란과 모드리치의 연장이 임박했습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/modric-extension-with-milan-imminent/",
+  "fee": null,
+  "published": "2026-07-23T13:39:31+00:00"
+ },
+ {
   "id": "ab3698aaffda",
   "title": "Codina on why she joined West Ham project",
   "player": "Laia Codina",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-chelsea-villa-transfer-37460881",
   "fee": null,
   "published": "2026-07-21T21:25:25+00:00"
- },
- {
-  "id": "a6530695ea99",
-  "title": "Morgan Rogers ‘excited to join biggest club in London’ after signing £117m Chelsea deal",
-  "player": "Morgan Rogers",
-  "title_ko": "모건 로저스, £117m 첼시 계약 후 '런던 최대 클럽에 합류하게 돼 기쁘다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal",
-  "fee": "£117M",
-  "published": "2026-07-21T21:16:26+00:00"
  }
 ]
