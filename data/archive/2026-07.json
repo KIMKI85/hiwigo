@@ -1,5 +1,44 @@
 [
  {
+  "id": "b260f7e50dea",
+  "title": "Aston Villa confirm signing of Alejandro Garnacho with £43m Chelsea clause",
+  "player": "Alejandro Garnacho",
+  "title_ko": "Aston Villa는 £43m 첼시 조항으로 Alejandro Garnacho의 영입을 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-aston-villa-alejandro-garnacho-37468000",
+  "fee": "£43M",
+  "published": "2026-07-23T13:45:59+00:00"
+ },
+ {
+  "id": "de1ea0ca5844",
+  "title": "Adeyemi nennt Flick als \"Hauptgrund\" für Wechsel - und seinen Vorteil",
+  "player": "Karim Adeyemi",
+  "title_ko": "Adeyemi는 Flick을 변경의 \"주요 이유\"로 언급하며 그의 장점은 다음과 같습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/adeyemi-nennt-flick-als-hauptgrund-fuer-wechsel-und-seinen-vorteil-1238145/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T13:45:27+00:00"
+ },
+ {
+  "id": "c502186e5453",
+  "title": "Jurgen Klopp favourite has told Andoni Iraola all about Liverpool target Maghnes Akliouche",
+  "player": "Jurgen Klopp",
+  "title_ko": "위르겐 클롭이 가장 좋아하는 선수는 안도니 이라올라에게 리버풀 타겟인 마그네스 아클리우체에 대한 모든 것을 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-maghnes-akliouche-monaco-37468424",
+  "fee": null,
+  "published": "2026-07-23T13:44:30+00:00"
+ },
+ {
   "id": "281563432650",
   "title": "Modric extension with Milan imminent after contract signing",
   "player": "Luka Modric",
