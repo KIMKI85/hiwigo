@@ -13,6 +13,32 @@
   "published": "2026-07-23T14:45:00+00:00"
  },
  {
+  "id": "4c47fa8253b6",
+  "title": "Garnacho joins Villa on loan from Chelsea",
+  "player": null,
+  "title_ko": "가르나초는 첼시에서 임대로 빌라에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T14:22:21+00:00"
+ },
+ {
+  "id": "e0700886cadb",
+  "title": "Done Deal: Report Milan hijack Rangers agreement for Diawara",
+  "player": "Sankhoun Diawara",
+  "title_ko": "거래 완료: 밀란이 레인저스의 디아와라 계약을 하이재킹했다고 보고",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-report-milan-hijack-rangers-diawara/",
+  "fee": null,
+  "published": "2026-07-23T14:19:40+00:00"
+ },
+ {
   "id": "b260f7e50dea",
   "title": "Aston Villa confirm signing of Alejandro Garnacho with £43m Chelsea clause",
   "player": "Alejandro Garnacho",

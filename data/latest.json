@@ -13,6 +13,32 @@
   "published": "2026-07-23T14:45:00+00:00"
  },
  {
+  "id": "4c47fa8253b6",
+  "title": "Garnacho joins Villa on loan from Chelsea",
+  "player": null,
+  "title_ko": "가르나초는 첼시에서 임대로 빌라에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T14:22:21+00:00"
+ },
+ {
+  "id": "e0700886cadb",
+  "title": "Done Deal: Report Milan hijack Rangers agreement for Diawara",
+  "player": "Sankhoun Diawara",
+  "title_ko": "거래 완료: 밀란이 레인저스의 디아와라 계약을 하이재킹했다고 보고",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-report-milan-hijack-rangers-diawara/",
+  "fee": null,
+  "published": "2026-07-23T14:19:40+00:00"
+ },
+ {
   "id": "b260f7e50dea",
   "title": "Aston Villa confirm signing of Alejandro Garnacho with £43m Chelsea clause",
   "player": "Alejandro Garnacho",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-torres-scott-37458773",
   "fee": "£80M",
   "published": "2026-07-22T04:00:00+00:00"
- },
- {
-  "id": "45e00ef47c22",
-  "title": "Man Utd news: £60m star rejects new contract as 'calls and texts' to transfer target emerge",
-  "player": null,
-  "title_ko": "맨유 뉴스: 이적 타겟을 위한 '전화와 문자'가 등장하자 £60m의 스타가 새로운 계약을 거부했습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-alex-scott-transfer-37459815",
-  "fee": "£60M",
-  "published": "2026-07-22T03:30:00+00:00"
- },
- {
-  "id": "9b49ebd8577c",
-  "title": "Arsenal news: Bruno Guimaraes transfer update as £70m deal signed",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날 뉴스: 브루노 기마랑스 이적 업데이트, £70m 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37458829",
-  "fee": "£70M",
-  "published": "2026-07-22T03:00:00+00:00"
  }
 ]
