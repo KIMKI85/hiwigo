@@ -1,5 +1,31 @@
 [
  {
+  "id": "64e89524e835",
+  "title": "Arsenal sign Greek forward Tzolis for £34m",
+  "player": "Christos Tzolis",
+  "title_ko": "아스날은 그리스 포워드 Tzolis를 £ 34m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
+  "fee": "£34M",
+  "published": "2026-07-23T13:04:44+00:00"
+ },
+ {
+  "id": "e4280b04e254",
+  "title": "Arsenal sign Greece forward Christos Tzolis from Club Brugge for £34m",
+  "player": "Christos Tzolis",
+  "title_ko": "아스날은 클럽 브뤼헤에서 그리스 포워드 크리스토스 촐리스를 £34m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m",
+  "fee": "£34M",
+  "published": "2026-07-23T13:00:13+00:00"
+ },
+ {
   "id": "f5f788ff1f76",
   "title": "Arsenal complete deal to sign winger Tzolis",
   "player": "Christos Tzolis",
