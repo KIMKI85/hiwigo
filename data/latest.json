@@ -1,5 +1,31 @@
 [
  {
+  "id": "87349b1722ef",
+  "title": "Arsenal to launch £70m Bruno Guimaraes bid - but transfer for Newcastle star hangs in balance",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 브루노 기마랑스에게 7000만 파운드의 입찰을 제안했지만 뉴캐슬 스타에 대한 이적은 균형이 맞지 않습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37469731",
+  "fee": "£70M",
+  "published": "2026-07-23T18:00:45+00:00"
+ },
+ {
+  "id": "c85a63bbb021",
+  "title": "Man Utd XI from last Rosenborg friendly with six axed and two more potential transfers",
+  "player": null,
+  "title_ko": "맨유 XI는 지난 로젠보리 친선경기에서 6명의 도끼 선수와 2명의 잠재적 이적 가능성을 더 가지고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rosenborg-xi-friendly-37464302",
+  "fee": null,
+  "published": "2026-07-23T18:00:00+00:00"
+ },
+ {
   "id": "17c176dcf8e4",
   "title": "Roma 6-0 friendly victory sees Malen and Dybala on target",
   "player": "Donyell Malen",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/nationalspieler-mit-drittliga-erfahrung-mickels-wechselt-zum-waldhof-1237924/artikel#omrss",
   "fee": null,
   "published": "2026-07-22T12:12:15+00:00"
- },
- {
-  "id": "8d300866bc07",
-  "title": "Phil Foden comments on Enzo Maresca speak volumes as he signs new Man City contract",
-  "player": "Phil Foden",
-  "title_ko": "필 포덴(Phil Foden)은 엔조 마레스카(Enzo Maresca)가 새로운 맨시티 계약에 서명하면서 많은 말을 했다고 언급했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/phil-foden-manchester-city-contract-37463108",
-  "fee": null,
-  "published": "2026-07-22T12:04:41+00:00"
- },
- {
-  "id": "34e8b9faa2b5",
-  "title": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract",
-  "player": "Phil Foden",
-  "title_ko": "'독특한 재능': 필 포덴이 맨체스터 시티와 새로운 4년 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract",
-  "fee": null,
-  "published": "2026-07-22T12:00:14+00:00"
  }
 ]
