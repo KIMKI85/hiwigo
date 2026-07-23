@@ -1,5 +1,18 @@
 [
  {
+  "id": "f5f788ff1f76",
+  "title": "Arsenal complete deal to sign winger Tzolis",
+  "player": "Christos Tzolis",
+  "title_ko": "아스날은 윙어 Tzolis와 계약을 완료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard",
+  "fee": null,
+  "published": "2026-07-23T13:00:00+00:00"
+ },
+ {
   "id": "786a05fa656b",
   "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
   "player": "Dev's Digest",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-modric-agreement-new-milan-contract/",
   "fee": null,
   "published": "2026-07-21T17:36:49+00:00"
- },
- {
-  "id": "69cff4dee26a",
-  "title": "West Ham agree big-money deal with Al Hilal for Summerville",
-  "player": "Al Hilal",
-  "title_ko": "웨스트햄, 서머빌 이적료로 알 힐랄과 거액 계약 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international",
-  "fee": null,
-  "published": "2026-07-21T17:15:00+00:00"
  }
 ]
