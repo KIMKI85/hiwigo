@@ -1,5 +1,18 @@
 [
  {
+  "id": "034416ca5ace",
+  "title": "Papers: Valuations of several Man Utd midfield targets revealed",
+  "player": null,
+  "title_ko": "논문: 여러 Man Utd 미드필더 타겟의 가치가 공개되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder",
+  "fee": null,
+  "published": "2026-07-23T22:30:00+00:00"
+ },
+ {
   "id": "9c015a345d46",
   "title": "Mercato: Keito Nakamura serait dans le viseur de l'OM",
   "player": "Keito Nakamura",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
   "fee": null,
   "published": "2026-07-22T13:00:00+00:00"
- },
- {
-  "id": "93362cabcf93",
-  "title": "Viktor Gyokeres 'not trusted' at Arsenal and Mikel Arteta's warning as transfer swap mooted",
-  "player": "Viktor Gyokeres",
-  "title_ko": "아스날의 빅토르 교케레스는 '신뢰할 수 없다'고 이적 스왑이 논의되자 미켈 아르테타의 경고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-julian-alvarez-viktor-gyokeres-37463295",
-  "fee": null,
-  "published": "2026-07-22T12:57:02+00:00"
  }
 ]
