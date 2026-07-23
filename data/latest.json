@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c7282980e39",
+  "title": "Kubo y Sucic, a ser otra vez fichajes",
+  "player": null,
+  "title_ko": "쿠보와 수치치, 재계약한다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/23/kubo-sucic-vez-fichajes.html",
+  "fee": null,
+  "published": "2026-07-23T09:53:49+00:00"
+ },
+ {
   "id": "639da0fc27b2",
   "title": "Roma open Nusa talks after Summerville snub but Leipzig demand big fee",
   "player": "Il Corriere",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-teenager-contract-37458813",
   "fee": null,
   "published": "2026-07-21T12:58:38+00:00"
- },
- {
-  "id": "327635bec6c2",
-  "title": "Mercato: le FC Barcelone s'intéresse au champion du monde, Aymeric Laporte",
-  "player": "Aymeric Laporte",
-  "title_ko": "Mercato: FC 바르셀로나는 세계 챔피언 Aymeric Laporte에 관심이 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-fc-barcelone-s-interesse-au-champion-du-monde-aymeric-laporte_AV-202607210424.html",
-  "fee": null,
-  "published": "2026-07-21T12:55:53+00:00"
  }
 ]
