@@ -39,6 +39,19 @@
   "published": "2026-07-23T16:56:18+00:00"
  },
  {
+  "id": "bf459bd7070b",
+  "title": "Christos Tzolis: How Arsenal's new £34m signing went from Norwich flop to Champions League star",
+  "player": "Christos Tzolis",
+  "title_ko": "Christos Tzolis: 아스날의 새로운 £34m 영입이 어떻게 노리치에서 실패하고 챔피언스 리그 스타가 되었는지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-christos-tzolis-norwich-city-37468916",
+  "fee": "£34M",
+  "published": "2026-07-23T16:52:41+00:00"
+ },
+ {
   "id": "b93273fdb442",
   "title": "Done Deal: Bologna secure Amondarain despite Nottingham Forest interest",
   "player": "Mikel Amondarain",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/bundesliga-duo-ausgestochen-damar-vor-wechsel-nach-wolfsburg-1237885/artikel#omrss",
   "fee": null,
   "published": "2026-07-22T10:47:43+00:00"
- },
- {
-  "id": "eeeba698be82",
-  "title": "Torres, Rogers, Openda... les 5 infos mercato du 22 juillet à midi",
-  "player": "Ferran Torres",
-  "title_ko": "토레스, 로저스, 오픈다… 7월 22일 정오 5번 이적시장 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-torres-rogers-openda-les-5-infos-mercato-du-22-juillet-a-midi_VN-202607220362.html",
-  "fee": null,
-  "published": "2026-07-22T10:23:02+00:00"
  }
 ]
