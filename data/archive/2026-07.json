@@ -1,5 +1,31 @@
 [
  {
+  "id": "639da0fc27b2",
+  "title": "Roma open Nusa talks after Summerville snub but Leipzig demand big fee",
+  "player": "Il Corriere",
+  "title_ko": "로마는 서머빌의 거절 이후 누사 협상을 시작했지만 라이프치히는 큰 이적료를 요구했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-open-nusa-summerville-snub-leipzig-fee/",
+  "fee": null,
+  "published": "2026-07-23T09:45:13+00:00"
+ },
+ {
+  "id": "717e95d7b155",
+  "title": "Ex-Lübecker Kölle findet neuen Verein: Die aktuellen Transfers in der Regionalliga",
+  "player": "Lübecker Kölle",
+  "title_ko": "전 Lübecker Kölle이 새로운 클럽을 찾았습니다: 현재 지역 리그의 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ex-luebecker-koelle-findet-neuen-verein-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T09:35:20+00:00"
+ },
+ {
   "id": "cb40d7be2a6d",
   "title": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
   "player": "Tarik Muharemovic",

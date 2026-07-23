@@ -1,5 +1,31 @@
 [
  {
+  "id": "639da0fc27b2",
+  "title": "Roma open Nusa talks after Summerville snub but Leipzig demand big fee",
+  "player": "Il Corriere",
+  "title_ko": "로마는 서머빌의 거절 이후 누사 협상을 시작했지만 라이프치히는 큰 이적료를 요구했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-open-nusa-summerville-snub-leipzig-fee/",
+  "fee": null,
+  "published": "2026-07-23T09:45:13+00:00"
+ },
+ {
+  "id": "717e95d7b155",
+  "title": "Ex-Lübecker Kölle findet neuen Verein: Die aktuellen Transfers in der Regionalliga",
+  "player": "Lübecker Kölle",
+  "title_ko": "전 Lübecker Kölle이 새로운 클럽을 찾았습니다: 현재 지역 리그의 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ex-luebecker-koelle-findet-neuen-verein-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T09:35:20+00:00"
+ },
+ {
   "id": "cb40d7be2a6d",
   "title": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
   "player": "Tarik Muharemovic",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-fc-barcelone-s-interesse-au-champion-du-monde-aymeric-laporte_AV-202607210424.html",
   "fee": null,
   "published": "2026-07-21T12:55:53+00:00"
- },
- {
-  "id": "01fa625fba76",
-  "title": "Agent confirms Bastoni’s transfer stance amid Al Hilal rumours",
-  "player": "Al Hilal",
-  "title_ko": "에이전트는 Al Hilal 소문 속에서 Bastoni의 이적 입장을 확인했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/agent-bastoni-transfer-stance-al-hilal-rumours/",
-  "fee": null,
-  "published": "2026-07-21T12:51:32+00:00"
- },
- {
-  "id": "869dd21a0d52",
-  "title": "Report Summerville will join Roma for under €50m, despite Aston Villa interest",
-  "player": "Alfredo Pedullà",
-  "title_ko": "보고서 Summerville은 Aston Villa의 관심에도 불구하고 €50m 미만의 가격으로 Roma에 합류할 것입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-summerville-will-join-roma-under-e50m/",
-  "fee": "€50M",
-  "published": "2026-07-21T12:24:40+00:00"
  }
 ]
