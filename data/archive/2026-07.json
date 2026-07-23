@@ -1,5 +1,18 @@
 [
  {
+  "id": "77a2b38bebf8",
+  "title": "Rangers confirm Dragojevic signing as seventh summer arrival",
+  "player": null,
+  "title_ko": "레인저스는 Dragojevic의 계약을 7번째 여름 도착으로 확인했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13564373/rangers-transfer-news-vanja160dragojevic160joins-from-partizan160belgrade160as-ibrox-clubs-seventh-summer-signing",
+  "fee": null,
+  "published": "2026-07-23T17:00:00+00:00"
+ },
+ {
   "id": "108b6e2397c9",
   "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
   "player": null,
@@ -11,6 +24,45 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-07-23T16:23:00+00:00"
+ },
+ {
+  "id": "03920c28a9af",
+  "title": "Done Deal: Udinese hand Iker Bravo, Zemura and Payero to Watford",
+  "player": "Iker Bravo",
+  "title_ko": "거래 완료: 우디네세는 이케르 브라보, 제무라, 파예로를 왓포드로 이적시켰습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-udinese-iker-bravo-zemura-payero-watford/",
+  "fee": null,
+  "published": "2026-07-23T16:01:12+00:00"
+ },
+ {
+  "id": "788de2ea6566",
+  "title": "Anderson gets Man City move he craved as £116m deal done",
+  "player": "Elliot Anderson",
+  "title_ko": "앤더슨은 1억 1600만 파운드의 거래가 완료되면서 그가 갈망했던 맨시티로 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss",
+  "fee": "£116M",
+  "published": "2026-07-23T16:01:00+00:00"
+ },
+ {
+  "id": "46b51502c016",
+  "title": "'Kings of Manchester' - Elliot Anderson taunts Man Utd as City unveil £116m signing",
+  "player": "Elliot Anderson",
+  "title_ko": "'킹스 오브 맨체스터' - 엘리엇 앤더슨, 시티가 £116m 계약 발표하자 맨유를 조롱",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/elliot-anderson-taunts-manchester-united-37469365",
+  "fee": "£116M",
+  "published": "2026-07-23T16:00:40+00:00"
  },
  {
   "id": "57886b52490a",
