@@ -13,6 +13,19 @@
   "published": "2026-07-23T17:30:00+00:00"
  },
  {
+  "id": "c975b1c55497",
+  "title": "Anderson's journey to England star and  Man City record signing",
+  "player": "Elliot Anderson",
+  "title_ko": "앤더슨의 잉글랜드 스타 여행 및 맨시티 기록 서명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T17:16:34+00:00"
+ },
+ {
   "id": "77a2b38bebf8",
   "title": "Rangers confirm Dragojevic signing as seventh summer arrival",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/exclusive-bruno-fernandes-contract-united-37462754",
   "fee": null,
   "published": "2026-07-22T11:00:00+00:00"
- },
- {
-  "id": "2ad8f63998f4",
-  "title": "Bundesliga-Duo ausgestochen: Damar vor Wechsel nach Wolfsburg",
-  "player": "von Mittelfeldspieler Muhammed",
-  "title_ko": "분데스리가 듀오: 볼프스부르크로 이적하기 전 다마르",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/bundesliga-duo-ausgestochen-damar-vor-wechsel-nach-wolfsburg-1237885/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-22T10:47:43+00:00"
  }
 ]
