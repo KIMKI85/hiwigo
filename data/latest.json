@@ -1,5 +1,18 @@
 [
  {
+  "id": "b988f25c08b8",
+  "title": "Man Utd news: Manu Kone transfer twist as club in ‘pole position’ for midfield target",
+  "player": "Manu Kone",
+  "title_ko": "맨유 뉴스: 마누 코네가 미드필더 타깃을 위한 '폴 포지션' 클럽으로 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-manu-kone-37464979",
+  "fee": null,
+  "published": "2026-07-23T03:30:00+00:00"
+ },
+ {
   "id": "3e286e7a34e5",
   "title": "Arsenal news: Bruno Guimaraes contact made as transfer bid received from 'confident' chief",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cj360rjljkdo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-21T10:18:16+00:00"
- },
- {
-  "id": "48af273757f4",
-  "title": "Top-Talent Natali vor abermaligem Wechsel aus Leverkusen nach Alkmaar",
-  "player": "Talent Natali",
-  "title_ko": "레버쿠젠에서 알크마르로 이적하기 전 최고의 인재 나탈리",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/top-talent-natali-vor-abermaligem-wechsel-aus-leverkusen-nach-alkmaar-1237650/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-21T10:13:01+00:00"
  }
 ]
