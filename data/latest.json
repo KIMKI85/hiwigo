@@ -819,6 +819,19 @@
   "published": "2026-07-22T16:14:14+00:00"
  },
  {
+  "id": "256a983c5415",
+  "title": "Evolution not revolution for Arsenal as transfer window starts slowly",
+  "player": "Mikel Arteta",
+  "title_ko": "이적시장이 천천히 시작되면서 아스날의 진화는 혁명이 아니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566029/arsenals-transfer-plans-analysed-gunners-miss-out-on-morgan-rogers-in-summer-of-evolution-not-revolution",
+  "fee": null,
+  "published": "2026-07-22T16:08:00+00:00"
+ },
+ {
   "id": "28135e576c6a",
   "title": "Done Deal: Venezia break club record to sign Nigeria striker Adams",
   "player": "Akor Adams",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-world-cup-37458459",
   "fee": null,
   "published": "2026-07-22T05:30:00+00:00"
- },
- {
-  "id": "481beb37031f",
-  "title": "Arsenal could boost transfer war chest by £90m with four exits in the works",
-  "player": null,
-  "title_ko": "아스날은 4개의 출구 작업을 통해 이적 자금을 £90m 늘릴 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-jesus-martinelli-37454582",
-  "fee": "£90M",
-  "published": "2026-07-22T04:45:00+00:00"
  }
 ]
