@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c015a345d46",
+  "title": "Mercato: Keito Nakamura serait dans le viseur de l'OM",
+  "player": "Keito Nakamura",
+  "title_ko": "메르카토: 나카무라 케이토가 OM의 눈에 띌 것이다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-keito-nakamura-serait-dans-le-viseur-de-l-om_AV-202607230653.html",
+  "fee": null,
+  "published": "2026-07-23T20:22:49+00:00"
+ },
+ {
   "id": "7974b6b5e8aa",
   "title": "Man Utd identify World Cup star as new target after pulling out of Alex Scott transfer",
   "player": "Alex Scott",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-julian-alvarez-viktor-gyokeres-37463295",
   "fee": null,
   "published": "2026-07-22T12:57:02+00:00"
- },
- {
-  "id": "afd5863ff685",
-  "title": "\"Salut à tous, je m’appelle Axel Rouquette\": le bizutage totalement déchaîné d’une nouvelle recrue de l’US Créteil",
-  "player": "Axel Rouquette",
-  "title_ko": "“안녕하세요 여러분, 제 이름은 Axel Rouquette입니다”: US Créteil의 신입 사원에 대한 완전히 해방된 신고식",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/salut-a-tous-je-m-appelle-axel-rouquette-le-bizutage-totalement-dechaine-d-une-nouvelle-recrue-de-l-us-creteil_AN-202607220421.html",
-  "fee": null,
-  "published": "2026-07-22T12:37:54+00:00"
  }
 ]
