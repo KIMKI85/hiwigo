@@ -1,5 +1,31 @@
 [
  {
+  "id": "404d8c8f1823",
+  "title": "Aston Villa seal loan signing of Alejandro Garnacho from Chelsea",
+  "player": "Alejandro Garnacho",
+  "title_ko": "첼시의 알레한드로 가르나초가 아스톤 빌라로 임대 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/23/aston-villa-loan-signing-alejandro-garnacho-chelsea-transfer-latest",
+  "fee": null,
+  "published": "2026-07-23T15:02:56+00:00"
+ },
+ {
+  "id": "bf3bf1a71017",
+  "title": "Nächste Verstärkung für die Offensive: Wolfsburg verpflichtet Damar",
+  "player": "Nächste Verstärkung",
+  "title_ko": "공격을 위한 다음 보강: 볼프스부르크가 다마르와 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/naechste-verstaerkung-fuer-die-offensive-wolfsburg-verpflichtet-damar-1237903/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T15:02:06+00:00"
+ },
+ {
   "id": "cc45f178f49b",
   "title": "Villa sign Garnacho on loan from Chelsea",
   "player": "Alejandro Garnacho",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37461253",
   "fee": null,
   "published": "2026-07-22T06:11:45+00:00"
- },
- {
-  "id": "c7d8e95d02e1",
-  "title": "New Man Utd signing gets green light from Harry Maguire as exciting comment made",
-  "player": "Harry Maguire",
-  "title_ko": "새로운 맨유의 영입은 흥미진진한 발언으로 해리 맥과이어로부터 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-verdict-maguire-37459618",
-  "fee": null,
-  "published": "2026-07-22T05:45:00+00:00"
- },
- {
-  "id": "5ee5c731b0c4",
-  "title": "Six standout World Cup stars who Man Utd could sign next for Michael Carrick rebuild",
-  "player": "Michael Carrick",
-  "title_ko": "맨유가 마이클 캐릭 리빌딩을 위해 다음 계약을 맺을 수 있는 뛰어난 월드컵 스타 6명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-world-cup-37458459",
-  "fee": null,
-  "published": "2026-07-22T05:30:00+00:00"
  }
 ]
