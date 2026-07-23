@@ -1,5 +1,18 @@
 [
  {
+  "id": "3e286e7a34e5",
+  "title": "Arsenal news: Bruno Guimaraes contact made as transfer bid received from 'confident' chief",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날 뉴스: '자신감 있는' 수장으로부터 이적 제안을 받은 브루노 기마랑스의 접촉",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-bruno-guimaraes-newcastle-37463705",
+  "fee": null,
+  "published": "2026-07-23T03:00:00+00:00"
+ },
+ {
   "id": "20bb3bb7f1b9",
   "title": "Papers: Rodri pushing for Real Madrid move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/top-talent-natali-vor-abermaligem-wechsel-aus-leverkusen-nach-alkmaar-1237650/artikel#omrss",
   "fee": null,
   "published": "2026-07-21T10:13:01+00:00"
- },
- {
-  "id": "8e1b09dfce3d",
-  "title": "Alex Scott puts his foot down with Man Utd and Arsenal put on red alert for huge transfer",
-  "player": "Alex Scott",
-  "title_ko": "알렉스 스캇은 맨유와 아스날이 대규모 이적을 경고하는 상황에서 발을 내디뎠다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bournemouth-scott-contract-man-utd-37456990",
-  "fee": null,
-  "published": "2026-07-21T10:11:04+00:00"
  }
 ]
