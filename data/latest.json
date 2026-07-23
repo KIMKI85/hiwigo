@@ -1,5 +1,18 @@
 [
  {
+  "id": "acc99ddf91c4",
+  "title": "Statt Ablöse: Spendet der DFB für Klopp eine Million Euro an Red Bull?",
+  "player": "Statt Ablöse",
+  "title_ko": "이적료 대신: DFB는 클롭을 위해 레드불에 100만 유로를 기부할까요?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/statt-abloese-spendet-der-dfb-fuer-klopp-eine-million-euro-an-red-bull-1238044/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-23T08:18:00+00:00"
+ },
+ {
   "id": "5f2e4e0e4322",
   "title": "DIRECT. Mercato: Chelsea exfiltre déjà un gros flop recruté à prix d'or, une nouvelle recrue en approche au Barça",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-down-familiar-transfer-37457860",
   "fee": null,
   "published": "2026-07-21T11:29:04+00:00"
- },
- {
-  "id": "12cfef2799d5",
-  "title": "Antonio Silva set for Bournemouth move after Milan speculation",
-  "player": "Antonio Silva",
-  "title_ko": "안토니오 실바는 밀란의 추측 이후 본머스로 이적할 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/antonio-silva-bournemouth-milan-speculation/",
-  "fee": null,
-  "published": "2026-07-21T11:17:34+00:00"
  }
 ]
