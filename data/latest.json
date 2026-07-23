@@ -13,6 +13,19 @@
   "published": "2026-07-23T14:45:00+00:00"
  },
  {
+  "id": "b53af695b108",
+  "title": "Manchester United pull out of Alex Scott transfer race after learning asking price",
+  "player": "Alex Scott",
+  "title_ko": "맨체스터 유나이티드는 요구 가격을 알게 된 후 알렉스 스캇 이적 경쟁에서 철수했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-pull-out-alex-37468970",
+  "fee": null,
+  "published": "2026-07-23T14:35:32+00:00"
+ },
+ {
   "id": "4c47fa8253b6",
   "title": "Garnacho joins Villa on loan from Chelsea",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-jesus-martinelli-37454582",
   "fee": "£90M",
   "published": "2026-07-22T04:45:00+00:00"
- },
- {
-  "id": "fea3094ec7b2",
-  "title": "Liverpool news: Bargain World Cup hero eyed as path opens to £80m Andoni Iraola transfer reunion",
-  "player": "Bargain World",
-  "title_ko": "리버풀 뉴스: £80m의 안도니 이라올라 이적 재결합을 위한 길이 열리면서 할인 월드컵 영웅이 눈에 띕니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-torres-scott-37458773",
-  "fee": "£80M",
-  "published": "2026-07-22T04:00:00+00:00"
  }
 ]
