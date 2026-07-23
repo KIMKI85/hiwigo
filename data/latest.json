@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f2e4e0e4322",
+  "title": "DIRECT. Mercato: Chelsea exfiltre déjà un gros flop recruté à prix d'or, une nouvelle recrue en approche au Barça",
+  "player": null,
+  "title_ko": "직접. 메르카토: 첼시는 이미 높은 가격에 영입된 대규모 실패자, 바르샤로 가는 길에 새로운 영입을 유출하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-de-transfert-du-23-juillet-2026-en-live_LN-202607230095.html",
+  "fee": null,
+  "published": "2026-07-23T05:41:55+00:00"
+ },
+ {
+  "id": "5def09b6736d",
+  "title": "Five standout World Cup stars Liverpool could sign next to answer Andoni Iraola plea",
+  "player": "Andoni Iraola",
+  "title_ko": "5명의 뛰어난 월드컵 스타 리버풀은 안도니 이라올라의 요청에 응답하기 위해 다음 계약을 맺을 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-world-cup-iraola-transfers-37463146",
+  "fee": null,
+  "published": "2026-07-23T05:30:00+00:00"
+ },
+ {
   "id": "94926e76bd84",
   "title": "The World Cup hidden gems Arsenal, Man Utd and Premier League rivals should sign",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/antonio-silva-bournemouth-milan-speculation/",
   "fee": null,
   "published": "2026-07-21T11:17:34+00:00"
- },
- {
-  "id": "3c76e9c14cad",
-  "title": "Lacroix, Sinayoko, Digne... les 5 infos mercato du 21 juillet à la mi-journée",
-  "player": null,
-  "title_ko": "라크로아, 시나요코, 디뉴... 7월 21일 정오부터 5번의 이적 창구 안내",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-lacroix-sinayoko-digne-les-5-infos-mercato-du-21-juillet-a-la-mi-journee_VN-202607210447.html",
-  "fee": null,
-  "published": "2026-07-21T11:16:19+00:00"
- },
- {
-  "id": "84a8edcdd542",
-  "title": "Chelsea to announce £34m transfer after Jude Bellingham World Cup slap",
-  "player": "Jude Bellingham World",
-  "title_ko": "Chelsea는 Jude Bellingham 월드컵 때린 후 £ 34m 이적을 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-valentin-barco-bellingham-37457872",
-  "fee": "£34M",
-  "published": "2026-07-21T11:15:01+00:00"
  }
 ]
