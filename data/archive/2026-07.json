@@ -1,5 +1,18 @@
 [
  {
+  "id": "81dc4c82416d",
+  "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
+  "player": "Elliot Anderson",
+  "title_ko": "'킹스 오브 맨체스터' - 앤더슨은 시티 이적이 확정된 후 맨유에 메시지를 보냅니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
+  "fee": null,
+  "published": "2026-07-23T17:30:00+00:00"
+ },
+ {
   "id": "77a2b38bebf8",
   "title": "Rangers confirm Dragojevic signing as seventh summer arrival",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13564373/rangers-transfer-news-vanja160dragojevic160joins-from-partizan160belgrade160as-ibrox-clubs-seventh-summer-signing",
   "fee": null,
   "published": "2026-07-23T17:00:00+00:00"
+ },
+ {
+  "id": "b93273fdb442",
+  "title": "Done Deal: Bologna secure Amondarain despite Nottingham Forest interest",
+  "player": "Mikel Amondarain",
+  "title_ko": "거래 완료: 볼로냐는 노팅엄 포레스트의 관심에도 불구하고 Amondarain을 확보했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bologna-secure-amondarain-nottingham-forest/",
+  "fee": null,
+  "published": "2026-07-23T16:35:27+00:00"
  },
  {
   "id": "108b6e2397c9",
@@ -37,6 +63,19 @@
   "url": "https://football-italia.net/official-modric-signs-new-contract-with-milan/",
   "fee": null,
   "published": "2026-07-23T16:17:09+00:00"
+ },
+ {
+  "id": "598198b56b00",
+  "title": "Rangers sign 'huge potential' in Partizan captain Dragojevic",
+  "player": "Vanja Dragojevic",
+  "title_ko": "레인저스는 파르티잔 주장 드라고예비치의 '큰 잠재력'에 서명했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c87ng75zlx4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-23T16:13:39+00:00"
  },
  {
   "id": "03920c28a9af",
