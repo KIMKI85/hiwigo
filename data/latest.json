@@ -1,5 +1,18 @@
 [
  {
+  "id": "d30dbdc8c2d0",
+  "title": "Maghnes Akliouche's transfer intention clear as Liverpool approach for star confirmed",
+  "player": "Maghnes Akliouche's",
+  "title_ko": "리버풀의 스타 영입이 확정됨에 따라 마그네스 아클리우슈의 이적 의도가 분명해졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-maghnes-akliouche-37466255",
+  "fee": null,
+  "published": "2026-07-23T08:49:06+00:00"
+ },
+ {
   "id": "709442865690",
   "title": "Mercato: le clan Diomandé lassé d’attendre le PSG?",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-bruno-guimaraes-newcastle-37458305",
   "fee": "£60M",
   "published": "2026-07-21T11:40:49+00:00"
- },
- {
-  "id": "585e0e0c55c9",
-  "title": "Mercato: Rodri rêve de rejoindre le Real Madrid… mais l'intérêt n'est pas réciproque",
-  "player": "Fabrizio Romano",
-  "title_ko": "메르카토: 로드리는 레알 마드리드 이적을 꿈꾸지만… 관심은 호혜적이지 않다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-reve-de-rejoindre-le-real-madrid-mais-l-interet-n-est-pas-reciproque_AV-202607210376.html",
-  "fee": null,
-  "published": "2026-07-21T11:37:45+00:00"
  }
 ]
