@@ -26,6 +26,32 @@
   "published": "2026-07-24T10:00:00+00:00"
  },
  {
+  "id": "a6f46d299f38",
+  "title": "De Ketelaere, Lacroix, Jürgen Klopp… les 5 infos mercato du 24 juillet à 12h V2",
+  "player": "De Ketelaere",
+  "title_ko": "Ketelaere, Lacroix, Jurgen Klopp에서… 7월 24일 낮 12시 5번째 이적 창구 정보입니다. V2",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-de-ketelaere-lacroix-jurgen-klopp-les-5-infos-mercato-du-24-juillet-a-12h-v2_VN-202607240322.html",
+  "fee": null,
+  "published": "2026-07-24T09:52:52+00:00"
+ },
+ {
+  "id": "541846495b8a",
+  "title": "Neuendorf bestätigt: Millionen-Spende und Leipzig-Länderspiele statt Ablöse",
+  "player": "Eine Ablöse",
+  "title_ko": "노이엔도르프, 이적료 대신 100만 기부와 라이프치히 국제경기 확인",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neuendorf-bestaetigt-millionen-spende-und-leipzig-laenderspiele-statt-abloese-1238307/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-24T09:47:52+00:00"
+ },
+ {
   "id": "0c84ed597b1d",
   "title": "Kane set for talks with Bayern Munich over new deal",
   "player": "Harry Kane",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m",
   "fee": null,
   "published": "2026-07-22T17:30:00+00:00"
- },
- {
-  "id": "9cf2c28c76b3",
-  "title": "Mercato: Liverpool s'intéresse à Akliouche malgré l'accord avec le PSG",
-  "player": "Maghnes Akliouche",
-  "title_ko": "Mercato: 리버풀은 PSG와의 합의에도 불구하고 Akliouche에 관심이 있음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-liverpool-s-interesse-a-akliouche-malgre-l-accord-avec-le-psg_AV-202607220609.html",
-  "fee": null,
-  "published": "2026-07-22T17:29:02+00:00"
- },
- {
-  "id": "46499cbc47c7",
-  "title": "Mercato: Presnel Kimpembe devrait signer en deuxieme division au Qatar",
-  "player": "Presnel Kimpembe",
-  "title_ko": "Mercato: Presnel Kimpembe는 카타르의 두 번째 디비전과 계약해야 합니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-presnel-kimpembe-devrait-signer-en-deuxieme-division-au-qatar_AN-202607220602.html",
-  "fee": null,
-  "published": "2026-07-22T17:19:16+00:00"
  }
 ]
