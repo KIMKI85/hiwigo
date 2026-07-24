@@ -1,5 +1,31 @@
 [
  {
+  "id": "cb69d07c33db",
+  "title": "Papers: Premier League clubs plotting Watkins bid",
+  "player": null,
+  "title_ko": "논문: 프리미어 리그 클럽들이 왓킨스의 입찰을 계획하고 있습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566763/paper-talk-manchester-united-and-arsenal-plotting-ollie-watkins-bid",
+  "fee": null,
+  "published": "2026-07-24T22:00:00+00:00"
+ },
+ {
+  "id": "2ff626e52ecc",
+  "title": "Arsenal's dream XI as Bruno Guimaraes signs and Julian Alvarez swap deal done",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마라스와 줄리안 알바레즈의 스왑 딜이 성사된 아스날의 드림 XI",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-julian-alvarez-37474552",
+  "fee": null,
+  "published": "2026-07-24T21:08:48+00:00"
+ },
+ {
   "id": "76aa0d678eaa",
   "title": "Real Madrid confident of signing Rodri  - Saturday's gossip",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-world-cup-iraola-transfers-37463146",
   "fee": null,
   "published": "2026-07-23T05:30:00+00:00"
- },
- {
-  "id": "94926e76bd84",
-  "title": "The World Cup hidden gems Arsenal, Man Utd and Premier League rivals should sign",
-  "player": null,
-  "title_ko": "월드컵의 숨겨진 보석 아스날, 맨유, 프리미어리그 라이벌들이 계약해야 할 선수",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/transfer-hidden-gems-premier-league-37463769",
-  "fee": null,
-  "published": "2026-07-23T05:00:00+00:00"
- },
- {
-  "id": "36a39c78ed0f",
-  "title": "Alex Scott transfer twist as Bournemouth star ‘keen’ on rivals amid Arsenal and Man Utd race",
-  "player": "Alex Scott",
-  "title_ko": "알렉스 스캇은 아스날과 맨유 경쟁 속에서 본머스 스타로 라이벌을 '예리하게' 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-arsenal-alex-scott-transfer-37465702",
-  "fee": null,
-  "published": "2026-07-23T04:30:00+00:00"
  }
 ]
