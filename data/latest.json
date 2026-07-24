@@ -1,5 +1,18 @@
 [
  {
+  "id": "d2e73f04a5fe",
+  "title": "Newcastle sign Aladji Bamba in £34m deal from Monaco to boost midfield options",
+  "player": "Aladji Bamba",
+  "title_ko": "뉴캐슬은 미드필더 옵션을 강화하기 위해 모나코로부터 3400만 파운드의 계약으로 알라지 밤바를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
+  "fee": "£34M",
+  "published": "2026-07-24T10:57:14+00:00"
+ },
+ {
   "id": "c7593467abaf",
   "title": "'Huge potential for growth' - Newcastle sign Bamba",
   "player": "Aladji Bamba",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-22T17:39:35+00:00"
- },
- {
-  "id": "508d4524cb49",
-  "title": "Casemiro joins Inter Miami on free transfer",
-  "player": null,
-  "title_ko": "카세미루, 자유계약으로 인터 마이애미 합류",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
-  "fee": null,
-  "published": "2026-07-22T17:30:00+00:00"
  }
 ]
