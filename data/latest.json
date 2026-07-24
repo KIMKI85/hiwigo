@@ -26,6 +26,19 @@
   "published": "2026-07-24T10:00:00+00:00"
  },
  {
+  "id": "0c84ed597b1d",
+  "title": "Kane set for talks with Bayern Munich over new deal",
+  "player": "Harry Kane",
+  "title_ko": "케인, 바이에른 뮌헨과 재계약 논의 예정",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-24T09:38:26+00:00"
+ },
+ {
   "id": "03ca903dc63f",
   "title": "Stammtorwart der PSG-U-19: James wechselt ablösefrei nach Köln",
   "player": "Martin James",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-presnel-kimpembe-devrait-signer-en-deuxieme-division-au-qatar_AN-202607220602.html",
   "fee": null,
   "published": "2026-07-22T17:19:16+00:00"
- },
- {
-  "id": "f2e5634f5df8",
-  "title": "Transfer round-up: Juventus’ attacking concerns grow, another Chelsea defender eyed by Serie A",
-  "player": "Axel Disasi",
-  "title_ko": "이적 요약: 유벤투스의 공격 우려가 커지고 있으며 세리에 A가 주목하는 또 다른 첼시 수비수",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/transfer-round-up-july-22-juventus-3rd-chelsea/",
-  "fee": null,
-  "published": "2026-07-22T17:00:00+00:00"
  }
 ]
