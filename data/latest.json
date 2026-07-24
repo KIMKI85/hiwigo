@@ -1,5 +1,31 @@
 [
  {
+  "id": "16fd6a5fbdd7",
+  "title": "Liverpool news: Maghnes Akliouche hint dropped as two deals agreed",
+  "player": "Maghnes Akliouche",
+  "title_ko": "리버풀 뉴스: 두 거래가 합의되면서 마그네스 아클리우슈 힌트가 떨어졌습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-maghnes-akliouche-monaco-37467368",
+  "fee": null,
+  "published": "2026-07-24T04:00:00+00:00"
+ },
+ {
+  "id": "ab6710812306",
+  "title": "Mercato: A 41 ans, Luka Modric repousse la retraite et prolonge avec l'AC Milan",
+  "player": "Luka Modric",
+  "title_ko": "메르카토: 41세의 루카 모드리치는 은퇴를 연기하고 AC 밀란과 연장한다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-a-41-ans-luka-modric-repousse-la-retraite-et-prolonge-avec-l-ac-milan_AV-202607240039.html",
+  "fee": null,
+  "published": "2026-07-24T03:59:27+00:00"
+ },
+ {
   "id": "12ad4d3208a1",
   "title": "Man Utd news: Alex Scott final decision made as £100m transfer target back on the radar",
   "player": "Alex Scott",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-arteta-37463333",
   "fee": null,
   "published": "2026-07-22T14:30:57+00:00"
- },
- {
-  "id": "1b3e4689495d",
-  "title": "Borja Jiménez avala el fichaje de Juan Cruz: \"Puede ser diferencial para la permanencia\"",
-  "player": "Borja Jiménez",
-  "title_ko": "보르하 히메네스는 후안 크루즈의 영입을 지지합니다: \"영속성에 있어서 차별점이 될 수 있습니다\"",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/07/22/borja-jimenez-avala-fichaje-juan-cruz-diferencial-permanencia.html",
-  "fee": null,
-  "published": "2026-07-22T13:30:06+00:00"
- },
- {
-  "id": "0f2a96c20fdf",
-  "title": "Ipswich sign Diop from Fulham",
-  "player": "Issa Diop",
-  "title_ko": "입스위치는 풀럼에서 디오프를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-22T13:27:08+00:00"
  }
 ]
