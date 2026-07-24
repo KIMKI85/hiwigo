@@ -1,5 +1,18 @@
 [
  {
+  "id": "26f753b4d697",
+  "title": "Arsenal news: Gunners move for £94m Morgan Rogers alternative as transfer announcement made",
+  "player": "Morgan Rogers",
+  "title_ko": "아스날 뉴스: 거너스는 이적 발표에 따라 £94m의 모건 로저스 대안으로 이적합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-christos-tzolis-37468019",
+  "fee": "£94M",
+  "published": "2026-07-24T03:00:00+00:00"
+ },
+ {
   "id": "034416ca5ace",
   "title": "Papers: Valuations of several Man Utd midfield targets revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-nico-schlotterbeck-37463451",
   "fee": null,
   "published": "2026-07-22T13:14:06+00:00"
- },
- {
-  "id": "e5ada8fbfb5f",
-  "title": "'This means everything to me' - Foden signs new Man City contract",
-  "player": "Phil Foden",
-  "title_ko": "'이것은 나에게 모든 것을 의미합니다' - 포덴은 맨시티와 새로운 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030",
-  "fee": null,
-  "published": "2026-07-22T13:00:00+00:00"
  }
 ]
