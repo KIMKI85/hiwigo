@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c887d0a4493",
+  "title": "Man Utd may have to scrap strict Arsenal transfer rule after latest Marcus Rashford blow",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유는 마커스 래쉬포드의 최근 타격 이후 엄격한 아스날 이적 규정을 폐기해야 할 수도 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-man-utd-37470523",
+  "fee": null,
+  "published": "2026-07-24T06:33:53+00:00"
+ },
+ {
   "id": "8b108483c014",
   "title": "Liverpool's dream squad for 2026/27 season as Rayan signs and £111m double deal sealed",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-joshua-zirkzee-transfer-37464333",
   "fee": null,
   "published": "2026-07-22T15:09:47+00:00"
- },
- {
-  "id": "bcb3b960f1c1",
-  "title": "Fiorentina sound out Real Madrid over Mastantuono loan",
-  "player": null,
-  "title_ko": "피오렌티나는 마스탄투오노의 임대를 놓고 레알 마드리드를 제압했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fiorentina-sound-out-real-madrid-mastantuono/",
-  "fee": null,
-  "published": "2026-07-22T15:08:30+00:00"
  }
 ]
