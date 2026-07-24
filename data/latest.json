@@ -1,5 +1,44 @@
 [
  {
+  "id": "c7593467abaf",
+  "title": "'Huge potential for growth' - Newcastle sign Bamba",
+  "player": "Aladji Bamba",
+  "title_ko": "'거대한 성장 잠재력' - 뉴캐슬, 밤바 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566552/aladji-bamba-transfer-news-newcastle-complete-35-5m-signing-of-midfielder-from-monaco",
+  "fee": null,
+  "published": "2026-07-24T10:30:00+00:00"
+ },
+ {
+  "id": "189678adf9a9",
+  "title": "Al Hilal complete Summerville signing from West Ham",
+  "player": "Al Hilal",
+  "title_ko": "알 힐랄, 웨스트햄에서 서머빌 영입 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565872/crysencio-summerville-transfer-news-al-hilal-complete-60m-signing-of-netherlands-international-from-west-ham",
+  "fee": null,
+  "published": "2026-07-24T10:00:00+00:00"
+ },
+ {
+  "id": "03ca903dc63f",
+  "title": "Stammtorwart der PSG-U-19: James wechselt ablösefrei nach Köln",
+  "player": "Martin James",
+  "title_ko": "PSG U-19 정규 골키퍼: 하메스는 자유 이적을 통해 쾰른으로 이적합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/stammtorwart-der-psg-u-19-james-wechselt-abloesefrei-nach-koeln-1238296/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-24T09:20:36+00:00"
+ },
+ {
   "id": "e07e7a3acb51",
   "title": "Chelsea agree deal with Palace for Lacroix",
   "player": "Maxence Lacroix",
@@ -11,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
   "fee": null,
   "published": "2026-07-24T09:20:00+00:00"
+ },
+ {
+  "id": "70cb6674a76a",
+  "title": "Chelsea agree deal to sign Palace defender Lacroix",
+  "player": "Maxence Lacroix",
+  "title_ko": "첼시는 팰리스 수비수 라크르아와의 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-24T09:14:32+00:00"
  },
  {
   "id": "dee87ee68e3f",
@@ -1246,57 +1298,5 @@
   "url": "https://football-italia.net/transfer-round-up-july-22-juventus-3rd-chelsea/",
   "fee": null,
   "published": "2026-07-22T17:00:00+00:00"
- },
- {
-  "id": "5ab3c4e39da1",
-  "title": "No Garnacho for Roma & Napoli as Argentine joins Aston Villa on loan",
-  "player": "No Garnacho",
-  "title_ko": "아르헨티나가 아스톤 빌라에 임대로 합류함에 따라 로마와 나폴리에는 가르나초가 없습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/no-garnacho-for-roma-napoli-aston-villa/",
-  "fee": null,
-  "published": "2026-07-22T16:58:31+00:00"
- },
- {
-  "id": "b1e2bae3f321",
-  "title": "Man Utd plot Aurelien Tchouameni transfer despite rejecting Real Madrid star",
-  "player": "Aurelien Tchouameni",
-  "title_ko": "맨유는 레알 마드리드 스타를 거부했지만 아우렐리앙 추아메니의 이적을 계획하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-tchouameni-real-madrid-future-37464901",
-  "fee": null,
-  "published": "2026-07-22T16:42:59+00:00"
- },
- {
-  "id": "e8e995963ede",
-  "title": "Al-Ahli join Al-Hilal and Man Utd in race for Roma’s Kone",
-  "player": "Manu Kone",
-  "title_ko": "알 알리(Al-Ahli)는 알 힐랄(Al-Hilal), 맨유(Man Utd)와 함께 로마의 콘(Kone) 경쟁에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/al-ahli-join-al-hilal-and-man-utd-roma-kone/",
-  "fee": null,
-  "published": "2026-07-22T16:14:14+00:00"
- },
- {
-  "id": "256a983c5415",
-  "title": "Evolution not revolution for Arsenal as transfer window starts slowly",
-  "player": "Mikel Arteta",
-  "title_ko": "이적시장이 천천히 시작되면서 아스날의 진화는 혁명이 아니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566029/arsenals-transfer-plans-analysed-gunners-miss-out-on-morgan-rogers-in-summer-of-evolution-not-revolution",
-  "fee": null,
-  "published": "2026-07-22T16:08:00+00:00"
  }
 ]
