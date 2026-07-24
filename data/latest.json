@@ -1,5 +1,18 @@
 [
  {
+  "id": "3818b9119d46",
+  "title": "Report Bobb targeted by Roma just 6 months after Fulham move",
+  "player": "Oscar Bobb",
+  "title_ko": "풀럼 이적 6개월 만에 로마의 타겟이 된 밥 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-bobb-targeted-by-roma-fulham-move/",
+  "fee": null,
+  "published": "2026-07-24T14:41:39+00:00"
+ },
+ {
   "id": "5d292909b012",
   "title": "Former Brighton keeper Baggaley joins Birmingham",
   "player": "Newly-promoted Birmingham",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-transfer-news-summerville-garnacho/",
   "fee": null,
   "published": "2026-07-22T19:54:22+00:00"
- },
- {
-  "id": "0e605112a5b4",
-  "title": "Aston Villa agree deal to sign Garnacho",
-  "player": "Alejandro Garnacho",
-  "title_ko": "Aston Villa는 Garnacho와의 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
-  "fee": null,
-  "published": "2026-07-22T19:33:00+00:00"
  }
 ]
