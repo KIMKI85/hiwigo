@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b2a62a93f48",
+  "title": "Como submit new offer for Chalobah as Chelsea seal Lacroix deal",
+  "player": null,
+  "title_ko": "Como는 Chelsea가 Lacroix와 계약을 체결함에 따라 Chalobah에 대한 새로운 제안을 제출했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/como-submit-new-offer-for-chalobah/",
+  "fee": null,
+  "published": "2026-07-24T11:46:31+00:00"
+ },
+ {
   "id": "f9d0dde44a4b",
   "title": "Bruno Guimaraes agent takes to social media as Arsenal prepare £70m bid for Newcastle star",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/dritter-bundesligist-woeber-wechselt-zur-reizvollen-aufgabe-schalke-1237889/artikel#omrss",
   "fee": null,
   "published": "2026-07-22T18:05:00+00:00"
- },
- {
-  "id": "40b8b69bf1c3",
-  "title": "Inter Miami sign Casemiro as MLS announces investigation into tampering",
-  "player": "South Florida",
-  "title_ko": "MLS가 조작 조사를 발표함에 따라 인터 마이애미는 카세미로와 계약했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/22/inter-miami-casemiro-mls-investigation-tampering",
-  "fee": null,
-  "published": "2026-07-22T17:42:44+00:00"
  }
 ]
