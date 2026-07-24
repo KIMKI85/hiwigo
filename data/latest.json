@@ -1,5 +1,18 @@
 [
  {
+  "id": "e07e7a3acb51",
+  "title": "Chelsea agree deal with Palace for Lacroix",
+  "player": "Maxence Lacroix",
+  "title_ko": "Chelsea는 Lacroix를 위해 Palace와 거래에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
+  "fee": null,
+  "published": "2026-07-24T09:20:00+00:00"
+ },
+ {
   "id": "6c887d0a4493",
   "title": "Man Utd may have to scrap strict Arsenal transfer rule after latest Marcus Rashford blow",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-transfer-aston-villa-37464015",
   "fee": null,
   "published": "2026-07-22T15:15:43+00:00"
- },
- {
-  "id": "833104b98ce5",
-  "title": "Man Utd given green light to complete transfer as forward 'says yes' to move",
-  "player": "Red Devils",
-  "title_ko": "맨유는 포워드가 이적을 '예'라고 말하면서 이적을 완료하라는 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-joshua-zirkzee-transfer-37464333",
-  "fee": null,
-  "published": "2026-07-22T15:09:47+00:00"
  }
 ]
