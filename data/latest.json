@@ -13,6 +13,19 @@
   "published": "2026-07-24T10:30:00+00:00"
  },
  {
+  "id": "360986ced999",
+  "title": "Arsenal readying player-plus-cash offer in mega Julian Alvarez transfer bid",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날은 엄청난 줄리안 알바레스 이적 입찰에서 플레이어 플러스 현금 제안을 준비하고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-julian-alvarez-37471466",
+  "fee": null,
+  "published": "2026-07-24T10:04:52+00:00"
+ },
+ {
   "id": "189678adf9a9",
   "title": "Al Hilal complete Summerville signing from West Ham",
   "player": "Al Hilal",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
-  "fee": null,
-  "published": "2026-07-22T17:30:00+00:00"
- },
- {
-  "id": "2048a9ded074",
-  "title": "Barcelona closing in on record-breaking Kerolin deal",
-  "player": null,
-  "title_ko": "바르셀로나, 기록적인 케롤린 계약 마무리",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m",
   "fee": null,
   "published": "2026-07-22T17:30:00+00:00"
  }
