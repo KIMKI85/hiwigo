@@ -1,5 +1,18 @@
 [
  {
+  "id": "77f95dd2a472",
+  "title": "Mercato: les dessous de l'opération Rodri au Real Madrid",
+  "player": null,
+  "title_ko": "Mercato: 레알 마드리드의 로드리 운영의 이면",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-les-dessous-de-l-operation-rodri-au-real-madrid_AV-202607240614.html",
+  "fee": null,
+  "published": "2026-07-24T19:40:53+00:00"
+ },
+ {
   "id": "0221e3ea730f",
   "title": "Done Deal: Monza agreement for Benfica striker Varela at €2m plus bonus",
   "player": "Gustavo Varela",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-bruno-guimaraes-newcastle-37463705",
   "fee": null,
   "published": "2026-07-23T03:00:00+00:00"
- },
- {
-  "id": "20bb3bb7f1b9",
-  "title": "Papers: Rodri pushing for Real Madrid move",
-  "player": null,
-  "title_ko": "서류: 레알 마드리드 이적을 추진하는 로드리",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566135/man-city-transfer-news-rodri-pushing-for-real-madrid-move-despite-being-set-to-undergo-back-surgery",
-  "fee": null,
-  "published": "2026-07-22T22:45:00+00:00"
  }
 ]
