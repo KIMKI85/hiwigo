@@ -1,5 +1,18 @@
 [
  {
+  "id": "12ad4d3208a1",
+  "title": "Man Utd news: Alex Scott final decision made as £100m transfer target back on the radar",
+  "player": "Alex Scott",
+  "title_ko": "Man Utd 뉴스: Alex Scott의 최종 결정이 £100m 이적 목표로 다시 레이더에 잡혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-alex-scott-transfer-37469197",
+  "fee": "£100M",
+  "published": "2026-07-24T03:30:00+00:00"
+ },
+ {
   "id": "26f753b4d697",
   "title": "Arsenal news: Gunners move for £94m Morgan Rogers alternative as transfer announcement made",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-22T13:27:08+00:00"
- },
- {
-  "id": "465a1baed40e",
-  "title": "Liverpool facing more Real Madrid transfer frustration as Jose Mourinho eyes Reds target",
-  "player": "Jose Mourinho",
-  "title_ko": "리버풀은 호세 무리뉴가 레즈의 목표를 노리면서 레알 마드리드 이적에 더 많은 좌절감을 안고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-nico-schlotterbeck-37463451",
-  "fee": null,
-  "published": "2026-07-22T13:14:06+00:00"
  }
 ]
