@@ -1,5 +1,18 @@
 [
  {
+  "id": "8b108483c014",
+  "title": "Liverpool's dream squad for 2026/27 season as Rayan signs and £111m double deal sealed",
+  "player": "Andoni Iraola",
+  "title_ko": "라얀이 영입하고 £111m 더블 딜이 성사되면서 2026/27 시즌 리버풀의 드림 스쿼드가 확정되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-squad-transfers-andoni-iraola-37463553",
+  "fee": "£111M",
+  "published": "2026-07-24T05:15:00+00:00"
+ },
+ {
   "id": "5437372d6caa",
   "title": "Harry Maguire has made transfer wishes clear as he lets slip seven-word Man Utd comment",
   "player": "Harry Maguire",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/fiorentina-sound-out-real-madrid-mastantuono/",
   "fee": null,
   "published": "2026-07-22T15:08:30+00:00"
- },
- {
-  "id": "de298bca4a1c",
-  "title": "Liverpool confident of beating Arsenal to £100m star as they move on second winger",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 두 번째 윙어로 이동하면서 아스날을 꺾고 £100m의 스타가 될 것이라고 확신합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-arsenal-barcola-akliouche-37464449",
-  "fee": "£100M",
-  "published": "2026-07-22T15:08:29+00:00"
  }
 ]
