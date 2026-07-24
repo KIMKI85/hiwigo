@@ -1,5 +1,18 @@
 [
  {
+  "id": "469a6473e9fc",
+  "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
+  "player": "Yan Diomande",
+  "title_ko": "레알 마드리드는 리버풀 타겟인 디오망드에 대한 £85m의 제의를 거부했습니다.",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
+  "fee": "£85M",
+  "published": "2026-07-24T22:00:00+00:00"
+ },
+ {
   "id": "cb69d07c33db",
   "title": "Papers: Premier League clubs plotting Watkins bid",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/statt-abloese-spendet-der-dfb-fuer-klopp-eine-million-euro-an-red-bull-1238044/artikel#omrss",
   "fee": null,
   "published": "2026-07-23T08:18:00+00:00"
- },
- {
-  "id": "5f2e4e0e4322",
-  "title": "DIRECT. Mercato: Chelsea exfiltre déjà un gros flop recruté à prix d'or, une nouvelle recrue en approche au Barça",
-  "player": null,
-  "title_ko": "직접. 메르카토: 첼시는 이미 높은 가격에 영입된 대규모 실패자, 바르샤로 가는 길에 새로운 영입을 유출하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-de-transfert-du-23-juillet-2026-en-live_LN-202607230095.html",
-  "fee": null,
-  "published": "2026-07-23T05:41:55+00:00"
  }
 ]
