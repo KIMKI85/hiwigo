@@ -1,5 +1,18 @@
 [
  {
+  "id": "3662a4aebf96",
+  "title": "Die nächsten Millionen: Bayer 04 kassiert bei Transfer von Iker Bravo kräftig mit",
+  "player": "von Iker Bravo",
+  "title_ko": "다음 백만 달러: 바이엘 04는 이케르 브라보의 이적에 큰 돈을 벌었습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/die-naechsten-millionen-bayer-04-kassiert-bei-transfer-von-iker-bravo-kraeftig-mit-1238402/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-24T13:55:49+00:00"
+ },
+ {
   "id": "a6ec702b7b63",
   "title": "Report Pirlo as Italy coach will be official soon, contract to 2030 World Cup",
   "player": "Andrea Pirlo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cly9nrel0pyo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-22T18:58:52+00:00"
- },
- {
-  "id": "ad2b365010d6",
-  "title": "El traspaso de Akor Adams al Venezia ya es oficial: firma hasta 2030",
-  "player": "Akor Adams",
-  "title_ko": "Akor Adams의 베네치아 이적이 공식화되었습니다. 그는 2030년까지 계약합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/07/22/traspaso-akor-adams-venezia-oficial-firma-2030.html",
-  "fee": null,
-  "published": "2026-07-22T18:53:27+00:00"
  }
 ]
