@@ -1,5 +1,18 @@
 [
  {
+  "id": "76aa0d678eaa",
+  "title": "Real Madrid confident of signing Rodri  - Saturday's gossip",
+  "player": "Julian Alvarez",
+  "title_ko": "레알 마드리드는 로드리 영입을 자신했다 - 토요일의 가십",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdx7qq6nkddo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-24T20:37:28+00:00"
+ },
+ {
   "id": "072681638713",
   "title": "Man Utd and Arsenal in £40m Ollie Watkins transfer battle with 'official approach' anticipated",
   "player": "Ollie Watkins",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-arsenal-alex-scott-transfer-37465702",
   "fee": null,
   "published": "2026-07-23T04:30:00+00:00"
- },
- {
-  "id": "59faea7f2bd3",
-  "title": "Liverpool's £215m summer transfer war chest rests on sales as World Cup-winner could leave",
-  "player": "World Cup-winner",
-  "title_ko": "리버풀의 여름 이적 자금 £215m은 월드컵 우승자가 떠날 수 있기 때문에 판매에 달려 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-mac-allister-37459588",
-  "fee": "£215M",
-  "published": "2026-07-23T04:15:00+00:00"
  }
 ]
