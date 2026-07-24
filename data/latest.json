@@ -1,5 +1,18 @@
 [
  {
+  "id": "5437372d6caa",
+  "title": "Harry Maguire has made transfer wishes clear as he lets slip seven-word Man Utd comment",
+  "player": "Harry Maguire",
+  "title_ko": "해리 맥과이어는 맨유에 대한 7단어 코멘트를 전하면서 ​​이적 희망을 분명히 했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-transfers-37461767",
+  "fee": null,
+  "published": "2026-07-24T04:30:00+00:00"
+ },
+ {
   "id": "16fd6a5fbdd7",
   "title": "Liverpool news: Maghnes Akliouche hint dropped as two deals agreed",
   "player": "Maghnes Akliouche",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-arsenal-barcola-akliouche-37464449",
   "fee": "£100M",
   "published": "2026-07-22T15:08:29+00:00"
- },
- {
-  "id": "351839069b67",
-  "title": "5 attackers Arsenal could still sign after Morgan Rogers transfer setback",
-  "player": "Morgan Rogers",
-  "title_ko": "모건 로저스 이적 실패 이후에도 아스날의 공격수 5명은 여전히 ​​계약할 수 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-morgan-rogers-arteta-37463333",
-  "fee": null,
-  "published": "2026-07-22T14:30:57+00:00"
  }
 ]
