@@ -1,5 +1,31 @@
 [
  {
+  "id": "42a6ae3fa0d1",
+  "title": "Mercato: le PSG officialise le départ de Kang-In Lee à l'Atlético de Madrid pour 40 millions d'euros",
+  "player": "In Lee",
+  "title_ko": "메르카토: PSG는 이강인을 4천만 유로에 아틀레티코 마드리드로 이적시키는 것을 공식화했습니다.",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-officialise-le-depart-de-kang-in-lee-a-l-atletico-de-madrid-pour-40-millions-d-euros_AV-202607250200.html",
+  "fee": null,
+  "published": "2026-07-25T11:41:16+00:00"
+ },
+ {
+  "id": "7780cae9337c",
+  "title": "Mercato: le Real Madrid proche d’un accord pour Yan Diomandé, également courtisé par le PSG",
+  "player": "Yan Diomandé",
+  "title_ko": "메르카토: 레알 마드리드는 PSG의 구애를 받은 얀 디오만데와의 계약에 가까워졌습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-real-madrid-proche-d-un-accord-pour-yan-diomande-egalement-courtise-par-le-psg_AV-202607250196.html",
+  "fee": null,
+  "published": "2026-07-25T11:29:52+00:00"
+ },
+ {
   "id": "8b7aea8eba82",
   "title": "Arsenal get two green lights to proceed with Julian Alvarez transfer in record-breaking deal",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/ex-duesseldorfer-tzolis-wechselt-zum-fc-arsenal-1236733/artikel#omrss",
   "fee": null,
   "published": "2026-07-23T12:21:33+00:00"
- },
- {
-  "id": "786a05fa656b",
-  "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
-  "player": "Dev's Digest",
-  "title_ko": "Dev's Digest: 촬영 현장의 Singh, Bhatia의 리버풀 입찰, Antonio의 깜짝 복귀",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564388/devs-digest",
-  "fee": null,
-  "published": "2026-07-23T12:15:00+00:00"
- },
- {
-  "id": "5e926d6a6f5e",
-  "title": "Transfer roundup: Barcelona sign Adeyemi, Monaco’s Bamba set for Newcastle",
-  "player": "Karim Adeyemi",
-  "title_ko": "이적 정리: 바르셀로나는 아데예미, 모나코의 밤바를 뉴캐슬로 영입했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco",
-  "fee": null,
-  "published": "2026-07-23T12:09:38+00:00"
  }
 ]

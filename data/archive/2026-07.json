@@ -1,5 +1,31 @@
 [
  {
+  "id": "42a6ae3fa0d1",
+  "title": "Mercato: le PSG officialise le départ de Kang-In Lee à l'Atlético de Madrid pour 40 millions d'euros",
+  "player": "In Lee",
+  "title_ko": "메르카토: PSG는 이강인을 4천만 유로에 아틀레티코 마드리드로 이적시키는 것을 공식화했습니다.",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-officialise-le-depart-de-kang-in-lee-a-l-atletico-de-madrid-pour-40-millions-d-euros_AV-202607250200.html",
+  "fee": null,
+  "published": "2026-07-25T11:41:16+00:00"
+ },
+ {
+  "id": "7780cae9337c",
+  "title": "Mercato: le Real Madrid proche d’un accord pour Yan Diomandé, également courtisé par le PSG",
+  "player": "Yan Diomandé",
+  "title_ko": "메르카토: 레알 마드리드는 PSG의 구애를 받은 얀 디오만데와의 계약에 가까워졌습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-real-madrid-proche-d-un-accord-pour-yan-diomande-egalement-courtise-par-le-psg_AV-202607250196.html",
+  "fee": null,
+  "published": "2026-07-25T11:29:52+00:00"
+ },
+ {
   "id": "8b7aea8eba82",
   "title": "Arsenal get two green lights to proceed with Julian Alvarez transfer in record-breaking deal",
   "player": "Julian Alvarez",
