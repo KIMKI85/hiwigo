@@ -1,5 +1,18 @@
 [
  {
+  "id": "e95dde364c8d",
+  "title": "Newcastle United dream squad as World Cup star signs alongside Sandro Tonali replacement",
+  "player": "Sandro Tonali",
+  "title_ko": "뉴캐슬 유나이티드 드림 스쿼드, 월드컵 스타로 산드로 토날리 교체 선수 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-dream-summer-transfer-news-37466924",
+  "fee": null,
+  "published": "2026-07-25T04:45:00+00:00"
+ },
+ {
   "id": "8c6f2b71a91d",
   "title": "Man Utd news: Aurelien Tchouameni green light as cut-price transfer deal emerges",
   "player": "Aurelien Tchouameni",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/ex-luebecker-koelle-findet-neuen-verein-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-07-23T09:35:20+00:00"
- },
- {
-  "id": "cb40d7be2a6d",
-  "title": "Official: Juventus confirm transfer income after Muharemović move to Leeds",
-  "player": "Tarik Muharemovic",
-  "title_ko": "공식: 유벤투스는 무하레모비치가 리즈로 이적한 후 이적 수입을 확인했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-confirm-income-muharamovic-leeds/",
-  "fee": null,
-  "published": "2026-07-23T09:24:23+00:00"
  }
 ]
