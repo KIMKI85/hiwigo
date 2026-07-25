@@ -13,6 +13,19 @@
   "published": "2026-07-25T14:45:00+00:00"
  },
  {
+  "id": "353d186f5eb2",
+  "title": "Milan cut ties with forgotten midfielder Bennacer ahead of Qatar move",
+  "player": "Ismeal Bennacer",
+  "title_ko": "밀란은 카타르 이적을 앞두고 잊혀진 미드필더 베나세르와의 관계를 끊었다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-cut-ties-forgotten-midfielder-bennacer/",
+  "fee": null,
+  "published": "2026-07-25T13:57:42+00:00"
+ },
+ {
   "id": "1d1bc8cd5902",
   "title": "Mercato: le PSG a contacté Manchester City pour le champion du monde Rodri",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m",
   "fee": "£34M",
   "published": "2026-07-23T13:00:13+00:00"
- },
- {
-  "id": "f5f788ff1f76",
-  "title": "Arsenal complete deal to sign winger Tzolis",
-  "player": "Christos Tzolis",
-  "title_ko": "아스날은 윙어 Tzolis와 계약을 완료했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13564283/arsenal-transfer-news-christos-tzolis-signs-in-34m-deal-from-club-brugge-as-replacement-for-leandro-trossard",
-  "fee": null,
-  "published": "2026-07-23T13:00:00+00:00"
  }
 ]
