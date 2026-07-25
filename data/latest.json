@@ -1,5 +1,18 @@
 [
  {
+  "id": "8c6f2b71a91d",
+  "title": "Man Utd news: Aurelien Tchouameni green light as cut-price transfer deal emerges",
+  "player": "Aurelien Tchouameni",
+  "title_ko": "Man Utd 뉴스: Aurelien Tchouameni의 인하된 이적 계약이 승인되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-tchouameni-real-madrid-37472616",
+  "fee": null,
+  "published": "2026-07-25T03:30:00+00:00"
+ },
+ {
   "id": "ee74789e80ad",
   "title": "Arsenal news: Newcastle issue Bruno Guimaraes response with agreement close for midfielder",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-confirm-income-muharamovic-leeds/",
   "fee": null,
   "published": "2026-07-23T09:24:23+00:00"
- },
- {
-  "id": "d30dbdc8c2d0",
-  "title": "Maghnes Akliouche's transfer intention clear as Liverpool approach for star confirmed",
-  "player": "Maghnes Akliouche's",
-  "title_ko": "리버풀의 스타 영입이 확정됨에 따라 마그네스 아클리우슈의 이적 의도가 분명해졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-maghnes-akliouche-37466255",
-  "fee": null,
-  "published": "2026-07-23T08:49:06+00:00"
  }
 ]
