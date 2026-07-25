@@ -1,5 +1,31 @@
 [
  {
+  "id": "b06da4b606da",
+  "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
+  "player": "Elliot Anderson",
+  "title_ko": "프리미어 리그: 지금까지의 비즈니스 이전을 위한 클럽별 가이드 – 그리고 여전히 필요한 것",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need",
+  "fee": null,
+  "published": "2026-07-25T07:00:36+00:00"
+ },
+ {
+  "id": "26c6f0b84965",
+  "title": "Liverpool's Yan Diomande transfer hopes hit again as Real Madrid move for RB Leipzig star",
+  "player": "Liverpool's Yan Diomande",
+  "title_ko": "리버풀의 얀 디오망데 이적은 레알 마드리드가 RB 라이프치히 스타로 이적함에 따라 다시 성공하기를 희망합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-diomande-future-real-madrid-37475012",
+  "fee": null,
+  "published": "2026-07-25T06:58:44+00:00"
+ },
+ {
   "id": "a4286280c9c1",
   "title": "Mercato: héros du Cap-Vert durant le Mondial, Vozinha va s'engager avec Colo Colo au Chili",
   "player": "Colo Colo",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-zidane-cancelo-guardiola-les-5-infos-mercato-du-23-juillet-a-la-mi-journee_VN-202607230342.html",
   "fee": null,
   "published": "2026-07-23T10:03:22+00:00"
- },
- {
-  "id": "6c7282980e39",
-  "title": "Kubo y Sucic, a ser otra vez fichajes",
-  "player": null,
-  "title_ko": "쿠보와 수치치, 재계약한다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/23/kubo-sucic-vez-fichajes.html",
-  "fee": null,
-  "published": "2026-07-23T09:53:49+00:00"
- },
- {
-  "id": "639da0fc27b2",
-  "title": "Roma open Nusa talks after Summerville snub but Leipzig demand big fee",
-  "player": "Il Corriere",
-  "title_ko": "로마는 서머빌의 거절 이후 누사 협상을 시작했지만 라이프치히는 큰 이적료를 요구했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-open-nusa-summerville-snub-leipzig-fee/",
-  "fee": null,
-  "published": "2026-07-23T09:45:13+00:00"
  }
 ]
