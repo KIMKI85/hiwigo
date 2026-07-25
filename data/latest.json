@@ -1,5 +1,18 @@
 [
  {
+  "id": "ec2259787925",
+  "title": "El fichaje de Marc-André ter Stegen por el Ajax vuelve a complicarse mucho",
+  "player": null,
+  "title_ko": "Ajax의 Marc-André ter Stegen 영입은 다시 매우 복잡해졌습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/barcelona/2026/07/25/fichaje-marc-andre-ter-stegen-ajax-vuelve-complicarse.html",
+  "fee": null,
+  "published": "2026-07-25T19:34:52+00:00"
+ },
+ {
   "id": "ea3c20ab2442",
   "title": "Tzolakis vor Wechsel nach England - Geht Ortega Moreno nach Piräus?",
   "player": "Geht Ortega Moreno",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-udinese-iker-bravo-zemura-payero-watford/",
   "fee": null,
   "published": "2026-07-23T16:01:12+00:00"
- },
- {
-  "id": "788de2ea6566",
-  "title": "Anderson gets Man City move he craved as £116m deal done",
-  "player": "Elliot Anderson",
-  "title_ko": "앤더슨은 1억 1600만 파운드의 거래가 완료되면서 그가 갈망했던 맨시티로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss",
-  "fee": "£116M",
-  "published": "2026-07-23T16:01:00+00:00"
  }
 ]
