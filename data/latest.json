@@ -1,5 +1,18 @@
 [
  {
+  "id": "438d402f3013",
+  "title": "Mainka räumt das Thema Wechsel ab - Dorsch vor Transfer nach Kanada",
+  "player": "Thema Wechsel",
+  "title_ko": "Mainka는 캐나다로 이적하기 전에 변화의 주제를 정리합니다 - Dorsch",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/mainka-raeumt-das-thema-wechsel-ab-dorsch-vor-transfer-nach-kanada-1238638/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-25T19:54:01+00:00"
+ },
+ {
   "id": "ec2259787925",
   "title": "El fichaje de Marc-André ter Stegen por el Ajax vuelve a complicarse mucho",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c87ng75zlx4o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-23T16:13:39+00:00"
- },
- {
-  "id": "03920c28a9af",
-  "title": "Done Deal: Udinese hand Iker Bravo, Zemura and Payero to Watford",
-  "player": "Iker Bravo",
-  "title_ko": "거래 완료: 우디네세는 이케르 브라보, 제무라, 파예로를 왓포드로 이적시켰습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-udinese-iker-bravo-zemura-payero-watford/",
-  "fee": null,
-  "published": "2026-07-23T16:01:12+00:00"
  }
 ]
