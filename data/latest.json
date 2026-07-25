@@ -1,5 +1,18 @@
 [
  {
+  "id": "053eca2eb180",
+  "title": "Vinicius Jr transfer: Arsenal's move to sign Real Madrid star to be BLOCKED by Jose Mourinho",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어 이적: 레알 마드리드 스타를 영입하려는 아스날의 움직임은 호세 무리뉴에 의해 차단될 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mourinho-vinicius-arsenal-real-madrid-37476582",
+  "fee": null,
+  "published": "2026-07-25T16:40:21+00:00"
+ },
+ {
   "id": "f437b016d130",
   "title": "Amorim asks Milan to hold off on Estupinan deal with Aston Villa",
   "player": "Pervis Estupinan",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-maghnes-akliouche-monaco-37468424",
   "fee": null,
   "published": "2026-07-23T13:44:30+00:00"
- },
- {
-  "id": "281563432650",
-  "title": "Modric extension with Milan imminent after contract signing",
-  "player": "Luka Modric",
-  "title_ko": "계약 체결 후 밀란과 모드리치의 연장이 임박했습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/modric-extension-with-milan-imminent/",
-  "fee": null,
-  "published": "2026-07-23T13:39:31+00:00"
  }
 ]
