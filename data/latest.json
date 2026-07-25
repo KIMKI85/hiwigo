@@ -1,5 +1,44 @@
 [
  {
+  "id": "edde755cdc55",
+  "title": "Man Utd given Manu Kone transfer deadline as Roma annoyed at slow deal",
+  "player": "Manu Kone",
+  "title_ko": "로마가 느린 거래에 짜증을 내자 맨유는 마누 코네 이적 마감일을 제시했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-kone-37476656",
+  "fee": null,
+  "published": "2026-07-25T18:04:31+00:00"
+ },
+ {
+  "id": "ee6aa7700358",
+  "title": "Atta and Piccoli on target as Fiorentina fall to 3-2 friendly defeat against QPR",
+  "player": "Arthur Atta",
+  "title_ko": "피오렌티나가 QPR을 상대로 3-2 우호적 패배를 당하면서 목표에 도달한 아타와 피콜리",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atta-and-piccoli-on-target-qpr-3-2-fiorentina/",
+  "fee": null,
+  "published": "2026-07-25T18:03:55+00:00"
+ },
+ {
+  "id": "6b4d951991d3",
+  "title": "La Real logra su primer triunfo del verano sin los mundialistas y sin fichajes",
+  "player": null,
+  "title_ko": "라레알, 월드컵 선수와 영입 없이 여름 첫 승리 달성",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/25/real-logra-primer-triunfo-verano-mundialistas-fichajes.html",
+  "fee": null,
+  "published": "2026-07-25T18:00:28+00:00"
+ },
+ {
   "id": "4c584b15ff65",
   "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
   "player": "Vinícius Júnior",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-pull-out-alex-37468970",
   "fee": null,
   "published": "2026-07-23T14:35:32+00:00"
- },
- {
-  "id": "4c47fa8253b6",
-  "title": "Garnacho joins Villa on loan from Chelsea",
-  "player": null,
-  "title_ko": "가르나초는 첼시에서 임대로 빌라에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-23T14:22:21+00:00"
- },
- {
-  "id": "e0700886cadb",
-  "title": "Done Deal: Report Milan hijack Rangers agreement for Diawara",
-  "player": "Sankhoun Diawara",
-  "title_ko": "거래 완료: 밀란이 레인저스의 디아와라 계약을 하이재킹했다고 보고",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-report-milan-hijack-rangers-diawara/",
-  "fee": null,
-  "published": "2026-07-23T14:19:40+00:00"
- },
- {
-  "id": "b260f7e50dea",
-  "title": "Aston Villa confirm signing of Alejandro Garnacho with £43m Chelsea clause",
-  "player": "Alejandro Garnacho",
-  "title_ko": "Aston Villa는 £43m 첼시 조항으로 Alejandro Garnacho의 영입을 확인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-aston-villa-alejandro-garnacho-37468000",
-  "fee": "£43M",
-  "published": "2026-07-23T13:45:59+00:00"
  }
 ]
