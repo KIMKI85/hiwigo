@@ -1,5 +1,31 @@
 [
  {
+  "id": "608bfc443f66",
+  "title": "Lee, Lacroix, Rodri... Les 5 infos mercato du 25 juillet à la mi-journée",
+  "player": "Yan Diomandé",
+  "title_ko": "리, 라크로아, 로드리... 7월 25일 정오부터 5번의 이적 창구 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-lee-lacroix-rodri-les-5-infos-mercato-du-25-juillet-a-la-mi-journee_VN-202607250178.html",
+  "fee": null,
+  "published": "2026-07-25T10:25:46+00:00"
+ },
+ {
+  "id": "24591c15f78d",
+  "title": "Paralluelo wechselt nach Lyon",
+  "player": "Salma Paralluelo",
+  "title_ko": "파랄루엘로가 리옹으로 이적",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/paralluelo-wechselt-nach-lyon-1238531/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-25T10:17:11+00:00"
+ },
+ {
   "id": "b5fc6ad8b8e3",
   "title": "Aston Villa 'open transfer talks' for £65m Ollie Watkins replacement as Arsenal circle",
   "player": "Ollie Watkins",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
   "fee": null,
   "published": "2026-07-23T12:00:00+00:00"
- },
- {
-  "id": "6ec6c7bd1b05",
-  "title": "Leeds in talks to sign Man City keeper Trafford",
-  "player": "James Trafford",
-  "title_ko": "리즈, 맨시티 골키퍼 트래포드 영입 협상 중",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clyl7eve9ddo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-23T11:56:17+00:00"
- },
- {
-  "id": "2c7af3a98bcb",
-  "title": "Leeds in talks with Man City over deal for Trafford",
-  "player": "James Trafford",
-  "title_ko": "리즈, 트래포드 영입을 위해 맨시티와 협상 중",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
-  "fee": null,
-  "published": "2026-07-23T11:40:00+00:00"
  }
 ]
