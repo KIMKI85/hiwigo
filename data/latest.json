@@ -1,5 +1,18 @@
 [
  {
+  "id": "8b7aea8eba82",
+  "title": "Arsenal get two green lights to proceed with Julian Alvarez transfer in record-breaking deal",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날은 기록적인 거래로 줄리안 알바레즈 이적을 진행하기 위해 두 개의 승인을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-viktor-gyokeres-37475554",
+  "fee": null,
+  "published": "2026-07-25T11:13:44+00:00"
+ },
+ {
   "id": "608bfc443f66",
   "title": "Lee, Lacroix, Rodri... Les 5 infos mercato du 25 juillet à la mi-journée",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco",
   "fee": null,
   "published": "2026-07-23T12:09:38+00:00"
- },
- {
-  "id": "4dffe5552a5b",
-  "title": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
-  "player": "Roma's Manu Kone",
-  "title_ko": "맨유가 세 번째 미드필더 영입을 위해 코네와 발레바를 강력히 고려하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
-  "fee": null,
-  "published": "2026-07-23T12:00:00+00:00"
  }
 ]
