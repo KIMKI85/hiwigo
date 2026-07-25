@@ -1,5 +1,31 @@
 [
  {
+  "id": "23efaa3be737",
+  "title": "Inter Milan interested in signing Tottenham captain Romero",
+  "player": "Cristian Romero",
+  "title_ko": "인터밀란은 토트넘 주장 로메로 영입에 관심을 갖고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
+  "fee": null,
+  "published": "2026-07-25T09:45:00+00:00"
+ },
+ {
+  "id": "b74eb8d9485e",
+  "title": "\"Sehr gutes Gesamtpaket\": Fürth verpflichtet Innenverteidiger Keresztes",
+  "player": "Innenverteidiger Keresztes",
+  "title_ko": "\"매우 좋은 전체 패키지\": Fürth는 중앙 수비수 Keresztes와 계약했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/sehr-gutes-gesamtpaket-fuerth-verpflichtet-innenverteidiger-keresztes-1238511/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-25T08:45:18+00:00"
+ },
+ {
   "id": "20fa282cd5f7",
   "title": "Arsenal's Bruno Guimaraes transfer offer, Newcastle's statement and pre-season plan",
   "player": "Arsenal's Bruno Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/flexibler-linksfuss-viktoria-verpflichtet-ex-loewe-jakob-1238091/artikel#omrss",
   "fee": null,
   "published": "2026-07-23T10:49:38+00:00"
- },
- {
-  "id": "d59d30018daf",
-  "title": "Wartezeit vorbei: Adeyemis Wechsel nach Barcelona fix",
-  "player": "Adeyemis Wechsel",
-  "title_ko": "대기 시간 종료: 아데예미의 바르셀로나 이적이 완료되었습니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/wartezeit-vorbei-adeyemis-wechsel-nach-barcelona-fix-1235334/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-23T10:39:04+00:00"
- },
- {
-  "id": "77b2205bfdb4",
-  "title": "Newcastle agree £34m deal for Monaco's Bamba",
-  "player": "Monaco's Bamba",
-  "title_ko": "뉴캐슬은 모나코의 밤바와 £34m 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
-  "fee": "£34M",
-  "published": "2026-07-23T10:33:28+00:00"
  }
 ]
