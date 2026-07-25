@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee74789e80ad",
+  "title": "Arsenal news: Newcastle issue Bruno Guimaraes response with agreement close for midfielder",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날 뉴스: 뉴캐슬이 미드필더 영입에 합의한 브루노 기마랑스의 반응",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37473482",
+  "fee": null,
+  "published": "2026-07-25T03:00:00+00:00"
+ },
+ {
   "id": "469a6473e9fc",
   "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
   "player": "Yan Diomande",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-maghnes-akliouche-37466255",
   "fee": null,
   "published": "2026-07-23T08:49:06+00:00"
- },
- {
-  "id": "709442865690",
-  "title": "Mercato: le clan Diomandé lassé d’attendre le PSG?",
-  "player": "Yan Diomandé",
-  "title_ko": "Mercato: PSG를 기다리는 데 지친 Diomandé 클랜?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-clan-diomande-lasse-d-attendre-le-psg_AV-202607230284.html",
-  "fee": null,
-  "published": "2026-07-23T08:40:08+00:00"
  }
 ]
