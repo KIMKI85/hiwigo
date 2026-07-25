@@ -1,5 +1,44 @@
 [
  {
+  "id": "2df7ab5c30c5",
+  "title": "Done deals: Inter have contract agreements in place for Esposito and Bisseck",
+  "player": "Yann Bisseck",
+  "title_ko": "거래 완료: Inter는 Esposito와 Bisseck에 대한 계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-contract-agreements-for-esposito-bisseck/",
+  "fee": null,
+  "published": "2026-07-25T18:58:11+00:00"
+ },
+ {
+  "id": "6fbfc64e3423",
+  "title": "Todos los interrogantes del caso Vinicius... y el fichaje de Diomandé",
+  "player": null,
+  "title_ko": "비니시우스 사건과 디오망데의 영입에 대한 모든 궁금증",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-madrid/2026/07/25/todos-interrogantes-caso-vinicius-fichaje-diomande.html",
+  "fee": null,
+  "published": "2026-07-25T18:58:00+00:00"
+ },
+ {
+  "id": "356e3d3109dd",
+  "title": "Roma discussing Castro deal with Bologna after Tresoldi rejection",
+  "player": null,
+  "title_ko": "로마는 트레솔디의 거절 이후 볼로냐와 카스트로의 거래를 논의하고 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-discussing-castro-deal-with-bologna/",
+  "fee": null,
+  "published": "2026-07-25T18:48:48+00:00"
+ },
+ {
   "id": "5a0a78322b07",
   "title": "Chelsea reject €30m Chalobah bid from Fabregas’s Como",
   "player": null,
