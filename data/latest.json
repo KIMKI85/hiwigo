@@ -1,5 +1,18 @@
 [
  {
+  "id": "89166b9bfa70",
+  "title": "Napoli weighing up move for ex-Juventus striker Vlahovic if Lukaku leaves",
+  "player": "Dusan Vlahovic",
+  "title_ko": "나폴리는 루카쿠가 떠날 경우 전 유벤투스 스트라이커 블라호비치의 이적을 검토하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-weighing-up-move-ex-juventus-vlahovic/",
+  "fee": null,
+  "published": "2026-07-25T15:31:18+00:00"
+ },
+ {
   "id": "b6c3eeb67b26",
   "title": "Eddie Howe makes telling Bruno Guimaraes transfer admission as Arsenal prepare £70m bid",
   "player": "Eddie Howe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cn4nmjwl8j1o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-23T13:22:48+00:00"
- },
- {
-  "id": "64e89524e835",
-  "title": "Arsenal sign Greek forward Tzolis for £34m",
-  "player": "Christos Tzolis",
-  "title_ko": "아스날은 그리스 포워드 Tzolis를 £ 34m에 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
-  "fee": "£34M",
-  "published": "2026-07-23T13:04:44+00:00"
  }
 ]
