@@ -1,5 +1,18 @@
 [
  {
+  "id": "f437b016d130",
+  "title": "Amorim asks Milan to hold off on Estupinan deal with Aston Villa",
+  "player": "Pervis Estupinan",
+  "title_ko": "Amorim은 밀란에게 Aston Villa와의 Estupinan 거래를 보류하라고 요청했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/amorim-asks-milan-to-hold-off-estupinan-deal/",
+  "fee": null,
+  "published": "2026-07-25T16:16:48+00:00"
+ },
+ {
   "id": "89166b9bfa70",
   "title": "Napoli weighing up move for ex-Juventus striker Vlahovic if Lukaku leaves",
   "player": "Dusan Vlahovic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/modric-extension-with-milan-imminent/",
   "fee": null,
   "published": "2026-07-23T13:39:31+00:00"
- },
- {
-  "id": "ab3698aaffda",
-  "title": "Codina on why she joined West Ham project",
-  "player": "Laia Codina",
-  "title_ko": "코디나가 웨스트햄 프로젝트에 합류한 이유",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cn4nmjwl8j1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-23T13:22:48+00:00"
  }
 ]
