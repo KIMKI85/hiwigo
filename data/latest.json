@@ -13,6 +13,32 @@
   "published": "2026-07-25T09:45:00+00:00"
  },
  {
+  "id": "e3eddd78c90c",
+  "title": "Liverpool receive huge Yan Diomande transfer update as £85m bid rejected",
+  "player": "Yan Diomande",
+  "title_ko": "리버풀은 £85m의 입찰이 거부되면서 엄청난 규모의 Yan Diomande 이적 업데이트를 받았습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/real-madrid-liverpool-yan-diomande-37475261",
+  "fee": "£85M",
+  "published": "2026-07-25T09:36:19+00:00"
+ },
+ {
+  "id": "cee84b24b612",
+  "title": "U-19-Nationalspieler Erlein wechselt von der TSG nach Leverkusen",
+  "player": "Nationalspieler Erlein",
+  "title_ko": "U-19 국가대표 에를라인이 TSG에서 레버쿠젠으로 이적했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/u-19-nationalspieler-erlein-wechselt-von-der-tsg-nach-leverkusen-1237948/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-25T09:34:42+00:00"
+ },
+ {
   "id": "0a4ddde6a02d",
   "title": "Inter hope to replicate Akanji transfer formula with Tottenham’s Romero",
   "player": "Cristian Romero",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c80n51kngzjo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-23T11:37:26+00:00"
- },
- {
-  "id": "d70a3587c622",
-  "title": "Rodri to Real Madrid transfer truth as Man City contract stipulation revealed",
-  "player": null,
-  "title_ko": "맨시티 계약 조항이 공개되면서 로드리의 레알 마드리드 이적 사실이 드러났다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-real-madrid-transfer-truth-37467386",
-  "fee": null,
-  "published": "2026-07-23T11:08:43+00:00"
- },
- {
-  "id": "9e45b7a5a44b",
-  "title": "Tottenham’s decision on Vicario for pre-season tour boosts Juventus’ transfer hopes",
-  "player": "Guglielmo Vicario",
-  "title_ko": "토트넘이 프리시즌 투어에 비카리오를 결정한 것은 유벤투스의 이적 희망을 높여준다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tottenham-vicario-decision-pre-season-juventus/",
-  "fee": null,
-  "published": "2026-07-23T10:52:40+00:00"
  }
 ]
