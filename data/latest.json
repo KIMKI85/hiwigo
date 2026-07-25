@@ -13,6 +13,19 @@
   "published": "2026-07-25T09:45:00+00:00"
  },
  {
+  "id": "0a4ddde6a02d",
+  "title": "Inter hope to replicate Akanji transfer formula with Tottenham’s Romero",
+  "player": "Cristian Romero",
+  "title_ko": "인테르는 토트넘의 로메로와 함께 아칸지 이적 방식을 재현하길 희망한다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-hope-replicate-akanji-formula-romero/",
+  "fee": null,
+  "published": "2026-07-25T09:04:52+00:00"
+ },
+ {
   "id": "b74eb8d9485e",
   "title": "\"Sehr gutes Gesamtpaket\": Fürth verpflichtet Innenverteidiger Keresztes",
   "player": "Innenverteidiger Keresztes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/tottenham-vicario-decision-pre-season-juventus/",
   "fee": null,
   "published": "2026-07-23T10:52:40+00:00"
- },
- {
-  "id": "be96251d1cc0",
-  "title": "\"Flexibler Linksfuß\": Viktoria verpflichtet Ex-Löwe Jakob",
-  "player": "Löwe Jakob",
-  "title_ko": "\"유연한 왼발\": 빅토리아는 전 라이온 야콥과 계약했습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/flexibler-linksfuss-viktoria-verpflichtet-ex-loewe-jakob-1238091/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-23T10:49:38+00:00"
  }
 ]
