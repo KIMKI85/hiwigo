@@ -1,5 +1,31 @@
 [
  {
+  "id": "e52ece7267bb",
+  "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
+  "player": "Madrid's Vinicius",
+  "title_ko": "레알 마드리드의 비니시우스 주니어에 대한 아스날의 영입 협상",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
+  "fee": null,
+  "published": "2026-07-25T14:45:00+00:00"
+ },
+ {
+  "id": "1d1bc8cd5902",
+  "title": "Mercato: le PSG a contacté Manchester City pour le champion du monde Rodri",
+  "player": null,
+  "title_ko": "Mercato: PSG는 세계 챔피언 Rodri를 위해 맨체스터 시티에 연락했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-a-contacte-manchester-city-pour-le-champion-du-monde-rodri_AV-202607250229.html",
+  "fee": null,
+  "published": "2026-07-25T13:53:21+00:00"
+ },
+ {
   "id": "a6f281b68220",
   "title": "Mercato: Vinicius Junior dans le viseur d'Arsenal",
   "player": "Vinicius Junior",
