@@ -1,5 +1,18 @@
 [
  {
+  "id": "289151e1c302",
+  "title": "Arsenal plot shock Vinicius Jr move - Sunday's gossip",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날의 음모에 충격을 받은 비니시우스 주니어 이적 - 일요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-25T21:21:03+00:00"
+ },
+ {
   "id": "5fe6b653e83e",
   "title": "Liverpool summer signing Jeremy Jacquet claims new team-mate is 'off his head'",
   "player": "Jeremy Jacquet",
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-jeremy-jacquet-frimpong-iraola-37476852",
   "fee": null,
   "published": "2026-07-25T20:57:40+00:00"
+ },
+ {
+  "id": "0779f195a116",
+  "title": "Papers: Chelsea's Neto emerges as target for Manchester City and Maresca",
+  "player": "Chelsea's Neto",
+  "title_ko": "서류: 첼시의 네토가 맨체스터 시티와 마레스카의 타겟으로 떠오름",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
+  "fee": null,
+  "published": "2026-07-25T20:38:00+00:00"
  },
  {
   "id": "438d402f3013",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/bologna-secure-amondarain-nottingham-forest/",
   "fee": null,
   "published": "2026-07-23T16:35:27+00:00"
- },
- {
-  "id": "108b6e2397c9",
-  "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
-  "player": null,
-  "title_ko": "리버풀 최신: 골키퍼가 임대로 떠나면서 새로운 계약에 서명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-07-23T16:23:00+00:00"
- },
- {
-  "id": "972d43d414b1",
-  "title": "Official: Modric signs new contract with Milan to 2027",
-  "player": "Luka Modric",
-  "title_ko": "공식: 모드리치는 밀란과 2027년까지 재계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-modric-signs-new-contract-with-milan/",
-  "fee": null,
-  "published": "2026-07-23T16:17:09+00:00"
  }
 ]
