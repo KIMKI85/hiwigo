@@ -1,5 +1,31 @@
 [
  {
+  "id": "ea3c20ab2442",
+  "title": "Tzolakis vor Wechsel nach England - Geht Ortega Moreno nach Piräus?",
+  "player": "Geht Ortega Moreno",
+  "title_ko": "영국으로 이주하기 전의 졸라키스 - 오르테가 모레노가 피레우스로 갈까요?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/tzolakis-vor-wechsel-nach-england-geht-ortega-moreno-nach-piraeus-1237357/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-25T19:09:34+00:00"
+ },
+ {
+  "id": "8b99b3d640d1",
+  "title": "Marcus Rashford sent Michael Carrick message as Man Utd icons agree on transfer priority",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 아이콘들이 이적 우선순위에 합의함에 따라 마커스 래시포드가 마이클 캐릭에게 메시지를 보냈다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-united-transfer-37475617",
+  "fee": null,
+  "published": "2026-07-25T19:00:00+00:00"
+ },
+ {
   "id": "2df7ab5c30c5",
   "title": "Done deals: Inter have contract agreements in place for Esposito and Bisseck",
   "player": "Yann Bisseck",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss",
   "fee": "£116M",
   "published": "2026-07-23T16:01:00+00:00"
- },
- {
-  "id": "46b51502c016",
-  "title": "'Kings of Manchester' - Elliot Anderson taunts Man Utd as City unveil £116m signing",
-  "player": "Elliot Anderson",
-  "title_ko": "'킹스 오브 맨체스터' - 엘리엇 앤더슨, 시티가 £116m 계약 발표하자 맨유를 조롱",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/elliot-anderson-taunts-manchester-united-37469365",
-  "fee": "£116M",
-  "published": "2026-07-23T16:00:40+00:00"
- },
- {
-  "id": "57886b52490a",
-  "title": "Australischer Nationalspieler: Köln verpflichtet Sechser Okon-Engstler",
-  "player": "Australischer Nationalspieler",
-  "title_ko": "호주 국가대표: 쾰른, Sechser Okon-Engstler와 계약",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/australischer-nationalspieler-koeln-verpflichtet-sechser-okon-engstler-1235719/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-23T15:39:39+00:00"
  }
 ]
