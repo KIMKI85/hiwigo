@@ -1,5 +1,18 @@
 [
  {
+  "id": "20fa282cd5f7",
+  "title": "Arsenal's Bruno Guimaraes transfer offer, Newcastle's statement and pre-season plan",
+  "player": "Arsenal's Bruno Guimaraes",
+  "title_ko": "아스날의 브루노 기마랑스 이적 제안, 뉴캐슬의 성명 및 프리시즌 계획",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-guimaraes-newcastle-bid-future-37475084",
+  "fee": null,
+  "published": "2026-07-25T07:54:55+00:00"
+ },
+ {
   "id": "b06da4b606da",
   "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
   "player": "Elliot Anderson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
   "fee": "£34M",
   "published": "2026-07-23T10:33:28+00:00"
- },
- {
-  "id": "fa46c50d0dfd",
-  "title": "Zidane, Cancelo, Guardiola... les 5 infos Mercato du 23 juillet à la mi-journée",
-  "player": null,
-  "title_ko": "지단, 칸셀루, 과르디올라... 7월 23일 정오 5개의 메르카토 소식",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-zidane-cancelo-guardiola-les-5-infos-mercato-du-23-juillet-a-la-mi-journee_VN-202607230342.html",
-  "fee": null,
-  "published": "2026-07-23T10:03:22+00:00"
  }
 ]
