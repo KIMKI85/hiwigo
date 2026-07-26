@@ -1,5 +1,18 @@
 [
  {
+  "id": "ff0a8997e921",
+  "title": "Liverpool identify Bradley Barcola transfer alternative as ‘contact made’ with agent",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 브래들리 바르콜라의 이적 대안을 에이전트와의 '접촉'으로 확인",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-juventus-conceicao-37478661",
+  "fee": null,
+  "published": "2026-07-26T15:59:21+00:00"
+ },
+ {
   "id": "4e21bf8ec54a",
   "title": "Report Badiashile back on Napoli radar if Chelsea accept loan",
   "player": "Benoit Badiashile",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
   "fee": null,
   "published": "2026-07-24T09:20:00+00:00"
- },
- {
-  "id": "70cb6674a76a",
-  "title": "Chelsea agree deal to sign Palace defender Lacroix",
-  "player": "Maxence Lacroix",
-  "title_ko": "첼시는 팰리스 수비수 라크르아와의 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-24T09:14:32+00:00"
  }
 ]
