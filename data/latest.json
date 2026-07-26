@@ -1,5 +1,18 @@
 [
  {
+  "id": "38aed9dd23f6",
+  "title": "Man Utd can solve two problems after approval to sign star Bryan Mbeumo hates playing",
+  "player": "Bryan Mbeumo",
+  "title_ko": "맨유는 스타 브라이언 음베우모 영입 승인 후 두 가지 문제를 해결할 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-target-mbeumo-37463102",
+  "fee": null,
+  "published": "2026-07-26T05:45:00+00:00"
+ },
+ {
   "id": "5b487b34ab2d",
   "title": "Marcus Rashford 'would do a lot of good at Liverpool' after Man Utd transfer clause expires",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
   "fee": null,
   "published": "2026-07-23T17:30:00+00:00"
- },
- {
-  "id": "c975b1c55497",
-  "title": "Anderson's journey to England star and  Man City record signing",
-  "player": "Elliot Anderson",
-  "title_ko": "앤더슨의 잉글랜드 스타 여행 및 맨시티 기록 서명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-23T17:16:34+00:00"
  }
 ]
