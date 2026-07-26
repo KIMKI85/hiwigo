@@ -1,5 +1,18 @@
 [
  {
+  "id": "cbcc10a9f821",
+  "title": "Liverpool dealing with 'the worst news' as Andoni Iraola makes transfer demand",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀은 안도니 이라올라의 이적 요구로 '최악의 소식'을 다루고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-iraola-gomez-injury-fitness-37477321",
+  "fee": null,
+  "published": "2026-07-26T07:19:19+00:00"
+ },
+ {
   "id": "7a0ff42df83f",
   "title": "Transfer news LIVE: Vini Jr to Arsenal latest, Man Utd's Manu Kone move, Yan Diomande deal",
   "player": "Vini Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rosenborg-xi-friendly-37464302",
   "fee": null,
   "published": "2026-07-23T18:00:00+00:00"
- },
- {
-  "id": "17c176dcf8e4",
-  "title": "Roma 6-0 friendly victory sees Malen and Dybala on target",
-  "player": "Donyell Malen",
-  "title_ko": "로마의 6-0 친선 승리로 말렌과 디발라의 적중",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-6-0-friendly-victory-malen-dybala-target/",
-  "fee": null,
-  "published": "2026-07-23T17:56:28+00:00"
  }
 ]
