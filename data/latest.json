@@ -1,5 +1,31 @@
 [
  {
+  "id": "21f901e5eacc",
+  "title": "Bennacer flies out for new job in Qatar after Milan terminate contract",
+  "player": "Ismael Bennacer",
+  "title_ko": "베나세르는 밀란과 계약이 종료된 후 카타르에서 새 직장으로 날아간다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bennacer-flies-out-for-new-job-in-qatar-milan/",
+  "fee": null,
+  "published": "2026-07-26T17:21:09+00:00"
+ },
+ {
+  "id": "ebed53621f37",
+  "title": "Wantaway Tottenham star emerges on Arsenal and Chelsea radar in transfer twist",
+  "player": null,
+  "title_ko": "원하는 토트넘 스타가 이적 트위스트에서 아스날과 첼시 레이더에 등장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-tottenham-chelsea-transfer-news-37478777",
+  "fee": null,
+  "published": "2026-07-26T17:11:19+00:00"
+ },
+ {
   "id": "bd22f686e7a9",
   "title": "Arsenal's two conditions for Bruno Guimaraes transfer as Gunners set to make next move",
   "player": "Bruno Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/neuendorf-bestaetigt-millionen-spende-und-leipzig-laenderspiele-statt-abloese-1238307/artikel#omrss",
   "fee": null,
   "published": "2026-07-24T09:47:52+00:00"
- },
- {
-  "id": "0c84ed597b1d",
-  "title": "Kane set for talks with Bayern Munich over new deal",
-  "player": "Harry Kane",
-  "title_ko": "케인, 바이에른 뮌헨과 재계약 논의 예정",
-  "league": "BUND",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-24T09:38:26+00:00"
- },
- {
-  "id": "03ca903dc63f",
-  "title": "Stammtorwart der PSG-U-19: James wechselt ablösefrei nach Köln",
-  "player": "Martin James",
-  "title_ko": "PSG U-19 정규 골키퍼: 하메스는 자유 이적을 통해 쾰른으로 이적합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/stammtorwart-der-psg-u-19-james-wechselt-abloesefrei-nach-koeln-1238296/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-24T09:20:36+00:00"
  }
 ]
