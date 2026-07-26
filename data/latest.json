@@ -1,5 +1,18 @@
 [
  {
+  "id": "02e416a4dbc7",
+  "title": "Chelsea sent strong transfer warning by Premier League boss after failed bid",
+  "player": "Granit Xhaka",
+  "title_ko": "첼시는 입찰 실패 후 프리미어리그 감독으로부터 강력한 이적 경고를 받았다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-sunderland-transfer-granit-xhaka-37478871",
+  "fee": null,
+  "published": "2026-07-26T17:27:52+00:00"
+ },
+ {
   "id": "21f901e5eacc",
   "title": "Bennacer flies out for new job in Qatar after Milan terminate contract",
   "player": "Ismael Bennacer",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-de-ketelaere-lacroix-jurgen-klopp-les-5-infos-mercato-du-24-juillet-a-12h-v2_VN-202607240322.html",
   "fee": null,
   "published": "2026-07-24T09:52:52+00:00"
- },
- {
-  "id": "541846495b8a",
-  "title": "Neuendorf bestätigt: Millionen-Spende und Leipzig-Länderspiele statt Ablöse",
-  "player": "Eine Ablöse",
-  "title_ko": "노이엔도르프, 이적료 대신 100만 기부와 라이프치히 국제경기 확인",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/neuendorf-bestaetigt-millionen-spende-und-leipzig-laenderspiele-statt-abloese-1238307/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-24T09:47:52+00:00"
  }
 ]
