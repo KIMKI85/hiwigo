@@ -1,5 +1,18 @@
 [
  {
+  "id": "d5da8e84f385",
+  "title": "Mercato: Liverpool pousse pour Barcola, le PSG fixe un prix record en cas de départ",
+  "player": "Bradley Barcola",
+  "title_ko": "메르카토: 리버풀은 바르콜라를 원하고 PSG는 이적시 기록적인 가격을 세웠습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-liverpool-pousse-pour-barcola-le-psg-fixe-un-prix-record-en-cas-de-depart_AV-202607260189.html",
+  "fee": null,
+  "published": "2026-07-26T13:31:14+00:00"
+ },
+ {
   "id": "142bb3733fdf",
   "title": "Liverpool sent strong Michael Olise transfer warning by Bayern Munich chief",
   "player": "Michael Olise",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-transfers-37461767",
   "fee": null,
   "published": "2026-07-24T04:30:00+00:00"
- },
- {
-  "id": "16fd6a5fbdd7",
-  "title": "Liverpool news: Maghnes Akliouche hint dropped as two deals agreed",
-  "player": "Maghnes Akliouche",
-  "title_ko": "리버풀 뉴스: 두 거래가 합의되면서 마그네스 아클리우슈 힌트가 떨어졌습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-maghnes-akliouche-monaco-37467368",
-  "fee": null,
-  "published": "2026-07-24T04:00:00+00:00"
  }
 ]
