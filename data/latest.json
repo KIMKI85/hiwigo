@@ -1,5 +1,44 @@
 [
  {
+  "id": "ca8e9690a0c7",
+  "title": "Friendly action: Atalanta victory has Ederson on target, Lazio win 6-0",
+  "player": null,
+  "title_ko": "친선 경기: 아탈란타의 승리로 에데르손이 득점했고, 라치오가 6-0으로 승리했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/friendly-action-atalanta-ederson-target-lazio/",
+  "fee": null,
+  "published": "2026-07-26T20:13:48+00:00"
+ },
+ {
+  "id": "0867ceae9db2",
+  "title": "PSG pull out of Diomande race - Real confident of signing forward",
+  "player": "Yan Diomande",
+  "title_ko": "PSG는 디오망드 경쟁에서 탈락 - 앞으로 계약할 자신이 있음",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian",
+  "fee": null,
+  "published": "2026-07-26T20:00:00+00:00"
+ },
+ {
+  "id": "851ffec3a042",
+  "title": "Jadon Sancho finally receives shock contract offer months after Man Utd exit",
+  "player": "Jadon Sancho",
+  "title_ko": "Jadon Sancho는 Man Utd가 떠난 지 몇 달 만에 마침내 충격적인 계약 제안을 받았습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-man-utd-transfer-37479071",
+  "fee": null,
+  "published": "2026-07-26T19:59:40+00:00"
+ },
+ {
   "id": "510196919b5c",
   "title": "Mercato: ce sera le Real Madrid plutôt que le PSG pour Yan Diomandé, les dessous d'un transfert XXL",
   "player": "Yan Diomandé",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/newcastle-arsenal-transfer-bruno-guimaraes-37471925",
   "fee": "£70M",
   "published": "2026-07-24T11:37:13+00:00"
- },
- {
-  "id": "d2e73f04a5fe",
-  "title": "Newcastle sign Aladji Bamba in £34m deal from Monaco to boost midfield options",
-  "player": "Aladji Bamba",
-  "title_ko": "뉴캐슬은 미드필더 옵션을 강화하기 위해 모나코로부터 3400만 파운드의 계약으로 알라지 밤바를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
-  "fee": "£34M",
-  "published": "2026-07-24T10:57:14+00:00"
- },
- {
-  "id": "c7593467abaf",
-  "title": "'Huge potential for growth' - Newcastle sign Bamba",
-  "player": "Aladji Bamba",
-  "title_ko": "'거대한 성장 잠재력' - 뉴캐슬, 밤바 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566552/aladji-bamba-transfer-news-newcastle-complete-35-5m-signing-of-midfielder-from-monaco",
-  "fee": null,
-  "published": "2026-07-24T10:30:00+00:00"
- },
- {
-  "id": "360986ced999",
-  "title": "Arsenal readying player-plus-cash offer in mega Julian Alvarez transfer bid",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 엄청난 줄리안 알바레스 이적 입찰에서 플레이어 플러스 현금 제안을 준비하고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-julian-alvarez-37471466",
-  "fee": null,
-  "published": "2026-07-24T10:04:52+00:00"
  }
 ]
