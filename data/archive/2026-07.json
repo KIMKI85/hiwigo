@@ -1,5 +1,31 @@
 [
  {
+  "id": "8eb487bae16c",
+  "title": "Liverpool and Arsenal alerted after Bradley Barcola transfer call as PSG seek record fee",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀과 아스날은 PSG가 기록적인 수수료를 요구하면서 브래들리 바르콜라 이적 요청 후 경고를 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-arsenal-barcola-psg-future-37478261",
+  "fee": null,
+  "published": "2026-07-26T13:44:42+00:00"
+ },
+ {
+  "id": "f6c2c6d994b6",
+  "title": "Arsenal learn fee and transfer conditions to sign Vinicius Jr from Real Madrid",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날은 레알 마드리드에서 비니시우스 주니어를 영입하기 위한 수수료와 이적 조건을 알아봅니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-vinicius-junior-37478284",
+  "fee": null,
+  "published": "2026-07-26T13:40:33+00:00"
+ },
+ {
   "id": "d5da8e84f385",
   "title": "Mercato: Liverpool pousse pour Barcola, le PSG fixe un prix record en cas de départ",
   "player": "Bradley Barcola",
