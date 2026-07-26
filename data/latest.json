@@ -1,5 +1,18 @@
 [
  {
+  "id": "d63d7f2fc2fd",
+  "title": "Mercato: Bradley Barcola ne prolongera pas, le PSG réclame une somme XXL en cas de transfert",
+  "player": "Bradley Barcola",
+  "title_ko": "Mercato: Bradley Barcola는 연장하지 않을 것이며 PSG는 이적시 XXL 금액을 요구합니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bradley-barcola-ne-prolongera-pas-le-psg-reclame-une-somme-xxl-en-cas-de-transfert_AV-202607260175.html",
+  "fee": null,
+  "published": "2026-07-26T12:17:55+00:00"
+ },
+ {
   "id": "996bdbffa07d",
   "title": "Shevchenko hits out at ex-teammate Pirlo over Russian betting deal",
   "player": "Andriy Shevchenko",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-alex-scott-transfer-37469197",
   "fee": "£100M",
   "published": "2026-07-24T03:30:00+00:00"
- },
- {
-  "id": "26f753b4d697",
-  "title": "Arsenal news: Gunners move for £94m Morgan Rogers alternative as transfer announcement made",
-  "player": "Morgan Rogers",
-  "title_ko": "아스날 뉴스: 거너스는 이적 발표에 따라 £94m의 모건 로저스 대안으로 이적합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-christos-tzolis-37468019",
-  "fee": "£94M",
-  "published": "2026-07-24T03:00:00+00:00"
  }
 ]
