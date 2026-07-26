@@ -1,5 +1,31 @@
 [
  {
+  "id": "b09d5da75ce2",
+  "title": "Mercato: \"Top Gunn Vini\", \"inVINcibles\"… l’intérêt d’Arsenal pour Vinicius enflamme la presse anglaise",
+  "player": "Gunn Vini",
+  "title_ko": "메르카토: \"탑건 비니\", \"inVINcibles\"…비니시우스에 대한 아스날의 관심, 영국 언론에 불붙다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-top-gunn-vini-in-vi-ncibles-l-interet-d-arsenal-pour-vinicius-enflamme-la-presse-anglaise_AV-202607260150.html",
+  "fee": null,
+  "published": "2026-07-26T10:12:52+00:00"
+ },
+ {
+  "id": "1fecb205fe68",
+  "title": "Lazio target Milan pair Musah and Gimenez",
+  "player": "Yunus Musah",
+  "title_ko": "라치오는 밀란의 무사와 히메네스를 노린다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-target-milan-pair-musah-and-gimenez/",
+  "fee": null,
+  "published": "2026-07-26T10:05:00+00:00"
+ },
+ {
   "id": "4cccdde7b21c",
   "title": "Yan Diomande double ‘verbal agreement’ reached as Arsenal get boost in Vinicius Jr transfer",
   "player": "Yan Diomande",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-tchouameni-real-madrid-37469730",
   "fee": null,
   "published": "2026-07-23T18:30:40+00:00"
- },
- {
-  "id": "ef3eac507564",
-  "title": "La triple presentación de los nuevos fichajes del Málaga",
-  "player": "Juan Cruz",
-  "title_ko": "말라가의 새로운 영입에 대한 세 번의 발표",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/07/23/triple-presentacion-nuevos-fichajes-malaga.html",
-  "fee": null,
-  "published": "2026-07-23T18:29:18+00:00"
- },
- {
-  "id": "87349b1722ef",
-  "title": "Arsenal to launch £70m Bruno Guimaraes bid - but transfer for Newcastle star hangs in balance",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날은 브루노 기마랑스에게 7000만 파운드의 입찰을 제안했지만 뉴캐슬 스타에 대한 이적은 균형이 맞지 않습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37469731",
-  "fee": "£70M",
-  "published": "2026-07-23T18:00:45+00:00"
  }
 ]
