@@ -1,5 +1,18 @@
 [
  {
+  "id": "142bb3733fdf",
+  "title": "Liverpool sent strong Michael Olise transfer warning by Bayern Munich chief",
+  "player": "Michael Olise",
+  "title_ko": "리버풀은 바이에른 뮌헨의 수장에게 마이클 올리세에게 강력한 이적 경고를 보냈다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-michael-olise-bayern-munich-37478033",
+  "fee": null,
+  "published": "2026-07-26T12:39:50+00:00"
+ },
+ {
   "id": "ec4a16f15d55",
   "title": "Real Madrid told to approve Arsenal's Vinicius transfer because 'they cannot rely' on him",
   "player": "Arsenal's Vinicius",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-maghnes-akliouche-monaco-37467368",
   "fee": null,
   "published": "2026-07-24T04:00:00+00:00"
- },
- {
-  "id": "ab6710812306",
-  "title": "Mercato: A 41 ans, Luka Modric repousse la retraite et prolonge avec l'AC Milan",
-  "player": "Luka Modric",
-  "title_ko": "메르카토: 41세의 루카 모드리치는 은퇴를 연기하고 AC 밀란과 연장한다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-a-41-ans-luka-modric-repousse-la-retraite-et-prolonge-avec-l-ac-milan_AV-202607240039.html",
-  "fee": null,
-  "published": "2026-07-24T03:59:27+00:00"
  }
 ]
