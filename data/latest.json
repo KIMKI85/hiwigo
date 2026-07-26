@@ -1,5 +1,18 @@
 [
  {
+  "id": "0e551c72cb5e",
+  "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
+  "player": "Cristian Romero",
+  "title_ko": "인테르는 주장 크리스티안 로메로 영입을 놓고 토트넘과 대화를 시작했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window",
+  "fee": null,
+  "published": "2026-07-26T11:34:40+00:00"
+ },
+ {
   "id": "98d4b6f74c56",
   "title": "Everton join race for Bologna winger Rowe but face €45m demand",
   "player": "Jonathan Rowe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder",
   "fee": null,
   "published": "2026-07-23T22:30:00+00:00"
- },
- {
-  "id": "9c015a345d46",
-  "title": "Mercato: Keito Nakamura serait dans le viseur de l'OM",
-  "player": "Keito Nakamura",
-  "title_ko": "메르카토: 나카무라 케이토가 OM의 눈에 띌 것이다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-keito-nakamura-serait-dans-le-viseur-de-l-om_AV-202607230653.html",
-  "fee": null,
-  "published": "2026-07-23T20:22:49+00:00"
  }
 ]
