@@ -1,5 +1,31 @@
 [
  {
+  "id": "485c75885d82",
+  "title": "Lotte macht die 20 voll: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "롯데, 2020년 완료 : 현재 지역리그 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/lotte-macht-die-20-voll-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-26T14:39:29+00:00"
+ },
+ {
+  "id": "04483e8195a9",
+  "title": "Mercato: Ibrahim Mbaye attire déjà les plus grands clubs européens",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "Mercato: Ibrahim Mbaye는 이미 유럽 최대 클럽을 끌어들이고 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ibrahim-mbaye-attire-deja-les-plus-grands-clubs-europeens_AV-202607260201.html",
+  "fee": null,
+  "published": "2026-07-26T14:34:53+00:00"
+ },
+ {
   "id": "8eb487bae16c",
   "title": "Liverpool and Arsenal alerted after Bradley Barcola transfer call as PSG seek record fee",
   "player": "Bradley Barcola",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-bruno-guimaraes-transfer-newcastle-37471009",
   "fee": "£70M",
   "published": "2026-07-24T08:53:12+00:00"
- },
- {
-  "id": "8da13f5d389f",
-  "title": "Report: Guardiola says no to Italy as Maldini move onto Plan B",
-  "player": "Pep Guardiola",
-  "title_ko": "보고서: 과르디올라, 말디니가 플랜 B로 이동하자 이탈리아 거부",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-guardiola-says-no-to-italy-job/",
-  "fee": null,
-  "published": "2026-07-24T08:27:48+00:00"
- },
- {
-  "id": "6c887d0a4493",
-  "title": "Man Utd may have to scrap strict Arsenal transfer rule after latest Marcus Rashford blow",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유는 마커스 래쉬포드의 최근 타격 이후 엄격한 아스날 이적 규정을 폐기해야 할 수도 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-man-utd-37470523",
-  "fee": null,
-  "published": "2026-07-24T06:33:53+00:00"
  }
 ]
