@@ -1,5 +1,18 @@
 [
  {
+  "id": "5b5576cbb9f1",
+  "title": "McInnes teases Rangers signing within 48 hours",
+  "player": null,
+  "title_ko": "매키니스, 레인저스 48시간 내 계약 예고",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly9w1eez14o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-26T20:43:41+00:00"
+ },
+ {
   "id": "ca8e9690a0c7",
   "title": "Friendly action: Atalanta victory has Ederson on target, Lazio win 6-0",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/como-submit-new-offer-for-chalobah/",
   "fee": null,
   "published": "2026-07-24T11:46:31+00:00"
- },
- {
-  "id": "f9d0dde44a4b",
-  "title": "Bruno Guimaraes agent takes to social media as Arsenal prepare £70m bid for Newcastle star",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑스 에이전트는 아스날이 뉴캐슬 스타에 대한 £70m 입찰을 준비하는 동안 소셜 미디어를 사용합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/newcastle-arsenal-transfer-bruno-guimaraes-37471925",
-  "fee": "£70M",
-  "published": "2026-07-24T11:37:13+00:00"
  }
 ]
