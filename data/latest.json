@@ -1,5 +1,18 @@
 [
  {
+  "id": "a1494fad5f98",
+  "title": "Arsenal news: Real Madrid's stance on selling Vinicius Jr as shock Tottenham deal emerges",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날 뉴스: 충격적인 토트넘 계약이 등장함에 따라 비니시우스 주니어 판매에 대한 레알 마드리드의 입장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-yan-diomande-tottenham-37475752",
+  "fee": null,
+  "published": "2026-07-26T03:00:00+00:00"
+ },
+ {
   "id": "289151e1c302",
   "title": "Arsenal plot shock Vinicius Jr move - Sunday's gossip",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-christos-tzolis-norwich-city-37468916",
   "fee": "£34M",
   "published": "2026-07-23T16:52:41+00:00"
- },
- {
-  "id": "b93273fdb442",
-  "title": "Done Deal: Bologna secure Amondarain despite Nottingham Forest interest",
-  "player": "Mikel Amondarain",
-  "title_ko": "거래 완료: 볼로냐는 노팅엄 포레스트의 관심에도 불구하고 Amondarain을 확보했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bologna-secure-amondarain-nottingham-forest/",
-  "fee": null,
-  "published": "2026-07-23T16:35:27+00:00"
  }
 ]
