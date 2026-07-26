@@ -1,5 +1,18 @@
 [
  {
+  "id": "db8775212d22",
+  "title": "Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
+  "player": "Yan Diomande",
+  "title_ko": "레알 마드리드는 PSG가 이적을 철회한 후 Yan Diomande와의 계약을 체결할 준비가 되어 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-seal-deal-for-yan-diomande-after-psg-pull-out-of-move",
+  "fee": null,
+  "published": "2026-07-26T21:55:32+00:00"
+ },
+ {
   "id": "5b5576cbb9f1",
   "title": "McInnes teases Rangers signing within 48 hours",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/betis/2026/07/24/betis-da-ceballos-hay-telenovelas-mercados-fichajes.html",
   "fee": null,
   "published": "2026-07-24T12:01:12+00:00"
- },
- {
-  "id": "1b2a62a93f48",
-  "title": "Como submit new offer for Chalobah as Chelsea seal Lacroix deal",
-  "player": null,
-  "title_ko": "Como는 Chelsea가 Lacroix와 계약을 체결함에 따라 Chalobah에 대한 새로운 제안을 제출했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-submit-new-offer-for-chalobah/",
-  "fee": null,
-  "published": "2026-07-24T11:46:31+00:00"
  }
 ]
