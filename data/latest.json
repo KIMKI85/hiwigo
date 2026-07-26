@@ -1,5 +1,18 @@
 [
  {
+  "id": "4cccdde7b21c",
+  "title": "Yan Diomande double ‘verbal agreement’ reached as Arsenal get boost in Vinicius Jr transfer",
+  "player": "Yan Diomande",
+  "title_ko": "아스날이 비니시우스 주니어 이적에 박차를 가하면서 Yan Diomande의 이중 '언어적 합의'가 이루어졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/diomande-vinicius-jr-transfer-arsenal-37477494",
+  "fee": null,
+  "published": "2026-07-26T08:25:33+00:00"
+ },
+ {
   "id": "cbcc10a9f821",
   "title": "Liverpool dealing with 'the worst news' as Andoni Iraola makes transfer demand",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37469731",
   "fee": "£70M",
   "published": "2026-07-23T18:00:45+00:00"
- },
- {
-  "id": "c85a63bbb021",
-  "title": "Man Utd XI from last Rosenborg friendly with six axed and two more potential transfers",
-  "player": null,
-  "title_ko": "맨유 XI는 지난 로젠보리 친선경기에서 6명의 도끼 선수와 2명의 잠재적 이적 가능성을 더 가지고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rosenborg-xi-friendly-37464302",
-  "fee": null,
-  "published": "2026-07-23T18:00:00+00:00"
  }
 ]
