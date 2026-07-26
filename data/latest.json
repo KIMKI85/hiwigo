@@ -1,5 +1,18 @@
 [
  {
+  "id": "98d4b6f74c56",
+  "title": "Everton join race for Bologna winger Rowe but face €45m demand",
+  "player": "Jonathan Rowe",
+  "title_ko": "에버튼은 볼로냐의 윙어 로우 영입 경쟁에 합류했지만 €45m 요구에 직면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/everton-join-race-for-bologna-winger-rowe/",
+  "fee": "€45M",
+  "published": "2026-07-26T11:30:00+00:00"
+ },
+ {
   "id": "453e6fb08ddf",
   "title": "Diomandé, Rodri, Guimaraes, les 5 infos mercato du 26 juillet à midi",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-keito-nakamura-serait-dans-le-viseur-de-l-om_AV-202607230653.html",
   "fee": null,
   "published": "2026-07-23T20:22:49+00:00"
- },
- {
-  "id": "7974b6b5e8aa",
-  "title": "Man Utd identify World Cup star as new target after pulling out of Alex Scott transfer",
-  "player": "Alex Scott",
-  "title_ko": "맨유는 알렉스 스콧 이적을 철회한 후 월드컵 스타를 새로운 목표로 지정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-danilo-alex-scott-37470040",
-  "fee": null,
-  "published": "2026-07-23T20:11:44+00:00"
  }
 ]
