@@ -1,5 +1,18 @@
 [
  {
+  "id": "7a0ff42df83f",
+  "title": "Transfer news LIVE: Vini Jr to Arsenal latest, Man Utd's Manu Kone move, Yan Diomande deal",
+  "player": "Vini Jr",
+  "title_ko": "이적 뉴스 라이브: Vini Jr에서 Arsenal로 최신, Man Utd의 Manu Kone 이동, Yan Diomande 거래",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-vini-jr-37477274",
+  "fee": null,
+  "published": "2026-07-26T06:50:39+00:00"
+ },
+ {
   "id": "b10549b1ace8",
   "title": "Mercato: \"Il va se faire broyer par le foot business\", l’After choqué par le plan XXL du Real pour Diomandé",
   "player": "Yan Diomandé",
@@ -660,6 +673,19 @@
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
   "fee": "£85M",
+  "published": "2026-07-24T22:00:00+00:00"
+ },
+ {
+  "id": "a6ec7ede285a",
+  "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
+  "player": "Leipzig's Diomande",
+  "title_ko": "레알 마드리드는 RB 라이프치히의 디오망드 영입을 위해 매우 유리한 위치에 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
+  "fee": null,
   "published": "2026-07-24T22:00:00+00:00"
  },
  {
