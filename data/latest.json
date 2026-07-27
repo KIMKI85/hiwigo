@@ -1,5 +1,31 @@
 [
  {
+  "id": "94c7ff146e17",
+  "title": "Miguel Rodríguez, tercer fichaje del Alavés",
+  "player": "Miguel Rodríguez",
+  "title_ko": "미구엘 로드리게스, 알라베스의 세 번째 영입",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/alaves/2026/07/27/miguel-rodriguez-tercer-fichaje-alaves.html",
+  "fee": null,
+  "published": "2026-07-27T08:42:23+00:00"
+ },
+ {
+  "id": "1560c1cd1e83",
+  "title": "Football transfer rumours: Arsenal and Liverpool battle it out for Bradley Barcola?",
+  "player": "Bradley Barcola",
+  "title_ko": "축구 이적 루머: 아스날과 리버풀이 브래들리 바르콜라를 두고 경쟁하고 있다고요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/27/football-transfer-rumours-arsenal-liverpool-bradley-barcola-psg",
+  "fee": null,
+  "published": "2026-07-27T08:37:35+00:00"
+ },
+ {
   "id": "c1b97785331f",
   "title": "DIRECT. Mercato: toutes les infos et rumeurs du 27 juillet 2026 sur le marché des transferts en live",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-mikel-arteta-guimaraes-37472659",
   "fee": null,
   "published": "2026-07-24T15:39:25+00:00"
- },
- {
-  "id": "d14ac152e7db",
-  "title": "Fiorentina ‘favourites’ for Mastantuono loan agreement with Real Madrid",
-  "player": null,
-  "title_ko": "레알 마드리드와 마스탄투오노 임대 계약을 맺은 피오렌티나 '가장 선호하는 팀'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fiorentina-favourites-mastantuono-real-madrid/",
-  "fee": null,
-  "published": "2026-07-24T15:02:57+00:00"
- },
- {
-  "id": "3818b9119d46",
-  "title": "Report Bobb targeted by Roma just 6 months after Fulham move",
-  "player": "Oscar Bobb",
-  "title_ko": "풀럼 이적 6개월 만에 로마의 타겟이 된 밥 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-bobb-targeted-by-roma-fulham-move/",
-  "fee": null,
-  "published": "2026-07-24T14:41:39+00:00"
  }
 ]
