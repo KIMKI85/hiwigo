@@ -1,5 +1,18 @@
 [
  {
+  "id": "c3345c41ca17",
+  "title": "Karetsas vor Wechsel zum BVB: Einigung mit Genk erzielt",
+  "player": "Der Wechsel",
+  "title_ko": "BVB로 이전하기 전 Karetsas: Genk와 합의",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/karetsas-vor-wechsel-zum-bvb-einigung-mit-genk-erzielt-1239007/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-27T16:38:37+00:00"
+ },
+ {
   "id": "ad86a11e9545",
   "title": "Inter continue direct Romero talks with Tottenham, hopeful of €40m agreement",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-vinicius-junior-dans-le-viseur-d-arsenal_AV-202607250222.html",
   "fee": null,
   "published": "2026-07-25T13:32:15+00:00"
- },
- {
-  "id": "a4dd0f8ff901",
-  "title": "Arsenal exploring stunning Vinicius Junior transfer as Real Madrid star's move approved",
-  "player": "Vinicius Junior",
-  "title_ko": "아스날은 레알 마드리드 스타의 이적이 승인됨에 따라 놀라운 비니시우스 주니어 이적을 모색하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-real-madrid-37475967",
-  "fee": null,
-  "published": "2026-07-25T13:24:51+00:00"
  }
 ]
