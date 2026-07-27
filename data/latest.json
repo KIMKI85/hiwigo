@@ -1,5 +1,18 @@
 [
  {
+  "id": "07d042f492b7",
+  "title": "Transfer round-up: Lazio talks for Burnley striker, Castro’s Roma medical and more",
+  "player": null,
+  "title_ko": "이적 요약: 번리의 스트라이커, 카스트로의 로마 메디컬 등에 대한 라치오의 대화",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/transfer-round-up-27-july-lazio-burnley-castro/",
+  "fee": null,
+  "published": "2026-07-27T18:30:00+00:00"
+ },
+ {
   "id": "482d1cd5c808",
   "title": "Report Stones has verbal agreement for 2-year Inter contract",
   "player": "Sky Sport Italia",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/amorim-asks-milan-to-hold-off-estupinan-deal/",
   "fee": null,
   "published": "2026-07-25T16:16:48+00:00"
- },
- {
-  "id": "89166b9bfa70",
-  "title": "Napoli weighing up move for ex-Juventus striker Vlahovic if Lukaku leaves",
-  "player": "Dusan Vlahovic",
-  "title_ko": "나폴리는 루카쿠가 떠날 경우 전 유벤투스 스트라이커 블라호비치의 이적을 검토하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-weighing-up-move-ex-juventus-vlahovic/",
-  "fee": null,
-  "published": "2026-07-25T15:31:18+00:00"
  }
 ]
