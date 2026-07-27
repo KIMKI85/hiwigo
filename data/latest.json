@@ -1,5 +1,18 @@
 [
  {
+  "id": "faa5ced5f7c6",
+  "title": "Leeds close to club-record deal for Trafford",
+  "player": "James Trafford",
+  "title_ko": "리즈, 트래포드와 클럽 기록 계약에 가까워",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567551/leeds-united-transfer-news-james-trafford-deal-moving-nearer-as-club-record-deal-close-to-being-reached-with-manchester-city",
+  "fee": null,
+  "published": "2026-07-27T19:46:00+00:00"
+ },
+ {
   "id": "659a0c8643e8",
   "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
   "player": "John Stones",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-manchester-united-ollie-watkins-37476598",
   "fee": "£40M",
   "published": "2026-07-25T17:30:01+00:00"
- },
- {
-  "id": "053eca2eb180",
-  "title": "Vinicius Jr transfer: Arsenal's move to sign Real Madrid star to be BLOCKED by Jose Mourinho",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어 이적: 레알 마드리드 스타를 영입하려는 아스날의 움직임은 호세 무리뉴에 의해 차단될 것입니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mourinho-vinicius-arsenal-real-madrid-37476582",
-  "fee": null,
-  "published": "2026-07-25T16:40:21+00:00"
  }
 ]
