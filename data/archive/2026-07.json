@@ -1,5 +1,44 @@
 [
  {
+  "id": "ea0f9eb3946c",
+  "title": "Papers: Man City hopeful Rodri will sign new deal - but braced for Real bid",
+  "player": null,
+  "title_ko": "서류: 맨시티의 로드리는 새로운 계약에 서명할 것으로 예상되지만 레알의 입찰에 대비함",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
+  "fee": null,
+  "published": "2026-07-27T22:10:00+00:00"
+ },
+ {
+  "id": "4d6d514a0dd8",
+  "title": "Man City brace for Rodri bid - Tuesday's gossip",
+  "player": "Madrid's Rodri",
+  "title_ko": "로드리 비드를 위한 맨시티의 버팀목 - 화요일의 가십",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-27T21:21:18+00:00"
+ },
+ {
+  "id": "c6553b7bb7e3",
+  "title": "John Stones set for Inter move after shining for England at World Cup",
+  "player": "John Stones",
+  "title_ko": "존 스톤스, 월드컵에서 잉글랜드 대표로 활약한 후 인테르 이적 결정",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city",
+  "fee": null,
+  "published": "2026-07-27T21:02:47+00:00"
+ },
+ {
   "id": "8b9ce42ecd00",
   "title": "Majer vor Wechsel zu AEK: Wolfsburg winken sechs Millionen Euro",
   "player": "Millionen Euro",
