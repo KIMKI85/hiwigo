@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b5cea0a4e79",
+  "title": "Barcola, Alvarez, Diomandé... les 5 infos mercato du 27 juillet à la mi-journée",
+  "player": "Lucas Chevalier",
+  "title_ko": "바르콜라, 알바레스, 디오만데..7월 27일 정오부터 5번 이적시장 안내",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-barcola-alvarez-diomande-les-5-infos-mercato-du-27-juillet-a-la-mi-journee_VN-202607270378.html",
+  "fee": null,
+  "published": "2026-07-27T13:34:44+00:00"
+ },
+ {
   "id": "39e80ecacb69",
   "title": "Chelsea in talks to sign Brighton striker Welbeck",
   "player": "Hove Albion",
@@ -11,6 +24,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-27T13:24:43+00:00"
+ },
+ {
+  "id": "ebbb9b0c3b18",
+  "title": "Arsenal can offer Vinicius Jr key non-negotiable that Real Madrid cannot after transfer update",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날은 이적 업데이트 이후 레알 마드리드가 할 수 없는 비니시우스 주니어에게 협상 불가능한 키를 제공할 수 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-real-37481290",
+  "fee": null,
+  "published": "2026-07-27T13:23:53+00:00"
  },
  {
   "id": "50721bc64899",
