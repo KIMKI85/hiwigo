@@ -1,5 +1,18 @@
 [
  {
+  "id": "02a6767bc69f",
+  "title": "Man Utd enter advanced talks for striker transfer with £30m clause proposed",
+  "player": "Joshua Zirkzee",
+  "title_ko": "맨유는 £30m 조항을 제안하며 스트라이커 이적을 위한 고급 협상에 돌입했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/joshua-zirkzee-juventus-transfer-manutd-37482706",
+  "fee": "£30M",
+  "published": "2026-07-27T17:37:01+00:00"
+ },
+ {
   "id": "58af38dc7e28",
   "title": "Done Deals: Castro, Dovbyk, Amondarain and Diawara medicals for July 28",
   "player": "Santiago Castro",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-cut-ties-forgotten-midfielder-bennacer/",
   "fee": null,
   "published": "2026-07-25T13:57:42+00:00"
- },
- {
-  "id": "1d1bc8cd5902",
-  "title": "Mercato: le PSG a contacté Manchester City pour le champion du monde Rodri",
-  "player": null,
-  "title_ko": "Mercato: PSG는 세계 챔피언 Rodri를 위해 맨체스터 시티에 연락했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-a-contacte-manchester-city-pour-le-champion-du-monde-rodri_AV-202607250229.html",
-  "fee": null,
-  "published": "2026-07-25T13:53:21+00:00"
  }
 ]
