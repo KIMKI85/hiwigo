@@ -1,5 +1,31 @@
 [
  {
+  "id": "aee464eced0d",
+  "title": "Milan beaten to Karetsas, as Borussia Dortmund guarantee €32m plus bonus deal",
+  "player": "Konstaninos Karetsas",
+  "title_ko": "밀란은 보루시아 도르트문트가 €32m에 보너스 계약을 보장하면서 카레차스에게 패했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-beaten-to-karetsas-borussia-dortmund/",
+  "fee": "€32M",
+  "published": "2026-07-27T16:10:38+00:00"
+ },
+ {
+  "id": "d380592ff214",
+  "title": "Ex-Man Utd boss wanted to re-sign Danny Welbeck as Chelsea open transfer talks",
+  "player": "Danny Welbeck",
+  "title_ko": "전 맨유 감독은 첼시의 공개 이적 협상에서 대니 웰벡과 재계약을 원했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-danny-welbeck-chelsea-37482246",
+  "fee": null,
+  "published": "2026-07-27T15:58:46+00:00"
+ },
+ {
   "id": "9f5cc613aa85",
   "title": "Lazio can secure Broja from Burnley on loan with option to buy",
   "player": "Armando Broja",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-real-madrid-proche-d-un-accord-pour-yan-diomande-egalement-courtise-par-le-psg_AV-202607250196.html",
   "fee": null,
   "published": "2026-07-25T11:29:52+00:00"
- },
- {
-  "id": "8b7aea8eba82",
-  "title": "Arsenal get two green lights to proceed with Julian Alvarez transfer in record-breaking deal",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 기록적인 거래로 줄리안 알바레즈 이적을 진행하기 위해 두 개의 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-viktor-gyokeres-37475554",
-  "fee": null,
-  "published": "2026-07-25T11:13:44+00:00"
- },
- {
-  "id": "608bfc443f66",
-  "title": "Lee, Lacroix, Rodri... Les 5 infos mercato du 25 juillet à la mi-journée",
-  "player": "Yan Diomandé",
-  "title_ko": "리, 라크로아, 로드리... 7월 25일 정오부터 5번의 이적 창구 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-lee-lacroix-rodri-les-5-infos-mercato-du-25-juillet-a-la-mi-journee_VN-202607250178.html",
-  "fee": null,
-  "published": "2026-07-25T10:25:46+00:00"
  }
 ]
