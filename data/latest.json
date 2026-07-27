@@ -1,5 +1,18 @@
 [
  {
+  "id": "01707a93b236",
+  "title": "Man Utd star takes drastic action as Ruben Amorim plots transfer reunion",
+  "player": "Ruben Amorim",
+  "title_ko": "맨유의 스타 루벤 아모림이 이적 재결합을 계획함에 따라 과감한 조치를 취하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/noussair-mazraoui-juventus-man-utd-37482738",
+  "fee": null,
+  "published": "2026-07-27T17:50:53+00:00"
+ },
+ {
   "id": "02a6767bc69f",
   "title": "Man Utd enter advanced talks for striker transfer with £30m clause proposed",
   "player": "Joshua Zirkzee",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
   "fee": null,
   "published": "2026-07-25T14:45:00+00:00"
- },
- {
-  "id": "353d186f5eb2",
-  "title": "Milan cut ties with forgotten midfielder Bennacer ahead of Qatar move",
-  "player": "Ismeal Bennacer",
-  "title_ko": "밀란은 카타르 이적을 앞두고 잊혀진 미드필더 베나세르와의 관계를 끊었다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-cut-ties-forgotten-midfielder-bennacer/",
-  "fee": null,
-  "published": "2026-07-25T13:57:42+00:00"
  }
 ]
