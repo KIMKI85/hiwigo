@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad86a11e9545",
+  "title": "Inter continue direct Romero talks with Tottenham, hopeful of €40m agreement",
+  "player": "Cristian Romero",
+  "title_ko": "인테르는 로메로와 토트넘과 직접 대화를 이어가며 4천만 유로의 합의를 희망하고 있습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-continue-direct-romero-talks-tottenham/",
+  "fee": "€40M",
+  "published": "2026-07-27T16:23:52+00:00"
+ },
+ {
   "id": "aee464eced0d",
   "title": "Milan beaten to Karetsas, as Borussia Dortmund guarantee €32m plus bonus deal",
   "player": "Konstaninos Karetsas",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/milan-beaten-to-karetsas-borussia-dortmund/",
   "fee": "€32M",
   "published": "2026-07-27T16:10:38+00:00"
+ },
+ {
+  "id": "a9a9988d485b",
+  "title": "Chelsea explore surprise move to sign Danny Welbeck from Brighton",
+  "player": "Danny Welbeck",
+  "title_ko": "첼시는 브라이튼의 대니 웰벡을 영입하기 위한 깜짝 움직임을 모색하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
+  "fee": null,
+  "published": "2026-07-27T16:01:54+00:00"
  },
  {
   "id": "d380592ff214",

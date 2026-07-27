@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad86a11e9545",
+  "title": "Inter continue direct Romero talks with Tottenham, hopeful of €40m agreement",
+  "player": "Cristian Romero",
+  "title_ko": "인테르는 로메로와 토트넘과 직접 대화를 이어가며 4천만 유로의 합의를 희망하고 있습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-continue-direct-romero-talks-tottenham/",
+  "fee": "€40M",
+  "published": "2026-07-27T16:23:52+00:00"
+ },
+ {
   "id": "aee464eced0d",
   "title": "Milan beaten to Karetsas, as Borussia Dortmund guarantee €32m plus bonus deal",
   "player": "Konstaninos Karetsas",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/milan-beaten-to-karetsas-borussia-dortmund/",
   "fee": "€32M",
   "published": "2026-07-27T16:10:38+00:00"
+ },
+ {
+  "id": "a9a9988d485b",
+  "title": "Chelsea explore surprise move to sign Danny Welbeck from Brighton",
+  "player": "Danny Welbeck",
+  "title_ko": "첼시는 브라이튼의 대니 웰벡을 영입하기 위한 깜짝 움직임을 모색하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
+  "fee": null,
+  "published": "2026-07-27T16:01:54+00:00"
  },
  {
   "id": "d380592ff214",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-real-madrid-37475967",
   "fee": null,
   "published": "2026-07-25T13:24:51+00:00"
- },
- {
-  "id": "42a6ae3fa0d1",
-  "title": "Mercato: le PSG officialise le départ de Kang-In Lee à l'Atlético de Madrid pour 40 millions d'euros",
-  "player": "In Lee",
-  "title_ko": "메르카토: PSG는 이강인을 4천만 유로에 아틀레티코 마드리드로 이적시키는 것을 공식화했습니다.",
-  "league": "LIGUE1",
-  "status": "official",
-  "lv": 5,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-officialise-le-depart-de-kang-in-lee-a-l-atletico-de-madrid-pour-40-millions-d-euros_AV-202607250200.html",
-  "fee": null,
-  "published": "2026-07-25T11:41:16+00:00"
- },
- {
-  "id": "7780cae9337c",
-  "title": "Mercato: le Real Madrid proche d’un accord pour Yan Diomandé, également courtisé par le PSG",
-  "player": "Yan Diomandé",
-  "title_ko": "메르카토: 레알 마드리드는 PSG의 구애를 받은 얀 디오만데와의 계약에 가까워졌습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-real-madrid-proche-d-un-accord-pour-yan-diomande-egalement-courtise-par-le-psg_AV-202607250196.html",
-  "fee": null,
-  "published": "2026-07-25T11:29:52+00:00"
  }
 ]
