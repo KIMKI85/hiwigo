@@ -1,5 +1,57 @@
 [
  {
+  "id": "30297745b95b",
+  "title": "PSG tell Liverpool outrageous Bradley Barcola transfer price as Chelsea cause problems",
+  "player": "Bradley Barcola",
+  "title_ko": "PSG는 첼시가 문제를 일으키자 리버풀에게 터무니없는 브래들리 바르콜라 이적 가격을 말했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37479974",
+  "fee": null,
+  "published": "2026-07-27T10:38:28+00:00"
+ },
+ {
+  "id": "657e8d339bd9",
+  "title": "Miguel Román, el mejor 'fichaje' para Giráldez",
+  "player": "Miguel Román",
+  "title_ko": "히랄데즈의 최고의 '계약' 미구엘 로만",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/celta/2026/07/27/miguel-roman-mejor-fichaje-giraldez.html",
+  "fee": null,
+  "published": "2026-07-27T10:36:59+00:00"
+ },
+ {
+  "id": "157b0d977687",
+  "title": "The 4 transfers Arsenal must complete for Mikel Arteta to win another Premier League title",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 또 다른 프리미어 리그 타이틀을 획득하려면 아스날이 4번의 이적을 완료해야 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-mikel-arteta-vinicius-37480090",
+  "fee": null,
+  "published": "2026-07-27T10:33:09+00:00"
+ },
+ {
+  "id": "1feb4cd3b661",
+  "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+  "player": "Vinicius Jr's",
+  "title_ko": "레알 마드리드 재계약 협상과 아스날의 관심 - 비니시우스 주니어의 미래는 어떻게 될까요?",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-27T10:26:36+00:00"
+ },
+ {
   "id": "1b7aa2441115",
   "title": "Man Utd announce goalkeeper transfer as Michael Carrick greenlights two exits",
   "player": "Michael Carrick",
