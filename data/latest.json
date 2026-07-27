@@ -1,5 +1,18 @@
 [
  {
+  "id": "0e30b695a0bc",
+  "title": "Inter’s surprise pre-season star could be the key to Romero signing",
+  "player": "Cristian Romero",
+  "title_ko": "인테르의 깜짝 프리시즌 스타가 로메로 영입의 열쇠가 될 수 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inters-pre-season-star-could-unlock-romero/",
+  "fee": null,
+  "published": "2026-07-27T12:47:58+00:00"
+ },
+ {
   "id": "326e45d57f51",
   "title": "Mercato: le PSG serait intéressé par Zion Suzuki, selon la presse italienne",
   "player": "Zion Suzuki",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-tchouameni-real-madrid-37472616",
   "fee": null,
   "published": "2026-07-25T03:30:00+00:00"
- },
- {
-  "id": "ee74789e80ad",
-  "title": "Arsenal news: Newcastle issue Bruno Guimaraes response with agreement close for midfielder",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날 뉴스: 뉴캐슬이 미드필더 영입에 합의한 브루노 기마랑스의 반응",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37473482",
-  "fee": null,
-  "published": "2026-07-25T03:00:00+00:00"
  }
 ]
