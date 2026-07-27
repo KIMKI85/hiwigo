@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ddfeaea2db3",
+  "title": "Mercato: Chelsea envisagerait un recrutement surprise en attaque (et ça pourrait faire des dégâts)",
+  "player": "Danny Welbeck",
+  "title_ko": "메르카토: 첼시는 공격진에서 기습 영입을 고려할 것이다. (그리고 피해를 입힐 수도 있다)",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-envisagerait-un-recrutement-surprise-en-attaque-et-ca-pourrait-faire-des-degats_AV-202607270401.html",
+  "fee": null,
+  "published": "2026-07-27T14:49:47+00:00"
+ },
+ {
   "id": "ebf4f32fc2dc",
   "title": "Comuzzo all set for Torino in €20m agreement with Fiorentina",
   "player": "Pietro Comuzzo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ollie-watkins-transfer-jackson-37475169",
   "fee": "£65M",
   "published": "2026-07-25T09:50:07+00:00"
- },
- {
-  "id": "23efaa3be737",
-  "title": "Inter Milan interested in signing Tottenham captain Romero",
-  "player": "Cristian Romero",
-  "title_ko": "인터밀란은 토트넘 주장 로메로 영입에 관심을 갖고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
-  "fee": null,
-  "published": "2026-07-25T09:45:00+00:00"
  }
 ]
