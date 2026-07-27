@@ -13,6 +13,19 @@
   "published": "2026-07-27T22:10:00+00:00"
  },
  {
+  "id": "7156fb74f3c2",
+  "title": "PSG attack Real Madrid in fresh Yan Diomande transfer statement after ending interest",
+  "player": "Yan Diomande",
+  "title_ko": "PSG는 관심 종료 후 새로운 Yan Diomande 이적 성명으로 레알 마드리드를 공격합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/psg-real-madrid-yan-diomande-37483280",
+  "fee": null,
+  "published": "2026-07-27T21:44:08+00:00"
+ },
+ {
   "id": "4d6d514a0dd8",
   "title": "Man City brace for Rodri bid - Tuesday's gossip",
   "player": "Madrid's Rodri",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-discussing-castro-deal-with-bologna/",
   "fee": null,
   "published": "2026-07-25T18:48:48+00:00"
- },
- {
-  "id": "5a0a78322b07",
-  "title": "Chelsea reject €30m Chalobah bid from Fabregas’s Como",
-  "player": null,
-  "title_ko": "첼시는 파브레가스 코모의 €30m 찰로바 제안을 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/chelsea-reject-30m-chalobah-bid-from-como/",
-  "fee": "€30M",
-  "published": "2026-07-25T18:35:07+00:00"
  }
 ]
