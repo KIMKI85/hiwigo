@@ -1,5 +1,31 @@
 [
  {
+  "id": "b706bf06c0c7",
+  "title": "Arsenal and Newcastle agreement ‘days away’ as Bruno Guimaraes transfer talks accelerated",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스의 이적 협상이 가속화됨에 따라 아스날과 뉴캐슬의 합의가 '며칠 남았습니다'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37479896",
+  "fee": null,
+  "published": "2026-07-27T08:59:29+00:00"
+ },
+ {
+  "id": "2babe71c8b6b",
+  "title": "El amistoso ante el Leicester deja cinco 'fichajes' más para el Málaga",
+  "player": null,
+  "title_ko": "레스터와의 친선경기로 말라가에는 5명의 영입이 더 남았습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/27/amistoso-leicester-deja-cinco-fichajes-malaga.html",
+  "fee": null,
+  "published": "2026-07-27T08:57:05+00:00"
+ },
+ {
   "id": "94c7ff146e17",
   "title": "Miguel Rodríguez, tercer fichaje del Alavés",
   "player": "Miguel Rodríguez",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "b706bf06c0c7",
+  "title": "Arsenal and Newcastle agreement ‘days away’ as Bruno Guimaraes transfer talks accelerated",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스의 이적 협상이 가속화됨에 따라 아스날과 뉴캐슬의 합의가 '며칠 남았습니다'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37479896",
+  "fee": null,
+  "published": "2026-07-27T08:59:29+00:00"
+ },
+ {
+  "id": "2babe71c8b6b",
+  "title": "El amistoso ante el Leicester deja cinco 'fichajes' más para el Málaga",
+  "player": null,
+  "title_ko": "레스터와의 친선경기로 말라가에는 5명의 영입이 더 남았습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/27/amistoso-leicester-deja-cinco-fichajes-malaga.html",
+  "fee": null,
+  "published": "2026-07-27T08:57:05+00:00"
+ },
+ {
   "id": "94c7ff146e17",
   "title": "Miguel Rodríguez, tercer fichaje del Alavés",
   "player": "Miguel Rodríguez",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/done-monza-agreement-benfica-striker-varela/",
   "fee": "€2M",
   "published": "2026-07-24T18:07:46+00:00"
- },
- {
-  "id": "b846551418ee",
-  "title": "Manchester City: opération du dos, absence voire transfert au Real Madrid... la mise au point de Maresca sur Rodri",
-  "player": "Enzo Maresca",
-  "title_ko": "맨체스터 시티 : 백작전, 결장, 심지어 레알 마드리드로 이적까지… 마레스카의 로드리 근황",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/manchester-city-operation-du-dos-absence-voire-transfert-au-real-madrid-la-mise-au-point-de-maresca-sur-rodri_AD-202607240546.html",
-  "fee": null,
-  "published": "2026-07-24T17:14:26+00:00"
- },
- {
-  "id": "b0cb91b1239b",
-  "title": "Arsenal could soon be left with no choice as Mikel Arteta's transfer frustrations clear",
-  "player": "Mikel Arteta's",
-  "title_ko": "미켈 아르테타의 이적 좌절감이 해소됨에 따라 아스날은 곧 선택의 여지가 없게 될 수도 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-mikel-arteta-guimaraes-37472659",
-  "fee": null,
-  "published": "2026-07-24T15:39:25+00:00"
  }
 ]
