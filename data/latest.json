@@ -1,5 +1,18 @@
 [
  {
+  "id": "659a0c8643e8",
+  "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
+  "player": "John Stones",
+  "title_ko": "스톤즈는 아스날과 첼시의 관심 속에 인테르 이적에 구두로 동의했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
+  "fee": null,
+  "published": "2026-07-27T19:14:00+00:00"
+ },
+ {
   "id": "07d042f492b7",
   "title": "Transfer round-up: Lazio talks for Burnley striker, Castro’s Roma medical and more",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/mourinho-vinicius-arsenal-real-madrid-37476582",
   "fee": null,
   "published": "2026-07-25T16:40:21+00:00"
- },
- {
-  "id": "f437b016d130",
-  "title": "Amorim asks Milan to hold off on Estupinan deal with Aston Villa",
-  "player": "Pervis Estupinan",
-  "title_ko": "Amorim은 밀란에게 Aston Villa와의 Estupinan 거래를 보류하라고 요청했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/amorim-asks-milan-to-hold-off-estupinan-deal/",
-  "fee": null,
-  "published": "2026-07-25T16:16:48+00:00"
  }
 ]
