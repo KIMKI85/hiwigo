@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a26746e57ef",
+  "title": "Mercato: à 41 ans, Mathieu Valbuena va poursuivre sa carrière en D2 maltaise",
+  "player": "Mathieu Valbuena",
+  "title_ko": "Mercato: 41세의 Mathieu Valbuena는 Maltese D2에서 경력을 이어갈 것입니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-a-41-ans-mathieu-valbuena-va-poursuivre-sa-carriere-en-d2-maltaise_AV-202607270075.html",
+  "fee": null,
+  "published": "2026-07-27T05:25:07+00:00"
+ },
+ {
   "id": "3916151b62b9",
   "title": "Liverpool news: Barcola makes call on forcing transfer as new signing ruled out for the season",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ceqej9rnngro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-24T14:00:11+00:00"
- },
- {
-  "id": "3662a4aebf96",
-  "title": "Die nächsten Millionen: Bayer 04 kassiert bei Transfer von Iker Bravo kräftig mit",
-  "player": "von Iker Bravo",
-  "title_ko": "다음 백만 달러: 바이엘 04는 이케르 브라보의 이적에 큰 돈을 벌었습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/die-naechsten-millionen-bayer-04-kassiert-bei-transfer-von-iker-bravo-kraeftig-mit-1238402/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-24T13:55:49+00:00"
  }
 ]
