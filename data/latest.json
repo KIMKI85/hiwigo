@@ -13,6 +13,19 @@
   "published": "2026-07-27T19:46:00+00:00"
  },
  {
+  "id": "6e89d552abcb",
+  "title": "Mercato: accord entre Dayann Methalie et Sunderland, Toulouse pourrait signer la plus grosse vente de son histoire",
+  "player": "Dayann Methalie",
+  "title_ko": "Mercato: Dayann Methalie와 Sunderland 간의 계약, 툴루즈는 역사상 가장 큰 판매에 서명할 수 있음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-entre-dayann-methalie-et-sunderland-toulouse-pourrait-signer-la-plus-grosse-vente-de-son-histoire_AV-202607270555.html",
+  "fee": null,
+  "published": "2026-07-27T19:17:40+00:00"
+ },
+ {
   "id": "659a0c8643e8",
   "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
   "player": "John Stones",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
   "fee": null,
   "published": "2026-07-25T17:32:00+00:00"
- },
- {
-  "id": "30daff4d0497",
-  "title": "Arsenal have trump card to beat Man Utd in £40m Ollie Watkins transfer race",
-  "player": "Ollie Watkins",
-  "title_ko": "아스날은 £40m 올리 왓킨스 이적 경쟁에서 맨유를 이길 수 있는 비장의 카드를 가지고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-manchester-united-ollie-watkins-37476598",
-  "fee": "£40M",
-  "published": "2026-07-25T17:30:01+00:00"
  }
 ]
