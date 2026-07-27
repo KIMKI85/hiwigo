@@ -1,5 +1,18 @@
 [
  {
+  "id": "8b9ce42ecd00",
+  "title": "Majer vor Wechsel zu AEK: Wolfsburg winken sechs Millionen Euro",
+  "player": "Millionen Euro",
+  "title_ko": "AEK로 이적하기 전 메이저: 볼프스부르크는 600만 유로를 받게 됩니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/majer-vor-wechsel-zu-aek-wolfsburg-winken-sechs-millionen-euro-1239031/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-27T20:21:50+00:00"
+ },
+ {
   "id": "faa5ced5f7c6",
   "title": "Leeds close to club-record deal for Trafford",
   "player": "James Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/real-sociedad/2026/07/25/real-logra-primer-triunfo-verano-mundialistas-fichajes.html",
   "fee": null,
   "published": "2026-07-25T18:00:28+00:00"
- },
- {
-  "id": "4c584b15ff65",
-  "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-  "player": "Vinícius Júnior",
-  "title_ko": "아스날은 레알 마드리드의 비니시우스 주니오르를 영입하기 위해 충격적인 접근 방식을 취했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
-  "fee": null,
-  "published": "2026-07-25T17:32:00+00:00"
  }
 ]
