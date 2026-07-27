@@ -1,5 +1,31 @@
 [
  {
+  "id": "32e6c3f1a155",
+  "title": "Sassuolo ready to win Bowie transfer battle with Cagliari, Bologna and Celtic",
+  "player": null,
+  "title_ko": "Sassuolo는 칼리아리, 볼로냐, 셀틱과의 Bowie 이적 전투에서 승리할 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sassuolo-ready-to-win-bowie-transfer-battle/",
+  "fee": null,
+  "published": "2026-07-27T13:57:33+00:00"
+ },
+ {
+  "id": "54d9e5856681",
+  "title": "Inter and Juventus working on John Stones deal after Chelsea and Arsenal interest",
+  "player": "John Stones",
+  "title_ko": "인테르와 유벤투스는 첼시와 아스날의 관심 이후 존 스톤스 거래를 진행 중이다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-and-juventus-working-on-john-stones-deal/",
+  "fee": null,
+  "published": "2026-07-27T13:51:50+00:00"
+ },
+ {
   "id": "1b5cea0a4e79",
   "title": "Barcola, Alvarez, Diomandé... les 5 infos mercato du 27 juillet à la mi-journée",
   "player": "Lucas Chevalier",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/u-19-nationalspieler-erlein-wechselt-von-der-tsg-nach-leverkusen-1237948/artikel#omrss",
   "fee": null,
   "published": "2026-07-25T09:34:42+00:00"
- },
- {
-  "id": "0a4ddde6a02d",
-  "title": "Inter hope to replicate Akanji transfer formula with Tottenham’s Romero",
-  "player": "Cristian Romero",
-  "title_ko": "인테르는 토트넘의 로메로와 함께 아칸지 이적 방식을 재현하길 희망한다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-hope-replicate-akanji-formula-romero/",
-  "fee": null,
-  "published": "2026-07-25T09:04:52+00:00"
- },
- {
-  "id": "b74eb8d9485e",
-  "title": "\"Sehr gutes Gesamtpaket\": Fürth verpflichtet Innenverteidiger Keresztes",
-  "player": "Innenverteidiger Keresztes",
-  "title_ko": "\"매우 좋은 전체 패키지\": Fürth는 중앙 수비수 Keresztes와 계약했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/sehr-gutes-gesamtpaket-fuerth-verpflichtet-innenverteidiger-keresztes-1238511/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-25T08:45:18+00:00"
  }
 ]
