@@ -1,5 +1,18 @@
 [
  {
+  "id": "ebf4f32fc2dc",
+  "title": "Comuzzo all set for Torino in €20m agreement with Fiorentina",
+  "player": "Pietro Comuzzo",
+  "title_ko": "코무조는 피오렌티나와 €20m 계약으로 토리노 이적 준비 완료",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/comuzzo-all-set-for-torino-in-e20m-fiorentina/",
+  "fee": "€20M",
+  "published": "2026-07-27T14:26:37+00:00"
+ },
+ {
   "id": "32e6c3f1a155",
   "title": "Sassuolo ready to win Bowie transfer battle with Cagliari, Bologna and Celtic",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
   "fee": null,
   "published": "2026-07-25T09:45:00+00:00"
- },
- {
-  "id": "e3eddd78c90c",
-  "title": "Liverpool receive huge Yan Diomande transfer update as £85m bid rejected",
-  "player": "Yan Diomande",
-  "title_ko": "리버풀은 £85m의 입찰이 거부되면서 엄청난 규모의 Yan Diomande 이적 업데이트를 받았습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/real-madrid-liverpool-yan-diomande-37475261",
-  "fee": "£85M",
-  "published": "2026-07-25T09:36:19+00:00"
  }
 ]
