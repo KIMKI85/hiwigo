@@ -1,5 +1,18 @@
 [
  {
+  "id": "3916151b62b9",
+  "title": "Liverpool news: Barcola makes call on forcing transfer as new signing ruled out for the season",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 바르콜라는 시즌 동안 새로운 영입이 배제됨에 따라 강제 이적을 요구했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-psg-37478313",
+  "fee": null,
+  "published": "2026-07-27T04:00:00+00:00"
+ },
+ {
   "id": "0962016bac9f",
   "title": "Man Utd news: Manu Kone agreement reached as player requests Old Trafford move",
   "player": "Manu Kone",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/die-naechsten-millionen-bayer-04-kassiert-bei-transfer-von-iker-bravo-kraeftig-mit-1238402/artikel#omrss",
   "fee": null,
   "published": "2026-07-24T13:55:49+00:00"
- },
- {
-  "id": "a6ec702b7b63",
-  "title": "Report Pirlo as Italy coach will be official soon, contract to 2030 World Cup",
-  "player": "Andrea Pirlo",
-  "title_ko": "피를로를 이탈리아 감독으로 곧 공식 부임하고 2030년 월드컵에 계약할 예정이라고 보고",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-pirlo-italy-coach-will-be-official-soon/",
-  "fee": null,
-  "published": "2026-07-24T13:24:42+00:00"
  }
 ]
