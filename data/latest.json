@@ -1,5 +1,18 @@
 [
  {
+  "id": "0962016bac9f",
+  "title": "Man Utd news: Manu Kone agreement reached as player requests Old Trafford move",
+  "player": "Manu Kone",
+  "title_ko": "맨유 뉴스: 선수가 올드 트래포드 이적을 요청하면서 마누 코네 합의가 이루어졌습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-kone-baleba-37478404",
+  "fee": null,
+  "published": "2026-07-27T03:30:00+00:00"
+ },
+ {
   "id": "af92b42ea0c1",
   "title": "Arsenal news: Big Vinicius Jr transfer update as target tries to force move",
   "player": "Big Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-pirlo-italy-coach-will-be-official-soon/",
   "fee": null,
   "published": "2026-07-24T13:24:42+00:00"
- },
- {
-  "id": "10e2df928d59",
-  "title": "Two West Ham transfers sum up mad market - but the spending is not going to stop",
-  "player": "Crysencio Summerville",
-  "title_ko": "두 번의 웨스트햄 이적은 미친 시장을 요약하지만 지출은 멈추지 않을 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-west-ham-37472123",
-  "fee": null,
-  "published": "2026-07-24T12:12:14+00:00"
  }
 ]
