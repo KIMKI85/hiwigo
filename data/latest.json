@@ -1,5 +1,18 @@
 [
  {
+  "id": "326e45d57f51",
+  "title": "Mercato: le PSG serait intéressé par Zion Suzuki, selon la presse italienne",
+  "player": "Zion Suzuki",
+  "title_ko": "Mercato: 이탈리아 언론에 따르면 PSG는 Zion Suzuki에 관심이 있을 것이라고 합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-serait-interesse-par-zion-suzuki-selon-la-presse-italienne_AP-202607270348.html",
+  "fee": null,
+  "published": "2026-07-27T12:34:04+00:00"
+ },
+ {
   "id": "61fba046edb4",
   "title": "7 transfers Man Utd need to complete for Michael Carrick to win silverware this season",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37473482",
   "fee": null,
   "published": "2026-07-25T03:00:00+00:00"
- },
- {
-  "id": "a6ec7ede285a",
-  "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
-  "player": "Leipzig's Diomande",
-  "title_ko": "레알 마드리드는 RB 라이프치히의 디오망드 영입을 위해 매우 유리한 위치에 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
-  "fee": null,
-  "published": "2026-07-24T22:00:00+00:00"
  }
 ]
