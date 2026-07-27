@@ -1,5 +1,18 @@
 [
  {
+  "id": "1591000dd988",
+  "title": "PSG in contact with Parma for Juventus target Suzuki",
+  "player": "Zion Suzuki",
+  "title_ko": "PSG는 유벤투스의 타겟인 스즈키를 위해 파르마와 접촉하고 있습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-in-contact-with-parma-for-suzuki/",
+  "fee": null,
+  "published": "2026-07-27T11:54:24+00:00"
+ },
+ {
   "id": "3b01c8494fb6",
   "title": "Brighton captain Symonds signs new 'long-term' deal",
   "player": "Maisie Symonds",
@@ -1284,19 +1297,6 @@
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
   "fee": "£85M",
-  "published": "2026-07-24T22:00:00+00:00"
- },
- {
-  "id": "cb69d07c33db",
-  "title": "Papers: Premier League clubs plotting Watkins bid",
-  "player": null,
-  "title_ko": "논문: 프리미어 리그 클럽들이 왓킨스의 입찰을 계획하고 있습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566763/paper-talk-manchester-united-and-arsenal-plotting-ollie-watkins-bid",
-  "fee": null,
   "published": "2026-07-24T22:00:00+00:00"
  }
 ]
