@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b7aa2441115",
+  "title": "Man Utd announce goalkeeper transfer as Michael Carrick greenlights two exits",
+  "player": "Michael Carrick",
+  "title_ko": "맨유는 마이클 캐릭이 두 번의 퇴장을 승인하자 골키퍼 이적을 발표했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-kit-margetson-37480291",
+  "fee": null,
+  "published": "2026-07-27T09:58:51+00:00"
+ },
+ {
   "id": "b706bf06c0c7",
   "title": "Arsenal and Newcastle agreement ‘days away’ as Bruno Guimaraes transfer talks accelerated",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cevmx0y88vwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-24T19:29:18+00:00"
- },
- {
-  "id": "0221e3ea730f",
-  "title": "Done Deal: Monza agreement for Benfica striker Varela at €2m plus bonus",
-  "player": "Gustavo Varela",
-  "title_ko": "완료된 거래: 벤피카의 스트라이커 바렐라에 대한 몬자 계약에 €2m + 보너스",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-monza-agreement-benfica-striker-varela/",
-  "fee": "€2M",
-  "published": "2026-07-24T18:07:46+00:00"
  }
 ]
