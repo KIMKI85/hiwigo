@@ -1,5 +1,18 @@
 [
  {
+  "id": "58af38dc7e28",
+  "title": "Done Deals: Castro, Dovbyk, Amondarain and Diawara medicals for July 28",
+  "player": "Santiago Castro",
+  "title_ko": "완료된 거래: 7월 28일 Castro, Dovbyk, Amondarain 및 Diawara 의료",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deals-castro-dovbyk-amondarain-diawara/",
+  "fee": null,
+  "published": "2026-07-27T16:56:05+00:00"
+ },
+ {
   "id": "c3345c41ca17",
   "title": "Karetsas vor Wechsel zum BVB: Einigung mit Genk erzielt",
   "player": "Der Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-a-contacte-manchester-city-pour-le-champion-du-monde-rodri_AV-202607250229.html",
   "fee": null,
   "published": "2026-07-25T13:53:21+00:00"
- },
- {
-  "id": "a6f281b68220",
-  "title": "Mercato: Vinicius Junior dans le viseur d'Arsenal",
-  "player": "Vinicius Junior",
-  "title_ko": "메르카토: 아스날의 시야에 있는 비니시우스 주니어",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-vinicius-junior-dans-le-viseur-d-arsenal_AV-202607250222.html",
-  "fee": null,
-  "published": "2026-07-25T13:32:15+00:00"
  }
 ]
