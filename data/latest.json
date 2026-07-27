@@ -1,5 +1,31 @@
 [
  {
+  "id": "482d1cd5c808",
+  "title": "Report Stones has verbal agreement for 2-year Inter contract",
+  "player": "Sky Sport Italia",
+  "title_ko": "리포트 스톤즈, 인테르와 2년 계약 구두 합의",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-stones-verbal-agreement-inter-contract/",
+  "fee": null,
+  "published": "2026-07-27T18:11:14+00:00"
+ },
+ {
+  "id": "49d419dd098d",
+  "title": "Chelsea want Jordan Henderson as Xabi Alonso lines up another shock signing",
+  "player": "Jordan Henderson",
+  "title_ko": "첼시는 사비 알론소가 또 다른 충격적인 영입을 준비하면서 조던 헨더슨을 원한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-jordan-henderson-danny-welbeck-37482827",
+  "fee": null,
+  "published": "2026-07-27T18:05:25+00:00"
+ },
+ {
   "id": "01707a93b236",
   "title": "Man Utd star takes drastic action as Ruben Amorim plots transfer reunion",
   "player": "Ruben Amorim",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/napoli-weighing-up-move-ex-juventus-vlahovic/",
   "fee": null,
   "published": "2026-07-25T15:31:18+00:00"
- },
- {
-  "id": "b6c3eeb67b26",
-  "title": "Eddie Howe makes telling Bruno Guimaraes transfer admission as Arsenal prepare £70m bid",
-  "player": "Eddie Howe",
-  "title_ko": "Eddie Howe는 Arsenal이 £70m 입찰을 준비하는 동안 Bruno Guimaraes의 이적 승인을 알렸습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/howe-bruno-guimaraes-arsenal-transfer-37476244",
-  "fee": "£70M",
-  "published": "2026-07-25T15:07:52+00:00"
- },
- {
-  "id": "e52ece7267bb",
-  "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
-  "player": "Madrid's Vinicius",
-  "title_ko": "레알 마드리드의 비니시우스 주니어에 대한 아스날의 영입 협상",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
-  "fee": null,
-  "published": "2026-07-25T14:45:00+00:00"
  }
 ]
