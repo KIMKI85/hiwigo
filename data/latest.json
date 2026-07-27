@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f5cc613aa85",
+  "title": "Lazio can secure Broja from Burnley on loan with option to buy",
+  "player": "Armando Broja",
+  "title_ko": "라치오는 구매 옵션을 통해 번리로부터 브로야를 임대로 확보할 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-can-secure-broja-from-burnley-on-loan/",
+  "fee": null,
+  "published": "2026-07-27T15:33:09+00:00"
+ },
+ {
   "id": "c1ce30874aaf",
   "title": "Karetsas battle hots up, Milan present vision and Borussia Dortmund raise bid",
   "player": "Ruben Amorim",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-lee-lacroix-rodri-les-5-infos-mercato-du-25-juillet-a-la-mi-journee_VN-202607250178.html",
   "fee": null,
   "published": "2026-07-25T10:25:46+00:00"
- },
- {
-  "id": "24591c15f78d",
-  "title": "Paralluelo wechselt nach Lyon",
-  "player": "Salma Paralluelo",
-  "title_ko": "파랄루엘로가 리옹으로 이적",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/paralluelo-wechselt-nach-lyon-1238531/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-25T10:17:11+00:00"
  }
 ]
