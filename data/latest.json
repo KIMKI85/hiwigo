@@ -1,5 +1,18 @@
 [
  {
+  "id": "61fba046edb4",
+  "title": "7 transfers Man Utd need to complete for Michael Carrick to win silverware this season",
+  "player": "Michael Carrick",
+  "title_ko": "이번 시즌 마이클 캐릭이 우승하려면 맨유가 7번의 이적을 완료해야 한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37479869",
+  "fee": null,
+  "published": "2026-07-27T12:00:03+00:00"
+ },
+ {
   "id": "1591000dd988",
   "title": "PSG in contact with Parma for Juventus target Suzuki",
   "player": "Zion Suzuki",
@@ -1284,19 +1297,6 @@
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
   "fee": null,
-  "published": "2026-07-24T22:00:00+00:00"
- },
- {
-  "id": "469a6473e9fc",
-  "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
-  "player": "Yan Diomande",
-  "title_ko": "레알 마드리드는 리버풀 타겟인 디오망드에 대한 £85m의 제의를 거부했습니다.",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
-  "fee": "£85M",
   "published": "2026-07-24T22:00:00+00:00"
  }
 ]
