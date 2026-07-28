@@ -1,5 +1,18 @@
 [
  {
+  "id": "ec8c5c917707",
+  "title": "Aston Villa latest: Digne to join PSG after his holiday",
+  "player": null,
+  "title_ko": "Aston Villa 최신: Digne, 휴가 후 PSG에 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-07-28T11:32:00+00:00"
+ },
+ {
   "id": "f8a2a48d5f67",
   "title": "10 Liverpool deals that have changed the reputation of the Anfield transfer plan",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-diomande-rodri-guimaraes-les-5-infos-mercato-du-26-juillet-a-midi_VN-202607260162.html",
   "fee": null,
   "published": "2026-07-26T10:50:28+00:00"
- },
- {
-  "id": "5bd739432d0a",
-  "title": "Arsenal medical done as signing is agreed hours after Vinicius Jr transfer update",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어 이적 업데이트 후 몇 시간 만에 계약에 따라 아스날 메디컬이 완료되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-real-madrid-vini-jr-37477893",
-  "fee": null,
-  "published": "2026-07-26T10:44:50+00:00"
  }
 ]
