@@ -1,5 +1,18 @@
 [
  {
+  "id": "bc52d53126d4",
+  "title": "Mercato: Julian Alvarez bientôt obligé de présenter ses excuses à l'Atlético de Madrid?",
+  "player": "Julian Alvarez",
+  "title_ko": "메르카토: 줄리안 알바레즈가 곧 아틀레티코 마드리드에 사과해야 한다고?",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-julian-alvarez-bientot-oblige-de-presenter-ses-excuses-a-l-atletico-de-madrid_AV-202607280588.html",
+  "fee": null,
+  "published": "2026-07-28T21:46:31+00:00"
+ },
+ {
   "id": "29a4f7898091",
   "title": "Barcola agrees Liverpool move - Wednesday's gossip",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-27T10:26:36+00:00"
- },
- {
-  "id": "1b7aa2441115",
-  "title": "Man Utd announce goalkeeper transfer as Michael Carrick greenlights two exits",
-  "player": "Michael Carrick",
-  "title_ko": "맨유는 마이클 캐릭이 두 번의 퇴장을 승인하자 골키퍼 이적을 발표했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-kit-margetson-37480291",
-  "fee": null,
-  "published": "2026-07-27T09:58:51+00:00"
  }
 ]
