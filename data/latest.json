@@ -1,5 +1,44 @@
 [
  {
+  "id": "d2237da35b23",
+  "title": "Would Leeds move help Trafford oust Pickford from England team?",
+  "player": "James Trafford's England",
+  "title_ko": "리즈의 움직임이 트래포드가 잉글랜드 팀에서 픽포드를 쫓아내는 데 도움이 될까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T16:28:44+00:00"
+ },
+ {
+  "id": "f8ac409b9694",
+  "title": "Mercato: pourquoi un transfert de Barcola pourrait faire du bien aux finances de l'OL (même sans pourcentage à la revente)",
+  "player": "Bradley Barcola",
+  "title_ko": "Mercato: Barcola로부터의 이전이 OL의 재정에 도움이 될 수 있는 이유(재판매 비율이 없더라도)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-un-transfert-de-barcola-pourrait-faire-du-bien-aux-finances-de-l-ol-meme-sans-pourcentage-a-la-revente_AV-202607280472.html",
+  "fee": null,
+  "published": "2026-07-28T16:18:38+00:00"
+ },
+ {
+  "id": "3a3430ceb0e4",
+  "title": "Chelsea set to sign Italy's Dragoni from Barcelona",
+  "player": "Italy's Dragoni",
+  "title_ko": "첼시는 바르셀로나에서 이탈리아의 드라고니를 영입할 예정이다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T16:18:21+00:00"
+ },
+ {
   "id": "2b294185f066",
   "title": "Mercato: des discussions entre l'OM et le Bayer Leverkusen pour Facundo Medina",
   "player": "Facundo Medina",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/friendly-action-atalanta-ederson-target-lazio/",
   "fee": null,
   "published": "2026-07-26T20:13:48+00:00"
- },
- {
-  "id": "0867ceae9db2",
-  "title": "PSG pull out of Diomande race - Real confident of signing forward",
-  "player": "Yan Diomande",
-  "title_ko": "PSG는 디오망드 경쟁에서 탈락 - 앞으로 계약할 자신이 있음",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian",
-  "fee": null,
-  "published": "2026-07-26T20:00:00+00:00"
- },
- {
-  "id": "851ffec3a042",
-  "title": "Jadon Sancho finally receives shock contract offer months after Man Utd exit",
-  "player": "Jadon Sancho",
-  "title_ko": "Jadon Sancho는 Man Utd가 떠난 지 몇 달 만에 마침내 충격적인 계약 제안을 받았습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-man-utd-transfer-37479071",
-  "fee": null,
-  "published": "2026-07-26T19:59:40+00:00"
- },
- {
-  "id": "510196919b5c",
-  "title": "Mercato: ce sera le Real Madrid plutôt que le PSG pour Yan Diomandé, les dessous d'un transfert XXL",
-  "player": "Yan Diomandé",
-  "title_ko": "메르카토: XXL 이적의 밑바닥인 얀 디오만데는 PSG가 아닌 레알 마드리드가 될 것이다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ce-sera-le-real-madrid-plutot-que-le-psg-pour-yan-diomande-les-dessous-d-un-transfert-xxl_AV-202607260282.html",
-  "fee": null,
-  "published": "2026-07-26T19:37:48+00:00"
  }
 ]

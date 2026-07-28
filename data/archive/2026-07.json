@@ -1,5 +1,44 @@
 [
  {
+  "id": "d2237da35b23",
+  "title": "Would Leeds move help Trafford oust Pickford from England team?",
+  "player": "James Trafford's England",
+  "title_ko": "리즈의 움직임이 트래포드가 잉글랜드 팀에서 픽포드를 쫓아내는 데 도움이 될까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T16:28:44+00:00"
+ },
+ {
+  "id": "f8ac409b9694",
+  "title": "Mercato: pourquoi un transfert de Barcola pourrait faire du bien aux finances de l'OL (même sans pourcentage à la revente)",
+  "player": "Bradley Barcola",
+  "title_ko": "Mercato: Barcola로부터의 이전이 OL의 재정에 도움이 될 수 있는 이유(재판매 비율이 없더라도)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-un-transfert-de-barcola-pourrait-faire-du-bien-aux-finances-de-l-ol-meme-sans-pourcentage-a-la-revente_AV-202607280472.html",
+  "fee": null,
+  "published": "2026-07-28T16:18:38+00:00"
+ },
+ {
+  "id": "3a3430ceb0e4",
+  "title": "Chelsea set to sign Italy's Dragoni from Barcelona",
+  "player": "Italy's Dragoni",
+  "title_ko": "첼시는 바르셀로나에서 이탈리아의 드라고니를 영입할 예정이다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T16:18:21+00:00"
+ },
+ {
   "id": "2b294185f066",
   "title": "Mercato: des discussions entre l'OM et le Bayer Leverkusen pour Facundo Medina",
   "player": "Facundo Medina",
