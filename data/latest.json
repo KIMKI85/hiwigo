@@ -1,5 +1,31 @@
 [
  {
+  "id": "24501525faf5",
+  "title": "Vierte Millionenablöse der Karriere: Dorsch wechselt in die MLS nach Kanada",
+  "player": "Vierte Millionenablöse",
+  "title_ko": "그의 경력 4번째 백만 달러 이적: Dorsch는 캐나다 MLS로 이적합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/vierte-millionenabloese-der-karriere-dorsch-wechselt-in-die-mls-nach-kanada-1237680/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T15:22:27+00:00"
+ },
+ {
+  "id": "fb187c3bf74d",
+  "title": "Man Utd learn Iliman Ndiaye asking price in transfer battle for Everton star",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨유는 에버턴 스타의 이적 경쟁에서 가격을 요구하는 일리만 은디아예를 배운다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-iliman-ndiaye-everton-37485684",
+  "fee": null,
+  "published": "2026-07-28T15:16:34+00:00"
+ },
+ {
   "id": "3e9c242c6e15",
   "title": "Badiashile targeted by Napoli, but Chelsea agreement unlikely at €30m",
   "player": "Benoit Badiashile",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/bennacer-flies-out-for-new-job-in-qatar-milan/",
   "fee": null,
   "published": "2026-07-26T17:21:09+00:00"
- },
- {
-  "id": "ebed53621f37",
-  "title": "Wantaway Tottenham star emerges on Arsenal and Chelsea radar in transfer twist",
-  "player": null,
-  "title_ko": "원하는 토트넘 스타가 이적 트위스트에서 아스날과 첼시 레이더에 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-tottenham-chelsea-transfer-news-37478777",
-  "fee": null,
-  "published": "2026-07-26T17:11:19+00:00"
- },
- {
-  "id": "bd22f686e7a9",
-  "title": "Arsenal's two conditions for Bruno Guimaraes transfer as Gunners set to make next move",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑스 이적을 위한 아스날의 두 가지 조건, 거너스의 다음 행보 준비",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-bruno-guimaraes-newcastle-37478684",
-  "fee": null,
-  "published": "2026-07-26T16:23:44+00:00"
  }
 ]
