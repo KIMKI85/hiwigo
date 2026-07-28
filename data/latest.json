@@ -1,5 +1,18 @@
 [
  {
+  "id": "8fbb62c8cb39",
+  "title": "Xabi Alonso drops telling hint over Chelsea’s Jordan Henderson and Danny Welbeck transfers",
+  "player": "Xabi Alonso",
+  "title_ko": "사비 알론소는 첼시의 조던 헨더슨과 대니 웰벡 이적에 대한 힌트를 던졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-alonso-henderson-welbeck-37487236",
+  "fee": null,
+  "published": "2026-07-28T17:00:34+00:00"
+ },
+ {
   "id": "89340a744bb0",
   "title": "Lazio shocked at Markmann refusal to complete €6m move from Nordsjaelland",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-transfer-real-madrid-37478336",
   "fee": null,
   "published": "2026-07-27T03:00:00+00:00"
- },
- {
-  "id": "db8775212d22",
-  "title": "Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
-  "player": "Yan Diomande",
-  "title_ko": "레알 마드리드는 PSG가 이적을 철회한 후 Yan Diomande와의 계약을 체결할 준비가 되어 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-seal-deal-for-yan-diomande-after-psg-pull-out-of-move",
-  "fee": null,
-  "published": "2026-07-26T21:55:32+00:00"
  }
 ]
