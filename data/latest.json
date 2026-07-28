@@ -1,5 +1,31 @@
 [
  {
+  "id": "670ed46238ce",
+  "title": "Newcastle sign Liverpool forward Kiernan",
+  "player": "Leanne Kiernan",
+  "title_ko": "뉴캐슬, 리버풀의 공격수 키어넌 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T09:02:04+00:00"
+ },
+ {
+  "id": "c04c8c1a3823",
+  "title": "Man Utd stance on hijacking Chelsea's Danny Welbeck transfer after secret talks",
+  "player": "Chelsea's Danny Welbeck",
+  "title_ko": "비밀 회담 이후 첼시의 대니 웰벡 이적을 가로채는 것에 대한 맨유의 입장",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-danny-welbeck-chelsea-37483897",
+  "fee": null,
+  "published": "2026-07-28T09:01:12+00:00"
+ },
+ {
   "id": "505126bf9cf6",
   "title": "Mercato: la contre-attaque du Real Madrid face à Arsenal dans le dossier Vinicius",
   "player": "Sky Sports",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-07-26T08:21:00+00:00"
- },
- {
-  "id": "cbcc10a9f821",
-  "title": "Liverpool dealing with 'the worst news' as Andoni Iraola makes transfer demand",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀은 안도니 이라올라의 이적 요구로 '최악의 소식'을 다루고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-iraola-gomez-injury-fitness-37477321",
-  "fee": null,
-  "published": "2026-07-26T07:19:19+00:00"
- },
- {
-  "id": "7a0ff42df83f",
-  "title": "Transfer news LIVE: Vini Jr to Arsenal latest, Man Utd's Manu Kone move, Yan Diomande deal",
-  "player": "Vini Jr",
-  "title_ko": "이적 뉴스 라이브: Vini Jr에서 Arsenal로 최신, Man Utd의 Manu Kone 이동, Yan Diomande 거래",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-vini-jr-37477274",
-  "fee": null,
-  "published": "2026-07-26T06:50:39+00:00"
  }
 ]
