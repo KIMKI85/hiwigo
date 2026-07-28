@@ -1,5 +1,44 @@
 [
  {
+  "id": "e3157ef6187a",
+  "title": "Napoli ready for new Lindstrom loan to Schalke 04",
+  "player": "Jesper Lindstrom",
+  "title_ko": "나폴리는 린드스트롬을 샬케 04로 임대할 준비가 되어있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-ready-for-new-lindstrom-loan-schalke-04/",
+  "fee": null,
+  "published": "2026-07-28T18:59:43+00:00"
+ },
+ {
+  "id": "1a4a7ce0d53a",
+  "title": "Nächste Leihe: Skov Olsen verlässt Wolfsburg in Richtung Istanbul",
+  "player": "Nächste Leihe",
+  "title_ko": "다음 임대: 스코브 올센(Skov Olsen)은 볼프스부르크를 떠나 이스탄불로 향합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/naechste-leihe-skov-olsen-verlaesst-wolfsburg-in-richtung-istanbul-1239237/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T18:52:25+00:00"
+ },
+ {
+  "id": "66f70d71c4c9",
+  "title": "Nigeria international Akpoguma flies in for Frosinone medical as free agent",
+  "player": "Kevin Akpoguma",
+  "title_ko": "나이지리아 국가대표 악포구마(Akpoguma)가 프로시논 메디컬(Frosinone Medical)에 FA로 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/nigeria-akpoguma-frosinone-medical-free-agent/",
+  "fee": null,
+  "published": "2026-07-28T18:51:17+00:00"
+ },
+ {
   "id": "5bd3b92f11da",
   "title": "Real Madrid take bold Vinicius Jr transfer stance as Arsenal learn reality to make deal happen",
   "player": "Vinicius Jr",
