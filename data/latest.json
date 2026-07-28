@@ -1,5 +1,31 @@
 [
  {
+  "id": "406af0d44d17",
+  "title": "Thierry Henry slammed Jose Mourinho for treatment of Vinicius Jr as Arsenal move arises",
+  "player": "Thierry Henry",
+  "title_ko": "티에리 앙리는 아스날 이적이 다가오면서 비니시우스 주니어를 치료한 조세 무리뉴를 비난했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-transfer-mourinho-racism-37479595",
+  "fee": null,
+  "published": "2026-07-28T05:30:00+00:00"
+ },
+ {
+  "id": "30eac56ac8cd",
+  "title": "'I was set to join Real Madrid but Liverpool boss rang and I joined them instead'",
+  "player": null,
+  "title_ko": "'나는 레알 마드리드에 합류할 예정이었지만 리버풀 감독이 전화를 걸어 대신 합류했다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/real-madrid-liverpool-transfer-manager-37480042",
+  "fee": null,
+  "published": "2026-07-28T05:30:00+00:00"
+ },
+ {
   "id": "c8e80c4b75a7",
   "title": "Arsenal's dream attack as Vinicius joins from Real Madrid and £51.7m swap deal agreed",
   "player": "Vinicius Junior",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
   "fee": null,
   "published": "2026-07-25T20:38:00+00:00"
- },
- {
-  "id": "438d402f3013",
-  "title": "Mainka räumt das Thema Wechsel ab - Dorsch vor Transfer nach Kanada",
-  "player": "Thema Wechsel",
-  "title_ko": "Mainka는 캐나다로 이적하기 전에 변화의 주제를 정리합니다 - Dorsch",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/mainka-raeumt-das-thema-wechsel-ab-dorsch-vor-transfer-nach-kanada-1238638/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-25T19:54:01+00:00"
- },
- {
-  "id": "ec2259787925",
-  "title": "El fichaje de Marc-André ter Stegen por el Ajax vuelve a complicarse mucho",
-  "player": null,
-  "title_ko": "Ajax의 Marc-André ter Stegen 영입은 다시 매우 복잡해졌습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/barcelona/2026/07/25/fichaje-marc-andre-ter-stegen-ajax-vuelve-complicarse.html",
-  "fee": null,
-  "published": "2026-07-25T19:34:52+00:00"
  }
 ]
