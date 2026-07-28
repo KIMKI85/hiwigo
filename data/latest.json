@@ -1,5 +1,31 @@
 [
  {
+  "id": "f8a2a48d5f67",
+  "title": "10 Liverpool deals that have changed the reputation of the Anfield transfer plan",
+  "player": null,
+  "title_ko": "안필드 이적 계획의 평판을 바꾼 리버풀 거래 10가지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/10-liverpool-deals-changed-reputation-37484643",
+  "fee": null,
+  "published": "2026-07-28T10:18:33+00:00"
+ },
+ {
+  "id": "03ccf9ab84cd",
+  "title": "Liverpool can grant Bradley Barcola’s first demand after PSG transfer",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG 이적 후 브래들리 바르콜라의 첫 요구를 받아들일 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37484497",
+  "fee": null,
+  "published": "2026-07-28T10:15:58+00:00"
+ },
+ {
   "id": "8c85a5a6ed1e",
   "title": "Mercato: Nabil Fekir devrait rejoindre l'Arabie saoudite",
   "player": "Nabil Fekir",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-real-madrid-vini-jr-37477893",
   "fee": null,
   "published": "2026-07-26T10:44:50+00:00"
- },
- {
-  "id": "b09d5da75ce2",
-  "title": "Mercato: \"Top Gunn Vini\", \"inVINcibles\"… l’intérêt d’Arsenal pour Vinicius enflamme la presse anglaise",
-  "player": "Gunn Vini",
-  "title_ko": "메르카토: \"탑건 비니\", \"inVINcibles\"…비니시우스에 대한 아스날의 관심, 영국 언론에 불붙다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-top-gunn-vini-in-vi-ncibles-l-interet-d-arsenal-pour-vinicius-enflamme-la-presse-anglaise_AV-202607260150.html",
-  "fee": null,
-  "published": "2026-07-26T10:12:52+00:00"
- },
- {
-  "id": "1fecb205fe68",
-  "title": "Lazio target Milan pair Musah and Gimenez",
-  "player": "Yunus Musah",
-  "title_ko": "라치오는 밀란의 무사와 히메네스를 노린다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-target-milan-pair-musah-and-gimenez/",
-  "fee": null,
-  "published": "2026-07-26T10:05:00+00:00"
  }
 ]
