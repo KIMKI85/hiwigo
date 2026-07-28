@@ -1,5 +1,44 @@
 [
  {
+  "id": "5bd3b92f11da",
+  "title": "Real Madrid take bold Vinicius Jr transfer stance as Arsenal learn reality to make deal happen",
+  "player": "Vinicius Jr",
+  "title_ko": "레알 마드리드는 아스날이 거래를 성사시키기 위해 현실을 배우면서 대담한 비니시우스 주니어 이적 입장을 취했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-arsenal-transfer-real-madrid-37487334",
+  "fee": null,
+  "published": "2026-07-28T17:54:56+00:00"
+ },
+ {
+  "id": "80c24fbcb4ad",
+  "title": "Sassuolo agreement for Bowie in €10m deal, Mulattieri to Verona",
+  "player": "Kieron Bowie",
+  "title_ko": "Bowie의 Sassuolo 계약, €10m 계약, Mulattieri와 Verona",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sassuolo-agreement-for-bowie-in-e10m-deal/",
+  "fee": "€10M",
+  "published": "2026-07-28T17:46:26+00:00"
+ },
+ {
+  "id": "62e30d1d8e0f",
+  "title": "Bei Juventus ohne Perspektive: Openda wechselt auf Leihbasis zu Lyon",
+  "player": "Lois Openda",
+  "title_ko": "유벤투스에는 전망이 없습니다: Openda는 임대로 리옹으로 이동합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/bei-juventus-ohne-perspektive-openda-wechselt-auf-leihbasis-zu-lyon-1239227/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T17:42:22+00:00"
+ },
+ {
   "id": "2d8cf5bcc608",
   "title": "Man Utd handed Aurelien Tchouameni timeline hint amid Real Madrid agreement mystery",
   "player": "Aurelien Tchouameni",
