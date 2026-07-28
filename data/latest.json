@@ -1,5 +1,18 @@
 [
  {
+  "id": "c8e80c4b75a7",
+  "title": "Arsenal's dream attack as Vinicius joins from Real Madrid and £51.7m swap deal agreed",
+  "player": "Vinicius Junior",
+  "title_ko": "비니시우스가 레알 마드리드에서 이적하고 £51.7m 스왑 딜이 합의됨에 따라 아스날의 꿈의 공격이 이루어졌습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-alvarez-37479799",
+  "fee": "£51.7M",
+  "published": "2026-07-28T04:30:00+00:00"
+ },
+ {
   "id": "951769bc9e95",
   "title": "Xabi Alonso's dream scenario as £114million duo join along with six-time Premier League winner",
   "player": "Xabi Alonso's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/barcelona/2026/07/25/fichaje-marc-andre-ter-stegen-ajax-vuelve-complicarse.html",
   "fee": null,
   "published": "2026-07-25T19:34:52+00:00"
- },
- {
-  "id": "ea3c20ab2442",
-  "title": "Tzolakis vor Wechsel nach England - Geht Ortega Moreno nach Piräus?",
-  "player": "Geht Ortega Moreno",
-  "title_ko": "영국으로 이주하기 전의 졸라키스 - 오르테가 모레노가 피레우스로 갈까요?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/tzolakis-vor-wechsel-nach-england-geht-ortega-moreno-nach-piraeus-1237357/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-25T19:09:34+00:00"
  }
 ]
