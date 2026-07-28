@@ -1,5 +1,31 @@
 [
  {
+  "id": "eb1b23ffb5a3",
+  "title": "Video: Castro greeted by hundreds of Roma fans ahead of move from Bologna",
+  "player": "Santiago Castro",
+  "title_ko": "비디오: 볼로냐에서 이적하기 전에 수백 명의 로마 팬들이 환영하는 카스트로",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-castro-hundreds-roma-fans-move-bologna/",
+  "fee": null,
+  "published": "2026-07-28T07:56:22+00:00"
+ },
+ {
+  "id": "079669a84fe6",
+  "title": "Frankfurt verpflichtet brasilianisches Abwehrtalent Otavio",
+  "player": "Abwehrtalent Otavio",
+  "title_ko": "프랑크푸르트, 브라질 수비 유망주 오타비오 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/frankfurt-verpflichtet-brasilianisches-abwehrtalent-otavio-1238633/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T07:47:38+00:00"
+ },
+ {
   "id": "c2f4ce5ad6b6",
   "title": "Today’s Papers – Italy’s farce, Maldini leaves already, Stones to join Inter",
   "player": "Stones National",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-tranfers-kone-tchouameni-37475892",
   "fee": null,
   "published": "2026-07-26T03:30:00+00:00"
- },
- {
-  "id": "a1494fad5f98",
-  "title": "Arsenal news: Real Madrid's stance on selling Vinicius Jr as shock Tottenham deal emerges",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 충격적인 토트넘 계약이 등장함에 따라 비니시우스 주니어 판매에 대한 레알 마드리드의 입장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-yan-diomande-tottenham-37475752",
-  "fee": null,
-  "published": "2026-07-26T03:00:00+00:00"
- },
- {
-  "id": "289151e1c302",
-  "title": "Arsenal plot shock Vinicius Jr move - Sunday's gossip",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날의 음모에 충격을 받은 비니시우스 주니어 이적 - 일요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-25T21:21:03+00:00"
  }
 ]

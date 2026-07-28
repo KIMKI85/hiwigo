@@ -1,5 +1,31 @@
 [
  {
+  "id": "eb1b23ffb5a3",
+  "title": "Video: Castro greeted by hundreds of Roma fans ahead of move from Bologna",
+  "player": "Santiago Castro",
+  "title_ko": "비디오: 볼로냐에서 이적하기 전에 수백 명의 로마 팬들이 환영하는 카스트로",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-castro-hundreds-roma-fans-move-bologna/",
+  "fee": null,
+  "published": "2026-07-28T07:56:22+00:00"
+ },
+ {
+  "id": "079669a84fe6",
+  "title": "Frankfurt verpflichtet brasilianisches Abwehrtalent Otavio",
+  "player": "Abwehrtalent Otavio",
+  "title_ko": "프랑크푸르트, 브라질 수비 유망주 오타비오 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/frankfurt-verpflichtet-brasilianisches-abwehrtalent-otavio-1238633/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T07:47:38+00:00"
+ },
+ {
   "id": "c2f4ce5ad6b6",
   "title": "Today’s Papers – Italy’s farce, Maldini leaves already, Stones to join Inter",
   "player": "Stones National",
