@@ -1,5 +1,31 @@
 [
  {
+  "id": "d744b83de8b8",
+  "title": "Bradley Barcola transfer timeline for Liverpool switch becomes clear during talks",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 이적을 위한 브래들리 바르콜라의 이적 일정은 회담 중 명확해졌습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-latest-37485561",
+  "fee": null,
+  "published": "2026-07-28T12:35:17+00:00"
+ },
+ {
+  "id": "5873c02299d5",
+  "title": "OM: \"Il faut savoir être patients\", Genesio évoque le mercato qui \"a du mal à démarrer\"",
+  "player": "Bruno Genesio",
+  "title_ko": "OM: “인내심을 가져야 한다”, 제네시오는 “시작하기 어렵다”는 이적 시장에 대해 이야기한다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/om-il-faut-savoir-etre-patients-genesio-evoque-le-mercato-qui-a-du-mal-a-demarrer_AV-202607280382.html",
+  "fee": null,
+  "published": "2026-07-28T12:35:05+00:00"
+ },
+ {
   "id": "2f9ac8cd772c",
   "title": "Hampton signs two-year Chelsea deal",
   "player": "Hannah Hampton",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-arsenal-barcola-psg-future-37478261",
   "fee": null,
   "published": "2026-07-26T13:44:42+00:00"
- },
- {
-  "id": "f6c2c6d994b6",
-  "title": "Arsenal learn fee and transfer conditions to sign Vinicius Jr from Real Madrid",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 레알 마드리드에서 비니시우스 주니어를 영입하기 위한 수수료와 이적 조건을 알아봅니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-vinicius-junior-37478284",
-  "fee": null,
-  "published": "2026-07-26T13:40:33+00:00"
- },
- {
-  "id": "d5da8e84f385",
-  "title": "Mercato: Liverpool pousse pour Barcola, le PSG fixe un prix record en cas de départ",
-  "player": "Bradley Barcola",
-  "title_ko": "메르카토: 리버풀은 바르콜라를 원하고 PSG는 이적시 기록적인 가격을 세웠습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-liverpool-pousse-pour-barcola-le-psg-fixe-un-prix-record-en-cas-de-depart_AV-202607260189.html",
-  "fee": null,
-  "published": "2026-07-26T13:31:14+00:00"
  }
 ]
