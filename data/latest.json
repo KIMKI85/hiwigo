@@ -91,6 +91,19 @@
   "published": "2026-07-28T08:26:48+00:00"
  },
  {
+  "id": "1e536a5692fb",
+  "title": "Augsburgs Ex-Sportdirektor Jurendic wechselt zurück zum Schweizer Verband",
+  "player": "Augsburgs Ex-",
+  "title_ko": "아우크스부르크의 전 스포츠 디렉터 유렌딕이 스위스 협회로 복귀합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/augsburgs-ex-sportdirektor-jurendic-wechselt-zurueck-zum-schweizer-verband-1239120/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T08:26:17+00:00"
+ },
+ {
   "id": "420e5e8d7e17",
   "title": "\"Kann ein Unterschiedsspieler sein\": Fortuna verpflichtet Förster",
   "player": "Philipp Förster",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-target-milan-pair-musah-and-gimenez/",
   "fee": null,
   "published": "2026-07-26T10:05:00+00:00"
- },
- {
-  "id": "4cccdde7b21c",
-  "title": "Yan Diomande double ‘verbal agreement’ reached as Arsenal get boost in Vinicius Jr transfer",
-  "player": "Yan Diomande",
-  "title_ko": "아스날이 비니시우스 주니어 이적에 박차를 가하면서 Yan Diomande의 이중 '언어적 합의'가 이루어졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/diomande-vinicius-jr-transfer-arsenal-37477494",
-  "fee": null,
-  "published": "2026-07-26T08:25:33+00:00"
  }
 ]
