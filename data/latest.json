@@ -1,5 +1,18 @@
 [
  {
+  "id": "34793552edec",
+  "title": "Liverpool news: Bradley Barcola gives transfer green light as target agrees huge move",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라가 타겟이 큰 이적에 동의함에 따라 이적 허가를 내렸습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-psg-bradley-barcola-transfer-37481175",
+  "fee": null,
+  "published": "2026-07-28T04:00:00+00:00"
+ },
+ {
   "id": "83ccf5acc497",
   "title": "Man Utd news: Michael Carrick's fifth transfer confirmed as Alex Scott move takes new twist",
   "player": "Michael Carrick's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-united-transfer-37475617",
   "fee": null,
   "published": "2026-07-25T19:00:00+00:00"
- },
- {
-  "id": "2df7ab5c30c5",
-  "title": "Done deals: Inter have contract agreements in place for Esposito and Bisseck",
-  "player": "Yann Bisseck",
-  "title_ko": "거래 완료: Inter는 Esposito와 Bisseck에 대한 계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-contract-agreements-for-esposito-bisseck/",
-  "fee": null,
-  "published": "2026-07-25T18:58:11+00:00"
  }
 ]
