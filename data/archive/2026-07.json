@@ -1,5 +1,57 @@
 [
  {
+  "id": "94844c07430f",
+  "title": "Liverpool given free run at Bradley Barcola as Arsenal make transfer decision",
+  "player": "Bradley Barcola",
+  "title_ko": "아스날이 이적 결정을 내리면서 리버풀은 브래들리 바르콜라에게 프리런을 허용했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-arsenal-psg-37483808",
+  "fee": null,
+  "published": "2026-07-28T08:38:04+00:00"
+ },
+ {
+  "id": "d2caa5d27893",
+  "title": "Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
+  "player": "Francisco Conceição",
+  "title_ko": "축구 이적 루머: 맨체스터 유나이티드가 유베의 프란시스코 콘세이상을 영입할 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus",
+  "fee": null,
+  "published": "2026-07-28T08:33:36+00:00"
+ },
+ {
+  "id": "5e1d94400eb5",
+  "title": "Mohamed Salah transfer at risk of collapse as new club enters race for Liverpool legend",
+  "player": "Mohamed Salah",
+  "title_ko": "모하메드 살라, 새 클럽이 리버풀 레전드 경쟁에 돌입하면서 이적 위기에 직면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-next-club-bestikas-37483967",
+  "fee": null,
+  "published": "2026-07-28T08:26:48+00:00"
+ },
+ {
+  "id": "420e5e8d7e17",
+  "title": "\"Kann ein Unterschiedsspieler sein\": Fortuna verpflichtet Förster",
+  "player": "Philipp Förster",
+  "title_ko": "“차별화된 플레이어가 될 수 있습니다”: Fortuna가 Förster와 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/kann-ein-unterschiedsspieler-sein-fortuna-verpflichtet-foerster-1239088/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T08:25:21+00:00"
+ },
+ {
   "id": "eb1b23ffb5a3",
   "title": "Video: Castro greeted by hundreds of Roma fans ahead of move from Bologna",
   "player": "Santiago Castro",
