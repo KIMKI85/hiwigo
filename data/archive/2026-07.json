@@ -1,5 +1,31 @@
 [
  {
+  "id": "2f9ac8cd772c",
+  "title": "Hampton signs two-year Chelsea deal",
+  "player": "Hannah Hampton",
+  "title_ko": "햄튼, 첼시와 2년 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567742/hannah-hampton-chelsea-goalkeeper-signs-new-two-year-contract-to-extend-stay-at-stamford-bridge",
+  "fee": null,
+  "published": "2026-07-28T12:30:00+00:00"
+ },
+ {
+  "id": "f5b7c076a615",
+  "title": "England keeper Hampton extends deal at Chelsea",
+  "player": "Hannah Hampton",
+  "title_ko": "잉글랜드 골키퍼 햄튼, 첼시와 계약 연장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gvew81dd0o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-28T11:34:05+00:00"
+ },
+ {
   "id": "ec8c5c917707",
   "title": "Aston Villa latest: Digne to join PSG after his holiday",
   "player": null,
@@ -11,6 +37,32 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-07-28T11:32:00+00:00"
+ },
+ {
+  "id": "381a5298a370",
+  "title": "Orbans Wechsel in die Wüste geplatzt - Gulacsi vor Absprung aus Leipzig",
+  "player": "Orbans Wechsel",
+  "title_ko": "오르반의 이적은 사막에서 실패했다 - 라이프치히를 떠나기 전 굴락시",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/orbans-wechsel-in-die-wueste-geplatzt-gulacsi-vor-absprung-aus-leipzig-1238631/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-28T11:31:38+00:00"
+ },
+ {
+  "id": "08afd272c041",
+  "title": "Vinicius Jr has already promised to join club as Arsenal handed transfer timeline",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어는 아스날이 이적 일정을 제시함에 따라 이미 클럽 합류를 약속했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-madrid-37484708",
+  "fee": null,
+  "published": "2026-07-28T11:28:54+00:00"
  },
  {
   "id": "b443ce6037c5",
