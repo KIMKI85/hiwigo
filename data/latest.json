@@ -13,6 +13,32 @@
   "published": "2026-07-28T12:30:00+00:00"
  },
  {
+  "id": "30cca3094a8c",
+  "title": "Xabi Alonso left with easy transfer decision as Chelsea win Western Sydney Wanderers goalfest",
+  "player": "Xabi Alonso",
+  "title_ko": "사비 알론소는 첼시가 서부 시드니 원더러스 골페스트에서 승리하면서 쉬운 이적 결정을 내리고 떠났습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/match-reports/chelsea-western-sydney-wanderers-delap-37485238",
+  "fee": null,
+  "published": "2026-07-28T11:46:40+00:00"
+ },
+ {
+  "id": "ba310813a7af",
+  "title": "Sunderland close in on Dayann Methalie signing after Newcastle back off",
+  "player": "Dayann Methalie",
+  "title_ko": "선더랜드는 뉴캐슬이 물러난 후 다얀 메탈리의 영입에 가까워졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/28/sunderland-newcastle-transfer-window-dayann-methalie",
+  "fee": null,
+  "published": "2026-07-28T11:40:41+00:00"
+ },
+ {
   "id": "f5b7c076a615",
   "title": "England keeper Hampton extends deal at Chelsea",
   "player": "Hannah Hampton",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-liverpool-pousse-pour-barcola-le-psg-fixe-un-prix-record-en-cas-de-depart_AV-202607260189.html",
   "fee": null,
   "published": "2026-07-26T13:31:14+00:00"
- },
- {
-  "id": "142bb3733fdf",
-  "title": "Liverpool sent strong Michael Olise transfer warning by Bayern Munich chief",
-  "player": "Michael Olise",
-  "title_ko": "리버풀은 바이에른 뮌헨의 수장에게 마이클 올리세에게 강력한 이적 경고를 보냈다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-michael-olise-bayern-munich-37478033",
-  "fee": null,
-  "published": "2026-07-26T12:39:50+00:00"
- },
- {
-  "id": "ec4a16f15d55",
-  "title": "Real Madrid told to approve Arsenal's Vinicius transfer because 'they cannot rely' on him",
-  "player": "Arsenal's Vinicius",
-  "title_ko": "레알 마드리드는 아스날의 비니시우스에게 '기댈 수 없다'는 이유로 이적을 승인하라는 지시를 받았다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-future-real-madrid-37478044",
-  "fee": null,
-  "published": "2026-07-26T12:37:12+00:00"
  }
 ]

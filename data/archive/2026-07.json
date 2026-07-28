@@ -13,6 +13,32 @@
   "published": "2026-07-28T12:30:00+00:00"
  },
  {
+  "id": "30cca3094a8c",
+  "title": "Xabi Alonso left with easy transfer decision as Chelsea win Western Sydney Wanderers goalfest",
+  "player": "Xabi Alonso",
+  "title_ko": "사비 알론소는 첼시가 서부 시드니 원더러스 골페스트에서 승리하면서 쉬운 이적 결정을 내리고 떠났습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/match-reports/chelsea-western-sydney-wanderers-delap-37485238",
+  "fee": null,
+  "published": "2026-07-28T11:46:40+00:00"
+ },
+ {
+  "id": "ba310813a7af",
+  "title": "Sunderland close in on Dayann Methalie signing after Newcastle back off",
+  "player": "Dayann Methalie",
+  "title_ko": "선더랜드는 뉴캐슬이 물러난 후 다얀 메탈리의 영입에 가까워졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/28/sunderland-newcastle-transfer-window-dayann-methalie",
+  "fee": null,
+  "published": "2026-07-28T11:40:41+00:00"
+ },
+ {
   "id": "f5b7c076a615",
   "title": "England keeper Hampton extends deal at Chelsea",
   "player": "Hannah Hampton",
