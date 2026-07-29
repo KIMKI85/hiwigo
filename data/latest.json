@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ff14e424350",
+  "title": "Man Utd news: Barcelona star’s transfer stance emerges as club ‘in talks’ over £30m deal",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 뉴스: 바르셀로나 스타의 이적 입장은 클럽이 £30m 거래에 대해 '협상 중'으로 드러남",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-barcelona-bernal-37486050",
+  "fee": "£30M",
+  "published": "2026-07-29T03:30:00+00:00"
+ },
+ {
   "id": "bc52d53126d4",
   "title": "Mercato: Julian Alvarez bientôt obligé de présenter ses excuses à l'Atlético de Madrid?",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-mikel-arteta-vinicius-37480090",
   "fee": null,
   "published": "2026-07-27T10:33:09+00:00"
- },
- {
-  "id": "1feb4cd3b661",
-  "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-  "player": "Vinicius Jr's",
-  "title_ko": "레알 마드리드 재계약 협상과 아스날의 관심 - 비니시우스 주니어의 미래는 어떻게 될까요?",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-27T10:26:36+00:00"
  }
 ]
