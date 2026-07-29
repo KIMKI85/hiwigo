@@ -1,5 +1,18 @@
 [
  {
+  "id": "500c2b2db61b",
+  "title": "Welbeck to have Chelsea medical with Blues set to pay first fee for over-26 since 2022",
+  "player": "Danny Welbeck",
+  "title_ko": "웰벡은 첼시 메디컬과 블루스를 2022년부터 26세 이상에 대한 첫 번째 비용을 지불하도록 설정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news",
+  "fee": null,
+  "published": "2026-07-29T09:50:00+00:00"
+ },
+ {
   "id": "872d98416d9d",
   "title": "Arsenal told Real Madrid have 'obligation to sell' Vinicius Jr as Spanish media back transfer",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/zwei-tage-nach-werkself-wechsel-leverkusen-verleiht-erlein-an-cottbus-1238957/artikel#omrss",
   "fee": null,
   "published": "2026-07-27T13:10:24+00:00"
- },
- {
-  "id": "1e75a74e1cee",
-  "title": "Chelsea line up shock Danny Welbeck swoop after Xabi Alonso green lights transfer",
-  "player": "Danny Welbeck",
-  "title_ko": "첼시 라인업은 사비 알론소의 승인 이후 충격적인 대니 웰벡을 급습했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-danny-welbeck-xabi-alonso-37481428",
-  "fee": null,
-  "published": "2026-07-27T12:58:36+00:00"
  }
 ]
