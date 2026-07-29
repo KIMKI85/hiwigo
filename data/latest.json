@@ -1,5 +1,18 @@
 [
  {
+  "id": "2088f428ac15",
+  "title": "Transfer news LIVE: Liverpool move 'agreed', Vinicius Jr to Arsenal, Marcus Rashford swap",
+  "player": "Vinicius Jr",
+  "title_ko": "이적 뉴스 LIVE: 리버풀 이적 '합의', 비니시우스 주니어, 아스널, 마커스 래시포드 스왑",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
+  "fee": null,
+  "published": "2026-07-29T06:12:56+00:00"
+ },
+ {
   "id": "02704b15456f",
   "title": "Liverpool’s dream final month of transfer window as Iraola reunion secured and Barcola signs",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37479869",
   "fee": null,
   "published": "2026-07-27T12:00:03+00:00"
- },
- {
-  "id": "1591000dd988",
-  "title": "PSG in contact with Parma for Juventus target Suzuki",
-  "player": "Zion Suzuki",
-  "title_ko": "PSG는 유벤투스의 타겟인 스즈키를 위해 파르마와 접촉하고 있습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/psg-in-contact-with-parma-for-suzuki/",
-  "fee": null,
-  "published": "2026-07-27T11:54:24+00:00"
  }
 ]
