@@ -1,5 +1,18 @@
 [
  {
+  "id": "8045bb480671",
+  "title": "Official: Bisseck signs new Inter contract after Bayern Munich speculation",
+  "player": "Yann Bisseck",
+  "title_ko": "공식: Bisseck은 바이에른 뮌헨 추측 이후 새로운 인테르 계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-bisseck-new-contract-bayern/",
+  "fee": null,
+  "published": "2026-07-29T13:31:48+00:00"
+ },
+ {
   "id": "3cfa9d372f9e",
   "title": "Done Deal: Kolo Muani to Juventus, obligation to buy €38m plus €12m bonus from PSG",
   "player": "Kolo Muani",
@@ -24,6 +37,32 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-accelere-pour-ayyoub-bouaddi_AV-202607290325.html",
   "fee": null,
   "published": "2026-07-29T13:24:26+00:00"
+ },
+ {
+  "id": "e44a0065f12a",
+  "title": "Kolo Muani, Bouaddi, Barcola… les 5 infos mercato du 29 juillet à la mi-journée",
+  "player": "Kolo Muani",
+  "title_ko": "콜로 무아니, 부아디, 바르콜라…7월 29일 정오부터 5번 이적시장 안내",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-kolo-muani-bouaddi-barcola-les-5-infos-mercato-du-29-juillet-a-la-mi-journee_VN-202607290328.html",
+  "fee": null,
+  "published": "2026-07-29T13:23:18+00:00"
+ },
+ {
+  "id": "e1c2b5838399",
+  "title": "Wolves striker Arokodare joins Ajax on loan",
+  "player": "Tolu Arokodare",
+  "title_ko": "울브스의 스트라이커 아로코다레가 아약스로 임대 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5yvx3l03wno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T13:19:46+00:00"
  },
  {
   "id": "742c0208e19b",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-entre-dayann-methalie-et-sunderland-toulouse-pourrait-signer-la-plus-grosse-vente-de-son-histoire_AV-202607270555.html",
   "fee": null,
   "published": "2026-07-27T19:17:40+00:00"
- },
- {
-  "id": "659a0c8643e8",
-  "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
-  "player": "John Stones",
-  "title_ko": "스톤즈는 아스날과 첼시의 관심 속에 인테르 이적에 구두로 동의했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
-  "fee": null,
-  "published": "2026-07-27T19:14:00+00:00"
- },
- {
-  "id": "07d042f492b7",
-  "title": "Transfer round-up: Lazio talks for Burnley striker, Castro’s Roma medical and more",
-  "player": null,
-  "title_ko": "이적 요약: 번리의 스트라이커, 카스트로의 로마 메디컬 등에 대한 라치오의 대화",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/transfer-round-up-27-july-lazio-burnley-castro/",
-  "fee": null,
-  "published": "2026-07-27T18:30:00+00:00"
- },
- {
-  "id": "482d1cd5c808",
-  "title": "Report Stones has verbal agreement for 2-year Inter contract",
-  "player": "Sky Sport Italia",
-  "title_ko": "리포트 스톤즈, 인테르와 2년 계약 구두 합의",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-stones-verbal-agreement-inter-contract/",
-  "fee": null,
-  "published": "2026-07-27T18:11:14+00:00"
  }
 ]

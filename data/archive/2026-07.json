@@ -1,5 +1,18 @@
 [
  {
+  "id": "8045bb480671",
+  "title": "Official: Bisseck signs new Inter contract after Bayern Munich speculation",
+  "player": "Yann Bisseck",
+  "title_ko": "공식: Bisseck은 바이에른 뮌헨 추측 이후 새로운 인테르 계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-bisseck-new-contract-bayern/",
+  "fee": null,
+  "published": "2026-07-29T13:31:48+00:00"
+ },
+ {
   "id": "3cfa9d372f9e",
   "title": "Done Deal: Kolo Muani to Juventus, obligation to buy €38m plus €12m bonus from PSG",
   "player": "Kolo Muani",
@@ -24,6 +37,32 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-accelere-pour-ayyoub-bouaddi_AV-202607290325.html",
   "fee": null,
   "published": "2026-07-29T13:24:26+00:00"
+ },
+ {
+  "id": "e44a0065f12a",
+  "title": "Kolo Muani, Bouaddi, Barcola… les 5 infos mercato du 29 juillet à la mi-journée",
+  "player": "Kolo Muani",
+  "title_ko": "콜로 무아니, 부아디, 바르콜라…7월 29일 정오부터 5번 이적시장 안내",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-kolo-muani-bouaddi-barcola-les-5-infos-mercato-du-29-juillet-a-la-mi-journee_VN-202607290328.html",
+  "fee": null,
+  "published": "2026-07-29T13:23:18+00:00"
+ },
+ {
+  "id": "e1c2b5838399",
+  "title": "Wolves striker Arokodare joins Ajax on loan",
+  "player": "Tolu Arokodare",
+  "title_ko": "울브스의 스트라이커 아로코다레가 아약스로 임대 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5yvx3l03wno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T13:19:46+00:00"
  },
  {
   "id": "742c0208e19b",
