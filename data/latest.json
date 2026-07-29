@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c0f90f9774a",
+  "title": "Inter legend Cordoba approves Stones move but hopes for Romero too",
+  "player": "Ivan Cordoba",
+  "title_ko": "인테르 레전드 코르도바는 스톤스의 이적을 승인했지만 로메로에게도 희망을 걸었다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/cordoba-approves-stones-hopes-romero-inter/",
+  "fee": null,
+  "published": "2026-07-29T10:45:23+00:00"
+ },
+ {
   "id": "bf9d60e0d7f1",
   "title": "Meister statt Absteiger: Wolfsburgs Majer wechselt zu AEK Athen",
   "player": "Wolfsburgs Majer",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/karetsas-battle-hot-up-milan-borussia-dortmund/",
   "fee": null,
   "published": "2026-07-27T15:14:10+00:00"
- },
- {
-  "id": "0ddfeaea2db3",
-  "title": "Mercato: Chelsea envisagerait un recrutement surprise en attaque (et ça pourrait faire des dégâts)",
-  "player": "Danny Welbeck",
-  "title_ko": "메르카토: 첼시는 공격진에서 기습 영입을 고려할 것이다. (그리고 피해를 입힐 수도 있다)",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-envisagerait-un-recrutement-surprise-en-attaque-et-ca-pourrait-faire-des-degats_AV-202607270401.html",
-  "fee": null,
-  "published": "2026-07-27T14:49:47+00:00"
  }
 ]
