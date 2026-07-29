@@ -1,5 +1,18 @@
 [
  {
+  "id": "5b243c19a4e9",
+  "title": "Arsenal and Tottenham suffer huge transfer blow as top target out for MONTHS after surgery",
+  "player": "Eli Junior Kroupi",
+  "title_ko": "아스날과 토트넘은 수술 후 몇 달 동안 최고의 타깃으로 자리잡으면서 엄청난 이적 타격을 입었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tottenham-transfers-kroupi-injury-37492679",
+  "fee": null,
+  "published": "2026-07-29T20:13:15+00:00"
+ },
+ {
   "id": "e68a89706ea3",
   "title": "Arsenal target Bruno Guimaraes facing same transfer dilemma that Man Utd stars got wrong",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-next-club-bestikas-37483967",
   "fee": null,
   "published": "2026-07-28T08:26:48+00:00"
- },
- {
-  "id": "1e536a5692fb",
-  "title": "Augsburgs Ex-Sportdirektor Jurendic wechselt zurück zum Schweizer Verband",
-  "player": "Augsburgs Ex-",
-  "title_ko": "아우크스부르크의 전 스포츠 디렉터 유렌딕이 스위스 협회로 복귀합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/augsburgs-ex-sportdirektor-jurendic-wechselt-zurueck-zum-schweizer-verband-1239120/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-28T08:26:17+00:00"
  }
 ]
