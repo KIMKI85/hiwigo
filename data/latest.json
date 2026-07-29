@@ -1,5 +1,18 @@
 [
  {
+  "id": "40c372060037",
+  "title": "Mikel Arteta tells Arsenal fans ‘lot is happening’ in juicy transfer update amid Vinicius Jr hunt",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타는 비니시우스 주니어 사냥 중에 아스날 팬들에게 '많은 일이 일어나고 있다'고 흥미진진한 이적 업데이트를 전했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-update-vinicius-arteta-37492191",
+  "fee": null,
+  "published": "2026-07-29T17:28:36+00:00"
+ },
+ {
   "id": "0d7c3cf95009",
   "title": "Crystal Palace work on transfers with Pierre Sage set to lose target to Premier League rival",
   "player": "Pierre Sage",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/frankfurt-verpflichtet-brasilianisches-abwehrtalent-otavio-1238633/artikel#omrss",
   "fee": null,
   "published": "2026-07-28T07:47:38+00:00"
- },
- {
-  "id": "c2f4ce5ad6b6",
-  "title": "Today’s Papers – Italy’s farce, Maldini leaves already, Stones to join Inter",
-  "player": "Stones National",
-  "title_ko": "오늘의 신문 – 이탈리아의 희극, 말디니는 이미 떠났고, 스톤스는 인테르에 합류했습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/todays-papers-italy-farce-stones-inter/",
-  "fee": null,
-  "published": "2026-07-28T07:40:47+00:00"
  }
 ]
