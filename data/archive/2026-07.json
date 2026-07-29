@@ -1,5 +1,31 @@
 [
  {
+  "id": "c498f670b73b",
+  "title": "Video: Carnevali hints Juventus are nearing Kolo Muani agreement with PSG",
+  "player": "Kolo Muani",
+  "title_ko": "비디오: Carnevali는 유벤투스가 PSG와 Kolo Muani 계약에 가까워지고 있음을 암시합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/carnevali-juventus-near-kolo-muani-agreement/",
+  "fee": null,
+  "published": "2026-07-29T11:47:30+00:00"
+ },
+ {
+  "id": "5502062c259b",
+  "title": "Chelsea’s dream final month of transfer window as Alex Scott and World Cup wonderkid sign",
+  "player": "Alex Scott",
+  "title_ko": "Alex Scott과 월드컵 원더키드가 계약을 맺은 Chelsea의 꿈의 이적 기간 마지막 달",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-summer-transfer-window-signings-37489692",
+  "fee": null,
+  "published": "2026-07-29T11:38:32+00:00"
+ },
+ {
   "id": "e966363e468c",
   "title": "Official: Milan sign Diawara from Troyes, confirm squad number",
   "player": "Sankhoun Diawara",
