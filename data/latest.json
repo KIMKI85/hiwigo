@@ -1,5 +1,18 @@
 [
  {
+  "id": "4708c9e73359",
+  "title": "Shankland named captain as Rangers near Makhanya signing",
+  "player": "Lawrence Shankland",
+  "title_ko": "Shankland는 Makhanya 계약 근처에서 레인저스 주장으로 임명되었습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy0jwlx5pkeo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T14:35:42+00:00"
+ },
+ {
   "id": "3573e551fc90",
   "title": "Surprise report Alajbegovic will join Juventus in €33m plus bonus agreement",
   "player": "Sky Sports Deutschland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-psg-bradley-barcola-transfer-37481175",
   "fee": null,
   "published": "2026-07-28T04:00:00+00:00"
- },
- {
-  "id": "83ccf5acc497",
-  "title": "Man Utd news: Michael Carrick's fifth transfer confirmed as Alex Scott move takes new twist",
-  "player": "Michael Carrick's",
-  "title_ko": "맨유 뉴스: 알렉스 스캇의 이적이 새로운 변화를 가져오면서 마이클 캐릭의 5번째 이적이 확정되었습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-alex-scott-37481645",
-  "fee": null,
-  "published": "2026-07-28T03:30:00+00:00"
  }
 ]
