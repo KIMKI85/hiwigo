@@ -1,5 +1,18 @@
 [
  {
+  "id": "7f9376295bdf",
+  "title": "Branding para el Trofeo Costa del Sol y una acuerdo histórico para el Málaga",
+  "player": "Trofeo Costa",
+  "title_ko": "코스타 델 솔 트로피 브랜드화 및 말라가와의 역사적인 계약",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/07/29/branding-trofeo-costa-sol-acuerdo-historico-malaga.html",
+  "fee": null,
+  "published": "2026-07-29T13:48:59+00:00"
+ },
+ {
   "id": "8045bb480671",
   "title": "Official: Bisseck signs new Inter contract after Bayern Munich speculation",
   "player": "Yann Bisseck",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13567551/leeds-united-transfer-news-james-trafford-deal-moving-nearer-as-club-record-deal-close-to-being-reached-with-manchester-city",
   "fee": null,
   "published": "2026-07-27T19:46:00+00:00"
- },
- {
-  "id": "6e89d552abcb",
-  "title": "Mercato: accord entre Dayann Methalie et Sunderland, Toulouse pourrait signer la plus grosse vente de son histoire",
-  "player": "Dayann Methalie",
-  "title_ko": "Mercato: Dayann Methalie와 Sunderland 간의 계약, 툴루즈는 역사상 가장 큰 판매에 서명할 수 있음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-entre-dayann-methalie-et-sunderland-toulouse-pourrait-signer-la-plus-grosse-vente-de-son-histoire_AV-202607270555.html",
-  "fee": null,
-  "published": "2026-07-27T19:17:40+00:00"
  }
 ]
