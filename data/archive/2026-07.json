@@ -1,5 +1,31 @@
 [
  {
+  "id": "8d07cf049cad",
+  "title": "Fiorentina done deals: Valdepenas from Real Madrid, Comuzzo to Torino, Moreno to Venezia",
+  "player": "Victor Valdepenas",
+  "title_ko": "피오렌티나는 거래를 완료했습니다: 레알 마드리드의 발데페나스, 코무초에서 토리노, 모레노에서 베니스까지",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-valdepenas-realmadrid-comuzzo-moren/",
+  "fee": null,
+  "published": "2026-07-29T14:14:24+00:00"
+ },
+ {
+  "id": "001f061acfa8",
+  "title": "Mercato: les discussions se poursuivent entre le PSG et Monaco pour Akliouche",
+  "player": "Maghnes Akliouche",
+  "title_ko": "Mercato: Akliouche에 대한 PSG와 Monaco 간의 논의가 계속됩니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-les-discussions-se-poursuivent-entre-le-psg-et-monaco-pour-akliouche_AV-202607290344.html",
+  "fee": null,
+  "published": "2026-07-29T13:59:39+00:00"
+ },
+ {
   "id": "7f9376295bdf",
   "title": "Branding para el Trofeo Costa del Sol y una acuerdo histórico para el Málaga",
   "player": "Trofeo Costa",
