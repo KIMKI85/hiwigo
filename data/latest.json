@@ -1,5 +1,18 @@
 [
  {
+  "id": "c837b6ed68d8",
+  "title": "Mercato: Manchester City voudrait recruter le Marseillais Geronimo Rulli",
+  "player": "Marseillais Geronimo Rulli",
+  "title_ko": "Mercato: 맨체스터 시티는 Marseillais Geronimo Rulli를 영입하고 싶어합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-voudrait-recruter-le-marseillais-geronimo-rulli_AV-202607290539.html",
+  "fee": null,
+  "published": "2026-07-29T21:53:28+00:00"
+ },
+ {
   "id": "dbaf7df1c9c9",
   "title": "Jack Grealish could take unlikely Man City exit route as record transfer snubbed",
   "player": "Jack Grealish",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-contre-attaque-du-real-madrid-face-a-arsenal-dans-le-dossier-vinicius_AV-202607280256.html",
   "fee": null,
   "published": "2026-07-28T08:45:02+00:00"
- },
- {
-  "id": "94844c07430f",
-  "title": "Liverpool given free run at Bradley Barcola as Arsenal make transfer decision",
-  "player": "Bradley Barcola",
-  "title_ko": "아스날이 이적 결정을 내리면서 리버풀은 브래들리 바르콜라에게 프리런을 허용했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-arsenal-psg-37483808",
-  "fee": null,
-  "published": "2026-07-28T08:38:04+00:00"
  }
 ]
