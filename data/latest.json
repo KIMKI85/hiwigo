@@ -1,5 +1,18 @@
 [
  {
+  "id": "4799a21e4335",
+  "title": "Report Lazio want Ivanovic on loan after struggle for Benfica playing time",
+  "player": "Franjo Ivanovic",
+  "title_ko": "라치오는 벤피카의 출전 시간 부족으로 이바노비치를 임대 원한다고 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-want-ivanovic-on-loan-struggle-benfica/",
+  "fee": null,
+  "published": "2026-07-29T19:17:09+00:00"
+ },
+ {
   "id": "b9aecec068cc",
   "title": "Bradley Barcola transfer: Liverpool ready £110m bid as PSG star approves Anfield move",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/kann-ein-unterschiedsspieler-sein-fortuna-verpflichtet-foerster-1239088/artikel#omrss",
   "fee": null,
   "published": "2026-07-28T08:25:21+00:00"
- },
- {
-  "id": "eb1b23ffb5a3",
-  "title": "Video: Castro greeted by hundreds of Roma fans ahead of move from Bologna",
-  "player": "Santiago Castro",
-  "title_ko": "비디오: 볼로냐에서 이적하기 전에 수백 명의 로마 팬들이 환영하는 카스트로",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-castro-hundreds-roma-fans-move-bologna/",
-  "fee": null,
-  "published": "2026-07-28T07:56:22+00:00"
  }
 ]
