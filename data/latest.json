@@ -1,5 +1,18 @@
 [
  {
+  "id": "f656e4617d95",
+  "title": "Matheus Cunha put on notice at Man Utd as exciting transfer sealed",
+  "player": "Matheus Cunha",
+  "title_ko": "마테우스 쿤하, 맨유에 흥미로운 이적 확정 통보",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/cunha-man-utd-rashford-thompson-37484320",
+  "fee": null,
+  "published": "2026-07-29T05:15:00+00:00"
+ },
+ {
   "id": "027d6c4eb2fb",
   "title": "Tottenham dream 2026/27 squad as Micky van de Ven signs new deal and star striker arrives",
   "player": "Roberto De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-reach-castro-agreement-with-bologna/",
   "fee": "€35M",
   "published": "2026-07-27T10:54:15+00:00"
- },
- {
-  "id": "2b368c3a283e",
-  "title": "Mercato: Julián Alvarez prêt à aller au bras de fer avec l'Atlético pour forcer son départ au Barça",
-  "player": "Julián Alvarez",
-  "title_ko": "Mercato: Julián Alvarez는 Barça로 떠나기 위해 Atlético와 대치할 준비가 되어 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-julian-alvarez-pret-a-aller-au-bras-de-fer-avec-l-atletico-pour-forcer-son-depart-au-barca_AV-202607270310.html",
-  "fee": null,
-  "published": "2026-07-27T10:49:01+00:00"
  }
 ]
