@@ -1,5 +1,18 @@
 [
  {
+  "id": "4bcfaa4f739d",
+  "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
+  "player": "City's Rodri",
+  "title_ko": "레알 마드리드는 로드리 계약을 확신했다 - 목요일의 가십",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T20:31:04+00:00"
+ },
+ {
   "id": "5b243c19a4e9",
   "title": "Arsenal and Tottenham suffer huge transfer blow as top target out for MONTHS after surgery",
   "player": "Eli Junior Kroupi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus",
   "fee": null,
   "published": "2026-07-28T08:33:36+00:00"
- },
- {
-  "id": "5e1d94400eb5",
-  "title": "Mohamed Salah transfer at risk of collapse as new club enters race for Liverpool legend",
-  "player": "Mohamed Salah",
-  "title_ko": "모하메드 살라, 새 클럽이 리버풀 레전드 경쟁에 돌입하면서 이적 위기에 직면",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-next-club-bestikas-37483967",
-  "fee": null,
-  "published": "2026-07-28T08:26:48+00:00"
  }
 ]
