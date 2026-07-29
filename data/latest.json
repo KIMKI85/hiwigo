@@ -1,5 +1,18 @@
 [
  {
+  "id": "b9aecec068cc",
+  "title": "Bradley Barcola transfer: Liverpool ready £110m bid as PSG star approves Anfield move",
+  "player": "Bradley Barcola",
+  "title_ko": "브래들리 바르콜라 이적: PSG 스타가 안필드 이적을 승인함에 따라 리버풀은 £110m 입찰 준비",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-bid-bradley-barcola-37492415",
+  "fee": "£110M",
+  "published": "2026-07-29T18:29:30+00:00"
+ },
+ {
   "id": "40c372060037",
   "title": "Mikel Arteta tells Arsenal fans ‘lot is happening’ in juicy transfer update amid Vinicius Jr hunt",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-castro-hundreds-roma-fans-move-bologna/",
   "fee": null,
   "published": "2026-07-28T07:56:22+00:00"
- },
- {
-  "id": "079669a84fe6",
-  "title": "Frankfurt verpflichtet brasilianisches Abwehrtalent Otavio",
-  "player": "Abwehrtalent Otavio",
-  "title_ko": "프랑크푸르트, 브라질 수비 유망주 오타비오 영입",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/frankfurt-verpflichtet-brasilianisches-abwehrtalent-otavio-1238633/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-28T07:47:38+00:00"
  }
 ]
