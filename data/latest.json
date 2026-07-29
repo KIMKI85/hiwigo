@@ -1,5 +1,18 @@
 [
  {
+  "id": "0d7c3cf95009",
+  "title": "Crystal Palace work on transfers with Pierre Sage set to lose target to Premier League rival",
+  "player": "Pierre Sage",
+  "title_ko": "Crystal Palace는 Pierre Sage와 함께 이적을 진행 중이며 Premier League 라이벌에게 목표를 잃을 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/crystal-palace-transfer-news-sangare-37492046",
+  "fee": null,
+  "published": "2026-07-29T16:22:04+00:00"
+ },
+ {
   "id": "c93be1c56e0a",
   "title": "Official: Bologna buy Amondarain from Estudiantes in €9m plus bonus deal",
   "player": "Mikel Amondarain",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/todays-papers-italy-farce-stones-inter/",
   "fee": null,
   "published": "2026-07-28T07:40:47+00:00"
- },
- {
-  "id": "d5d634ba6712",
-  "title": "Rangers near Makhanya deal as Hogh passes Celtic medical - gossip",
-  "player": null,
-  "title_ko": "Hogh가 Celtic Medical을 통과함에 따라 Makhanya 근처의 레인저스가 거래합니다 - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdj09wx10r1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-28T06:33:35+00:00"
  }
 ]
