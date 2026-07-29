@@ -1,5 +1,18 @@
 [
  {
+  "id": "e966363e468c",
+  "title": "Official: Milan sign Diawara from Troyes, confirm squad number",
+  "player": "Sankhoun Diawara",
+  "title_ko": "공식: 밀란은 트루아에서 디아와라를 영입하고 선수단 번호를 확인합니다",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-milan-sign-diawara-squad-number/",
+  "fee": null,
+  "published": "2026-07-29T11:00:51+00:00"
+ },
+ {
   "id": "1c0f90f9774a",
   "title": "Inter legend Cordoba approves Stones move but hopes for Romero too",
   "player": "Ivan Cordoba",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-can-secure-broja-from-burnley-on-loan/",
   "fee": null,
   "published": "2026-07-27T15:33:09+00:00"
- },
- {
-  "id": "c1ce30874aaf",
-  "title": "Karetsas battle hots up, Milan present vision and Borussia Dortmund raise bid",
-  "player": "Ruben Amorim",
-  "title_ko": "Karetsas의 전투가 뜨거워지고 밀란은 비전을 제시하고 보루시아 도르트문트는 입찰을 올렸습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/karetsas-battle-hot-up-milan-borussia-dortmund/",
-  "fee": null,
-  "published": "2026-07-27T15:14:10+00:00"
  }
 ]
