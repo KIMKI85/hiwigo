@@ -1,5 +1,18 @@
 [
  {
+  "id": "e30a26bd13ca",
+  "title": "Liverpool set to open talks with PSG over Barcola signing",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 바르콜라 영입을 위해 PSG와 협상을 개시할 예정이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared",
+  "fee": null,
+  "published": "2026-07-29T09:50:00+00:00"
+ },
+ {
   "id": "500c2b2db61b",
   "title": "Welbeck to have Chelsea medical with Blues set to pay first fee for over-26 since 2022",
   "player": "Danny Welbeck",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news",
   "fee": null,
   "published": "2026-07-29T09:50:00+00:00"
+ },
+ {
+  "id": "6b116673fba6",
+  "title": "Erfahrung für BVB-Reserve: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "BVB 리저브 경험: 현재 지역 리그 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/erfahrung-fuer-bvb-reserve-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-29T09:08:46+00:00"
  },
  {
   "id": "872d98416d9d",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-27T13:24:43+00:00"
- },
- {
-  "id": "ebbb9b0c3b18",
-  "title": "Arsenal can offer Vinicius Jr key non-negotiable that Real Madrid cannot after transfer update",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 이적 업데이트 이후 레알 마드리드가 할 수 없는 비니시우스 주니어에게 협상 불가능한 키를 제공할 수 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-real-37481290",
-  "fee": null,
-  "published": "2026-07-27T13:23:53+00:00"
- },
- {
-  "id": "50721bc64899",
-  "title": "Zwei Tage nach Werkself-Wechsel: Leverkusen verleiht Erlein an Cottbus",
-  "player": "Zwei Tage",
-  "title_ko": "Werkself 변경 이틀 후: 레버쿠젠은 Erlein을 Cottbus에 임대했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/zwei-tage-nach-werkself-wechsel-leverkusen-verleiht-erlein-an-cottbus-1238957/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-27T13:10:24+00:00"
  }
 ]

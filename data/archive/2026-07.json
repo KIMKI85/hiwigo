@@ -13,6 +13,32 @@
   "published": "2026-07-29T09:50:00+00:00"
  },
  {
+  "id": "e30a26bd13ca",
+  "title": "Liverpool set to open talks with PSG over Barcola signing",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 바르콜라 영입을 위해 PSG와 협상을 개시할 예정이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared",
+  "fee": null,
+  "published": "2026-07-29T09:50:00+00:00"
+ },
+ {
+  "id": "6b116673fba6",
+  "title": "Erfahrung für BVB-Reserve: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "BVB 리저브 경험: 현재 지역 리그 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/erfahrung-fuer-bvb-reserve-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-29T09:08:46+00:00"
+ },
+ {
   "id": "872d98416d9d",
   "title": "Arsenal told Real Madrid have 'obligation to sell' Vinicius Jr as Spanish media back transfer",
   "player": "Vinicius Jr",
