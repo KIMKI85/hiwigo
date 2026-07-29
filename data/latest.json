@@ -1,5 +1,18 @@
 [
  {
+  "id": "3c942085add1",
+  "title": "Report Kolo Muani set for Juventus medical within 48 hours after PSG agreement",
+  "player": "Kolo Muani",
+  "title_ko": "PSG 계약 후 48시간 이내에 유벤투스 메디컬에 콜로 무아니 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-kolo-muani-set-for-juventus-medical-psg/",
+  "fee": null,
+  "published": "2026-07-29T12:48:44+00:00"
+ },
+ {
   "id": "03b625c889e6",
   "title": "Official: Italy international Koleosho joins Paris FC from Burnley",
   "player": "Luca Koleosho",
@@ -167,6 +180,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-kone-37488785",
   "fee": "£51M",
   "published": "2026-07-29T09:30:06+00:00"
+ },
+ {
+  "id": "907ae63a063c",
+  "title": "Erfahrung für BVB-Reserve, weiterer Neuer bei 1860: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "1860년 또 다른 신인 BVB 리저브 경험: 현재 지역 리그 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/erfahrung-fuer-bvb-reserve-weiterer-neuer-bei-1860-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-29T09:08:46+00:00"
  },
  {
   "id": "6b116673fba6",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/done-deals-castro-dovbyk-amondarain-diawara/",
   "fee": null,
   "published": "2026-07-27T16:56:05+00:00"
- },
- {
-  "id": "c3345c41ca17",
-  "title": "Karetsas vor Wechsel zum BVB: Einigung mit Genk erzielt",
-  "player": "Der Wechsel",
-  "title_ko": "BVB로 이전하기 전 Karetsas: Genk와 합의",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/karetsas-vor-wechsel-zum-bvb-einigung-mit-genk-erzielt-1239007/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-27T16:38:37+00:00"
- },
- {
-  "id": "ad86a11e9545",
-  "title": "Inter continue direct Romero talks with Tottenham, hopeful of €40m agreement",
-  "player": "Cristian Romero",
-  "title_ko": "인테르는 로메로와 토트넘과 직접 대화를 이어가며 4천만 유로의 합의를 희망하고 있습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-continue-direct-romero-talks-tottenham/",
-  "fee": "€40M",
-  "published": "2026-07-27T16:23:52+00:00"
  }
 ]
