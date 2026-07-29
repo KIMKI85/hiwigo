@@ -1,5 +1,31 @@
 [
  {
+  "id": "c93be1c56e0a",
+  "title": "Official: Bologna buy Amondarain from Estudiantes in €9m plus bonus deal",
+  "player": "Mikel Amondarain",
+  "title_ko": "공식: 볼로냐는 €9m에 보너스 거래로 Estudiantes로부터 Amondarain을 구매했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bologna-buy-amondarain-estudiantes/",
+  "fee": "€9M",
+  "published": "2026-07-29T16:12:44+00:00"
+ },
+ {
+  "id": "fbf0e9c2e5dc",
+  "title": "Liveblog: Italy unveil Mancini and Ranieri as new coach and director",
+  "player": null,
+  "title_ko": "라이브 블로그: 이탈리아, 새로운 코치이자 감독으로 만치니와 라니에리 공개",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/liveblog-italy-mancini-ranieri-coach-director/",
+  "fee": null,
+  "published": "2026-07-29T16:06:49+00:00"
+ },
+ {
   "id": "daaab1f3da64",
   "title": "PSG progress in talks for Parma goalkeeper Suzuki and open up to loan idea",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cdj09wx10r1o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-28T06:33:35+00:00"
- },
- {
-  "id": "406af0d44d17",
-  "title": "Thierry Henry slammed Jose Mourinho for treatment of Vinicius Jr as Arsenal move arises",
-  "player": "Thierry Henry",
-  "title_ko": "티에리 앙리는 아스날 이적이 다가오면서 비니시우스 주니어를 치료한 조세 무리뉴를 비난했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-transfer-mourinho-racism-37479595",
-  "fee": null,
-  "published": "2026-07-28T05:30:00+00:00"
- },
- {
-  "id": "30eac56ac8cd",
-  "title": "'I was set to join Real Madrid but Liverpool boss rang and I joined them instead'",
-  "player": null,
-  "title_ko": "'나는 레알 마드리드에 합류할 예정이었지만 리버풀 감독이 전화를 걸어 대신 합류했다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/real-madrid-liverpool-transfer-manager-37480042",
-  "fee": null,
-  "published": "2026-07-28T05:30:00+00:00"
  }
 ]
