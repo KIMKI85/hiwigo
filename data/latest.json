@@ -143,6 +143,19 @@
   "published": "2026-07-29T09:08:46+00:00"
  },
  {
+  "id": "440631ce1cec",
+  "title": "LIVE! Kovac wechselt munter durch: Sorgen um Mane",
+  "player": "Cerezo Osaka",
+  "title_ko": "살다! 유쾌하게 변화하는 코바치: 마네 걱정",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/cerezo-gegen-dortmund-2026-vereine-freundschaftsspiele-5202060/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-07-29T09:00:00+00:00"
+ },
+ {
   "id": "872d98416d9d",
   "title": "Arsenal told Real Madrid have 'obligation to sell' Vinicius Jr as Spanish media back transfer",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-danny-welbeck-chelsea-37482246",
   "fee": null,
   "published": "2026-07-27T15:58:46+00:00"
- },
- {
-  "id": "9f5cc613aa85",
-  "title": "Lazio can secure Broja from Burnley on loan with option to buy",
-  "player": "Armando Broja",
-  "title_ko": "라치오는 구매 옵션을 통해 번리로부터 브로야를 임대로 확보할 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-can-secure-broja-from-burnley-on-loan/",
-  "fee": null,
-  "published": "2026-07-27T15:33:09+00:00"
  }
 ]
