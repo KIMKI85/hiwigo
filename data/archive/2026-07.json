@@ -1,5 +1,31 @@
 [
  {
+  "id": "daaab1f3da64",
+  "title": "PSG progress in talks for Parma goalkeeper Suzuki and open up to loan idea",
+  "player": null,
+  "title_ko": "PSG는 파르마 골키퍼 스즈키에 대한 협상을 진행하고 임대 아이디어를 공개했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-progress-in-talks-for-parma-suzuki/",
+  "fee": null,
+  "published": "2026-07-29T15:58:26+00:00"
+ },
+ {
+  "id": "deb4a2269054",
+  "title": "Liverpool preparing opening bid for PSG's Barcola",
+  "player": "Germain's Bradley Barcola",
+  "title_ko": "리버풀은 PSG의 바르콜라에 대한 첫 입찰을 준비하고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T15:42:20+00:00"
+ },
+ {
   "id": "8af8c175d7a4",
   "title": "Mercato: intérêt pour Suzuki, situation de Chevalier… le PSG actif sur le poste de gardien",
   "player": "Japonais Zion Suzuki",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "daaab1f3da64",
+  "title": "PSG progress in talks for Parma goalkeeper Suzuki and open up to loan idea",
+  "player": null,
+  "title_ko": "PSG는 파르마 골키퍼 스즈키에 대한 협상을 진행하고 임대 아이디어를 공개했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-progress-in-talks-for-parma-suzuki/",
+  "fee": null,
+  "published": "2026-07-29T15:58:26+00:00"
+ },
+ {
+  "id": "deb4a2269054",
+  "title": "Liverpool preparing opening bid for PSG's Barcola",
+  "player": "Germain's Bradley Barcola",
+  "title_ko": "리버풀은 PSG의 바르콜라에 대한 첫 입찰을 준비하고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T15:42:20+00:00"
+ },
+ {
   "id": "8af8c175d7a4",
   "title": "Mercato: intérêt pour Suzuki, situation de Chevalier… le PSG actif sur le poste de gardien",
   "player": "Japonais Zion Suzuki",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/real-madrid-liverpool-transfer-manager-37480042",
   "fee": null,
   "published": "2026-07-28T05:30:00+00:00"
- },
- {
-  "id": "c8e80c4b75a7",
-  "title": "Arsenal's dream attack as Vinicius joins from Real Madrid and £51.7m swap deal agreed",
-  "player": "Vinicius Junior",
-  "title_ko": "비니시우스가 레알 마드리드에서 이적하고 £51.7m 스왑 딜이 합의됨에 따라 아스날의 꿈의 공격이 이루어졌습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-alvarez-37479799",
-  "fee": "£51.7M",
-  "published": "2026-07-28T04:30:00+00:00"
- },
- {
-  "id": "951769bc9e95",
-  "title": "Xabi Alonso's dream scenario as £114million duo join along with six-time Premier League winner",
-  "player": "Xabi Alonso's",
-  "title_ko": "£114m의 듀오가 프리미어리그 6회 우승과 함께 합류하는 사비 알론소의 꿈의 시나리오",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfers-alex-scott-lacroix-37480943",
-  "fee": "£114M",
-  "published": "2026-07-28T04:15:00+00:00"
  }
 ]
