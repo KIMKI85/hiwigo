@@ -1,5 +1,44 @@
 [
  {
+  "id": "3cfa9d372f9e",
+  "title": "Done Deal: Kolo Muani to Juventus, obligation to buy €38m plus €12m bonus from PSG",
+  "player": "Kolo Muani",
+  "title_ko": "거래 완료: 유벤투스로 콜로 무아니, PSG로부터 €38m + €12m 보너스 구매 의무",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-kolo-muani-juventus-obligation-psg/",
+  "fee": "€38M",
+  "published": "2026-07-29T13:27:56+00:00"
+ },
+ {
+  "id": "f805672a39aa",
+  "title": "Mercato: Manchester City accélère pour Ayyoub Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "Mercato: 맨체스터 시티는 Ayyoub Bouaddi를 위해 가속하고 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-accelere-pour-ayyoub-bouaddi_AV-202607290325.html",
+  "fee": null,
+  "published": "2026-07-29T13:24:26+00:00"
+ },
+ {
+  "id": "742c0208e19b",
+  "title": "Brentford confirm Jordan Henderson exit as shock Chelsea transfer edges closer",
+  "player": "Jordan Henderson",
+  "title_ko": "브렌트포드는 충격적인 첼시 이적이 가까워지면서 조던 헨더슨의 퇴장을 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/brentford-jordan-henderson-chelsea-transfer-37490801",
+  "fee": null,
+  "published": "2026-07-29T13:09:43+00:00"
+ },
+ {
   "id": "8dc38d131acb",
   "title": "Vinicius Jr's agent gave transfer advice as Arsenal plot move for Real Madrid superstar",
   "player": "Vinicius Jr's",

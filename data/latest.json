@@ -1,5 +1,44 @@
 [
  {
+  "id": "3cfa9d372f9e",
+  "title": "Done Deal: Kolo Muani to Juventus, obligation to buy €38m plus €12m bonus from PSG",
+  "player": "Kolo Muani",
+  "title_ko": "거래 완료: 유벤투스로 콜로 무아니, PSG로부터 €38m + €12m 보너스 구매 의무",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-kolo-muani-juventus-obligation-psg/",
+  "fee": "€38M",
+  "published": "2026-07-29T13:27:56+00:00"
+ },
+ {
+  "id": "f805672a39aa",
+  "title": "Mercato: Manchester City accélère pour Ayyoub Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "Mercato: 맨체스터 시티는 Ayyoub Bouaddi를 위해 가속하고 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-accelere-pour-ayyoub-bouaddi_AV-202607290325.html",
+  "fee": null,
+  "published": "2026-07-29T13:24:26+00:00"
+ },
+ {
+  "id": "742c0208e19b",
+  "title": "Brentford confirm Jordan Henderson exit as shock Chelsea transfer edges closer",
+  "player": "Jordan Henderson",
+  "title_ko": "브렌트포드는 충격적인 첼시 이적이 가까워지면서 조던 헨더슨의 퇴장을 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/brentford-jordan-henderson-chelsea-transfer-37490801",
+  "fee": null,
+  "published": "2026-07-29T13:09:43+00:00"
+ },
+ {
   "id": "8dc38d131acb",
   "title": "Vinicius Jr's agent gave transfer advice as Arsenal plot move for Real Madrid superstar",
   "player": "Vinicius Jr's",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/report-stones-verbal-agreement-inter-contract/",
   "fee": null,
   "published": "2026-07-27T18:11:14+00:00"
- },
- {
-  "id": "49d419dd098d",
-  "title": "Chelsea want Jordan Henderson as Xabi Alonso lines up another shock signing",
-  "player": "Jordan Henderson",
-  "title_ko": "첼시는 사비 알론소가 또 다른 충격적인 영입을 준비하면서 조던 헨더슨을 원한다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-jordan-henderson-danny-welbeck-37482827",
-  "fee": null,
-  "published": "2026-07-27T18:05:25+00:00"
- },
- {
-  "id": "01707a93b236",
-  "title": "Man Utd star takes drastic action as Ruben Amorim plots transfer reunion",
-  "player": "Ruben Amorim",
-  "title_ko": "맨유의 스타 루벤 아모림이 이적 재결합을 계획함에 따라 과감한 조치를 취하다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/noussair-mazraoui-juventus-man-utd-37482738",
-  "fee": null,
-  "published": "2026-07-27T17:50:53+00:00"
- },
- {
-  "id": "02a6767bc69f",
-  "title": "Man Utd enter advanced talks for striker transfer with £30m clause proposed",
-  "player": "Joshua Zirkzee",
-  "title_ko": "맨유는 £30m 조항을 제안하며 스트라이커 이적을 위한 고급 협상에 돌입했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/joshua-zirkzee-juventus-transfer-manutd-37482706",
-  "fee": "£30M",
-  "published": "2026-07-27T17:37:01+00:00"
  }
 ]
