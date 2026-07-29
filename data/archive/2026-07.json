@@ -1,5 +1,57 @@
 [
  {
+  "id": "b299257e6243",
+  "title": "Shock report Alajbegovic will join Juventus in €33m plus bonus agreement",
+  "player": "Sky Sports Deutschland",
+  "title_ko": "충격적인 보고서 Alajbegovic은 € 33m + 보너스 계약으로 유벤투스에 합류 할 것입니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/shock-report-alajbegovic-join-juventus-in-e33m/",
+  "fee": "€33M",
+  "published": "2026-07-29T14:30:18+00:00"
+ },
+ {
+  "id": "c7ab6da74bbf",
+  "title": "Matsimas Wechsel zu Crystal Palace geplatzt",
+  "player": "Matsimas Wechsel",
+  "title_ko": "마시마의 크리스탈팰리스 이적은 무산됐다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/matsimas-wechsel-zu-crystal-palace-geplatzt-1239438/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-29T14:23:41+00:00"
+ },
+ {
+  "id": "20c597b0eb33",
+  "title": "Newcastle sign Spurs forward Thomas",
+  "player": "Martha Thomas",
+  "title_ko": "뉴캐슬, 토트넘의 포워드 토마스 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy8eg973jw6o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-29T14:21:31+00:00"
+ },
+ {
+  "id": "49470de24258",
+  "title": "Hoffenheim ausgestochen: VfB verpflichtet DFB-Schreck Sauer",
+  "player": "Schreck Sauer",
+  "title_ko": "호펜하임이 압도했다: VfB가 DFB-슈렉 자우어와 계약했다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/hoffenheim-ausgestochen-vfb-verpflichtet-dfb-schreck-sauer-1238998/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-29T14:16:17+00:00"
+ },
+ {
   "id": "8d07cf049cad",
   "title": "Fiorentina done deals: Valdepenas from Real Madrid, Comuzzo to Torino, Moreno to Venezia",
   "player": "Victor Valdepenas",
