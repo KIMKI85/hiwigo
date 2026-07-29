@@ -1,5 +1,18 @@
 [
  {
+  "id": "3573e551fc90",
+  "title": "Surprise report Alajbegovic will join Juventus in €33m plus bonus agreement",
+  "player": "Sky Sports Deutschland",
+  "title_ko": "깜짝 보고서 알라이베고비치는 3,300만 유로에 보너스 계약을 더해 유벤투스에 합류할 것입니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-alajbegovic-join-juventus-in-e33m/",
+  "fee": "€33M",
+  "published": "2026-07-29T14:30:18+00:00"
+ },
+ {
   "id": "b299257e6243",
   "title": "Shock report Alajbegovic will join Juventus in €33m plus bonus agreement",
   "player": "Sky Sports Deutschland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-alex-scott-37481645",
   "fee": null,
   "published": "2026-07-28T03:30:00+00:00"
- },
- {
-  "id": "d48124f71ef1",
-  "title": "Arsenal transfer news: Mikel Arteta gets Vinicius Jr green light as £103m decision made",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 이적 소식: 미켈 아르테타가 비니시우스 주니어에게 1억 3백만 파운드의 결정을 내려 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-barcola-37481378",
-  "fee": "£103M",
-  "published": "2026-07-28T03:00:00+00:00"
  }
 ]
