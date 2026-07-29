@@ -1,5 +1,18 @@
 [
  {
+  "id": "8dc38d131acb",
+  "title": "Vinicius Jr's agent gave transfer advice as Arsenal plot move for Real Madrid superstar",
+  "player": "Vinicius Jr's",
+  "title_ko": "비니시우스 주니어의 에이전트는 레알 마드리드 슈퍼스타를 위한 아스날의 이적 계획에 대해 이적 조언을 제공했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-madrid-37490051",
+  "fee": null,
+  "published": "2026-07-29T12:56:13+00:00"
+ },
+ {
   "id": "3c942085add1",
   "title": "Report Kolo Muani set for Juventus medical within 48 hours after PSG agreement",
   "player": "Kolo Muani",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/joshua-zirkzee-juventus-transfer-manutd-37482706",
   "fee": "£30M",
   "published": "2026-07-27T17:37:01+00:00"
- },
- {
-  "id": "58af38dc7e28",
-  "title": "Done Deals: Castro, Dovbyk, Amondarain and Diawara medicals for July 28",
-  "player": "Santiago Castro",
-  "title_ko": "완료된 거래: 7월 28일 Castro, Dovbyk, Amondarain 및 Diawara 의료",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deals-castro-dovbyk-amondarain-diawara/",
-  "fee": null,
-  "published": "2026-07-27T16:56:05+00:00"
  }
 ]
