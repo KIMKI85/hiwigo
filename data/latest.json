@@ -1,5 +1,18 @@
 [
  {
+  "id": "03b625c889e6",
+  "title": "Official: Italy international Koleosho joins Paris FC from Burnley",
+  "player": "Luca Koleosho",
+  "title_ko": "공식: 이탈리아 국가대표 콜레오쇼가 번리에서 파리FC로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-italy-koleosho-joins-paris-fc-burnley/",
+  "fee": null,
+  "published": "2026-07-29T12:29:07+00:00"
+ },
+ {
   "id": "c498f670b73b",
   "title": "Video: Carnevali hints Juventus are nearing Kolo Muani agreement with PSG",
   "player": "Kolo Muani",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/inter-continue-direct-romero-talks-tottenham/",
   "fee": "€40M",
   "published": "2026-07-27T16:23:52+00:00"
- },
- {
-  "id": "aee464eced0d",
-  "title": "Milan beaten to Karetsas, as Borussia Dortmund guarantee €32m plus bonus deal",
-  "player": "Konstaninos Karetsas",
-  "title_ko": "밀란은 보루시아 도르트문트가 €32m에 보너스 계약을 보장하면서 카레차스에게 패했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-beaten-to-karetsas-borussia-dortmund/",
-  "fee": "€32M",
-  "published": "2026-07-27T16:10:38+00:00"
  }
 ]
