@@ -1,5 +1,44 @@
 [
  {
+  "id": "fc9897fe65b7",
+  "title": "28 nombres y subiendo, pero sin fichaje",
+  "player": null,
+  "title_ko": "28명의 이름이 있고 그 수는 셀 수 있지만 서명은 없습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/30/28-nombres-subiendo-fichaje.html",
+  "fee": null,
+  "published": "2026-07-30T08:57:36+00:00"
+ },
+ {
+  "id": "7e41ab75f1e2",
+  "title": "\"Gesehen, was hier möglich ist\": Wäschenbach wechselt an den Tivoli",
+  "player": "Meiko Wäschenbach",
+  "title_ko": "\"우리는 여기서 무엇이 가능한지 보았습니다\": Waschenbach가 Tivoli로 이전",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/gesehen-was-hier-moeglich-ist-waeschenbach-wechselt-an-den-tivoli-1239560/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T08:49:14+00:00"
+ },
+ {
+  "id": "31d403229e91",
+  "title": "Mercato: c'est officiel, l'AS Monaco s'offre Matthis Abline",
+  "player": "Matthis Abline",
+  "title_ko": "Mercato: 공식입니다. AS 모나코가 Matthis Abline을 제안합니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiel-l-as-monaco-s-offre-matthis-abline_AV-202607300252.html",
+  "fee": null,
+  "published": "2026-07-30T08:45:53+00:00"
+ },
+ {
   "id": "654be36846d1",
   "title": "Video: Stones arrives in Milan for Inter medical",
   "player": "John Stones",
