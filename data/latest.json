@@ -1,5 +1,31 @@
 [
  {
+  "id": "f9199d115b6b",
+  "title": "Man Utd transfer talks confirmed as agent says deal is close",
+  "player": "Orlando Gill",
+  "title_ko": "에이전트가 거래가 끝났다고 말하면서 맨유 이적 협상이 확정되었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-gill-37497621",
+  "fee": null,
+  "published": "2026-07-30T21:41:31+00:00"
+ },
+ {
+  "id": "16253a5e46ec",
+  "title": "Real verpflichtet Sturmtalent Espi - und Levante freut sich über Rekordverkauf",
+  "player": "Sturmtalent Espi",
+  "title_ko": "재능 있는 Espi를 폭풍으로 몰아넣는 진짜 신호 - 그리고 Levante는 음반 판매에 만족합니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/real-verpflichtet-sturmtalent-espi-und-levante-freut-sich-ueber-rekordverkauf-1239746/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T21:36:54+00:00"
+ },
+ {
   "id": "c1137f3f0989",
   "title": "Mercato: le PSG et Monaco proches d’un accord pour Akliouche",
   "player": "Maghnes Akliouche",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/cerezo-gegen-dortmund-2026-vereine-freundschaftsspiele-5202060/spielbericht#omrss",
   "fee": null,
   "published": "2026-07-29T09:00:00+00:00"
- },
- {
-  "id": "872d98416d9d",
-  "title": "Arsenal told Real Madrid have 'obligation to sell' Vinicius Jr as Spanish media back transfer",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 레알 마드리드에 비니시우스 주니어를 스페인 언론에 다시 이적시킬 '판매 의무'가 있다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-real-madrid-37488537",
-  "fee": null,
-  "published": "2026-07-29T08:41:31+00:00"
- },
- {
-  "id": "422789c617e5",
-  "title": "Man Utd open to offers for four more players as Michael Carrick wields transfer axe",
-  "player": "Michael Carrick",
-  "title_ko": "맨유는 마이클 캐릭이 이적 도끼를 휘두르면서 4명의 선수 추가 제안을 제안할 예정이다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-michael-carrick-37488415",
-  "fee": null,
-  "published": "2026-07-29T08:35:34+00:00"
  }
 ]

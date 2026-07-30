@@ -1,5 +1,31 @@
 [
  {
+  "id": "f9199d115b6b",
+  "title": "Man Utd transfer talks confirmed as agent says deal is close",
+  "player": "Orlando Gill",
+  "title_ko": "에이전트가 거래가 끝났다고 말하면서 맨유 이적 협상이 확정되었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-gill-37497621",
+  "fee": null,
+  "published": "2026-07-30T21:41:31+00:00"
+ },
+ {
+  "id": "16253a5e46ec",
+  "title": "Real verpflichtet Sturmtalent Espi - und Levante freut sich über Rekordverkauf",
+  "player": "Sturmtalent Espi",
+  "title_ko": "재능 있는 Espi를 폭풍으로 몰아넣는 진짜 신호 - 그리고 Levante는 음반 판매에 만족합니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/real-verpflichtet-sturmtalent-espi-und-levante-freut-sich-ueber-rekordverkauf-1239746/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T21:36:54+00:00"
+ },
+ {
   "id": "c1137f3f0989",
   "title": "Mercato: le PSG et Monaco proches d’un accord pour Akliouche",
   "player": "Maghnes Akliouche",
