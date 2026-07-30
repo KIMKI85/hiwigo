@@ -1,5 +1,18 @@
 [
  {
+  "id": "0e89705441b1",
+  "title": "Genoa among clubs interested in deal for West Ham-linked Sorba Thomas",
+  "player": "Ham-linked Sorba",
+  "title_ko": "웨스트햄과 연결된 소르바 토마스의 거래에 관심이 있는 클럽들 중 제노아",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/genoa-among-clubs-interested-in-thomas-deal/",
+  "fee": null,
+  "published": "2026-07-30T13:41:27+00:00"
+ },
+ {
   "id": "7e7bf2ec706c",
   "title": "Man Utd ready to offload quartet including player they refused to swap for Carlos Baleba",
   "player": "Carlos Baleba",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-alonso-henderson-welbeck-37487236",
   "fee": null,
   "published": "2026-07-28T17:00:34+00:00"
- },
- {
-  "id": "89340a744bb0",
-  "title": "Lazio shocked at Markmann refusal to complete €6m move from Nordsjaelland",
-  "player": null,
-  "title_ko": "라치오는 마르크만이 노르자엘란드로부터 €6m 이적을 완료하는 것을 거부한 것에 충격을 받았습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-shock-markmann-refusal-6m-nordsjaelland/",
-  "fee": "€6M",
-  "published": "2026-07-28T16:52:03+00:00"
  }
 ]
