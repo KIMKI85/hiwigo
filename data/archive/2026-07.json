@@ -1,5 +1,31 @@
 [
  {
+  "id": "152bfb8f7eb9",
+  "title": "Defender Stones joins Inter Milan on free transfer",
+  "player": "Defender Stones",
+  "title_ko": "디펜더 스톤즈, 자유계약으로 인터 밀란에 합류",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T18:36:32+00:00"
+ },
+ {
+  "id": "cde75683362d",
+  "title": "Mercato: condamné à plus de 8 ans de prison pour agression sexuelle, Rafa Mir autorisé à jouer en Grèce",
+  "player": "Rafa Mir",
+  "title_ko": "메르카토: 성폭행 혐의로 8년 이상의 징역형을 선고받았고, 라파 미르는 그리스에서 뛸 자격을 얻었다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/mercato-condamne-a-plus-de-8-ans-de-prison-pour-agression-sexuelle-rafa-mir-autorise-a-jouer-en-grece_AN-202607300538.html",
+  "fee": null,
+  "published": "2026-07-30T18:35:01+00:00"
+ },
+ {
   "id": "776f1b314f99",
   "title": "Official: Stones completes free transfer to Inter",
   "player": "John Stones",
