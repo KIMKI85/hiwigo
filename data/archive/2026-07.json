@@ -1,5 +1,44 @@
 [
  {
+  "id": "90afaafdecc7",
+  "title": "Rangers sign defender Makhanya from MLS",
+  "player": "Olwethu Makhanya",
+  "title_ko": "레인저스는 MLS의 수비수 마칸야(Makhanya)를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
+  "fee": null,
+  "published": "2026-07-30T15:00:00+00:00"
+ },
+ {
+  "id": "3fa0837f3696",
+  "title": "South Africa's Makhanya becomes Rangers' eighth summer signing",
+  "player": "South Africa's Makhanya",
+  "title_ko": "남아프리카공화국의 마카냐(Makhanya)가 레인저스의 8번째 여름 계약이 되었습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T14:03:15+00:00"
+ },
+ {
+  "id": "3fa0837f3696",
+  "title": "Rangers move a 'dream come true' for South Africa's Makhanya",
+  "player": "South Africa's Makhanya",
+  "title_ko": "레인저스는 남아프리카공화국의 마카냐(Makhanya)에게 '꿈을 현실로' 옮깁니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T14:03:15+00:00"
+ },
+ {
   "id": "0e89705441b1",
   "title": "Genoa among clubs interested in deal for West Ham-linked Sorba Thomas",
   "player": "Ham-linked Sorba",

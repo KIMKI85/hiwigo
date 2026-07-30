@@ -1,5 +1,44 @@
 [
  {
+  "id": "90afaafdecc7",
+  "title": "Rangers sign defender Makhanya from MLS",
+  "player": "Olwethu Makhanya",
+  "title_ko": "레인저스는 MLS의 수비수 마칸야(Makhanya)를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
+  "fee": null,
+  "published": "2026-07-30T15:00:00+00:00"
+ },
+ {
+  "id": "3fa0837f3696",
+  "title": "South Africa's Makhanya becomes Rangers' eighth summer signing",
+  "player": "South Africa's Makhanya",
+  "title_ko": "남아프리카공화국의 마카냐(Makhanya)가 레인저스의 8번째 여름 계약이 되었습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T14:03:15+00:00"
+ },
+ {
+  "id": "3fa0837f3696",
+  "title": "Rangers move a 'dream come true' for South Africa's Makhanya",
+  "player": "South Africa's Makhanya",
+  "title_ko": "레인저스는 남아프리카공화국의 마카냐(Makhanya)에게 '꿈을 현실로' 옮깁니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T14:03:15+00:00"
+ },
+ {
   "id": "0e89705441b1",
   "title": "Genoa among clubs interested in deal for West Ham-linked Sorba Thomas",
   "player": "Ham-linked Sorba",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/sassuolo-agreement-for-bowie-in-e10m-deal/",
   "fee": "€10M",
   "published": "2026-07-28T17:46:26+00:00"
- },
- {
-  "id": "62e30d1d8e0f",
-  "title": "Bei Juventus ohne Perspektive: Openda wechselt auf Leihbasis zu Lyon",
-  "player": "Lois Openda",
-  "title_ko": "유벤투스에는 전망이 없습니다: Openda는 임대로 리옹으로 이동합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/bei-juventus-ohne-perspektive-openda-wechselt-auf-leihbasis-zu-lyon-1239227/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-28T17:42:22+00:00"
- },
- {
-  "id": "2d8cf5bcc608",
-  "title": "Man Utd handed Aurelien Tchouameni timeline hint amid Real Madrid agreement mystery",
-  "player": "Aurelien Tchouameni",
-  "title_ko": "맨유는 레알 마드리드 계약 미스테리 속에서 아우렐리앙 추아메니에게 타임라인 힌트를 건넸다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-tchouameni-37487275",
-  "fee": null,
-  "published": "2026-07-28T17:35:09+00:00"
- },
- {
-  "id": "8fbb62c8cb39",
-  "title": "Xabi Alonso drops telling hint over Chelsea’s Jordan Henderson and Danny Welbeck transfers",
-  "player": "Xabi Alonso",
-  "title_ko": "사비 알론소는 첼시의 조던 헨더슨과 대니 웰벡 이적에 대한 힌트를 던졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-alonso-henderson-welbeck-37487236",
-  "fee": null,
-  "published": "2026-07-28T17:00:34+00:00"
  }
 ]
