@@ -13,6 +13,19 @@
   "published": "2026-07-30T15:00:00+00:00"
  },
  {
+  "id": "1350f3701632",
+  "title": "Newcastle captain Guimaraes expected to join Arsenal",
+  "player": "Bruno Guimaraes",
+  "title_ko": "뉴캐슬의 주장 기마랑스가 아스날로 이적할 것으로 예상됩니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-30T14:39:37+00:00"
+ },
+ {
   "id": "afc2eb5248cc",
   "title": "Bastoni transfer complicated for Real Madrid after Asencio set-back",
   "player": "Alessandro Bastoni",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/nigeria-akpoguma-frosinone-medical-free-agent/",
   "fee": null,
   "published": "2026-07-28T18:51:17+00:00"
- },
- {
-  "id": "5bd3b92f11da",
-  "title": "Real Madrid take bold Vinicius Jr transfer stance as Arsenal learn reality to make deal happen",
-  "player": "Vinicius Jr",
-  "title_ko": "레알 마드리드는 아스날이 거래를 성사시키기 위해 현실을 배우면서 대담한 비니시우스 주니어 이적 입장을 취했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-arsenal-transfer-real-madrid-37487334",
-  "fee": null,
-  "published": "2026-07-28T17:54:56+00:00"
  }
 ]
