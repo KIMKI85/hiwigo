@@ -1,5 +1,31 @@
 [
  {
+  "id": "9a5c6daa7a90",
+  "title": "Harvey Elliott opens up on Aston Villa loan nightmare and second chance at Liverpool",
+  "player": "Harvey Elliott",
+  "title_ko": "하비 엘리엇이 아스톤 빌라 임대의 악몽과 리버풀에서의 두 번째 기회를 열었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harvey-elliott-liverpool-aston-villa-37496661",
+  "fee": null,
+  "published": "2026-07-30T16:50:51+00:00"
+ },
+ {
+  "id": "3d1f36a07d8f",
+  "title": "Arsenal close in on £80m Bruno Guimaraes transfer in major breakthrough for Mikel Arteta",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 미켈 아르테타의 획기적인 돌파구인 브루노 기마라스의 이적료 8000만 파운드에 근접했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37496400",
+  "fee": "£80M",
+  "published": "2026-07-30T16:47:19+00:00"
+ },
+ {
   "id": "9ff755f92876",
   "title": "Mercato: l'Atlético a déposé une plainte contre le Barça auprès de la Fifa pour Julian Alvarez",
   "player": "Julian Alvarez",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "9a5c6daa7a90",
+  "title": "Harvey Elliott opens up on Aston Villa loan nightmare and second chance at Liverpool",
+  "player": "Harvey Elliott",
+  "title_ko": "하비 엘리엇이 아스톤 빌라 임대의 악몽과 리버풀에서의 두 번째 기회를 열었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harvey-elliott-liverpool-aston-villa-37496661",
+  "fee": null,
+  "published": "2026-07-30T16:50:51+00:00"
+ },
+ {
+  "id": "3d1f36a07d8f",
+  "title": "Arsenal close in on £80m Bruno Guimaraes transfer in major breakthrough for Mikel Arteta",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 미켈 아르테타의 획기적인 돌파구인 브루노 기마라스의 이적료 8000만 파운드에 근접했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37496400",
+  "fee": "£80M",
+  "published": "2026-07-30T16:47:19+00:00"
+ },
+ {
   "id": "9ff755f92876",
   "title": "Mercato: l'Atlético a déposé une plainte contre le Barça auprès de la Fifa pour Julian Alvarez",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-barcelona-bernal-37486050",
   "fee": "£30M",
   "published": "2026-07-29T03:30:00+00:00"
- },
- {
-  "id": "bc52d53126d4",
-  "title": "Mercato: Julian Alvarez bientôt obligé de présenter ses excuses à l'Atlético de Madrid?",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 줄리안 알바레즈가 곧 아틀레티코 마드리드에 사과해야 한다고?",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-julian-alvarez-bientot-oblige-de-presenter-ses-excuses-a-l-atletico-de-madrid_AV-202607280588.html",
-  "fee": null,
-  "published": "2026-07-28T21:46:31+00:00"
- },
- {
-  "id": "29a4f7898091",
-  "title": "Barcola agrees Liverpool move - Wednesday's gossip",
-  "player": "Bradley Barcola",
-  "title_ko": "바르콜라는 리버풀 이적에 동의했다 - 수요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/czrj8ke23g3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-28T21:31:10+00:00"
  }
 ]
