@@ -1,5 +1,18 @@
 [
  {
+  "id": "c1137f3f0989",
+  "title": "Mercato: le PSG et Monaco proches d’un accord pour Akliouche",
+  "player": "Maghnes Akliouche",
+  "title_ko": "Mercato: PSG와 Monaco는 Akliouche에 대한 계약에 가까워졌습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-et-monaco-proches-d-un-accord-pour-akliouche_AV-202607300585.html",
+  "fee": null,
+  "published": "2026-07-30T21:22:19+00:00"
+ },
+ {
   "id": "fddc5b40ee46",
   "title": "Mercato: la drôle de réponse de Hoeness sur un éventuel départ d'Olise du Bayern",
   "player": "Michael Olise",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-michael-carrick-37488415",
   "fee": null,
   "published": "2026-07-29T08:35:34+00:00"
- },
- {
-  "id": "2f21429c1e75",
-  "title": "Aseko-Deal beschert Hertha Millionen-Summe",
-  "player": "Hertha Millionen-",
-  "title_ko": "Aseko 거래로 Hertha는 수백만 달러를 가져왔습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/aseko-deal-beschert-hertha-millionen-summe-1239282/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-29T07:32:17+00:00"
  }
 ]
