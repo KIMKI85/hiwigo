@@ -1,5 +1,18 @@
 [
  {
+  "id": "0d0ebf75e93f",
+  "title": "Ter Stegens möglicher Wechsel: Und täglich grüßt er bei Ajax",
+  "player": "Ter Stegens",
+  "title_ko": "Ter Stegen의 가능한 움직임: 그리고 그는 매일 Ajax에게 인사합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ter-stegens-moeglicher-wechsel-und-taeglich-gruesst-er-bei-ajax-1239440/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T09:03:20+00:00"
+ },
+ {
   "id": "fc9897fe65b7",
   "title": "28 nombres y subiendo, pero sin fichaje",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13567742/hannah-hampton-chelsea-goalkeeper-signs-new-two-year-contract-to-extend-stay-at-stamford-bridge",
   "fee": null,
   "published": "2026-07-28T12:30:00+00:00"
- },
- {
-  "id": "30cca3094a8c",
-  "title": "Xabi Alonso left with easy transfer decision as Chelsea win Western Sydney Wanderers goalfest",
-  "player": "Xabi Alonso",
-  "title_ko": "사비 알론소는 첼시가 서부 시드니 원더러스 골페스트에서 승리하면서 쉬운 이적 결정을 내리고 떠났습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/match-reports/chelsea-western-sydney-wanderers-delap-37485238",
-  "fee": null,
-  "published": "2026-07-28T11:46:40+00:00"
  }
 ]
