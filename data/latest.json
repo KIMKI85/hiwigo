@@ -13,6 +13,19 @@
   "published": "2026-07-30T11:10:00+00:00"
  },
  {
+  "id": "a83942a25b51",
+  "title": "Official: Roma sign Castro in €35m deal from Bologna",
+  "player": "Santiago Castro",
+  "title_ko": "공식: 로마는 볼로냐에서 카스트로를 €35m에 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-roma-sign-castro-from-bologna/",
+  "fee": "€35M",
+  "published": "2026-07-30T10:50:53+00:00"
+ },
+ {
   "id": "b91845a60a07",
   "title": "Bruno Guimaraes' next 24 hours set to prove crucial in Arsenal transfer pursuit",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/vierte-millionenabloese-der-karriere-dorsch-wechselt-in-die-mls-nach-kanada-1237680/artikel#omrss",
   "fee": null,
   "published": "2026-07-28T15:22:27+00:00"
- },
- {
-  "id": "fb187c3bf74d",
-  "title": "Man Utd learn Iliman Ndiaye asking price in transfer battle for Everton star",
-  "player": "Iliman Ndiaye",
-  "title_ko": "맨유는 에버턴 스타의 이적 경쟁에서 가격을 요구하는 일리만 은디아예를 배운다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-iliman-ndiaye-everton-37485684",
-  "fee": null,
-  "published": "2026-07-28T15:16:34+00:00"
  }
 ]
