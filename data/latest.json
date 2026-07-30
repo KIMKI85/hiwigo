@@ -1,5 +1,31 @@
 [
  {
+  "id": "1498b87d1e57",
+  "title": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
+  "player": null,
+  "title_ko": "서류: 아스널이 뉴캐슬의 주장 기마랑이스에 대한 계약을 마감했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
+  "fee": null,
+  "published": "2026-07-30T22:50:00+00:00"
+ },
+ {
+  "id": "700c521589fa",
+  "title": "Mercato: Carlos Espi, la recrue surprise du Real Madrid",
+  "player": "Carlos Espi",
+  "title_ko": "메르카토: 레알 마드리드의 깜짝 영입 카를로스 에스피",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-carlos-espi-la-recrue-surprise-du-real-madrid_AV-202607300590.html",
+  "fee": null,
+  "published": "2026-07-30T21:51:58+00:00"
+ },
+ {
   "id": "f9199d115b6b",
   "title": "Man Utd transfer talks confirmed as agent says deal is close",
   "player": "Orlando Gill",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/erfahrung-fuer-bvb-reserve-weiterer-neuer-bei-1860-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-07-29T09:08:46+00:00"
- },
- {
-  "id": "6b116673fba6",
-  "title": "Erfahrung für BVB-Reserve: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "BVB 리저브 경험: 현재 지역 리그 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/erfahrung-fuer-bvb-reserve-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-29T09:08:46+00:00"
- },
- {
-  "id": "440631ce1cec",
-  "title": "LIVE! Kovac wechselt munter durch: Sorgen um Mane",
-  "player": "Cerezo Osaka",
-  "title_ko": "살다! 유쾌하게 변화하는 코바치: 마네 걱정",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/cerezo-gegen-dortmund-2026-vereine-freundschaftsspiele-5202060/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-07-29T09:00:00+00:00"
  }
 ]
