@@ -1,5 +1,18 @@
 [
  {
+  "id": "a2b10f3be150",
+  "title": "Man United slammed by Gary Neville over failure to land no-brainer Chelsea signing",
+  "player": "Gary Neville",
+  "title_ko": "맨유는 첼시의 영입 실패로 게리 네빌에게 비난을 받았다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-gary-neville-welbeck-37493665",
+  "fee": null,
+  "published": "2026-07-30T09:16:08+00:00"
+ },
+ {
   "id": "0d0ebf75e93f",
   "title": "Ter Stegens möglicher Wechsel: Und täglich grüßt er bei Ajax",
   "player": "Ter Stegens",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/om-il-faut-savoir-etre-patients-genesio-evoque-le-mercato-qui-a-du-mal-a-demarrer_AV-202607280382.html",
   "fee": null,
   "published": "2026-07-28T12:35:05+00:00"
- },
- {
-  "id": "2f9ac8cd772c",
-  "title": "Hampton signs two-year Chelsea deal",
-  "player": "Hannah Hampton",
-  "title_ko": "햄튼, 첼시와 2년 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567742/hannah-hampton-chelsea-goalkeeper-signs-new-two-year-contract-to-extend-stay-at-stamford-bridge",
-  "fee": null,
-  "published": "2026-07-28T12:30:00+00:00"
  }
 ]
