@@ -1,5 +1,18 @@
 [
  {
+  "id": "23d68f04de20",
+  "title": "Harvey Elliott revels in ‘second chance’ at Liverpool and has no regrets over Aston Villa loan",
+  "player": "Harvey Elliott",
+  "title_ko": "하비 엘리엇은 리버풀에서 '두 번째 기회'를 누리며 아스톤 빌라 임대에 대해 후회하지 않습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/30/harvey-elliott-liverpool-second-chance-aston-villa-loan",
+  "fee": null,
+  "published": "2026-07-30T15:00:18+00:00"
+ },
+ {
   "id": "90afaafdecc7",
   "title": "Rangers sign defender Makhanya from MLS",
   "player": "Olwethu Makhanya",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/naechste-leihe-skov-olsen-verlaesst-wolfsburg-in-richtung-istanbul-1239237/artikel#omrss",
   "fee": null,
   "published": "2026-07-28T18:52:25+00:00"
- },
- {
-  "id": "66f70d71c4c9",
-  "title": "Nigeria international Akpoguma flies in for Frosinone medical as free agent",
-  "player": "Kevin Akpoguma",
-  "title_ko": "나이지리아 국가대표 악포구마(Akpoguma)가 프로시논 메디컬(Frosinone Medical)에 FA로 합류했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/nigeria-akpoguma-frosinone-medical-free-agent/",
-  "fee": null,
-  "published": "2026-07-28T18:51:17+00:00"
  }
 ]
