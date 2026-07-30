@@ -1,5 +1,31 @@
 [
  {
+  "id": "e83ec2a056bc",
+  "title": "Chelsea sign Lacroix from Palace",
+  "player": "Maxence Lacroix",
+  "title_ko": "첼시가 팰리스에서 라크로아를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
+  "fee": null,
+  "published": "2026-07-30T11:10:00+00:00"
+ },
+ {
+  "id": "3ea9c3b9ff4e",
+  "title": "El Getafe cierra el fichaje de Giorgi Kochorashvili",
+  "player": "Giorgi Kochorashvili",
+  "title_ko": "헤타페, 기오르기 코코라쉬빌리의 영입을 완료하다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/getafe/2026/07/30/getafe-cierra-fichaje-giorgi-kochorashvili.html",
+  "fee": null,
+  "published": "2026-07-30T10:16:15+00:00"
+ },
+ {
   "id": "10a7119acb02",
   "title": "Premier League rival and six other clubs Eddie Howe could join after shock Newcastle United exit",
   "player": "Eddie Howe",

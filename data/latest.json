@@ -1,5 +1,31 @@
 [
  {
+  "id": "e83ec2a056bc",
+  "title": "Chelsea sign Lacroix from Palace",
+  "player": "Maxence Lacroix",
+  "title_ko": "첼시가 팰리스에서 라크로아를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
+  "fee": null,
+  "published": "2026-07-30T11:10:00+00:00"
+ },
+ {
+  "id": "3ea9c3b9ff4e",
+  "title": "El Getafe cierra el fichaje de Giorgi Kochorashvili",
+  "player": "Giorgi Kochorashvili",
+  "title_ko": "헤타페, 기오르기 코코라쉬빌리의 영입을 완료하다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/getafe/2026/07/30/getafe-cierra-fichaje-giorgi-kochorashvili.html",
+  "fee": null,
+  "published": "2026-07-30T10:16:15+00:00"
+ },
+ {
   "id": "10a7119acb02",
   "title": "Premier League rival and six other clubs Eddie Howe could join after shock Newcastle United exit",
   "player": "Eddie Howe",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/badiashile-targeted-by-napoli-chelsea-unlikely/",
   "fee": "€30M",
   "published": "2026-07-28T15:07:21+00:00"
- },
- {
-  "id": "2214f3f4ff6e",
-  "title": "Chelsea hoping to repeat Man Utd and Liverpool's inspired transfer deals with latest moves",
-  "player": "Danny Welbeck",
-  "title_ko": "첼시는 최근 움직임으로 맨유와 리버풀의 영감을 받은 이적 거래를 반복하기를 희망하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-welbeck-henderson-manutd-liverpool-37486371",
-  "fee": null,
-  "published": "2026-07-28T14:28:33+00:00"
- },
- {
-  "id": "2c13214d14d7",
-  "title": "Mercato: Barcola n'a pas d'accord contractuel avec Liverpool, qui reste sa priorité en cas de départ du PSG",
-  "player": "Bradley Barcola",
-  "title_ko": "메르카토: 바르콜라는 리버풀과 계약상 합의를 맺지 않았는데, 이는 PSG를 떠날 경우에도 우선순위로 남아있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barcola-n-a-pas-d-accord-contractuel-avec-liverpool-qui-reste-sa-priorite-en-cas-de-depart-du-psg_AV-202607280418.html",
-  "fee": null,
-  "published": "2026-07-28T14:18:45+00:00"
  }
 ]
