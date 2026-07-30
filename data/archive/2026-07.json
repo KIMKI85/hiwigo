@@ -1,5 +1,31 @@
 [
  {
+  "id": "654be36846d1",
+  "title": "Video: Stones arrives in Milan for Inter medical",
+  "player": "John Stones",
+  "title_ko": "비디오: 스톤즈, 인터 메디컬을 위해 밀라노에 도착",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-stones-arrives-in-milan-for-inter-medical/",
+  "fee": null,
+  "published": "2026-07-30T08:18:30+00:00"
+ },
+ {
+  "id": "83c4878dfaa8",
+  "title": "Rio Ngumoha provides Bradley Barcola transfer hint as Liverpool beat Wrexham in New York",
+  "player": "Rio Ngumoha",
+  "title_ko": "Rio Ngumoha는 리버풀이 뉴욕에서 Wrexham을 이길 때 Bradley Barcola 이적 힌트를 제공했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ngumoha-bradley-barcola-future-37493301",
+  "fee": null,
+  "published": "2026-07-30T08:10:51+00:00"
+ },
+ {
   "id": "cafbfac413fb",
   "title": "Today’s Papers – Double Juventus deal, Mancini apologises",
   "player": "Sport One",
