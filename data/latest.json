@@ -1,5 +1,44 @@
 [
  {
+  "id": "10a7119acb02",
+  "title": "Premier League rival and six other clubs Eddie Howe could join after shock Newcastle United exit",
+  "player": "Eddie Howe",
+  "title_ko": "프리미어리그 라이벌과 다른 6개 클럽 에디 하우(Eddie Howe)가 뉴캐슬 유나이티드의 탈퇴 이후 합류할 수도 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/eddie-howe-newcastle-exit-latest-37493668",
+  "fee": null,
+  "published": "2026-07-30T10:04:39+00:00"
+ },
+ {
+  "id": "7ad2ef3a4e01",
+  "title": "Chelsea sign Palace defender Lacroix for £52m",
+  "player": "France World",
+  "title_ko": "첼시는 팰리스 수비수 라크르와를 £52m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
+  "fee": "£52M",
+  "published": "2026-07-30T10:03:45+00:00"
+ },
+ {
+  "id": "ed73b21c1265",
+  "title": "Liverpool's significant Bradley Barcola transfer boost as PSG close in on replacement",
+  "player": "Bradley Barcola",
+  "title_ko": "PSG의 교체가 가까워지면서 리버풀의 브래들리 바르콜라 이적 증가가 크게 증가했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-latest-37494081",
+  "fee": null,
+  "published": "2026-07-30T10:01:47+00:00"
+ },
+ {
   "id": "507d9a5421fe",
   "title": "Rodri, Akliouche, Bouaddi... les 5 infos mercato du 30 juillet à la mi-journée",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barcola-n-a-pas-d-accord-contractuel-avec-liverpool-qui-reste-sa-priorite-en-cas-de-depart-du-psg_AV-202607280418.html",
   "fee": null,
   "published": "2026-07-28T14:18:45+00:00"
- },
- {
-  "id": "11e0588e9902",
-  "title": "Bradley Barcola 'reaches verbal agreement' with Liverpool as blockbuster transfer advances",
-  "player": "Bradley Barcola",
-  "title_ko": "브래들리 바르콜라, 블록버스터 이적시장 진전에 따라 리버풀과 '언어적 합의'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-andoni-iraola-37486304",
-  "fee": null,
-  "published": "2026-07-28T14:14:44+00:00"
- },
- {
-  "id": "ad1a4dbecc13",
-  "title": "Mercato: l'OL proche de boucler un nouveau renfort défensif venu du Portugal",
-  "player": "Olympique Lyonnais",
-  "title_ko": "Mercato: OL은 포르투갈로부터 새로운 방어 강화를 완료하는 데 가까워졌습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-proche-de-boucler-un-nouveau-renfort-defensif-venu-du-portugal_AV-202607280406.html",
-  "fee": null,
-  "published": "2026-07-28T13:54:11+00:00"
- },
- {
-  "id": "d744b83de8b8",
-  "title": "Bradley Barcola transfer timeline for Liverpool switch becomes clear during talks",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 이적을 위한 브래들리 바르콜라의 이적 일정은 회담 중 명확해졌습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-latest-37485561",
-  "fee": null,
-  "published": "2026-07-28T12:35:17+00:00"
  }
 ]
