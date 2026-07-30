@@ -1,5 +1,18 @@
 [
  {
+  "id": "9ff755f92876",
+  "title": "Mercato: l'Atlético a déposé une plainte contre le Barça auprès de la Fifa pour Julian Alvarez",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Atlético는 Julian Alvarez에 대해 Fifa에 Barça를 상대로 불만을 제기했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-a-depose-une-plainte-contre-le-barca-aupres-de-la-fifa-pour-julian-alvarez_AD-202607300458.html",
+  "fee": null,
+  "published": "2026-07-30T16:19:06+00:00"
+ },
+ {
   "id": "cd53d3cba62e",
   "title": "Tonali 'took 10 minutes' to decide to join Spurs",
   "player": "Sandro Tonali",
@@ -11,6 +24,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-30T16:01:58+00:00"
+ },
+ {
+  "id": "82a3480601a9",
+  "title": "Alvarez zu Wechsel gedrängt? RFEF eröffnet Verfahren gegen den FC Barcelona",
+  "player": "Dass Julian Alvarez",
+  "title_ko": "알바레즈는 강제로 변화를 겪었나요? RFEF, FC 바르셀로나 상대로 소송 개시",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/alvarez-zu-wechsel-gedraengt-rfef-eroeffnet-verfahren-gegen-den-fc-barcelona-1239687/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T15:57:53+00:00"
  },
  {
   "id": "23d68f04de20",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/czrj8ke23g3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-28T21:31:10+00:00"
- },
- {
-  "id": "6d94925eca5e",
-  "title": "Man Utd eye TWO strikers with Joshua Zirkzee closing in on transfer exit",
-  "player": "Joshua Zirkzee",
-  "title_ko": "맨유는 이적 시장에서 가까워지는 조슈아 지르크지(Joshua Zirkzee)와 함께 두 명의 스트라이커를 노리고 있다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-vlahovic-watkins-37487747",
-  "fee": null,
-  "published": "2026-07-28T20:53:09+00:00"
- },
- {
-  "id": "e3157ef6187a",
-  "title": "Napoli ready for new Lindstrom loan to Schalke 04",
-  "player": "Jesper Lindstrom",
-  "title_ko": "나폴리는 린드스트롬을 샬케 04로 임대할 준비가 되어있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-ready-for-new-lindstrom-loan-schalke-04/",
-  "fee": null,
-  "published": "2026-07-28T18:59:43+00:00"
  }
 ]

@@ -1,5 +1,18 @@
 [
  {
+  "id": "9ff755f92876",
+  "title": "Mercato: l'Atlético a déposé une plainte contre le Barça auprès de la Fifa pour Julian Alvarez",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Atlético는 Julian Alvarez에 대해 Fifa에 Barça를 상대로 불만을 제기했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-a-depose-une-plainte-contre-le-barca-aupres-de-la-fifa-pour-julian-alvarez_AD-202607300458.html",
+  "fee": null,
+  "published": "2026-07-30T16:19:06+00:00"
+ },
+ {
   "id": "cd53d3cba62e",
   "title": "Tonali 'took 10 minutes' to decide to join Spurs",
   "player": "Sandro Tonali",
@@ -11,6 +24,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-30T16:01:58+00:00"
+ },
+ {
+  "id": "82a3480601a9",
+  "title": "Alvarez zu Wechsel gedrängt? RFEF eröffnet Verfahren gegen den FC Barcelona",
+  "player": "Dass Julian Alvarez",
+  "title_ko": "알바레즈는 강제로 변화를 겪었나요? RFEF, FC 바르셀로나 상대로 소송 개시",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/alvarez-zu-wechsel-gedraengt-rfef-eroeffnet-verfahren-gegen-den-fc-barcelona-1239687/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T15:57:53+00:00"
  },
  {
   "id": "23d68f04de20",
