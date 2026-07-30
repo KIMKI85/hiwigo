@@ -1,5 +1,18 @@
 [
  {
+  "id": "f403002bb137",
+  "title": "Mercato: un défenseur croate dans le viseur de l’OM?",
+  "player": "Moris Valincic",
+  "title_ko": "Mercato: OM의 시야에 있는 크로아티아 수비수?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-defenseur-croate-dans-le-viseur-de-l-om_AV-202607300565.html",
+  "fee": null,
+  "published": "2026-07-30T20:11:40+00:00"
+ },
+ {
   "id": "0f7b541a5d29",
   "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
   "player": "Joe Gomez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
   "fee": null,
   "published": "2026-07-29T06:12:56+00:00"
- },
- {
-  "id": "02704b15456f",
-  "title": "Liverpool’s dream final month of transfer window as Iraola reunion secured and Barcola signs",
-  "player": "Andoni Iraola",
-  "title_ko": "이라올라 재결합이 확보되고 바르콜라가 계약하면서 리버풀이 꿈꾸는 이적 기간의 마지막 달",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-iraola-bradley-barcola-37483775",
-  "fee": null,
-  "published": "2026-07-29T05:45:00+00:00"
  }
 ]
