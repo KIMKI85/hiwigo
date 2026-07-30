@@ -1,5 +1,18 @@
 [
  {
+  "id": "86a636cfef08",
+  "title": "Arsenal news: Gunners eye one deal before Bruno Guimaraes transfer as £75m bid submitted",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날 뉴스: 거너스는 브루노 기마랑스가 이적하기 전에 £75m 입찰이 제출되기 전에 한 가지 계약을 고려하고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37490673",
+  "fee": "£75M",
+  "published": "2026-07-30T03:00:00+00:00"
+ },
+ {
   "id": "c837b6ed68d8",
   "title": "Mercato: Manchester City voudrait recruter le Marseillais Geronimo Rulli",
   "player": "Marseillais Geronimo Rulli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-danny-welbeck-chelsea-37483897",
   "fee": null,
   "published": "2026-07-28T09:01:12+00:00"
- },
- {
-  "id": "505126bf9cf6",
-  "title": "Mercato: la contre-attaque du Real Madrid face à Arsenal dans le dossier Vinicius",
-  "player": "Sky Sports",
-  "title_ko": "메르카토: 비니시우스 파일에서 아스날을 상대로 한 레알 마드리드의 반격",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-contre-attaque-du-real-madrid-face-a-arsenal-dans-le-dossier-vinicius_AV-202607280256.html",
-  "fee": null,
-  "published": "2026-07-28T08:45:02+00:00"
  }
 ]
