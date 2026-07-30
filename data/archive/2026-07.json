@@ -1,5 +1,31 @@
 [
  {
+  "id": "1189a99bc5fc",
+  "title": "Roma reach Koulierakis agreement with VfL Wolfsburg: Details revealed",
+  "player": null,
+  "title_ko": "로마, VfL 볼프스부르크와 쿨리에라키스 계약 체결: 세부 사항 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-reach-koulierakis-agreement-wolfsburg/",
+  "fee": null,
+  "published": "2026-07-30T11:18:26+00:00"
+ },
+ {
+  "id": "9bb41291a39f",
+  "title": "Man Utd prepare to take advantage of Newcastle carnage with own signing who wants out",
+  "player": "Lewis Hall",
+  "title_ko": "맨유는 뉴캐슬의 대학살을 활용할 준비를 하고 있으며, 누가 나가기를 원하는지 직접 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-lewis-hall-transfer-37494638",
+  "fee": null,
+  "published": "2026-07-30T11:16:30+00:00"
+ },
+ {
   "id": "e83ec2a056bc",
   "title": "Chelsea sign Lacroix from Palace",
   "player": "Maxence Lacroix",
