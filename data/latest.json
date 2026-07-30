@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd80f43e14c6",
+  "title": "Man Utd news: Marcus Rashford swap deal proposed as Michael Carrick set to axe four players",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 뉴스: 마이클 캐릭이 4명의 선수를 도끼로 만들면서 마커스 래쉬포드 스왑 딜이 제안됐다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-carrick-37491072",
+  "fee": null,
+  "published": "2026-07-30T03:30:00+00:00"
+ },
+ {
   "id": "86a636cfef08",
   "title": "Arsenal news: Gunners eye one deal before Bruno Guimaraes transfer as £75m bid submitted",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-28T09:02:04+00:00"
- },
- {
-  "id": "c04c8c1a3823",
-  "title": "Man Utd stance on hijacking Chelsea's Danny Welbeck transfer after secret talks",
-  "player": "Chelsea's Danny Welbeck",
-  "title_ko": "비밀 회담 이후 첼시의 대니 웰벡 이적을 가로채는 것에 대한 맨유의 입장",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-danny-welbeck-chelsea-37483897",
-  "fee": null,
-  "published": "2026-07-28T09:01:12+00:00"
  }
 ]
