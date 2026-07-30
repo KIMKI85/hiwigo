@@ -1,5 +1,18 @@
 [
  {
+  "id": "48c8debf4f91",
+  "title": "Liverpool signed highly-rated teen, 223-goal striker and title winner from PSG",
+  "player": null,
+  "title_ko": "리버풀은 높은 평가를 받고 있는 10대 공격수이자 223골을 넣은 스트라이커이자 타이틀 우승자인 PSG와 계약했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-psg-anelka-barcola-37495291",
+  "fee": null,
+  "published": "2026-07-30T17:00:00+00:00"
+ },
+ {
   "id": "9a5c6daa7a90",
   "title": "Harvey Elliott opens up on Aston Villa loan nightmare and second chance at Liverpool",
   "player": "Harvey Elliott",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-salah-barcola-psg-transfer-37486063",
   "fee": null,
   "published": "2026-07-29T04:00:00+00:00"
- },
- {
-  "id": "1ff14e424350",
-  "title": "Man Utd news: Barcelona star’s transfer stance emerges as club ‘in talks’ over £30m deal",
-  "player": "Michael Carrick",
-  "title_ko": "맨유 뉴스: 바르셀로나 스타의 이적 입장은 클럽이 £30m 거래에 대해 '협상 중'으로 드러남",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-barcelona-bernal-37486050",
-  "fee": "£30M",
-  "published": "2026-07-29T03:30:00+00:00"
  }
 ]
