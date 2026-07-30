@@ -13,6 +13,19 @@
   "published": "2026-07-30T15:00:00+00:00"
  },
  {
+  "id": "afc2eb5248cc",
+  "title": "Bastoni transfer complicated for Real Madrid after Asencio set-back",
+  "player": "Alessandro Bastoni",
+  "title_ko": "Asencio의 좌절로 인해 레알 마드리드의 Bastoni 이적이 복잡해졌습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bastoni-transfer-complicated-for-real-madrid/",
+  "fee": null,
+  "published": "2026-07-30T14:28:05+00:00"
+ },
+ {
   "id": "3fa0837f3696",
   "title": "South Africa's Makhanya becomes Rangers' eighth summer signing",
   "player": "South Africa's Makhanya",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/vinicius-arsenal-transfer-real-madrid-37487334",
   "fee": null,
   "published": "2026-07-28T17:54:56+00:00"
- },
- {
-  "id": "80c24fbcb4ad",
-  "title": "Sassuolo agreement for Bowie in €10m deal, Mulattieri to Verona",
-  "player": "Kieron Bowie",
-  "title_ko": "Bowie의 Sassuolo 계약, €10m 계약, Mulattieri와 Verona",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/sassuolo-agreement-for-bowie-in-e10m-deal/",
-  "fee": "€10M",
-  "published": "2026-07-28T17:46:26+00:00"
  }
 ]
