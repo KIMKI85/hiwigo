@@ -1,5 +1,18 @@
 [
  {
+  "id": "4ad07d262f88",
+  "title": "Liverpool news: Bradley Barcola negotiations opened as target hands in transfer request",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 이적 요청의 표적이 되면서 브래들리 바르콜라 협상이 시작되었습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-request-37490062",
+  "fee": null,
+  "published": "2026-07-30T04:00:00+00:00"
+ },
+ {
   "id": "dd80f43e14c6",
   "title": "Man Utd news: Marcus Rashford swap deal proposed as Michael Carrick set to axe four players",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nabil-fekir-devrait-rejoindre-l-arabie-saoudite_AV-202607280287.html",
   "fee": null,
   "published": "2026-07-28T09:28:01+00:00"
- },
- {
-  "id": "670ed46238ce",
-  "title": "Newcastle sign Liverpool forward Kiernan",
-  "player": "Leanne Kiernan",
-  "title_ko": "뉴캐슬, 리버풀의 공격수 키어넌 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-28T09:02:04+00:00"
  }
 ]
