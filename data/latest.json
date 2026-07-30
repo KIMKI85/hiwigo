@@ -1,5 +1,18 @@
 [
  {
+  "id": "7e7bf2ec706c",
+  "title": "Man Utd ready to offload quartet including player they refused to swap for Carlos Baleba",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유는 카를로스 발레바와의 교체를 거부한 선수를 포함해 4인조를 내보낼 준비가 되어 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-summer-departures-collyer-37495307",
+  "fee": null,
+  "published": "2026-07-30T12:53:59+00:00"
+ },
+ {
   "id": "ac3009517174",
   "title": "Official: Dovbyk joins Bologna from Roma with permanent option",
   "player": "Artem Dovbyk",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-shock-markmann-refusal-6m-nordsjaelland/",
   "fee": "€6M",
   "published": "2026-07-28T16:52:03+00:00"
- },
- {
-  "id": "1d4e0968fc58",
-  "title": "Official: Juventus loan flop Openda to Lyon, no option to buy",
-  "player": "Lois Openda",
-  "title_ko": "공식: 유벤투스 임대 실패 오픈다에서 리옹으로, 구매 옵션 없음",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-juventus-loan-openda-lyon-no-option/",
-  "fee": null,
-  "published": "2026-07-28T16:41:15+00:00"
  }
 ]
