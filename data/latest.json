@@ -13,6 +13,19 @@
   "published": "2026-07-30T11:10:00+00:00"
  },
  {
+  "id": "b91845a60a07",
+  "title": "Bruno Guimaraes' next 24 hours set to prove crucial in Arsenal transfer pursuit",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑이스의 다음 24시간은 아스날 이적 추구에 결정적인 역할을 할 것으로 예상된다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-bruno-guimaraes-37494075",
+  "fee": null,
+  "published": "2026-07-30T10:29:03+00:00"
+ },
+ {
   "id": "3ea9c3b9ff4e",
   "title": "El Getafe cierra el fichaje de Giorgi Kochorashvili",
   "player": "Giorgi Kochorashvili",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-iliman-ndiaye-everton-37485684",
   "fee": null,
   "published": "2026-07-28T15:16:34+00:00"
- },
- {
-  "id": "3e9c242c6e15",
-  "title": "Badiashile targeted by Napoli, but Chelsea agreement unlikely at €30m",
-  "player": "Benoit Badiashile",
-  "title_ko": "나폴리가 노리는 바디아실레, 첼시가 €30m에 합의할 가능성은 낮음",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/badiashile-targeted-by-napoli-chelsea-unlikely/",
-  "fee": "€30M",
-  "published": "2026-07-28T15:07:21+00:00"
  }
 ]
