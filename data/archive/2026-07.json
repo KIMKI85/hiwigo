@@ -1,5 +1,31 @@
 [
  {
+  "id": "ac3009517174",
+  "title": "Official: Dovbyk joins Bologna from Roma with permanent option",
+  "player": "Artem Dovbyk",
+  "title_ko": "공식: 도브비크는 영구 옵션으로 로마에서 볼로냐에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-dovbyk-joins-bologna-from-roma/",
+  "fee": null,
+  "published": "2026-07-30T12:39:23+00:00"
+ },
+ {
+  "id": "535515eba005",
+  "title": "De Zerbi kündigt weiteren \"Bomba\"-Transfer für Tottenham an",
+  "player": "De Zerbi",
+  "title_ko": "데 제르비는 토트넘의 또 다른 \"봄바\" 이적을 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/de-zerbi-kuendigt-weiteren-bomba-transfer-fuer-tottenham-an-1239647/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T12:29:01+00:00"
+ },
+ {
   "id": "42db60ba7c38",
   "title": "Chelsea complete deal for Crystal Palace and France defender Maxence Lacroix",
   "player": "Maxence Lacroix",

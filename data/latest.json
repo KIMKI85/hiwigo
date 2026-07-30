@@ -1,5 +1,31 @@
 [
  {
+  "id": "ac3009517174",
+  "title": "Official: Dovbyk joins Bologna from Roma with permanent option",
+  "player": "Artem Dovbyk",
+  "title_ko": "공식: 도브비크는 영구 옵션으로 로마에서 볼로냐에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-dovbyk-joins-bologna-from-roma/",
+  "fee": null,
+  "published": "2026-07-30T12:39:23+00:00"
+ },
+ {
+  "id": "535515eba005",
+  "title": "De Zerbi kündigt weiteren \"Bomba\"-Transfer für Tottenham an",
+  "player": "De Zerbi",
+  "title_ko": "데 제르비는 토트넘의 또 다른 \"봄바\" 이적을 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/de-zerbi-kuendigt-weiteren-bomba-transfer-fuer-tottenham-an-1239647/artikel#omrss",
+  "fee": null,
+  "published": "2026-07-30T12:29:01+00:00"
+ },
+ {
   "id": "42db60ba7c38",
   "title": "Chelsea complete deal for Crystal Palace and France defender Maxence Lacroix",
   "player": "Maxence Lacroix",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-juventus-loan-openda-lyon-no-option/",
   "fee": null,
   "published": "2026-07-28T16:41:15+00:00"
- },
- {
-  "id": "d2237da35b23",
-  "title": "Would Leeds move help Trafford oust Pickford from England team?",
-  "player": "James Trafford's England",
-  "title_ko": "리즈의 움직임이 트래포드가 잉글랜드 팀에서 픽포드를 쫓아내는 데 도움이 될까요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-28T16:28:44+00:00"
- },
- {
-  "id": "f8ac409b9694",
-  "title": "Mercato: pourquoi un transfert de Barcola pourrait faire du bien aux finances de l'OL (même sans pourcentage à la revente)",
-  "player": "Bradley Barcola",
-  "title_ko": "Mercato: Barcola로부터의 이전이 OL의 재정에 도움이 될 수 있는 이유(재판매 비율이 없더라도)",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-un-transfert-de-barcola-pourrait-faire-du-bien-aux-finances-de-l-ol-meme-sans-pourcentage-a-la-revente_AV-202607280472.html",
-  "fee": null,
-  "published": "2026-07-28T16:18:38+00:00"
  }
 ]
