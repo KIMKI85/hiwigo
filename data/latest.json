@@ -1,5 +1,18 @@
 [
  {
+  "id": "592b8531f27d",
+  "title": "Ancelotti explains why he turned down the Italy job: ‘Not a contract issue’",
+  "player": "Carlo Ancelotti",
+  "title_ko": "안첼로티가 이탈리아 이적을 거절한 이유: '계약 문제가 아니다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ancelotti-explains-italy-snub-no-contract/",
+  "fee": null,
+  "published": "2026-07-30T11:42:56+00:00"
+ },
+ {
   "id": "1189a99bc5fc",
   "title": "Roma reach Koulierakis agreement with VfL Wolfsburg: Details revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-28T16:18:21+00:00"
- },
- {
-  "id": "2b294185f066",
-  "title": "Mercato: des discussions entre l'OM et le Bayer Leverkusen pour Facundo Medina",
-  "player": "Facundo Medina",
-  "title_ko": "Mercato: Facundo Medina에 대한 OM과 바이엘 레버쿠젠 간의 토론",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-des-discussions-entre-l-om-et-le-bayer-leverkusen-pour-facundo-medina_AV-202607280454.html",
-  "fee": null,
-  "published": "2026-07-28T15:57:31+00:00"
  }
 ]
