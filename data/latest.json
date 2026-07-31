@@ -1,5 +1,18 @@
 [
  {
+  "id": "e0bc4c9e26cb",
+  "title": "Andoni Iraola's dream Joe Gomez replacement as Liverpool boss signs £40m former player",
+  "player": "Andoni Iraola's",
+  "title_ko": "안도니 이라올라의 꿈, 조 고메즈 교체로 리버풀 감독이 전 선수 £40m 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-defender-james-hill-37486565",
+  "fee": "£40M",
+  "published": "2026-07-31T04:30:00+00:00"
+ },
+ {
   "id": "3c755970fb39",
   "title": "Liverpool news: PSG breakthrough offers major Bradley Barcola boost as club line up move",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-mikel-arteta-37489318",
   "fee": null,
   "published": "2026-07-29T09:56:56+00:00"
- },
- {
-  "id": "e30a26bd13ca",
-  "title": "Liverpool set to open talks with PSG over Barcola signing",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 바르콜라 영입을 위해 PSG와 협상을 개시할 예정이다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared",
-  "fee": null,
-  "published": "2026-07-29T09:50:00+00:00"
  }
 ]
