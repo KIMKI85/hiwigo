@@ -1,5 +1,18 @@
 [
  {
+  "id": "6f222a10a94b",
+  "title": "Tonali says Tottenham were ‘the best solution’; ‘Italy move not financially possible’",
+  "player": "Sandro Tonali",
+  "title_ko": "Tonali는 Tottenham이 '최고의 솔루션'이라고 말했습니다. '이탈리아 이전은 재정적으로 불가능하다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tonali-says-tottenham-were-the-best-solution/",
+  "fee": null,
+  "published": "2026-07-31T13:42:24+00:00"
+ },
+ {
   "id": "9b4695319399",
   "title": "Chelsea hit with £10m fine and suspended transfer ban after Roman Abramovich breaches",
   "player": "Roman Abramovich",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-kolo-muani-juventus-obligation-psg/",
   "fee": "€38M",
   "published": "2026-07-29T13:27:56+00:00"
- },
- {
-  "id": "f805672a39aa",
-  "title": "Mercato: Manchester City accélère pour Ayyoub Bouaddi",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "Mercato: 맨체스터 시티는 Ayyoub Bouaddi를 위해 가속하고 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-accelere-pour-ayyoub-bouaddi_AV-202607290325.html",
-  "fee": null,
-  "published": "2026-07-29T13:24:26+00:00"
  }
 ]
