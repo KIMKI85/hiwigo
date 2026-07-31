@@ -1,5 +1,18 @@
 [
  {
+  "id": "adac3a291d69",
+  "title": "Arsenal news: Bruno Guimaraes twist as Gunners issue major transfer hint",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날 뉴스: 거너스가 주요 이적 힌트를 발표하면서 브루노 기마랑스가 반전을 일으켰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-37495464",
+  "fee": null,
+  "published": "2026-07-31T03:00:00+00:00"
+ },
+ {
   "id": "1498b87d1e57",
   "title": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro",
   "fee": null,
   "published": "2026-07-29T09:30:33+00:00"
- },
- {
-  "id": "2cc6778d6a1f",
-  "title": "Marcus Rashford swap deal proposal could trigger £51m Man Utd transfer",
-  "player": "Marcus Rashford",
-  "title_ko": "마커스 래쉬포드 스왑 딜 제안은 £51m의 맨유 이적을 유발할 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-kone-37488785",
-  "fee": "£51M",
-  "published": "2026-07-29T09:30:06+00:00"
  }
 ]
