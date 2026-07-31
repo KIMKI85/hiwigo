@@ -1,5 +1,18 @@
 [
  {
+  "id": "1f9df1342f0e",
+  "title": "Akliouche, Nzonzi, ter Stegen... les 5 infos mercato du 31 juillet à la mi-journée",
+  "player": null,
+  "title_ko": "Akliouche, Nzonzi, ter Stegen...7월 31일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-akliouche-nzonzi-ter-stegen-les-5-infos-mercato-du-31-juillet-a-la-mi-journee_VN-202607310335.html",
+  "fee": null,
+  "published": "2026-07-31T12:20:05+00:00"
+ },
+ {
   "id": "9f5c73cc63f5",
   "title": "Man Utd asking for 'day-to-day' updates on striker transfer as £30m bid lands",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/brentford-jordan-henderson-chelsea-transfer-37490801",
   "fee": null,
   "published": "2026-07-29T13:09:43+00:00"
- },
- {
-  "id": "8dc38d131acb",
-  "title": "Vinicius Jr's agent gave transfer advice as Arsenal plot move for Real Madrid superstar",
-  "player": "Vinicius Jr's",
-  "title_ko": "비니시우스 주니어의 에이전트는 레알 마드리드 슈퍼스타를 위한 아스날의 이적 계획에 대해 이적 조언을 제공했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-madrid-37490051",
-  "fee": null,
-  "published": "2026-07-29T12:56:13+00:00"
  }
 ]
