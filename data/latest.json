@@ -1,5 +1,31 @@
 [
  {
+  "id": "decfebac64a7",
+  "title": "Vinicius Jr moves step closer to potential Arsenal transfer after Real Madrid decision",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어는 레알 마드리드 결정 이후 아스날 이적 가능성에 한 걸음 더 다가섰다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-latest-37501672",
+  "fee": null,
+  "published": "2026-07-31T17:53:41+00:00"
+ },
+ {
+  "id": "2d2a7e1da955",
+  "title": "Valdepenas: ‘I am super happy to be at Fiorentina’ after Real Madrid move",
+  "player": "Victor Valdepenas",
+  "title_ko": "발데페나스: 레알 마드리드 이적 후 '피오렌티나에 있어서 정말 행복하다'",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/valdepenas-super-happy-fiorentina-real-madrid/",
+  "fee": null,
+  "published": "2026-07-31T17:52:24+00:00"
+ },
+ {
   "id": "4dc555d0a5b5",
   "title": "Bruno Guimaraes' agent teases Arsenal with Vinicius Jr post amid agreement claims",
   "player": "Bruno Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-bologna-buy-amondarain-estudiantes/",
   "fee": "€9M",
   "published": "2026-07-29T16:12:44+00:00"
- },
- {
-  "id": "fbf0e9c2e5dc",
-  "title": "Liveblog: Italy unveil Mancini and Ranieri as new coach and director",
-  "player": null,
-  "title_ko": "라이브 블로그: 이탈리아, 새로운 코치이자 감독으로 만치니와 라니에리 공개",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/liveblog-italy-mancini-ranieri-coach-director/",
-  "fee": null,
-  "published": "2026-07-29T16:06:49+00:00"
- },
- {
-  "id": "daaab1f3da64",
-  "title": "PSG progress in talks for Parma goalkeeper Suzuki and open up to loan idea",
-  "player": null,
-  "title_ko": "PSG는 파르마 골키퍼 스즈키에 대한 협상을 진행하고 임대 아이디어를 공개했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/psg-progress-in-talks-for-parma-suzuki/",
-  "fee": null,
-  "published": "2026-07-29T15:58:26+00:00"
  }
 ]
