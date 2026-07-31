@@ -1,5 +1,31 @@
 [
  {
+  "id": "4f10d9e43d10",
+  "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
+  "player": "Vinicius Jr",
+  "title_ko": "서류: 레알 마드리드는 아스날이 비니시우스 주니어를 타겟으로 클럽을 떠날 가능성이 있음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
+  "fee": null,
+  "published": "2026-07-31T23:30:00+00:00"
+ },
+ {
+  "id": "c0e7dd31a0a3",
+  "title": "Bowie makes loan switch to Serie A side Sassuolo",
+  "player": "Kieron Bowie",
+  "title_ko": "보위, 세리에 A 팀 사수올로로 임대 전환",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-31T22:40:49+00:00"
+ },
+ {
   "id": "3ace1e6ddf7a",
   "title": "Mercato: le PSG discute pour l'ailier belge Mika Godts",
   "player": "Mika Godts",
