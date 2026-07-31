@@ -1,5 +1,18 @@
 [
  {
+  "id": "d538c94c51fb",
+  "title": "Done Deal: Halhal arrives for Venezia, €5m plus bonus agreement with KV Mechelen",
+  "player": "Redouane Halhal",
+  "title_ko": "거래 완료: 할할이 베네치아로 도착, €5m에 KV 메헬렌과 보너스 계약",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-halhal-arrive-venezia-e5m-plus-bonus/",
+  "fee": "€5M",
+  "published": "2026-07-31T19:23:04+00:00"
+ },
+ {
   "id": "f3d9067e78a1",
   "title": "Official: Genoa sign Mitaj from Al-Ittihad in agreement worth up to €6.5m",
   "player": "Mario Mitaj",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-want-ivanovic-on-loan-struggle-benfica/",
   "fee": null,
   "published": "2026-07-29T19:17:09+00:00"
- },
- {
-  "id": "b9aecec068cc",
-  "title": "Bradley Barcola transfer: Liverpool ready £110m bid as PSG star approves Anfield move",
-  "player": "Bradley Barcola",
-  "title_ko": "브래들리 바르콜라 이적: PSG 스타가 안필드 이적을 승인함에 따라 리버풀은 £110m 입찰 준비",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-bid-bradley-barcola-37492415",
-  "fee": "£110M",
-  "published": "2026-07-29T18:29:30+00:00"
  }
 ]
