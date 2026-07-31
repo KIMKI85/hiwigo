@@ -13,6 +13,19 @@
   "published": "2026-07-31T15:59:30+00:00"
  },
  {
+  "id": "5266f3133010",
+  "title": "Real Madrid make final Vinicius Jr decision as Arsenal put on transfer red alert",
+  "player": "Vinicius Jr",
+  "title_ko": "레알 마드리드는 아스날이 이적 적색 경보를 발령함에 따라 비니시우스 주니어에게 최종 결정을 내렸습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-arsenal-real-madrid-transfer-37500663",
+  "fee": null,
+  "published": "2026-07-31T15:55:23+00:00"
+ },
+ {
   "id": "0fcf082d6d88",
   "title": "Matthias Jaissle can hand Newcastle chance to sign title winner and help fill Anthony Gordon void",
   "player": "Matthias Jaissle",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy0jwlx5pkeo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-29T14:35:42+00:00"
- },
- {
-  "id": "3573e551fc90",
-  "title": "Surprise report Alajbegovic will join Juventus in €33m plus bonus agreement",
-  "player": "Sky Sports Deutschland",
-  "title_ko": "깜짝 보고서 알라이베고비치는 3,300만 유로에 보너스 계약을 더해 유벤투스에 합류할 것입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-alajbegovic-join-juventus-in-e33m/",
-  "fee": "€33M",
-  "published": "2026-07-29T14:30:18+00:00"
  }
 ]
