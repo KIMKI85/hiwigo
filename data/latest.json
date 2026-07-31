@@ -1,5 +1,31 @@
 [
  {
+  "id": "70e5b207c6cb",
+  "title": "Official: Bowie joins Sassuolo in €10.5m deal, Mulattieri move to Verona",
+  "player": "Kieron Bowie",
+  "title_ko": "공식: Bowie는 €10.5m 거래로 Sassuolo에 합류했고 Mulattieri는 베로나로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bowie-join-sassuolo-mulattieri-verona/",
+  "fee": "€10.5M",
+  "published": "2026-07-31T15:59:30+00:00"
+ },
+ {
+  "id": "0fcf082d6d88",
+  "title": "Matthias Jaissle can hand Newcastle chance to sign title winner and help fill Anthony Gordon void",
+  "player": "Matthias Jaissle",
+  "title_ko": "Matthias Jaissle은 뉴캐슬에게 타이틀 우승자와 계약하고 Anthony Gordon의 공백을 메울 수 있는 기회를 줄 수 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/matthias-jaissle-newcastle-united-transfer-37501071",
+  "fee": null,
+  "published": "2026-07-31T15:48:57+00:00"
+ },
+ {
   "id": "43ee6e069e99",
   "title": "Chalobah closer to Como with guaranteed €30m fee to Chelsea",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/chalobah-closer-to-como-e30m-fee-to-chelsea/",
   "fee": "€30M",
   "published": "2026-07-31T15:15:48+00:00"
+ },
+ {
+  "id": "ce7dadeea5f1",
+  "title": "\"Es ist fast alles durch\": Kovac bestätigt baldigen Karetsas-Transfer",
+  "player": "Niko Kovac",
+  "title_ko": "\"거의 다 끝났습니다\": Kovac은 Karetsa의 이적을 곧 확인합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/es-ist-fast-alles-durch-kovac-bestaetigt-baldigen-karetsas-transfer-1239922/video#omrss",
+  "fee": null,
+  "published": "2026-07-31T15:13:50+00:00"
  },
  {
   "id": "bca634e9cbf1",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/report-alajbegovic-join-juventus-in-e33m/",
   "fee": "€33M",
   "published": "2026-07-29T14:30:18+00:00"
- },
- {
-  "id": "b299257e6243",
-  "title": "Shock report Alajbegovic will join Juventus in €33m plus bonus agreement",
-  "player": "Sky Sports Deutschland",
-  "title_ko": "충격적인 보고서 Alajbegovic은 € 33m + 보너스 계약으로 유벤투스에 합류 할 것입니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/shock-report-alajbegovic-join-juventus-in-e33m/",
-  "fee": "€33M",
-  "published": "2026-07-29T14:30:18+00:00"
- },
- {
-  "id": "c7ab6da74bbf",
-  "title": "Matsimas Wechsel zu Crystal Palace geplatzt",
-  "player": "Matsimas Wechsel",
-  "title_ko": "마시마의 크리스탈팰리스 이적은 무산됐다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/matsimas-wechsel-zu-crystal-palace-geplatzt-1239438/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-29T14:23:41+00:00"
- },
- {
-  "id": "20c597b0eb33",
-  "title": "Newcastle sign Spurs forward Thomas",
-  "player": "Martha Thomas",
-  "title_ko": "뉴캐슬, 토트넘의 포워드 토마스 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy8eg973jw6o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-29T14:21:31+00:00"
  }
 ]

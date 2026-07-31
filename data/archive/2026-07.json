@@ -1,5 +1,31 @@
 [
  {
+  "id": "70e5b207c6cb",
+  "title": "Official: Bowie joins Sassuolo in €10.5m deal, Mulattieri move to Verona",
+  "player": "Kieron Bowie",
+  "title_ko": "공식: Bowie는 €10.5m 거래로 Sassuolo에 합류했고 Mulattieri는 베로나로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bowie-join-sassuolo-mulattieri-verona/",
+  "fee": "€10.5M",
+  "published": "2026-07-31T15:59:30+00:00"
+ },
+ {
+  "id": "0fcf082d6d88",
+  "title": "Matthias Jaissle can hand Newcastle chance to sign title winner and help fill Anthony Gordon void",
+  "player": "Matthias Jaissle",
+  "title_ko": "Matthias Jaissle은 뉴캐슬에게 타이틀 우승자와 계약하고 Anthony Gordon의 공백을 메울 수 있는 기회를 줄 수 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/matthias-jaissle-newcastle-united-transfer-37501071",
+  "fee": null,
+  "published": "2026-07-31T15:48:57+00:00"
+ },
+ {
   "id": "43ee6e069e99",
   "title": "Chalobah closer to Como with guaranteed €30m fee to Chelsea",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/chalobah-closer-to-como-e30m-fee-to-chelsea/",
   "fee": "€30M",
   "published": "2026-07-31T15:15:48+00:00"
+ },
+ {
+  "id": "ce7dadeea5f1",
+  "title": "\"Es ist fast alles durch\": Kovac bestätigt baldigen Karetsas-Transfer",
+  "player": "Niko Kovac",
+  "title_ko": "\"거의 다 끝났습니다\": Kovac은 Karetsa의 이적을 곧 확인합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/es-ist-fast-alles-durch-kovac-bestaetigt-baldigen-karetsas-transfer-1239922/video#omrss",
+  "fee": null,
+  "published": "2026-07-31T15:13:50+00:00"
  },
  {
   "id": "bca634e9cbf1",
