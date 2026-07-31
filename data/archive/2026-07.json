@@ -1,5 +1,31 @@
 [
  {
+  "id": "9b4695319399",
+  "title": "Chelsea hit with £10m fine and suspended transfer ban after Roman Abramovich breaches",
+  "player": "Roman Abramovich",
+  "title_ko": "첼시는 로만 아브라모비치의 위반으로 £10m의 벌금과 이적 금지 정지 처분을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-hit-10m-fine-transfer-37500205",
+  "fee": "£10M",
+  "published": "2026-07-31T13:05:27+00:00"
+ },
+ {
+  "id": "65fa1f25f587",
+  "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
+  "player": "Bruno Guimarães",
+  "title_ko": "아스날은 뉴캐슬의 프리시즌 캠프에 참가하지 않고 브루노 기마랑이스를 노리고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
+  "fee": null,
+  "published": "2026-07-31T12:50:35+00:00"
+ },
+ {
   "id": "f2cb571d8242",
   "title": "Inter target Jones in Liverpool bust-up with Szoboszlai and Tsimikas",
   "player": "Curtis Jones",
