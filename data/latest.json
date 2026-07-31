@@ -78,6 +78,19 @@
   "published": "2026-07-30T22:47:02+00:00"
  },
  {
+  "id": "5fff1f9a3275",
+  "title": "'Sassuolo agree £10m fee for Bowie' - gossip",
+  "player": "Kieron Bowie",
+  "title_ko": "'사수올로는 보위의 이적료 £10m에 동의' - 가십",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2548lxkrno?at_medium=RSS&at_campaign=rss",
+  "fee": "£10M",
+  "published": "2026-07-30T22:19:58+00:00"
+ },
+ {
   "id": "700c521589fa",
   "title": "Mercato: Carlos Espi, la recrue surprise du Real Madrid",
   "player": "Carlos Espi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-zirkzee-tchouameni-hall-37488451",
   "fee": null,
   "published": "2026-07-29T09:57:10+00:00"
- },
- {
-  "id": "0dcab95636ad",
-  "title": "Mikel Arteta could be forced to break his own Arsenal rule in major transfer U-turn",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타는 주요 이적 유턴에서 자신의 아스날 규칙을 깨뜨려야 할 수도 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-mikel-arteta-37489318",
-  "fee": null,
-  "published": "2026-07-29T09:56:56+00:00"
  }
 ]

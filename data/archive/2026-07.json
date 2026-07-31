@@ -78,6 +78,19 @@
   "published": "2026-07-30T22:47:02+00:00"
  },
  {
+  "id": "5fff1f9a3275",
+  "title": "'Sassuolo agree £10m fee for Bowie' - gossip",
+  "player": "Kieron Bowie",
+  "title_ko": "'사수올로는 보위의 이적료 £10m에 동의' - 가십",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2548lxkrno?at_medium=RSS&at_campaign=rss",
+  "fee": "£10M",
+  "published": "2026-07-30T22:19:58+00:00"
+ },
+ {
   "id": "700c521589fa",
   "title": "Mercato: Carlos Espi, la recrue surprise du Real Madrid",
   "player": "Carlos Espi",
