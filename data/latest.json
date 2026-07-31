@@ -1,5 +1,18 @@
 [
  {
+  "id": "8747840a8ff5",
+  "title": "Bournemouth agree £26m fee for Benfica defender Silva",
+  "player": "Antonio Silva",
+  "title_ko": "본머스는 벤피카 수비수 실바의 이적료 £26m에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
+  "fee": "£26M",
+  "published": "2026-07-31T08:03:13+00:00"
+ },
+ {
   "id": "e0bc4c9e26cb",
   "title": "Andoni Iraola's dream Joe Gomez replacement as Liverpool boss signs £40m former player",
   "player": "Andoni Iraola's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcola-liverpool-transfer-luis-diaz-37489313",
   "fee": null,
   "published": "2026-07-29T10:07:49+00:00"
- },
- {
-  "id": "2e5b854b8b4c",
-  "title": "Ranking Man Utd's four transfer priorities as exit set to change Michael Carrick's plans",
-  "player": "Michael Carrick's",
-  "title_ko": "마이클 캐릭의 계획을 바꿀 출구로 맨유의 4가지 이적 우선순위를 매긴다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-zirkzee-tchouameni-hall-37488451",
-  "fee": null,
-  "published": "2026-07-29T09:57:10+00:00"
  }
 ]
