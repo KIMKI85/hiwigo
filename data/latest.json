@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f5c73cc63f5",
+  "title": "Man Utd asking for 'day-to-day' updates on striker transfer as £30m bid lands",
+  "player": null,
+  "title_ko": "£30m 입찰이 성사되면서 스트라이커 이적에 대한 '일상적인' 업데이트를 요청하는 맨유",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/nicolo-tresoldi-man-utd-brugge-37499696",
+  "fee": "£30M",
+  "published": "2026-07-31T11:57:37+00:00"
+ },
+ {
   "id": "214f9557efde",
   "title": "Mercato: accord total entre le PSG et Monaco pour le transfert de Maghnes Akliouche",
   "player": "Maghnes Akliouche",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-junior-transfer-madrid-37490051",
   "fee": null,
   "published": "2026-07-29T12:56:13+00:00"
- },
- {
-  "id": "3c942085add1",
-  "title": "Report Kolo Muani set for Juventus medical within 48 hours after PSG agreement",
-  "player": "Kolo Muani",
-  "title_ko": "PSG 계약 후 48시간 이내에 유벤투스 메디컬에 콜로 무아니 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-kolo-muani-set-for-juventus-medical-psg/",
-  "fee": null,
-  "published": "2026-07-29T12:48:44+00:00"
  }
 ]
