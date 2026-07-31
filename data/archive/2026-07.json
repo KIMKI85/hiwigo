@@ -13,6 +13,45 @@
   "published": "2026-07-31T14:28:00+00:00"
  },
  {
+  "id": "50b25c23c3f4",
+  "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
+  "player": "Arne Engels",
+  "title_ko": "셀틱은 웨스트햄 엥겔스의 입찰을 거부하고 존스턴의 관심을 확인했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-31T14:15:10+00:00"
+ },
+ {
+  "id": "50b25c23c3f4",
+  "title": "Celtic reject Engels bid and confirm Johnston interest",
+  "player": "Arne Engels",
+  "title_ko": "Celtic은 Engels의 입찰을 거부하고 Johnston의 관심을 확인했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-31T14:15:10+00:00"
+ },
+ {
+  "id": "70986b2d9c59",
+  "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
+  "player": "Clearlake Capital",
+  "title_ko": "첼시는 에이전트 위반으로 FA로부터 £10m의 벌금과 이적 금지 처분을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches",
+  "fee": "£10M",
+  "published": "2026-07-31T13:55:58+00:00"
+ },
+ {
   "id": "85fa8d9b3ef6",
   "title": "Roma targeted Endrick and Mastantuono for Real Madrid loans",
   "player": null,
