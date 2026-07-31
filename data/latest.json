@@ -1,5 +1,31 @@
 [
  {
+  "id": "bca634e9cbf1",
+  "title": "Chelsea handed £10m fine and suspended transfer ban",
+  "player": "Football Association",
+  "title_ko": "첼시는 벌금 1000만 파운드와 이적 금지 정지를 선고받았다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
+  "fee": "£10M",
+  "published": "2026-07-31T14:28:00+00:00"
+ },
+ {
+  "id": "85fa8d9b3ef6",
+  "title": "Roma targeted Endrick and Mastantuono for Real Madrid loans",
+  "player": null,
+  "title_ko": "로마는 레알 마드리드 임대를 위해 엔드릭과 마스탄투오노를 노렸다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-targeted-endrick-mastantuono-real-madrid/",
+  "fee": null,
+  "published": "2026-07-31T13:47:12+00:00"
+ },
+ {
   "id": "6f222a10a94b",
   "title": "Tonali says Tottenham were ‘the best solution’; ‘Italy move not financially possible’",
   "player": "Sandro Tonali",
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/malaga/2026/07/29/branding-trofeo-costa-sol-acuerdo-historico-malaga.html",
   "fee": null,
   "published": "2026-07-29T13:48:59+00:00"
- },
- {
-  "id": "8045bb480671",
-  "title": "Official: Bisseck signs new Inter contract after Bayern Munich speculation",
-  "player": "Yann Bisseck",
-  "title_ko": "공식: Bisseck은 바이에른 뮌헨 추측 이후 새로운 인테르 계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-inter-bisseck-new-contract-bayern/",
-  "fee": null,
-  "published": "2026-07-29T13:31:48+00:00"
- },
- {
-  "id": "3cfa9d372f9e",
-  "title": "Done Deal: Kolo Muani to Juventus, obligation to buy €38m plus €12m bonus from PSG",
-  "player": "Kolo Muani",
-  "title_ko": "거래 완료: 유벤투스로 콜로 무아니, PSG로부터 €38m + €12m 보너스 구매 의무",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-kolo-muani-juventus-obligation-psg/",
-  "fee": "€38M",
-  "published": "2026-07-29T13:27:56+00:00"
  }
 ]
