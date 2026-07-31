@@ -1,5 +1,18 @@
 [
  {
+  "id": "24c32cbb2181",
+  "title": "Report Napoli want Gatti on loan with option to buy from Juventus",
+  "player": "Max Allegri",
+  "title_ko": "나폴리는 가티를 유벤투스로부터 구매할 수 있는 옵션과 함께 임대를 원한다고 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-napoli-want-gatti-option-juventus/",
+  "fee": null,
+  "published": "2026-07-31T16:52:25+00:00"
+ },
+ {
   "id": "70e5b207c6cb",
   "title": "Official: Bowie joins Sassuolo in €10.5m deal, Mulattieri move to Verona",
   "player": "Kieron Bowie",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-interet-pour-suzuki-situation-de-chevalier-le-psg-actif-sur-le-poste-de-gardien_AV-202607290378.html",
   "fee": null,
   "published": "2026-07-29T15:19:02+00:00"
- },
- {
-  "id": "4708c9e73359",
-  "title": "Shankland named captain as Rangers near Makhanya signing",
-  "player": "Lawrence Shankland",
-  "title_ko": "Shankland는 Makhanya 계약 근처에서 레인저스 주장으로 임명되었습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy0jwlx5pkeo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-29T14:35:42+00:00"
  }
 ]
