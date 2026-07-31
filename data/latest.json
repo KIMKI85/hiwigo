@@ -13,6 +13,19 @@
   "published": "2026-07-31T23:30:00+00:00"
  },
  {
+  "id": "45607b05edd3",
+  "title": "Arsenal agree Guimaraes fee - Saturday's gossip",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 기마랑스의 이적료에 동의했다 - 토요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c07rpvkym70o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-31T23:09:35+00:00"
+ },
+ {
   "id": "c0e7dd31a0a3",
   "title": "Bowie makes loan switch to Serie A side Sassuolo",
   "player": "Kieron Bowie",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/grealish-man-city-future-saudiarabia-37492701",
   "fee": null,
   "published": "2026-07-29T20:58:11+00:00"
- },
- {
-  "id": "4bcfaa4f739d",
-  "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
-  "player": "City's Rodri",
-  "title_ko": "레알 마드리드는 로드리 계약을 확신했다 - 목요일의 가십",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-29T20:31:04+00:00"
  }
 ]
