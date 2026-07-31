@@ -1,5 +1,18 @@
 [
  {
+  "id": "214f9557efde",
+  "title": "Mercato: accord total entre le PSG et Monaco pour le transfert de Maghnes Akliouche",
+  "player": "Maghnes Akliouche",
+  "title_ko": "Mercato: Maghnes Akliouche의 이적을 위한 PSG와 Monaco 간의 완전한 합의",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-monaco-pour-le-transfert-maghnes-akliouche_AV-202607310324.html",
+  "fee": null,
+  "published": "2026-07-31T11:30:24+00:00"
+ },
+ {
   "id": "44a32ac9965d",
   "title": "Rio Ferdinand's son signs for Premier League club as Man Utd icon sends four-word message",
   "player": "Rio Ferdinand's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-kolo-muani-set-for-juventus-medical-psg/",
   "fee": null,
   "published": "2026-07-29T12:48:44+00:00"
- },
- {
-  "id": "03b625c889e6",
-  "title": "Official: Italy international Koleosho joins Paris FC from Burnley",
-  "player": "Luca Koleosho",
-  "title_ko": "공식: 이탈리아 국가대표 콜레오쇼가 번리에서 파리FC로 이적했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-italy-koleosho-joins-paris-fc-burnley/",
-  "fee": null,
-  "published": "2026-07-29T12:29:07+00:00"
  }
 ]
