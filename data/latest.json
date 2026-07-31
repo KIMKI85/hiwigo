@@ -1,5 +1,18 @@
 [
  {
+  "id": "4b945d12252b",
+  "title": "Man Utd news: Lewis Hall transfer update emerges as defender completes move",
+  "player": "Lewis Hall",
+  "title_ko": "맨유 뉴스: 수비수가 움직임을 완료함에 따라 루이스 홀 이적 업데이트가 등장",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37495755",
+  "fee": null,
+  "published": "2026-07-31T03:30:00+00:00"
+ },
+ {
   "id": "adac3a291d69",
   "title": "Arsenal news: Bruno Guimaraes twist as Gunners issue major transfer hint",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news",
   "fee": null,
   "published": "2026-07-29T09:50:00+00:00"
- },
- {
-  "id": "65c991553f53",
-  "title": "Football transfer rumours: Eli Junior Kroupi to boost Barcelona attack?",
-  "player": "Eli Junior Kroupi",
-  "title_ko": "축구 이적 루머: 엘리 주니어 크루피가 바르셀로나 공격을 강화할 것인가?",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro",
-  "fee": null,
-  "published": "2026-07-29T09:30:33+00:00"
  }
 ]
