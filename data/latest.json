@@ -1,5 +1,18 @@
 [
  {
+  "id": "43ee6e069e99",
+  "title": "Chalobah closer to Como with guaranteed €30m fee to Chelsea",
+  "player": null,
+  "title_ko": "찰로바는 코모에 더 가까워지고 첼시에게 €30m의 수수료가 보장됩니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chalobah-closer-to-como-e30m-fee-to-chelsea/",
+  "fee": "€30M",
+  "published": "2026-07-31T15:15:48+00:00"
+ },
+ {
   "id": "bca634e9cbf1",
   "title": "Chelsea handed £10m fine and suspended transfer ban",
   "player": "Football Association",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy8eg973jw6o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-29T14:21:31+00:00"
- },
- {
-  "id": "49470de24258",
-  "title": "Hoffenheim ausgestochen: VfB verpflichtet DFB-Schreck Sauer",
-  "player": "Schreck Sauer",
-  "title_ko": "호펜하임이 압도했다: VfB가 DFB-슈렉 자우어와 계약했다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/hoffenheim-ausgestochen-vfb-verpflichtet-dfb-schreck-sauer-1238998/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-29T14:16:17+00:00"
  }
 ]
