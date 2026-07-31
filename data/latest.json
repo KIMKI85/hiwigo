@@ -1,5 +1,18 @@
 [
  {
+  "id": "4dc555d0a5b5",
+  "title": "Bruno Guimaraes' agent teases Arsenal with Vinicius Jr post amid agreement claims",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스의 에이전트는 계약 주장 속에서 비니시우스 주니어 포스트로 아스날을 놀렸다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-guimaraes-vinicius-jr-37501594",
+  "fee": null,
+  "published": "2026-07-31T17:28:51+00:00"
+ },
+ {
   "id": "b1f09a318a6e",
   "title": "Marcus Rashford has chance to 'hurt' Man Utd as two transfer moves proposed",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/psg-progress-in-talks-for-parma-suzuki/",
   "fee": null,
   "published": "2026-07-29T15:58:26+00:00"
- },
- {
-  "id": "deb4a2269054",
-  "title": "Liverpool preparing opening bid for PSG's Barcola",
-  "player": "Germain's Bradley Barcola",
-  "title_ko": "리버풀은 PSG의 바르콜라에 대한 첫 입찰을 준비하고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-29T15:42:20+00:00"
  }
 ]
