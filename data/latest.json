@@ -1,5 +1,18 @@
 [
  {
+  "id": "b52b466b3c89",
+  "title": "Newcastle now have ideal opportunity to sign 236-goal World Cup striker this summer",
+  "player": "Eddie Howe's",
+  "title_ko": "뉴캐슬은 이제 이번 여름 월드컵에서 236골을 넣은 스트라이커를 영입할 수 있는 이상적인 기회를 갖게 되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-transfers-world-cup-striker-37498708",
+  "fee": null,
+  "published": "2026-07-31T09:29:13+00:00"
+ },
+ {
   "id": "71cf648b1c45",
   "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
   "player": "Eddie Howe",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/cordoba-approves-stones-hopes-romero-inter/",
   "fee": null,
   "published": "2026-07-29T10:45:23+00:00"
- },
- {
-  "id": "bf9d60e0d7f1",
-  "title": "Meister statt Absteiger: Wolfsburgs Majer wechselt zu AEK Athen",
-  "player": "Wolfsburgs Majer",
-  "title_ko": "강등 대신 챔피언: 볼프스부르크의 메이저, AEK 아테네로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/meister-statt-absteiger-wolfsburgs-majer-wechselt-zu-aek-athen-1239039/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-29T10:11:50+00:00"
  }
 ]
