@@ -1,5 +1,31 @@
 [
  {
+  "id": "5bf9a21de166",
+  "title": "Juventus seal 2-0 friendly victory over Nice with Douglas Luiz and ex-Manchester City talent on target",
+  "player": "Douglas Luiz",
+  "title_ko": "유벤투스는 더글러스 루이스와 전 맨체스터 시티 선수들을 노리고 니스를 상대로 2-0 친선 경기 승리를 거뒀습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-friendly-douglas-luiz-manchester-city/",
+  "fee": null,
+  "published": "2026-07-31T18:12:48+00:00"
+ },
+ {
+  "id": "a0dba8e6b02d",
+  "title": "Done Deal: Koulierakis ready for Roma medical after €16.5m plus bonus agreement",
+  "player": "Konstatinos Koulierakis",
+  "title_ko": "완료된 거래: 쿨리에라키스는 €16.5m에 보너스 계약을 추가한 후 로마 메디컬에 합류할 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-koulierakis-ready-for-roma-medical/",
+  "fee": "€16.5M",
+  "published": "2026-07-31T18:01:40+00:00"
+ },
+ {
   "id": "decfebac64a7",
   "title": "Vinicius Jr moves step closer to potential Arsenal transfer after Real Madrid decision",
   "player": "Vinicius Jr",
