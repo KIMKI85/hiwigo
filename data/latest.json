@@ -1,5 +1,31 @@
 [
  {
+  "id": "44a32ac9965d",
+  "title": "Rio Ferdinand's son signs for Premier League club as Man Utd icon sends four-word message",
+  "player": "Rio Ferdinand's",
+  "title_ko": "맨유의 아이콘이 보낸 네 단어 메시지에 리오 퍼디난드의 아들이 프리미어리그 클럽과 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rio-ferdinand-son-37499339",
+  "fee": null,
+  "published": "2026-07-31T11:05:50+00:00"
+ },
+ {
+  "id": "0c867b84786d",
+  "title": "Bruno Guimaraes pushes for Arsenal transfer with Newcastle agreement imminent",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마라스는 뉴캐슬과의 계약이 임박한 상황에서 아스날 이적을 추진하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-bruno-guimaraes-37499390",
+  "fee": null,
+  "published": "2026-07-31T10:41:37+00:00"
+ },
+ {
   "id": "49a3b4a7298b",
   "title": "Jones: Liverpool midfielder reacts to Stones’ Inter move, fuelling transfer speculation",
   "player": "Curtis Jones",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-italy-koleosho-joins-paris-fc-burnley/",
   "fee": null,
   "published": "2026-07-29T12:29:07+00:00"
- },
- {
-  "id": "c498f670b73b",
-  "title": "Video: Carnevali hints Juventus are nearing Kolo Muani agreement with PSG",
-  "player": "Kolo Muani",
-  "title_ko": "비디오: Carnevali는 유벤투스가 PSG와 Kolo Muani 계약에 가까워지고 있음을 암시합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/carnevali-juventus-near-kolo-muani-agreement/",
-  "fee": null,
-  "published": "2026-07-29T11:47:30+00:00"
- },
- {
-  "id": "5502062c259b",
-  "title": "Chelsea’s dream final month of transfer window as Alex Scott and World Cup wonderkid sign",
-  "player": "Alex Scott",
-  "title_ko": "Alex Scott과 월드컵 원더키드가 계약을 맺은 Chelsea의 꿈의 이적 기간 마지막 달",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-summer-transfer-window-signings-37489692",
-  "fee": null,
-  "published": "2026-07-29T11:38:32+00:00"
  }
 ]
