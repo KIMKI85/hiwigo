@@ -1,5 +1,18 @@
 [
  {
+  "id": "415ad9043278",
+  "title": "Arsenal star refused to go on pre-season tour to force through summer transfer",
+  "player": null,
+  "title_ko": "아스날 스타는 여름 이적을 강제하기 위해 프리시즌 투어 참가를 거부했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-laurent-koscielny-move-37502415",
+  "fee": null,
+  "published": "2026-08-01T07:42:22+00:00"
+ },
+ {
   "id": "c1e881fd7706",
   "title": "Mikel Arteta has 'saved Arsenal £35million' with one shrewd piece of transfer business",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/today-papers-double-juventus-deal-mancini/",
   "fee": null,
   "published": "2026-07-30T07:38:42+00:00"
- },
- {
-  "id": "e1e3ca987a92",
-  "title": "DIRECT. Mercato: Rodri bientôt fixé pour son avenir avec l'Europe à ses pieds",
-  "player": "Bradley Barcola",
-  "title_ko": "직접. Mercato: Rodri는 곧 유럽을 자신의 발 아래 두는 미래를 준비했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-30-juillet-2026-sur-le-marche-des-transferts-en-live_LN-202607300093.html",
-  "fee": null,
-  "published": "2026-07-30T05:41:22+00:00"
  }
 ]
