@@ -1,5 +1,18 @@
 [
  {
+  "id": "976123003166",
+  "title": "Amad and Leny Yoro in total agreement after JJ Gabriel makes Man Utd debut",
+  "player": "Leny Yoro",
+  "title_ko": "JJ 가브리엘이 맨유에 데뷔한 후 아마드와 레니 요로가 완전히 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-debut-37504146",
+  "fee": null,
+  "published": "2026-08-01T20:51:08+00:00"
+ },
+ {
   "id": "22e4e490e754",
   "title": "Satte Ablöse für Wolfsburg: Koulierakis wechselt zur AS Rom",
   "player": "Satte Ablöse",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/alvarez-zu-wechsel-gedraengt-rfef-eroeffnet-verfahren-gegen-den-fc-barcelona-1239687/artikel#omrss",
   "fee": null,
   "published": "2026-07-30T15:57:53+00:00"
- },
- {
-  "id": "23d68f04de20",
-  "title": "Harvey Elliott revels in ‘second chance’ at Liverpool and has no regrets over Aston Villa loan",
-  "player": "Harvey Elliott",
-  "title_ko": "하비 엘리엇은 리버풀에서 '두 번째 기회'를 누리며 아스톤 빌라 임대에 대해 후회하지 않습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/30/harvey-elliott-liverpool-second-chance-aston-villa-loan",
-  "fee": null,
-  "published": "2026-07-30T15:00:18+00:00"
  }
 ]
