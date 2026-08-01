@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a0ea9f78f15",
+  "title": "Arsenal could still add another blockbuster signing aside from Vinicius Jr or Bruno Guimaraes",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날은 비니시우스 주니어나 브루노 기마랑스 외에 또 다른 블록버스터 영입을 추가할 수도 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-vinicius-junior-37503891",
+  "fee": null,
+  "published": "2026-08-01T19:05:03+00:00"
+ },
+ {
   "id": "b429600a6705",
   "title": "Video: Alajbegovic arrives for Juventus, medical on Sunday",
   "player": "Kerim Alajbegovic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-30T14:39:37+00:00"
- },
- {
-  "id": "afc2eb5248cc",
-  "title": "Bastoni transfer complicated for Real Madrid after Asencio set-back",
-  "player": "Alessandro Bastoni",
-  "title_ko": "Asencio의 좌절로 인해 레알 마드리드의 Bastoni 이적이 복잡해졌습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bastoni-transfer-complicated-for-real-madrid/",
-  "fee": null,
-  "published": "2026-07-30T14:28:05+00:00"
  }
 ]
