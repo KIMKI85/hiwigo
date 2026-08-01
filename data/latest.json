@@ -1,5 +1,18 @@
 [
  {
+  "id": "22e4e490e754",
+  "title": "Satte Ablöse für Wolfsburg: Koulierakis wechselt zur AS Rom",
+  "player": "Satte Ablöse",
+  "title_ko": "볼프스부르크의 엄청난 이적: 쿨리에라키스가 AS 로마로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/satte-abloese-fuer-wolfsburg-koulierakis-wechselt-zur-as-rom-1240130/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-01T20:29:28+00:00"
+ },
+ {
   "id": "1a0ea9f78f15",
   "title": "Arsenal could still add another blockbuster signing aside from Vinicius Jr or Bruno Guimaraes",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/30/harvey-elliott-liverpool-second-chance-aston-villa-loan",
   "fee": null,
   "published": "2026-07-30T15:00:18+00:00"
- },
- {
-  "id": "90afaafdecc7",
-  "title": "Rangers sign defender Makhanya from MLS",
-  "player": "Olwethu Makhanya",
-  "title_ko": "레인저스는 MLS의 수비수 마칸야(Makhanya)를 영입했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
-  "fee": null,
-  "published": "2026-07-30T15:00:00+00:00"
  }
 ]
