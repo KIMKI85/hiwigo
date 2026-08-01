@@ -1,5 +1,31 @@
 [
  {
+  "id": "87f5fe292fb7",
+  "title": "Inter prepare new Jones bid at €35m for Liverpool after Akinsanmiro sale",
+  "player": "Ebeneezer Akinsanmiro",
+  "title_ko": "인테르는 아킨산미로 매각 후 리버풀을 위해 존스에게 3500만 유로의 새로운 제안을 준비하고 있다",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-prepare-new-jones-bid-at-e35m-liverpool/",
+  "fee": "€35M",
+  "published": "2026-08-01T12:11:42+00:00"
+ },
+ {
+  "id": "9e7412c319a1",
+  "title": "Vinicius intéressé par Arsenal, Bisiwu signe au Barça, Godts en contact avec le PSG ? Les 5 infos mercato du 1er août à la mi-journée",
+  "player": "Jesse Bisiwu",
+  "title_ko": "아스날에 관심이 있는 비니시우스, 바르사와 계약한 비시우, PSG와 접촉 중인 갓츠? 8월 1일부터 자정까지의 5개 이적 창구 안내",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-vinicius-interesse-par-arsenal-bisiwu-signe-au-barca-godts-en-contact-avec-le-psg-les-5-infos-mercato-du-1er-aout-a-la-mi-journee_VN-202608010211.html",
+  "fee": null,
+  "published": "2026-08-01T11:58:49+00:00"
+ },
+ {
   "id": "5b0b1964b4a1",
   "title": "Lukaku moves closer to Napoli exit as club set €10m price tag",
   "player": "Romelu Lukaku",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
   "fee": "£52M",
   "published": "2026-07-30T10:03:45+00:00"
- },
- {
-  "id": "ed73b21c1265",
-  "title": "Liverpool's significant Bradley Barcola transfer boost as PSG close in on replacement",
-  "player": "Bradley Barcola",
-  "title_ko": "PSG의 교체가 가까워지면서 리버풀의 브래들리 바르콜라 이적 증가가 크게 증가했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-latest-37494081",
-  "fee": null,
-  "published": "2026-07-30T10:01:47+00:00"
- },
- {
-  "id": "507d9a5421fe",
-  "title": "Rodri, Akliouche, Bouaddi... les 5 infos mercato du 30 juillet à la mi-journée",
-  "player": null,
-  "title_ko": "로드리, 아클리우슈, 부아디...7월 30일 정오부터 5번 이적시장 안내",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-rodri-akliouche-bouaddi-les-5-infos-mercato-du-30-juillet-a-la-mi-journee_VN-202607300296.html",
-  "fee": null,
-  "published": "2026-07-30T09:40:17+00:00"
  }
 ]
