@@ -13,6 +13,19 @@
   "published": "2026-08-01T14:00:00+00:00"
  },
  {
+  "id": "60e9585d7cec",
+  "title": "Barcelona boss speaks out on Marcus Rashford as deal turned down - ‘I miss him’",
+  "player": "Marcus Rashford",
+  "title_ko": "바르셀로나 감독은 계약이 거절된 마커스 래시포드에 대해 이렇게 말했다. '그가 그리워요'",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-barcelona-37503306",
+  "fee": null,
+  "published": "2026-08-01T13:49:39+00:00"
+ },
+ {
   "id": "9bd07c2dfc27",
   "title": "Bournemouth sign Portugal defender Silva",
   "player": "Antonio Silva",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-lewis-hall-transfer-37494638",
   "fee": null,
   "published": "2026-07-30T11:16:30+00:00"
- },
- {
-  "id": "e83ec2a056bc",
-  "title": "Chelsea sign Lacroix from Palace",
-  "player": "Maxence Lacroix",
-  "title_ko": "첼시가 팰리스에서 라크로아를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
-  "fee": null,
-  "published": "2026-07-30T11:10:00+00:00"
  }
 ]
