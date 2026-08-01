@@ -1,5 +1,18 @@
 [
  {
+  "id": "326a02d8f1ca",
+  "title": "Liverpool news: Green light given for huge transfer offer as talks for new signing begin",
+  "player": null,
+  "title_ko": "리버풀 뉴스: 새로운 영입 협상이 시작되면서 거액의 이적 제안에 대한 청신호가 켜졌습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-bid-offers-37500243",
+  "fee": null,
+  "published": "2026-08-01T04:00:00+00:00"
+ },
+ {
   "id": "aef6eec3eeb0",
   "title": "Man Utd news: Agent confirms transfer approach as club stance on £42m star emerges",
   "player": "Michael Carrick's",
