@@ -1,5 +1,18 @@
 [
  {
+  "id": "b429600a6705",
+  "title": "Video: Alajbegovic arrives for Juventus, medical on Sunday",
+  "player": "Kerim Alajbegovic",
+  "title_ko": "영상: 알라이베고비치가 유벤투스로 도착했고 일요일 메디컬을 받았습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-alajbegovic-arrives-for-juventus-medical/",
+  "fee": null,
+  "published": "2026-08-01T17:25:06+00:00"
+ },
+ {
   "id": "1c72149c3887",
   "title": "Une plus-value de 40 millions et un transfert record: Lens perd Mamadou Sangaré mais touche le jackpot",
   "player": "Mamadou Sangaré",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/bastoni-transfer-complicated-for-real-madrid/",
   "fee": null,
   "published": "2026-07-30T14:28:05+00:00"
- },
- {
-  "id": "3fa0837f3696",
-  "title": "South Africa's Makhanya becomes Rangers' eighth summer signing",
-  "player": "South Africa's Makhanya",
-  "title_ko": "남아프리카공화국의 마카냐(Makhanya)가 레인저스의 8번째 여름 계약이 되었습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-30T14:03:15+00:00"
  }
 ]
