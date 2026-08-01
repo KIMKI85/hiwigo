@@ -1,5 +1,31 @@
 [
  {
+  "id": "25dcdad58214",
+  "title": "Man Utd forward set for shock Premier League transfer 'approach' with stance clear",
+  "player": "Ethan Wheatley",
+  "title_ko": "맨유 포워드, 스탠스 클리어로 충격적인 프리미어리그 이적 '접근' 준비",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-wheatley-37503619",
+  "fee": null,
+  "published": "2026-08-01T16:05:39+00:00"
+ },
+ {
+  "id": "1a6c1cb60e08",
+  "title": "Arsenal reach transfer agreement with medical to come next in major Bruno Guimaraes boost",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날, 메디컬과 이적 계약 체결, 브루노 기마랑스의 차기 부스트 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-agreement-bruno-guimaraes-37503697",
+  "fee": null,
+  "published": "2026-08-01T15:55:59+00:00"
+ },
+ {
   "id": "967541d4606b",
   "title": "'I suffered injury hell after leaving Man Utd – I'm fighting for my career and next move'",
   "player": "Will Keane",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup",
   "fee": null,
   "published": "2026-07-30T11:48:02+00:00"
- },
- {
-  "id": "592b8531f27d",
-  "title": "Ancelotti explains why he turned down the Italy job: ‘Not a contract issue’",
-  "player": "Carlo Ancelotti",
-  "title_ko": "안첼로티가 이탈리아 이적을 거절한 이유: '계약 문제가 아니다'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ancelotti-explains-italy-snub-no-contract/",
-  "fee": null,
-  "published": "2026-07-30T11:42:56+00:00"
- },
- {
-  "id": "1189a99bc5fc",
-  "title": "Roma reach Koulierakis agreement with VfL Wolfsburg: Details revealed",
-  "player": null,
-  "title_ko": "로마, VfL 볼프스부르크와 쿨리에라키스 계약 체결: 세부 사항 공개",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-reach-koulierakis-agreement-wolfsburg/",
-  "fee": null,
-  "published": "2026-07-30T11:18:26+00:00"
  }
 ]
