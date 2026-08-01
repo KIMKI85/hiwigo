@@ -26,6 +26,19 @@
   "published": "2026-08-01T17:25:06+00:00"
  },
  {
+  "id": "6041af421893",
+  "title": "Dowman and Tzolis on target as Arsenal score four against Girona LIVE!",
+  "player": null,
+  "title_ko": "Arsenal이 Girona LIVE를 상대로 4점을 득점하면서 Dowman과 Tzolis가 목표를 달성했습니다!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
+  "fee": null,
+  "published": "2026-08-01T17:25:00+00:00"
+ },
+ {
   "id": "1c72149c3887",
   "title": "Une plus-value de 40 millions et un transfert record: Lens perd Mamadou Sangaré mais touche le jackpot",
   "player": "Mamadou Sangaré",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
   "fee": null,
   "published": "2026-07-30T15:00:00+00:00"
- },
- {
-  "id": "1350f3701632",
-  "title": "Newcastle captain Guimaraes expected to join Arsenal",
-  "player": "Bruno Guimaraes",
-  "title_ko": "뉴캐슬의 주장 기마랑스가 아스날로 이적할 것으로 예상됩니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-30T14:39:37+00:00"
  }
 ]
