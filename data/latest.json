@@ -1,5 +1,18 @@
 [
  {
+  "id": "5b0b1964b4a1",
+  "title": "Lukaku moves closer to Napoli exit as club set €10m price tag",
+  "player": "Romelu Lukaku",
+  "title_ko": "루카쿠는 클럽이 €10m 가격표를 설정함에 따라 나폴리 출구에 더 가까워졌습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lukaku-moves-closer-to-napoli-exit-price/",
+  "fee": "€10M",
+  "published": "2026-08-01T11:55:32+00:00"
+ },
+ {
   "id": "032db607e918",
   "title": "Read on Roma €25m offer and Nottingham Forest interest: ‘Want to evaluate transfer’",
   "player": "Givairo Read",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-rodri-akliouche-bouaddi-les-5-infos-mercato-du-30-juillet-a-la-mi-journee_VN-202607300296.html",
   "fee": null,
   "published": "2026-07-30T09:40:17+00:00"
- },
- {
-  "id": "a2b10f3be150",
-  "title": "Man United slammed by Gary Neville over failure to land no-brainer Chelsea signing",
-  "player": "Gary Neville",
-  "title_ko": "맨유는 첼시의 영입 실패로 게리 네빌에게 비난을 받았다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-gary-neville-welbeck-37493665",
-  "fee": null,
-  "published": "2026-07-30T09:16:08+00:00"
  }
 ]
