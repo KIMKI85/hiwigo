@@ -1,5 +1,18 @@
 [
  {
+  "id": "fd515af3b8e1",
+  "title": "Conceicao available for Manchester United only for €60m or with Zirkzee swap",
+  "player": "Francisco Conceicao",
+  "title_ko": "Conceicao는 맨체스터 유나이티드에서 €60m 또는 Zirkzee 스왑으로만 이용 가능",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/conceicao-manchester-united-e60m-zirkzee-swap/",
+  "fee": "€60M",
+  "published": "2026-08-01T12:39:39+00:00"
+ },
+ {
   "id": "323c7cf5fe80",
   "title": "Yan Diomande transfer twist as surprise update emerges on Real Madrid target",
   "player": "Yan Diomande",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-bruno-guimaraes-37494075",
   "fee": null,
   "published": "2026-07-30T10:29:03+00:00"
- },
- {
-  "id": "3ea9c3b9ff4e",
-  "title": "El Getafe cierra el fichaje de Giorgi Kochorashvili",
-  "player": "Giorgi Kochorashvili",
-  "title_ko": "헤타페, 기오르기 코코라쉬빌리의 영입을 완료하다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/getafe/2026/07/30/getafe-cierra-fichaje-giorgi-kochorashvili.html",
-  "fee": null,
-  "published": "2026-07-30T10:16:15+00:00"
  }
 ]
