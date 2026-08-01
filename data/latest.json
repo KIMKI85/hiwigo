@@ -1,5 +1,31 @@
 [
  {
+  "id": "032db607e918",
+  "title": "Read on Roma €25m offer and Nottingham Forest interest: ‘Want to evaluate transfer’",
+  "player": "Givairo Read",
+  "title_ko": "로마의 €25m 제안과 노팅엄 포레스트의 관심에 대해 읽어보세요: '이적을 평가하고 싶습니다'",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/read-on-roma-e25m-offer-and-nottingham-forest/",
+  "fee": "€25M",
+  "published": "2026-08-01T11:35:16+00:00"
+ },
+ {
+  "id": "63f5a1e9bb15",
+  "title": "Chelsea avoid massive points deduction as more details emerge on FA transfer ban decision",
+  "player": "Football Association",
+  "title_ko": "첼시는 FA 이적 금지 결정에 대한 자세한 내용이 공개됨에 따라 대규모 포인트 공제를 피했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfer-ban-the-fa-37502934",
+  "fee": null,
+  "published": "2026-08-01T11:26:02+00:00"
+ },
+ {
   "id": "47d284e0d226",
   "title": "Sebastiano Esposito goes AWOL over contract dispute at Cagliari",
   "player": "Sebastiano Esposito",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-gary-neville-welbeck-37493665",
   "fee": null,
   "published": "2026-07-30T09:16:08+00:00"
- },
- {
-  "id": "0d0ebf75e93f",
-  "title": "Ter Stegens möglicher Wechsel: Und täglich grüßt er bei Ajax",
-  "player": "Ter Stegens",
-  "title_ko": "Ter Stegen의 가능한 움직임: 그리고 그는 매일 Ajax에게 인사합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/ter-stegens-moeglicher-wechsel-und-taeglich-gruesst-er-bei-ajax-1239440/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-30T09:03:20+00:00"
- },
- {
-  "id": "fc9897fe65b7",
-  "title": "28 nombres y subiendo, pero sin fichaje",
-  "player": null,
-  "title_ko": "28명의 이름이 있고 그 수는 셀 수 있지만 서명은 없습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/07/30/28-nombres-subiendo-fichaje.html",
-  "fee": null,
-  "published": "2026-07-30T08:57:36+00:00"
  }
 ]

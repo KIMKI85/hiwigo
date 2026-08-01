@@ -1,5 +1,31 @@
 [
  {
+  "id": "032db607e918",
+  "title": "Read on Roma €25m offer and Nottingham Forest interest: ‘Want to evaluate transfer’",
+  "player": "Givairo Read",
+  "title_ko": "로마의 €25m 제안과 노팅엄 포레스트의 관심에 대해 읽어보세요: '이적을 평가하고 싶습니다'",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/read-on-roma-e25m-offer-and-nottingham-forest/",
+  "fee": "€25M",
+  "published": "2026-08-01T11:35:16+00:00"
+ },
+ {
+  "id": "63f5a1e9bb15",
+  "title": "Chelsea avoid massive points deduction as more details emerge on FA transfer ban decision",
+  "player": "Football Association",
+  "title_ko": "첼시는 FA 이적 금지 결정에 대한 자세한 내용이 공개됨에 따라 대규모 포인트 공제를 피했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfer-ban-the-fa-37502934",
+  "fee": null,
+  "published": "2026-08-01T11:26:02+00:00"
+ },
+ {
   "id": "47d284e0d226",
   "title": "Sebastiano Esposito goes AWOL over contract dispute at Cagliari",
   "player": "Sebastiano Esposito",
