@@ -26,6 +26,19 @@
   "published": "2026-08-01T10:07:33+00:00"
  },
  {
+  "id": "9f6f94177b1d",
+  "title": "LIVE Done deals tracker: Roma and Juventus welcome new faces",
+  "player": null,
+  "title_ko": "LIVE 완료 거래 추적기: Roma와 Juventus는 새로운 얼굴을 환영합니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/summer-transfer-window-live-serie-a-done-deals-tracker/",
+  "fee": null,
+  "published": "2026-08-01T09:45:35+00:00"
+ },
+ {
   "id": "e1e3ca987a92",
   "title": "DIRECT. Mercato: le Barça annonce le recrutement d'un grand talent belge, le PSG travaille sur la piste Mika Godts",
   "player": "Mika Godts",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/gesehen-was-hier-moeglich-ist-waeschenbach-wechselt-an-den-tivoli-1239560/artikel#omrss",
   "fee": null,
   "published": "2026-07-30T08:49:14+00:00"
- },
- {
-  "id": "31d403229e91",
-  "title": "Mercato: c'est officiel, l'AS Monaco s'offre Matthis Abline",
-  "player": "Matthis Abline",
-  "title_ko": "Mercato: 공식입니다. AS 모나코가 Matthis Abline을 제안합니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiel-l-as-monaco-s-offre-matthis-abline_AV-202607300252.html",
-  "fee": null,
-  "published": "2026-07-30T08:45:53+00:00"
  }
 ]
