@@ -1,5 +1,18 @@
 [
  {
+  "id": "2fec05a1953f",
+  "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
+  "player": "Arsenal's Lewis-",
+  "title_ko": "논문: 맨유는 아스날의 루이스-스켈리 영입을 고려하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+  "fee": null,
+  "published": "2026-08-01T22:45:00+00:00"
+ },
+ {
   "id": "c90c4aad2e5c",
   "title": "Mercato: Randal Kolo Muani va signer définitivement à la Juventus",
   "player": "Randal Kolo Muani",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-a-depose-une-plainte-contre-le-barca-aupres-de-la-fifa-pour-julian-alvarez_AD-202607300458.html",
   "fee": null,
   "published": "2026-07-30T16:19:06+00:00"
- },
- {
-  "id": "cd53d3cba62e",
-  "title": "Tonali 'took 10 minutes' to decide to join Spurs",
-  "player": "Sandro Tonali",
-  "title_ko": "토날리는 토트넘 합류를 결정하는데 10분 걸렸다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-30T16:01:58+00:00"
  }
 ]
