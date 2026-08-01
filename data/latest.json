@@ -1,5 +1,18 @@
 [
  {
+  "id": "d7becfc930c0",
+  "title": "Mercato: recruté par Colo Colo, le héros cap-verdien Vozinha pourrait finalement signer au Maroc",
+  "player": "Colo Colo",
+  "title_ko": "Mercato: Colo Colo가 영입한 Cape Verdean의 영웅 Vozinha가 마침내 모로코에 합류할 수 있었습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-recrute-par-colo-colo-le-heros-cap-verdien-vozinha-pourrait-finalement-signer-au-maroc_AV-202608010214.html",
+  "fee": null,
+  "published": "2026-08-01T12:13:22+00:00"
+ },
+ {
   "id": "87f5fe292fb7",
   "title": "Inter prepare new Jones bid at €35m for Liverpool after Akinsanmiro sale",
   "player": "Ebeneezer Akinsanmiro",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/eddie-howe-newcastle-exit-latest-37493668",
   "fee": null,
   "published": "2026-07-30T10:04:39+00:00"
- },
- {
-  "id": "7ad2ef3a4e01",
-  "title": "Chelsea sign Palace defender Lacroix for £52m",
-  "player": "France World",
-  "title_ko": "첼시는 팰리스 수비수 라크르와를 £52m에 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
-  "fee": "£52M",
-  "published": "2026-07-30T10:03:45+00:00"
  }
 ]
