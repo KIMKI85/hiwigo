@@ -1,5 +1,18 @@
 [
  {
+  "id": "e1e3ca987a92",
+  "title": "DIRECT. Mercato: le Barça annonce le recrutement d'un grand talent belge, le PSG travaille sur la piste Mika Godts",
+  "player": "Mika Godts",
+  "title_ko": "직접. Mercato: Barça는 훌륭한 벨기에 인재 영입을 발표했으며 PSG는 Mika Godts 트랙을 작업 중입니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-30-juillet-2026-sur-le-marche-des-transferts-en-live_LN-202607300093.html",
+  "fee": null,
+  "published": "2026-08-01T08:13:23+00:00"
+ },
+ {
   "id": "415ad9043278",
   "title": "Arsenal star refused to go on pre-season tour to force through summer transfer",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ngumoha-bradley-barcola-future-37493301",
   "fee": null,
   "published": "2026-07-30T08:10:51+00:00"
- },
- {
-  "id": "cafbfac413fb",
-  "title": "Today’s Papers – Double Juventus deal, Mancini apologises",
-  "player": "Sport One",
-  "title_ko": "오늘의 신문 – 유벤투스의 이중 거래, 만치니가 사과하다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/today-papers-double-juventus-deal-mancini/",
-  "fee": null,
-  "published": "2026-07-30T07:38:42+00:00"
  }
 ]
