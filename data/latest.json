@@ -1,5 +1,31 @@
 [
  {
+  "id": "c1e881fd7706",
+  "title": "Mikel Arteta has 'saved Arsenal £35million' with one shrewd piece of transfer business",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타는 영리한 이적 사업으로 '아스날 £35m을 절약'했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-tzolis-price-37485987",
+  "fee": "£35M",
+  "published": "2026-08-01T04:30:00+00:00"
+ },
+ {
+  "id": "77cfdcfd3faa",
+  "title": "Tottenham’s dream final month of transfer window as two top signings sealed and three exits",
+  "player": null,
+  "title_ko": "토트넘이 꿈꾸는 이적 기간 마지막 달에는 두 명의 최고 영입이 확정되고 세 번의 퇴장이 예정되어 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/tottenham-transfer-news-rashford-savinho-37490697",
+  "fee": null,
+  "published": "2026-08-01T04:15:00+00:00"
+ },
+ {
   "id": "326a02d8f1ca",
   "title": "Liverpool news: Green light given for huge transfer offer as talks for new signing begin",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-30-juillet-2026-sur-le-marche-des-transferts-en-live_LN-202607300093.html",
   "fee": null,
   "published": "2026-07-30T05:41:22+00:00"
- },
- {
-  "id": "59738a0d6b2b",
-  "title": "'I cried after leaving Real Madrid for Arsenal – I wanted new contract but my agent messed up'",
-  "player": null,
-  "title_ko": "'레알 마드리드를 떠나 아스널로 이적한 후 울었습니다. 재계약을 원했지만 에이전트가 실수를 저질렀습니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-real-madrid-transfer-ozil-37485479",
-  "fee": null,
-  "published": "2026-07-30T05:00:00+00:00"
- },
- {
-  "id": "be928b8ae370",
-  "title": "Arsenal’s dream final month of transfer window as Vinicius Jr and Julian Alvarez moves sealed",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어와 줄리안 알바레즈가 봉인되면서 아스날의 꿈의 이적 기간 마지막 달",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-alvarez-37485585",
-  "fee": null,
-  "published": "2026-07-30T04:15:00+00:00"
  }
 ]
