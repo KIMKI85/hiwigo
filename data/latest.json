@@ -1,5 +1,31 @@
 [
  {
+  "id": "42883914c99b",
+  "title": "Bournemouth sign defender Silva from Benfica",
+  "player": "Antonio Silva",
+  "title_ko": "본머스는 벤피카의 수비수 실바를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
+  "fee": null,
+  "published": "2026-08-01T14:00:00+00:00"
+ },
+ {
+  "id": "744083e050ba",
+  "title": "Vinicius Jr to Arsenal latest as Gunners in 'strong position' to seal blockbuster transfer",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어가 최근 아스날로 이적해 블록버스터 이적을 확정하는 '강력한 위치'에 있는 거너스",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-latest-37503197",
+  "fee": null,
+  "published": "2026-08-01T13:10:13+00:00"
+ },
+ {
   "id": "fd515af3b8e1",
   "title": "Conceicao available for Manchester United only for €60m or with Zirkzee swap",
   "player": "Francisco Conceicao",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-fait-pour-maxence-lacroix-officiellement-transfere-a-chelsea_AV-202607300331.html",
   "fee": null,
   "published": "2026-07-30T11:03:29+00:00"
- },
- {
-  "id": "a83942a25b51",
-  "title": "Official: Roma sign Castro in €35m deal from Bologna",
-  "player": "Santiago Castro",
-  "title_ko": "공식: 로마는 볼로냐에서 카스트로를 €35m에 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-roma-sign-castro-from-bologna/",
-  "fee": "€35M",
-  "published": "2026-07-30T10:50:53+00:00"
- },
- {
-  "id": "b91845a60a07",
-  "title": "Bruno Guimaraes' next 24 hours set to prove crucial in Arsenal transfer pursuit",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑이스의 다음 24시간은 아스날 이적 추구에 결정적인 역할을 할 것으로 예상된다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-bruno-guimaraes-37494075",
-  "fee": null,
-  "published": "2026-07-30T10:29:03+00:00"
  }
 ]
