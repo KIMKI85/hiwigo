@@ -1,5 +1,31 @@
 [
  {
+  "id": "1c72149c3887",
+  "title": "Une plus-value de 40 millions et un transfert record: Lens perd Mamadou Sangaré mais touche le jackpot",
+  "player": "Mamadou Sangaré",
+  "title_ko": "4천만 달러의 자본 이득과 기록적인 이체: Lens는 Mamadou Sangaré를 잃었지만 대박을 터뜨렸습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/une-plus-value-de-40-millions-et-un-transfert-record-lens-perd-mamadou-sangare-mais-touche-le-jackpot_AV-202608010276.html",
+  "fee": null,
+  "published": "2026-08-01T17:04:30+00:00"
+ },
+ {
+  "id": "feaf53474f7d",
+  "title": "Serie A Transfer Round-Up: Venezia, Frosinone, Monza and Fiorentina moves completed",
+  "player": "Redouane Halhal",
+  "title_ko": "세리에 A 이적 라운드업: 베네치아, 프로시노네, 몬차, 피오렌티나 이동 완료",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/serie-a-transfer-halhal-venezia-frosinone-monz/",
+  "fee": null,
+  "published": "2026-08-01T17:03:35+00:00"
+ },
+ {
   "id": "dc12d2c68e46",
   "title": "Brentford sign Sangare for club record fee",
   "player": "Mamadou Sangare",
@@ -11,6 +37,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-01T16:48:26+00:00"
+ },
+ {
+  "id": "ecc370e9b572",
+  "title": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
+  "player": "Danny Welbeck",
+  "title_ko": "이적 소식: 웰벡, 첼시와 브렌트포드에 합류해 기록적인 상가레 계약 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal",
+  "fee": null,
+  "published": "2026-08-01T16:44:36+00:00"
  },
  {
   "id": "91c9e6c993f9",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-30T14:03:15+00:00"
- },
- {
-  "id": "3fa0837f3696",
-  "title": "Rangers move a 'dream come true' for South Africa's Makhanya",
-  "player": "South Africa's Makhanya",
-  "title_ko": "레인저스는 남아프리카공화국의 마카냐(Makhanya)에게 '꿈을 현실로' 옮깁니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-30T14:03:15+00:00"
- },
- {
-  "id": "0e89705441b1",
-  "title": "Genoa among clubs interested in deal for West Ham-linked Sorba Thomas",
-  "player": "Ham-linked Sorba",
-  "title_ko": "웨스트햄과 연결된 소르바 토마스의 거래에 관심이 있는 클럽들 중 제노아",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/genoa-among-clubs-interested-in-thomas-deal/",
-  "fee": null,
-  "published": "2026-07-30T13:41:27+00:00"
- },
- {
-  "id": "7e7bf2ec706c",
-  "title": "Man Utd ready to offload quartet including player they refused to swap for Carlos Baleba",
-  "player": "Carlos Baleba",
-  "title_ko": "맨유는 카를로스 발레바와의 교체를 거부한 선수를 포함해 4인조를 내보낼 준비가 되어 있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-summer-departures-collyer-37495307",
-  "fee": null,
-  "published": "2026-07-30T12:53:59+00:00"
  }
 ]
