@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd1737c1150c",
+  "title": "Napoli plan new McTominay deal to 2030 as Allegri builds around him",
+  "player": null,
+  "title_ko": "나폴리는 알레그리가 자신을 중심으로 성장함에 따라 2030년까지 새로운 맥토미나이 계약을 계획하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-plan-new-mctominay-deal-to-2030/",
+  "fee": null,
+  "published": "2026-08-01T10:20:00+00:00"
+ },
+ {
   "id": "511c6642c192",
   "title": "Mercato: quitter le Real Madrid pour Arsenal, pourquoi l'idée plaît de plus en plus à Vinicius",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiel-l-as-monaco-s-offre-matthis-abline_AV-202607300252.html",
   "fee": null,
   "published": "2026-07-30T08:45:53+00:00"
- },
- {
-  "id": "654be36846d1",
-  "title": "Video: Stones arrives in Milan for Inter medical",
-  "player": "John Stones",
-  "title_ko": "비디오: 스톤즈, 인터 메디컬을 위해 밀라노에 도착",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-stones-arrives-in-milan-for-inter-medical/",
-  "fee": null,
-  "published": "2026-07-30T08:18:30+00:00"
  }
 ]
