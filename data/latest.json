@@ -1,5 +1,18 @@
 [
  {
+  "id": "c90c4aad2e5c",
+  "title": "Mercato: Randal Kolo Muani va signer définitivement à la Juventus",
+  "player": "Randal Kolo Muani",
+  "title_ko": "Mercato: Randal Kolo Muani는 유벤투스와 영구적으로 계약할 것입니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-randal-kolo-muani-va-signer-definitivement-a-la-juventus_AP-202608010331.html",
+  "fee": null,
+  "published": "2026-08-01T21:24:08+00:00"
+ },
+ {
   "id": "976123003166",
   "title": "Amad and Leny Yoro in total agreement after JJ Gabriel makes Man Utd debut",
   "player": "Leny Yoro",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-30T16:01:58+00:00"
- },
- {
-  "id": "82a3480601a9",
-  "title": "Alvarez zu Wechsel gedrängt? RFEF eröffnet Verfahren gegen den FC Barcelona",
-  "player": "Dass Julian Alvarez",
-  "title_ko": "알바레즈는 강제로 변화를 겪었나요? RFEF, FC 바르셀로나 상대로 소송 개시",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/alvarez-zu-wechsel-gedraengt-rfef-eroeffnet-verfahren-gegen-den-fc-barcelona-1239687/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-30T15:57:53+00:00"
  }
 ]
