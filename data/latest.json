@@ -52,6 +52,19 @@
   "published": "2026-07-31T22:30:20+00:00"
  },
  {
+  "id": "2088f428ac15",
+  "title": "Transfer news LIVE: Arsenal 'agree terms' with Vinicius Jr, Man Utd Rashford call, Guimaraes latest",
+  "player": "Vinicius Jr",
+  "title_ko": "이적 뉴스 라이브: 아스날은 비니시우스 주니어, 맨유 래시포드 통화, 기마랑스의 최근 '조건에 동의'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
+  "fee": null,
+  "published": "2026-07-31T21:54:36+00:00"
+ },
+ {
   "id": "d538c94c51fb",
   "title": "Done Deal: Halhal arrives for Venezia, €5m plus bonus agreement with KV Mechelen",
   "player": "Redouane Halhal",
@@ -167,6 +180,19 @@
   "url": "https://football-italia.net/report-napoli-want-gatti-option-juventus/",
   "fee": null,
   "published": "2026-07-31T16:52:25+00:00"
+ },
+ {
+  "id": "3a3430ceb0e4",
+  "title": "Chelsea sign Italy's Dragoni from Barcelona",
+  "player": "Italy's Dragoni",
+  "title_ko": "첼시, 바르셀로나에서 이탈리아 드라고니 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-07-31T16:52:15+00:00"
  },
  {
   "id": "70e5b207c6cb",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37490673",
   "fee": "£75M",
   "published": "2026-07-30T03:00:00+00:00"
- },
- {
-  "id": "c837b6ed68d8",
-  "title": "Mercato: Manchester City voudrait recruter le Marseillais Geronimo Rulli",
-  "player": "Marseillais Geronimo Rulli",
-  "title_ko": "Mercato: 맨체스터 시티는 Marseillais Geronimo Rulli를 영입하고 싶어합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-voudrait-recruter-le-marseillais-geronimo-rulli_AV-202607290539.html",
-  "fee": null,
-  "published": "2026-07-29T21:53:28+00:00"
- },
- {
-  "id": "dbaf7df1c9c9",
-  "title": "Jack Grealish could take unlikely Man City exit route as record transfer snubbed",
-  "player": "Jack Grealish",
-  "title_ko": "Jack Grealish는 기록 이적이 거부됨에 따라 예상외의 Man City 출구 경로를 택할 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/grealish-man-city-future-saudiarabia-37492701",
-  "fee": null,
-  "published": "2026-07-29T20:58:11+00:00"
  }
 ]
