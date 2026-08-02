@@ -1,5 +1,18 @@
 [
  {
+  "id": "eda45d212b50",
+  "title": "Man Utd news: Transfer 'approved' as £70m target 'open' to Old Trafford switch",
+  "player": "Old Trafford",
+  "title_ko": "맨유 뉴스: £70m 목표로 올드 트래포드로 이적 '승인'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approved-70m-37502929",
+  "fee": "£70M",
+  "published": "2026-08-02T03:30:00+00:00"
+ },
+ {
   "id": "91e922b39c2e",
   "title": "Arsenal news: Vinicius Jr transfer trick set to be repeated as next three signings lined up",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-psg-anelka-barcola-37495291",
   "fee": null,
   "published": "2026-07-30T17:00:00+00:00"
- },
- {
-  "id": "9a5c6daa7a90",
-  "title": "Harvey Elliott opens up on Aston Villa loan nightmare and second chance at Liverpool",
-  "player": "Harvey Elliott",
-  "title_ko": "하비 엘리엇이 아스톤 빌라 임대의 악몽과 리버풀에서의 두 번째 기회를 열었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harvey-elliott-liverpool-aston-villa-37496661",
-  "fee": null,
-  "published": "2026-07-30T16:50:51+00:00"
  }
 ]
