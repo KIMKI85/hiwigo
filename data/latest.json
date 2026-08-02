@@ -1,5 +1,18 @@
 [
  {
+  "id": "e10e07c41146",
+  "title": "Mercato: Kolo Muani est un joueur de la Juve, le PSG va accélérer son recrutement",
+  "player": "Kolo Muani",
+  "title_ko": "Mercato: Kolo Muani는 Juve 선수이며 PSG는 그의 영입을 가속화할 것입니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-kolo-muani-est-un-joueur-de-la-juve-le-psg-va-accelerer-son-recrutement_AP-202608020193.html",
+  "fee": null,
+  "published": "2026-08-02T14:43:06+00:00"
+ },
+ {
   "id": "8a8580bc29ed",
   "title": "Mercato: l'étonnante stratégie de Vlahovic, prêt à planter un club dans l'espoir de signer au Barça",
   "player": "Dusan Vlahovic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/newcastle-transfers-world-cup-striker-37498708",
   "fee": null,
   "published": "2026-07-31T09:29:13+00:00"
- },
- {
-  "id": "71cf648b1c45",
-  "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
-  "player": "Eddie Howe",
-  "title_ko": "축구 이적 루머: 기마랑이스, 아스날로 이적할까? 뉴캐슬이 프로홀트를 데려오나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt",
-  "fee": null,
-  "published": "2026-07-31T08:37:20+00:00"
  }
 ]
