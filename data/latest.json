@@ -1,5 +1,18 @@
 [
  {
+  "id": "38c82394bbb5",
+  "title": "Sevilla y Bournemouth acuerdan el fichaje de Juanlu",
+  "player": null,
+  "title_ko": "세비야와 본머스, 후안루 영입에 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/02/sevilla-bournemouth-acuerdan-fichaje-juanlu-1.html",
+  "fee": null,
+  "published": "2026-08-02T11:04:53+00:00"
+ },
+ {
   "id": "fc41cf6230c7",
   "title": "Sassuolo and Juventus discussing final details of Adzic transfer",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-37495464",
   "fee": null,
   "published": "2026-07-31T03:00:00+00:00"
- },
- {
-  "id": "1498b87d1e57",
-  "title": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
-  "player": null,
-  "title_ko": "서류: 아스널이 뉴캐슬의 주장 기마랑이스에 대한 계약을 마감했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
-  "fee": null,
-  "published": "2026-07-30T22:50:00+00:00"
  }
 ]
