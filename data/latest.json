@@ -1,5 +1,18 @@
 [
  {
+  "id": "c90a3db7a2a2",
+  "title": "Official: Juventus complete permanent signing of Kolo Muani from PSG",
+  "player": "Kolo Muani",
+  "title_ko": "공식: 유벤투스는 PSG로부터 콜로 무아니의 영구 영입을 완료했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-juventus-complete-kolo-muani-from-psg/",
+  "fee": null,
+  "published": "2026-08-02T16:11:16+00:00"
+ },
+ {
   "id": "0cee024a0b17",
   "title": "Pjanić played key role in Juventus signing of Alajbegović",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/nicolo-tresoldi-man-utd-brugge-37499696",
   "fee": "£30M",
   "published": "2026-07-31T11:57:37+00:00"
- },
- {
-  "id": "214f9557efde",
-  "title": "Mercato: accord total entre le PSG et Monaco pour le transfert de Maghnes Akliouche",
-  "player": "Maghnes Akliouche",
-  "title_ko": "Mercato: Maghnes Akliouche의 이적을 위한 PSG와 Monaco 간의 완전한 합의",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-monaco-pour-le-transfert-maghnes-akliouche_AV-202607310324.html",
-  "fee": null,
-  "published": "2026-07-31T11:30:24+00:00"
  }
 ]
