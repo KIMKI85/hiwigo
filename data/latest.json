@@ -13,6 +13,19 @@
   "published": "2026-08-02T15:45:00+00:00"
  },
  {
+  "id": "83e344b5285d",
+  "title": "Man Utd transfer imminent as Michael Carrick greenlights rapid deal this weekend",
+  "player": "Michael Carrick",
+  "title_ko": "이번 주말 마이클 캐릭의 빠른 거래 승인으로 맨유 이적 임박",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-medical-bayindir-37505660",
+  "fee": null,
+  "published": "2026-08-02T15:42:45+00:00"
+ },
+ {
   "id": "6159cae1b6ac",
   "title": "Official: Juventus sign teenage forward Alajbegović from Bayer Leverkusen",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-monaco-pour-le-transfert-maghnes-akliouche_AV-202607310324.html",
   "fee": null,
   "published": "2026-07-31T11:30:24+00:00"
- },
- {
-  "id": "44a32ac9965d",
-  "title": "Rio Ferdinand's son signs for Premier League club as Man Utd icon sends four-word message",
-  "player": "Rio Ferdinand's",
-  "title_ko": "맨유의 아이콘이 보낸 네 단어 메시지에 리오 퍼디난드의 아들이 프리미어리그 클럽과 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rio-ferdinand-son-37499339",
-  "fee": null,
-  "published": "2026-07-31T11:05:50+00:00"
  }
 ]
