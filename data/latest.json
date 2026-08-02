@@ -1,5 +1,18 @@
 [
  {
+  "id": "fc41cf6230c7",
+  "title": "Sassuolo and Juventus discussing final details of Adzic transfer",
+  "player": null,
+  "title_ko": "Sassuolo와 Juventus는 Adzic 이적에 대한 최종 세부 사항을 논의합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sassuolo-juventus-discuss-final-adzic-details/",
+  "fee": null,
+  "published": "2026-08-02T09:58:03+00:00"
+ },
+ {
   "id": "e90a7acd215a",
   "title": "Juventus and Fiorentina closing in on Joao Mario agreement",
   "player": "Joao Mario",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
   "fee": null,
   "published": "2026-07-30T22:50:00+00:00"
- },
- {
-  "id": "97cec6f61080",
-  "title": "Oleksandr Saputin: gana fuerza para el Valencia la opción B tras el fallido fichaje de Van Oevelen",
-  "player": "Oleksandr Saputin",
-  "title_ko": "올렉산드르 사푸틴: 옵션 B는 판 오벨렌의 영입 실패 이후 발렌시아에게 힘을 얻습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/07/31/oleksandr-saputin-gana-fuerza-valencia-opcion-b-fallido-fichaje-oevelen.html",
-  "fee": null,
-  "published": "2026-07-30T22:47:02+00:00"
  }
 ]
