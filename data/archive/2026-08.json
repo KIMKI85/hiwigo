@@ -1,5 +1,31 @@
 [
  {
+  "id": "11414e59f16b",
+  "title": "Liverpool handed Bradley Barcola transfer boost as PSG strike contingency plan",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG 파업 비상 계획으로 브래들리 바르콜라 이적 추진을 건의했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-update-psg-37505800",
+  "fee": null,
+  "published": "2026-08-02T17:49:57+00:00"
+ },
+ {
+  "id": "96e67c93b179",
+  "title": "Schalke vor Lindström-Transfer - PSG-Minus bei Kolo Muani - TSG ohne Asllani ins Trainingslager",
+  "player": "Kolo Muani",
+  "title_ko": "Lindström 이적 전 Schalke - Kolo Muani가 있는 PSG 마이너스 - 훈련 캠프에 Asllani가 없는 TSG",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-02T17:14:07+00:00"
+ },
+ {
   "id": "3693cc9b8ea8",
   "title": "Napoli and Schalke reach Lindstrom agreement: the details",
   "player": "Jesper Lindstrom",
