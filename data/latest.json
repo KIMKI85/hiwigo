@@ -1,5 +1,18 @@
 [
  {
+  "id": "26126f96261e",
+  "title": "Arsenal put FIVE title-winners up for sale as Man Utd ‘investigate’ transfer deal",
+  "player": null,
+  "title_ko": "아스날은 맨유가 이적 계약을 '조사'하면서 5명의 우승팀을 매물로 내놓았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-transfer-arteta-37504496",
+  "fee": null,
+  "published": "2026-08-02T07:58:52+00:00"
+ },
+ {
   "id": "3499a604fd0c",
   "title": "Andoni Iraola’s three new Liverpool starting XIs with blockbuster Bradley Barcola transfer",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-defenseur-croate-dans-le-viseur-de-l-om_AV-202607300565.html",
   "fee": null,
   "published": "2026-07-30T20:11:40+00:00"
- },
- {
-  "id": "0f7b541a5d29",
-  "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
-  "player": "Joe Gomez",
-  "title_ko": "고메즈, 시즌 시작 결장 - 리버풀의 이적 계획에 영향을 미칠까요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
-  "fee": null,
-  "published": "2026-07-30T20:10:00+00:00"
  }
 ]
