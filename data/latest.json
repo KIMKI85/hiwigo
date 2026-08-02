@@ -1,5 +1,18 @@
 [
  {
+  "id": "cda7b1ecdeeb",
+  "title": "PSG move ahead of Juventus with €33m bid for Parma’s Suzuki",
+  "player": null,
+  "title_ko": "PSG는 파르마의 스즈키에 대한 3,300만 유로의 입찰로 유벤투스보다 앞서 나갔습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-move-ahead-of-juventus-with-suzuki-bid/",
+  "fee": "€33M",
+  "published": "2026-08-02T16:30:00+00:00"
+ },
+ {
   "id": "c90a3db7a2a2",
   "title": "Official: Juventus complete permanent signing of Kolo Muani from PSG",
   "player": "Kolo Muani",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-akliouche-nzonzi-ter-stegen-les-5-infos-mercato-du-31-juillet-a-la-mi-journee_VN-202607310335.html",
   "fee": null,
   "published": "2026-07-31T12:20:05+00:00"
- },
- {
-  "id": "9f5c73cc63f5",
-  "title": "Man Utd asking for 'day-to-day' updates on striker transfer as £30m bid lands",
-  "player": null,
-  "title_ko": "£30m 입찰이 성사되면서 스트라이커 이적에 대한 '일상적인' 업데이트를 요청하는 맨유",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/nicolo-tresoldi-man-utd-brugge-37499696",
-  "fee": "£30M",
-  "published": "2026-07-31T11:57:37+00:00"
  }
 ]
