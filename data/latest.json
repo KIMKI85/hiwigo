@@ -13,6 +13,45 @@
   "published": "2026-08-02T09:30:00+00:00"
  },
  {
+  "id": "446496c3c4cd",
+  "title": "Mercato: l'OL officialise déjà sa sixième recrue de l'été avec le défenseur Felix Bacher... déguisé en chevalier",
+  "player": "Felix Bacher",
+  "title_ko": "Mercato: OL은 이미 기사로 위장한 수비수 Felix Bacher와 함께 여름의 6번째 영입을 공식화했습니다.",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-officialise-deja-sa-sixieme-recrue-avec-le-defenseur-felix-bacher-deguise-en-chevalier_AV-202608020135.html",
+  "fee": null,
+  "published": "2026-08-02T09:26:08+00:00"
+ },
+ {
+  "id": "14e498a7d6d2",
+  "title": "El Levante ficha al joven delantero belga Musuayi hasta 2030",
+  "player": "Luís Castro",
+  "title_ko": "레반테, 벨기에의 젊은 스트라이커 무수아이와 2030년까지 계약",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/levante/2026/08/02/levante-ficha-joven-delantero-belga-musuayi-2030.html",
+  "fee": null,
+  "published": "2026-08-02T09:19:43+00:00"
+ },
+ {
+  "id": "76fd38ea8f6f",
+  "title": "Man Utd handed £42m transfer blow after Michael Carrick made feelings clear",
+  "player": "Michael Carrick",
+  "title_ko": "맨유는 마이클 캐릭이 감정을 분명히 한 후 £42m의 이적 타격을 입혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-carrick-37504627",
+  "fee": "£42M",
+  "published": "2026-08-02T09:19:05+00:00"
+ },
+ {
   "id": "277a7cab53c1",
   "title": "Brandt erklärt Ajax-Wechsel: \"Das hat bei mir einen Funken ausgelöst\"",
   "player": "Julian Brandt",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-carlos-espi-la-recrue-surprise-du-real-madrid_AV-202607300590.html",
   "fee": null,
   "published": "2026-07-30T21:51:58+00:00"
- },
- {
-  "id": "f9199d115b6b",
-  "title": "Man Utd transfer talks confirmed as agent says deal is close",
-  "player": "Orlando Gill",
-  "title_ko": "에이전트가 거래가 끝났다고 말하면서 맨유 이적 협상이 확정되었습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-gill-37497621",
-  "fee": null,
-  "published": "2026-07-30T21:41:31+00:00"
- },
- {
-  "id": "16253a5e46ec",
-  "title": "Real verpflichtet Sturmtalent Espi - und Levante freut sich über Rekordverkauf",
-  "player": "Sturmtalent Espi",
-  "title_ko": "재능 있는 Espi를 폭풍으로 몰아넣는 진짜 신호 - 그리고 Levante는 음반 판매에 만족합니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/real-verpflichtet-sturmtalent-espi-und-levante-freut-sich-ueber-rekordverkauf-1239746/artikel#omrss",
-  "fee": null,
-  "published": "2026-07-30T21:36:54+00:00"
- },
- {
-  "id": "c1137f3f0989",
-  "title": "Mercato: le PSG et Monaco proches d’un accord pour Akliouche",
-  "player": "Maghnes Akliouche",
-  "title_ko": "Mercato: PSG와 Monaco는 Akliouche에 대한 계약에 가까워졌습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-et-monaco-proches-d-un-accord-pour-akliouche_AV-202607300585.html",
-  "fee": null,
-  "published": "2026-07-30T21:22:19+00:00"
  }
 ]
