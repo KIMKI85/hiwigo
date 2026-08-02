@@ -1,5 +1,18 @@
 [
  {
+  "id": "4b253479e304",
+  "title": "Liverpool news: Fresh Bradley Barcola transfer boost as improved bid to go in for star",
+  "player": "Fresh Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 스타 영입을 위한 향상된 입찰로 새로운 브래들리 바르콜라 이적 증가",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-psg-37503125",
+  "fee": null,
+  "published": "2026-08-02T04:00:00+00:00"
+ },
+ {
   "id": "eda45d212b50",
   "title": "Man Utd news: Transfer 'approved' as £70m target 'open' to Old Trafford switch",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/cellino-and-brescia-fume-tonali-solidarity/",
   "fee": null,
   "published": "2026-07-30T18:04:45+00:00"
- },
- {
-  "id": "48c8debf4f91",
-  "title": "Liverpool signed highly-rated teen, 223-goal striker and title winner from PSG",
-  "player": null,
-  "title_ko": "리버풀은 높은 평가를 받고 있는 10대 공격수이자 223골을 넣은 스트라이커이자 타이틀 우승자인 PSG와 계약했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-psg-anelka-barcola-37495291",
-  "fee": null,
-  "published": "2026-07-30T17:00:00+00:00"
  }
 ]
