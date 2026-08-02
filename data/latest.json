@@ -1,5 +1,18 @@
 [
  {
+  "id": "fbee2969cb44",
+  "title": "Arsenal handed Bruno Guimaraes boost as Newcastle change their transfer stance",
+  "player": "Bruno Guimaraes",
+  "title_ko": "뉴캐슬이 이적 입장을 바꾸면서 아스날은 브루노 기마랑스에게 부양책을 건네주었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37505900",
+  "fee": null,
+  "published": "2026-08-02T19:16:11+00:00"
+ },
+ {
   "id": "571908768499",
   "title": "Chelsea sign Strasbourg midfielder Barco",
   "player": "Valentin Barco",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches",
   "fee": "£10M",
   "published": "2026-07-31T13:55:58+00:00"
- },
- {
-  "id": "85fa8d9b3ef6",
-  "title": "Roma targeted Endrick and Mastantuono for Real Madrid loans",
-  "player": null,
-  "title_ko": "로마는 레알 마드리드 임대를 위해 엔드릭과 마스탄투오노를 노렸다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-targeted-endrick-mastantuono-real-madrid/",
-  "fee": null,
-  "published": "2026-07-31T13:47:12+00:00"
  }
 ]
