@@ -1,5 +1,31 @@
 [
  {
+  "id": "9e05e3dcb4e4",
+  "title": "Tottenham latest: Juventus eye loan move for Vicario",
+  "player": null,
+  "title_ko": "토트넘 최신: 비카리오를 위한 유벤투스의 안구 대출 움직임",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-02T09:30:00+00:00"
+ },
+ {
+  "id": "277a7cab53c1",
+  "title": "Brandt erklärt Ajax-Wechsel: \"Das hat bei mir einen Funken ausgelöst\"",
+  "player": "Julian Brandt",
+  "title_ko": "Brandt는 Ajax의 변화에 ​​대해 설명합니다: \"그것이 나에게 뭔가를 촉발시켰습니다.\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/brandt-erklaert-ajax-wechsel-das-hat-bei-mir-einen-funken-ausgeloest-1240168/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-02T09:01:45+00:00"
+ },
+ {
   "id": "26126f96261e",
   "title": "Arsenal put FIVE title-winners up for sale as Man Utd ‘investigate’ transfer deal",
   "player": null,
