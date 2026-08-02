@@ -1,5 +1,18 @@
 [
  {
+  "id": "365b4d730fdf",
+  "title": "Chelsea sign Argentina international Valentín Barco from Strasbourg",
+  "player": "Valentín Barco",
+  "title_ko": "첼시가 스트라스부르에서 아르헨티나 국가대표 발렌틴 바르코를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/02/chelsea-sign-argentina-international-valentin-barco-from-strasbourg",
+  "fee": null,
+  "published": "2026-08-02T21:28:32+00:00"
+ },
+ {
   "id": "e81f4f2fc365",
   "title": "Liverpool transfer 'cancelled' as Andoni Iraola proven right with frustrations after U-turn",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/es-ist-fast-alles-durch-kovac-bestaetigt-baldigen-karetsas-transfer-1239922/video#omrss",
   "fee": null,
   "published": "2026-07-31T15:13:50+00:00"
- },
- {
-  "id": "bca634e9cbf1",
-  "title": "Chelsea handed £10m fine and suspended transfer ban",
-  "player": "Football Association",
-  "title_ko": "첼시는 벌금 1000만 파운드와 이적 금지 정지를 선고받았다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-  "fee": "£10M",
-  "published": "2026-07-31T14:28:00+00:00"
  }
 ]
