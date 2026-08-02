@@ -1,5 +1,18 @@
 [
  {
+  "id": "08aebbeb3207",
+  "title": "Juventus hope to copy Rashford deal for Zirkee and eye two Chelsea alternatives",
+  "player": "Joshua Zirkzee",
+  "title_ko": "유벤투스는 래시포드의 지르키 영입을 따라하고 첼시의 두 대안을 노리고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-hope-to-copy-rashford-deal-for-zirkee/",
+  "fee": null,
+  "published": "2026-08-02T11:39:15+00:00"
+ },
+ {
   "id": "a28c06aadc9b",
   "title": "Godts, Kolo Muani, Sangaré... les 5 infos mercato du 2 août à la mi-journée",
   "player": "Kolo Muani",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-boost-psg-37495596",
   "fee": null,
   "published": "2026-07-31T04:00:00+00:00"
- },
- {
-  "id": "4b945d12252b",
-  "title": "Man Utd news: Lewis Hall transfer update emerges as defender completes move",
-  "player": "Lewis Hall",
-  "title_ko": "맨유 뉴스: 수비수가 움직임을 완료함에 따라 루이스 홀 이적 업데이트가 등장",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37495755",
-  "fee": null,
-  "published": "2026-07-31T03:30:00+00:00"
  }
 ]
