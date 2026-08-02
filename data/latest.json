@@ -1,5 +1,18 @@
 [
  {
+  "id": "eb75d36c42f3",
+  "title": "\"Klarer Wunschspieler\": Daghim wechselt für 13 Millionen Euro nach Hoffenheim",
+  "player": "Klarer Wunschspieler",
+  "title_ko": "\"명백한 꿈의 선수\": 다그힘은 1,300만 유로에 호펜하임으로 이적합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/klarer-wunschspieler-daghim-wechselt-fuer-13-millionen-euro-nach-hoffenheim-1240287/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-02T20:02:28+00:00"
+ },
+ {
   "id": "fbee2969cb44",
   "title": "Arsenal handed Bruno Guimaraes boost as Newcastle change their transfer stance",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-31T14:15:10+00:00"
- },
- {
-  "id": "70986b2d9c59",
-  "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
-  "player": "Clearlake Capital",
-  "title_ko": "첼시는 에이전트 위반으로 FA로부터 £10m의 벌금과 이적 금지 처분을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches",
-  "fee": "£10M",
-  "published": "2026-07-31T13:55:58+00:00"
  }
 ]
