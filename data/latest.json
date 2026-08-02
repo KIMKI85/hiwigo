@@ -1,5 +1,18 @@
 [
  {
+  "id": "13a6dc455294",
+  "title": "Done deal: Napoli and Bayer Leverkusen have €30m Gutierrez agreement in place",
+  "player": null,
+  "title_ko": "거래 완료: 나폴리와 바이엘 레버쿠젠은 구티에레즈와 €30m 계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-bayer-leverkusen-gutierrez-agreement/",
+  "fee": "€30M",
+  "published": "2026-08-02T11:59:39+00:00"
+ },
+ {
   "id": "08aebbeb3207",
   "title": "Juventus hope to copy Rashford deal for Zirkee and eye two Chelsea alternatives",
   "player": "Joshua Zirkzee",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-defender-james-hill-37486565",
   "fee": "£40M",
   "published": "2026-07-31T04:30:00+00:00"
- },
- {
-  "id": "3c755970fb39",
-  "title": "Liverpool news: PSG breakthrough offers major Bradley Barcola boost as club line up move",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: PSG의 돌파구는 클럽 라인업 이동으로 브래들리 바르콜라에게 큰 힘을 실어줍니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-boost-psg-37495596",
-  "fee": null,
-  "published": "2026-07-31T04:00:00+00:00"
  }
 ]
