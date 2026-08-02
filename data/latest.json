@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a8580bc29ed",
+  "title": "Mercato: l'étonnante stratégie de Vlahovic, prêt à planter un club dans l'espoir de signer au Barça",
+  "player": "Dusan Vlahovic",
+  "title_ko": "Mercato: 바르사와 계약을 희망하며 클럽을 무너뜨릴 준비가 된 블라호비치의 놀라운 전략",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-etonnante-strategie-de-vlahovic-pret-a-planter-un-club-dans-l-espoir-de-signer-au-barca_AV-202608020187.html",
+  "fee": null,
+  "published": "2026-08-02T13:44:46+00:00"
+ },
+ {
   "id": "ee0c2ce684ea",
   "title": "Mercato: l'ancien milieu marseillais Ounahi serait dans le viseur du Barça",
   "player": "Selon El Chiringuito",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt",
   "fee": null,
   "published": "2026-07-31T08:37:20+00:00"
- },
- {
-  "id": "8747840a8ff5",
-  "title": "Bournemouth agree £26m fee for Benfica defender Silva",
-  "player": "Antonio Silva",
-  "title_ko": "본머스는 벤피카 수비수 실바의 이적료 £26m에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
-  "fee": "£26M",
-  "published": "2026-07-31T08:03:13+00:00"
  }
 ]
