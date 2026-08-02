@@ -78,6 +78,19 @@
   "published": "2026-08-02T03:00:00+00:00"
  },
  {
+  "id": "ec86524ecc92",
+  "title": "Wolves move into fourth with dominant display over Tigers",
+  "player": "Castleford Tigers",
+  "title_ko": "Wolves는 Tigers를 압도하며 4위로 올라섰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights",
+  "fee": null,
+  "published": "2026-08-02T00:00:00+00:00"
+ },
+ {
   "id": "47e30cd06922",
   "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
   "player": "Arsenal's Norgaard",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
   "fee": null,
   "published": "2026-07-30T20:10:00+00:00"
- },
- {
-  "id": "152bfb8f7eb9",
-  "title": "Defender Stones joins Inter Milan on free transfer",
-  "player": "Defender Stones",
-  "title_ko": "디펜더 스톤즈, 자유계약으로 인터 밀란에 합류",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-30T18:36:32+00:00"
  }
 ]
