@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee0c2ce684ea",
+  "title": "Mercato: l'ancien milieu marseillais Ounahi serait dans le viseur du Barça",
+  "player": "Selon El Chiringuito",
+  "title_ko": "메르카토: 전 마르세유 미드필더 오우나히가 바르사의 관심을 받을 것이다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ancien-milieu-marseillais-ounahi-serait-dans-le-viseur-du-barca_AV-202608020176.html",
+  "fee": null,
+  "published": "2026-08-02T12:40:28+00:00"
+ },
+ {
   "id": "13a6dc455294",
   "title": "Done deal: Napoli and Bayer Leverkusen have €30m Gutierrez agreement in place",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss",
   "fee": "£26M",
   "published": "2026-07-31T08:03:13+00:00"
- },
- {
-  "id": "e0bc4c9e26cb",
-  "title": "Andoni Iraola's dream Joe Gomez replacement as Liverpool boss signs £40m former player",
-  "player": "Andoni Iraola's",
-  "title_ko": "안도니 이라올라의 꿈, 조 고메즈 교체로 리버풀 감독이 전 선수 £40m 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-defender-james-hill-37486565",
-  "fee": "£40M",
-  "published": "2026-07-31T04:30:00+00:00"
  }
 ]
