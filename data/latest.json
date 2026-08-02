@@ -1,5 +1,31 @@
 [
  {
+  "id": "c76c9417c459",
+  "title": "Sir Alex Ferguson convinced Arsenal fan to snub Gunners for Man Utd in transfer U-turn",
+  "player": "Sir Alex Ferguson",
+  "title_ko": "알렉스 퍼거슨 경은 아스널 팬에게 맨유 이적 유턴에서 거너스를 제지하라고 설득했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-arsenal-summer-transfer-37484817",
+  "fee": null,
+  "published": "2026-08-02T04:30:00+00:00"
+ },
+ {
+  "id": "966f25899d70",
+  "title": "Man Utd’s dream final month of transfer window: £85m midfielder joins and three deals done",
+  "player": null,
+  "title_ko": "맨유의 꿈의 이적 기간 마지막 달: £85m의 미드필더 합류와 3개의 거래 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-aurelien-tchouameni-37494106",
+  "fee": "£85M",
+  "published": "2026-08-02T04:15:00+00:00"
+ },
+ {
   "id": "4b253479e304",
   "title": "Liverpool news: Fresh Bradley Barcola transfer boost as improved bid to go in for star",
   "player": "Fresh Bradley Barcola",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/liga/mercato-condamne-a-plus-de-8-ans-de-prison-pour-agression-sexuelle-rafa-mir-autorise-a-jouer-en-grece_AN-202607300538.html",
   "fee": null,
   "published": "2026-07-30T18:35:01+00:00"
- },
- {
-  "id": "776f1b314f99",
-  "title": "Official: Stones completes free transfer to Inter",
-  "player": "John Stones",
-  "title_ko": "공식: 스톤즈, 인테르로 자유 이적 완료",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-stones-completes-inter-transfer/",
-  "fee": null,
-  "published": "2026-07-30T18:30:00+00:00"
- },
- {
-  "id": "5df023305666",
-  "title": "Cellino vows appeal as Brescia collapse sends Tonali solidarity cash from Tottenham move to FIFA",
-  "player": "Massimo Cellino",
-  "title_ko": "브레시아 붕괴로 토날리 연대 자금이 토트넘에서 FIFA로 이동함에 따라 첼리노는 호소력을 발휘했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/cellino-and-brescia-fume-tonali-solidarity/",
-  "fee": null,
-  "published": "2026-07-30T18:04:45+00:00"
  }
 ]
