@@ -1,5 +1,18 @@
 [
  {
+  "id": "571908768499",
+  "title": "Chelsea sign Strasbourg midfielder Barco",
+  "player": "Valentin Barco",
+  "title_ko": "첼시가 스트라스부르 미드필더 바르코를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-02T18:38:05+00:00"
+ },
+ {
   "id": "11414e59f16b",
   "title": "Liverpool handed Bradley Barcola transfer boost as PSG strike contingency plan",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-targeted-endrick-mastantuono-real-madrid/",
   "fee": null,
   "published": "2026-07-31T13:47:12+00:00"
- },
- {
-  "id": "6f222a10a94b",
-  "title": "Tonali says Tottenham were ‘the best solution’; ‘Italy move not financially possible’",
-  "player": "Sandro Tonali",
-  "title_ko": "Tonali는 Tottenham이 '최고의 솔루션'이라고 말했습니다. '이탈리아 이전은 재정적으로 불가능하다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tonali-says-tottenham-were-the-best-solution/",
-  "fee": null,
-  "published": "2026-07-31T13:42:24+00:00"
  }
 ]
