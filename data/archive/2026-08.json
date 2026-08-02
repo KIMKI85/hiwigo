@@ -1,5 +1,31 @@
 [
  {
+  "id": "d2f25ab3da1a",
+  "title": "PSG target Indonesia captain Idzes from Sassuolo",
+  "player": "Jay Idzes",
+  "title_ko": "PSG는 사수올로 출신 인도네시아 주장 이즈제스를 타깃으로 삼고 있다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-target-indonesia-captain-idzes-sassuolo/",
+  "fee": null,
+  "published": "2026-08-02T14:53:28+00:00"
+ },
+ {
+  "id": "4ff021e3da23",
+  "title": "Alajbegovic-Wechsel von Bayer 04 zu Juventus ist perfekt",
+  "player": "Wechsel von Bayer",
+  "title_ko": "바이엘 04에서 유벤투스로 이적한 알라이베고비치는 완벽하다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/alajbegovic-wechsel-von-bayer-04-zu-juventus-ist-perfekt-1240117/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-02T14:49:40+00:00"
+ },
+ {
   "id": "e10e07c41146",
   "title": "Mercato: Kolo Muani est un joueur de la Juve, le PSG va accélérer son recrutement",
   "player": "Kolo Muani",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "d2f25ab3da1a",
+  "title": "PSG target Indonesia captain Idzes from Sassuolo",
+  "player": "Jay Idzes",
+  "title_ko": "PSG는 사수올로 출신 인도네시아 주장 이즈제스를 타깃으로 삼고 있다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-target-indonesia-captain-idzes-sassuolo/",
+  "fee": null,
+  "published": "2026-08-02T14:53:28+00:00"
+ },
+ {
+  "id": "4ff021e3da23",
+  "title": "Alajbegovic-Wechsel von Bayer 04 zu Juventus ist perfekt",
+  "player": "Wechsel von Bayer",
+  "title_ko": "바이엘 04에서 유벤투스로 이적한 알라이베고비치는 완벽하다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/alajbegovic-wechsel-von-bayer-04-zu-juventus-ist-perfekt-1240117/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-02T14:49:40+00:00"
+ },
+ {
   "id": "e10e07c41146",
   "title": "Mercato: Kolo Muani est un joueur de la Juve, le PSG va accélérer son recrutement",
   "player": "Kolo Muani",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/jones-liverpool-midfielder-reacts-stones-inter/",
   "fee": null,
   "published": "2026-07-31T10:05:07+00:00"
- },
- {
-  "id": "1c04bbc2e3cb",
-  "title": "Bruno Guimaraes given separate Newcastle plan as showdown transfer talks scheduled",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑스는 대결 이적 협상이 예정되어 있어 별도의 뉴캐슬 계획을 제시했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-bruno-guimaraes-future-transfer-37498505",
-  "fee": null,
-  "published": "2026-07-31T09:38:51+00:00"
- },
- {
-  "id": "b52b466b3c89",
-  "title": "Newcastle now have ideal opportunity to sign 236-goal World Cup striker this summer",
-  "player": "Eddie Howe's",
-  "title_ko": "뉴캐슬은 이제 이번 여름 월드컵에서 236골을 넣은 스트라이커를 영입할 수 있는 이상적인 기회를 갖게 되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-transfers-world-cup-striker-37498708",
-  "fee": null,
-  "published": "2026-07-31T09:29:13+00:00"
  }
 ]
