@@ -1,5 +1,18 @@
 [
  {
+  "id": "e81f4f2fc365",
+  "title": "Liverpool transfer 'cancelled' as Andoni Iraola proven right with frustrations after U-turn",
+  "player": "Andoni Iraola",
+  "title_ko": "유턴 후 좌절감에 안도니 이라올라가 옳았음을 입증하면서 리버풀 이적은 '취소'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-iraola-chiesa-37506145",
+  "fee": null,
+  "published": "2026-08-02T20:57:28+00:00"
+ },
+ {
   "id": "ec73bf76d8b9",
   "title": "El Sevilla hace oficial el fichaje de Fran González hasta 2031",
   "player": "Fran González",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
   "fee": "£10M",
   "published": "2026-07-31T14:28:00+00:00"
- },
- {
-  "id": "50b25c23c3f4",
-  "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
-  "player": "Arne Engels",
-  "title_ko": "셀틱은 웨스트햄 엥겔스의 입찰을 거부하고 존스턴의 관심을 확인했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-31T14:15:10+00:00"
  }
 ]
