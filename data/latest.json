@@ -13,6 +13,19 @@
   "published": "2026-08-03T16:00:00+00:00"
  },
  {
+  "id": "dd828d966a3a",
+  "title": "England midfielder Henderson joins Chelsea",
+  "player": "Jordan Henderson",
+  "title_ko": "잉글랜드 미드필더 헨더슨이 첼시에 합류했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T15:17:56+00:00"
+ },
+ {
   "id": "5c31eb22b260",
   "title": "Chelsea sign Jordan Henderson as ex-Liverpool captain completes shock move",
   "player": "Jordan Henderson",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-recrute-par-colo-colo-le-heros-cap-verdien-vozinha-pourrait-finalement-signer-au-maroc_AV-202608010214.html",
   "fee": null,
   "published": "2026-08-01T12:13:22+00:00"
- },
- {
-  "id": "87f5fe292fb7",
-  "title": "Inter prepare new Jones bid at €35m for Liverpool after Akinsanmiro sale",
-  "player": "Ebeneezer Akinsanmiro",
-  "title_ko": "인테르는 아킨산미로 매각 후 리버풀을 위해 존스에게 3500만 유로의 새로운 제안을 준비하고 있다",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-prepare-new-jones-bid-at-e35m-liverpool/",
-  "fee": "€35M",
-  "published": "2026-08-01T12:11:42+00:00"
  }
 ]
