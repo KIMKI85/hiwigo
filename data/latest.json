@@ -1,5 +1,18 @@
 [
  {
+  "id": "911876edfa83",
+  "title": "Newcastle reject Guimaraes bid from Arsenal",
+  "player": "Bruno Guimaraes",
+  "title_ko": "뉴캐슬, 아스날의 기마랑스 제안 거절",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
+  "fee": null,
+  "published": "2026-08-03T12:39:00+00:00"
+ },
+ {
   "id": "127b4a9fa5c9",
   "title": "Fenerbahce ready to 'break bank' for Marcus Rashford transfer after Man Utd U-turn",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-tzolis-price-37485987",
   "fee": "£35M",
   "published": "2026-08-01T04:30:00+00:00"
- },
- {
-  "id": "77cfdcfd3faa",
-  "title": "Tottenham’s dream final month of transfer window as two top signings sealed and three exits",
-  "player": null,
-  "title_ko": "토트넘이 꿈꾸는 이적 기간 마지막 달에는 두 명의 최고 영입이 확정되고 세 번의 퇴장이 예정되어 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/tottenham-transfer-news-rashford-savinho-37490697",
-  "fee": null,
-  "published": "2026-08-01T04:15:00+00:00"
  }
 ]
