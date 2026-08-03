@@ -1,5 +1,18 @@
 [
  {
+  "id": "2af8fc0b5bbf",
+  "title": "Done Deal: Chalobah agreement with Como, Chelsea get €30m plus €6m bonus",
+  "player": "Trevoh Chalobah",
+  "title_ko": "완료된 거래: Como와 Chalobah 계약, Chelsea는 €30m + €6m 보너스를 받습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-chalobah-agreement-with-como-chelsea/",
+  "fee": "€30M",
+  "published": "2026-08-03T14:16:03+00:00"
+ },
+ {
   "id": "7b380fc07bb8",
   "title": "Tzolis erklärt Arsenal-Wechsel - und warum Düsseldorf der entscheidende Schritt war",
   "player": "Düsseldorfer Christos Tzolis",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lukaku-moves-closer-to-napoli-exit-price/",
   "fee": "€10M",
   "published": "2026-08-01T11:55:32+00:00"
- },
- {
-  "id": "032db607e918",
-  "title": "Read on Roma €25m offer and Nottingham Forest interest: ‘Want to evaluate transfer’",
-  "player": "Givairo Read",
-  "title_ko": "로마의 €25m 제안과 노팅엄 포레스트의 관심에 대해 읽어보세요: '이적을 평가하고 싶습니다'",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/read-on-roma-e25m-offer-and-nottingham-forest/",
-  "fee": "€25M",
-  "published": "2026-08-01T11:35:16+00:00"
  }
 ]
