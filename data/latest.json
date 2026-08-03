@@ -1,5 +1,18 @@
 [
  {
+  "id": "d893a4bcd235",
+  "title": "Man Utd tell Ralf Rangnick's only signing he can leave permanently after brutal snub",
+  "player": "Ralf Rangnick's",
+  "title_ko": "맨유는 랄프 랑닉의 유일한 영입에 잔혹한 비난 이후 영구적으로 떠날 수 있다고 말했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-collyer-37509695",
+  "fee": null,
+  "published": "2026-08-03T18:17:03+00:00"
+ },
+ {
   "id": "9f71fa341887",
   "title": "Gimenez targeted by Lazio and FC Porto, Milan uncertain on loan idea",
   "player": "Santiago Gimenez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/serie-a-transfer-halhal-venezia-frosinone-monz/",
   "fee": null,
   "published": "2026-08-01T17:03:35+00:00"
- },
- {
-  "id": "dc12d2c68e46",
-  "title": "Brentford sign Sangare for club record fee",
-  "player": "Mamadou Sangare",
-  "title_ko": "브렌트포드는 클럽 기록 수수료로 상가레와 계약했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-01T16:48:26+00:00"
  }
 ]
