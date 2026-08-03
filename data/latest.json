@@ -1,5 +1,31 @@
 [
  {
+  "id": "ced791d60f29",
+  "title": "Real to resume talks with Arsenal target Vinicius Jr",
+  "player": "Vinicius Jr",
+  "title_ko": "레알, 아스날 타겟 비니시우스 주니어와 대화 재개",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T17:30:32+00:00"
+ },
+ {
+  "id": "a3d3792d56bf",
+  "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+  "player": "Trevoh Chalobah",
+  "title_ko": "이적 요약: 첼시는 트레보 찰로바를 팔고 조던 헨더슨을 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
+  "fee": null,
+  "published": "2026-08-03T17:30:01+00:00"
+ },
+ {
   "id": "b95d03b21fb1",
   "title": "Mercato: le PSG et Liverpool discutent pour le transfert de Barcola mais les positions restent très éloignées",
   "player": "Bradley Barcola",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal",
   "fee": null,
   "published": "2026-08-01T16:44:36+00:00"
- },
- {
-  "id": "91c9e6c993f9",
-  "title": "Michael Carrick drops clear hint over three Man Utd transfers after Atletico Madrid win",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 아틀레티코 마드리드의 승리 이후 맨유의 세 번의 이적에 대해 명확한 힌트를 주었습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-vitek-zirkzee-37503666",
-  "fee": null,
-  "published": "2026-08-01T16:31:43+00:00"
- },
- {
-  "id": "fc7e12344930",
-  "title": "Chelsea confirm Welbeck signing from Brighton",
-  "player": "Danny Welbeck",
-  "title_ko": "첼시, 브라이튼에서 웰벡 영입 확정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-01T16:22:18+00:00"
  }
 ]

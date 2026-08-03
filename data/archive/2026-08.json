@@ -1,5 +1,31 @@
 [
  {
+  "id": "ced791d60f29",
+  "title": "Real to resume talks with Arsenal target Vinicius Jr",
+  "player": "Vinicius Jr",
+  "title_ko": "레알, 아스날 타겟 비니시우스 주니어와 대화 재개",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T17:30:32+00:00"
+ },
+ {
+  "id": "a3d3792d56bf",
+  "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+  "player": "Trevoh Chalobah",
+  "title_ko": "이적 요약: 첼시는 트레보 찰로바를 팔고 조던 헨더슨을 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
+  "fee": null,
+  "published": "2026-08-03T17:30:01+00:00"
+ },
+ {
   "id": "b95d03b21fb1",
   "title": "Mercato: le PSG et Liverpool discutent pour le transfert de Barcola mais les positions restent très éloignées",
   "player": "Bradley Barcola",
