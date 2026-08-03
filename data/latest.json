@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f71fa341887",
+  "title": "Gimenez targeted by Lazio and FC Porto, Milan uncertain on loan idea",
+  "player": "Santiago Gimenez",
+  "title_ko": "라치오와 FC 포르투의 타겟이 된 히메네스, 밀란의 임대 계획은 불확실함",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gimenez-targeted-lazio-porto-milan-uncertain/",
+  "fee": null,
+  "published": "2026-08-03T18:14:42+00:00"
+ },
+ {
   "id": "ced791d60f29",
   "title": "Real to resume talks with Arsenal target Vinicius Jr",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-01T16:48:26+00:00"
- },
- {
-  "id": "ecc370e9b572",
-  "title": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
-  "player": "Danny Welbeck",
-  "title_ko": "이적 소식: 웰벡, 첼시와 브렌트포드에 합류해 기록적인 상가레 계약 완료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal",
-  "fee": null,
-  "published": "2026-08-01T16:44:36+00:00"
  }
 ]
