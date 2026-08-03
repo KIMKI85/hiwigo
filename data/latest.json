@@ -1,5 +1,18 @@
 [
  {
+  "id": "6f97dd118f8a",
+  "title": "Nico Gonzalez can attract Inter and Roma interest, Juventus open to loan",
+  "player": "Nico Gonzalez",
+  "title_ko": "니코 곤잘레스는 인테르와 로마의 관심을 끌 수 있고, 유벤투스는 임대 가능",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/nico-gonzalez-inter-roma-interest-juventus/",
+  "fee": null,
+  "published": "2026-08-03T19:56:01+00:00"
+ },
+ {
   "id": "4f1141ce7280",
   "title": "Mercato: Titraoui, le \"Verratti algérien\" à la conquête de Lens",
   "player": "Mamadou Sangaré",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
   "fee": null,
   "published": "2026-08-01T17:25:00+00:00"
- },
- {
-  "id": "1c72149c3887",
-  "title": "Une plus-value de 40 millions et un transfert record: Lens perd Mamadou Sangaré mais touche le jackpot",
-  "player": "Mamadou Sangaré",
-  "title_ko": "4천만 달러의 자본 이득과 기록적인 이체: Lens는 Mamadou Sangaré를 잃었지만 대박을 터뜨렸습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/une-plus-value-de-40-millions-et-un-transfert-record-lens-perd-mamadou-sangare-mais-touche-le-jackpot_AV-202608010276.html",
-  "fee": null,
-  "published": "2026-08-01T17:04:30+00:00"
  }
 ]
