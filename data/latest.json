@@ -1,5 +1,18 @@
 [
  {
+  "id": "bcb87412036c",
+  "title": "Napoli outcast Lang first choice for Ajax if Godts joins PSG",
+  "player": "Mika Godts",
+  "title_ko": "Godts가 PSG에 합류하면 Napoli는 Lang을 Ajax의 첫 번째 선택으로 삼습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-outcast-lang-ajax-if-godts-joins-psg/",
+  "fee": null,
+  "published": "2026-08-03T16:18:37+00:00"
+ },
+ {
   "id": "1f4b218bbd2b",
   "title": "Palace sign Tottenham defender Bartrip",
   "player": "Women's Super",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/will-keane-man-utd-preston-37503259",
   "fee": null,
   "published": "2026-08-01T14:47:47+00:00"
- },
- {
-  "id": "42883914c99b",
-  "title": "Bournemouth sign defender Silva from Benfica",
-  "player": "Antonio Silva",
-  "title_ko": "본머스는 벤피카의 수비수 실바를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
-  "fee": null,
-  "published": "2026-08-01T14:00:00+00:00"
  }
 ]
