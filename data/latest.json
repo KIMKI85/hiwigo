@@ -1,5 +1,18 @@
 [
  {
+  "id": "127b4a9fa5c9",
+  "title": "Fenerbahce ready to 'break bank' for Marcus Rashford transfer after Man Utd U-turn",
+  "player": "Marcus Rashford",
+  "title_ko": "페네르바체는 맨유가 유턴한 후 마커스 래시포드 이적을 위해 '은행 파산' 준비를 마쳤다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-fenerbahce-37507336",
+  "fee": null,
+  "published": "2026-08-03T11:17:27+00:00"
+ },
+ {
   "id": "27bdd76d851d",
   "title": "Joao Mario arrives to complete potential €10m transfer from Juventus to Fiorentina",
   "player": "Joao Mario",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/tottenham-transfer-news-rashford-savinho-37490697",
   "fee": null,
   "published": "2026-08-01T04:15:00+00:00"
- },
- {
-  "id": "326a02d8f1ca",
-  "title": "Liverpool news: Green light given for huge transfer offer as talks for new signing begin",
-  "player": null,
-  "title_ko": "리버풀 뉴스: 새로운 영입 협상이 시작되면서 거액의 이적 제안에 대한 청신호가 켜졌습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-bid-offers-37500243",
-  "fee": null,
-  "published": "2026-08-01T04:00:00+00:00"
  }
 ]
