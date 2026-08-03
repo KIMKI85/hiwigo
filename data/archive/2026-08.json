@@ -13,6 +13,32 @@
   "published": "2026-08-03T16:00:00+00:00"
  },
  {
+  "id": "5621accba15b",
+  "title": "Como agree £31m deal to sign Chalobah from Chelsea",
+  "player": "Trevoh Chalobah",
+  "title_ko": "Como는 Chelsea로부터 Chalobah를 영입하기 위해 £31m 계약에 동의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
+  "fee": "£31M",
+  "published": "2026-08-03T15:39:32+00:00"
+ },
+ {
+  "id": "660855bf3cf9",
+  "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
+  "player": "Edin Dzeko",
+  "title_ko": "전 맨시티 공격수 제코(40)가 샬케와 새로운 계약을 맺었다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T15:37:14+00:00"
+ },
+ {
   "id": "dd828d966a3a",
   "title": "England midfielder Henderson joins Chelsea",
   "player": "Jordan Henderson",

@@ -13,6 +13,32 @@
   "published": "2026-08-03T16:00:00+00:00"
  },
  {
+  "id": "5621accba15b",
+  "title": "Como agree £31m deal to sign Chalobah from Chelsea",
+  "player": "Trevoh Chalobah",
+  "title_ko": "Como는 Chelsea로부터 Chalobah를 영입하기 위해 £31m 계약에 동의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
+  "fee": "£31M",
+  "published": "2026-08-03T15:39:32+00:00"
+ },
+ {
+  "id": "660855bf3cf9",
+  "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
+  "player": "Edin Dzeko",
+  "title_ko": "전 맨시티 공격수 제코(40)가 샬케와 새로운 계약을 맺었다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T15:37:14+00:00"
+ },
+ {
   "id": "dd828d966a3a",
   "title": "England midfielder Henderson joins Chelsea",
   "player": "Jordan Henderson",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/conceicao-manchester-united-e60m-zirkzee-swap/",
   "fee": "€60M",
   "published": "2026-08-01T12:39:39+00:00"
- },
- {
-  "id": "323c7cf5fe80",
-  "title": "Yan Diomande transfer twist as surprise update emerges on Real Madrid target",
-  "player": "Yan Diomande",
-  "title_ko": "레알 마드리드 타겟에 대한 깜짝 업데이트가 나오면서 Yan Diomande 이적 트위스트가 발생했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-real-madrid-transfer-diomande-37502983",
-  "fee": null,
-  "published": "2026-08-01T12:15:18+00:00"
- },
- {
-  "id": "d7becfc930c0",
-  "title": "Mercato: recruté par Colo Colo, le héros cap-verdien Vozinha pourrait finalement signer au Maroc",
-  "player": "Colo Colo",
-  "title_ko": "Mercato: Colo Colo가 영입한 Cape Verdean의 영웅 Vozinha가 마침내 모로코에 합류할 수 있었습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-recrute-par-colo-colo-le-heros-cap-verdien-vozinha-pourrait-finalement-signer-au-maroc_AV-202608010214.html",
-  "fee": null,
-  "published": "2026-08-01T12:13:22+00:00"
  }
 ]
