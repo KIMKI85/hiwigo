@@ -13,6 +13,32 @@
   "published": "2026-08-03T10:40:00+00:00"
  },
  {
+  "id": "7f1126d72875",
+  "title": "Wechsel perfekt: BVB zahlt für Top-Talent Karetsas 30 Millionen Euro",
+  "player": "Talent Karetsas",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wechsel-perfekt-bvb-zahlt-fuer-top-talent-karetsas-30-millionen-euro-1240344/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-03T10:37:43+00:00"
+ },
+ {
+  "id": "13ac9a4e5c35",
+  "title": "La verdadera y enrevesada situación con los agentes de Diomande que puede retrasar el fichaje",
+  "player": "Maxidel Management",
+  "title_ko": "계약을 지연시킬 수 있는 디오망드 에이전트의 실제적이고 복잡한 상황",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-madrid/2026/08/03/verdadera-enrevesada-situacion-agentes-diomande-retrasar-fichaje.html",
+  "fee": null,
+  "published": "2026-08-03T10:26:13+00:00"
+ },
+ {
   "id": "c66f8dc04fe6",
   "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder touches down",
   "player": "Bruno Guimaraes",
@@ -22,6 +48,19 @@
   "lv": 1,
   "src": "Mirror Football",
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arseanl-transfer-guimaraes-update-newcastle-37507322",
+  "fee": null,
+  "published": "2026-08-03T10:11:06+00:00"
+ },
+ {
+  "id": "9b46ecee227a",
+  "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder boards flight",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날의 타겟 브루노 기마라스는 뉴캐슬의 미드필더 보드 요청에 응했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-guimaraes-update-newcastle-37507322",
   "fee": null,
   "published": "2026-08-03T10:11:06+00:00"
  },
@@ -284,6 +323,19 @@
   "url": "https://www.kicker.de/klarer-wunschspieler-daghim-wechselt-fuer-13-millionen-euro-nach-hoffenheim-1240287/artikel#omrss",
   "fee": null,
   "published": "2026-08-02T20:02:28+00:00"
+ },
+ {
+  "id": "2088f428ac15",
+  "title": "Transfer news LIVE: Bruno Guimaraes twist, Man Utd done deal, Vinicius Jr to Arsenal",
+  "player": "Bruno Guimaraes",
+  "title_ko": "이적 뉴스 라이브: 브루노 기마랑스 트위스트, 맨유 거래 완료, 비니시우스 주니어에서 아스날로",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
+  "fee": null,
+  "published": "2026-08-02T19:19:58+00:00"
  },
  {
   "id": "fbee2969cb44",

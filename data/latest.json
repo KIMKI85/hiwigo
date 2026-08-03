@@ -13,6 +13,45 @@
   "published": "2026-08-03T10:40:00+00:00"
  },
  {
+  "id": "7f1126d72875",
+  "title": "Wechsel perfekt: BVB zahlt für Top-Talent Karetsas 30 Millionen Euro",
+  "player": "Talent Karetsas",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wechsel-perfekt-bvb-zahlt-fuer-top-talent-karetsas-30-millionen-euro-1240344/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-03T10:37:43+00:00"
+ },
+ {
+  "id": "13ac9a4e5c35",
+  "title": "La verdadera y enrevesada situación con los agentes de Diomande que puede retrasar el fichaje",
+  "player": "Maxidel Management",
+  "title_ko": "계약을 지연시킬 수 있는 디오망드 에이전트의 실제적이고 복잡한 상황",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-madrid/2026/08/03/verdadera-enrevesada-situacion-agentes-diomande-retrasar-fichaje.html",
+  "fee": null,
+  "published": "2026-08-03T10:26:13+00:00"
+ },
+ {
+  "id": "9b46ecee227a",
+  "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder boards flight",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날의 타겟 브루노 기마라스는 뉴캐슬의 미드필더 보드 요청에 응했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-guimaraes-update-newcastle-37507322",
+  "fee": null,
+  "published": "2026-08-03T10:11:06+00:00"
+ },
+ {
   "id": "c66f8dc04fe6",
   "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder touches down",
   "player": "Bruno Guimaraes",
@@ -284,6 +323,19 @@
   "url": "https://www.kicker.de/klarer-wunschspieler-daghim-wechselt-fuer-13-millionen-euro-nach-hoffenheim-1240287/artikel#omrss",
   "fee": null,
   "published": "2026-08-02T20:02:28+00:00"
+ },
+ {
+  "id": "2088f428ac15",
+  "title": "Transfer news LIVE: Bruno Guimaraes twist, Man Utd done deal, Vinicius Jr to Arsenal",
+  "player": "Bruno Guimaraes",
+  "title_ko": "이적 뉴스 라이브: 브루노 기마랑스 트위스트, 맨유 거래 완료, 비니시우스 주니어에서 아스날로",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
+  "fee": null,
+  "published": "2026-08-02T19:19:58+00:00"
  },
  {
   "id": "fbee2969cb44",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approach-juventus-37499929",
   "fee": "£42M",
   "published": "2026-08-01T03:30:00+00:00"
- },
- {
-  "id": "f093c2326f26",
-  "title": "Arsenal news: Vinicius Jr told take it or leave it as Gunners 'agree £77million transfer'",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 비니시우스 주니어는 거너스가 '7700만 파운드 이적에 동의'하므로 받아들이거나 떠나라고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-vinicius-guimaraes-offer-37500202",
-  "fee": "£77M",
-  "published": "2026-08-01T03:00:00+00:00"
- },
- {
-  "id": "4f10d9e43d10",
-  "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
-  "player": "Vinicius Jr",
-  "title_ko": "서류: 레알 마드리드는 아스날이 비니시우스 주니어를 타겟으로 클럽을 떠날 가능성이 있음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
-  "fee": null,
-  "published": "2026-07-31T23:30:00+00:00"
- },
- {
-  "id": "45607b05edd3",
-  "title": "Arsenal agree Guimaraes fee - Saturday's gossip",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날은 기마랑스의 이적료에 동의했다 - 토요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c07rpvkym70o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-31T23:09:35+00:00"
- },
- {
-  "id": "c0e7dd31a0a3",
-  "title": "Bowie makes loan switch to Serie A side Sassuolo",
-  "player": "Kieron Bowie",
-  "title_ko": "보위, 세리에 A 팀 사수올로로 임대 전환",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-31T22:40:49+00:00"
  }
 ]
