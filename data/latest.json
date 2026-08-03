@@ -1,5 +1,18 @@
 [
  {
+  "id": "1f4b218bbd2b",
+  "title": "Palace sign Tottenham defender Bartrip",
+  "player": "Women's Super",
+  "title_ko": "팰리스는 토트넘 수비수 Bartrip을 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0qvpzd80qlo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T16:00:37+00:00"
+ },
+ {
   "id": "bb24e76e56df",
   "title": "Chelsea confirm Henderson signing",
   "player": "Jordan Henderson",
@@ -24,6 +37,19 @@
   "url": "https://football-italia.net/official-sassuolo-sign-adzic-juventus-option/",
   "fee": null,
   "published": "2026-08-03T15:56:03+00:00"
+ },
+ {
+  "id": "83c30809f22a",
+  "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
+  "player": "Bruno Guimarães",
+  "title_ko": "뉴캐슬, 주장 브루노 기마랑이스에 대한 아스날의 첫 제의를 거절하다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes",
+  "fee": null,
+  "published": "2026-08-03T15:46:54+00:00"
  },
  {
   "id": "156fd322812c",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
   "fee": null,
   "published": "2026-08-01T14:00:00+00:00"
- },
- {
-  "id": "60e9585d7cec",
-  "title": "Barcelona boss speaks out on Marcus Rashford as deal turned down - ‘I miss him’",
-  "player": "Marcus Rashford",
-  "title_ko": "바르셀로나 감독은 계약이 거절된 마커스 래시포드에 대해 이렇게 말했다. '그가 그리워요'",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-barcelona-37503306",
-  "fee": null,
-  "published": "2026-08-01T13:49:39+00:00"
- },
- {
-  "id": "9bd07c2dfc27",
-  "title": "Bournemouth sign Portugal defender Silva",
-  "player": "Antonio Silva",
-  "title_ko": "본머스는 포르투갈 수비수 실바를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgljn7l17eno?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-01T13:39:03+00:00"
  }
 ]
