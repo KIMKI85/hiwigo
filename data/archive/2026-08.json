@@ -1,5 +1,44 @@
 [
  {
+  "id": "9c79d07d6905",
+  "title": "Newcastle sign goalkeeper Hornicek",
+  "player": "Lukas Hornicek",
+  "title_ko": "뉴캐슬의 골키퍼 호니체크 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m",
+  "fee": null,
+  "published": "2026-08-03T09:00:00+00:00"
+ },
+ {
+  "id": "a80b82090600",
+  "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+  "player": "Lukas Hornicek",
+  "title_ko": "뉴캐슬은 브라가의 골키퍼 호니체크를 £25.7m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
+  "fee": "£25.7M",
+  "published": "2026-08-03T08:00:39+00:00"
+ },
+ {
+  "id": "ca67cde9f322",
+  "title": "Today’s Papers: Juventus sign Kolo Muani and Alajbegovic, Esposito renewal ready",
+  "player": "Kolo Muani",
+  "title_ko": "오늘의 문서: 유벤투스는 Kolo Muani와 Alajbegovic과 계약을 맺었고 Esposito는 갱신 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/todays-papers-juventus-sign-kolo-muani-and-alajbegovic-esposito-renewal-ready/",
+  "fee": null,
+  "published": "2026-08-03T07:51:59+00:00"
+ },
+ {
   "id": "f16d06bedb2e",
   "title": "4 transfers Liverpool need to complete after Leeds defeat showed harsh reality",
   "player": "Andoni Iraola's",

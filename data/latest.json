@@ -1,5 +1,44 @@
 [
  {
+  "id": "9c79d07d6905",
+  "title": "Newcastle sign goalkeeper Hornicek",
+  "player": "Lukas Hornicek",
+  "title_ko": "뉴캐슬의 골키퍼 호니체크 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m",
+  "fee": null,
+  "published": "2026-08-03T09:00:00+00:00"
+ },
+ {
+  "id": "a80b82090600",
+  "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+  "player": "Lukas Hornicek",
+  "title_ko": "뉴캐슬은 브라가의 골키퍼 호니체크를 £25.7m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
+  "fee": "£25.7M",
+  "published": "2026-08-03T08:00:39+00:00"
+ },
+ {
+  "id": "ca67cde9f322",
+  "title": "Today’s Papers: Juventus sign Kolo Muani and Alajbegovic, Esposito renewal ready",
+  "player": "Kolo Muani",
+  "title_ko": "오늘의 문서: 유벤투스는 Kolo Muani와 Alajbegovic과 계약을 맺었고 Esposito는 갱신 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/todays-papers-juventus-sign-kolo-muani-and-alajbegovic-esposito-renewal-ready/",
+  "fee": null,
+  "published": "2026-08-03T07:51:59+00:00"
+ },
+ {
   "id": "f16d06bedb2e",
   "title": "4 transfers Liverpool need to complete after Leeds defeat showed harsh reality",
   "player": "Andoni Iraola's",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-latest-37501672",
   "fee": null,
   "published": "2026-07-31T17:53:41+00:00"
- },
- {
-  "id": "2d2a7e1da955",
-  "title": "Valdepenas: ‘I am super happy to be at Fiorentina’ after Real Madrid move",
-  "player": "Victor Valdepenas",
-  "title_ko": "발데페나스: 레알 마드리드 이적 후 '피오렌티나에 있어서 정말 행복하다'",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/valdepenas-super-happy-fiorentina-real-madrid/",
-  "fee": null,
-  "published": "2026-07-31T17:52:24+00:00"
- },
- {
-  "id": "4dc555d0a5b5",
-  "title": "Bruno Guimaraes' agent teases Arsenal with Vinicius Jr post amid agreement claims",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑스의 에이전트는 계약 주장 속에서 비니시우스 주니어 포스트로 아스날을 놀렸다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-guimaraes-vinicius-jr-37501594",
-  "fee": null,
-  "published": "2026-07-31T17:28:51+00:00"
- },
- {
-  "id": "b1f09a318a6e",
-  "title": "Marcus Rashford has chance to 'hurt' Man Utd as two transfer moves proposed",
-  "player": "Marcus Rashford",
-  "title_ko": "마커스 래쉬포드는 두 가지 이적 움직임이 제안됨에 따라 맨유에 '상처'를 줄 기회가 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfer-news-rashford-37501125",
-  "fee": null,
-  "published": "2026-07-31T17:14:21+00:00"
  }
 ]
