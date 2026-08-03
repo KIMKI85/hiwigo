@@ -1,5 +1,18 @@
 [
  {
+  "id": "80fc255cf9d8",
+  "title": "Mercato: Crystal Palace veut recruter Axel Disasi",
+  "player": "Axel Disasi",
+  "title_ko": "메르카토: 크리스탈 팰리스는 악셀 디사시 영입을 원한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-crystal-palace-veut-recruter-axel-disasi_AV-202608030343.html",
+  "fee": null,
+  "published": "2026-08-03T13:07:33+00:00"
+ },
+ {
   "id": "d62cde4a5417",
   "title": "Vinicius Jr to Arsenal transfer hint as key figure flies into London",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-plan-new-mctominay-deal-to-2030/",
   "fee": null,
   "published": "2026-08-01T10:20:00+00:00"
- },
- {
-  "id": "511c6642c192",
-  "title": "Mercato: quitter le Real Madrid pour Arsenal, pourquoi l'idée plaît de plus en plus à Vinicius",
-  "player": null,
-  "title_ko": "메르카토: 레알 마드리드를 떠나 아스날로 가는 이 아이디어가 비니시우스에게 점점 더 매력적인 이유",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-quitter-le-real-madrid-pour-arsenal-pourquoi-l-idee-plait-de-plus-en-plus-a-vinicius_AV-202608010184.html",
-  "fee": null,
-  "published": "2026-08-01T10:07:33+00:00"
  }
 ]
