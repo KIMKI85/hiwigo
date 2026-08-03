@@ -1,5 +1,18 @@
 [
  {
+  "id": "c2ade4db1615",
+  "title": "Vincius, Torres, Gakpo… les 5 infos mercato du 3 août à midi",
+  "player": null,
+  "title_ko": "빈치우스, 토레스, 각포… 8월 3일 정오 5개 메르카토 소식",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-vincius-torres-gakpo-les-5-infos-mercato-du-3-aout-a-midi_VN-202608030294.html",
+  "fee": null,
+  "published": "2026-08-03T10:03:37+00:00"
+ },
+ {
   "id": "07767bf6b9d9",
   "title": "West Ham latest: Potts set to undergo Club Brugge medical",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-halhal-arrive-venezia-e5m-plus-bonus/",
   "fee": "€5M",
   "published": "2026-07-31T19:23:04+00:00"
- },
- {
-  "id": "f3d9067e78a1",
-  "title": "Official: Genoa sign Mitaj from Al-Ittihad in agreement worth up to €6.5m",
-  "player": "Mario Mitaj",
-  "title_ko": "공식: 제노아는 알-이티하드에서 미타즈를 최대 650만 유로에 계약했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-genoa-sign-mitaj-from-al-ittihad-6-5m/",
-  "fee": "€6.5M",
-  "published": "2026-07-31T19:04:23+00:00"
  }
 ]
