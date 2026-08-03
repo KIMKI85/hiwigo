@@ -1,5 +1,18 @@
 [
  {
+  "id": "34072f75d4de",
+  "title": "Bruno Guimaraes to Arsenal saga has Newcastle in contention for all-time worst transfer window",
+  "player": "Bruno Guimaraes",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/newcastle-bruno-guimaraes-future-summer-37510026",
+  "fee": null,
+  "published": "2026-08-03T20:29:00+00:00"
+ },
+ {
   "id": "6f97dd118f8a",
   "title": "Nico Gonzalez can attract Inter and Roma interest, Juventus open to loan",
   "player": "Nico Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-alajbegovic-arrives-for-juventus-medical/",
   "fee": null,
   "published": "2026-08-01T17:25:06+00:00"
- },
- {
-  "id": "6041af421893",
-  "title": "Dowman and Tzolis on target as Arsenal score four against Girona LIVE!",
-  "player": null,
-  "title_ko": "Arsenal이 Girona LIVE를 상대로 4점을 득점하면서 Dowman과 Tzolis가 목표를 달성했습니다!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
-  "fee": null,
-  "published": "2026-08-01T17:25:00+00:00"
  }
 ]
