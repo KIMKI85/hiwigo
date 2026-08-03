@@ -1,5 +1,18 @@
 [
  {
+  "id": "f8e27ffd10fb",
+  "title": "Napoli threaten Schalke 04 with legal action after failure of Lindstrom transfer",
+  "player": null,
+  "title_ko": "나폴리는 린드스트롬 이적 실패 후 샬케 04에게 법적 조치를 취하겠다고 위협했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-threaten-schalke-04-failure-lindstrom/",
+  "fee": null,
+  "published": "2026-08-03T16:40:10+00:00"
+ },
+ {
   "id": "bcb87412036c",
   "title": "Napoli outcast Lang first choice for Ajax if Godts joins PSG",
   "player": "Mika Godts",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-agreement-bruno-guimaraes-37503697",
   "fee": null,
   "published": "2026-08-01T15:55:59+00:00"
- },
- {
-  "id": "967541d4606b",
-  "title": "'I suffered injury hell after leaving Man Utd – I'm fighting for my career and next move'",
-  "player": "Will Keane",
-  "title_ko": "'나는 맨유를 떠난 후 부상 지옥을 겪었다. 나는 내 경력과 다음 행보를 위해 싸우고 있다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/will-keane-man-utd-preston-37503259",
-  "fee": null,
-  "published": "2026-08-01T14:47:47+00:00"
  }
 ]
