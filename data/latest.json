@@ -1,5 +1,18 @@
 [
  {
+  "id": "6f8f547c0fbe",
+  "title": "Fulham sign Garcia and Palacios from Real Madrid",
+  "player": "Gonzalo Garcia",
+  "title_ko": "풀럼은 레알 마드리드의 가르시아와 팔라시오스를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T21:18:39+00:00"
+ },
+ {
   "id": "34072f75d4de",
   "title": "Bruno Guimaraes to Arsenal saga has Newcastle in contention for all-time worst transfer window",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-vinicius-junior-37503891",
   "fee": null,
   "published": "2026-08-01T19:05:03+00:00"
- },
- {
-  "id": "b429600a6705",
-  "title": "Video: Alajbegovic arrives for Juventus, medical on Sunday",
-  "player": "Kerim Alajbegovic",
-  "title_ko": "영상: 알라이베고비치가 유벤투스로 도착했고 일요일 메디컬을 받았습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-alajbegovic-arrives-for-juventus-medical/",
-  "fee": null,
-  "published": "2026-08-01T17:25:06+00:00"
  }
 ]
