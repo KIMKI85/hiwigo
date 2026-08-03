@@ -1,5 +1,18 @@
 [
  {
+  "id": "27bdd76d851d",
+  "title": "Joao Mario arrives to complete potential €10m transfer from Juventus to Fiorentina",
+  "player": "Joao Mario",
+  "title_ko": "주앙 마리오는 유벤투스에서 피오렌티나로의 잠재적인 €10m 이적을 완료하기 위해 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/joao-mario-juventus-fiorentina-medical/",
+  "fee": "€10M",
+  "published": "2026-08-03T10:47:29+00:00"
+ },
+ {
   "id": "cc281e92a312",
   "title": "Guimaraes arrives in Spain to join Newcastle training camp",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-bid-offers-37500243",
   "fee": null,
   "published": "2026-08-01T04:00:00+00:00"
- },
- {
-  "id": "aef6eec3eeb0",
-  "title": "Man Utd news: Agent confirms transfer approach as club stance on £42m star emerges",
-  "player": "Michael Carrick's",
-  "title_ko": "맨유 뉴스: £42m 스타에 대한 클럽 입장이 드러나자 에이전트는 이적 접근 방식을 확인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approach-juventus-37499929",
-  "fee": "£42M",
-  "published": "2026-08-01T03:30:00+00:00"
  }
 ]
