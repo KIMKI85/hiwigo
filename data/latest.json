@@ -13,6 +13,19 @@
   "published": "2026-08-03T09:56:00+00:00"
  },
  {
+  "id": "d02df23a72bc",
+  "title": "Mikel Arteta sends Vinicius Jr transfer message ahead of Real Madrid meeting",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 레알 마드리드와의 만남을 앞두고 비니시우스 주니어에게 이적 메시지를 보냈다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-junior-arsenal-transfer-news-37506822",
+  "fee": null,
+  "published": "2026-08-03T09:09:46+00:00"
+ },
+ {
   "id": "9c79d07d6905",
   "title": "Newcastle sign goalkeeper Hornicek",
   "player": "Lukas Hornicek",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-friendly-douglas-luiz-manchester-city/",
   "fee": null,
   "published": "2026-07-31T18:12:48+00:00"
- },
- {
-  "id": "a0dba8e6b02d",
-  "title": "Done Deal: Koulierakis ready for Roma medical after €16.5m plus bonus agreement",
-  "player": "Konstatinos Koulierakis",
-  "title_ko": "완료된 거래: 쿨리에라키스는 €16.5m에 보너스 계약을 추가한 후 로마 메디컬에 합류할 준비가 되었습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-koulierakis-ready-for-roma-medical/",
-  "fee": "€16.5M",
-  "published": "2026-07-31T18:01:40+00:00"
  }
 ]
