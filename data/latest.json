@@ -1,5 +1,18 @@
 [
  {
+  "id": "3ddd606439fc",
+  "title": "Transfer news LIVE: Arsenal medical, Liverpool signing jets in, Man Utd prepare £60m bid",
+  "player": "Bruno Guimaraes",
+  "title_ko": "이적 뉴스 라이브: 아스날 메디컬, 리버풀 영입, 맨유는 £60m 입찰 준비",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37506403",
+  "fee": "£60M",
+  "published": "2026-08-03T05:43:18+00:00"
+ },
+ {
   "id": "dd56cabf3921",
   "title": "Liverpool news: Andoni Iraola to add three players to squad as £80m transfer given backing",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-bowie-join-sassuolo-mulattieri-verona/",
   "fee": "€10.5M",
   "published": "2026-07-31T15:59:30+00:00"
- },
- {
-  "id": "5266f3133010",
-  "title": "Real Madrid make final Vinicius Jr decision as Arsenal put on transfer red alert",
-  "player": "Vinicius Jr",
-  "title_ko": "레알 마드리드는 아스날이 이적 적색 경보를 발령함에 따라 비니시우스 주니어에게 최종 결정을 내렸습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-arsenal-real-madrid-transfer-37500663",
-  "fee": null,
-  "published": "2026-07-31T15:55:23+00:00"
  }
 ]
