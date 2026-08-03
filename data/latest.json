@@ -1,5 +1,57 @@
 [
  {
+  "id": "f16d06bedb2e",
+  "title": "4 transfers Liverpool need to complete after Leeds defeat showed harsh reality",
+  "player": "Andoni Iraola's",
+  "title_ko": "리즈 패배 후 리버풀이 완료해야 할 4개의 이적은 가혹한 현실을 보여주었다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-andoni-iraola-leeds-37506423",
+  "fee": null,
+  "published": "2026-08-03T06:51:41+00:00"
+ },
+ {
+  "id": "aa833e2f2941",
+  "title": "Football transfer rumours: Atlético to offer Grealish escape route? Spurs target Osimhen and Gakpo?",
+  "player": "Jack Grealish",
+  "title_ko": "축구 이적 루머: 아틀레티코가 그릴리쉬의 탈출 경로를 제공할 것인가? 토트넘이 오시멘과 각포를 노린다?",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo",
+  "fee": null,
+  "published": "2026-08-03T06:49:27+00:00"
+ },
+ {
+  "id": "cdb31814c9f6",
+  "title": "DIRECT. Mercato: toutes les infos et rumeurs du 3 août 2026 sur le marché des transferts",
+  "player": null,
+  "title_ko": "직접. Mercato: 2026년 8월 3일 이적시장에 관한 모든 정보와 루머",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-3-aout-2026-sur-le-marche-des-transferts_LN-202608030157.html",
+  "fee": null,
+  "published": "2026-08-03T06:43:59+00:00"
+ },
+ {
+  "id": "dbd746d7c337",
+  "title": "Mercato: Arteta prend en charge personnellement l'opération Vinicius à Arsenal",
+  "player": "Vinicius Junior",
+  "title_ko": "메르카토: 아르테타가 아스날에서 비니시우스 운영을 개인적으로 맡는다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mikel-arteta-prend-en-charge-personnellement-l-operation-vinicius-a-arsenal_AV-202608030142.html",
+  "fee": null,
+  "published": "2026-08-03T06:32:38+00:00"
+ },
+ {
   "id": "3ddd606439fc",
   "title": "Transfer news LIVE: Arsenal medical, Liverpool signing jets in, Man Utd prepare £60m bid",
   "player": "Bruno Guimaraes",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfer-news-rashford-37501125",
   "fee": null,
   "published": "2026-07-31T17:14:21+00:00"
- },
- {
-  "id": "24c32cbb2181",
-  "title": "Report Napoli want Gatti on loan with option to buy from Juventus",
-  "player": "Max Allegri",
-  "title_ko": "나폴리는 가티를 유벤투스로부터 구매할 수 있는 옵션과 함께 임대를 원한다고 보고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-napoli-want-gatti-option-juventus/",
-  "fee": null,
-  "published": "2026-07-31T16:52:25+00:00"
- },
- {
-  "id": "3a3430ceb0e4",
-  "title": "Chelsea sign Italy's Dragoni from Barcelona",
-  "player": "Italy's Dragoni",
-  "title_ko": "첼시, 바르셀로나에서 이탈리아 드라고니 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-07-31T16:52:15+00:00"
- },
- {
-  "id": "65fa1f25f587",
-  "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
-  "player": "Bruno Guimarães",
-  "title_ko": "아스날은 뉴캐슬의 프리시즌 캠프에 참가하지 않고 브루노 기마랑이스를 노리고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
-  "fee": null,
-  "published": "2026-07-31T16:17:20+00:00"
- },
- {
-  "id": "70e5b207c6cb",
-  "title": "Official: Bowie joins Sassuolo in €10.5m deal, Mulattieri move to Verona",
-  "player": "Kieron Bowie",
-  "title_ko": "공식: Bowie는 €10.5m 거래로 Sassuolo에 합류했고 Mulattieri는 베로나로 이적했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-bowie-join-sassuolo-mulattieri-verona/",
-  "fee": "€10.5M",
-  "published": "2026-07-31T15:59:30+00:00"
  }
 ]
