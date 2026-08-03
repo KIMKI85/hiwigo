@@ -1,5 +1,18 @@
 [
  {
+  "id": "930f071c21e7",
+  "title": "Official: Joao Mario joins Fiorentina, option to buy from Juventus at €11.3m",
+  "player": "Joao Mario",
+  "title_ko": "공식: 주앙 마리오가 피오렌티나에 합류, 유벤투스로부터 €11.3m에 구매할 수 있는 옵션",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-joao-mario-joins-fiorentina-juventus/",
+  "fee": "€11.3M",
+  "published": "2026-08-03T16:52:24+00:00"
+ },
+ {
   "id": "f8e27ffd10fb",
   "title": "Napoli threaten Schalke 04 with legal action after failure of Lindstrom transfer",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-wheatley-37503619",
   "fee": null,
   "published": "2026-08-01T16:05:39+00:00"
- },
- {
-  "id": "1a6c1cb60e08",
-  "title": "Arsenal reach transfer agreement with medical to come next in major Bruno Guimaraes boost",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날, 메디컬과 이적 계약 체결, 브루노 기마랑스의 차기 부스트 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-agreement-bruno-guimaraes-37503697",
-  "fee": null,
-  "published": "2026-08-01T15:55:59+00:00"
  }
 ]
