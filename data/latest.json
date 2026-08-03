@@ -1,5 +1,31 @@
 [
  {
+  "id": "7b380fc07bb8",
+  "title": "Tzolis erklärt Arsenal-Wechsel - und warum Düsseldorf der entscheidende Schritt war",
+  "player": "Düsseldorfer Christos Tzolis",
+  "title_ko": "Tzolis는 아스날의 이적과 뒤셀도르프가 결정적인 조치를 취한 이유를 설명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/tzolis-erklaert-arsenal-wechsel-und-warum-duesseldorf-der-entscheidende-schritt-war-1240469/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-03T13:40:09+00:00"
+ },
+ {
+  "id": "726bd0066c4b",
+  "title": "Ex-Premier League star blocks £113m Real Madrid transfer as FIFA receive complaint",
+  "player": "Max Gradel",
+  "title_ko": "전 프리미어 리그 스타는 FIFA가 불만을 제기함에 따라 £ 113m 레알 마드리드 이적을 막았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/yan-diomande-transfer-real-madrid-37508556",
+  "fee": "£113M",
+  "published": "2026-08-03T13:33:36+00:00"
+ },
+ {
   "id": "6d5635e5f8a9",
   "title": "Frank Lampard green lights £88m Chelsea transfer reunion after signing son of ex-teammate",
   "player": "Frank Lampard",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/read-on-roma-e25m-offer-and-nottingham-forest/",
   "fee": "€25M",
   "published": "2026-08-01T11:35:16+00:00"
- },
- {
-  "id": "63f5a1e9bb15",
-  "title": "Chelsea avoid massive points deduction as more details emerge on FA transfer ban decision",
-  "player": "Football Association",
-  "title_ko": "첼시는 FA 이적 금지 결정에 대한 자세한 내용이 공개됨에 따라 대규모 포인트 공제를 피했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfer-ban-the-fa-37502934",
-  "fee": null,
-  "published": "2026-08-01T11:26:02+00:00"
- },
- {
-  "id": "47d284e0d226",
-  "title": "Sebastiano Esposito goes AWOL over contract dispute at Cagliari",
-  "player": "Sebastiano Esposito",
-  "title_ko": "세바스티아노 에스포지토, 칼리아리와의 계약 분쟁으로 탈퇴",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/sebastiano-esposito-awol-dispute-cagliari/",
-  "fee": null,
-  "published": "2026-08-01T11:17:04+00:00"
  }
 ]
