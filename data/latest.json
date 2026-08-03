@@ -1,5 +1,18 @@
 [
  {
+  "id": "4f1141ce7280",
+  "title": "Mercato: Titraoui, le \"Verratti algérien\" à la conquête de Lens",
+  "player": "Mamadou Sangaré",
+  "title_ko": "Mercato: 랑스를 정복할 \"알제리 베라티\" Titraoui",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-titraoui-le-verratti-algerien-a-la-conquete-de-lens_AV-202608030517.html",
+  "fee": null,
+  "published": "2026-08-03T19:38:22+00:00"
+ },
+ {
   "id": "d893a4bcd235",
   "title": "Man Utd tell Ralf Rangnick's only signing he can leave permanently after brutal snub",
   "player": "Ralf Rangnick's",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/une-plus-value-de-40-millions-et-un-transfert-record-lens-perd-mamadou-sangare-mais-touche-le-jackpot_AV-202608010276.html",
   "fee": null,
   "published": "2026-08-01T17:04:30+00:00"
- },
- {
-  "id": "feaf53474f7d",
-  "title": "Serie A Transfer Round-Up: Venezia, Frosinone, Monza and Fiorentina moves completed",
-  "player": "Redouane Halhal",
-  "title_ko": "세리에 A 이적 라운드업: 베네치아, 프로시노네, 몬차, 피오렌티나 이동 완료",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/serie-a-transfer-halhal-venezia-frosinone-monz/",
-  "fee": null,
-  "published": "2026-08-01T17:03:35+00:00"
  }
 ]
