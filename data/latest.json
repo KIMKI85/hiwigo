@@ -1,5 +1,18 @@
 [
  {
+  "id": "07767bf6b9d9",
+  "title": "West Ham latest: Potts set to undergo Club Brugge medical",
+  "player": null,
+  "title_ko": "웨스트햄 최신: 포츠, 클럽 브뤼헤 메디컬 테스트 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+  "fee": null,
+  "published": "2026-08-03T09:56:00+00:00"
+ },
+ {
   "id": "9c79d07d6905",
   "title": "Newcastle sign goalkeeper Hornicek",
   "player": "Lukas Hornicek",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-koulierakis-ready-for-roma-medical/",
   "fee": "€16.5M",
   "published": "2026-07-31T18:01:40+00:00"
- },
- {
-  "id": "decfebac64a7",
-  "title": "Vinicius Jr moves step closer to potential Arsenal transfer after Real Madrid decision",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어는 레알 마드리드 결정 이후 아스날 이적 가능성에 한 걸음 더 다가섰다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-arsenal-transfer-latest-37501672",
-  "fee": null,
-  "published": "2026-07-31T17:53:41+00:00"
  }
 ]
