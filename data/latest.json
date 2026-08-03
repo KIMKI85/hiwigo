@@ -13,6 +13,19 @@
   "published": "2026-08-03T12:39:00+00:00"
  },
  {
+  "id": "ed5d06c5bd72",
+  "title": "Done deal: Roma send Angelino to Deportivo for €2.5m",
+  "player": null,
+  "title_ko": "거래 완료: 로마는 250만 유로에 안젤리노를 데포르티보로 보냅니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-roma-send-angelino-to-deportivo/",
+  "fee": "€2.5M",
+  "published": "2026-08-03T12:24:18+00:00"
+ },
+ {
   "id": "c172e5006ccd",
   "title": "Esposito: ‘No issues on contract renewal, a dream to play with Stankovic’",
   "player": "Francesco Pio Esposito",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-30-juillet-2026-sur-le-marche-des-transferts-en-live_LN-202607300093.html",
   "fee": null,
   "published": "2026-08-01T08:13:23+00:00"
- },
- {
-  "id": "415ad9043278",
-  "title": "Arsenal star refused to go on pre-season tour to force through summer transfer",
-  "player": null,
-  "title_ko": "아스날 스타는 여름 이적을 강제하기 위해 프리시즌 투어 참가를 거부했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-laurent-koscielny-move-37502415",
-  "fee": null,
-  "published": "2026-08-01T07:42:22+00:00"
  }
 ]
