@@ -13,6 +13,32 @@
   "published": "2026-08-03T16:00:00+00:00"
  },
  {
+  "id": "5f228d9cca6c",
+  "title": "Official: Sassuolo sign Adzic, but Juventus retain buy back option",
+  "player": "Vasilije Adzic",
+  "title_ko": "공식: Sassuolo가 Adzic과 계약했지만 유벤투스는 환매 옵션을 유지합니다",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-sassuolo-sign-adzic-juventus-option/",
+  "fee": null,
+  "published": "2026-08-03T15:56:03+00:00"
+ },
+ {
+  "id": "156fd322812c",
+  "title": "Man Utd ready to battle Barcelona for £13.7m star as they establish transfer plan B",
+  "player": "Newcastle's Lewis Hall",
+  "title_ko": "맨유는 이적 계획 B를 수립하면서 £13.7m의 스타를 위해 바르셀로나와 싸울 준비가 되어 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-barcelona-37509305",
+  "fee": "£13.7M",
+  "published": "2026-08-03T15:43:50+00:00"
+ },
+ {
   "id": "5621accba15b",
   "title": "Como agree £31m deal to sign Chalobah from Chelsea",
   "player": "Trevoh Chalobah",
