@@ -1,5 +1,31 @@
 [
  {
+  "id": "cc281e92a312",
+  "title": "Guimaraes arrives in Spain to join Newcastle training camp",
+  "player": "Bruno Guimaraes",
+  "title_ko": "기마랑이스, 뉴캐슬 훈련캠프 합류 위해 스페인 도착",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565570/bruno-guimaraes-arsenal-transfer-target-yet-to-arrive-at-newcastles-pre-season-training-camp-in-la-manga",
+  "fee": null,
+  "published": "2026-08-03T10:40:00+00:00"
+ },
+ {
+  "id": "c66f8dc04fe6",
+  "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder touches down",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날의 타겟 브루노 기마랑스는 미드필더의 터치다운에 대한 뉴캐슬의 요청을 준수합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arseanl-transfer-guimaraes-update-newcastle-37507322",
+  "fee": null,
+  "published": "2026-08-03T10:11:06+00:00"
+ },
+ {
   "id": "c2ade4db1615",
   "title": "Vincius, Torres, Gakpo… les 5 infos mercato du 3 août à midi",
   "player": null,
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
   "fee": null,
   "published": "2026-08-03T09:56:00+00:00"
+ },
+ {
+  "id": "685328d33411",
+  "title": "Aston Villa set-piece guru MacPhee joins Chelsea",
+  "player": "Hong Kong",
+  "title_ko": "애스턴 빌라의 세트피스 전문가 맥피가 첼시에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T09:33:10+00:00"
  },
  {
   "id": "6ba895f7d9a8",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "cc281e92a312",
+  "title": "Guimaraes arrives in Spain to join Newcastle training camp",
+  "player": "Bruno Guimaraes",
+  "title_ko": "기마랑이스, 뉴캐슬 훈련캠프 합류 위해 스페인 도착",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13565570/bruno-guimaraes-arsenal-transfer-target-yet-to-arrive-at-newcastles-pre-season-training-camp-in-la-manga",
+  "fee": null,
+  "published": "2026-08-03T10:40:00+00:00"
+ },
+ {
+  "id": "c66f8dc04fe6",
+  "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder touches down",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날의 타겟 브루노 기마랑스는 미드필더의 터치다운에 대한 뉴캐슬의 요청을 준수합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arseanl-transfer-guimaraes-update-newcastle-37507322",
+  "fee": null,
+  "published": "2026-08-03T10:11:06+00:00"
+ },
+ {
   "id": "c2ade4db1615",
   "title": "Vincius, Torres, Gakpo… les 5 infos mercato du 3 août à midi",
   "player": null,
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
   "fee": null,
   "published": "2026-08-03T09:56:00+00:00"
+ },
+ {
+  "id": "685328d33411",
+  "title": "Aston Villa set-piece guru MacPhee joins Chelsea",
+  "player": "Hong Kong",
+  "title_ko": "애스턴 빌라의 세트피스 전문가 맥피가 첼시에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-03T09:33:10+00:00"
  },
  {
   "id": "6ba895f7d9a8",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-07-31T22:40:49+00:00"
- },
- {
-  "id": "3ace1e6ddf7a",
-  "title": "Mercato: le PSG discute pour l'ailier belge Mika Godts",
-  "player": "Mika Godts",
-  "title_ko": "Mercato: PSG는 벨기에 윙어 Mika Godts에 대해 논의하고 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-discute-pour-l-ailier-belge-mika-godts_AV-202607310526.html",
-  "fee": null,
-  "published": "2026-07-31T22:30:20+00:00"
- },
- {
-  "id": "2088f428ac15",
-  "title": "Transfer news LIVE: Arsenal 'agree terms' with Vinicius Jr, Man Utd Rashford call, Guimaraes latest",
-  "player": "Vinicius Jr",
-  "title_ko": "이적 뉴스 라이브: 아스날은 비니시우스 주니어, 맨유 래시포드 통화, 기마랑스의 최근 '조건에 동의'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
-  "fee": null,
-  "published": "2026-07-31T21:54:36+00:00"
- },
- {
-  "id": "d538c94c51fb",
-  "title": "Done Deal: Halhal arrives for Venezia, €5m plus bonus agreement with KV Mechelen",
-  "player": "Redouane Halhal",
-  "title_ko": "거래 완료: 할할이 베네치아로 도착, €5m에 KV 메헬렌과 보너스 계약",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-halhal-arrive-venezia-e5m-plus-bonus/",
-  "fee": "€5M",
-  "published": "2026-07-31T19:23:04+00:00"
  }
 ]
