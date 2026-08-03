@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd56cabf3921",
+  "title": "Liverpool news: Andoni Iraola to add three players to squad as £80m transfer given backing",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀 뉴스: 안도니 이라올라는 지원을 받아 £80m 이적료로 3명의 선수를 스쿼드에 추가할 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-andoni-iraola-37505102",
+  "fee": "£80M",
+  "published": "2026-08-03T04:00:00+00:00"
+ },
+ {
   "id": "85b823daa7b8",
   "title": "Man Utd news: Myles Lewis-Skelly transfer boost as medical booked and star 'says yes' to move",
   "player": "Myles Lewis-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-arsenal-real-madrid-transfer-37500663",
   "fee": null,
   "published": "2026-07-31T15:55:23+00:00"
- },
- {
-  "id": "0fcf082d6d88",
-  "title": "Matthias Jaissle can hand Newcastle chance to sign title winner and help fill Anthony Gordon void",
-  "player": "Matthias Jaissle",
-  "title_ko": "Matthias Jaissle은 뉴캐슬에게 타이틀 우승자와 계약하고 Anthony Gordon의 공백을 메울 수 있는 기회를 줄 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/matthias-jaissle-newcastle-united-transfer-37501071",
-  "fee": null,
-  "published": "2026-07-31T15:48:57+00:00"
  }
 ]
