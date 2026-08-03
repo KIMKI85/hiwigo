@@ -1,5 +1,18 @@
 [
  {
+  "id": "55a7f78a9474",
+  "title": "Arsenal news: Real Madrid issue Vinicius Jr update as Mikel Arteta drops transfer hint",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날 뉴스: 레알 마드리드는 미켈 아르테타가 이적 힌트를 떨어뜨림에 따라 비니시우스 주니어 업데이트를 발행했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-transfer-update-37505166",
+  "fee": null,
+  "published": "2026-08-03T03:00:00+00:00"
+ },
+ {
   "id": "365b4d730fdf",
   "title": "Chelsea sign Argentina international Valentín Barco from Strasbourg",
   "player": "Valentín Barco",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/chalobah-closer-to-como-e30m-fee-to-chelsea/",
   "fee": "€30M",
   "published": "2026-07-31T15:15:48+00:00"
- },
- {
-  "id": "ce7dadeea5f1",
-  "title": "\"Es ist fast alles durch\": Kovac bestätigt baldigen Karetsas-Transfer",
-  "player": "Niko Kovac",
-  "title_ko": "\"거의 다 끝났습니다\": Kovac은 Karetsa의 이적을 곧 확인합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/es-ist-fast-alles-durch-kovac-bestaetigt-baldigen-karetsas-transfer-1239922/video#omrss",
-  "fee": null,
-  "published": "2026-07-31T15:13:50+00:00"
  }
 ]
