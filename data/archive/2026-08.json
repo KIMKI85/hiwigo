@@ -1,5 +1,31 @@
 [
  {
+  "id": "bb24e76e56df",
+  "title": "Chelsea confirm Henderson signing",
+  "player": "Jordan Henderson",
+  "title_ko": "첼시, 헨더슨 영입 확정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit",
+  "fee": null,
+  "published": "2026-08-03T16:00:00+00:00"
+ },
+ {
+  "id": "5c31eb22b260",
+  "title": "Chelsea sign Jordan Henderson as ex-Liverpool captain completes shock move",
+  "player": "Jordan Henderson",
+  "title_ko": "첼시, 전 리버풀 주장으로 조던 헨더슨 영입 충격적인 움직임 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-complete-jordan-henderson-transfer-37492255",
+  "fee": null,
+  "published": "2026-08-03T15:01:15+00:00"
+ },
+ {
   "id": "2af8fc0b5bbf",
   "title": "Done Deal: Chalobah agreement with Como, Chelsea get €30m plus €6m bonus",
   "player": "Trevoh Chalobah",
