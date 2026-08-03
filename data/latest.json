@@ -1,5 +1,18 @@
 [
  {
+  "id": "3eb0cd0efde0",
+  "title": "Sir Alex Ferguson's ex-assistant at Man Utd joins his son in new League One role",
+  "player": "Sir Alex Ferguson's",
+  "title_ko": "알렉스 퍼거슨 경의 전 맨체스터 유나이티드 어시스턴트가 그의 아들과 함께 새로운 리그 1 역할에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/stockport-county-meulensteen-manutd-ferguson-37510113",
+  "fee": null,
+  "published": "2026-08-03T21:34:53+00:00"
+ },
+ {
   "id": "6f8f547c0fbe",
   "title": "Fulham sign Garcia and Palacios from Real Madrid",
   "player": "Gonzalo Garcia",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/satte-abloese-fuer-wolfsburg-koulierakis-wechselt-zur-as-rom-1240130/artikel#omrss",
   "fee": null,
   "published": "2026-08-01T20:29:28+00:00"
- },
- {
-  "id": "1a0ea9f78f15",
-  "title": "Arsenal could still add another blockbuster signing aside from Vinicius Jr or Bruno Guimaraes",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 비니시우스 주니어나 브루노 기마랑스 외에 또 다른 블록버스터 영입을 추가할 수도 있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-vinicius-junior-37503891",
-  "fee": null,
-  "published": "2026-08-01T19:05:03+00:00"
  }
 ]
