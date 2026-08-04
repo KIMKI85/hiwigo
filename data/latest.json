@@ -13,6 +13,19 @@
   "published": "2026-08-04T10:00:00+00:00"
  },
  {
+  "id": "029e11704aab",
+  "title": "Man Utd's George closing in on Brighton move",
+  "player": "Utd's George",
+  "title_ko": "맨유의 조지, 브라이튼 이적에 가까워지고 있다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdewgg2xe7yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T09:17:59+00:00"
+ },
+ {
   "id": "8f7a63d61053",
   "title": "Rangers agree fee for Japanese winger Yokota - gossip",
   "player": "Daisuke Yokota",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-aurelien-tchouameni-37494106",
   "fee": "£85M",
   "published": "2026-08-02T04:15:00+00:00"
- },
- {
-  "id": "4b253479e304",
-  "title": "Liverpool news: Fresh Bradley Barcola transfer boost as improved bid to go in for star",
-  "player": "Fresh Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 스타 영입을 위한 향상된 입찰로 새로운 브래들리 바르콜라 이적 증가",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-psg-37503125",
-  "fee": null,
-  "published": "2026-08-02T04:00:00+00:00"
  }
 ]
