@@ -46,6 +46,7 @@
   .route{font-size:.85rem;display:flex;align-items:center;gap:7px;flex-wrap:wrap}
   .route .arrow{color:var(--yellow);font-weight:800}
   .route .to{font-weight:700}
+  .route .renew{font-size:.72rem;font-weight:700;color:#7ee0a0;background:rgba(46,204,113,.12);border:1px solid rgba(46,204,113,.3);border-radius:5px;padding:2px 8px}
   .fee{font-family:'Barlow Condensed';font-weight:800;font-size:1.05rem;color:var(--yellow);text-align:right}
   .date{font-size:.7rem;color:var(--ink-dim);text-align:right}
   .fix{background:none;border:none;color:var(--yellow);cursor:pointer;font-size:.85rem;opacity:.6;transition:.15s;padding:2px 4px}
@@ -164,29 +165,48 @@ function findClubs(title){
   return found.sort((a,b)=>a.idx-b.idx);
 }
 
-/* from/to 추출: "joins B from A", "B sign X from A" 등의 패턴 */
+/* 재계약/잔류 신호 (이적이 아님 → From/To 대신 "재계약" 표시) */
+const RENEW_RE = /\b(new (?:deal|contract)|contract extension|extends? (?:his |their )?(?:deal|contract|stay)|renew|renewal|sign(?:s|ed)? (?:a )?new|fresh terms|stay(?:s)? at|commits? (?:his |their )?future|pens? (?:a )?new)\b/i;
+
+/* from/to 추출 (개선판)
+   - 명시적 방향 단서(from/to/joins/sells to/loan to)를 최우선
+   - 재계약/잔류는 route를 비우고 renewal 플래그
+   - 방향이 불확실하면 억지로 채우지 않고 비움(—) → 관리자 ✎로 보정 */
 function parseRoute(title){
   const clubs = findClubs(title);
-  if(!clubs.length) return {from:null, to:null};
   const t = title.toLowerCase();
+
+  // 재계약/잔류: 클럽이 하나만 등장하거나 renew 신호가 있으면 이적 아님
+  if(RENEW_RE.test(title)){
+    // 재계약은 "머문 클럽"만 의미 있음 → to에 그 클럽(있으면), from은 비움
+    return {from:null, to: clubs[0]?.club || null, renewal:true};
+  }
+
+  if(!clubs.length) return {from:null, to:null};
   let from = null, to = null;
 
-  // "from <club>" → from 확정
-  for(const c of clubs){
-    const before = t.slice(Math.max(0, c.idx-8), c.idx);
-    if(/\bfrom\s+$|\bda\s+$|\bvon\s+$|\bdel?\s+$/.test(before)) from = c.club;
-  }
-  // "joins <club>" / "signs for <club>" → to 확정
-  const joinM = t.match(/\b(?:joins|signs? for|moves? to|arrives? at)\s+/);
-  if(joinM){
-    const after = clubs.find(c => c.idx >= joinM.index + joinM[0].length - 1 && c.idx <= joinM.index + joinM[0].length + 3);
+  // TO 단서: "joins/signs for/moves to/sign X from ... to B" / "sells ... to B" / "loan to B"
+  const toM = t.match(/\b(?:joins|signs? for|move(?:s|d)? to|arrives? at|sold to|sells? .* to|loan(?:ed)? to|transfer(?:red)? to|heads? to|set to join|complete(?:s|d)? .* to)\s+/);
+  if(toM){
+    const after = clubs.find(c => c.idx >= toM.index && c.idx <= toM.index + toM[0].length + 4);
     if(after) to = after.club;
   }
-  // 미확정분: 첫 등장 클럽 = 주어(영입 클럽)로 추정
-  const rest = clubs.map(c=>c.club).filter(c => c!==from && c!==to);
-  if(!to && rest.length) to = rest.shift();
-  if(!from && rest.length) from = rest.shift();
-  if(from === to) from = null;
+  // FROM 단서: "from A" / 스페인어 "del/procedente de" / 독일어 "von" / 프랑스어 "en provenance de"
+  const fromMatches = [...t.matchAll(/\b(?:from|del|de|von|ex-|leaves?)\s+/g)];
+  for(const fm of fromMatches){
+    const after = clubs.find(c => c.idx >= fm.index && c.idx <= fm.index + fm[0].length + 4);
+    if(after && after.club !== to){ from = after.club; break; }
+  }
+
+  // 한쪽만 확정됐고 클럽이 딱 2개면 나머지를 반대편에 배정
+  if(clubs.length === 2){
+    const other = clubs.find(c => c.club !== from && c.club !== to);
+    if(to && !from && other) from = other.club;
+    else if(from && !to && other) to = other.club;
+  }
+
+  // 둘 다 확정 못 했으면 억지 추정하지 않고 비움 (관리자 보정 대상)
+  if(from === to){ from = null; }
   return {from, to};
 }
 
@@ -220,12 +240,13 @@ async function load(){
     const key = it.league + "|" + (it.fee || "") + "|" + (it.player || it.url);
     if(seen.has(key)) continue;
     seen.add(key);
-    const {from, to} = parseRoute(it.title);
+    const parsed = parseRoute(it.title);
     const ov = overrides[it.id] || {};
     if(ov.hide) continue;  // "hide": true 로 특정 건 숨김도 가능
     all.push({...it,
-      club_from: ov.from ?? from,
-      club_to:   ov.to   ?? to,
+      club_from: ov.from ?? parsed.from,
+      club_to:   ov.to   ?? parsed.to,
+      renewal:   ov.renewal ?? parsed.renewal ?? false,
       player:    ov.player ?? it.player ?? extractPlayerLoose(it.title),
       fee:       ov.fee    ?? it.fee});
   }
@@ -246,11 +267,10 @@ function render(){
     <a class="row" href="${it.url}" target="_blank" rel="noopener noreferrer">
       <span class="lg" style="background:${leagueMeta[it.league].color}">${leagueMeta[it.league].name.slice(0,3)}</span>
       <span class="pl">${it.player ? esc(it.player) : "<span style='color:var(--ink-dim)'>미상</span>"}<small>${esc(it.title_ko || it.title)}</small></span>
-      <span class="route">
-        <span>${it.club_from ? esc(it.club_from) : "—"}</span>
-        <span class="arrow">→</span>
-        <span class="to">${it.club_to ? esc(it.club_to) : "—"}</span>
-      </span>
+      <span class="route">${it.renewal
+        ? `<span class="renew">재계약 · 잔류</span>${it.club_to ? ` <span class="to">@ ${esc(it.club_to)}</span>` : ""}`
+        : `<span>${it.club_from ? esc(it.club_from) : "—"}</span><span class="arrow">→</span><span class="to">${it.club_to ? esc(it.club_to) : "—"}</span>`
+      }</span>
       <span class="fee disp">${it.fee ? esc(it.fee) : "비공개"}</span>
       <span class="date">${it.published.slice(5,10).replace("-",".")}
 ${adminOn() ? `<button class="fix" data-id="${it.id}" title="이 건 수정">✎</button>` : ""}</span>
