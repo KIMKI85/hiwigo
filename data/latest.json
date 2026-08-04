@@ -1,5 +1,18 @@
 [
  {
+  "id": "b77cc934c074",
+  "title": "Mercato: \"Le Barça doit prouver qu'il me veut\", le message clair de Ferran Torres qui ne ferme pas la porte à un départ",
+  "player": "Ferran Torres",
+  "title_ko": "메르카토: “바르샤는 그들이 나를 원한다는 것을 증명해야 한다”, 이적의 문을 닫지 않는 페란 토레스의 분명한 메시지",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-doit-prouver-qu-il-me-veut-le-message-clair-de-ferran-torres-qui-ne-ferme-pas-la-porte-a-un-depart_AV-202608040106.html",
+  "fee": null,
+  "published": "2026-08-04T06:00:06+00:00"
+ },
+ {
   "id": "c516eb98e7cc",
   "title": "Arsenal may be using Vinicius Jr transfer talk as smokescreen for another huge deal",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-junior-37503048",
   "fee": null,
   "published": "2026-08-02T03:00:00+00:00"
- },
- {
-  "id": "ec86524ecc92",
-  "title": "Wolves move into fourth with dominant display over Tigers",
-  "player": "Castleford Tigers",
-  "title_ko": "Wolves는 Tigers를 압도하며 4위로 올라섰습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights",
-  "fee": null,
-  "published": "2026-08-02T00:00:00+00:00"
  }
 ]
