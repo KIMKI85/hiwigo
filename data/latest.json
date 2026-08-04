@@ -1,5 +1,18 @@
 [
  {
+  "id": "60b0484f273b",
+  "title": "Nice: Hein en approche, Wahi toujours espéré et Carlos bientôt parti... Le point sur le mercato de l'OGCN",
+  "player": "Messin Gauthier Hein",
+  "title_ko": "Nice: 다가오고 있습니다. Wahi는 여전히 희망을 갖고 있었고 Carlos는 곧 떠났습니다... OGCN 이적 기간 업데이트",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/nice-hein-en-approche-wahi-toujours-espere-et-carlos-bientot-parti-le-point-sur-le-mercato-de-l-ogcn_AV-202608040292.html",
+  "fee": null,
+  "published": "2026-08-04T10:38:48+00:00"
+ },
+ {
   "id": "c3cc107299d1",
   "title": "Football transfer rumours: Chelsea’s Mudryk to reunite with Lampard at Coventry?",
   "player": "Cody Gakpo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-transfer-arteta-37504496",
   "fee": null,
   "published": "2026-08-02T07:58:52+00:00"
- },
- {
-  "id": "3499a604fd0c",
-  "title": "Andoni Iraola’s three new Liverpool starting XIs with blockbuster Bradley Barcola transfer",
-  "player": "Andoni Iraola",
-  "title_ko": "블록버스터 브래들리 바르콜라 이적과 함께 안도니 이라올라의 새로운 리버풀 선발 XI 3명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-barcola-starting-xi-37500303",
-  "fee": null,
-  "published": "2026-08-02T04:45:00+00:00"
  }
 ]
