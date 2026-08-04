@@ -1,5 +1,18 @@
 [
  {
+  "id": "634d943387b4",
+  "title": "Man Utd news: Marcus Rashford given fresh transfer option as club stance on striker emerges",
+  "player": "Marcus Rashford",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37508862",
+  "fee": null,
+  "published": "2026-08-04T03:30:00+00:00"
+ },
+ {
   "id": "25b593723c22",
   "title": "Arsenal news: Next Bruno Guimaraes bid imminent as Mikel Arteta message to target emerges",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-randal-kolo-muani-va-signer-definitivement-a-la-juventus_AP-202608010331.html",
   "fee": null,
   "published": "2026-08-01T21:24:08+00:00"
- },
- {
-  "id": "976123003166",
-  "title": "Amad and Leny Yoro in total agreement after JJ Gabriel makes Man Utd debut",
-  "player": "Leny Yoro",
-  "title_ko": "JJ 가브리엘이 맨유에 데뷔한 후 아마드와 레니 요로가 완전히 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-debut-37504146",
-  "fee": null,
-  "published": "2026-08-01T20:51:08+00:00"
  }
 ]
