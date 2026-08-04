@@ -1,5 +1,18 @@
 [
  {
+  "id": "6584cce781e2",
+  "title": "Report PSG could buy Suzuki and then loan him to Juventus",
+  "player": "Zion Suzuki",
+  "title_ko": "PSG가 스즈키를 사서 유벤투스에 임대할 수도 있다고 보도",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-psg-could-buy-suzuki-and-loan-juventus/",
+  "fee": null,
+  "published": "2026-08-04T12:13:14+00:00"
+ },
+ {
   "id": "936ac8442048",
   "title": "Frosinone set Ghedjemis price at €15-20m, as Rangers and Celtic bids rejected",
   "player": "Fares Ghedjemis",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-02T09:30:00+00:00"
- },
- {
-  "id": "446496c3c4cd",
-  "title": "Mercato: l'OL officialise déjà sa sixième recrue de l'été avec le défenseur Felix Bacher... déguisé en chevalier",
-  "player": "Felix Bacher",
-  "title_ko": "Mercato: OL은 이미 기사로 위장한 수비수 Felix Bacher와 함께 여름의 6번째 영입을 공식화했습니다.",
-  "league": "LIGUE1",
-  "status": "official",
-  "lv": 5,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-officialise-deja-sa-sixieme-recrue-avec-le-defenseur-felix-bacher-deguise-en-chevalier_AV-202608020135.html",
-  "fee": null,
-  "published": "2026-08-02T09:26:08+00:00"
  }
 ]
