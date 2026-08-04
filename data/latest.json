@@ -1,5 +1,18 @@
 [
  {
+  "id": "130761951b48",
+  "title": "Keeper Jorgensen set for loan move to Strasbourg",
+  "player": "Keeper Jorgensen",
+  "title_ko": "골키퍼 요르겐센, 스트라스부르로 임대 이적",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T13:12:11+00:00"
+ },
+ {
   "id": "85bc11bdde58",
   "title": "World Cup star at centre of 'shameful' controversy offered immediate Tottenham transfer",
   "player": "Roberto De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/sassuolo-juventus-discuss-final-adzic-details/",
   "fee": null,
   "published": "2026-08-02T09:58:03+00:00"
- },
- {
-  "id": "e90a7acd215a",
-  "title": "Juventus and Fiorentina closing in on Joao Mario agreement",
-  "player": "Joao Mario",
-  "title_ko": "유벤투스와 피오렌티나, 주앙 마리오 계약 마무리",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-fiorentina-closing-in-joao-mario-deal/",
-  "fee": null,
-  "published": "2026-08-02T09:39:29+00:00"
  }
 ]
