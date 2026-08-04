@@ -1,5 +1,31 @@
 [
  {
+  "id": "b25ff0970379",
+  "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
+  "player": null,
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
+  "fee": null,
+  "published": "2026-08-04T11:25:12+00:00"
+ },
+ {
+  "id": "77bc4e8441e2",
+  "title": "Coventry sign Brighton goalkeeper Rushworth after loan",
+  "player": "Carl Rushworth",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c98v6nz6v2eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T11:20:37+00:00"
+ },
+ {
   "id": "9b87993c22df",
   "title": "Arsenal in talks to sign Newcastle's Guimaraes",
   "player": "Newcastle's Guimaraes",

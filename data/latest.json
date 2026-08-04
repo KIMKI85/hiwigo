@@ -1,5 +1,31 @@
 [
  {
+  "id": "b25ff0970379",
+  "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
+  "player": null,
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
+  "fee": null,
+  "published": "2026-08-04T11:25:12+00:00"
+ },
+ {
+  "id": "77bc4e8441e2",
+  "title": "Coventry sign Brighton goalkeeper Rushworth after loan",
+  "player": "Carl Rushworth",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c98v6nz6v2eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T11:20:37+00:00"
+ },
+ {
   "id": "9b87993c22df",
   "title": "Arsenal in talks to sign Newcastle's Guimaraes",
   "player": "Newcastle's Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-carrick-37504627",
   "fee": "£42M",
   "published": "2026-08-02T09:19:05+00:00"
- },
- {
-  "id": "ad6aad18be10",
-  "title": "Video: Kolo Muani arrives to complete €50m transfer to Juventus from PSG",
-  "player": "Kolo Muani",
-  "title_ko": "비디오: PSG에서 유벤투스로 €50m 이적을 완료하기 위해 콜로 무아니가 도착함",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/kolo-muani-arrives-50m-juventus-transfer/",
-  "fee": "€50M",
-  "published": "2026-08-02T09:17:18+00:00"
- },
- {
-  "id": "277a7cab53c1",
-  "title": "Brandt erklärt Ajax-Wechsel: \"Das hat bei mir einen Funken ausgelöst\"",
-  "player": "Julian Brandt",
-  "title_ko": "Brandt는 Ajax의 변화에 ​​대해 설명합니다: \"그것이 나에게 뭔가를 촉발시켰습니다.\"",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/brandt-erklaert-ajax-wechsel-das-hat-bei-mir-einen-funken-ausgeloest-1240168/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-02T09:01:45+00:00"
  }
 ]
