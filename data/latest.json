@@ -1,5 +1,18 @@
 [
  {
+  "id": "320a9bc140c5",
+  "title": "Como schedule Chalobah and Couto medicals after Chelsea and Dortmund deals",
+  "player": "Trevoh Chalobah",
+  "title_ko": "Como는 Chelsea와 Dortmund 거래 후 Chalobah와 Couto 메디컬 일정을 계획합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/como-schedule-chalobah-couto-medicals-chelsea/",
+  "fee": null,
+  "published": "2026-08-04T13:45:33+00:00"
+ },
+ {
   "id": "510f07aea90d",
   "title": "Man Utd exploit Premier League loophole to announce world-leading £20m deal",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-godts-kolo-muani-sangare-les-5-infos-mercato-du-2-aout-a-la-mi-journee_VN-202608020166.html",
   "fee": null,
   "published": "2026-08-02T11:35:26+00:00"
- },
- {
-  "id": "38c82394bbb5",
-  "title": "Sevilla y Bournemouth acuerdan el fichaje de Juanlu",
-  "player": null,
-  "title_ko": "세비야와 본머스, 후안루 영입에 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/02/sevilla-bournemouth-acuerdan-fichaje-juanlu-1.html",
-  "fee": null,
-  "published": "2026-08-02T11:04:53+00:00"
  }
 ]
