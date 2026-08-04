@@ -1,5 +1,31 @@
 [
  {
+  "id": "d2bab596becc",
+  "title": "‘It’s inevitable’ | All the latest on Arsenal's Guimaraes deal",
+  "player": "Arsenal's Guimaraes",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13569837/all-the-latest-on-bruno-guimaraes-to-arsenal-explained-its-inevitable",
+  "fee": null,
+  "published": "2026-08-04T19:10:00+00:00"
+ },
+ {
+  "id": "47a5b448905c",
+  "title": "Man Utd closing in on transfer deal after Michael Carrick dropped hint",
+  "player": "Michael Carrick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-radek-vitek-middlesbrough-37514033",
+  "fee": null,
+  "published": "2026-08-04T18:37:56+00:00"
+ },
+ {
   "id": "246948fe28a1",
   "title": "Ipswich sign midfielder Florentino from Burnley",
   "player": "Florentino Luis",
