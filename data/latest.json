@@ -1,5 +1,18 @@
 [
  {
+  "id": "b909787075e2",
+  "title": "Friendly: Roma 4-1 victory in Newport with new buys on target",
+  "player": "Santiago Castro",
+  "title_ko": "친선경기: 뉴포트에서 로마가 4-1로 승리, 신규 구매 목표 달성",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/friendly-roma-4-1-victory-newport-new-buys/",
+  "fee": null,
+  "published": "2026-08-04T19:50:58+00:00"
+ },
+ {
   "id": "c2aea2ef8a1b",
   "title": "Report Sow ready for Genoa transfer after 2026 World Cup",
   "player": "Djibril Sow",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "fee": null,
   "published": "2026-08-02T17:14:07+00:00"
- },
- {
-  "id": "3693cc9b8ea8",
-  "title": "Napoli and Schalke reach Lindstrom agreement: the details",
-  "player": "Jesper Lindstrom",
-  "title_ko": "나폴리와 샬케, 린드스트롬과 합의하다: 세부 사항",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-and-schalke-reach-lindstrom-deal/",
-  "fee": null,
-  "published": "2026-08-02T16:55:00+00:00"
  }
 ]
