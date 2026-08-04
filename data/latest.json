@@ -1,5 +1,18 @@
 [
  {
+  "id": "9b87993c22df",
+  "title": "Arsenal in talks to sign Newcastle's Guimaraes",
+  "player": "Newcastle's Guimaraes",
+  "title_ko": "아스날은 뉴캐슬의 기마랑이스 영입을 위해 협상 중이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T11:12:13+00:00"
+ },
+ {
   "id": "60b0484f273b",
   "title": "Nice: Hein en approche, Wahi toujours espéré et Carlos bientôt parti... Le point sur le mercato de l'OGCN",
   "player": "Messin Gauthier Hein",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/brandt-erklaert-ajax-wechsel-das-hat-bei-mir-einen-funken-ausgeloest-1240168/artikel#omrss",
   "fee": null,
   "published": "2026-08-02T09:01:45+00:00"
- },
- {
-  "id": "26126f96261e",
-  "title": "Arsenal put FIVE title-winners up for sale as Man Utd ‘investigate’ transfer deal",
-  "player": null,
-  "title_ko": "아스날은 맨유가 이적 계약을 '조사'하면서 5명의 우승팀을 매물로 내놓았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-utd-transfer-arteta-37504496",
-  "fee": null,
-  "published": "2026-08-02T07:58:52+00:00"
  }
 ]
