@@ -13,6 +13,19 @@
   "published": "2026-08-04T16:36:00+00:00"
  },
  {
+  "id": "d039f0bbb15e",
+  "title": "Chelsea, Jordan Henderson and a transfer pivot for the ages",
+  "player": "Jordan Henderson",
+  "title_ko": "첼시, 조던 헨더슨, 그리고 오랜 이적의 중심",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily",
+  "fee": null,
+  "published": "2026-08-04T15:28:29+00:00"
+ },
+ {
   "id": "13724e01f3fe",
   "title": "Xabi Alonso's task at Chelsea: 46-player squad, baffling transfers and confusing hierarchy",
   "player": "Xabi Alonso's",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-kolo-muani-est-un-joueur-de-la-juve-le-psg-va-accelerer-son-recrutement_AP-202608020193.html",
   "fee": null,
   "published": "2026-08-02T14:43:06+00:00"
- },
- {
-  "id": "8a8580bc29ed",
-  "title": "Mercato: l'étonnante stratégie de Vlahovic, prêt à planter un club dans l'espoir de signer au Barça",
-  "player": "Dusan Vlahovic",
-  "title_ko": "Mercato: 바르사와 계약을 희망하며 클럽을 무너뜨릴 준비가 된 블라호비치의 놀라운 전략",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-etonnante-strategie-de-vlahovic-pret-a-planter-un-club-dans-l-espoir-de-signer-au-barca_AV-202608020187.html",
-  "fee": null,
-  "published": "2026-08-02T13:44:46+00:00"
  }
 ]
