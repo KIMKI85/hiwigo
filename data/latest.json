@@ -1,5 +1,31 @@
 [
  {
+  "id": "6906cb0fca5b",
+  "title": "INFO RMC SPORT. Mercato: Liverpool veut recruter le Parisien Ibrahim Mbaye",
+  "player": "Parisien Ibrahim Mbaye",
+  "title_ko": "RMC 스포츠 정보. 메르카토: 리버풀은 파리지앵 이브라힘 음바예 영입을 원한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-liverpool-veut-recruter-le-parisien-ibrahim-mbaye_AV-202608040553.html",
+  "fee": null,
+  "published": "2026-08-04T21:13:47+00:00"
+ },
+ {
+  "id": "9fb8a32a26f0",
+  "title": "Verhandlungen offiziell bestätigt: Salah unmittelbar vor Wechsel nach Trabzon",
+  "player": "Schwarze Meer",
+  "title_ko": "공식적으로 협상 확정: 살라가 트라브존으로 이적하기 직전",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/verhandlungen-offiziell-bestaetigt-salah-unmittelbar-vor-wechsel-nach-trabzon-1239864/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-04T21:11:32+00:00"
+ },
+ {
   "id": "aca474c87fd3",
   "title": "Jose Mourinho’s three things he wants from Vinicius Jr as Arsenal transfer outcome awaits",
   "player": "Jose Mourinho",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-transfer-newcastle-37505900",
   "fee": null,
   "published": "2026-08-02T19:16:11+00:00"
- },
- {
-  "id": "571908768499",
-  "title": "Chelsea sign Strasbourg midfielder Barco",
-  "player": "Valentin Barco",
-  "title_ko": "첼시가 스트라스부르 미드필더 바르코를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-02T18:38:05+00:00"
- },
- {
-  "id": "11414e59f16b",
-  "title": "Liverpool handed Bradley Barcola transfer boost as PSG strike contingency plan",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG 파업 비상 계획으로 브래들리 바르콜라 이적 추진을 건의했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-update-psg-37505800",
-  "fee": null,
-  "published": "2026-08-02T17:49:57+00:00"
  }
 ]
