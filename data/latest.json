@@ -1,5 +1,18 @@
 [
  {
+  "id": "13724e01f3fe",
+  "title": "Xabi Alonso's task at Chelsea: 46-player squad, baffling transfers and confusing hierarchy",
+  "player": "Xabi Alonso's",
+  "title_ko": "첼시에서 사비 알론소의 임무: 46명의 선수단, 당황스러운 이적, 혼란스러운 계층구조",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfer-chaos-alonso-mudryk-37512760",
+  "fee": null,
+  "published": "2026-08-04T15:00:56+00:00"
+ },
+ {
   "id": "fb350005f2d1",
   "title": "Virgil van Dijk transfer lined up as club chiefs 'gutted' at missed Liverpool opportunity",
   "player": "Virgil van Dijk",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ancien-milieu-marseillais-ounahi-serait-dans-le-viseur-du-barca_AV-202608020176.html",
   "fee": null,
   "published": "2026-08-02T12:40:28+00:00"
- },
- {
-  "id": "13a6dc455294",
-  "title": "Done deal: Napoli and Bayer Leverkusen have €30m Gutierrez agreement in place",
-  "player": null,
-  "title_ko": "거래 완료: 나폴리와 바이엘 레버쿠젠은 구티에레즈와 €30m 계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-bayer-leverkusen-gutierrez-agreement/",
-  "fee": "€30M",
-  "published": "2026-08-02T11:59:39+00:00"
  }
 ]
