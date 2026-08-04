@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a4716f9ddc2",
+  "title": "Barcelona sign Kerolin from Man City in WSL record sale",
+  "player": null,
+  "title_ko": "바르셀로나는 WSL 음반 판매를 통해 맨시티의 케롤린을 영입했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13566091/kerolin-man-city-forward-joins-barcelona-for-1-25m-in-record-womens-super-league-sale",
+  "fee": null,
+  "published": "2026-08-04T16:36:00+00:00"
+ },
+ {
   "id": "13724e01f3fe",
   "title": "Xabi Alonso's task at Chelsea: 46-player squad, baffling transfers and confusing hierarchy",
   "player": "Xabi Alonso's",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-etonnante-strategie-de-vlahovic-pret-a-planter-un-club-dans-l-espoir-de-signer-au-barca_AV-202608020187.html",
   "fee": null,
   "published": "2026-08-02T13:44:46+00:00"
- },
- {
-  "id": "ee0c2ce684ea",
-  "title": "Mercato: l'ancien milieu marseillais Ounahi serait dans le viseur du Barça",
-  "player": "Selon El Chiringuito",
-  "title_ko": "메르카토: 전 마르세유 미드필더 오우나히가 바르사의 관심을 받을 것이다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ancien-milieu-marseillais-ounahi-serait-dans-le-viseur-du-barca_AV-202608020176.html",
-  "fee": null,
-  "published": "2026-08-02T12:40:28+00:00"
  }
 ]
