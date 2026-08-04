@@ -1,5 +1,31 @@
 [
  {
+  "id": "936ac8442048",
+  "title": "Frosinone set Ghedjemis price at €15-20m, as Rangers and Celtic bids rejected",
+  "player": "Fares Ghedjemis",
+  "title_ko": "Frosinone은 Rangers와 Celtic의 입찰이 거부됨에 따라 Ghedjemis의 가격을 €15-20m로 설정했습니다.",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frosinone-ghedjemis-rangers-celtic-rejected/",
+  "fee": null,
+  "published": "2026-08-04T12:00:18+00:00"
+ },
+ {
+  "id": "7706da2d9cbc",
+  "title": "Mastantuono opens door to Fiorentina as Viola close on Real Madrid loan",
+  "player": "Franco Mastantuono",
+  "title_ko": "마스탄투오노는 비올라가 레알 마드리드 임대 계약을 마무리하면서 피오렌티나와 문을 열었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mastantuono-opens-door-to-fiorentina/",
+  "fee": null,
+  "published": "2026-08-04T11:49:58+00:00"
+ },
+ {
   "id": "b25ff0970379",
   "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
   "player": null,
