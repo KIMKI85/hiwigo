@@ -1,5 +1,18 @@
 [
  {
+  "id": "fb350005f2d1",
+  "title": "Virgil van Dijk transfer lined up as club chiefs 'gutted' at missed Liverpool opportunity",
+  "player": "Virgil van Dijk",
+  "title_ko": "버질 반 다이크 이적은 리버풀의 기회를 놓친 것에 '탈진'한 클럽 수장으로 줄을 섰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-virgil-van-dijk-transfer-37513061",
+  "fee": null,
+  "published": "2026-08-04T14:35:48+00:00"
+ },
+ {
   "id": "320a9bc140c5",
   "title": "Como schedule Chalobah and Couto medicals after Chelsea and Dortmund deals",
   "player": "Trevoh Chalobah",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-bayer-leverkusen-gutierrez-agreement/",
   "fee": "€30M",
   "published": "2026-08-02T11:59:39+00:00"
- },
- {
-  "id": "08aebbeb3207",
-  "title": "Juventus hope to copy Rashford deal for Zirkee and eye two Chelsea alternatives",
-  "player": "Joshua Zirkzee",
-  "title_ko": "유벤투스는 래시포드의 지르키 영입을 따라하고 첼시의 두 대안을 노리고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-hope-to-copy-rashford-deal-for-zirkee/",
-  "fee": null,
-  "published": "2026-08-02T11:39:15+00:00"
  }
 ]
