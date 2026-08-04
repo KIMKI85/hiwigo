@@ -1,5 +1,18 @@
 [
  {
+  "id": "85bc11bdde58",
+  "title": "World Cup star at centre of 'shameful' controversy offered immediate Tottenham transfer",
+  "player": "Roberto De Zerbi",
+  "title_ko": "'부끄러운' 논란의 중심에 있는 월드컵 스타, 토트넘 즉시 이적 제안",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/world-cup-transfer-tottenham-news-37511909",
+  "fee": null,
+  "published": "2026-08-04T12:20:38+00:00"
+ },
+ {
   "id": "6584cce781e2",
   "title": "Report PSG could buy Suzuki and then loan him to Juventus",
   "player": "Zion Suzuki",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-fiorentina-closing-in-joao-mario-deal/",
   "fee": null,
   "published": "2026-08-02T09:39:29+00:00"
- },
- {
-  "id": "9e05e3dcb4e4",
-  "title": "Tottenham latest: Juventus eye loan move for Vicario",
-  "player": null,
-  "title_ko": "토트넘 최신: 비카리오를 위한 유벤투스의 안구 대출 움직임",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-02T09:30:00+00:00"
  }
 ]
