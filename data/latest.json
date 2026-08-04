@@ -1,5 +1,18 @@
 [
  {
+  "id": "a2e2c61d0256",
+  "title": "Mercato: Neymar botte en touche sur sa retraite, son père écarte tout arrêt",
+  "player": null,
+  "title_ko": "메르카토: 네이마르가 은퇴를 언급했지만 그의 아버지는 어떤 정지도 거부했다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-neymar-botte-en-touche-sur-sa-retraite-son-pere-ecarte-tout-arret_AV-202608040026.html",
+  "fee": null,
+  "published": "2026-08-04T03:56:34+00:00"
+ },
+ {
   "id": "634d943387b4",
   "title": "Man Utd news: Marcus Rashford given fresh transfer option as club stance on striker emerges",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
   "fee": null,
   "published": "2026-08-01T22:45:00+00:00"
- },
- {
-  "id": "c90c4aad2e5c",
-  "title": "Mercato: Randal Kolo Muani va signer définitivement à la Juventus",
-  "player": "Randal Kolo Muani",
-  "title_ko": "Mercato: Randal Kolo Muani는 유벤투스와 영구적으로 계약할 것입니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-randal-kolo-muani-va-signer-definitivement-a-la-juventus_AP-202608010331.html",
-  "fee": null,
-  "published": "2026-08-01T21:24:08+00:00"
  }
 ]
