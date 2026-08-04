@@ -1,5 +1,18 @@
 [
  {
+  "id": "8f7a63d61053",
+  "title": "Rangers agree fee for Japanese winger Yokota - gossip",
+  "player": "Daisuke Yokota",
+  "title_ko": "레인저스는 일본 윙어 요코타의 이적료에 동의했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx25y0yx4x7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T06:45:16+00:00"
+ },
+ {
   "id": "b77cc934c074",
   "title": "Mercato: \"Le Barça doit prouver qu'il me veut\", le message clair de Ferran Torres qui ne ferme pas la porte à un départ",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approved-70m-37502929",
   "fee": "£70M",
   "published": "2026-08-02T03:30:00+00:00"
- },
- {
-  "id": "91e922b39c2e",
-  "title": "Arsenal news: Vinicius Jr transfer trick set to be repeated as next three signings lined up",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 비니시우스 주니어의 이적 트릭은 다음 세 명의 영입이 준비됨에 따라 반복될 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-junior-37503048",
-  "fee": null,
-  "published": "2026-08-02T03:00:00+00:00"
  }
 ]
