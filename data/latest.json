@@ -1,5 +1,18 @@
 [
  {
+  "id": "25a5b8b79397",
+  "title": "Rangers' £8m bid for Serie A winger rejected as Yokota nears Ibrox move",
+  "player": null,
+  "title_ko": "세리에 A 윙어에 대한 레인저스의 800만 파운드 제안은 요코타가 아이브록스 이적에 가까워지면서 거절당했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+  "fee": "£8M",
+  "published": "2026-08-04T10:00:00+00:00"
+ },
+ {
   "id": "8f7a63d61053",
   "title": "Rangers agree fee for Japanese winger Yokota - gossip",
   "player": "Daisuke Yokota",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-psg-37503125",
   "fee": null,
   "published": "2026-08-02T04:00:00+00:00"
- },
- {
-  "id": "eda45d212b50",
-  "title": "Man Utd news: Transfer 'approved' as £70m target 'open' to Old Trafford switch",
-  "player": "Old Trafford",
-  "title_ko": "맨유 뉴스: £70m 목표로 올드 트래포드로 이적 '승인'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approved-70m-37502929",
-  "fee": "£70M",
-  "published": "2026-08-02T03:30:00+00:00"
  }
 ]
