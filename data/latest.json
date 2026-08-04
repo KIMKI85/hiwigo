@@ -1,5 +1,18 @@
 [
  {
+  "id": "246948fe28a1",
+  "title": "Ipswich sign midfielder Florentino from Burnley",
+  "player": "Florentino Luis",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-04T18:09:27+00:00"
+ },
+ {
   "id": "0dcccb2fbe50",
   "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
   "player": "Vinícius Júnior",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-juventus-sign-alajbegovic-leverkusen/",
   "fee": null,
   "published": "2026-08-02T15:08:21+00:00"
- },
- {
-  "id": "d2f25ab3da1a",
-  "title": "PSG target Indonesia captain Idzes from Sassuolo",
-  "player": "Jay Idzes",
-  "title_ko": "PSG는 사수올로 출신 인도네시아 주장 이즈제스를 타깃으로 삼고 있다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/psg-target-indonesia-captain-idzes-sassuolo/",
-  "fee": null,
-  "published": "2026-08-02T14:53:28+00:00"
  }
 ]
