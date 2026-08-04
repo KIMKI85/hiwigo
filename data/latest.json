@@ -130,6 +130,19 @@
   "published": "2026-08-04T11:12:13+00:00"
  },
  {
+  "id": "9dd6b15f9266",
+  "title": "'Need four or five signings!' | Austin urges Liverpool speed up transfer business",
+  "player": "Charlie Austin",
+  "title_ko": "'4~5명의 영입이 필요해!' | 오스틴은 리버풀이 이적 사업에 속도를 낼 것을 촉구했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
+  "fee": null,
+  "published": "2026-08-04T11:10:00+00:00"
+ },
+ {
   "id": "60b0484f273b",
   "title": "Nice: Hein en approche, Wahi toujours espéré et Carlos bientôt parti... Le point sur le mercato de l'OGCN",
   "player": "Messin Gauthier Hein",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-hope-to-copy-rashford-deal-for-zirkee/",
   "fee": null,
   "published": "2026-08-02T11:39:15+00:00"
- },
- {
-  "id": "a28c06aadc9b",
-  "title": "Godts, Kolo Muani, Sangaré... les 5 infos mercato du 2 août à la mi-journée",
-  "player": "Kolo Muani",
-  "title_ko": "Godts, Kolo Muani, Sangaré...8월 2일 정오부터 5번의 이적 창구 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-godts-kolo-muani-sangare-les-5-infos-mercato-du-2-aout-a-la-mi-journee_VN-202608020166.html",
-  "fee": null,
-  "published": "2026-08-02T11:35:26+00:00"
  }
 ]
