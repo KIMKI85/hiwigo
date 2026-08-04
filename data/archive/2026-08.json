@@ -1,5 +1,18 @@
 [
  {
+  "id": "c2aea2ef8a1b",
+  "title": "Report Sow ready for Genoa transfer after 2026 World Cup",
+  "player": "Djibril Sow",
+  "title_ko": "2026년 월드컵 이후 제노아 이적 준비가 완료된 소우",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-sow-ready-genoa-transfer-2026-world-cup/",
+  "fee": null,
+  "published": "2026-08-04T19:15:02+00:00"
+ },
+ {
   "id": "d2bab596becc",
   "title": "‘It’s inevitable’ | All the latest on Arsenal's Guimaraes deal",
   "player": "Arsenal's Guimaraes",
@@ -11,6 +24,32 @@
   "url": "https://www.skysports.com/watch/video/13569837/all-the-latest-on-bruno-guimaraes-to-arsenal-explained-its-inevitable",
   "fee": null,
   "published": "2026-08-04T19:10:00+00:00"
+ },
+ {
+  "id": "641a37e89f6f",
+  "title": "Mercato: condamné huit ans et demi pour viol, Rafa Mir officiellement prêté en Grèce",
+  "player": "Rafa Mir",
+  "title_ko": "메르카토: 강간 혐의로 8년 6개월 형 선고, 라파 미르 공식 그리스로 임대",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-condamne-huit-ans-et-demi-pour-viol-rafa-mir-officiellement-prete-en-grece_AV-202608040508.html",
+  "fee": null,
+  "published": "2026-08-04T19:02:56+00:00"
+ },
+ {
+  "id": "acc20f3c691f",
+  "title": "Barcelona sign Brazil forward Kerolin from Manchester City for club-record £1.25m",
+  "player": "Olivia Smith",
+  "title_ko": "바르셀로나는 클럽 기록인 £1.25m에 브라질 포워드 케롤린을 맨체스터 시티에서 영입했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/04/barcelona-sign-brazil-forward-kerolin-manchester-city-womens-super-league",
+  "fee": "£1.25M",
+  "published": "2026-08-04T18:57:15+00:00"
  },
  {
   "id": "47a5b448905c",
