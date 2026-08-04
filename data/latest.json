@@ -1,5 +1,18 @@
 [
  {
+  "id": "aca474c87fd3",
+  "title": "Jose Mourinho’s three things he wants from Vinicius Jr as Arsenal transfer outcome awaits",
+  "player": "Jose Mourinho",
+  "title_ko": "조세 무리뉴가 비니시우스 주니어에게 바라는 세 가지 아스날 이적 결과가 기다리고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-mourinho-37514278",
+  "fee": null,
+  "published": "2026-08-04T20:18:09+00:00"
+ },
+ {
   "id": "b909787075e2",
   "title": "Friendly: Roma 4-1 victory in Newport with new buys on target",
   "player": "Santiago Castro",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-update-psg-37505800",
   "fee": null,
   "published": "2026-08-02T17:49:57+00:00"
- },
- {
-  "id": "96e67c93b179",
-  "title": "Schalke vor Lindström-Transfer - PSG-Minus bei Kolo Muani - TSG ohne Asllani ins Trainingslager",
-  "player": "Kolo Muani",
-  "title_ko": "Lindström 이적 전 Schalke - Kolo Muani가 있는 PSG 마이너스 - 훈련 캠프에 Asllani가 없는 TSG",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-02T17:14:07+00:00"
  }
 ]
