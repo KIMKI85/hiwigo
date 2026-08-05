@@ -1,5 +1,18 @@
 [
  {
+  "id": "7316c451cc05",
+  "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+  "player": "Folarin Balogun",
+  "title_ko": "축구 이적 루머: Folarin Balogun에서 토트넘으로? 페드로 네토가 맨체스터 시티로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city",
+  "fee": null,
+  "published": "2026-08-05T07:31:34+00:00"
+ },
+ {
   "id": "aabddf64638c",
   "title": "Chelsea nearing deal for Rayo defender Chavarria",
   "player": "Pep Chavarria",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-3-aout-2026-sur-le-marche-des-transferts_LN-202608030157.html",
   "fee": null,
   "published": "2026-08-03T06:43:59+00:00"
- },
- {
-  "id": "dbd746d7c337",
-  "title": "Mercato: Arteta prend en charge personnellement l'opération Vinicius à Arsenal",
-  "player": "Vinicius Junior",
-  "title_ko": "메르카토: 아르테타가 아스날에서 비니시우스 운영을 개인적으로 맡는다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mikel-arteta-prend-en-charge-personnellement-l-operation-vinicius-a-arsenal_AV-202608030142.html",
-  "fee": null,
-  "published": "2026-08-03T06:32:38+00:00"
  }
 ]
