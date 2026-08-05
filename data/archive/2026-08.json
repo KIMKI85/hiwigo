@@ -1,5 +1,18 @@
 [
  {
+  "id": "ea5d2ae41788",
+  "title": "Liverpool explore deal for PSG winger Mbaye",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "리버풀은 PSG 윙어 음바예에 대한 계약을 모색하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger",
+  "fee": null,
+  "published": "2026-08-05T10:42:00+00:00"
+ },
+ {
   "id": "f71fe0b94ef7",
   "title": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
   "player": "Pep Chavarria",
@@ -13,6 +26,32 @@
   "published": "2026-08-05T10:30:00+00:00"
  },
  {
+  "id": "a55740b366b2",
+  "title": "Mercato: pourquoi l’OL peut se frotter les mains avec le transfert de Bruno Guimaraes à Arsenal",
+  "player": "Bruno Guimaraes",
+  "title_ko": "Mercato: OL이 Bruno Guimaraes를 Arsenal로 이적하면서 손을 문지르는 이유",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-l-ol-peut-se-frotter-les-mains-avec-le-transfert-de-bruno-guimaraes-a-arsenal_AV-202608050284.html",
+  "fee": null,
+  "published": "2026-08-05T10:09:36+00:00"
+ },
+ {
+  "id": "8dcd7b8beddf",
+  "title": "\"Lens est un tremplin parfait pour Yacine Titraoui\": Mehdi Tahrat, qui l'a côtoyé en sélection algérienne, confiant pour la nouvelle recrue lensoise",
+  "player": "Yacine Titraoui",
+  "title_ko": "\"Lens는 Yacine Titraoui에게 완벽한 발판입니다.\": 알제리 대표팀에서 그와 함께 일한 Mehdi Tahrat, 새로운 Lens 영입에 자신감",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/lens-est-un-tremplin-parfait-pour-yacine-titraoui-mehdi-tahrat-qui-l-a-cotoye-en-selection-algerienne-confiant-pour-la-nouvelle-recrue-lensoise_AV-202608050280.html",
+  "fee": null,
+  "published": "2026-08-05T10:02:49+00:00"
+ },
+ {
   "id": "270c6654d4ed",
   "title": "Yokota targets 'special memories' as he seals Rangers move",
   "player": "Daisuke Yokota",
@@ -24,6 +63,19 @@
   "url": "https://www.skysports.com/football/news/12040/13569962/rangers-transfer-news-daisuke-yokota-joins-from-hannover-96-to-become-derek-mcinnes-ninth-summer-signing",
   "fee": null,
   "published": "2026-08-05T10:00:00+00:00"
+ },
+ {
+  "id": "c9a9a2058a1c",
+  "title": "Report: Manchester United prepared to loan Zirkzee to Juventus",
+  "player": null,
+  "title_ko": "보고서: 맨체스터 유나이티드는 지르크지를 유벤투스에 임대할 준비를 했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/man-united-prepared-loan-zirkzee-to-juventus/",
+  "fee": null,
+  "published": "2026-08-05T09:56:00+00:00"
  },
  {
   "id": "05a5f2f357e0",
