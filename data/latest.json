@@ -1,5 +1,18 @@
 [
  {
+  "id": "c336d6ac14e9",
+  "title": "Real Madrid change Vinicius Jr stance as Arsenal transfer hopes suffer blow",
+  "player": "Vinicius Jr",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-real-madrid-37518426",
+  "fee": null,
+  "published": "2026-08-05T18:10:59+00:00"
+ },
+ {
   "id": "5ff4b82d9cfb",
   "title": "Real Madrid make Vinicius Jr improved contract offer",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-collyer-37509695",
   "fee": null,
   "published": "2026-08-03T18:17:03+00:00"
- },
- {
-  "id": "9f71fa341887",
-  "title": "Gimenez targeted by Lazio and FC Porto, Milan uncertain on loan idea",
-  "player": "Santiago Gimenez",
-  "title_ko": "라치오와 FC 포르투의 타겟이 된 히메네스, 밀란의 임대 계획은 불확실함",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gimenez-targeted-lazio-porto-milan-uncertain/",
-  "fee": null,
-  "published": "2026-08-03T18:14:42+00:00"
  }
 ]
