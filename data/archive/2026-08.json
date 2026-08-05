@@ -1,5 +1,18 @@
 [
  {
+  "id": "aabddf64638c",
+  "title": "Chelsea nearing deal for Rayo defender Chavarria",
+  "player": "Pep Chavarria",
+  "title_ko": "첼시, 라요 수비수 차바리아 영입에 임박",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gygn47rpmo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-05T07:28:14+00:00"
+ },
+ {
   "id": "987d6e9af8a8",
   "title": "Arsenal set to agree blockbuster Bruno Guimaraes transfer as Newcastle demands finally met",
   "player": "Bruno Guimaraes",
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-newcastle-latest-37514839",
   "fee": null,
   "published": "2026-08-05T06:52:49+00:00"
+ },
+ {
+  "id": "a1817fd5322d",
+  "title": "Celtic push for Ghedjemis deal as Rangers face Yokota race - gossip",
+  "player": "Houston Dynamo",
+  "title_ko": "레인저스가 요코타 경주에 직면함에 따라 게제미스 계약을 추진하는 셀틱 - 가십",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg3l1jennro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-05T06:40:41+00:00"
  },
  {
   "id": "03cff443fe21",
