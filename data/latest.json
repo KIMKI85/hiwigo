@@ -1,5 +1,18 @@
 [
  {
+  "id": "98508ca37146",
+  "title": "Vinicius Jr takes extreme measures amid Arsenal transfer interest and Real Madrid meeting",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어, 아스날 이적 관심과 레알 마드리드 회의 속에서 극단적인 조치",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-transfer-arsenal-instagram-37519024",
+  "fee": null,
+  "published": "2026-08-05T21:30:13+00:00"
+ },
+ {
   "id": "eb93014fa8cd",
   "title": "Everton sign midfielder Norgaard from Arsenal",
   "player": "Christian Norgaard",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-neymar-botte-en-touche-sur-sa-retraite-son-pere-ecarte-tout-arret_AV-202608040026.html",
   "fee": null,
   "published": "2026-08-04T03:56:34+00:00"
- },
- {
-  "id": "634d943387b4",
-  "title": "Man Utd news: Marcus Rashford given fresh transfer option as club stance on striker emerges",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유 뉴스: 공격수에 대한 클럽의 입장이 드러나면서 마커스 래시포드에게 새로운 이적 옵션이 주어졌다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37508862",
-  "fee": null,
-  "published": "2026-08-04T03:30:00+00:00"
  }
 ]
