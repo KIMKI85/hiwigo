@@ -1,5 +1,18 @@
 [
  {
+  "id": "f71fe0b94ef7",
+  "title": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
+  "player": "Pep Chavarria",
+  "title_ko": "첼시는 라요 바예카노의 레프트백 차바리아와 계약을 성사시킬 예정이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569945/pep-chavarria-chelsea-set-to-clinch-deal-to-sign-rayo-vallecano-left-back-for-initial-16-3m-fee-as-blues-seek-to-replace-marc-cucurella",
+  "fee": null,
+  "published": "2026-08-05T10:30:00+00:00"
+ },
+ {
   "id": "270c6654d4ed",
   "title": "Yokota targets 'special memories' as he seals Rangers move",
   "player": "Daisuke Yokota",
@@ -13,6 +26,32 @@
   "published": "2026-08-05T10:00:00+00:00"
  },
  {
+  "id": "05a5f2f357e0",
+  "title": "Nicht im BVB-Training: Yan Couto vor Leihe nach Como",
+  "player": "Yan Couto",
+  "title_ko": "BVB 훈련 중이 아님: 코모로 임대되기 전의 얀 쿠토",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/nicht-im-bvb-training-yan-couto-vor-leihe-nach-como-1240877/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T09:52:20+00:00"
+ },
+ {
+  "id": "d3a79228747e",
+  "title": "Arsenal 'already plotting' next signing after Bruno Guimaraes swoop and Vinicius Jr plan",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 브루노 기마라스와 비니시우스 주니어 계획 이후 '이미 다음 영입을 계획 중'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-guimaraes-vinicius-junior-37515481",
+  "fee": null,
+  "published": "2026-08-05T09:44:04+00:00"
+ },
+ {
   "id": "3dfff692757d",
   "title": "Schroers' Zweitliga-Wechsel wackelt - Azzouzi zeigt \"Grenzen\" auf",
   "player": "Schroers' Zweitliga-",
@@ -24,6 +63,32 @@
   "url": "https://www.kicker.de/schroers-zweitliga-wechsel-wackelt-azzouzi-zeigt-grenzen-auf-1240859/artikel#omrss",
   "fee": null,
   "published": "2026-08-05T09:40:46+00:00"
+ },
+ {
+  "id": "1f32c8a85956",
+  "title": "Official: Napoli sell Gutierrez to Bayer Leverkusen in €30m deal",
+  "player": "Miguel Gutierrez",
+  "title_ko": "공식: 나폴리는 구티에레즈를 바이엘 레버쿠젠에 3천만 유로에 매각합니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-napoli-sell-gutierrez-to-leverkusen/",
+  "fee": "€30M",
+  "published": "2026-08-05T09:39:14+00:00"
+ },
+ {
+  "id": "483343609adf",
+  "title": "Diomande-Bilder aus dem Trainingslager: \"Transfer nicht gefährdet\"",
+  "player": "Yan Diomande",
+  "title_ko": "훈련 캠프의 디오망드 사진: “위험에 처하지 않은 이적”",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/diomande-bilder-aus-dem-trainingslager-transfer-nicht-gefaehrdet-1240890/video#omrss",
+  "fee": null,
+  "published": "2026-08-05T09:38:41+00:00"
  },
  {
   "id": "b1a0bbedfd0d",
@@ -1233,70 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-fenerbahce-37507336",
   "fee": null,
   "published": "2026-08-03T11:17:27+00:00"
- },
- {
-  "id": "27bdd76d851d",
-  "title": "Joao Mario arrives to complete potential €10m transfer from Juventus to Fiorentina",
-  "player": "Joao Mario",
-  "title_ko": "주앙 마리오는 유벤투스에서 피오렌티나로의 잠재적인 €10m 이적을 완료하기 위해 도착했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/joao-mario-juventus-fiorentina-medical/",
-  "fee": "€10M",
-  "published": "2026-08-03T10:47:29+00:00"
- },
- {
-  "id": "cc281e92a312",
-  "title": "Guimaraes arrives in Spain to join Newcastle training camp",
-  "player": "Bruno Guimaraes",
-  "title_ko": "기마랑이스, 뉴캐슬 훈련캠프 합류 위해 스페인 도착",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13565570/bruno-guimaraes-arsenal-transfer-target-yet-to-arrive-at-newcastles-pre-season-training-camp-in-la-manga",
-  "fee": null,
-  "published": "2026-08-03T10:40:00+00:00"
- },
- {
-  "id": "7f1126d72875",
-  "title": "Wechsel perfekt: BVB zahlt für Top-Talent Karetsas 30 Millionen Euro",
-  "player": "Talent Karetsas",
-  "title_ko": "완벽한 변화: BVB는 최고의 인재 Karetsas에게 3천만 유로를 지불했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/wechsel-perfekt-bvb-zahlt-fuer-top-talent-karetsas-30-millionen-euro-1240344/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-03T10:37:43+00:00"
- },
- {
-  "id": "13ac9a4e5c35",
-  "title": "La verdadera y enrevesada situación con los agentes de Diomande que puede retrasar el fichaje",
-  "player": "Maxidel Management",
-  "title_ko": "계약을 지연시킬 수 있는 디오망드 에이전트의 실제적이고 복잡한 상황",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-madrid/2026/08/03/verdadera-enrevesada-situacion-agentes-diomande-retrasar-fichaje.html",
-  "fee": null,
-  "published": "2026-08-03T10:26:13+00:00"
- },
- {
-  "id": "9b46ecee227a",
-  "title": "Arsenal target Bruno Guimaraes complies with Newcastle requests as midfielder boards flight",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스날의 타겟 브루노 기마라스는 뉴캐슬의 미드필더 보드 요청에 응했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-guimaraes-update-newcastle-37507322",
-  "fee": null,
-  "published": "2026-08-03T10:11:06+00:00"
  }
 ]
