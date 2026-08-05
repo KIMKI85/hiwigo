@@ -1,5 +1,18 @@
 [
  {
+  "id": "b227251dd1bb",
+  "title": "Done Deal: Molina ready for Roma, total package €18m from Atletico Madrid",
+  "player": null,
+  "title_ko": "거래 완료: 몰리나가 로마를 위해 준비됨, 아틀레티코 마드리드로부터 총 패키지 €18m",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-molina-ready-roma-atletico-madrid/",
+  "fee": "€18M",
+  "published": "2026-08-05T16:20:32+00:00"
+ },
+ {
   "id": "ec8c5c917707",
   "title": "Aston Villa latest: Deal close for Atletico left-back",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-threaten-schalke-04-failure-lindstrom/",
   "fee": null,
   "published": "2026-08-03T16:40:10+00:00"
- },
- {
-  "id": "bcb87412036c",
-  "title": "Napoli outcast Lang first choice for Ajax if Godts joins PSG",
-  "player": "Mika Godts",
-  "title_ko": "Godts가 PSG에 합류하면 Napoli는 Lang을 Ajax의 첫 번째 선택으로 삼습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-outcast-lang-ajax-if-godts-joins-psg/",
-  "fee": null,
-  "published": "2026-08-03T16:18:37+00:00"
  }
 ]
