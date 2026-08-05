@@ -26,6 +26,19 @@
   "published": "2026-08-05T10:30:00+00:00"
  },
  {
+  "id": "97bc8333d441",
+  "title": "Vinicius Jr is a game-changing transfer that even non-Arsenal fans should want done",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어는 아스날 팬이 아닌 사람들도 꼭 하고 싶어하는 획기적인 이적입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-transfer-guimaraes-37515581",
+  "fee": null,
+  "published": "2026-08-05T10:25:00+00:00"
+ },
+ {
   "id": "a55740b366b2",
   "title": "Mercato: pourquoi l’OL peut se frotter les mains avec le transfert de Bruno Guimaraes à Arsenal",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-arsenal-real-madrid-transfer-37508494",
   "fee": null,
   "published": "2026-08-03T12:50:32+00:00"
- },
- {
-  "id": "c7774026cc76",
-  "title": "Jack Grealish 'offered incredible transfer' after making spiky Man City statement",
-  "player": "Jack Grealish",
-  "title_ko": "잭 그릴리쉬는 맨시티 성명을 발표한 후 '놀라운 이적 제안'을 했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jack-grealish-man-city-transfer-37507970",
-  "fee": null,
-  "published": "2026-08-03T12:45:36+00:00"
  }
 ]
