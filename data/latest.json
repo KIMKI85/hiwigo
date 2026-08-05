@@ -1,5 +1,18 @@
 [
  {
+  "id": "5ff4b82d9cfb",
+  "title": "Real Madrid make Vinicius Jr improved contract offer",
+  "player": "Vinicius Jr",
+  "title_ko": "레알 마드리드, 비니시우스 주니어에게 개선된 계약 제안 제안",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-05T17:59:01+00:00"
+ },
+ {
   "id": "42d3ec3857c1",
   "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
   "player": "Teenager Monga",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/gimenez-targeted-lazio-porto-milan-uncertain/",
   "fee": null,
   "published": "2026-08-03T18:14:42+00:00"
- },
- {
-  "id": "ced791d60f29",
-  "title": "Real to resume talks with Arsenal target Vinicius Jr",
-  "player": "Vinicius Jr",
-  "title_ko": "레알, 아스날 타겟 비니시우스 주니어와 대화 재개",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-03T17:30:32+00:00"
  }
 ]
