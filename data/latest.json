@@ -1,5 +1,18 @@
 [
  {
+  "id": "392dac5c8b5f",
+  "title": "Real Madrid agree club-record £115m deal for Yan Diomandé and want to keep Vinícius",
+  "player": "Yan Diomandé",
+  "title_ko": "레알 마드리드는 클럽 기록인 얀 디오만데의 £115m 계약에 동의했으며 비니시우스를 유지하고 싶어합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
+  "fee": "£115M",
+  "published": "2026-08-05T19:12:01+00:00"
+ },
+ {
   "id": "b4f002c3c568",
   "title": "Official: Roma loan Angelino to Deportivo La Coruna with purchase option",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/stockport-county-meulensteen-manutd-ferguson-37510113",
   "fee": null,
   "published": "2026-08-03T21:34:53+00:00"
- },
- {
-  "id": "6f8f547c0fbe",
-  "title": "Fulham sign Garcia and Palacios from Real Madrid",
-  "player": "Gonzalo Garcia",
-  "title_ko": "풀럼은 레알 마드리드의 가르시아와 팔라시오스를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-03T21:18:39+00:00"
  }
 ]
