@@ -1,5 +1,18 @@
 [
  {
+  "id": "c38b0355d682",
+  "title": "Real Madrid agree £120m Diomande deal - Thursday gossip",
+  "player": "Yan Diomande",
+  "title_ko": "레알 마드리드는 £120m의 디오망드 계약에 동의했습니다 - 목요일 가십",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr59z307my1o?at_medium=RSS&at_campaign=rss",
+  "fee": "£120M",
+  "published": "2026-08-05T20:17:47+00:00"
+ },
+ {
   "id": "392dac5c8b5f",
   "title": "Real Madrid agree club-record £115m deal for Yan Diomandé and want to keep Vinícius",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-bruno-guimaraes-vinicius-37508666",
   "fee": null,
   "published": "2026-08-04T03:00:00+00:00"
- },
- {
-  "id": "3eb0cd0efde0",
-  "title": "Sir Alex Ferguson's ex-assistant at Man Utd joins his son in new League One role",
-  "player": "Sir Alex Ferguson's",
-  "title_ko": "알렉스 퍼거슨 경의 전 맨체스터 유나이티드 어시스턴트가 그의 아들과 함께 새로운 리그 1 역할에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/stockport-county-meulensteen-manutd-ferguson-37510113",
-  "fee": null,
-  "published": "2026-08-03T21:34:53+00:00"
  }
 ]
