@@ -1,5 +1,18 @@
 [
  {
+  "id": "270c6654d4ed",
+  "title": "Yokota targets 'special memories' as he seals Rangers move",
+  "player": "Daisuke Yokota",
+  "title_ko": "요코타는 레인저스의 이적을 봉인하면서 '특별한 추억'을 목표로 합니다.",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569962/rangers-transfer-news-daisuke-yokota-joins-from-hannover-96-to-become-derek-mcinnes-ninth-summer-signing",
+  "fee": null,
+  "published": "2026-08-05T10:00:00+00:00"
+ },
+ {
   "id": "4a411047db5a",
   "title": "Arsenal agree £75m Guimaraes fee",
   "player": "Bruno Guimaraes",
@@ -13,6 +26,45 @@
   "published": "2026-08-05T09:13:00+00:00"
  },
  {
+  "id": "10f64f114790",
+  "title": "Millionengewinn für 96: Yokota wechselt zu den Rangers",
+  "player": "Daisuke Yokota",
+  "title_ko": "96년에 수백만 달러 이익: 요코타가 레인저스로 이적",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/millionengewinn-fuer-96-yokota-wechselt-zu-den-rangers-1240581/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T09:12:10+00:00"
+ },
+ {
+  "id": "e06f7feb694e",
+  "title": "Japanese winger Yokota joins Rangers from Hannover",
+  "player": "Daisuke Yokota",
+  "title_ko": "일본 윙어 요코타가 하노버에서 레인저스로 합류했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cddjryv4e52o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-05T09:01:35+00:00"
+ },
+ {
+  "id": "6ec210c0f275",
+  "title": "Arsenal agree £75m fee with Newcastle for Bruno Guimarães as clubs reach compromise",
+  "player": "Bruno Guimarães",
+  "title_ko": "아스날은 클럽들이 타협에 도달함에 따라 브루노 기마랑이스의 뉴캐슬과 £75m의 이적료에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/05/arsenal-agree-75m-fee-with-newcastle-for-bruno-guimaraes-as-clubs-reach-compromise",
+  "fee": "£75M",
+  "published": "2026-08-05T09:00:50+00:00"
+ },
+ {
   "id": "3b676141cefa",
   "title": "Abschied von St. Pauli: Irvine wechselt zu Cerezo Osaka",
   "player": "Abschied von",
@@ -22,6 +74,19 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/abschied-von-st-pauli-irvine-wechselt-zu-cerezo-osaka-1240851/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T08:51:50+00:00"
+ },
+ {
+  "id": "bc46e20789ab",
+  "title": "Roma strike agreement with Atletico Madrid for World Cup finalist Molina",
+  "player": null,
+  "title_ko": "월드컵 결승 진출팀인 몰리나를 위해 아틀레티코 마드리드와 로마의 파업 계약을 맺었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-strike-molina-agreement-with-atletico/",
   "fee": null,
   "published": "2026-08-05T08:51:50+00:00"
  },
