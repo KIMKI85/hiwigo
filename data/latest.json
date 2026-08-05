@@ -1,5 +1,18 @@
 [
  {
+  "id": "9e0fa0685fae",
+  "title": "Romero worry for Inter as Atletico Madrid can match €40m Tottenham deal",
+  "player": "Cristian Romero",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/romero-inter-atletico-madrid-tottenham-deal/",
+  "fee": "€40M",
+  "published": "2026-08-05T12:12:23+00:00"
+ },
+ {
   "id": "258409672e85",
   "title": "Mercato: Monaco verrouille son joyau, Cabral prolonge jusqu’en 2031",
   "player": "Pape Cabral",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-complete-jordan-henderson-transfer-37492255",
   "fee": null,
   "published": "2026-08-03T15:01:15+00:00"
- },
- {
-  "id": "2af8fc0b5bbf",
-  "title": "Done Deal: Chalobah agreement with Como, Chelsea get €30m plus €6m bonus",
-  "player": "Trevoh Chalobah",
-  "title_ko": "완료된 거래: Como와 Chalobah 계약, Chelsea는 €30m + €6m 보너스를 받습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-chalobah-agreement-with-como-chelsea/",
-  "fee": "€30M",
-  "published": "2026-08-03T14:16:03+00:00"
  }
 ]
