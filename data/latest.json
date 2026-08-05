@@ -13,6 +13,19 @@
   "published": "2026-08-05T10:42:00+00:00"
  },
  {
+  "id": "2b407676603e",
+  "title": "Yan Diomandé de retour à l'entraînement avec Leipzig (avant son transfert au Real Madrid?)",
+  "player": "Yan Diomandé",
+  "title_ko": "얀 디오만데가 라이프치히에서 훈련에 복귀했습니다(레알 마드리드로 이적하기 전?)",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/bundesliga/yan-diomande-de-retour-a-l-entrainement-avec-leipzig-avant-son-transfert-au-real-madrid_AV-202608050298.html",
+  "fee": null,
+  "published": "2026-08-05T10:32:21+00:00"
+ },
+ {
   "id": "f71fe0b94ef7",
   "title": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
   "player": "Pep Chavarria",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-crystal-palace-veut-recruter-axel-disasi_AV-202608030343.html",
   "fee": null,
   "published": "2026-08-03T13:07:33+00:00"
- },
- {
-  "id": "d62cde4a5417",
-  "title": "Vinicius Jr to Arsenal transfer hint as key figure flies into London",
-  "player": "Vinicius Jr",
-  "title_ko": "핵심 인물이 런던으로 날아가자 비니시우스 주니어가 아스날로 이적할 것이라는 힌트를 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-arsenal-real-madrid-transfer-37508494",
-  "fee": null,
-  "published": "2026-08-03T12:50:32+00:00"
  }
 ]
