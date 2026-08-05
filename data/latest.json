@@ -1,5 +1,18 @@
 [
  {
+  "id": "13f4ead95c83",
+  "title": "Switzerland international Sow arrives for Genoa medical after €4m agreement",
+  "player": "Djibril Sow",
+  "title_ko": "스위스 국가대표 소우, 400만 유로 계약 후 제노아 메디컬로 도착",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/switzerland-international-sow-arrives-genoa/",
+  "fee": "€4M",
+  "published": "2026-08-05T19:00:33+00:00"
+ },
+ {
   "id": "f3e65ccbcb16",
   "title": "El Celta ultima la cesión de Unai Núñez al Espanyol",
   "player": "Unai Núñez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/newcastle-bruno-guimaraes-future-summer-37510026",
   "fee": null,
   "published": "2026-08-03T20:29:00+00:00"
- },
- {
-  "id": "6f97dd118f8a",
-  "title": "Nico Gonzalez can attract Inter and Roma interest, Juventus open to loan",
-  "player": "Nico Gonzalez",
-  "title_ko": "니코 곤잘레스는 인테르와 로마의 관심을 끌 수 있고, 유벤투스는 임대 가능",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/nico-gonzalez-inter-roma-interest-juventus/",
-  "fee": null,
-  "published": "2026-08-03T19:56:01+00:00"
  }
 ]
