@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a411047db5a",
+  "title": "Arsenal agree £75m Guimaraes fee",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스날은 기마랑스의 이적료 £75m에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder",
+  "fee": "£75M",
+  "published": "2026-08-05T09:13:00+00:00"
+ },
+ {
   "id": "7316c451cc05",
   "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
   "player": "Folarin Balogun",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo",
   "fee": null,
   "published": "2026-08-03T06:49:27+00:00"
- },
- {
-  "id": "cdb31814c9f6",
-  "title": "DIRECT. Mercato: toutes les infos et rumeurs du 3 août 2026 sur le marché des transferts",
-  "player": null,
-  "title_ko": "직접. Mercato: 2026년 8월 3일 이적시장에 관한 모든 정보와 루머",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-3-aout-2026-sur-le-marche-des-transferts_LN-202608030157.html",
-  "fee": null,
-  "published": "2026-08-03T06:43:59+00:00"
  }
 ]
