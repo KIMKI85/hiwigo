@@ -1,5 +1,18 @@
 [
  {
+  "id": "03cff443fe21",
+  "title": "Arsenal set to sign Newcastle captain Guimaraes",
+  "player": "Bruno Guimaraes",
+  "title_ko": "아스널, 뉴캐슬 주장 기마랑이스 영입 확정",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-05T06:29:40+00:00"
+ },
+ {
   "id": "316b47f8e485",
   "title": "Mohamed Salah agrees two-year deal with new club after emotional Liverpool exit",
   "player": "Mohamed Salah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-skelly-arsenal-37505305",
   "fee": null,
   "published": "2026-08-03T03:30:00+00:00"
- },
- {
-  "id": "55a7f78a9474",
-  "title": "Arsenal news: Real Madrid issue Vinicius Jr update as Mikel Arteta drops transfer hint",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 레알 마드리드는 미켈 아르테타가 이적 힌트를 떨어뜨림에 따라 비니시우스 주니어 업데이트를 발행했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-transfer-update-37505166",
-  "fee": null,
-  "published": "2026-08-03T03:00:00+00:00"
  }
 ]
