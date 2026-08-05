@@ -13,6 +13,19 @@
   "published": "2026-08-05T09:13:00+00:00"
  },
  {
+  "id": "3b676141cefa",
+  "title": "Abschied von St. Pauli: Irvine wechselt zu Cerezo Osaka",
+  "player": "Abschied von",
+  "title_ko": "세인트 파울리와의 작별: 어바인이 세레소 오사카로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/abschied-von-st-pauli-irvine-wechselt-zu-cerezo-osaka-1240851/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T08:51:50+00:00"
+ },
+ {
   "id": "7316c451cc05",
   "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
   "player": "Folarin Balogun",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-andoni-iraola-leeds-37506423",
   "fee": null,
   "published": "2026-08-03T06:51:41+00:00"
- },
- {
-  "id": "aa833e2f2941",
-  "title": "Football transfer rumours: Atlético to offer Grealish escape route? Spurs target Osimhen and Gakpo?",
-  "player": "Jack Grealish",
-  "title_ko": "축구 이적 루머: 아틀레티코가 그릴리쉬의 탈출 경로를 제공할 것인가? 토트넘이 오시멘과 각포를 노린다?",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo",
-  "fee": null,
-  "published": "2026-08-03T06:49:27+00:00"
  }
 ]
