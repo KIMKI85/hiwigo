@@ -1,5 +1,18 @@
 [
  {
+  "id": "5395292d51f1",
+  "title": "Mercato: un contrat XXL pour Mohamed Salah, proche d'un accord avec Trabzonspor",
+  "player": "Mohamed Salah",
+  "title_ko": "Mercato: Trabzonspor과의 계약에 가까운 Mohamed Salah의 XXL 계약",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-contrat-xxl-pour-mohamed-salah-proche-d-un-accord-avec-trabzonspor_AV-202608050108.html",
+  "fee": null,
+  "published": "2026-08-05T06:00:59+00:00"
+ },
+ {
   "id": "5b8b1a72d984",
   "title": "Michael Carrick's dream Marcus Rashford replacement as Man Utd sign £60million star",
   "player": "Michael Carrick's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/02/chelsea-sign-argentina-international-valentin-barco-from-strasbourg",
   "fee": null,
   "published": "2026-08-02T21:28:32+00:00"
- },
- {
-  "id": "e81f4f2fc365",
-  "title": "Liverpool transfer 'cancelled' as Andoni Iraola proven right with frustrations after U-turn",
-  "player": "Andoni Iraola",
-  "title_ko": "유턴 후 좌절감에 안도니 이라올라가 옳았음을 입증하면서 리버풀 이적은 '취소'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-iraola-chiesa-37506145",
-  "fee": null,
-  "published": "2026-08-02T20:57:28+00:00"
  }
 ]
