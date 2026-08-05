@@ -13,6 +13,45 @@
   "published": "2026-08-05T10:00:00+00:00"
  },
  {
+  "id": "3dfff692757d",
+  "title": "Schroers' Zweitliga-Wechsel wackelt - Azzouzi zeigt \"Grenzen\" auf",
+  "player": "Schroers' Zweitliga-",
+  "title_ko": "Schroers의 2부 리그 움직임은 불안정합니다 - Azzouzi는 \"한계\"를 보여줍니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/schroers-zweitliga-wechsel-wackelt-azzouzi-zeigt-grenzen-auf-1240859/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T09:40:46+00:00"
+ },
+ {
+  "id": "b1a0bbedfd0d",
+  "title": "Leihe statt Verkauf: Münster gibt bisherigen Stammkeeper Schenk ab",
+  "player": "Stammkeeper Schenk",
+  "title_ko": "판매 대신 임대: 뮌스터는 이전 주전 골키퍼 솅크를 포기합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-statt-verkauf-muenster-gibt-bisherigen-stammkeeper-schenk-ab-1240739/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T09:37:34+00:00"
+ },
+ {
+  "id": "9049a3cc0baa",
+  "title": "Guimarães, Vinicius, Salah... Les 5 infos mercato du 5 août à la mi-journée",
+  "player": "Bruno Guimarães",
+  "title_ko": "기마랑이스, 비니시우스, 살라... 8월 5일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-guimaraes-vinicius-salah-les-5-infos-mercato-du-5-aout-a-la-mi-journee_VN-202608050268.html",
+  "fee": null,
+  "published": "2026-08-05T09:34:33+00:00"
+ },
+ {
   "id": "d834c621d619",
   "title": "Bruno Guimaraes, Arsenal, Newcastle and secret transfer battle both clubs are desperate to win",
   "player": "Bruno Guimaraes",
@@ -24,6 +63,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-guimaraes-arsenal-newcastle-secret-37515402",
   "fee": null,
   "published": "2026-08-05T09:19:45+00:00"
+ },
+ {
+  "id": "429e1df67b24",
+  "title": "Mastantuono all set for Fiorentina after Real Madrid salary agreement",
+  "player": "Franco Mastantuono",
+  "title_ko": "마스탄투오노, 레알 마드리드 연봉협상 후 피오렌티나 이적 준비 완료",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-mastantuono-all-set-for-fiorentina/",
+  "fee": null,
+  "published": "2026-08-05T09:19:33+00:00"
  },
  {
   "id": "4a411047db5a",
