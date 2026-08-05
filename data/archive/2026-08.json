@@ -1,5 +1,44 @@
 [
  {
+  "id": "d259dafefeb1",
+  "title": "Done Deal: Italy talent Ruggeri to Aston Villa for €18m plus €6m bonus",
+  "player": "Matteo Ruggeri",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-italy-talent-ruggeri-to-aston-villa/",
+  "fee": "€18M",
+  "published": "2026-08-05T13:57:25+00:00"
+ },
+ {
+  "id": "e32c655e958b",
+  "title": "19-year-old Southampton winger Jay Robinson set to join Monza in Serie A",
+  "player": "Jay Robinson",
+  "title_ko": "19세의 사우샘프턴 윙어 제이 로빈슨이 세리에 A의 몬자에 합류할 예정입니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/southampton-robinson-set-to-join-monza-serie-a/",
+  "fee": null,
+  "published": "2026-08-05T13:51:45+00:00"
+ },
+ {
+  "id": "9d24bf4d8d67",
+  "title": "Transfer roundup: Coventry to make Yirenkyi new record signing, Crystal Palace to swoop for Gozo",
+  "player": "Caleb Yirenkyi",
+  "title_ko": "이적 정리: Coventry는 Yirenkyi의 새로운 레코드 계약을 맺고 Crystal Palace는 Gozo를 영입할 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
+  "fee": null,
+  "published": "2026-08-05T13:49:12+00:00"
+ },
+ {
   "id": "09e2155236be",
   "title": "Vinicius Jr final transfer decision imminent as Arsenal players 'think deal is done'",
   "player": "Vinicius Jr",
