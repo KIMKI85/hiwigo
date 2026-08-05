@@ -1,5 +1,31 @@
 [
  {
+  "id": "f3e65ccbcb16",
+  "title": "El Celta ultima la cesión de Unai Núñez al Espanyol",
+  "player": "Unai Núñez",
+  "title_ko": "셀타는 우나이 누녜스의 에스파뇰 임대를 마무리했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/celta/2026/08/05/celta-ultima-cesion-unai-nunez-espanyol.html",
+  "fee": null,
+  "published": "2026-08-05T18:35:47+00:00"
+ },
+ {
+  "id": "3e1a0d14d18f",
+  "title": "Newcastle zahlt Ablöse: Jaissle wird zehnter deutscher Premier-League-Trainer",
+  "player": "Matthias Jaissle",
+  "title_ko": "뉴캐슬, 이적료 지불: Jaissle은 독일 프리미어리그의 10번째 감독이 되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/newcastle-zahlt-abloese-jaissle-wird-zehnter-deutscher-premier-league-trainer-1239831/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T18:32:12+00:00"
+ },
+ {
   "id": "c336d6ac14e9",
   "title": "Real Madrid change Vinicius Jr stance as Arsenal transfer hopes suffer blow",
   "player": "Vinicius Jr",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/nico-gonzalez-inter-roma-interest-juventus/",
   "fee": null,
   "published": "2026-08-03T19:56:01+00:00"
- },
- {
-  "id": "4f1141ce7280",
-  "title": "Mercato: Titraoui, le \"Verratti algérien\" à la conquête de Lens",
-  "player": "Mamadou Sangaré",
-  "title_ko": "Mercato: 랑스를 정복할 \"알제리 베라티\" Titraoui",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-titraoui-le-verratti-algerien-a-la-conquete-de-lens_AV-202608030517.html",
-  "fee": null,
-  "published": "2026-08-03T19:38:22+00:00"
- },
- {
-  "id": "d893a4bcd235",
-  "title": "Man Utd tell Ralf Rangnick's only signing he can leave permanently after brutal snub",
-  "player": "Ralf Rangnick's",
-  "title_ko": "맨유는 랄프 랑닉의 유일한 영입에 잔혹한 비난 이후 영구적으로 떠날 수 있다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-collyer-37509695",
-  "fee": null,
-  "published": "2026-08-03T18:17:03+00:00"
  }
 ]
