@@ -13,6 +13,32 @@
   "published": "2026-08-05T17:42:00+00:00"
  },
  {
+  "id": "7e6236b416ae",
+  "title": "Done Deal: Atalanta send Touré to Parma, loan with option at €11.5m",
+  "player": "El Bilal Touré",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-atalanta-send-touree-to-parma-option/",
+  "fee": "€11.5M",
+  "published": "2026-08-05T17:34:37+00:00"
+ },
+ {
+  "id": "8fe9129c8198",
+  "title": "\"Die Bedingungen sind top\": Fürth verpflichtet Ex-Hamburger Megeed",
+  "player": "Die Bedingungen",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-bedingungen-sind-top-fuerth-verpflichtet-ex-hamburger-megeed-1241029/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T17:32:46+00:00"
+ },
+ {
   "id": "00d13045dd00",
   "title": "Arsenal 'prepare second offer' for England star as Morgan Rogers deal causes complication",
   "player": "Morgan Rogers",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-03T17:30:32+00:00"
- },
- {
-  "id": "a3d3792d56bf",
-  "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-  "player": "Trevoh Chalobah",
-  "title_ko": "이적 요약: 첼시는 트레보 찰로바를 팔고 조던 헨더슨을 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
-  "fee": null,
-  "published": "2026-08-03T17:30:01+00:00"
- },
- {
-  "id": "b95d03b21fb1",
-  "title": "Mercato: le PSG et Liverpool discutent pour le transfert de Barcola mais les positions restent très éloignées",
-  "player": "Bradley Barcola",
-  "title_ko": "메르카토: PSG와 리버풀은 바르콜라의 이적을 논의하지만 입장은 여전히 ​​매우 멀다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-et-liverpool-discutent-pour-le-transfert-de-barcola-mais-les-positions-restent-tres-eloignees_AV-202608030475.html",
-  "fee": null,
-  "published": "2026-08-03T17:09:17+00:00"
  }
 ]
