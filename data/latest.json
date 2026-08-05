@@ -1,5 +1,18 @@
 [
  {
+  "id": "8182d843da4f",
+  "title": "Der nächste 18-Jährige: Benficas Neves vor Wechsel nach Köln",
+  "player": "Benficas Neves",
+  "title_ko": "다음 18세 선수: 쾰른으로 이적하기 전 벤피카의 네베스",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/der-naechste-18-jaehrige-benficas-neves-vor-wechsel-nach-koeln-1240910/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-05T11:23:00+00:00"
+ },
+ {
   "id": "f54ee9c3364c",
   "title": "Mohamed Salah spotted in new shirt for first time as Liverpool icon mobbed after transfer",
   "player": "Mohamed Salah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/yan-diomande-transfer-real-madrid-37508556",
   "fee": "£113M",
   "published": "2026-08-03T13:33:36+00:00"
- },
- {
-  "id": "6d5635e5f8a9",
-  "title": "Frank Lampard green lights £88m Chelsea transfer reunion after signing son of ex-teammate",
-  "player": "Frank Lampard",
-  "title_ko": "프랭크 램파드는 전 팀 동료의 아들과 계약한 후 첼시 이적 재결합을 승인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mudryk-coventry-transfer-chelsea-lampard-37508530",
-  "fee": "£88M",
-  "published": "2026-08-03T13:11:24+00:00"
  }
 ]
