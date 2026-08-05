@@ -1,5 +1,18 @@
 [
  {
+  "id": "987d6e9af8a8",
+  "title": "Arsenal set to agree blockbuster Bruno Guimaraes transfer as Newcastle demands finally met",
+  "player": "Bruno Guimaraes",
+  "title_ko": "뉴캐슬의 요구가 마침내 충족됨에 따라 아스날은 블록버스터 브루노 기마랑스의 이적에 동의할 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-newcastle-latest-37514839",
+  "fee": null,
+  "published": "2026-08-05T06:52:49+00:00"
+ },
+ {
   "id": "03cff443fe21",
   "title": "Arsenal set to sign Newcastle captain Guimaraes",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-andoni-iraola-37505102",
   "fee": "£80M",
   "published": "2026-08-03T04:00:00+00:00"
- },
- {
-  "id": "85b823daa7b8",
-  "title": "Man Utd news: Myles Lewis-Skelly transfer boost as medical booked and star 'says yes' to move",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유 뉴스: 메디컬 예약으로 마일스 루이스-스켈리 이적 촉진, 스타 이적 승인 '예'",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-skelly-arsenal-37505305",
-  "fee": null,
-  "published": "2026-08-03T03:30:00+00:00"
  }
 ]
