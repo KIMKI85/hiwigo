@@ -1,5 +1,31 @@
 [
  {
+  "id": "42d3ec3857c1",
+  "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
+  "player": "Teenager Monga",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-05T17:42:00+00:00"
+ },
+ {
+  "id": "00d13045dd00",
+  "title": "Arsenal 'prepare second offer' for England star as Morgan Rogers deal causes complication",
+  "player": "Morgan Rogers",
+  "title_ko": "모건 로저스 계약이 합병증을 야기함에 따라 아스날은 잉글랜드 스타에 대한 '두 번째 제안 준비'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-morgan-rogers-37517652",
+  "fee": null,
+  "published": "2026-08-05T16:43:15+00:00"
+ },
+ {
   "id": "b227251dd1bb",
   "title": "Done Deal: Molina ready for Roma, total package €18m from Atletico Madrid",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-et-liverpool-discutent-pour-le-transfert-de-barcola-mais-les-positions-restent-tres-eloignees_AV-202608030475.html",
   "fee": null,
   "published": "2026-08-03T17:09:17+00:00"
- },
- {
-  "id": "930f071c21e7",
-  "title": "Official: Joao Mario joins Fiorentina, option to buy from Juventus at €11.3m",
-  "player": "Joao Mario",
-  "title_ko": "공식: 주앙 마리오가 피오렌티나에 합류, 유벤투스로부터 €11.3m에 구매할 수 있는 옵션",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-joao-mario-joins-fiorentina-juventus/",
-  "fee": "€11.3M",
-  "published": "2026-08-03T16:52:24+00:00"
- },
- {
-  "id": "f8e27ffd10fb",
-  "title": "Napoli threaten Schalke 04 with legal action after failure of Lindstrom transfer",
-  "player": null,
-  "title_ko": "나폴리는 린드스트롬 이적 실패 후 샬케 04에게 법적 조치를 취하겠다고 위협했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-threaten-schalke-04-failure-lindstrom/",
-  "fee": null,
-  "published": "2026-08-03T16:40:10+00:00"
  }
 ]

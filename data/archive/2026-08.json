@@ -1,5 +1,31 @@
 [
  {
+  "id": "42d3ec3857c1",
+  "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
+  "player": "Teenager Monga",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-05T17:42:00+00:00"
+ },
+ {
+  "id": "00d13045dd00",
+  "title": "Arsenal 'prepare second offer' for England star as Morgan Rogers deal causes complication",
+  "player": "Morgan Rogers",
+  "title_ko": "모건 로저스 계약이 합병증을 야기함에 따라 아스날은 잉글랜드 스타에 대한 '두 번째 제안 준비'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-morgan-rogers-37517652",
+  "fee": null,
+  "published": "2026-08-05T16:43:15+00:00"
+ },
+ {
   "id": "b227251dd1bb",
   "title": "Done Deal: Molina ready for Roma, total package €18m from Atletico Madrid",
   "player": null,
