@@ -1,5 +1,18 @@
 [
  {
+  "id": "6006b8e816db",
+  "title": "Man Utd news: Bayern Munich star's transfer stance clear as defender 'begs to join big club'",
+  "player": null,
+  "title_ko": "맨유 뉴스: 수비수가 '빅클럽 합류를 요청'함에 따라 바이에른 뮌헨 스타의 이적 입장이 명확해졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-bayern-munich-37513798",
+  "fee": null,
+  "published": "2026-08-05T03:30:00+00:00"
+ },
+ {
   "id": "f504b606e841",
   "title": "Arsenal news: Bruno Guimaraes shows true colours as medical completed for transfer",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/08/02/sevilla-oficial-fichaje-fran-gonzalez-2031.html",
   "fee": null,
   "published": "2026-08-02T20:22:50+00:00"
- },
- {
-  "id": "eb75d36c42f3",
-  "title": "\"Klarer Wunschspieler\": Daghim wechselt für 13 Millionen Euro nach Hoffenheim",
-  "player": "Klarer Wunschspieler",
-  "title_ko": "\"명백한 꿈의 선수\": 다그힘은 1,300만 유로에 호펜하임으로 이적합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/klarer-wunschspieler-daghim-wechselt-fuer-13-millionen-euro-nach-hoffenheim-1240287/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-02T20:02:28+00:00"
  }
 ]
