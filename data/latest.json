@@ -1,5 +1,18 @@
 [
  {
+  "id": "258409672e85",
+  "title": "Mercato: Monaco verrouille son joyau, Cabral prolonge jusqu’en 2031",
+  "player": "Pape Cabral",
+  "title_ko": "Mercato: Monaco는 보석을 잠그고 Cabral은 2031년까지 연장됩니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-monaco-verrouille-son-joyau-cabral-prolonge-jusqu-en-2031_AN-202608050322.html",
+  "fee": null,
+  "published": "2026-08-05T11:58:06+00:00"
+ },
+ {
   "id": "f7d5d51ada9c",
   "title": "Man Utd overhaul accelerates with another transfer agreed after booking medical",
   "player": "Altay Bayindir",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-chalobah-agreement-with-como-chelsea/",
   "fee": "€30M",
   "published": "2026-08-03T14:16:03+00:00"
- },
- {
-  "id": "7b380fc07bb8",
-  "title": "Tzolis erklärt Arsenal-Wechsel - und warum Düsseldorf der entscheidende Schritt war",
-  "player": "Düsseldorfer Christos Tzolis",
-  "title_ko": "Tzolis는 아스날의 이적과 뒤셀도르프가 결정적인 조치를 취한 이유를 설명합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/tzolis-erklaert-arsenal-wechsel-und-warum-duesseldorf-der-entscheidende-schritt-war-1240469/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-03T13:40:09+00:00"
  }
 ]
