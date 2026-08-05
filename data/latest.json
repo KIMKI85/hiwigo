@@ -1,5 +1,18 @@
 [
  {
+  "id": "09e2155236be",
+  "title": "Vinicius Jr final transfer decision imminent as Arsenal players 'think deal is done'",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날 선수들이 '거래가 끝났다고 생각'하면서 비니시우스 주니어의 최종 이적 결정이 임박했습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-decision-37517206",
+  "fee": null,
+  "published": "2026-08-05T13:22:17+00:00"
+ },
+ {
   "id": "d8cc5e8d7e2a",
   "title": "Marcus Rashford primed for Ruben Amorim reunion after Man Utd transfer twist",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
   "fee": "£31M",
   "published": "2026-08-03T15:39:32+00:00"
- },
- {
-  "id": "660855bf3cf9",
-  "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
-  "player": "Edin Dzeko",
-  "title_ko": "전 맨시티 공격수 제코(40)가 샬케와 새로운 계약을 맺었다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-03T15:37:14+00:00"
  }
 ]
