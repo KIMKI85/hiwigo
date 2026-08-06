@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c3c1872d1d3",
+  "title": "La Liga sur DAZN et Disney+: un double deal inédit de diffusion TV du championnat espagnol en France",
+  "player": "After Foot",
+  "title_ko": "DAZN과 Disney+의 La Liga: 프랑스에서 열린 스페인 챔피언십 TV 방송에 대한 전례 없는 이중 거래",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/la-liga-sur-dazn-et-disney-un-double-deal-inedit-de-diffusion-tv-du-championnat-espagnol-en-france_AV-202608060187.html",
+  "fee": null,
+  "published": "2026-08-06T07:20:53+00:00"
+ },
+ {
   "id": "7dc1266436f9",
   "title": "Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
   "player": "Alessia Russo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-04T11:12:13+00:00"
- },
- {
-  "id": "9dd6b15f9266",
-  "title": "'Need four or five signings!' | Austin urges Liverpool speed up transfer business",
-  "player": "Charlie Austin",
-  "title_ko": "'4~5명의 영입이 필요해!' | 오스틴은 리버풀이 이적 사업에 속도를 낼 것을 촉구했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
-  "fee": null,
-  "published": "2026-08-04T11:10:00+00:00"
  }
 ]
