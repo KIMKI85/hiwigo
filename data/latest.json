@@ -1,5 +1,18 @@
 [
  {
+  "id": "34847be9c5c6",
+  "title": "Juventus open to Koopmeiners loan to make room for Kessié",
+  "player": "Teun Koopmeiners",
+  "title_ko": "유벤투스는 케시에의 자리를 마련하기 위해 쿠프마이너스 임대를 제안합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-open-to-koopmeiners-loan-kessie/",
+  "fee": null,
+  "published": "2026-08-06T12:02:38+00:00"
+ },
+ {
   "id": "10a39a2fd86e",
   "title": "Torino close on Perri as Leeds seal Trafford deal",
   "player": "Lucas Perri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13566091/kerolin-man-city-forward-joins-barcelona-for-1-25m-in-record-womens-super-league-sale",
   "fee": null,
   "published": "2026-08-04T16:36:00+00:00"
- },
- {
-  "id": "8f1d28fcd9d6",
-  "title": "El Racing deja los fichajes para agosto",
-  "player": "El Racing",
-  "title_ko": "레이싱, 8월 계약 종료",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/racing-santander/2026/08/04/racing-deja-fichajes-agosto.html",
-  "fee": null,
-  "published": "2026-08-04T16:26:16+00:00"
  }
 ]
