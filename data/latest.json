@@ -1,5 +1,18 @@
 [
  {
+  "id": "2eb03d07234f",
+  "title": "Man Utd forced to fork out millions as Marcus Rashford benefits from contract loophole",
+  "player": "Marcus Rashford",
+  "title_ko": "Marcus Rashford가 계약 허점으로 인해 이익을 얻자 Man Utd는 수백만 달러를 포크해야했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-marcus-rashford-loophole-37520094",
+  "fee": null,
+  "published": "2026-08-06T10:38:25+00:00"
+ },
+ {
   "id": "c5964cafe8ee",
   "title": "Nur der Medizincheck fehlt: Leipzig und Real über Diomande-Transfer einig",
   "player": "Nur der Medizincheck",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sponsor-betway-deal-37512265",
   "fee": "£20M",
   "published": "2026-08-04T13:14:58+00:00"
- },
- {
-  "id": "130761951b48",
-  "title": "Keeper Jorgensen set for loan move to Strasbourg",
-  "player": "Keeper Jorgensen",
-  "title_ko": "골키퍼 요르겐센, 스트라스부르로 임대 이적",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-04T13:12:11+00:00"
  }
 ]
