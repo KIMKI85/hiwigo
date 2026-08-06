@@ -1,5 +1,31 @@
 [
  {
+  "id": "190c261300c0",
+  "title": "Real Madrid agree deal for Diomande",
+  "player": "Yan Diomande",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
+  "fee": null,
+  "published": "2026-08-06T15:00:00+00:00"
+ },
+ {
+  "id": "5d26180c3d11",
+  "title": "Real Madrid sign Diomande from RB Leipzig",
+  "player": "Ivory Coast",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T14:16:18+00:00"
+ },
+ {
   "id": "b1e3ca2ad033",
   "title": "Diomandé rejoint le Real Madrid et devient la recrue la plus chère de l'histoire du club",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-contrat-xxl-pour-mohamed-salah-proche-d-un-accord-avec-trabzonspor_AV-202608050108.html",
   "fee": null,
   "published": "2026-08-05T06:00:59+00:00"
- },
- {
-  "id": "5b8b1a72d984",
-  "title": "Michael Carrick's dream Marcus Rashford replacement as Man Utd sign £60million star",
-  "player": "Michael Carrick's",
-  "title_ko": "마이클 캐릭의 꿈 마커스 래쉬포드의 교체로 맨유가 £60M에 스타 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-marcus-rashford-37507585",
-  "fee": "£60M",
-  "published": "2026-08-05T04:30:00+00:00"
- },
- {
-  "id": "6006b8e816db",
-  "title": "Man Utd news: Bayern Munich star's transfer stance clear as defender 'begs to join big club'",
-  "player": null,
-  "title_ko": "맨유 뉴스: 수비수가 '빅클럽 합류를 요청'함에 따라 바이에른 뮌헨 스타의 이적 입장이 명확해졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-bayern-munich-37513798",
-  "fee": null,
-  "published": "2026-08-05T03:30:00+00:00"
  }
 ]

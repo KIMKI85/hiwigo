@@ -1,5 +1,31 @@
 [
  {
+  "id": "190c261300c0",
+  "title": "Real Madrid agree deal for Diomande",
+  "player": "Yan Diomande",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
+  "fee": null,
+  "published": "2026-08-06T15:00:00+00:00"
+ },
+ {
+  "id": "5d26180c3d11",
+  "title": "Real Madrid sign Diomande from RB Leipzig",
+  "player": "Ivory Coast",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T14:16:18+00:00"
+ },
+ {
   "id": "b1e3ca2ad033",
   "title": "Diomandé rejoint le Real Madrid et devient la recrue la plus chère de l'histoire du club",
   "player": null,
