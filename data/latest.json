@@ -1,5 +1,31 @@
 [
  {
+  "id": "d6a1f971d57a",
+  "title": "Milan join Napoli and Bournemouth in race for Rennes striker Embolo",
+  "player": "Breel Embolo",
+  "title_ko": "밀란은 나폴리, 본머스와 함께 렌의 스트라이커 엠볼로를 영입하기 위해 경쟁하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-join-napoli-and-bournemouth-embolo/",
+  "fee": null,
+  "published": "2026-08-06T10:55:00+00:00"
+ },
+ {
+  "id": "b995b5abff8e",
+  "title": "Newcastle's embarrassing starting XI for first match of season if Lewis Hall joins Man Utd",
+  "player": "Lewis Hall",
+  "title_ko": "루이스 홀이 맨유에 합류하면 시즌 첫 경기에 나서는 뉴캐슬의 당혹스러운 선발 XI",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-starting-xi-liverpool-jaissle-37519591",
+  "fee": null,
+  "published": "2026-08-06T10:49:49+00:00"
+ },
+ {
   "id": "2eb03d07234f",
   "title": "Man Utd forced to fork out millions as Marcus Rashford benefits from contract loophole",
   "player": "Marcus Rashford",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-virgil-van-dijk-transfer-37513061",
   "fee": null,
   "published": "2026-08-04T14:35:48+00:00"
- },
- {
-  "id": "320a9bc140c5",
-  "title": "Como schedule Chalobah and Couto medicals after Chelsea and Dortmund deals",
-  "player": "Trevoh Chalobah",
-  "title_ko": "Como는 Chelsea와 Dortmund 거래 후 Chalobah와 Couto 메디컬 일정을 계획합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-schedule-chalobah-couto-medicals-chelsea/",
-  "fee": null,
-  "published": "2026-08-04T13:45:33+00:00"
- },
- {
-  "id": "510f07aea90d",
-  "title": "Man Utd exploit Premier League loophole to announce world-leading £20m deal",
-  "player": null,
-  "title_ko": "맨유는 프리미어리그의 허점을 이용하여 세계 최고의 £20m 계약을 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sponsor-betway-deal-37512265",
-  "fee": "£20M",
-  "published": "2026-08-04T13:14:58+00:00"
  }
 ]

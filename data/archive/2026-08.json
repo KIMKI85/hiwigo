@@ -1,5 +1,31 @@
 [
  {
+  "id": "d6a1f971d57a",
+  "title": "Milan join Napoli and Bournemouth in race for Rennes striker Embolo",
+  "player": "Breel Embolo",
+  "title_ko": "밀란은 나폴리, 본머스와 함께 렌의 스트라이커 엠볼로를 영입하기 위해 경쟁하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-join-napoli-and-bournemouth-embolo/",
+  "fee": null,
+  "published": "2026-08-06T10:55:00+00:00"
+ },
+ {
+  "id": "b995b5abff8e",
+  "title": "Newcastle's embarrassing starting XI for first match of season if Lewis Hall joins Man Utd",
+  "player": "Lewis Hall",
+  "title_ko": "루이스 홀이 맨유에 합류하면 시즌 첫 경기에 나서는 뉴캐슬의 당혹스러운 선발 XI",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-starting-xi-liverpool-jaissle-37519591",
+  "fee": null,
+  "published": "2026-08-06T10:49:49+00:00"
+ },
+ {
   "id": "2eb03d07234f",
   "title": "Man Utd forced to fork out millions as Marcus Rashford benefits from contract loophole",
   "player": "Marcus Rashford",
