@@ -1,5 +1,31 @@
 [
  {
+  "id": "b60e98f750bf",
+  "title": "Klausel macht's möglich: Leganes verdient am Diomande-Deal kräftig mit",
+  "player": "Yan Diomande",
+  "title_ko": "조항이 이를 가능하게 한다: 레가네스는 디오망드 거래로 많은 돈을 벌었다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/klausel-macht-s-moeglich-leganes-verdient-am-diomande-deal-kraeftig-mit-1241194/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-06T12:35:46+00:00"
+ },
+ {
+  "id": "7f1b465b87b9",
+  "title": "Wechsel fix: Salah unterschreibt bei Trabzonspor",
+  "player": "Mohamed Salah",
+  "title_ko": "변경사항 수정: 살라가 트라브존스포르와 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-fix-salah-unterschreibt-bei-trabzonspor-1240800/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-06T12:34:21+00:00"
+ },
+ {
   "id": "3c7cdc4092d8",
   "title": "Wechsel in Kiel: Meffert übernimmt Binde von Skrzybski",
   "player": "Binde von Skrzybski",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-radek-vitek-middlesbrough-37514033",
   "fee": null,
   "published": "2026-08-04T18:37:56+00:00"
- },
- {
-  "id": "246948fe28a1",
-  "title": "Ipswich sign midfielder Florentino from Burnley",
-  "player": "Florentino Luis",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-04T18:09:27+00:00"
- },
- {
-  "id": "0dcccb2fbe50",
-  "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
-  "player": "Vinícius Júnior",
-  "title_ko": "아스날의 타겟 비니시우스는 무리뉴가 레알 마드리드에서 '내가 행복하길 원한다'고 말했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
-  "fee": null,
-  "published": "2026-08-04T16:37:50+00:00"
  }
 ]
