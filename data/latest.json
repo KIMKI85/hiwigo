@@ -1,5 +1,18 @@
 [
  {
+  "id": "35e990eb582a",
+  "title": "Liverpool could lose TEN players for nothing as they fail to learn their transfer lesson",
+  "player": null,
+  "title_ko": "리버풀은 이적 교훈을 배우지 못해 10명의 선수를 잃을 수도 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-salah-konate-robertson-37515267",
+  "fee": null,
+  "published": "2026-08-06T05:30:00+00:00"
+ },
+ {
   "id": "9c97aa47236b",
   "title": "Man Utd news: Atalanta star scouted as Michael Carrick ready to strike deal for £36.5m ace",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx25y0yx4x7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-04T06:45:16+00:00"
- },
- {
-  "id": "b77cc934c074",
-  "title": "Mercato: \"Le Barça doit prouver qu'il me veut\", le message clair de Ferran Torres qui ne ferme pas la porte à un départ",
-  "player": "Ferran Torres",
-  "title_ko": "메르카토: “바르샤는 그들이 나를 원한다는 것을 증명해야 한다”, 이적의 문을 닫지 않는 페란 토레스의 분명한 메시지",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-doit-prouver-qu-il-me-veut-le-message-clair-de-ferran-torres-qui-ne-ferme-pas-la-porte-a-un-depart_AV-202608040106.html",
-  "fee": null,
-  "published": "2026-08-04T06:00:06+00:00"
  }
 ]
