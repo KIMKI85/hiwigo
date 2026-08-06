@@ -1,5 +1,18 @@
 [
  {
+  "id": "6565ad38bf3c",
+  "title": "Arsenal news: Gabriel Martinelli transfer route becomes clearer as club 'braced for fresh bid'",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날 뉴스: 가브리엘 마르티넬리의 이적 경로는 클럽이 '새로운 입찰에 대비'하면서 더욱 명확해졌습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-arteta-gabriel-martinelli-37517236",
+  "fee": null,
+  "published": "2026-08-06T03:00:00+00:00"
+ },
+ {
   "id": "a30988de66d0",
   "title": "INFO RMC SPORT. Mercato: Al Ahli a tâté le terrain pour Didier Deschamps, qui ne devrait pas rejoindre le club",
   "player": "Al Ahli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-transfer-arteta-37479560",
   "fee": null,
   "published": "2026-08-04T05:30:00+00:00"
- },
- {
-  "id": "187c18f00ab9",
-  "title": "Liverpool news: Bradley Barcola timeline emerges as Tottenham make their move for star",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 토트넘이 스타로 이동하면서 브래들리 바르콜라 타임라인이 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-spurs-37508420",
-  "fee": null,
-  "published": "2026-08-04T04:00:00+00:00"
  }
 ]
