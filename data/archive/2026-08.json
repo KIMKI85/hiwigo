@@ -1,5 +1,31 @@
 [
  {
+  "id": "c22ce3539d0b",
+  "title": "Romagnoli set to snub Atalanta for Lazio stay after Al-Sadd deal collapsed",
+  "player": "Alessio Romagnoli",
+  "title_ko": "로마뇰리는 알-사드 계약이 결렬된 후 라치오 잔류를 위해 아탈란타를 거부할 예정",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/romagnoli-set-to-snub-atalanta-for-lazio-stay/",
+  "fee": null,
+  "published": "2026-08-06T09:35:00+00:00"
+ },
+ {
+  "id": "7307b91454b9",
+  "title": "Liverpool weigh up hijacking £60m Arsenal transfer to appease desperate Andoni Iraola",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀은 필사적인 안도니 이라올라를 달래기 위해 아스날 이적료 6천만 파운드를 하이재킹하는 방안을 검토 중이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-arsenal-transfer-news-konsa-37519875",
+  "fee": "£60M",
+  "published": "2026-08-06T09:33:44+00:00"
+ },
+ {
   "id": "18a56914b804",
   "title": "Report: Milan and Galatasaray open talks over Leão fee",
   "player": "Rafael Leão",
