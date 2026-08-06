@@ -1,5 +1,18 @@
 [
  {
+  "id": "3c7cdc4092d8",
+  "title": "Wechsel in Kiel: Meffert übernimmt Binde von Skrzybski",
+  "player": "Binde von Skrzybski",
+  "title_ko": "킬의 변화: Meffert가 Skrzybski를 인수합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-in-kiel-meffert-uebernimmt-binde-von-skrzybski-1241190/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-06T12:15:00+00:00"
+ },
+ {
   "id": "34847be9c5c6",
   "title": "Juventus open to Koopmeiners loan to make room for Kessié",
   "player": "Teun Koopmeiners",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
   "fee": null,
   "published": "2026-08-04T16:37:50+00:00"
- },
- {
-  "id": "1a4716f9ddc2",
-  "title": "Barcelona sign Kerolin from Man City in WSL record sale",
-  "player": null,
-  "title_ko": "바르셀로나는 WSL 음반 판매를 통해 맨시티의 케롤린을 영입했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13566091/kerolin-man-city-forward-joins-barcelona-for-1-25m-in-record-womens-super-league-sale",
-  "fee": null,
-  "published": "2026-08-04T16:36:00+00:00"
  }
 ]
