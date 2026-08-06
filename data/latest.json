@@ -1,5 +1,57 @@
 [
  {
+  "id": "29fbcad599b6",
+  "title": "Liverpool sign Spanish midfielder Ramos",
+  "player": "Natalia Ramos",
+  "title_ko": "리버풀이 스페인 미드필더 라모스를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cz6484p441yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T13:39:35+00:00"
+ },
+ {
+  "id": "5530cd1e9ee4",
+  "title": "Mercato: Rodri préfère le Barça au Real",
+  "player": null,
+  "title_ko": "메르카토: 로드리는 레알보다 바르샤를 더 좋아한다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-prefere-le-barca-au-real_AV-202608060348.html",
+  "fee": null,
+  "published": "2026-08-06T13:36:57+00:00"
+ },
+ {
+  "id": "03d47481ae92",
+  "title": "Bournemouth sign Spanish right-back Juanlu",
+  "player": "Juanlu Sanchez",
+  "title_ko": "본머스가 스페인의 라이트백 후안루를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly91exewj2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T13:33:13+00:00"
+ },
+ {
+  "id": "53f8b18e80eb",
+  "title": "Transfer latest: Are Inter the only Serie A title contenders? Will Leao stay at Milan?",
+  "player": "Will Leao",
+  "title_ko": "최신 이적: 인테르가 유일한 세리에 A 타이틀 경쟁자인가? 레오는 밀라노에 남을 것인가?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/transfer-latest-are-inter-the-only-contenders/",
+  "fee": null,
+  "published": "2026-08-06T13:30:33+00:00"
+ },
+ {
   "id": "b96464d522b4",
   "title": "Barcelona ready to move for Rodri but Alvarez deal remains stalled",
   "player": "Julián Alvarez",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-mourinho-37514278",
   "fee": null,
   "published": "2026-08-04T20:18:09+00:00"
- },
- {
-  "id": "b909787075e2",
-  "title": "Friendly: Roma 4-1 victory in Newport with new buys on target",
-  "player": "Santiago Castro",
-  "title_ko": "친선경기: 뉴포트에서 로마가 4-1로 승리, 신규 구매 목표 달성",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/friendly-roma-4-1-victory-newport-new-buys/",
-  "fee": null,
-  "published": "2026-08-04T19:50:58+00:00"
- },
- {
-  "id": "c2aea2ef8a1b",
-  "title": "Report Sow ready for Genoa transfer after 2026 World Cup",
-  "player": "Djibril Sow",
-  "title_ko": "2026년 월드컵 이후 제노아 이적 준비가 완료된 소우",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-sow-ready-genoa-transfer-2026-world-cup/",
-  "fee": null,
-  "published": "2026-08-04T19:15:02+00:00"
- },
- {
-  "id": "d2bab596becc",
-  "title": "‘It’s inevitable’ | All the latest on Arsenal's Guimaraes deal",
-  "player": "Arsenal's Guimaraes",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13569837/all-the-latest-on-bruno-guimaraes-to-arsenal-explained-its-inevitable",
-  "fee": null,
-  "published": "2026-08-04T19:10:00+00:00"
- },
- {
-  "id": "641a37e89f6f",
-  "title": "Mercato: condamné huit ans et demi pour viol, Rafa Mir officiellement prêté en Grèce",
-  "player": "Rafa Mir",
-  "title_ko": "메르카토: 강간 혐의로 8년 6개월 형 선고, 라파 미르 공식 그리스로 임대",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-condamne-huit-ans-et-demi-pour-viol-rafa-mir-officiellement-prete-en-grece_AV-202608040508.html",
-  "fee": null,
-  "published": "2026-08-04T19:02:56+00:00"
  }
 ]

@@ -1,5 +1,57 @@
 [
  {
+  "id": "29fbcad599b6",
+  "title": "Liverpool sign Spanish midfielder Ramos",
+  "player": "Natalia Ramos",
+  "title_ko": "리버풀이 스페인 미드필더 라모스를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cz6484p441yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T13:39:35+00:00"
+ },
+ {
+  "id": "5530cd1e9ee4",
+  "title": "Mercato: Rodri préfère le Barça au Real",
+  "player": null,
+  "title_ko": "메르카토: 로드리는 레알보다 바르샤를 더 좋아한다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-prefere-le-barca-au-real_AV-202608060348.html",
+  "fee": null,
+  "published": "2026-08-06T13:36:57+00:00"
+ },
+ {
+  "id": "03d47481ae92",
+  "title": "Bournemouth sign Spanish right-back Juanlu",
+  "player": "Juanlu Sanchez",
+  "title_ko": "본머스가 스페인의 라이트백 후안루를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cly91exewj2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-06T13:33:13+00:00"
+ },
+ {
+  "id": "53f8b18e80eb",
+  "title": "Transfer latest: Are Inter the only Serie A title contenders? Will Leao stay at Milan?",
+  "player": "Will Leao",
+  "title_ko": "최신 이적: 인테르가 유일한 세리에 A 타이틀 경쟁자인가? 레오는 밀라노에 남을 것인가?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/transfer-latest-are-inter-the-only-contenders/",
+  "fee": null,
+  "published": "2026-08-06T13:30:33+00:00"
+ },
+ {
   "id": "b96464d522b4",
   "title": "Barcelona ready to move for Rodri but Alvarez deal remains stalled",
   "player": "Julián Alvarez",
