@@ -1,5 +1,18 @@
 [
  {
+  "id": "7dc1266436f9",
+  "title": "Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
+  "player": "Alessia Russo",
+  "title_ko": "알레시아 루소: '클럽에 합류하면 아스날의 일부가 되고 사랑을 받게 됩니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/06/alessia-russo-arsenal-england-wsl-football-interview",
+  "fee": null,
+  "published": "2026-08-06T07:00:43+00:00"
+ },
+ {
   "id": "1530bc3c5690",
   "title": "Jamie Carragher criticises Mohamed Salah's Turkey move after Liverpool exit",
   "player": "Jamie Carragher",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
   "fee": null,
   "published": "2026-08-04T11:10:00+00:00"
- },
- {
-  "id": "60b0484f273b",
-  "title": "Nice: Hein en approche, Wahi toujours espéré et Carlos bientôt parti... Le point sur le mercato de l'OGCN",
-  "player": "Messin Gauthier Hein",
-  "title_ko": "Nice: 다가오고 있습니다. Wahi는 여전히 희망을 갖고 있었고 Carlos는 곧 떠났습니다... OGCN 이적 기간 업데이트",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/nice-hein-en-approche-wahi-toujours-espere-et-carlos-bientot-parti-le-point-sur-le-mercato-de-l-ogcn_AV-202608040292.html",
-  "fee": null,
-  "published": "2026-08-04T10:38:48+00:00"
  }
 ]
