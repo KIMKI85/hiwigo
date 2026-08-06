@@ -1,5 +1,18 @@
 [
  {
+  "id": "10a39a2fd86e",
+  "title": "Torino close on Perri as Leeds seal Trafford deal",
+  "player": "Lucas Perri",
+  "title_ko": "토리노는 리즈가 트래포드와 계약을 체결함에 따라 페리와 계약을 마감했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/torino-close-on-perri-as-leeds-trafford-deal/",
+  "fee": null,
+  "published": "2026-08-06T11:53:00+00:00"
+ },
+ {
   "id": "1ef36ca50645",
   "title": "La fin d'un des feuilletons du mercato: Yan Diomandé est bien en route pour le Real Madrid",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/racing-santander/2026/08/04/racing-deja-fichajes-agosto.html",
   "fee": null,
   "published": "2026-08-04T16:26:16+00:00"
- },
- {
-  "id": "d039f0bbb15e",
-  "title": "Chelsea, Jordan Henderson and a transfer pivot for the ages",
-  "player": "Jordan Henderson",
-  "title_ko": "첼시, 조던 헨더슨, 그리고 오랜 이적의 중심",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily",
-  "fee": null,
-  "published": "2026-08-04T15:28:29+00:00"
  }
 ]
