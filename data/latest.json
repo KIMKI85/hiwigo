@@ -1,5 +1,18 @@
 [
  {
+  "id": "65531215197e",
+  "title": "Nach Karetsas-Transfer: Auch Konstantelias im Blickfeld des BVB",
+  "player": "Nach Karetsas-",
+  "title_ko": "Karetsas 이적 후: Konstellias도 BVB의 시야에 있습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/nach-karetsas-transfer-auch-konstantelias-im-blickfeld-des-bvb-1241501/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T15:55:20+00:00"
+ },
+ {
   "id": "e683d7a2ad80",
   "title": "Diaz's stunner helps Bayern win as new Aston Villa signing scores",
   "player": "Hong Kong",
@@ -24,6 +37,19 @@
   "url": "https://www.kicker.de/meister-2022-mit-psg-aachen-verpflichtet-bitumazala-1241499/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T15:36:53+00:00"
+ },
+ {
+  "id": "25f9a837a274",
+  "title": "Frustrated Gasperini cancels interviews as Roma still haven’t signed that attacker",
+  "player": "Frustrated Gasperini",
+  "title_ko": "좌절한 가스페리니는 로마가 아직 공격자와 계약하지 않았기 때문에 인터뷰를 취소했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frustrated-gasperini-cancels-roma-interviews/",
+  "fee": null,
+  "published": "2026-08-07T15:34:05+00:00"
  },
  {
   "id": "45fe0e65e090",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-05T21:18:29+00:00"
- },
- {
-  "id": "a4a63d8d4588",
-  "title": "Vinicius Jr signs Real Madrid extension to end Arsenal interest",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어, 아스날 관심 종식 위해 레알 마드리드 연장 계약",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13570470/vinicius-junior-arsenal-target-signs-real-madrid-contract-extension-to-end-uncertainty-over-future",
-  "fee": null,
-  "published": "2026-08-05T21:15:00+00:00"
- },
- {
-  "id": "c38b0355d682",
-  "title": "Real Madrid agree £120m Diomande deal - Thursday gossip",
-  "player": "Yan Diomande",
-  "title_ko": "레알 마드리드는 £120m의 디오망드 계약에 동의했습니다 - 목요일 가십",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr59z307my1o?at_medium=RSS&at_campaign=rss",
-  "fee": "£120M",
-  "published": "2026-08-05T20:17:47+00:00"
  }
 ]
