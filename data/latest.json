@@ -13,6 +13,19 @@
   "published": "2026-08-07T15:45:00+00:00"
  },
  {
+  "id": "0451fd8b1eb5",
+  "title": "Meister 2022 mit PSG: Aachen verpflichtet Bitumazala",
+  "player": "Alemannia Aachen",
+  "title_ko": "PSG와 함께하는 2022 챔피언: 아헨, Bitumazala와 계약",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/meister-2022-mit-psg-aachen-verpflichtet-bitumazala-1241499/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T15:36:53+00:00"
+ },
+ {
   "id": "45fe0e65e090",
   "title": "Official: Atalanta record signing Toure joins Parma for 2026-27",
   "player": "El Bilal Toure",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cr59z307my1o?at_medium=RSS&at_campaign=rss",
   "fee": "£120M",
   "published": "2026-08-05T20:17:47+00:00"
- },
- {
-  "id": "392dac5c8b5f",
-  "title": "Real Madrid agree club-record £115m deal for Yan Diomandé and want to keep Vinícius",
-  "player": "Yan Diomandé",
-  "title_ko": "레알 마드리드는 클럽 기록인 얀 디오만데의 £115m 계약에 동의했으며 비니시우스를 유지하고 싶어합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
-  "fee": "£115M",
-  "published": "2026-08-05T19:12:01+00:00"
  }
 ]
