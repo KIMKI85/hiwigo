@@ -13,6 +13,19 @@
   "published": "2026-08-07T18:00:00+00:00"
  },
  {
+  "id": "26938a28504d",
+  "title": "Gabriel Jesus agent spotted at Napoli training camp amid Arsenal transfer links",
+  "player": "Gabriel Jesus",
+  "title_ko": "아스날 이적 링크가 있는 가운데 나폴리 훈련 캠프에서 포착된 가브리엘 제수스 에이전트",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gabriel-jesus-agent-spotted-at-napoli-training/",
+  "fee": null,
+  "published": "2026-08-07T17:51:33+00:00"
+ },
+ {
   "id": "3521c6289780",
   "title": "Arsenal could break unwanted transfer record as Mikel Arteta green lights two deals",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-arteta-gabriel-martinelli-37517236",
   "fee": null,
   "published": "2026-08-06T03:00:00+00:00"
- },
- {
-  "id": "a30988de66d0",
-  "title": "INFO RMC SPORT. Mercato: Al Ahli a tâté le terrain pour Didier Deschamps, qui ne devrait pas rejoindre le club",
-  "player": "Al Ahli",
-  "title_ko": "RMC 스포츠 정보. Mercato: Al Ahli는 클럽에 합류해서는 안되는 Didier Deschamps의 물을 테스트했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-al-ahli-a-tate-le-terrain-pour-didier-deschamps-qui-ne-devrait-pas-rejoindre-le-club_AV-202608050549.html",
-  "fee": null,
-  "published": "2026-08-05T22:29:44+00:00"
  }
 ]
