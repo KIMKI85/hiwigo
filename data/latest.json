@@ -1,5 +1,18 @@
 [
  {
+  "id": "3521c6289780",
+  "title": "Arsenal could break unwanted transfer record as Mikel Arteta green lights two deals",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 두 건의 계약을 승인함에 따라 아스날은 원치 않는 이적 기록을 깨뜨릴 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-martinelli-jesus-37526837",
+  "fee": null,
+  "published": "2026-08-07T16:25:20+00:00"
+ },
+ {
   "id": "65531215197e",
   "title": "Nach Karetsas-Transfer: Auch Konstantelias im Blickfeld des BVB",
   "player": "Nach Karetsas-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-transfer-arsenal-instagram-37519024",
   "fee": null,
   "published": "2026-08-05T21:30:13+00:00"
- },
- {
-  "id": "eb93014fa8cd",
-  "title": "Everton sign midfielder Norgaard from Arsenal",
-  "player": "Christian Norgaard",
-  "title_ko": "에버튼은 아스날의 미드필더 노르가르드를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-05T21:18:29+00:00"
  }
 ]
