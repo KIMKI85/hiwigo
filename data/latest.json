@@ -1,5 +1,18 @@
 [
  {
+  "id": "bd1ac0027256",
+  "title": "Man Utd dream attack as Marcus Rashford exits plus free agent striker and World Cup star join",
+  "player": "Marcus Rashford",
+  "title_ko": "마커스 래시포드가 퇴장하고 FA 공격수와 월드컵 스타가 합류하면서 맨유의 꿈의 공격",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-vlahovic-rashford-37517702",
+  "fee": null,
+  "published": "2026-08-07T04:30:00+00:00"
+ },
+ {
   "id": "0ad1b9a2629a",
   "title": "Liverpool news: Bradley Barcola price tag slashed as star 'says yes' to PSG transfer",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger",
   "fee": null,
   "published": "2026-08-05T10:42:00+00:00"
- },
- {
-  "id": "2b407676603e",
-  "title": "Yan Diomandé de retour à l'entraînement avec Leipzig (avant son transfert au Real Madrid?)",
-  "player": "Yan Diomandé",
-  "title_ko": "얀 디오만데가 라이프치히에서 훈련에 복귀했습니다(레알 마드리드로 이적하기 전?)",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/bundesliga/yan-diomande-de-retour-a-l-entrainement-avec-leipzig-avant-son-transfert-au-real-madrid_AV-202608050298.html",
-  "fee": null,
-  "published": "2026-08-05T10:32:21+00:00"
  }
 ]
