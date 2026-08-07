@@ -1,5 +1,18 @@
 [
  {
+  "id": "dcb9caf91b95",
+  "title": "Mercato: \"Coup de froid\", \"arrière-goût amer\"... le transfert avorté de Rodri au Real Madrid agite la presse espagnole",
+  "player": "Yan Diomandé",
+  "title_ko": "메르카토: \"차갑다\", \"씁쓸한 뒷맛\"... 로드리의 레알 마드리드 이적 무산, 스페인 언론 흥분",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-coup-de-froid-arriere-gout-amer-le-transfert-avorte-de-rodri-au-real-madrid-agite-la-presse-espagnole_AV-202608070246.html",
+  "fee": null,
+  "published": "2026-08-07T08:59:53+00:00"
+ },
+ {
   "id": "0ebb0ed1606b",
   "title": "Aston Villa stars 'think they know what's happening next' with Arsenal target Ezri Konsa",
   "player": "Ezri Konsa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-decision-37517206",
   "fee": null,
   "published": "2026-08-05T13:22:17+00:00"
- },
- {
-  "id": "d8cc5e8d7e2a",
-  "title": "Marcus Rashford primed for Ruben Amorim reunion after Man Utd transfer twist",
-  "player": "Marcus Rashford",
-  "title_ko": "마커스 래쉬포드, 맨유 이적 트위스트 이후 루벤 아모림 재결합 준비",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-utd-amorim-37516918",
-  "fee": null,
-  "published": "2026-08-05T12:53:35+00:00"
  }
 ]
