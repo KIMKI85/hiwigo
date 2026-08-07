@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ad1b9a2629a",
+  "title": "Liverpool news: Bradley Barcola price tag slashed as star 'says yes' to PSG transfer",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 PSG 이적에 스타가 '예'라고 답하자 가격표가 인하됐다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37521450",
+  "fee": null,
+  "published": "2026-08-07T04:00:00+00:00"
+ },
+ {
   "id": "88cb372940dd",
   "title": "Man Utd news: Marcus Rashford clause emerges as Barcelona transfer swoop causes issues",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/bundesliga/yan-diomande-de-retour-a-l-entrainement-avec-leipzig-avant-son-transfert-au-real-madrid_AV-202608050298.html",
   "fee": null,
   "published": "2026-08-05T10:32:21+00:00"
- },
- {
-  "id": "f71fe0b94ef7",
-  "title": "Chelsea set to clinch deal to sign Rayo Vallecano left-back Chavarria",
-  "player": "Pep Chavarria",
-  "title_ko": "첼시는 라요 바예카노의 레프트백 차바리아와 계약을 성사시킬 예정이다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13569945/pep-chavarria-chelsea-set-to-clinch-deal-to-sign-rayo-vallecano-left-back-for-initial-16-3m-fee-as-blues-seek-to-replace-marc-cucurella",
-  "fee": null,
-  "published": "2026-08-05T10:30:00+00:00"
  }
 ]

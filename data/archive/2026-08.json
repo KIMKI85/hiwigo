@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ad1b9a2629a",
+  "title": "Liverpool news: Bradley Barcola price tag slashed as star 'says yes' to PSG transfer",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 PSG 이적에 스타가 '예'라고 답하자 가격표가 인하됐다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37521450",
+  "fee": null,
+  "published": "2026-08-07T04:00:00+00:00"
+ },
+ {
   "id": "88cb372940dd",
   "title": "Man Utd news: Marcus Rashford clause emerges as Barcelona transfer swoop causes issues",
   "player": "Marcus Rashford",
