@@ -1,5 +1,18 @@
 [
  {
+  "id": "fdddeae8a940",
+  "title": "Asllanis Wechsel nach Leipzig überraschend geplatzt",
+  "player": "Asllanis Wechsel",
+  "title_ko": "아슬라니의 라이프치히 이적은 놀랍게도 무산되었습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/asllanis-wechsel-nach-leipzig-ueberraschend-geplatzt-1241529/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T19:00:00+00:00"
+ },
+ {
   "id": "742330fd33e0",
   "title": "Man Utd contacted by Newcastle after launching Lewis Hall transfer enquiry",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/coup-fuer-den-fc-nationalspielerin-hendrich-wechselt-nach-koeln-1240715/artikel#omrss",
   "fee": null,
   "published": "2026-08-06T06:10:07+00:00"
- },
- {
-  "id": "71c0a2dbca13",
-  "title": "DIRECT. Mercato: après l'ultimatum du Real, l'avenir de Vinicius Jr bientôt fixé",
-  "player": "Vinicius Jr",
-  "title_ko": "직접. 메르카토: 레알의 최후통첩 이후, 비니시우스 주니어의 미래는 곧 결정될 것이다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-de-transfert-du-6-aout-2026-en-live_LN-202608060092.html",
-  "fee": null,
-  "published": "2026-08-06T05:55:38+00:00"
  }
 ]
