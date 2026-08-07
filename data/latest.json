@@ -1,5 +1,18 @@
 [
  {
+  "id": "a595ab22777a",
+  "title": "Mercato: un nouveau cadre de l'OM sur le départ? Newcastle se renseigne sur Pierre-Emile Hojbjerg",
+  "player": "Emile Hojbjerg",
+  "title_ko": "Mercato: 새로운 OM 임원이 떠날 예정인가요? 피에르-에밀 호이비에르에 대한 뉴캐슬 문의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-nouveau-cadre-de-l-om-sur-le-depart-newcastle-se-renseigne-sur-pierre-emile-hojbjerg_AP-202608070495.html",
+  "fee": null,
+  "published": "2026-08-07T21:38:42+00:00"
+ },
+ {
   "id": "d169d8a58dac",
   "title": "Man City explore Fernandez move - Saturday's gossip",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-ready-to-cash-in-on-rafa-marin/",
   "fee": null,
   "published": "2026-08-06T08:30:02+00:00"
- },
- {
-  "id": "b9fed9a38a50",
-  "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
-  "player": "Ezri Konsa",
-  "title_ko": "축구 이적 루머: 아스날이 ￡60m에 돌아왔다 콘사? 아센시오가 리버풀로 갈까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool",
-  "fee": "£60M",
-  "published": "2026-08-06T08:26:43+00:00"
  }
 ]
