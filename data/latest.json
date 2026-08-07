@@ -1,5 +1,18 @@
 [
  {
+  "id": "e557ad701886",
+  "title": "Gabriel Jesus' agent addresses Arsenal transfer exit after being spotted at rival club",
+  "player": "Gabriel Jesus",
+  "title_ko": "가브리엘 제수스의 에이전트는 라이벌 클럽에서 목격된 후 아스날 이적 종료에 대해 언급합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-jesus-napoli-37527441",
+  "fee": null,
+  "published": "2026-08-07T20:56:38+00:00"
+ },
+ {
   "id": "4954c5e465d9",
   "title": "OM: \"Les 35 mouvements par mercato, ça existait avant mon arrivée\", Benatia règle ses comptes avec Longoria (et les joueurs)",
   "player": "France Football",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/06/alessia-russo-arsenal-england-wsl-football-interview",
   "fee": null,
   "published": "2026-08-06T07:00:43+00:00"
- },
- {
-  "id": "1530bc3c5690",
-  "title": "Jamie Carragher criticises Mohamed Salah's Turkey move after Liverpool exit",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거, 리버풀 떠난 후 모하메드 살라의 터키 이적 비판",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-mo-salah-trabzonspor-37519389",
-  "fee": null,
-  "published": "2026-08-06T06:51:09+00:00"
  }
 ]
