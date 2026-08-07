@@ -91,6 +91,19 @@
   "published": "2026-08-07T17:51:33+00:00"
  },
  {
+  "id": "880d43c2c5df",
+  "title": "LIVE! Rösler wechselt doppelt - Winkler rutscht beim Abschluss weg",
+  "player": "Am Freitagabend",
+  "title_ko": "살다! Rösler는 두 가지 변화를 시도합니다. Winkler는 작업이 끝나면 빠져나갑니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-roesler-wechselt-doppelt-winkler-rutscht-beim-abschluss-weg-1240798/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T17:30:00+00:00"
+ },
+ {
   "id": "3521c6289780",
   "title": "Arsenal could break unwanted transfer record as Mikel Arteta green lights two deals",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-mo-salah-trabzonspor-37519389",
   "fee": null,
   "published": "2026-08-06T06:51:09+00:00"
- },
- {
-  "id": "1bc695c46cab",
-  "title": "Mikel Arteta gives blunt response to Bruno Guimaraes question after Newcastle transfer agreed",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타는 뉴캐슬 이적이 합의된 후 브루노 기마랑스의 질문에 직설적으로 대답했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arteta-arsenal-transfer-bruno-guimaraes-37519309",
-  "fee": null,
-  "published": "2026-08-06T06:16:38+00:00"
  }
 ]
