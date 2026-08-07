@@ -13,6 +13,19 @@
   "published": "2026-08-07T10:15:00+00:00"
  },
  {
+  "id": "9c1d5fe0d0fd",
+  "title": "Vinicius, Akliouche, Rodri... Les 5 infos mercato du 7 août à 12 h.",
+  "player": "Enzo Fernández",
+  "title_ko": "Vinicius, Akliouche, Rodri... 8월 7일 낮 12시 5개의 메르카토 뉴스입니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-vinicius-akliouche-rodri-les-5-infos-mercato-du-7-aout-a-12-h_VN-202608070284.html",
+  "fee": null,
+  "published": "2026-08-07T10:00:32+00:00"
+ },
+ {
   "id": "232d951c9dfd",
   "title": "Dinamo Moscow launch surprise €15m bid for Lazio’s Ratkov",
   "player": "Dinamo Moscow",
@@ -24,6 +37,19 @@
   "url": "https://football-italia.net/dinamo-moscow-launch-surprise-ratkov-lazio-bid/",
   "fee": "€15M",
   "published": "2026-08-07T09:45:00+00:00"
+ },
+ {
+  "id": "d3d09379e93e",
+  "title": "Inside Bruno Guimaraes' dream Arsenal transfer six years in making for Mikel Arteta",
+  "player": "Inside Bruno Guimaraes",
+  "title_ko": "브루노 기마랑이스의 꿈 아스날 이적 미켈 아르테타를 6년 동안 만들어온 과정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37524646",
+  "fee": null,
+  "published": "2026-08-07T09:40:17+00:00"
  },
  {
   "id": "ee5eeb2775fa",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-05T16:07:00+00:00"
- },
- {
-  "id": "1ba8760272f2",
-  "title": "Liverpool exploring Ibrahim Mbaye transfer as PSG star's stance on move emerges",
-  "player": "Ibrahim Mbaye",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ibrahim-mbaye-latest-psg-37517705",
-  "fee": null,
-  "published": "2026-08-05T15:04:54+00:00"
- },
- {
-  "id": "7afa17324e11",
-  "title": "Mercato: la dernière proposition du Real Madrid à Vinicius (qui ne devrait pas s'en satisfaire)",
-  "player": "Cadena Ser",
-  "title_ko": "메르카토: 레알 마드리드가 비니시우스에게 최근 제안한 것(만족하지 말아야 할 사람)",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-derniere-proposition-du-real-madrid-a-vinicius-qui-ne-devrait-pas-s-en-satisfaire_AV-202608050385.html",
-  "fee": null,
-  "published": "2026-08-05T14:56:44+00:00"
  }
 ]
