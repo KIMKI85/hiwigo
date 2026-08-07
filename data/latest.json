@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ebb0ed1606b",
+  "title": "Aston Villa stars 'think they know what's happening next' with Arsenal target Ezri Konsa",
+  "player": "Ezri Konsa",
+  "title_ko": "Aston Villa 스타는 Arsenal의 목표인 Ezri Konsa와 함께 '다음에 무슨 일이 일어날지 알고 있다고 생각합니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-vinicius-junior-konsa-37524186",
+  "fee": null,
+  "published": "2026-08-07T08:53:57+00:00"
+ },
+ {
   "id": "c62fbb1018fa",
   "title": "Vertrag bis 2028: Schalke verpflichtet Dina Ebimbe",
   "player": "Dina Ebimbe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-utd-amorim-37516918",
   "fee": null,
   "published": "2026-08-05T12:53:35+00:00"
- },
- {
-  "id": "1cf917e36a2d",
-  "title": "PSG improve Suzuki offer formula to Parma for €35m, then Juventus loan",
-  "player": "Zion Suzuki",
-  "title_ko": "PSG는 스즈키가 파르마에 3,500만 유로를 제안한 후 유벤투스로 임대하는 방식을 개선했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/psg-improve-suzuki-offer-formula-to-parma-35m/",
-  "fee": "€35M",
-  "published": "2026-08-05T12:50:19+00:00"
  }
 ]
