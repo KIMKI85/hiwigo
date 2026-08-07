@@ -13,6 +13,19 @@
   "published": "2026-08-07T10:40:17+00:00"
  },
  {
+  "id": "28f164c52520",
+  "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+  "player": "Van de Ven",
+  "title_ko": "토트넘과 아틀레티코는 반 데 벤과 재계약을 앞두고 로메로에 대한 협상을 벌이고 있다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal",
+  "fee": null,
+  "published": "2026-08-07T10:37:43+00:00"
+ },
+ {
   "id": "c838c1c1020e",
   "title": "Atletico in talks to sign Spurs captain Romero",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-morgan-rogers-37517652",
   "fee": null,
   "published": "2026-08-05T16:43:15+00:00"
- },
- {
-  "id": "b227251dd1bb",
-  "title": "Done Deal: Molina ready for Roma, total package €18m from Atletico Madrid",
-  "player": null,
-  "title_ko": "거래 완료: 몰리나가 로마를 위해 준비됨, 아틀레티코 마드리드로부터 총 패키지 €18m",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-molina-ready-roma-atletico-madrid/",
-  "fee": "€18M",
-  "published": "2026-08-05T16:20:32+00:00"
  }
 ]
