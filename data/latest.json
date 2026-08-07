@@ -1,5 +1,18 @@
 [
  {
+  "id": "e683d7a2ad80",
+  "title": "Diaz's stunner helps Bayern win as new Aston Villa signing scores",
+  "player": "Hong Kong",
+  "title_ko": "디아즈의 놀라운 활약으로 바이에른은 새로운 Aston Villa 영입 점수로 승리했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13570716/aston-villa-lose-to-bayern-munich-as-luis-diazs-fine-strike-separates-two-sides",
+  "fee": null,
+  "published": "2026-08-07T15:45:00+00:00"
+ },
+ {
   "id": "45fe0e65e090",
   "title": "Official: Atalanta record signing Toure joins Parma for 2026-27",
   "player": "El Bilal Toure",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
   "fee": "£115M",
   "published": "2026-08-05T19:12:01+00:00"
- },
- {
-  "id": "b4f002c3c568",
-  "title": "Official: Roma loan Angelino to Deportivo La Coruna with purchase option",
-  "player": null,
-  "title_ko": "공식: 로마 임대 안젤리노를 데포르티보 라 코루냐로 구매 옵션 포함",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-roma-angelino-deportivo-la-coruna/",
-  "fee": null,
-  "published": "2026-08-05T19:11:30+00:00"
  }
 ]
