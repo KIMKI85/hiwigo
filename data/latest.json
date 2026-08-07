@@ -1,5 +1,18 @@
 [
  {
+  "id": "f0f9dc184eac",
+  "title": "Tottenham respond as Arsenal consider shock transfer for Spurs skipper Cristian Romero",
+  "player": "Cristian Romero",
+  "title_ko": "토트넘은 아스날이 토트넘의 주장 크리스티안 로메로의 충격 이적을 고려함에 따라 대응했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-arsenal-spurs-cristian-romero-37523726",
+  "fee": null,
+  "published": "2026-08-07T07:43:18+00:00"
+ },
+ {
   "id": "4559c73188ab",
   "title": "Rodri's agent drops transfer bombshell as Man City star decides future",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-08-05T12:00:00+00:00"
- },
- {
-  "id": "258409672e85",
-  "title": "Mercato: Monaco verrouille son joyau, Cabral prolonge jusqu’en 2031",
-  "player": "Pape Cabral",
-  "title_ko": "Mercato: Monaco는 보석을 잠그고 Cabral은 2031년까지 연장됩니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-monaco-verrouille-son-joyau-cabral-prolonge-jusqu-en-2031_AN-202608050322.html",
-  "fee": null,
-  "published": "2026-08-05T11:58:06+00:00"
  }
 ]
