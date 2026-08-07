@@ -1,5 +1,31 @@
 [
  {
+  "id": "742330fd33e0",
+  "title": "Man Utd contacted by Newcastle after launching Lewis Hall transfer enquiry",
+  "player": "Lewis Hall",
+  "title_ko": "맨유, 루이스 홀 이적 문의 개시 후 뉴캐슬로부터 연락",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-lewis-hall-37527246",
+  "fee": null,
+  "published": "2026-08-07T18:31:48+00:00"
+ },
+ {
+  "id": "2f004f14a8ff",
+  "title": "Read opens up on failed €28m Roma bid: ‘It could have gone either way’",
+  "player": "Givairo Read",
+  "title_ko": "실패한 2,800만 유로의 로마 입찰에 대한 읽기 시작: '어느 쪽이든 진행되었을 수 있습니다'",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/read-opens-up-on-failed-28m-roma-bid/",
+  "fee": "€28M",
+  "published": "2026-08-07T18:27:36+00:00"
+ },
+ {
   "id": "245e76b7a41a",
   "title": "\"La suite logique\", Gouiri prêt à devenir le serial buteur de l'OM (Entretien After Foot)",
   "player": "Entretien After Foot",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-de-transfert-du-6-aout-2026-en-live_LN-202608060092.html",
   "fee": null,
   "published": "2026-08-06T05:55:38+00:00"
- },
- {
-  "id": "214c8eadf6e2",
-  "title": "Transfer news LIVE: Vinicius Jr to Arsenal blow, Barcola 'agreement', Man Utd ready £60m bid",
-  "player": "Vinicius Jr",
-  "title_ko": "이적 소식 라이브: 비니시우스 주니어가 아스널에 타격을 입혔고, 바르콜라는 '합의', 맨유는 £60m 입찰 준비",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-vinicius-jr-37519314",
-  "fee": "£60M",
-  "published": "2026-08-06T05:52:46+00:00"
- },
- {
-  "id": "35e990eb582a",
-  "title": "Liverpool could lose TEN players for nothing as they fail to learn their transfer lesson",
-  "player": null,
-  "title_ko": "리버풀은 이적 교훈을 배우지 못해 10명의 선수를 잃을 수도 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-salah-konate-robertson-37515267",
-  "fee": null,
-  "published": "2026-08-06T05:30:00+00:00"
  }
 ]
