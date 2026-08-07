@@ -1,5 +1,18 @@
 [
  {
+  "id": "13579006b2bb",
+  "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
+  "player": "Bradley Barcola",
+  "title_ko": "PSG와 협상 후 리버풀 바르콜라 계약은 완료하기 어렵다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
+  "fee": null,
+  "published": "2026-08-07T18:00:00+00:00"
+ },
+ {
   "id": "3521c6289780",
   "title": "Arsenal could break unwanted transfer record as Mikel Arteta green lights two deals",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-al-ahli-a-tate-le-terrain-pour-didier-deschamps-qui-ne-devrait-pas-rejoindre-le-club_AV-202608050549.html",
   "fee": null,
   "published": "2026-08-05T22:29:44+00:00"
- },
- {
-  "id": "98508ca37146",
-  "title": "Vinicius Jr takes extreme measures amid Arsenal transfer interest and Real Madrid meeting",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어, 아스날 이적 관심과 레알 마드리드 회의 속에서 극단적인 조치",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/vinicius-jr-transfer-arsenal-instagram-37519024",
-  "fee": null,
-  "published": "2026-08-05T21:30:13+00:00"
  }
 ]
