@@ -1,5 +1,18 @@
 [
  {
+  "id": "93df9641fabc",
+  "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
+  "player": "Ed Aarons",
+  "title_ko": "맨체스터 시티는 협상이 계속되는 동안 로드리에게 바르셀로나의 £38.5m 제의를 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue",
+  "fee": "£38.5M",
+  "published": "2026-08-07T14:02:12+00:00"
+ },
+ {
   "id": "10071f2af1c4",
   "title": "Enzo Maresca wants Chelsea star to replace Rodri as Barcelona move advances",
   "player": "Enzo Maresca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/newcastle-zahlt-abloese-jaissle-wird-zehnter-deutscher-premier-league-trainer-1239831/artikel#omrss",
   "fee": null,
   "published": "2026-08-05T18:32:12+00:00"
- },
- {
-  "id": "c336d6ac14e9",
-  "title": "Real Madrid change Vinicius Jr stance as Arsenal transfer hopes suffer blow",
-  "player": "Vinicius Jr",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-real-madrid-37518426",
-  "fee": null,
-  "published": "2026-08-05T18:10:59+00:00"
  }
 ]
