@@ -1,5 +1,31 @@
 [
  {
+  "id": "d169d8a58dac",
+  "title": "Man City explore Fernandez move - Saturday's gossip",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티, 페르난데스 이적 탐색 - 토요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-07T21:07:46+00:00"
+ },
+ {
+  "id": "8780dcac2592",
+  "title": "Facundo Buonanotte, tercer fichaje del Elche",
+  "player": "Facundo Buonanotte",
+  "title_ko": "파쿤도 부오나노테, 엘체의 세 번째 영입",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/elche/2026/08/07/facundo-buonanotte-tercer-fichaje-elche.html",
+  "fee": null,
+  "published": "2026-08-07T21:04:47+00:00"
+ },
+ {
   "id": "e557ad701886",
   "title": "Gabriel Jesus' agent addresses Arsenal transfer exit after being spotted at rival club",
   "player": "Gabriel Jesus",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool",
   "fee": "£60M",
   "published": "2026-08-06T08:26:43+00:00"
- },
- {
-  "id": "1c3c1872d1d3",
-  "title": "La Liga sur DAZN et Disney+: un double deal inédit de diffusion TV du championnat espagnol en France",
-  "player": "After Foot",
-  "title_ko": "DAZN과 Disney+의 La Liga: 프랑스에서 열린 스페인 챔피언십 TV 방송에 대한 전례 없는 이중 거래",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/la-liga-sur-dazn-et-disney-un-double-deal-inedit-de-diffusion-tv-du-championnat-espagnol-en-france_AV-202608060187.html",
-  "fee": null,
-  "published": "2026-08-06T07:20:53+00:00"
- },
- {
-  "id": "7dc1266436f9",
-  "title": "Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
-  "player": "Alessia Russo",
-  "title_ko": "알레시아 루소: '클럽에 합류하면 아스날의 일부가 되고 사랑을 받게 됩니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/06/alessia-russo-arsenal-england-wsl-football-interview",
-  "fee": null,
-  "published": "2026-08-06T07:00:43+00:00"
  }
 ]

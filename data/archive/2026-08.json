@@ -1,5 +1,31 @@
 [
  {
+  "id": "d169d8a58dac",
+  "title": "Man City explore Fernandez move - Saturday's gossip",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티, 페르난데스 이적 탐색 - 토요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-07T21:07:46+00:00"
+ },
+ {
+  "id": "8780dcac2592",
+  "title": "Facundo Buonanotte, tercer fichaje del Elche",
+  "player": "Facundo Buonanotte",
+  "title_ko": "파쿤도 부오나노테, 엘체의 세 번째 영입",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/elche/2026/08/07/facundo-buonanotte-tercer-fichaje-elche.html",
+  "fee": null,
+  "published": "2026-08-07T21:04:47+00:00"
+ },
+ {
   "id": "e557ad701886",
   "title": "Gabriel Jesus' agent addresses Arsenal transfer exit after being spotted at rival club",
   "player": "Gabriel Jesus",
