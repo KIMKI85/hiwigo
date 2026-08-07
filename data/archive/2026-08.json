@@ -1,5 +1,31 @@
 [
  {
+  "id": "c62fbb1018fa",
+  "title": "Vertrag bis 2028: Schalke verpflichtet Dina Ebimbe",
+  "player": "Dina Ebimbe",
+  "title_ko": "2028년까지 계약: 샬케, 디나 에빔베 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/vertrag-bis-2028-schalke-verpflichtet-dina-ebimbe-1233857/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T08:04:55+00:00"
+ },
+ {
+  "id": "dac66c72f759",
+  "title": "Köln verpflichtet U-17-Europameister Neves von Benfica",
+  "player": "Europameister Neves",
+  "title_ko": "쾰른은 벤피카에서 U-17 유럽 챔피언 네베스를 영입했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/koeln-verpflichtet-u-17-europameister-neves-von-benfica-1241022/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T08:00:39+00:00"
+ },
+ {
   "id": "f0f9dc184eac",
   "title": "Tottenham respond as Arsenal consider shock transfer for Spurs skipper Cristian Romero",
   "player": "Cristian Romero",

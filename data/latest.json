@@ -1,5 +1,31 @@
 [
  {
+  "id": "c62fbb1018fa",
+  "title": "Vertrag bis 2028: Schalke verpflichtet Dina Ebimbe",
+  "player": "Dina Ebimbe",
+  "title_ko": "2028년까지 계약: 샬케, 디나 에빔베 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/vertrag-bis-2028-schalke-verpflichtet-dina-ebimbe-1233857/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T08:04:55+00:00"
+ },
+ {
+  "id": "dac66c72f759",
+  "title": "Köln verpflichtet U-17-Europameister Neves von Benfica",
+  "player": "Europameister Neves",
+  "title_ko": "쾰른은 벤피카에서 U-17 유럽 챔피언 네베스를 영입했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/koeln-verpflichtet-u-17-europameister-neves-von-benfica-1241022/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T08:00:39+00:00"
+ },
+ {
   "id": "f0f9dc184eac",
   "title": "Tottenham respond as Arsenal consider shock transfer for Spurs skipper Cristian Romero",
   "player": "Cristian Romero",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/psg-improve-suzuki-offer-formula-to-parma-35m/",
   "fee": "€35M",
   "published": "2026-08-05T12:50:19+00:00"
- },
- {
-  "id": "9e0fa0685fae",
-  "title": "Romero worry for Inter as Atletico Madrid can match €40m Tottenham deal",
-  "player": "Cristian Romero",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/romero-inter-atletico-madrid-tottenham-deal/",
-  "fee": "€40M",
-  "published": "2026-08-05T12:12:23+00:00"
- },
- {
-  "id": "1d39d4311e6e",
-  "title": "Ipswich latest: Fulham midfielder Lukic in advanced talks over move",
-  "player": null,
-  "title_ko": "입스위치 최신: 풀럼 미드필더 루키치, 이적에 대한 사전 논의 중",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-08-05T12:00:00+00:00"
  }
 ]
