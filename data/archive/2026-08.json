@@ -1,5 +1,44 @@
 [
  {
+  "id": "4559c73188ab",
+  "title": "Rodri's agent drops transfer bombshell as Man City star decides future",
+  "player": null,
+  "title_ko": "로드리의 에이전트는 맨시티 스타가 미래를 결정하자 이적 폭탄 선언을 했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-city-barcelona-real-madrid-37523635",
+  "fee": null,
+  "published": "2026-08-07T06:28:44+00:00"
+ },
+ {
+  "id": "e4666645b9ad",
+  "title": "Caldentey embraces 'cool' pressure as Arsenal target Treble",
+  "player": "Midfielder Mariona Caldentey",
+  "title_ko": "Caldentey는 Arsenal이 Treble을 목표로 '멋진'압박을 받아들였습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-07T06:27:36+00:00"
+ },
+ {
+  "id": "93df38d0da21",
+  "title": "Mercato : \"C'est un honneur de rejoindre le Paris Saint-Germain.\" Les premiers mots de Maghnes Akliouche après sa signature",
+  "player": "Maghnes Akliouche",
+  "title_ko": "메르카토: “파리 생제르맹에 합류하게 되어 영광입니다.” Maghnes Akliouche가 서명 후 첫마디",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-c-est-un-honneur-de-rejoindre-le-paris-saint-germain-les-premiers-mots-de-maghnes-akliouche-apres-sa-signature_VN-202608070131.html",
+  "fee": null,
+  "published": "2026-08-07T06:17:58+00:00"
+ },
+ {
   "id": "6f092eda9659",
   "title": "Liverpool were linked with World Cup winner and £53m star for ages but never signed them",
   "player": null,
