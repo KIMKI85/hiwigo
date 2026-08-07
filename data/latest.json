@@ -1,5 +1,18 @@
 [
  {
+  "id": "10071f2af1c4",
+  "title": "Enzo Maresca wants Chelsea star to replace Rodri as Barcelona move advances",
+  "player": "Enzo Maresca",
+  "title_ko": "엔조 마레스카는 바르셀로나 이적이 진전됨에 따라 로드리를 대체할 첼시 스타를 원한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-wants-chelsea-star-37526079",
+  "fee": null,
+  "published": "2026-08-07T13:52:57+00:00"
+ },
+ {
   "id": "05c8e6b44412",
   "title": "Arsenal star's gesture to Bruno Guimaraes ahead of £75m transfer comes to light",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-real-madrid-37518426",
   "fee": null,
   "published": "2026-08-05T18:10:59+00:00"
- },
- {
-  "id": "5ff4b82d9cfb",
-  "title": "Real Madrid make Vinicius Jr improved contract offer",
-  "player": "Vinicius Jr",
-  "title_ko": "레알 마드리드, 비니시우스 주니어에게 개선된 계약 제안 제안",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-05T17:59:01+00:00"
  }
 ]
