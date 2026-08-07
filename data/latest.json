@@ -1,5 +1,18 @@
 [
  {
+  "id": "27d02cc9de56",
+  "title": "Leihe mit Kaufoption: St. Pauli holt \"körperlich robusten\" Thordarson",
+  "player": "Zwei Tage",
+  "title_ko": "구매 옵션이 포함된 대출: St. Pauli는 \"물리적으로 견고한\" Thordarson을 데려왔습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-mit-kaufoption-st-pauli-holt-koerperlich-robusten-thordarson-1241377/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T09:24:32+00:00"
+ },
+ {
   "id": "dcb9caf91b95",
   "title": "Mercato: \"Coup de froid\", \"arrière-goût amer\"... le transfert avorté de Rodri au Real Madrid agite la presse espagnole",
   "player": "Yan Diomandé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
   "fee": null,
   "published": "2026-08-05T13:49:12+00:00"
- },
- {
-  "id": "09e2155236be",
-  "title": "Vinicius Jr final transfer decision imminent as Arsenal players 'think deal is done'",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 선수들이 '거래가 끝났다고 생각'하면서 비니시우스 주니어의 최종 이적 결정이 임박했습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-jr-arsenal-transfer-decision-37517206",
-  "fee": null,
-  "published": "2026-08-05T13:22:17+00:00"
  }
 ]
