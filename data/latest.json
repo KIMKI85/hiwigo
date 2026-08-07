@@ -1,5 +1,18 @@
 [
  {
+  "id": "05c8e6b44412",
+  "title": "Arsenal star's gesture to Bruno Guimaraes ahead of £75m transfer comes to light",
+  "player": "Bruno Guimaraes",
+  "title_ko": "£75m 이적을 앞두고 브루노 기마랑스에게 아스널 스타의 제스처가 밝혀졌다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-shirt-number-37525354",
+  "fee": "£75M",
+  "published": "2026-08-07T12:48:53+00:00"
+ },
+ {
   "id": "9e02c88e029d",
   "title": "Man City reject Barcelona's £38.5m bid for Rodri",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-05T17:59:01+00:00"
- },
- {
-  "id": "42d3ec3857c1",
-  "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
-  "player": "Teenager Monga",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-05T17:42:00+00:00"
  }
 ]
