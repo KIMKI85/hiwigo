@@ -1,5 +1,31 @@
 [
  {
+  "id": "c838c1c1020e",
+  "title": "Atletico in talks to sign Spurs captain Romero",
+  "player": "Cristian Romero",
+  "title_ko": "아틀레티코, 토트넘 주장 로메로 영입 논의 중",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest",
+  "fee": null,
+  "published": "2026-08-07T10:15:00+00:00"
+ },
+ {
+  "id": "ee5eeb2775fa",
+  "title": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
+  "player": "Cristian Romero",
+  "title_ko": "축구 이적 루머: 크리스티안 로메로가 스퍼스를 떠나 아스날로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter",
+  "fee": null,
+  "published": "2026-08-07T09:32:37+00:00"
+ },
+ {
   "id": "27d02cc9de56",
   "title": "Leihe mit Kaufoption: St. Pauli holt \"körperlich robusten\" Thordarson",
   "player": "Zwei Tage",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "c838c1c1020e",
+  "title": "Atletico in talks to sign Spurs captain Romero",
+  "player": "Cristian Romero",
+  "title_ko": "아틀레티코, 토트넘 주장 로메로 영입 논의 중",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest",
+  "fee": null,
+  "published": "2026-08-07T10:15:00+00:00"
+ },
+ {
+  "id": "ee5eeb2775fa",
+  "title": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
+  "player": "Cristian Romero",
+  "title_ko": "축구 이적 루머: 크리스티안 로메로가 스퍼스를 떠나 아스날로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter",
+  "fee": null,
+  "published": "2026-08-07T09:32:37+00:00"
+ },
+ {
   "id": "27d02cc9de56",
   "title": "Leihe mit Kaufoption: St. Pauli holt \"körperlich robusten\" Thordarson",
   "player": "Zwei Tage",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/done-deal-italy-talent-ruggeri-to-aston-villa/",
   "fee": "€18M",
   "published": "2026-08-05T13:57:25+00:00"
- },
- {
-  "id": "e32c655e958b",
-  "title": "19-year-old Southampton winger Jay Robinson set to join Monza in Serie A",
-  "player": "Jay Robinson",
-  "title_ko": "19세의 사우샘프턴 윙어 제이 로빈슨이 세리에 A의 몬자에 합류할 예정입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/southampton-robinson-set-to-join-monza-serie-a/",
-  "fee": null,
-  "published": "2026-08-05T13:51:45+00:00"
- },
- {
-  "id": "9d24bf4d8d67",
-  "title": "Transfer roundup: Coventry to make Yirenkyi new record signing, Crystal Palace to swoop for Gozo",
-  "player": "Caleb Yirenkyi",
-  "title_ko": "이적 정리: Coventry는 Yirenkyi의 새로운 레코드 계약을 맺고 Crystal Palace는 Gozo를 영입할 예정입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton",
-  "fee": null,
-  "published": "2026-08-05T13:49:12+00:00"
  }
 ]
