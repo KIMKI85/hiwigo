@@ -1,5 +1,18 @@
 [
  {
+  "id": "88cb372940dd",
+  "title": "Man Utd news: Marcus Rashford clause emerges as Barcelona transfer swoop causes issues",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 뉴스: 바르셀로나 이적 급증으로 인해 문제가 발생하면서 마커스 래시포드 조항이 등장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rashford-transfer-barcelona-37521703",
+  "fee": null,
+  "published": "2026-08-07T03:30:00+00:00"
+ },
+ {
   "id": "ba7466b11500",
   "title": "Arsenal news: Vinicius Jr agreement, Ezri Konsa twist, new Declan Rice issue",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13569945/pep-chavarria-chelsea-set-to-clinch-deal-to-sign-rayo-vallecano-left-back-for-initial-16-3m-fee-as-blues-seek-to-replace-marc-cucurella",
   "fee": null,
   "published": "2026-08-05T10:30:00+00:00"
- },
- {
-  "id": "97bc8333d441",
-  "title": "Vinicius Jr is a game-changing transfer that even non-Arsenal fans should want done",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어는 아스날 팬이 아닌 사람들도 꼭 하고 싶어하는 획기적인 이적입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-transfer-guimaraes-37515581",
-  "fee": null,
-  "published": "2026-08-05T10:25:00+00:00"
  }
 ]
