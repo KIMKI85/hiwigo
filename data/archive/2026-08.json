@@ -1,5 +1,31 @@
 [
  {
+  "id": "013552fe2fb2",
+  "title": "Official: Real Madrid talent Mastantuono joins Fiorentina",
+  "player": "Franco Mastantuono",
+  "title_ko": "공식: 레알 마드리드의 유망주 마스탄투오노가 피오렌티나에 합류했습니다.",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/real-madrid-star-mastantuono-joins-fiorentina/",
+  "fee": null,
+  "published": "2026-08-07T14:48:30+00:00"
+ },
+ {
+  "id": "67af62193821",
+  "title": "Leihe nach Florenz: Mastantuono verlässt Real vorerst",
+  "player": "Talent Franco Mastantuono",
+  "title_ko": "피렌체로의 임대: 마스탄투오노는 당분간 레알을 떠난다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-nach-florenz-mastantuono-verlaesst-real-vorerst-1240900/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T14:46:42+00:00"
+ },
+ {
   "id": "93df9641fabc",
   "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
   "player": "Ed Aarons",

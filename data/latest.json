@@ -1,5 +1,31 @@
 [
  {
+  "id": "013552fe2fb2",
+  "title": "Official: Real Madrid talent Mastantuono joins Fiorentina",
+  "player": "Franco Mastantuono",
+  "title_ko": "공식: 레알 마드리드의 유망주 마스탄투오노가 피오렌티나에 합류했습니다.",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/real-madrid-star-mastantuono-joins-fiorentina/",
+  "fee": null,
+  "published": "2026-08-07T14:48:30+00:00"
+ },
+ {
+  "id": "67af62193821",
+  "title": "Leihe nach Florenz: Mastantuono verlässt Real vorerst",
+  "player": "Talent Franco Mastantuono",
+  "title_ko": "피렌체로의 임대: 마스탄투오노는 당분간 레알을 떠난다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-nach-florenz-mastantuono-verlaesst-real-vorerst-1240900/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-07T14:46:42+00:00"
+ },
+ {
   "id": "93df9641fabc",
   "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
   "player": "Ed Aarons",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/switzerland-international-sow-arrives-genoa/",
   "fee": "€4M",
   "published": "2026-08-05T19:00:33+00:00"
- },
- {
-  "id": "f3e65ccbcb16",
-  "title": "El Celta ultima la cesión de Unai Núñez al Espanyol",
-  "player": "Unai Núñez",
-  "title_ko": "셀타는 우나이 누녜스의 에스파뇰 임대를 마무리했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/celta/2026/08/05/celta-ultima-cesion-unai-nunez-espanyol.html",
-  "fee": null,
-  "published": "2026-08-05T18:35:47+00:00"
- },
- {
-  "id": "3e1a0d14d18f",
-  "title": "Newcastle zahlt Ablöse: Jaissle wird zehnter deutscher Premier-League-Trainer",
-  "player": "Matthias Jaissle",
-  "title_ko": "뉴캐슬, 이적료 지불: Jaissle은 독일 프리미어리그의 10번째 감독이 되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/newcastle-zahlt-abloese-jaissle-wird-zehnter-deutscher-premier-league-trainer-1239831/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-05T18:32:12+00:00"
  }
 ]
