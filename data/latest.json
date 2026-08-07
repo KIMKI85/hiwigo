@@ -1,5 +1,18 @@
 [
  {
+  "id": "4954c5e465d9",
+  "title": "OM: \"Les 35 mouvements par mercato, ça existait avant mon arrivée\", Benatia règle ses comptes avec Longoria (et les joueurs)",
+  "player": "France Football",
+  "title_ko": "OM: “내가 도착하기 전에 이적 창당 35개의 움직임이 존재했습니다.” Benatia는 Longoria(및 선수들)와 거래를 정산합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-les-35-mouvements-par-mercato-ca-existait-avant-mon-arrivee-benatia-regle-ses-comptes-avec-longoria-et-les-joueurs_AV-202608070462.html",
+  "fee": null,
+  "published": "2026-08-07T19:15:06+00:00"
+ },
+ {
   "id": "fdddeae8a940",
   "title": "Asllanis Wechsel nach Leipzig überraschend geplatzt",
   "player": "Asllanis Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arteta-arsenal-transfer-bruno-guimaraes-37519309",
   "fee": null,
   "published": "2026-08-06T06:16:38+00:00"
- },
- {
-  "id": "df7b6b994271",
-  "title": "Coup für den FC: Nationalspielerin Hendrich wechselt nach Köln",
-  "player": "Nationalspielerin Hendrich",
-  "title_ko": "FC의 쿠데타: 국가대표 헨드리히가 쾰른으로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/coup-fuer-den-fc-nationalspielerin-hendrich-wechselt-nach-koeln-1240715/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-06T06:10:07+00:00"
  }
 ]
