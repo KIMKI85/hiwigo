@@ -13,6 +13,19 @@
   "published": "2026-08-07T10:15:00+00:00"
  },
  {
+  "id": "232d951c9dfd",
+  "title": "Dinamo Moscow launch surprise €15m bid for Lazio’s Ratkov",
+  "player": "Dinamo Moscow",
+  "title_ko": "디나모 모스크바는 라치오의 라트코프에게 1,500만 유로를 깜짝 제안했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/dinamo-moscow-launch-surprise-ratkov-lazio-bid/",
+  "fee": "€15M",
+  "published": "2026-08-07T09:45:00+00:00"
+ },
+ {
   "id": "ee5eeb2775fa",
   "title": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-derniere-proposition-du-real-madrid-a-vinicius-qui-ne-devrait-pas-s-en-satisfaire_AV-202608050385.html",
   "fee": null,
   "published": "2026-08-05T14:56:44+00:00"
- },
- {
-  "id": "d259dafefeb1",
-  "title": "Done Deal: Italy talent Ruggeri to Aston Villa for €18m plus €6m bonus",
-  "player": "Matteo Ruggeri",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-italy-talent-ruggeri-to-aston-villa/",
-  "fee": "€18M",
-  "published": "2026-08-05T13:57:25+00:00"
  }
 ]
