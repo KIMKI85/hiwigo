@@ -1,5 +1,31 @@
 [
  {
+  "id": "ef7428d99619",
+  "title": "Darwin Nunez has given thumbs up to Liverpool transfer as deal gets seal of approval",
+  "player": "Darwin Nunez",
+  "title_ko": "다윈 누네즈는 거래가 승인되자 리버풀 이적에 엄지손가락을 치켜세웠습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-darwin-nunez-transfer-signing-37528764",
+  "fee": null,
+  "published": "2026-08-08T15:02:25+00:00"
+ },
+ {
+  "id": "9b819ed71003",
+  "title": "Schmidt über Neuzugang Costly: \"Daran gearbeitet, Ablöse herunterzuspielen\"",
+  "player": "Neuzugang Costly",
+  "title_ko": "새로운 계약에 대한 슈미트 Costly : \"이적료를 낮추기 위해 노력했습니다\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/schmidt-ueber-neuzugang-costly-daran-gearbeitet-abloese-herunterzuspielen-1241684/video#omrss",
+  "fee": null,
+  "published": "2026-08-08T15:01:51+00:00"
+ },
+ {
   "id": "4bbd9ee03399",
   "title": "Cristian Romero faces furious backlash as Tottenham captain 'wants Arsenal transfer'",
   "player": "Cristian Romero",
@@ -635,6 +661,19 @@
   "url": "https://football-italia.net/gabriel-jesus-agent-spotted-at-napoli-training/",
   "fee": null,
   "published": "2026-08-07T17:51:33+00:00"
+ },
+ {
+  "id": "041b231eea13",
+  "title": "Liverpool target Mbaye scores for PSG vs Man Utd LIVE!",
+  "player": null,
+  "title_ko": "리버풀은 PSG 대 Man Utd의 Mbaye 득점을 목표로 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/live/555766",
+  "fee": null,
+  "published": "2026-08-07T17:47:00+00:00"
  },
  {
   "id": "880d43c2c5df",

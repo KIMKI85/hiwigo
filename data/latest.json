@@ -1,5 +1,31 @@
 [
  {
+  "id": "ef7428d99619",
+  "title": "Darwin Nunez has given thumbs up to Liverpool transfer as deal gets seal of approval",
+  "player": "Darwin Nunez",
+  "title_ko": "다윈 누네즈는 거래가 승인되자 리버풀 이적에 엄지손가락을 치켜세웠습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-darwin-nunez-transfer-signing-37528764",
+  "fee": null,
+  "published": "2026-08-08T15:02:25+00:00"
+ },
+ {
+  "id": "9b819ed71003",
+  "title": "Schmidt über Neuzugang Costly: \"Daran gearbeitet, Ablöse herunterzuspielen\"",
+  "player": "Neuzugang Costly",
+  "title_ko": "새로운 계약에 대한 슈미트 Costly : \"이적료를 낮추기 위해 노력했습니다\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/schmidt-ueber-neuzugang-costly-daran-gearbeitet-abloese-herunterzuspielen-1241684/video#omrss",
+  "fee": null,
+  "published": "2026-08-08T15:01:51+00:00"
+ },
+ {
   "id": "4bbd9ee03399",
   "title": "Cristian Romero faces furious backlash as Tottenham captain 'wants Arsenal transfer'",
   "player": "Cristian Romero",
@@ -637,6 +663,19 @@
   "published": "2026-08-07T17:51:33+00:00"
  },
  {
+  "id": "041b231eea13",
+  "title": "Liverpool target Mbaye scores for PSG vs Man Utd LIVE!",
+  "player": null,
+  "title_ko": "리버풀은 PSG 대 Man Utd의 Mbaye 득점을 목표로 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/live/555766",
+  "fee": null,
+  "published": "2026-08-07T17:47:00+00:00"
+ },
+ {
   "id": "880d43c2c5df",
   "title": "LIVE! Rösler wechselt doppelt - Winkler rutscht beim Abschluss weg",
   "player": "Am Freitagabend",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/real-madrid-talent-mastantuono-arrives-viola/",
   "fee": null,
   "published": "2026-08-06T17:55:04+00:00"
- },
- {
-  "id": "743a88789aaa",
-  "title": "Bologna targeting Piccoli to replace Castro after €35m Roma move",
-  "player": "Santiago Castro",
-  "title_ko": "3,500만 유로에 로마로 이적한 후 카스트로를 대신할 피콜리를 노리는 볼로냐",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bologna-targeting-piccoli-to-replace-castro/",
-  "fee": "€35M",
-  "published": "2026-08-06T17:36:05+00:00"
- },
- {
-  "id": "ee90b0b0d9cf",
-  "title": "Mercato: vers une nouvelle vente à l'OM, Facundo Medina en route vers le Bayer Leverkusen",
-  "player": "Facundo Medina",
-  "title_ko": "Mercato: OM에 대한 새로운 판매를 향해, 바이엘 레버쿠젠으로 가는 길에 Facundo Medina",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-vers-une-nouvelle-vente-a-l-om-facundo-medina-en-route-vers-le-bayer-leverkusen_AV-202608060486.html",
-  "fee": null,
-  "published": "2026-08-06T17:35:46+00:00"
- },
- {
-  "id": "9c8e90b347ef",
-  "title": "Vinicius Jr to Arsenal transfer saga reaches conclusion as Real Madrid star strikes agreement",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어와 아스날 이적설은 레알 마드리드 스타 파업 합의로 마무리됐다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-junior-arsenal-real-madrid-37522930",
-  "fee": null,
-  "published": "2026-08-06T17:24:02+00:00"
  }
 ]
