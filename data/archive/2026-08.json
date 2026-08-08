@@ -1,5 +1,31 @@
 [
  {
+  "id": "ff2de7d57c4d",
+  "title": "Lazio agree Benfica deal for Ivanović but Lens await player’s call",
+  "player": null,
+  "title_ko": "라치오는 이바노비치의 벤피카 계약에 동의했지만 랑스는 선수의 전화를 기다리고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-agree-benfica-deal-for-ivanovic/",
+  "fee": null,
+  "published": "2026-08-08T10:30:00+00:00"
+ },
+ {
+  "id": "9380d339e24a",
+  "title": "Real Madrid plan audacious move for Juventus midfielder Locatelli",
+  "player": "Manuel Locatelli",
+  "title_ko": "레알 마드리드는 유벤투스의 미드필더 로카텔리의 대담한 움직임을 계획하고 있다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/real-madrid-plan-audacious-juventus-locatelli/",
+  "fee": null,
+  "published": "2026-08-08T10:15:00+00:00"
+ },
+ {
   "id": "7057884d1c04",
   "title": "Kumbulla joins Rayo Vallecano as Pellegrini extends with Roma and Cristante plays down Dybala row",
   "player": "Marash Kumbulla",
