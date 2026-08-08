@@ -1,5 +1,18 @@
 [
  {
+  "id": "a627752dc232",
+  "title": "Liverpool agree shock deal for Barcelona star as Andoni Iraola gets transfer wish",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀은 안도니 이라올라가 이적 희망을 얻자 바르셀로나 스타에 대한 충격적인 거래에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-barcelona-ronald-araujo-loan-37527813",
+  "fee": null,
+  "published": "2026-08-08T06:56:05+00:00"
+ },
+ {
   "id": "10f6054ef07f",
   "title": "Mercato: Ronald Araujo fonce en prêt à Liverpool après avoir prolongé avec Barcelone la saison dernière",
   "player": "Ronald Araujo",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-open-to-koopmeiners-loan-kessie/",
   "fee": null,
   "published": "2026-08-06T12:02:38+00:00"
- },
- {
-  "id": "10a39a2fd86e",
-  "title": "Torino close on Perri as Leeds seal Trafford deal",
-  "player": "Lucas Perri",
-  "title_ko": "토리노는 리즈가 트래포드와 계약을 체결함에 따라 페리와 계약을 마감했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/torino-close-on-perri-as-leeds-trafford-deal/",
-  "fee": null,
-  "published": "2026-08-06T11:53:00+00:00"
  }
 ]
