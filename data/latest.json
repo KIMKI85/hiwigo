@@ -1,5 +1,18 @@
 [
  {
+  "id": "10f6054ef07f",
+  "title": "Mercato: Ronald Araujo fonce en prêt à Liverpool après avoir prolongé avec Barcelone la saison dernière",
+  "player": "Ronald Araujo",
+  "title_ko": "메르카토: 로날드 아라우조는 지난 시즌 바르셀로나와 연장한 후 리버풀로 임대됩니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ronald-araujo-fonce-en-pret-a-liverpool-apres-avoir-prolonge-avec-barcelone-la-saison-derniere_AV-202608080069.html",
+  "fee": null,
+  "published": "2026-08-08T06:15:08+00:00"
+ },
+ {
   "id": "85f9e508ee67",
   "title": "Man City agree deal to sign Marseille keeper Rulli",
   "player": "Geronimo Rulli",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/torino-close-on-perri-as-leeds-trafford-deal/",
   "fee": null,
   "published": "2026-08-06T11:53:00+00:00"
- },
- {
-  "id": "1ef36ca50645",
-  "title": "La fin d'un des feuilletons du mercato: Yan Diomandé est bien en route pour le Real Madrid",
-  "player": "Yan Diomandé",
-  "title_ko": "이적 시장 시리즈의 끝: 얀 디오만데가 레알 마드리드로 향하고 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/la-fin-d-un-des-feuilletons-du-mercato-yan-diomande-est-bien-en-route-pour-le-real-madrid_AV-202608060303.html",
-  "fee": null,
-  "published": "2026-08-06T11:21:22+00:00"
  }
 ]
