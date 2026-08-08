@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c23530753f9",
+  "title": "Man Utd stars give Michael Carrick food for thought in PSG draw as transfer dilemma grows",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 스타들은 이적 딜레마가 커짐에 따라 PSG 추첨에서 마이클 캐릭에게 생각할 거리를 제공합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-psg-michael-carrick-37529078",
+  "fee": null,
+  "published": "2026-08-08T16:55:51+00:00"
+ },
+ {
   "id": "2c0e587498e1",
   "title": "Cuadrado: ‘I did not betray Juventus, they broke promise, so I joined Inter’",
   "player": "Juan Cuadrado",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-fin-du-suspense-vinicius-jr-prolonge-au-real-madrid-jusqu-en-2032-avec-un-contrat-xxl_AV-202608060505.html",
   "fee": null,
   "published": "2026-08-06T18:41:51+00:00"
- },
- {
-  "id": "2720687b9709",
-  "title": "Trafford joins Leeds from Man City in potential £45m deal",
-  "player": "James Trafford",
-  "title_ko": "Trafford는 £ 45m 계약으로 Man City에서 Leeds에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss",
-  "fee": "£45M",
-  "published": "2026-08-06T18:04:21+00:00"
  }
 ]
