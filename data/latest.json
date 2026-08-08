@@ -1,5 +1,18 @@
 [
  {
+  "id": "8b8a54ae2c01",
+  "title": "Official: Pellegrini signs new contract with Roma to June 2027",
+  "player": "Lorenzo Pellegrini",
+  "title_ko": "공식: 펠레그리니는 로마와 2027년 6월까지 재계약을 체결했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-pellegrini-signs-new-contract-roma/",
+  "fee": null,
+  "published": "2026-08-08T12:10:33+00:00"
+ },
+ {
   "id": "7166aec6506b",
   "title": "PSG ready to up Suzuki bid as Juventus hopes hang in balance",
   "player": "Zion Suzuki",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer",
   "fee": "£75M",
   "published": "2026-08-08T12:00:00+00:00"
+ },
+ {
+  "id": "e19863cca9dc",
+  "title": "Bruno Guimaraes reveals private Declan Rice message after sealing Arsenal transfer",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스는 아스날 이적을 확정한 후 개인 데클란 라이스의 메시지를 공개했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/bruno-guimaraes-declan-rice-arsenal-37528368",
+  "fee": null,
+  "published": "2026-08-08T11:57:00+00:00"
  },
  {
   "id": "8ec464529998",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-djed-spence-transfer-tottenham-37522572",
   "fee": null,
   "published": "2026-08-06T15:45:37+00:00"
- },
- {
-  "id": "174bba2684e3",
-  "title": "Diomandé détrône Bellingham comme transfert le plus cher du Real Madrid",
-  "player": null,
-  "title_ko": "디오망데, 벨링엄 제치고 레알 마드리드 역대 최고 이적료 기록",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-diomande-detrone-bellingham-comme-transfert-le-plus-cher-du-real-madrid_VN-202608060389.html",
-  "fee": null,
-  "published": "2026-08-06T15:04:57+00:00"
- },
- {
-  "id": "190c261300c0",
-  "title": "Real Madrid agree deal for Diomande",
-  "player": "Yan Diomande",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
-  "fee": null,
-  "published": "2026-08-06T15:00:00+00:00"
  }
 ]
