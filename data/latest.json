@@ -1,5 +1,18 @@
 [
  {
+  "id": "4bbd9ee03399",
+  "title": "Cristian Romero faces furious backlash as Tottenham captain 'wants Arsenal transfer'",
+  "player": "Cristian Romero",
+  "title_ko": "크리스티안 로메로, 토트넘 주장 '아스날 이적 원해' 거센 반발에 직면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tottenham-cristian-romero-future-37528784",
+  "fee": null,
+  "published": "2026-08-08T14:56:37+00:00"
+ },
+ {
   "id": "fc28dd36f3da",
   "title": "Mercato: \"Je pense que la situation est claire\": Diego Simeone répète que Julian Alvarez n'est pas à vendre",
   "player": "Diego Simeone",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-junior-arsenal-real-madrid-37522930",
   "fee": null,
   "published": "2026-08-06T17:24:02+00:00"
- },
- {
-  "id": "74079eb4d22c",
-  "title": "Berichte: Medina vor Wechsel zu Bayer",
-  "player": "Facundo Medina",
-  "title_ko": "보고서: 바이엘로 이적하기 전 메디나",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/berichte-medina-vor-wechsel-zu-bayer-1241257/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-06T17:17:54+00:00"
  }
 ]
