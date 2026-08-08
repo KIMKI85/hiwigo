@@ -1,5 +1,18 @@
 [
  {
+  "id": "44d5a406ff21",
+  "title": "Mercato: tout juste parti de Bordeaux, Rio Mavuba devrait rebondir à Lille",
+  "player": "Rio Mavuba",
+  "title_ko": "Mercato: 방금 보르도를 떠났고 Rio Mavuba는 릴에서 다시 돌아올 것입니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-tout-juste-parti-de-bordeaux-rio-mavuba-devrait-rebondir-a-lille_AV-202608080175.html",
+  "fee": null,
+  "published": "2026-08-08T12:38:09+00:00"
+ },
+ {
   "id": "8b8a54ae2c01",
   "title": "Official: Pellegrini signs new contract with Roma to June 2027",
   "player": "Lorenzo Pellegrini",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570426/rodri-transfer-news-barcelona-target-man-city-and-spain-star-wanted-by-real-madrid",
   "fee": null,
   "published": "2026-08-06T16:14:00+00:00"
- },
- {
-  "id": "88435d252e07",
-  "title": "Doku's new deal, Gonzalez to stay - what's latest on Man City transfers?",
-  "player": "Winger Jeremy Doku",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c62qv47wdl0o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-06T16:00:25+00:00"
  }
 ]
