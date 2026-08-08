@@ -1,5 +1,18 @@
 [
  {
+  "id": "9a83ea57c79c",
+  "title": "El órdago de Chema Aragón deja a punto el fichaje de Agirrezabala",
+  "player": "Chema Aragón",
+  "title_ko": "케마 아라곤의 결정으로 아기레사발라의 영입이 준비되었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/racing-santander/2026/08/08/ordago-chema-aragon-deja-punto-fichaje-agirrezabala.html",
+  "fee": null,
+  "published": "2026-08-08T13:12:51+00:00"
+ },
+ {
   "id": "f8f551a093f3",
   "title": "Ipswich sign midfielder Lukic from Fulham",
   "player": "Sasa Lukic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/atalanta-interested-in-como-winger-diao/",
   "fee": null,
   "published": "2026-08-06T16:37:01+00:00"
- },
- {
-  "id": "78f120331256",
-  "title": "Arsenal given green light to sign £30m striker after Vinicius Jr transfer update",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 비니시우스 주니어 이적 업데이트 후 £30m 스트라이커 영입에 승인을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-shakhtar-vini-jr-37522623",
-  "fee": "£30M",
-  "published": "2026-08-06T16:31:31+00:00"
  }
 ]
