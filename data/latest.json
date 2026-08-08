@@ -1,5 +1,18 @@
 [
  {
+  "id": "a12c786ce73b",
+  "title": "Juventus press on for Lucumí with Cabal offered to unlock Bologna deal",
+  "player": "Jhon Lucumí",
+  "title_ko": "유벤투스는 카발과 함께 볼로냐 계약을 성사시키겠다고 제안하면서 루쿠미를 압박하고 있습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-press-on-for-lucumi-with-cabal/",
+  "fee": null,
+  "published": "2026-08-08T10:45:00+00:00"
+ },
+ {
   "id": "ff2de7d57c4d",
   "title": "Lazio agree Benfica deal for Ivanović but Lens await player’s call",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers",
   "fee": null,
   "published": "2026-08-06T13:03:45+00:00"
- },
- {
-  "id": "4bf0981cde2c",
-  "title": "7 transfer targets Arsenal could miss out on with Vinicius Jr set to stay at Real Madrid",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어가 레알 마드리드에 남을 예정이어서 아스날이 놓칠 수 있는 7개의 이적 목표",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-vinicius-jr-diomande-37521274",
-  "fee": null,
-  "published": "2026-08-06T12:54:48+00:00"
  }
 ]
