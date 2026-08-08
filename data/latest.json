@@ -1,5 +1,18 @@
 [
  {
+  "id": "7166aec6506b",
+  "title": "PSG ready to up Suzuki bid as Juventus hopes hang in balance",
+  "player": "Zion Suzuki",
+  "title_ko": "유벤투스가 균형을 유지하기를 바라면서 PSG는 스즈키 입찰을 준비했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-ready-to-up-suzuki-bid-as-juventus/",
+  "fee": null,
+  "published": "2026-08-08T12:00:00+00:00"
+ },
+ {
   "id": "e554f4208c53",
   "title": "'I'm your warrior' - Guimaraes moves to Arsenal from Newcastle for £75m",
   "player": "Bruno Guimaraes",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer",
   "fee": "£75M",
   "published": "2026-08-08T12:00:00+00:00"
+ },
+ {
+  "id": "8ec464529998",
+  "title": "Newcastles Aderlass geht weiter: Arsenal verpflichtet Bruno Guimaraes",
+  "player": "Newcastles Aderlass",
+  "title_ko": "뉴캐슬의 유혈 사태는 계속된다: 아스날이 브루노 기마랑이스를 영입하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/newcastles-aderlass-geht-weiter-arsenal-verpflichtet-bruno-guimaraes-1240836/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-08T11:53:53+00:00"
  },
  {
   "id": "a739967e5409",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig",
   "fee": null,
   "published": "2026-08-06T15:00:00+00:00"
- },
- {
-  "id": "5d26180c3d11",
-  "title": "Real Madrid sign Diomande from RB Leipzig",
-  "player": "Ivory Coast",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-06T14:16:18+00:00"
- },
- {
-  "id": "b1e3ca2ad033",
-  "title": "Diomandé rejoint le Real Madrid et devient la recrue la plus chère de l'histoire du club",
-  "player": null,
-  "title_ko": "디오망데는 레알 마드리드에 합류해 클럽 역사상 가장 비싼 계약을 맺었다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-diomande-rejoint-le-real-madrid-et-devient-la-recrue-la-plus-chere-de-l-histoire-du-club_VN-202608060365.html",
-  "fee": null,
-  "published": "2026-08-06T14:11:03+00:00"
  }
 ]
