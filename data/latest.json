@@ -1,5 +1,18 @@
 [
  {
+  "id": "e74bdfdb6222",
+  "title": "Arsenal line up £85m Vinicius Jr alternative but immediately hit by transfer issue",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날은 8500만 파운드의 비니시우스 주니어 대체 선수를 라인업했지만 즉시 이적 문제로 타격을 입었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-vinicius-junior-yildiz-37529227",
+  "fee": "£85M",
+  "published": "2026-08-08T18:41:04+00:00"
+ },
+ {
   "id": "9c23530753f9",
   "title": "Man Utd stars give Michael Carrick food for thought in PSG draw as transfer dilemma grows",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-como-sign-couto-borussia-dortmund/",
   "fee": null,
   "published": "2026-08-06T18:46:55+00:00"
- },
- {
-  "id": "19cc32648201",
-  "title": "Mercato: fin du suspense, Vinicius Jr prolonge au Real Madrid jusqu'en 2032 avec un contrat XXL",
-  "player": "Vinicius Jr",
-  "title_ko": "메르카토: 서스펜스 종료, 비니시우스 주니어는 XXL 계약으로 2032년까지 레알 마드리드에서 연장",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-fin-du-suspense-vinicius-jr-prolonge-au-real-madrid-jusqu-en-2032-avec-un-contrat-xxl_AV-202608060505.html",
-  "fee": null,
-  "published": "2026-08-06T18:41:51+00:00"
  }
 ]
