@@ -1,5 +1,18 @@
 [
  {
+  "id": "b334b03f7da4",
+  "title": "PSG boss Luis Enrique exposed new Liverpool signing Ronald Araujo in brutal clip",
+  "player": "Luis Enrique",
+  "title_ko": "PSG의 루이스 엔리케 감독은 리버풀의 새로운 영입 로날드 아라우호를 잔인한 영상으로 폭로했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/psg-enrique-liverpool-araujo-barcelona-37528144",
+  "fee": null,
+  "published": "2026-08-08T13:40:09+00:00"
+ },
+ {
   "id": "9a83ea57c79c",
   "title": "El órdago de Chema Aragón deja a punto el fichaje de Agirrezabala",
   "player": "Chema Aragón",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/mohamed-salah-liverpool-trabzonspor-nunez-37522503",
   "fee": null,
   "published": "2026-08-06T17:16:04+00:00"
- },
- {
-  "id": "753965d20561",
-  "title": "Mercato: Maghnes Akliouche au PSG, c'est officiel, Paris tient sa première grosse recrue de l'été",
-  "player": "Maghnes Akliouche",
-  "title_ko": "Mercato: PSG의 Maghnes Akliouche, 공식적으로, 파리는 여름에 첫 대규모 영입을 했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-maghnes-akliouche-au-psg-c-est-officilel-paris-tient-sa-premiere-grosse-recrue-de-l-ete_AV-202608060474.html",
-  "fee": null,
-  "published": "2026-08-06T17:11:49+00:00"
  }
 ]
