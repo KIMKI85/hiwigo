@@ -1,5 +1,18 @@
 [
  {
+  "id": "5ea2f00a1c1d",
+  "title": "Man Utd have got go ahead from £255million transfer targets for summer moves",
+  "player": null,
+  "title_ko": "맨유는 여름 이적을 위해 £255m 이적 목표를 달성했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-targets-signings-37525693",
+  "fee": "£255M",
+  "published": "2026-08-08T04:45:00+00:00"
+ },
+ {
   "id": "ab7285ec8cf6",
   "title": "'I signed five-year deal at Arsenal and left after six months – I didn't trust manager's plan'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-join-napoli-and-bournemouth-embolo/",
   "fee": null,
   "published": "2026-08-06T10:55:00+00:00"
- },
- {
-  "id": "b995b5abff8e",
-  "title": "Newcastle's embarrassing starting XI for first match of season if Lewis Hall joins Man Utd",
-  "player": "Lewis Hall",
-  "title_ko": "루이스 홀이 맨유에 합류하면 시즌 첫 경기에 나서는 뉴캐슬의 당혹스러운 선발 XI",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/newcastle-starting-xi-liverpool-jaissle-37519591",
-  "fee": null,
-  "published": "2026-08-06T10:49:49+00:00"
  }
 ]
