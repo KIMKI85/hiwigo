@@ -1,5 +1,18 @@
 [
  {
+  "id": "f8f551a093f3",
+  "title": "Ipswich sign midfielder Lukic from Fulham",
+  "player": "Sasa Lukic",
+  "title_ko": "풀럼의 입스위치 영입 미드필더 루키치",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c2lqg5jdjn0o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-08T12:43:31+00:00"
+ },
+ {
   "id": "44d5a406ff21",
   "title": "Mercato: tout juste parti de Bordeaux, Rio Mavuba devrait rebondir à Lille",
   "player": "Rio Mavuba",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-shakhtar-vini-jr-37522623",
   "fee": "£30M",
   "published": "2026-08-06T16:31:31+00:00"
- },
- {
-  "id": "5ff3565abd32",
-  "title": "Barcelona join Real Madrid in race for Man City's Rodri",
-  "player": "City's Rodri",
-  "title_ko": "바르셀로나는 맨시티의 로드리 영입 경쟁에서 레알 마드리드와 합류했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13570426/rodri-transfer-news-barcelona-target-man-city-and-spain-star-wanted-by-real-madrid",
-  "fee": null,
-  "published": "2026-08-06T16:14:00+00:00"
  }
 ]
