@@ -1,5 +1,18 @@
 [
  {
+  "id": "2c0e587498e1",
+  "title": "Cuadrado: ‘I did not betray Juventus, they broke promise, so I joined Inter’",
+  "player": "Juan Cuadrado",
+  "title_ko": "콰드라도: '나는 유벤투스를 배신한 것이 아니다. 그들이 약속을 어겨 인테르에 입단했다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/cuadrado-i-did-not-betray-juventus-inter/",
+  "fee": null,
+  "published": "2026-08-08T16:45:43+00:00"
+ },
+ {
   "id": "845f1f9b08a3",
   "title": "Keine Rückennummer und geplatzter Wechsel: Wie geht es für Füllkrug weiter?",
   "player": "Keine Rückennummer",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss",
   "fee": "£45M",
   "published": "2026-08-06T18:04:21+00:00"
- },
- {
-  "id": "db182eb3b956",
-  "title": "Vinicius Jr and Real Madrid agree new six-year deal",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어와 레알 마드리드가 6년 재계약에 합의했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-06T17:58:41+00:00"
  }
 ]
