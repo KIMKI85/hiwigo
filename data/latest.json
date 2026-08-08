@@ -1,5 +1,18 @@
 [
  {
+  "id": "85f9e508ee67",
+  "title": "Man City agree deal to sign Marseille keeper Rulli",
+  "player": "Geronimo Rulli",
+  "title_ko": "맨시티, 마르세유 골키퍼 룰리 영입 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-08T06:00:37+00:00"
+ },
+ {
   "id": "647d46162976",
   "title": "Liverpool star refused to go on pre-season tour with £49m transfer forced through",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/la-fin-d-un-des-feuilletons-du-mercato-yan-diomande-est-bien-en-route-pour-le-real-madrid_AV-202608060303.html",
   "fee": null,
   "published": "2026-08-06T11:21:22+00:00"
- },
- {
-  "id": "3a5eb9e7763b",
-  "title": "Barcelona join Real Madrid in race to sign Rodri as Man City's transfer stance becomes clear",
-  "player": null,
-  "title_ko": "맨시티의 이적 입장이 명확해지면서 바르셀로나는 레알 마드리드와 함께 로드리 영입 경쟁에 나섰다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-real-madrid-rodri-transfer-37520668",
-  "fee": null,
-  "published": "2026-08-06T11:18:33+00:00"
  }
 ]
