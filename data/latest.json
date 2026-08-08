@@ -1,5 +1,18 @@
 [
  {
+  "id": "647d46162976",
+  "title": "Liverpool star refused to go on pre-season tour with £49m transfer forced through",
+  "player": null,
+  "title_ko": "리버풀 스타는 £49m 이적을 강제하면서 프리시즌 투어 참가를 거부했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-pre-season-tour-transfer-37509425",
+  "fee": "£49M",
+  "published": "2026-08-08T05:30:00+00:00"
+ },
+ {
   "id": "5ea2f00a1c1d",
   "title": "Man Utd have got go ahead from £255million transfer targets for summer moves",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-real-madrid-rodri-transfer-37520668",
   "fee": null,
   "published": "2026-08-06T11:18:33+00:00"
- },
- {
-  "id": "d6a1f971d57a",
-  "title": "Milan join Napoli and Bournemouth in race for Rennes striker Embolo",
-  "player": "Breel Embolo",
-  "title_ko": "밀란은 나폴리, 본머스와 함께 렌의 스트라이커 엠볼로를 영입하기 위해 경쟁하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-join-napoli-and-bournemouth-embolo/",
-  "fee": null,
-  "published": "2026-08-06T10:55:00+00:00"
  }
 ]
