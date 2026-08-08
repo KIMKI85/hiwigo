@@ -1,5 +1,18 @@
 [
  {
+  "id": "845f1f9b08a3",
+  "title": "Keine Rückennummer und geplatzter Wechsel: Wie geht es für Füllkrug weiter?",
+  "player": "Keine Rückennummer",
+  "title_ko": "셔츠 번호가 없고 변경 실패: Füllkrug의 다음 단계는 무엇입니까?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/keine-rueckennummer-und-geplatzter-wechsel-wie-geht-es-fuer-fuellkrug-weiter-1241696/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-08T16:39:55+00:00"
+ },
+ {
   "id": "ef7428d99619",
   "title": "Darwin Nunez has given thumbs up to Liverpool transfer as deal gets seal of approval",
   "player": "Darwin Nunez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-06T17:58:41+00:00"
- },
- {
-  "id": "83b4c75540fa",
-  "title": "Video: Real Madrid talent Mastantuono gets hero’s welcome ahead of Fiorentina move",
-  "player": "Franco Mastantuono",
-  "title_ko": "비디오: 레알 마드리드의 유망주 마스탄투오노가 피오렌티나 이적을 앞두고 영웅적인 환영을 받았습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/real-madrid-talent-mastantuono-arrives-viola/",
-  "fee": null,
-  "published": "2026-08-06T17:55:04+00:00"
  }
 ]
