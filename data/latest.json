@@ -65,6 +65,19 @@
   "published": "2026-08-08T11:53:53+00:00"
  },
  {
+  "id": "5fce21d47766",
+  "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+  "player": "Bruno Guimarães",
+  "title_ko": "데이터에 따르면 브루노 기마랑스의 거래는 아스날의 또 다른 세트피스 대작이 될 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke",
+  "fee": null,
+  "published": "2026-08-08T11:22:32+00:00"
+ },
+ {
   "id": "a739967e5409",
   "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
   "player": "Watch Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c62qv47wdl0o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-06T16:00:25+00:00"
- },
- {
-  "id": "25bdabedc813",
-  "title": "Liverpool's firm stance on Djed Spence transfer as Reds battle defensive injury crisis",
-  "player": "Djed Spence",
-  "title_ko": "수비 부상 위기에 직면한 리버풀의 제드 스펜스 이적에 대한 리버풀의 확고한 입장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-djed-spence-transfer-tottenham-37522572",
-  "fee": null,
-  "published": "2026-08-06T15:45:37+00:00"
  }
 ]
