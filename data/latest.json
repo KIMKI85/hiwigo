@@ -1,5 +1,18 @@
 [
  {
+  "id": "3360f069ef96",
+  "title": "Jamie Carragher admits Liverpool transfer 'worry' and issues Man Utd warning",
+  "player": "Jamie Carragher",
+  "title_ko": "제이미 캐러거, 리버풀 이적에 '걱정' 인정하고 맨유 경고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jamie-carragher-liverpool-manchester-united-37527933",
+  "fee": null,
+  "published": "2026-08-08T08:45:10+00:00"
+ },
+ {
   "id": "a627752dc232",
   "title": "Liverpool agree shock deal for Barcelona star as Andoni Iraola gets transfer wish",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/wechsel-in-kiel-meffert-uebernimmt-binde-von-skrzybski-1241190/artikel#omrss",
   "fee": null,
   "published": "2026-08-06T12:15:00+00:00"
- },
- {
-  "id": "34847be9c5c6",
-  "title": "Juventus open to Koopmeiners loan to make room for Kessié",
-  "player": "Teun Koopmeiners",
-  "title_ko": "유벤투스는 케시에의 자리를 마련하기 위해 쿠프마이너스 임대를 제안합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-open-to-koopmeiners-loan-kessie/",
-  "fee": null,
-  "published": "2026-08-06T12:02:38+00:00"
  }
 ]
