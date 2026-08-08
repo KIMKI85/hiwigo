@@ -1,5 +1,18 @@
 [
  {
+  "id": "fe4abb0b595a",
+  "title": "Barca make second bid for Rodri - Sunday's gossip",
+  "player": "Cristian Romero",
+  "title_ko": "바르샤가 로드리에게 두 번째 제의를 했다 - 일요일의 가십",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-08T20:37:28+00:00"
+ },
+ {
   "id": "f3492680d259",
   "title": "Former Premier League star punished under new rule days after completing £20m transfer",
   "player": "Will Lankshear",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-malo-gusto-vers-un-depart-de-chelsea-cet-ete_AN-202608060534.html",
   "fee": null,
   "published": "2026-08-06T20:20:04+00:00"
- },
- {
-  "id": "e2f0a24da124",
-  "title": "Man Utd finally announce sixth summer transfer as statement confirms next steps",
-  "player": null,
-  "title_ko": "맨유는 성명을 통해 다음 단계를 확인하면서 마침내 6번째 여름 이적을 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-new-signing-transfer-37523081",
-  "fee": null,
-  "published": "2026-08-06T19:32:01+00:00"
  }
 ]
