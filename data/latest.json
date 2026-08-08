@@ -1,5 +1,31 @@
 [
  {
+  "id": "56fba4125fcd",
+  "title": "Four left-backs Man Utd can sign after Newcastle block Lewis Hall transfer move",
+  "player": "Lewis Hall",
+  "title_ko": "뉴캐슬 블록 루이스 홀 이적 이적 후 4명의 레프트백 맨유가 계약할 수 있음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/man-utd-transfers-hall-alternatives-37528130",
+  "fee": null,
+  "published": "2026-08-08T10:47:25+00:00"
+ },
+ {
+  "id": "9202efc7fa04",
+  "title": "Ferran Torres, Hojbjerg, Paredes… les 5 infos mercato du 8 août à midi",
+  "player": "Ferran Torres",
+  "title_ko": "페란 토레스, 호이비에르, 파레데스…8월 8일 정오 5시 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-ferran-torres-hojbjerg-paredes-les-5-infos-mercato-du-8-aout-a-midi_VN-202608080151.html",
+  "fee": null,
+  "published": "2026-08-08T10:45:34+00:00"
+ },
+ {
   "id": "a12c786ce73b",
   "title": "Juventus press on for Lucumí with Cabal offered to unlock Bologna deal",
   "player": "Jhon Lucumí",
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/juventus-press-on-for-lucumi-with-cabal/",
   "fee": null,
   "published": "2026-08-08T10:45:00+00:00"
+ },
+ {
+  "id": "47042f7c403a",
+  "title": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
+  "player": "Ronald Araújo",
+  "title_ko": "리버풀은 바르셀로나의 로날드 아라우호를 자케 커버로 임대 영입하기로 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer",
+  "fee": null,
+  "published": "2026-08-08T10:44:10+00:00"
  },
  {
   "id": "ff2de7d57c4d",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-prefere-le-barca-au-real_AV-202608060348.html",
   "fee": null,
   "published": "2026-08-06T13:36:57+00:00"
- },
- {
-  "id": "03d47481ae92",
-  "title": "Bournemouth sign Spanish right-back Juanlu",
-  "player": "Juanlu Sanchez",
-  "title_ko": "본머스가 스페인의 라이트백 후안루를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cly91exewj2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-06T13:33:13+00:00"
- },
- {
-  "id": "53f8b18e80eb",
-  "title": "Transfer latest: Are Inter the only Serie A title contenders? Will Leao stay at Milan?",
-  "player": "Will Leao",
-  "title_ko": "최신 이적: 인테르가 유일한 세리에 A 타이틀 경쟁자인가? 레오는 밀라노에 남을 것인가?",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/transfer-latest-are-inter-the-only-contenders/",
-  "fee": null,
-  "published": "2026-08-06T13:30:33+00:00"
- },
- {
-  "id": "b96464d522b4",
-  "title": "Barcelona ready to move for Rodri but Alvarez deal remains stalled",
-  "player": "Julián Alvarez",
-  "title_ko": "바르셀로나는 로드리에게 이적할 준비가 되어 있지만 알바레즈의 거래는 여전히 정체 상태입니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers",
-  "fee": null,
-  "published": "2026-08-06T13:03:45+00:00"
  }
 ]
