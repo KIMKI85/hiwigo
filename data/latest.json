@@ -1,5 +1,18 @@
 [
  {
+  "id": "701488a53195",
+  "title": "Done Deals: Frosinone secure Terzic, Schmid and Grillitsch agreements",
+  "player": "Newly-promoted Frosinone",
+  "title_ko": "거래 완료: Frosinone, Terzic, Schmid 및 Grillitsch 계약 확보",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deals-frosinone-terzic-schmid-grillitsch/",
+  "fee": null,
+  "published": "2026-08-09T15:55:37+00:00"
+ },
+ {
   "id": "6f5bac82cb76",
   "title": "Molina schedule for Roma medical test and contract on August 10",
   "player": "Nahuel Molina",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/atalanta-record-signing-toure-joins-parma/",
   "fee": null,
   "published": "2026-08-07T14:59:10+00:00"
- },
- {
-  "id": "013552fe2fb2",
-  "title": "Official: Real Madrid talent Mastantuono joins Fiorentina",
-  "player": "Franco Mastantuono",
-  "title_ko": "공식: 레알 마드리드의 유망주 마스탄투오노가 피오렌티나에 합류했습니다.",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/real-madrid-star-mastantuono-joins-fiorentina/",
-  "fee": null,
-  "published": "2026-08-07T14:48:30+00:00"
  }
 ]
