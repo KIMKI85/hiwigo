@@ -1,5 +1,18 @@
 [
  {
+  "id": "12352f07ea5d",
+  "title": "Man Utd working on deal to sign Leicester teenager Page",
+  "player": "Louis Page",
+  "title_ko": "맨유, 레스터의 10대 소년 페이지 영입을 위해 노력 중",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T12:13:59+00:00"
+ },
+ {
   "id": "8e17df9a527f",
   "title": "Liverpool given Ronald Araujo transfer update as Hansi Flick makes Barcelona admission",
   "player": "Ronald Araujo",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-vinicius-akliouche-rodri-les-5-infos-mercato-du-7-aout-a-12-h_VN-202608070284.html",
   "fee": null,
   "published": "2026-08-07T10:00:32+00:00"
- },
- {
-  "id": "232d951c9dfd",
-  "title": "Dinamo Moscow launch surprise €15m bid for Lazio’s Ratkov",
-  "player": "Dinamo Moscow",
-  "title_ko": "디나모 모스크바는 라치오의 라트코프에게 1,500만 유로를 깜짝 제안했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/dinamo-moscow-launch-surprise-ratkov-lazio-bid/",
-  "fee": "€15M",
-  "published": "2026-08-07T09:45:00+00:00"
  }
 ]
