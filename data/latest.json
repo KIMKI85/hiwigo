@@ -1,5 +1,18 @@
 [
  {
+  "id": "ade19cee9f92",
+  "title": "José Mourinho reveals he signed contract to succeed Alex Ferguson at Manchester United in 2013",
+  "player": "José Mourinho",
+  "title_ko": "주제 무리뉴는 2013년 맨체스터 유나이티드에서 알렉스 퍼거슨의 후임으로 계약을 체결했다고 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix",
+  "fee": null,
+  "published": "2026-08-09T23:24:04+00:00"
+ },
+ {
   "id": "1566071eb569",
   "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
   "player": "David Moyes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/read-opens-up-on-failed-28m-roma-bid/",
   "fee": "€28M",
   "published": "2026-08-07T18:27:36+00:00"
- },
- {
-  "id": "245e76b7a41a",
-  "title": "\"La suite logique\", Gouiri prêt à devenir le serial buteur de l'OM (Entretien After Foot)",
-  "player": "Entretien After Foot",
-  "title_ko": "“논리적인 다음 단계”, OM의 연속 득점원이 될 준비가 된 고의리 (풋 인터뷰 후)",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-la-suite-logique-gouiri-pret-a-devenir-le-serial-buteur-de-l-om-entretien-after-foot_VN-202608070449.html",
-  "fee": null,
-  "published": "2026-08-07T18:21:12+00:00"
  }
 ]
