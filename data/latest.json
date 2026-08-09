@@ -1,5 +1,18 @@
 [
  {
+  "id": "6f5bac82cb76",
+  "title": "Molina schedule for Roma medical test and contract on August 10",
+  "player": "Nahuel Molina",
+  "title_ko": "몰리나 로마 메디컬 테스트 일정 및 8월 10일 계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/molina-schedule-for-roma-medical-test-contract/",
+  "fee": null,
+  "published": "2026-08-09T15:34:38+00:00"
+ },
+ {
   "id": "8c2b7ad857a8",
   "title": "Man Utd in driving seat to beat Arsenal and Aston Villa to wonderkid transfer",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/real-madrid-star-mastantuono-joins-fiorentina/",
   "fee": null,
   "published": "2026-08-07T14:48:30+00:00"
- },
- {
-  "id": "67af62193821",
-  "title": "Leihe nach Florenz: Mastantuono verlässt Real vorerst",
-  "player": "Talent Franco Mastantuono",
-  "title_ko": "피렌체로의 임대: 마스탄투오노는 당분간 레알을 떠난다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/leihe-nach-florenz-mastantuono-verlaesst-real-vorerst-1240900/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T14:46:42+00:00"
  }
 ]
