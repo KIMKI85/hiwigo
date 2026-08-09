@@ -1,5 +1,18 @@
 [
  {
+  "id": "01436d373998",
+  "title": "Mercato: Monaco avance sur l'Algérien Farès Ghedjemis, successeur espéré d'Akliouche",
+  "player": "Algérien Farès Ghedjemis",
+  "title_ko": "Mercato: Monaco는 Akliouche의 후계자가 될 것으로 기대되는 알제리 Farès Ghedjemis에서 전진합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-monaco-avance-sur-l-algerien-fares-ghedjemis-successeur-espere-d-akliouche_AN-202608090119.html",
+  "fee": null,
+  "published": "2026-08-09T09:38:59+00:00"
+ },
+ {
   "id": "63f8fa0abbd1",
   "title": "Diego Simeone confirms Julian Alvarez transfer 'decision' amid Arsenal interest",
   "player": "Diego Simeone",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-vinicius-junior-konsa-37524186",
   "fee": null,
   "published": "2026-08-07T08:53:57+00:00"
- },
- {
-  "id": "c62fbb1018fa",
-  "title": "Vertrag bis 2028: Schalke verpflichtet Dina Ebimbe",
-  "player": "Dina Ebimbe",
-  "title_ko": "2028년까지 계약: 샬케, 디나 에빔베 영입",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/vertrag-bis-2028-schalke-verpflichtet-dina-ebimbe-1233857/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T08:04:55+00:00"
  }
 ]
