@@ -1,5 +1,31 @@
 [
  {
+  "id": "703efb02ed66",
+  "title": "Man Utd given Benjamin Sesko reality check after Bayern Munich transfer links",
+  "player": "Benjamin Sesko",
+  "title_ko": "맨유는 바이에른 뮌헨 이적 링크 이후 벤저민 세스코의 현실 점검을 받았다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-sesko-bayern-37530533",
+  "fee": null,
+  "published": "2026-08-09T14:10:11+00:00"
+ },
+ {
+  "id": "885501505ece",
+  "title": "Arsenal respond to Gabriel Martinelli transfer approach as Mikel Arteta lays out demands",
+  "player": "Gabriel Martinelli",
+  "title_ko": "미켈 아르테타가 요구 사항을 제시함에 따라 아스날은 가브리엘 마르티넬리 이적 접근 방식에 응답했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/gabriel-martinelli-arsenal-transfer-arteta-37530421",
+  "fee": null,
+  "published": "2026-08-09T14:06:59+00:00"
+ },
+ {
   "id": "2082e1a999c6",
   "title": "Isak and Wirtz on target as Liverpool lead Monaco LIVE!",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
   "fee": "£38.5M",
   "published": "2026-08-07T12:20:52+00:00"
- },
- {
-  "id": "ffab231e1ab0",
-  "title": "OM: \"Ce sera un groupe qui aura des valeurs\", le message de Genesio aux supporters inquiets du mercato marseillais",
-  "player": "Bruno Genesio",
-  "title_ko": "OM: “가치가 있는 그룹이 될 것”, 마르세유 이적시장을 걱정하는 서포터들에게 제네시오가 전하는 메시지",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-ce-sera-un-groupe-qui-aura-des-valeurs-le-message-de-genesio-aux-supporters-inquiets-du-mercato-marseillais_AV-202608070320.html",
-  "fee": null,
-  "published": "2026-08-07T12:04:38+00:00"
- },
- {
-  "id": "f7b75f35eadf",
-  "title": "Emotional Guimaraes wanted Arsenal move, says Newcastle chief",
-  "player": "Emotional Guimaraes",
-  "title_ko": "감정적인 기마랑스는 아스날 이적을 원했다고 뉴캐슬 단장이 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-07T12:00:16+00:00"
  }
 ]
