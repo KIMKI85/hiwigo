@@ -1,5 +1,31 @@
 [
  {
+  "id": "8e17df9a527f",
+  "title": "Liverpool given Ronald Araujo transfer update as Hansi Flick makes Barcelona admission",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 Hansi Flick이 바르셀로나를 승인함에 따라 Ronald Araujo 이적 업데이트를 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-barcelona-37530078",
+  "fee": null,
+  "published": "2026-08-09T11:35:34+00:00"
+ },
+ {
+  "id": "e9de1ec7b755",
+  "title": "PSG move could hand Marcus Rashford last-gasp Man Utd transfer with Barcelona reunion",
+  "player": "Marcus Rashford",
+  "title_ko": "PSG 이적은 마커스 래쉬포드가 바르셀로나 재결합과 함께 맨유 이적에 마지막 기회를 줄 수 있다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-psg-barcelona-torres-37529922",
+  "fee": null,
+  "published": "2026-08-09T11:26:37+00:00"
+ },
+ {
   "id": "aac0a6c29235",
   "title": "Araujo, Lukaku, Ghedjemis... les 5 infos mercato du 9 août à la mi-journée",
   "player": "Ronald Araujo",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/dinamo-moscow-launch-surprise-ratkov-lazio-bid/",
   "fee": "€15M",
   "published": "2026-08-07T09:45:00+00:00"
- },
- {
-  "id": "d3d09379e93e",
-  "title": "Inside Bruno Guimaraes' dream Arsenal transfer six years in making for Mikel Arteta",
-  "player": "Inside Bruno Guimaraes",
-  "title_ko": "브루노 기마랑이스의 꿈 아스날 이적 미켈 아르테타를 6년 동안 만들어온 과정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bruno-guimaraes-37524646",
-  "fee": null,
-  "published": "2026-08-07T09:40:17+00:00"
- },
- {
-  "id": "ee5eeb2775fa",
-  "title": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
-  "player": "Cristian Romero",
-  "title_ko": "축구 이적 루머: 크리스티안 로메로가 스퍼스를 떠나 아스날로 갈 것인가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter",
-  "fee": null,
-  "published": "2026-08-07T09:32:37+00:00"
  }
 ]
