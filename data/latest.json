@@ -1,5 +1,18 @@
 [
  {
+  "id": "0a3998ac7e40",
+  "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
+  "player": "Scotland Under-",
+  "title_ko": "세비야는 스코틀랜드의 스트라이커 우레(Ure)를 790만 파운드(약 79억 원)에 영입하는 데 가까워졌습니다.",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo?at_medium=RSS&at_campaign=rss",
+  "fee": "£7.9M",
+  "published": "2026-08-09T12:29:04+00:00"
+ },
+ {
   "id": "12352f07ea5d",
   "title": "Man Utd working on deal to sign Leicester teenager Page",
   "player": "Louis Page",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest",
   "fee": null,
   "published": "2026-08-07T10:15:00+00:00"
- },
- {
-  "id": "9c1d5fe0d0fd",
-  "title": "Vinicius, Akliouche, Rodri... Les 5 infos mercato du 7 août à 12 h.",
-  "player": "Enzo Fernández",
-  "title_ko": "Vinicius, Akliouche, Rodri... 8월 7일 낮 12시 5개의 메르카토 뉴스입니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-vinicius-akliouche-rodri-les-5-infos-mercato-du-7-aout-a-12-h_VN-202608070284.html",
-  "fee": null,
-  "published": "2026-08-07T10:00:32+00:00"
  }
 ]
