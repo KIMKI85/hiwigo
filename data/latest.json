@@ -1,5 +1,18 @@
 [
  {
+  "id": "2082e1a999c6",
+  "title": "Isak and Wirtz on target as Liverpool lead Monaco LIVE!",
+  "player": null,
+  "title_ko": "리버풀이 모나코 라이브를 이끌면서 Isak과 Wirtz가 목표를 달성했습니다!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
+  "fee": null,
+  "published": "2026-08-09T13:23:00+00:00"
+ },
+ {
   "id": "88f1db9be878",
   "title": "Fulham agree £30m fee for Southampton's Charles",
   "player": "Southampton's Charles",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-07T12:00:16+00:00"
- },
- {
-  "id": "c739dbba13ad",
-  "title": "Inter’s Romero deal at risk as Atlético prepare rival bid",
-  "player": "Cristian Romero",
-  "title_ko": "아틀레티코가 경쟁 입찰을 준비하면서 인테르의 로메로 거래가 위험에 처해 있다",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inters-romero-deal-at-risk-as-atletico/",
-  "fee": null,
-  "published": "2026-08-07T10:40:17+00:00"
  }
 ]
