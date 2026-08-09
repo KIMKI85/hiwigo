@@ -1,5 +1,18 @@
 [
  {
+  "id": "40f808aa71ee",
+  "title": "El mejor fichaje es Mikel Oyarzabal",
+  "player": "Mikel Oyarzabal",
+  "title_ko": "최고의 영입은 미켈 오야르자발이다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/09/mejor-fichaje-mikel-oyarzabal.html",
+  "fee": null,
+  "published": "2026-08-09T08:06:19+00:00"
+ },
+ {
   "id": "52f8c3ffdd44",
   "title": "Chelsea flop set for MLS move just two months after Cesc Fabregas punt",
   "player": "Cesc Fabregas",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-arsenal-spurs-cristian-romero-37523726",
   "fee": null,
   "published": "2026-08-07T07:43:18+00:00"
- },
- {
-  "id": "4559c73188ab",
-  "title": "Rodri's agent drops transfer bombshell as Man City star decides future",
-  "player": null,
-  "title_ko": "로드리의 에이전트는 맨시티 스타가 미래를 결정하자 이적 폭탄 선언을 했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-city-barcelona-real-madrid-37523635",
-  "fee": null,
-  "published": "2026-08-07T06:28:44+00:00"
  }
 ]
