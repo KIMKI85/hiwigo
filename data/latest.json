@@ -1,5 +1,18 @@
 [
  {
+  "id": "aa72f311e91f",
+  "title": "Como sign defender Chalobah from Chelsea",
+  "player": "Trevoh Chalobah",
+  "title_ko": "코모는 첼시에서 수비수 찰로바를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cn4n884vr4mo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T17:55:36+00:00"
+ },
+ {
   "id": "cf219bef0cb0",
   "title": "Official: Chalobah joins ‘ambitious, rising project’ at Como from Chelsea",
   "player": "Trevoh Chalobah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-martinelli-jesus-37526837",
   "fee": null,
   "published": "2026-08-07T16:25:20+00:00"
- },
- {
-  "id": "9ab861194072",
-  "title": "LIVE! Düsseldorf wechselt dreifach zur Pause - doch Mannheim erhöht",
-  "player": "Fortuna Düsseldorf",
-  "title_ko": "살다! 뒤셀도르프는 휴식 시간에 세 가지 변화를 주었지만 만하임은 증가했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-duesseldorf-wechselt-dreifach-zur-pause-doch-mannheim-erhoeht-1240943/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T16:00:00+00:00"
  }
 ]
