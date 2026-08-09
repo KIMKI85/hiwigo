@@ -1,5 +1,31 @@
 [
  {
+  "id": "88f1db9be878",
+  "title": "Fulham agree £30m fee for Southampton's Charles",
+  "player": "Southampton's Charles",
+  "title_ko": "풀럼은 사우샘프턴의 찰스에게 £30m의 이적료에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-08-09T13:10:10+00:00"
+ },
+ {
+  "id": "cf577853fe58",
+  "title": "Lukaku, Fenerbahce and Napoli confident of agreement within 48 hours",
+  "player": "Romelu Lukaku",
+  "title_ko": "루카쿠, 페네르바체, 나폴리는 48시간 내 합의를 확신",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lukaku-fenerbahce-napoli-confident-agreement/",
+  "fee": null,
+  "published": "2026-08-09T13:06:23+00:00"
+ },
+ {
   "id": "0a3998ac7e40",
   "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
   "player": "Scotland Under-",
