@@ -1,5 +1,18 @@
 [
  {
+  "id": "aaa2d01353f6",
+  "title": "Liverpool news: Signing of £47m star imminent as transfer talks give Bradley Barcola boost",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 이적 협상으로 £47m의 스타 영입이 임박했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ronald-araujo-bradley-barcola-37528631",
+  "fee": "£47M",
+  "published": "2026-08-09T04:00:00+00:00"
+ },
+ {
   "id": "2b247ef34b8e",
   "title": "Man Utd news: Savvy transfer masterstroke as move confirmed and next target lined up",
   "player": null,
