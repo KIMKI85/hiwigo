@@ -1,5 +1,18 @@
 [
  {
+  "id": "ab4e67df09de",
+  "title": "'I negotiated Man Utd transfer – they paid more than double what we expected'",
+  "player": null,
+  "title_ko": "'나는 맨유 이적에 대해 협상했습니다. 그들은 우리가 기대했던 것보다 두 배 이상 많은 돈을 지불했습니다.'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-luke-shaw-37512012",
+  "fee": null,
+  "published": "2026-08-09T04:30:00+00:00"
+ },
+ {
   "id": "d3bd1cf01910",
   "title": "Arsenal were snubbed for new deals by Prem winner and another Madrid star before Vini Jr",
   "player": "Vini Jr",

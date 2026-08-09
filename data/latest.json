@@ -1,5 +1,18 @@
 [
  {
+  "id": "ab4e67df09de",
+  "title": "'I negotiated Man Utd transfer – they paid more than double what we expected'",
+  "player": null,
+  "title_ko": "'나는 맨유 이적에 대해 협상했습니다. 그들은 우리가 기대했던 것보다 두 배 이상 많은 돈을 지불했습니다.'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-luke-shaw-37512012",
+  "fee": null,
+  "published": "2026-08-09T04:30:00+00:00"
+ },
+ {
   "id": "d3bd1cf01910",
   "title": "Arsenal were snubbed for new deals by Prem winner and another Madrid star before Vini Jr",
   "player": "Vini Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-vlahovic-rashford-37517702",
   "fee": null,
   "published": "2026-08-07T04:30:00+00:00"
- },
- {
-  "id": "0ad1b9a2629a",
-  "title": "Liverpool news: Bradley Barcola price tag slashed as star 'says yes' to PSG transfer",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 PSG 이적에 스타가 '예'라고 답하자 가격표가 인하됐다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37521450",
-  "fee": null,
-  "published": "2026-08-07T04:00:00+00:00"
  }
 ]
