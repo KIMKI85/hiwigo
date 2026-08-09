@@ -1,5 +1,18 @@
 [
  {
+  "id": "cb2970cce2f0",
+  "title": "Transfer news LIVE: Ronald Araujo to Liverpool, Arsenal Kenan Yildiz move, Lewis Hall latest",
+  "player": "Ronald Araujo",
+  "title_ko": "이적 뉴스 라이브: Ronald Araujo에서 리버풀로, 아스날 Kenan Yildiz 이동, Lewis Hall 최신",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-ronald-araujo-37529658",
+  "fee": null,
+  "published": "2026-08-09T06:50:31+00:00"
+ },
+ {
   "id": "70855f0d00dd",
   "title": "Man Utd, Arsenal and Chelsea target who had £87m release clause is now a free agent",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-07T06:27:36+00:00"
- },
- {
-  "id": "93df38d0da21",
-  "title": "Mercato : \"C'est un honneur de rejoindre le Paris Saint-Germain.\" Les premiers mots de Maghnes Akliouche après sa signature",
-  "player": "Maghnes Akliouche",
-  "title_ko": "메르카토: “파리 생제르맹에 합류하게 되어 영광입니다.” Maghnes Akliouche가 서명 후 첫마디",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-c-est-un-honneur-de-rejoindre-le-paris-saint-germain-les-premiers-mots-de-maghnes-akliouche-apres-sa-signature_VN-202608070131.html",
-  "fee": null,
-  "published": "2026-08-07T06:17:58+00:00"
  }
 ]
