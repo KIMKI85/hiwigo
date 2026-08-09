@@ -1,5 +1,18 @@
 [
  {
+  "id": "46bcc2d491a9",
+  "title": "Arsenal next transfer priority is clear after Vinicius Jr blow and Borussia Dortmund defeat",
+  "player": "Vinicius Jr",
+  "title_ko": "비니시우스 주니어 타격과 보루시아 도르트문트 패배 후 아스날의 다음 이적 우선 순위는 분명합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-dortmund-arteta-transfers-37530828",
+  "fee": null,
+  "published": "2026-08-09T16:00:47+00:00"
+ },
+ {
   "id": "701488a53195",
   "title": "Done Deals: Frosinone secure Terzic, Schmid and Grillitsch agreements",
   "player": "Newly-promoted Frosinone",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/frustrated-gasperini-cancels-roma-interviews/",
   "fee": null,
   "published": "2026-08-07T15:34:05+00:00"
- },
- {
-  "id": "45fe0e65e090",
-  "title": "Official: Atalanta record signing Toure joins Parma for 2026-27",
-  "player": "El Bilal Toure",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/atalanta-record-signing-toure-joins-parma/",
-  "fee": null,
-  "published": "2026-08-07T14:59:10+00:00"
  }
 ]
