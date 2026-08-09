@@ -1,5 +1,18 @@
 [
  {
+  "id": "52f8c3ffdd44",
+  "title": "Chelsea flop set for MLS move just two months after Cesc Fabregas punt",
+  "player": "Cesc Fabregas",
+  "title_ko": "세스크 파브레가스의 펀트 이후 불과 두 달 만에 MLS 이적을 위한 첼시 플롭 설정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-morata-como-fabregas-37529422",
+  "fee": null,
+  "published": "2026-08-09T07:17:09+00:00"
+ },
+ {
   "id": "cb2970cce2f0",
   "title": "Transfer news LIVE: Ronald Araujo to Liverpool, Arsenal Kenan Yildiz move, Lewis Hall latest",
   "player": "Ronald Araujo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-city-barcelona-real-madrid-37523635",
   "fee": null,
   "published": "2026-08-07T06:28:44+00:00"
- },
- {
-  "id": "e4666645b9ad",
-  "title": "Caldentey embraces 'cool' pressure as Arsenal target Treble",
-  "player": "Midfielder Mariona Caldentey",
-  "title_ko": "Caldentey는 Arsenal이 Treble을 목표로 '멋진'압박을 받아들였습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-07T06:27:36+00:00"
  }
 ]
