@@ -1,5 +1,18 @@
 [
  {
+  "id": "2b247ef34b8e",
+  "title": "Man Utd news: Savvy transfer masterstroke as move confirmed and next target lined up",
+  "player": null,
+  "title_ko": "Man Utd 뉴스: 움직임이 확정되고 다음 타깃이 라인업됨에 따라 현명한 이적 마스터스트로크가 이루어졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-jhon-lucumi-37528329",
+  "fee": null,
+  "published": "2026-08-09T03:30:00+00:00"
+ },
+ {
   "id": "2aeb30a2bb95",
   "title": "Arsenal news: £85million move back on the agenda as Julian Alvarez transfer update issued",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-vini-konsa-rice-37521165",
   "fee": null,
   "published": "2026-08-07T03:00:00+00:00"
- },
- {
-  "id": "c37b4f47ee90",
-  "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
-  "player": "Vinícius Júnior",
-  "title_ko": "비니시우스 주니오르가 레알 마드리드와 계약을 2032년까지 연장하자 아스날의 희망은 무너졌다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032",
-  "fee": null,
-  "published": "2026-08-06T22:29:10+00:00"
  }
 ]
