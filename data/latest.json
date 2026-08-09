@@ -1,5 +1,18 @@
 [
  {
+  "id": "1566071eb569",
+  "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
+  "player": "David Moyes",
+  "title_ko": "무리뉴는 맨유에서 퍼거슨을 대신하기로 합의했다고 밝혔다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T23:01:26+00:00"
+ },
+ {
   "id": "fd9cdc41b638",
   "title": "Joan Jordán, en Lisboa para cerrar su fichaje por el Estrela Amadora",
   "player": "Joan Jordán",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-la-suite-logique-gouiri-pret-a-devenir-le-serial-buteur-de-l-om-entretien-after-foot_VN-202608070449.html",
   "fee": null,
   "published": "2026-08-07T18:21:12+00:00"
- },
- {
-  "id": "13579006b2bb",
-  "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
-  "player": "Bradley Barcola",
-  "title_ko": "PSG와 협상 후 리버풀 바르콜라 계약은 완료하기 어렵다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
-  "fee": null,
-  "published": "2026-08-07T18:00:00+00:00"
  }
 ]
