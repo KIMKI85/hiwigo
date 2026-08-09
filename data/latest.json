@@ -1,5 +1,18 @@
 [
  {
+  "id": "63f8fa0abbd1",
+  "title": "Diego Simeone confirms Julian Alvarez transfer 'decision' amid Arsenal interest",
+  "player": "Diego Simeone",
+  "title_ko": "디에고 시메오네는 아스날의 관심 속에 줄리안 알바레스의 이적 결정을 확인했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/diego-simeone-julian-alvarez-arsenal-37529791",
+  "fee": null,
+  "published": "2026-08-09T08:40:51+00:00"
+ },
+ {
   "id": "fe54f4120640",
   "title": "Michael Carrick provides Marcus Rashford update and confirms Man Utd star's next move",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/vertrag-bis-2028-schalke-verpflichtet-dina-ebimbe-1233857/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T08:04:55+00:00"
- },
- {
-  "id": "dac66c72f759",
-  "title": "Köln verpflichtet U-17-Europameister Neves von Benfica",
-  "player": "Europameister Neves",
-  "title_ko": "쾰른은 벤피카에서 U-17 유럽 챔피언 네베스를 영입했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/koeln-verpflichtet-u-17-europameister-neves-von-benfica-1241022/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T08:00:39+00:00"
  }
 ]
