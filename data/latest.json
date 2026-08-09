@@ -1,5 +1,18 @@
 [
  {
+  "id": "70855f0d00dd",
+  "title": "Man Utd, Arsenal and Chelsea target who had £87m release clause is now a free agent",
+  "player": null,
+  "title_ko": "8700만 파운드의 방출 조항을 갖고 있던 맨유, 아스날, 첼시의 타겟은 이제 자유계약 선수가 되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-chelsea-striker-37516773",
+  "fee": "£87M",
+  "published": "2026-08-09T05:30:00+00:00"
+ },
+ {
   "id": "f0e54f3ea492",
   "title": "Steven Gerrard lambasted 'disastrous' Liverpool transfer and pointed finger of blame at manager",
   "player": "Steven Gerrard",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-c-est-un-honneur-de-rejoindre-le-paris-saint-germain-les-premiers-mots-de-maghnes-akliouche-apres-sa-signature_VN-202608070131.html",
   "fee": null,
   "published": "2026-08-07T06:17:58+00:00"
- },
- {
-  "id": "6f092eda9659",
-  "title": "Liverpool were linked with World Cup winner and £53m star for ages but never signed them",
-  "player": null,
-  "title_ko": "리버풀은 오랫동안 월드컵 우승자이자 £53m의 스타 선수와 연결되어 있었지만 결코 계약을 맺은 적은 없었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-long-term-transfer-targets-37521409",
-  "fee": "£53M",
-  "published": "2026-08-07T05:00:00+00:00"
  }
 ]
