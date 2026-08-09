@@ -1,5 +1,31 @@
 [
  {
+  "id": "3fb6fe01a7cb",
+  "title": "Digne completes move to PSG from Aston Villa",
+  "player": "Lucas Digne",
+  "title_ko": "디뉴, 아스톤 빌라에서 PSG로 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T17:12:56+00:00"
+ },
+ {
+  "id": "c91b29ada866",
+  "title": "Inter target Jones left out of Liverpool squad due to ‘hip issue’",
+  "player": "Curtis Jones",
+  "title_ko": "인테르 타깃 존스, '엉덩이 문제'로 인해 리버풀 스쿼드 제외",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-jones-liverpool-squad-due-to-hip-issue/",
+  "fee": null,
+  "published": "2026-08-09T17:00:55+00:00"
+ },
+ {
   "id": "4743beaa1cf9",
   "title": "De Rossi: ‘Transfer market open after Week 2 of season is an abomination’",
   "player": "De Rossi",

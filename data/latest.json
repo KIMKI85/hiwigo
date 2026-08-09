@@ -1,5 +1,31 @@
 [
  {
+  "id": "3fb6fe01a7cb",
+  "title": "Digne completes move to PSG from Aston Villa",
+  "player": "Lucas Digne",
+  "title_ko": "디뉴, 아스톤 빌라에서 PSG로 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T17:12:56+00:00"
+ },
+ {
+  "id": "c91b29ada866",
+  "title": "Inter target Jones left out of Liverpool squad due to ‘hip issue’",
+  "player": "Curtis Jones",
+  "title_ko": "인테르 타깃 존스, '엉덩이 문제'로 인해 리버풀 스쿼드 제외",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-jones-liverpool-squad-due-to-hip-issue/",
+  "fee": null,
+  "published": "2026-08-09T17:00:55+00:00"
+ },
+ {
   "id": "4743beaa1cf9",
   "title": "De Rossi: ‘Transfer market open after Week 2 of season is an abomination’",
   "player": "De Rossi",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/nach-karetsas-transfer-auch-konstantelias-im-blickfeld-des-bvb-1241501/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T15:55:20+00:00"
- },
- {
-  "id": "e683d7a2ad80",
-  "title": "Diaz's stunner helps Bayern win as new Aston Villa signing scores",
-  "player": "Hong Kong",
-  "title_ko": "디아즈의 놀라운 활약으로 바이에른은 새로운 Aston Villa 영입 점수로 승리했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13570716/aston-villa-lose-to-bayern-munich-as-luis-diazs-fine-strike-separates-two-sides",
-  "fee": null,
-  "published": "2026-08-07T15:45:00+00:00"
- },
- {
-  "id": "0451fd8b1eb5",
-  "title": "Meister 2022 mit PSG: Aachen verpflichtet Bitumazala",
-  "player": "Alemannia Aachen",
-  "title_ko": "PSG와 함께하는 2022 챔피언: 아헨, Bitumazala와 계약",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/meister-2022-mit-psg-aachen-verpflichtet-bitumazala-1241499/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T15:36:53+00:00"
  }
 ]
