@@ -1,5 +1,18 @@
 [
  {
+  "id": "4743beaa1cf9",
+  "title": "De Rossi: ‘Transfer market open after Week 2 of season is an abomination’",
+  "player": "De Rossi",
+  "title_ko": "데 로시 \"시즌 2주차 이후 이적시장 열리는 것은 정말 끔찍한 일\"",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/de-rossi-transfer-market-open-an-abomination/",
+  "fee": null,
+  "published": "2026-08-09T16:49:29+00:00"
+ },
+ {
   "id": "46bcc2d491a9",
   "title": "Arsenal next transfer priority is clear after Vinicius Jr blow and Borussia Dortmund defeat",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/meister-2022-mit-psg-aachen-verpflichtet-bitumazala-1241499/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T15:36:53+00:00"
- },
- {
-  "id": "25f9a837a274",
-  "title": "Frustrated Gasperini cancels interviews as Roma still haven’t signed that attacker",
-  "player": "Frustrated Gasperini",
-  "title_ko": "좌절한 가스페리니는 로마가 아직 공격자와 계약하지 않았기 때문에 인터뷰를 취소했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/frustrated-gasperini-cancels-roma-interviews/",
-  "fee": null,
-  "published": "2026-08-07T15:34:05+00:00"
  }
 ]
