@@ -1,5 +1,31 @@
 [
  {
+  "id": "fd9cdc41b638",
+  "title": "Joan Jordán, en Lisboa para cerrar su fichaje por el Estrela Amadora",
+  "player": "Joan Jordán",
+  "title_ko": "Estrela Amadora와의 계약을 마무리하기 위해 리스본에서 Joan Jordán",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/09/joan-jordan-lisboa-cerrar-fichaje-estrela-amadora.html",
+  "fee": null,
+  "published": "2026-08-09T21:21:27+00:00"
+ },
+ {
+  "id": "58bff84fa173",
+  "title": "Transfer roundup: Fulham agree £30m deal for Charles, Chalobah checks in at Como",
+  "player": "Northern Ireland",
+  "title_ko": "이적 요약: 풀럼은 찰스의 £30m 거래에 동의했고, 찰로바는 코모에 체크인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulham-agree-deal-shea-charles-southampton-trevoh-chalobah-como",
+  "fee": "£30M",
+  "published": "2026-08-09T21:14:16+00:00"
+ },
+ {
   "id": "71c71f4052e4",
   "title": "Villa interested in Endrick loan - Monday's gossip",
   "player": "Harry Kane",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
   "fee": null,
   "published": "2026-08-07T18:00:00+00:00"
- },
- {
-  "id": "26938a28504d",
-  "title": "Gabriel Jesus agent spotted at Napoli training camp amid Arsenal transfer links",
-  "player": "Gabriel Jesus",
-  "title_ko": "아스날 이적 링크가 있는 가운데 나폴리 훈련 캠프에서 포착된 가브리엘 제수스 에이전트",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gabriel-jesus-agent-spotted-at-napoli-training/",
-  "fee": null,
-  "published": "2026-08-07T17:51:33+00:00"
- },
- {
-  "id": "041b231eea13",
-  "title": "Liverpool target Mbaye scores for PSG vs Man Utd LIVE!",
-  "player": null,
-  "title_ko": "리버풀은 PSG 대 Man Utd의 Mbaye 득점을 목표로 합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/live/555766",
-  "fee": null,
-  "published": "2026-08-07T17:47:00+00:00"
  }
 ]
