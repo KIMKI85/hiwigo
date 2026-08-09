@@ -1,5 +1,31 @@
 [
  {
+  "id": "629c63294488",
+  "title": "Mercato: après son prêt au Barça, Marcus Rashford parti pour (enfin) rester à Manchester United ?",
+  "player": "Marcus Rashford",
+  "title_ko": "Mercato: Barça로 임대된 후 Marcus Rashford는 (마침내) 맨체스터 유나이티드에 머물기 위해 떠났습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-apres-son-pret-au-barca-marcus-rashford-parti-pour-enfin-rester-a-manchester-united_AN-202608090180.html",
+  "fee": null,
+  "published": "2026-08-09T14:24:10+00:00"
+ },
+ {
+  "id": "6d380b35267e",
+  "title": "Ex-Man Utd star and current transfer target both sent off in pre-season brawl",
+  "player": null,
+  "title_ko": "전 맨유 스타와 현재 이적 목표 둘 다 프리시즌 싸움에서 퇴장당했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/alex-scott-antony-red-card-37530413",
+  "fee": null,
+  "published": "2026-08-09T14:17:57+00:00"
+ },
+ {
   "id": "703efb02ed66",
   "title": "Man Utd given Benjamin Sesko reality check after Bayern Munich transfer links",
   "player": "Benjamin Sesko",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-wants-chelsea-star-37526079",
   "fee": null,
   "published": "2026-08-07T13:52:57+00:00"
- },
- {
-  "id": "05c8e6b44412",
-  "title": "Arsenal star's gesture to Bruno Guimaraes ahead of £75m transfer comes to light",
-  "player": "Bruno Guimaraes",
-  "title_ko": "£75m 이적을 앞두고 브루노 기마랑스에게 아스널 스타의 제스처가 밝혀졌다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-shirt-number-37525354",
-  "fee": "£75M",
-  "published": "2026-08-07T12:48:53+00:00"
- },
- {
-  "id": "9e02c88e029d",
-  "title": "Man City reject Barcelona's £38.5m bid for Rodri",
-  "player": null,
-  "title_ko": "맨시티는 바르셀로나의 로드리 영입 제안을 거부했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
-  "fee": "£38.5M",
-  "published": "2026-08-07T12:20:52+00:00"
  }
 ]
