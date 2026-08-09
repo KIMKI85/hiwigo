@@ -1,5 +1,31 @@
 [
  {
+  "id": "8c2b7ad857a8",
+  "title": "Man Utd in driving seat to beat Arsenal and Aston Villa to wonderkid transfer",
+  "player": null,
+  "title_ko": "맨유, 아스날과 애스턴 빌라를 꺾고 원더키드 이적을 위해 운전석에 앉다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-page-transfer-leicester-37530615",
+  "fee": null,
+  "published": "2026-08-09T15:06:00+00:00"
+ },
+ {
+  "id": "8b8456a50975",
+  "title": "Everton's McNeil & Palace's Johnson poised for swap",
+  "player": "Palace's Johnson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T15:03:03+00:00"
+ },
+ {
   "id": "629c63294488",
   "title": "Mercato: après son prêt au Barça, Marcus Rashford parti pour (enfin) rester à Manchester United ?",
   "player": "Marcus Rashford",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/leihe-nach-florenz-mastantuono-verlaesst-real-vorerst-1240900/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T14:46:42+00:00"
- },
- {
-  "id": "93df9641fabc",
-  "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
-  "player": "Ed Aarons",
-  "title_ko": "맨체스터 시티는 협상이 계속되는 동안 로드리에게 바르셀로나의 £38.5m 제의를 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue",
-  "fee": "£38.5M",
-  "published": "2026-08-07T14:02:12+00:00"
- },
- {
-  "id": "10071f2af1c4",
-  "title": "Enzo Maresca wants Chelsea star to replace Rodri as Barcelona move advances",
-  "player": "Enzo Maresca",
-  "title_ko": "엔조 마레스카는 바르셀로나 이적이 진전됨에 따라 로드리를 대체할 첼시 스타를 원한다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-wants-chelsea-star-37526079",
-  "fee": null,
-  "published": "2026-08-07T13:52:57+00:00"
  }
 ]

@@ -1,5 +1,31 @@
 [
  {
+  "id": "8c2b7ad857a8",
+  "title": "Man Utd in driving seat to beat Arsenal and Aston Villa to wonderkid transfer",
+  "player": null,
+  "title_ko": "맨유, 아스날과 애스턴 빌라를 꺾고 원더키드 이적을 위해 운전석에 앉다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-page-transfer-leicester-37530615",
+  "fee": null,
+  "published": "2026-08-09T15:06:00+00:00"
+ },
+ {
+  "id": "8b8456a50975",
+  "title": "Everton's McNeil & Palace's Johnson poised for swap",
+  "player": "Palace's Johnson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-09T15:03:03+00:00"
+ },
+ {
   "id": "629c63294488",
   "title": "Mercato: après son prêt au Barça, Marcus Rashford parti pour (enfin) rester à Manchester United ?",
   "player": "Marcus Rashford",
