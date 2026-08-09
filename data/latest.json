@@ -1,5 +1,18 @@
 [
  {
+  "id": "fe54f4120640",
+  "title": "Michael Carrick provides Marcus Rashford update and confirms Man Utd star's next move",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭은 마커스 래쉬포드 업데이트를 제공하고 맨유 스타의 다음 움직임을 확인합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-rashford-manchester-united-update-37529704",
+  "fee": null,
+  "published": "2026-08-09T08:21:35+00:00"
+ },
+ {
   "id": "40f808aa71ee",
   "title": "El mejor fichaje es Mikel Oyarzabal",
   "player": "Mikel Oyarzabal",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/koeln-verpflichtet-u-17-europameister-neves-von-benfica-1241022/artikel#omrss",
   "fee": null,
   "published": "2026-08-07T08:00:39+00:00"
- },
- {
-  "id": "f0f9dc184eac",
-  "title": "Tottenham respond as Arsenal consider shock transfer for Spurs skipper Cristian Romero",
-  "player": "Cristian Romero",
-  "title_ko": "토트넘은 아스날이 토트넘의 주장 크리스티안 로메로의 충격 이적을 고려함에 따라 대응했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-arsenal-spurs-cristian-romero-37523726",
-  "fee": null,
-  "published": "2026-08-07T07:43:18+00:00"
  }
 ]
