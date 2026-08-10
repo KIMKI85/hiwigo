@@ -1,5 +1,31 @@
 [
  {
+  "id": "94a262c06b9e",
+  "title": "Arsenal open transfer talks over next deal but major hurdle could stop record move",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날은 다음 거래에 대해 공개 이적을 논의하지만 큰 장애물로 인해 기록적인 움직임이 멈출 수 있습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-talks-37533722",
+  "fee": null,
+  "published": "2026-08-10T11:43:51+00:00"
+ },
+ {
+  "id": "4b694ef114df",
+  "title": "Liverpool set to announce new signing but team-mate 'already wants him back' after goodbyes",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 새로운 영입을 발표할 예정이지만 팀 동료는 작별 인사 후 '이미 그를 다시 원하고 있다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ronald-araujo-transfer-signing-37533713",
+  "fee": null,
+  "published": "2026-08-10T11:40:30+00:00"
+ },
+ {
   "id": "6d806bb00086",
   "title": "OL - Sparta Prague : \"Nous devons marquer les premiers\", affirme Fonseca, prêt à prendre des risques",
   "player": "Sparta Prague",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/real-madrid-plan-audacious-juventus-locatelli/",
   "fee": null,
   "published": "2026-08-08T10:15:00+00:00"
- },
- {
-  "id": "7057884d1c04",
-  "title": "Kumbulla joins Rayo Vallecano as Pellegrini extends with Roma and Cristante plays down Dybala row",
-  "player": "Marash Kumbulla",
-  "title_ko": "Pellegrini가 Roma와 연장되고 Cristante가 Dybala 행에서 플레이하면서 Kumbulla는 Rayo Vallecano에 합류했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/kumbulla-joins-rayo-vallecano-roma-pellegrini/",
-  "fee": null,
-  "published": "2026-08-08T09:25:00+00:00"
- },
- {
-  "id": "3360f069ef96",
-  "title": "Jamie Carragher admits Liverpool transfer 'worry' and issues Man Utd warning",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거, 리버풀 이적에 '걱정' 인정하고 맨유 경고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jamie-carragher-liverpool-manchester-united-37527933",
-  "fee": null,
-  "published": "2026-08-08T08:45:10+00:00"
  }
 ]
