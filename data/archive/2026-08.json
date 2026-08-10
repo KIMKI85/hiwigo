@@ -13,6 +13,19 @@
   "published": "2026-08-10T18:30:00+00:00"
  },
  {
+  "id": "6205af1152d8",
+  "title": "Liverpool sign Araujo on loan from Barcelona",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 바르셀로나에서 아라우조를 임대로 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-10T17:54:08+00:00"
+ },
+ {
   "id": "f6be287a6c22",
   "title": "Mercato: le Barça refuse une première offre du PSG pour Ferran Torres mais \"les négociations se poursuivent\"",
   "player": "Ferran Torres",

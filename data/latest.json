@@ -13,6 +13,19 @@
   "published": "2026-08-10T18:30:00+00:00"
  },
  {
+  "id": "6205af1152d8",
+  "title": "Liverpool sign Araujo on loan from Barcelona",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 바르셀로나에서 아라우조를 임대로 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-10T17:54:08+00:00"
+ },
+ {
   "id": "f6be287a6c22",
   "title": "Mercato: le Barça refuse une première offre du PSG pour Ferran Torres mais \"les négociations se poursuivent\"",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-pellegrini-signs-new-contract-roma/",
   "fee": null,
   "published": "2026-08-08T12:10:33+00:00"
- },
- {
-  "id": "7166aec6506b",
-  "title": "PSG ready to up Suzuki bid as Juventus hopes hang in balance",
-  "player": "Zion Suzuki",
-  "title_ko": "유벤투스가 균형을 유지하기를 바라면서 PSG는 스즈키 입찰을 준비했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/psg-ready-to-up-suzuki-bid-as-juventus/",
-  "fee": null,
-  "published": "2026-08-08T12:00:00+00:00"
  }
 ]
