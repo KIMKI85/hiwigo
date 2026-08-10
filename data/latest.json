@@ -1,5 +1,31 @@
 [
  {
+  "id": "c8a245eba2a1",
+  "title": "Nice: la tuile pour Laurent Abergel, la recrue des Aiglons victime d'une rupture du ligament croisé antérieur du genou",
+  "player": "Laurent Abergel",
+  "title_ko": "좋은 점: 무릎 전방 십자인대 파열의 피해자인 Aiglons 신병인 Laurent Abergel의 문제",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/ogc-nice/nice-la-tuile-pour-laurent-abergel-la-recrue-des-aiglons-victime-d-une-rupture-du-ligament-croise-anterieur-du-genou_AN-202608100344.html",
+  "fee": null,
+  "published": "2026-08-10T13:14:36+00:00"
+ },
+ {
+  "id": "e202271480e4",
+  "title": "Arsenal get significant Julian Alvarez transfer update after Atletico Madrid meeting",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날은 아틀레티코 마드리드 회의 후 줄리안 알바레즈 이적 업데이트를 크게 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-transfer-atletico-37534156",
+  "fee": null,
+  "published": "2026-08-10T13:04:14+00:00"
+ },
+ {
   "id": "94a262c06b9e",
   "title": "Arsenal open transfer talks over next deal but major hurdle could stop record move",
   "player": "Gabriel Martinelli",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer",
   "fee": null,
   "published": "2026-08-08T10:44:10+00:00"
- },
- {
-  "id": "ff2de7d57c4d",
-  "title": "Lazio agree Benfica deal for Ivanović but Lens await player’s call",
-  "player": null,
-  "title_ko": "라치오는 이바노비치의 벤피카 계약에 동의했지만 랑스는 선수의 전화를 기다리고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-agree-benfica-deal-for-ivanovic/",
-  "fee": null,
-  "published": "2026-08-08T10:30:00+00:00"
- },
- {
-  "id": "9380d339e24a",
-  "title": "Real Madrid plan audacious move for Juventus midfielder Locatelli",
-  "player": "Manuel Locatelli",
-  "title_ko": "레알 마드리드는 유벤투스의 미드필더 로카텔리의 대담한 움직임을 계획하고 있다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/real-madrid-plan-audacious-juventus-locatelli/",
-  "fee": null,
-  "published": "2026-08-08T10:15:00+00:00"
  }
 ]
