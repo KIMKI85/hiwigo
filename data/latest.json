@@ -1,5 +1,18 @@
 [
  {
+  "id": "230bf711c92c",
+  "title": "Mercato: Barcelone mise sur Lautaro Martinez en cas d’échec avec Julian Alvarez",
+  "player": "Lautaro Martinez",
+  "title_ko": "Mercato: 바르셀로나는 Julian Alvarez에게 실패할 경우 Lautaro Martinez에 베팅합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barcelone-mise-sur-lautaro-martinez-en-cas-d-echec-avec-julian-alvarez_AV-202608100540.html",
+  "fee": null,
+  "published": "2026-08-10T21:59:52+00:00"
+ },
+ {
   "id": "0f61b554e14c",
   "title": "Van de Ven signs new long-term deal with Spurs",
   "player": "Van de Ven",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/rugby-league/news/12040/13571053/huddersfield-giants-42-20-catalans-dragons-sam-halsall-and-connor-wrench-score-doubles-in-third-straight-super-league-victory",
   "fee": null,
   "published": "2026-08-08T16:41:00+00:00"
- },
- {
-  "id": "845f1f9b08a3",
-  "title": "Keine Rückennummer und geplatzter Wechsel: Wie geht es für Füllkrug weiter?",
-  "player": "Keine Rückennummer",
-  "title_ko": "셔츠 번호가 없고 변경 실패: Füllkrug의 다음 단계는 무엇입니까?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/keine-rueckennummer-und-geplatzter-wechsel-wie-geht-es-fuer-fuellkrug-weiter-1241696/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-08T16:39:55+00:00"
  }
 ]
