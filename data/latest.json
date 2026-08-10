@@ -1,5 +1,18 @@
 [
  {
+  "id": "292f38f48dc6",
+  "title": "Mercato: le PSG veut recruter le jeune Montpelliérain Laciné Megnan-Pavé",
+  "player": "Montpelliérain Laciné Megnan-",
+  "title_ko": "Mercato: PSG는 젊은 Montpellier Laciné Megnan-Pavé를 영입하고 싶어합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-veut-recruter-le-jeune-montpellierain-lacine-megnan-pave_AP-202608100349.html",
+  "fee": null,
+  "published": "2026-08-10T13:24:04+00:00"
+ },
+ {
   "id": "c8a245eba2a1",
   "title": "Nice: la tuile pour Laurent Abergel, la recrue des Aiglons victime d'une rupture du ligament croisé antérieur du genou",
   "player": "Laurent Abergel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-press-on-for-lucumi-with-cabal/",
   "fee": null,
   "published": "2026-08-08T10:45:00+00:00"
- },
- {
-  "id": "47042f7c403a",
-  "title": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
-  "player": "Ronald Araújo",
-  "title_ko": "리버풀은 바르셀로나의 로날드 아라우호를 자케 커버로 임대 영입하기로 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer",
-  "fee": null,
-  "published": "2026-08-08T10:44:10+00:00"
  }
 ]
