@@ -1,5 +1,18 @@
 [
  {
+  "id": "2dab2ba871cf",
+  "title": "Napoli reject latest Fenerbahce bid for Lukaku",
+  "player": null,
+  "title_ko": "나폴리는 루카쿠에 대한 페네르바체의 최근 입찰을 거부했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-reject-latest-fenerbahce-bid-for-lukaku/",
+  "fee": null,
+  "published": "2026-08-10T08:36:49+00:00"
+ },
+ {
   "id": "6863ce0ce4ad",
   "title": "Everton and Crystal Palace agree stunning swap deal as Lamine Camara bid rejected",
   "player": "Lamine Camara",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk",
   "fee": null,
   "published": "2026-08-07T23:30:00+00:00"
- },
- {
-  "id": "b63fead194c7",
-  "title": "Liverpool close to signing Barcelona's Araujo on loan",
-  "player": "Barcelona's Araujo",
-  "title_ko": "리버풀은 바르셀로나의 아라우호 임대 계약에 가까워졌습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-07T22:54:13+00:00"
  }
 ]
