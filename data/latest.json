@@ -1,5 +1,18 @@
 [
  {
+  "id": "e54d26b1bfb1",
+  "title": "Aston Villa linked with bargain Real Madrid transfer to replace Morgan Rogers",
+  "player": "Morgan Rogers",
+  "title_ko": "아스톤 빌라는 모건 로저스의 대체자로 레알 마드리드로 이적할 것으로 보입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-transfer-news-endrick-37532183",
+  "fee": null,
+  "published": "2026-08-10T09:17:56+00:00"
+ },
+ {
   "id": "2dab2ba871cf",
   "title": "Napoli reject latest Fenerbahce bid for Lukaku",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-konsa-man-utd-37525999",
   "fee": "£73M",
   "published": "2026-08-08T03:00:00+00:00"
- },
- {
-  "id": "30b104576d0f",
-  "title": "Papers: Arsenal could hijack Liverpool's move for Barcola",
-  "player": null,
-  "title_ko": "논문: 아스날은 리버풀의 바르콜라 영입을 가로챌 수도 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk",
-  "fee": null,
-  "published": "2026-08-07T23:30:00+00:00"
  }
 ]
