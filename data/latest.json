@@ -1,5 +1,18 @@
 [
  {
+  "id": "e6edbe1bbf67",
+  "title": "Jose Mourinho reveals he signed contract to succeed Sir Alex Ferguson at Manchester United",
+  "player": "Jose Mourinho",
+  "title_ko": "조세 무리뉴는 맨체스터 유나이티드에서 알렉스 퍼거슨 경의 후임으로 계약을 체결했다고 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/jose-mourinho-ferguson-man-utd-37531543",
+  "fee": null,
+  "published": "2026-08-10T01:41:00+00:00"
+ },
+ {
   "id": "ade19cee9f92",
   "title": "José Mourinho reveals he signed contract to succeed Alex Ferguson at Manchester United in 2013",
   "player": "José Mourinho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-lewis-hall-37527246",
   "fee": null,
   "published": "2026-08-07T18:31:48+00:00"
- },
- {
-  "id": "2f004f14a8ff",
-  "title": "Read opens up on failed €28m Roma bid: ‘It could have gone either way’",
-  "player": "Givairo Read",
-  "title_ko": "실패한 2,800만 유로의 로마 입찰에 대한 읽기 시작: '어느 쪽이든 진행되었을 수 있습니다'",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/read-opens-up-on-failed-28m-roma-bid/",
-  "fee": "€28M",
-  "published": "2026-08-07T18:27:36+00:00"
  }
 ]
