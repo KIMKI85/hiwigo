@@ -1,5 +1,31 @@
 [
  {
+  "id": "8ea5c69f4433",
+  "title": "Lazio ask for Miretti on loan but Juventus want a permanent sale",
+  "player": "Fabio Miretti",
+  "title_ko": "라치오는 미레티에게 임대를 요청했지만 유벤투스는 영구 판매를 원합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-ask-for-miretti-on-loan-juventus-sale/",
+  "fee": null,
+  "published": "2026-08-10T14:53:38+00:00"
+ },
+ {
+  "id": "33ff0b64cff7",
+  "title": "Cucurella über Real-Wechsel: \"Belohnung für die harte Arbeit\"",
+  "player": "Marc Cucurella",
+  "title_ko": "쿠쿠렐라 레알 이적 \"노력에 대한 보상\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/cucurella-ueber-real-wechsel-belohnung-fuer-die-harte-arbeit-1242129/video#omrss",
+  "fee": null,
+  "published": "2026-08-10T14:27:45+00:00"
+ },
+ {
   "id": "3d6c70885fa3",
   "title": "\"Ein tolles Signal\": VfB macht Pejcinovic-Transfer offiziell",
   "player": "Dzenan Pejcinovic",
