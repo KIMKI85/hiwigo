@@ -1,5 +1,18 @@
 [
  {
+  "id": "d536aa44b544",
+  "title": "Sunderland latest: Wrexham agree £8m deal to sign Black Cats 'keeper",
+  "player": "Black Cats",
+  "title_ko": "선덜랜드 최근: 렉섬은 블랙 캣츠의 키퍼와 계약하기 위해 £8m 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": "£8M",
+  "published": "2026-08-10T10:25:00+00:00"
+ },
+ {
   "id": "e54d26b1bfb1",
   "title": "Aston Villa linked with bargain Real Madrid transfer to replace Morgan Rogers",
   "player": "Morgan Rogers",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-target-37526050",
   "fee": "£85M",
   "published": "2026-08-08T03:30:00+00:00"
- },
- {
-  "id": "7857523c3312",
-  "title": "Arsenal news: £73m Man Utd transfer target eyed as club 'resigned to losing' key player",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 클럽이 핵심 선수를 잃기 위해 사임했기 때문에 £73m의 맨유 이적 목표가 주목됨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-konsa-man-utd-37525999",
-  "fee": "£73M",
-  "published": "2026-08-08T03:00:00+00:00"
  }
 ]
