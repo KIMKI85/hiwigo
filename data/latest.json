@@ -637,6 +637,19 @@
   "published": "2026-08-09T23:01:26+00:00"
  },
  {
+  "id": "353feb1b2136",
+  "title": "Papers: Aston Villa interested in Endrick loan from Real Madrid",
+  "player": null,
+  "title_ko": "서류: 레알 마드리드의 엔드릭 임대에 관심이 있는 아스톤 빌라",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13571792/aston-villa-keen-on-loan-deal-for-real-madrid-wonderkid-endrick-paper-talk",
+  "fee": null,
+  "published": "2026-08-09T23:00:00+00:00"
+ },
+ {
   "id": "fd9cdc41b638",
   "title": "Joan Jordán, en Lisboa para cerrar su fichaje por el Estrela Amadora",
   "player": "Joan Jordán",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/keine-rueckennummer-und-geplatzter-wechsel-wie-geht-es-fuer-fuellkrug-weiter-1241696/artikel#omrss",
   "fee": null,
   "published": "2026-08-08T16:39:55+00:00"
- },
- {
-  "id": "ef7428d99619",
-  "title": "Darwin Nunez has given thumbs up to Liverpool transfer as deal gets seal of approval",
-  "player": "Darwin Nunez",
-  "title_ko": "다윈 누네즈는 거래가 승인되자 리버풀 이적에 엄지손가락을 치켜세웠습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-darwin-nunez-transfer-signing-37528764",
-  "fee": null,
-  "published": "2026-08-08T15:02:25+00:00"
  }
 ]
