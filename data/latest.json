@@ -1,5 +1,18 @@
 [
  {
+  "id": "dcccbc18170f",
+  "title": "Liverpool transfer news: Bradley Barcola battle heats up as club set out demands for exit",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 이적 소식: 클럽이 탈퇴를 요구하면서 브래들리 바르콜라의 싸움이 뜨거워지고 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-psg-37530212",
+  "fee": null,
+  "published": "2026-08-10T04:00:00+00:00"
+ },
+ {
   "id": "b853757c7a85",
   "title": "Man Utd transfer news: Liverpool rivalled for £43m star as Marcus Rashford plan emerges",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-les-35-mouvements-par-mercato-ca-existait-avant-mon-arrivee-benatia-regle-ses-comptes-avec-longoria-et-les-joueurs_AV-202608070462.html",
   "fee": null,
   "published": "2026-08-07T19:15:06+00:00"
- },
- {
-  "id": "fdddeae8a940",
-  "title": "Asllanis Wechsel nach Leipzig überraschend geplatzt",
-  "player": "Asllanis Wechsel",
-  "title_ko": "아슬라니의 라이프치히 이적은 놀랍게도 무산되었습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/asllanis-wechsel-nach-leipzig-ueberraschend-geplatzt-1241529/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-07T19:00:00+00:00"
  }
 ]
