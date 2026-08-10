@@ -13,6 +13,19 @@
   "published": "2026-08-10T18:30:00+00:00"
  },
  {
+  "id": "c577b95601c9",
+  "title": "Araújo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season",
+  "player": "Van Dijk",
+  "title_ko": "아라우조는 임대로 리버풀에 합류했고 반 다이크는 새 시즌이 오기 전에 더 많은 선수가 도착하기를 희망합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/10/virgil-van-dijk-ronald-araujo-liverpool",
+  "fee": null,
+  "published": "2026-08-10T18:16:49+00:00"
+ },
+ {
   "id": "bd02a611f885",
   "title": "Collins verstärkt Tasmania: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-tout-juste-parti-de-bordeaux-rio-mavuba-devrait-rebondir-a-lille_AV-202608080175.html",
   "fee": null,
   "published": "2026-08-08T12:38:09+00:00"
- },
- {
-  "id": "7380bbb36a72",
-  "title": "Middlesbrough sign Man Utd keeper Vitek",
-  "player": "Radek Vitek",
-  "title_ko": "미들즈브러, 맨유 골키퍼 비텍 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c20edq170p2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-08T12:25:20+00:00"
  }
 ]
