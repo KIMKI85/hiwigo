@@ -1,5 +1,31 @@
 [
  {
+  "id": "c69b70a5be6c",
+  "title": "Liverpool sign Ronald Araujo as club legend reaches out and Andoni Iraola gets his wish",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 클럽의 전설이 손을 내밀고 안도니 이라올라가 그의 소원을 들어주면서 로날드 아라우조를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-suarez-37535867",
+  "fee": null,
+  "published": "2026-08-10T19:07:05+00:00"
+ },
+ {
+  "id": "b4752be3e036",
+  "title": "Atalanta target Udinese’s Kristensen with West Ham’s Todibo the alternative",
+  "player": "Thomas Kristensen",
+  "title_ko": "아탈란타는 우디네세의 크리스텐센과 웨스트햄의 토디보를 대안으로 노린다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atalanta-target-udineses-kristensen-todibo/",
+  "fee": null,
+  "published": "2026-08-10T19:00:45+00:00"
+ },
+ {
   "id": "ea0cad1e3319",
   "title": "West Ham sign winger Solomon from Tottenham",
   "player": "Manor Solomon",
