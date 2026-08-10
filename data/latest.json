@@ -1,5 +1,18 @@
 [
  {
+  "id": "3b50f0d742bf",
+  "title": "Goretzkas Nachfolger: Bayern verpflichtet Ndiaye fest",
+  "player": "Goretzkas Nachfolger",
+  "title_ko": "고레츠카의 후임: 바이에른이 은디아예와 계약했다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/goretzkas-nachfolger-bayern-verpflichtet-ndiaye-fest-1238870/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-10T15:09:55+00:00"
+ },
+ {
   "id": "8ea5c69f4433",
   "title": "Lazio ask for Miretti on loan but Juventus want a permanent sale",
   "player": "Fabio Miretti",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football",
   "fee": "£75M",
   "published": "2026-08-08T11:00:48+00:00"
- },
- {
-  "id": "7a50f7a3b0f4",
-  "title": "BREAKING: Arsenal announce £75m Bruno Guimaraes deal as next two transfers become clear",
-  "player": "Bruno Guimaraes",
-  "title_ko": "속보: 아스날은 다음 두 이적이 확실해지면서 브루노 기마랑스의 £75m 계약을 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-bruno-guimaraes-newcastle-details-37519392",
-  "fee": "£75M",
-  "published": "2026-08-08T11:00:14+00:00"
  }
 ]
