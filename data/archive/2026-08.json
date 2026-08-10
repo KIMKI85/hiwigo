@@ -1,5 +1,18 @@
 [
  {
+  "id": "7eb97873e5b6",
+  "title": "Harry Kane to respond to Barcelona transfer interest with new bumper contract",
+  "player": "Harry Kane",
+  "title_ko": "해리 케인, 새로운 범퍼 계약으로 바르셀로나 이적 관심에 대응",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-contract-barcelona-transfer-37532853",
+  "fee": null,
+  "published": "2026-08-10T10:35:55+00:00"
+ },
+ {
   "id": "d536aa44b544",
   "title": "Sunderland latest: Wrexham agree £8m deal to sign Black Cats 'keeper",
   "player": "Black Cats",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": "£8M",
   "published": "2026-08-10T10:25:00+00:00"
+ },
+ {
+  "id": "5d2fd19047aa",
+  "title": "Arsenal outline Gabriel Martinelli transfer stance as new club eyes Gabriel Jesus",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날은 가브리엘 마르티넬리의 이적 입장을 새 클럽이 가브리엘 제수스에게 주목하고 있다고 설명했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-gabriel-martinelli-37533216",
+  "fee": null,
+  "published": "2026-08-10T10:09:33+00:00"
  },
  {
   "id": "e54d26b1bfb1",

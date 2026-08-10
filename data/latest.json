@@ -1,5 +1,18 @@
 [
  {
+  "id": "7eb97873e5b6",
+  "title": "Harry Kane to respond to Barcelona transfer interest with new bumper contract",
+  "player": "Harry Kane",
+  "title_ko": "해리 케인, 새로운 범퍼 계약으로 바르셀로나 이적 관심에 대응",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-contract-barcelona-transfer-37532853",
+  "fee": null,
+  "published": "2026-08-10T10:35:55+00:00"
+ },
+ {
   "id": "d536aa44b544",
   "title": "Sunderland latest: Wrexham agree £8m deal to sign Black Cats 'keeper",
   "player": "Black Cats",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": "£8M",
   "published": "2026-08-10T10:25:00+00:00"
+ },
+ {
+  "id": "5d2fd19047aa",
+  "title": "Arsenal outline Gabriel Martinelli transfer stance as new club eyes Gabriel Jesus",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날은 가브리엘 마르티넬리의 이적 입장을 새 클럽이 가브리엘 제수스에게 주목하고 있다고 설명했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-gabriel-martinelli-37533216",
+  "fee": null,
+  "published": "2026-08-10T10:09:33+00:00"
  },
  {
   "id": "e54d26b1bfb1",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-contract-manager-plan-37511649",
   "fee": null,
   "published": "2026-08-08T04:30:00+00:00"
- },
- {
-  "id": "6a82ad702e19",
-  "title": "Liverpool news: Fresh Bradley Barcola transfer update as dressing room view on Konsa emerges",
-  "player": "Fresh Bradley Barcola",
-  "title_ko": "리버풀 뉴스: Konsa의 드레싱 룸 뷰가 나타나면서 새로운 Bradley Barcola 이적 업데이트가 나타납니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-konsa-37525049",
-  "fee": null,
-  "published": "2026-08-08T04:00:00+00:00"
- },
- {
-  "id": "4547ba5cb02d",
-  "title": "Man Utd news: Transfer disagreement emerges as offer readied for £85million target",
-  "player": "Michael Carrick's",
-  "title_ko": "맨유 뉴스: £85m 목표에 대한 제안이 준비되면서 이적 불일치가 나타남",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-target-37526050",
-  "fee": "£85M",
-  "published": "2026-08-08T03:30:00+00:00"
  }
 ]
