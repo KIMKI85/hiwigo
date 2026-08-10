@@ -1,5 +1,31 @@
 [
  {
+  "id": "ea0cad1e3319",
+  "title": "West Ham sign winger Solomon from Tottenham",
+  "player": "Manor Solomon",
+  "title_ko": "토트넘 출신 웨스트햄의 윙어 솔로몬",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-10T18:56:56+00:00"
+ },
+ {
+  "id": "e858fb9da3aa",
+  "title": "Mercato: Araujo quitte le Barça et part se relancer à Liverpool",
+  "player": "Ronald Araujo",
+  "title_ko": "Mercato: Araujo는 Barça를 떠나 리버풀로 재출항합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-araujo-quitte-le-barca-et-part-se-relancer-a-liverpool_AV-202608100496.html",
+  "fee": null,
+  "published": "2026-08-10T18:48:01+00:00"
+ },
+ {
   "id": "2e8f601679bb",
   "title": "Liverpool sign Araujo from Barcelona",
   "player": "Ronald Araujo",
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/racing-santander/2026/08/08/ordago-chema-aragon-deja-punto-fichaje-agirrezabala.html",
   "fee": null,
   "published": "2026-08-08T13:12:51+00:00"
- },
- {
-  "id": "f8f551a093f3",
-  "title": "Ipswich sign midfielder Lukic from Fulham",
-  "player": "Sasa Lukic",
-  "title_ko": "풀럼의 입스위치 영입 미드필더 루키치",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c2lqg5jdjn0o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-08T12:43:31+00:00"
- },
- {
-  "id": "44d5a406ff21",
-  "title": "Mercato: tout juste parti de Bordeaux, Rio Mavuba devrait rebondir à Lille",
-  "player": "Rio Mavuba",
-  "title_ko": "Mercato: 방금 보르도를 떠났고 Rio Mavuba는 릴에서 다시 돌아올 것입니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-tout-juste-parti-de-bordeaux-rio-mavuba-devrait-rebondir-a-lille_AV-202608080175.html",
-  "fee": null,
-  "published": "2026-08-08T12:38:09+00:00"
  }
 ]
