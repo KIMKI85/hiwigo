@@ -1,5 +1,31 @@
 [
  {
+  "id": "55aa92bda178",
+  "title": "El Sevilla anuncia el acuerdo con el Estrela Amadora para el traspaso de Joan Jordán",
+  "player": "Estrela Amadora",
+  "title_ko": "세비야는 호안 조르단의 이적을 위해 에스트렐라 아마도라와 합의했다고 발표했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/10/sevilla-anuncia-acuerdo-estrela-amadora-traspaso-joan-jordan.html",
+  "fee": null,
+  "published": "2026-08-10T17:08:50+00:00"
+ },
+ {
+  "id": "b3ab6f51ee0c",
+  "title": "Arsenal mocked for eyeing up Vinicius Jnr transfer - 'You're not one of the big boys'",
+  "player": "Vinicius Jnr",
+  "title_ko": "비니시우스 주니어 이적을 노리는 아스날 - '당신은 빅 보이 중 하나가 아니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-future-mikel-37535610",
+  "fee": null,
+  "published": "2026-08-10T17:01:06+00:00"
+ },
+ {
   "id": "474e080607e6",
   "title": "Mercato: Toulouse repousse une offre record de Sunderland pour Dayann Methalie",
   "player": "Dayann Methalie",
