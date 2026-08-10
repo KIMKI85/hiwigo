@@ -1,5 +1,18 @@
 [
  {
+  "id": "f6be287a6c22",
+  "title": "Mercato: le Barça refuse une première offre du PSG pour Ferran Torres mais \"les négociations se poursuivent\"",
+  "player": "Ferran Torres",
+  "title_ko": "Mercato: Barça는 Ferran Torres에 대한 PSG의 첫 번째 제안을 거부했지만 “협상은 계속됩니다”",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-refuse-une-premiere-offre-du-psg-pour-ferran-torres-mais-les-negociations-se-poursuivent_AV-202608100468.html",
+  "fee": null,
+  "published": "2026-08-10T17:26:16+00:00"
+ },
+ {
   "id": "55aa92bda178",
   "title": "El Sevilla anuncia el acuerdo con el Estrela Amadora para el traspaso de Joan Jordán",
   "player": "Estrela Amadora",
@@ -113,6 +126,19 @@
   "lv": 1,
   "src": "Mirror Football",
   "url": "https://www.mirror.co.uk/sport/football/news/carabao-cup-premier-league-teams-37532300",
+  "fee": null,
+  "published": "2026-08-10T14:00:00+00:00"
+ },
+ {
+  "id": "f4a62e2706f6",
+  "title": "Crystal Palace latest: Could Munoz leave Eagles amid Khalaili move?",
+  "player": "Could Munoz",
+  "title_ko": "Crystal Palace 최신: Khalaili 이동 중에 Munoz가 Eagles를 떠날 수 있습니까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-08-10T14:00:00+00:00"
  },
