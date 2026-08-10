@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c46c5f6ea38",
+  "title": "Molina lands in Rome for Roma medical and signing",
+  "player": "Nahuel Molina",
+  "title_ko": "몰리나는 로마 메디컬과 계약을 위해 로마에 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/molina-lands-in-rome-for-roma-signing/",
+  "fee": null,
+  "published": "2026-08-10T19:20:00+00:00"
+ },
+ {
   "id": "c69b70a5be6c",
   "title": "Liverpool sign Ronald Araujo as club legend reaches out and Andoni Iraola gets his wish",
   "player": "Ronald Araujo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tottenham-cristian-romero-future-37528784",
   "fee": null,
   "published": "2026-08-08T14:56:37+00:00"
- },
- {
-  "id": "fc28dd36f3da",
-  "title": "Mercato: \"Je pense que la situation est claire\": Diego Simeone répète que Julian Alvarez n'est pas à vendre",
-  "player": "Diego Simeone",
-  "title_ko": "메르카토: \"상황은 분명하다고 생각합니다\": 디에고 시메오네는 줄리안 알바레즈가 판매 대상이 아니라고 반복합니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-je-pense-que-la-situation-est-claire-diego-simeone-repete-que-julian-alvarez-n-est-pas-a-vendre_AV-202608080197.html",
-  "fee": null,
-  "published": "2026-08-08T14:19:23+00:00"
  }
 ]
