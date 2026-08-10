@@ -1,5 +1,18 @@
 [
  {
+  "id": "0f61b554e14c",
+  "title": "Van de Ven signs new long-term deal with Spurs",
+  "player": "Van de Ven",
+  "title_ko": "반 데 벤(Van de Ven)은 스퍼스와 새로운 장기 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g362n1e28o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-10T20:59:50+00:00"
+ },
+ {
   "id": "821441c3f024",
   "title": "Aston Villa enquire for Juventus forward David in move that could unlock Zirkzee pursuit",
   "player": "Jonathan David",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-darwin-nunez-transfer-signing-37528764",
   "fee": null,
   "published": "2026-08-08T15:02:25+00:00"
- },
- {
-  "id": "9b819ed71003",
-  "title": "Schmidt über Neuzugang Costly: \"Daran gearbeitet, Ablöse herunterzuspielen\"",
-  "player": "Neuzugang Costly",
-  "title_ko": "새로운 계약에 대한 슈미트 Costly : \"이적료를 낮추기 위해 노력했습니다\"",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/schmidt-ueber-neuzugang-costly-daran-gearbeitet-abloese-herunterzuspielen-1241684/video#omrss",
-  "fee": null,
-  "published": "2026-08-08T15:01:51+00:00"
  }
 ]
