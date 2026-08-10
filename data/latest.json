@@ -13,6 +13,19 @@
   "published": "2026-08-10T18:30:00+00:00"
  },
  {
+  "id": "bd02a611f885",
+  "title": "Collins verstärkt Tasmania: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "Collins는 Tasmania를 강화합니다: 현재 지역 리그의 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/collins-verstaerkt-tasmania-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-10T18:02:58+00:00"
+ },
+ {
   "id": "6205af1152d8",
   "title": "Liverpool sign Araujo on loan from Barcelona",
   "player": "Ronald Araujo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20edq170p2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-08T12:25:20+00:00"
- },
- {
-  "id": "8b8a54ae2c01",
-  "title": "Official: Pellegrini signs new contract with Roma to June 2027",
-  "player": "Lorenzo Pellegrini",
-  "title_ko": "공식: 펠레그리니는 로마와 2027년 6월까지 재계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-pellegrini-signs-new-contract-roma/",
-  "fee": null,
-  "published": "2026-08-08T12:10:33+00:00"
  }
 ]
