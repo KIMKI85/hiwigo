@@ -1,5 +1,31 @@
 [
  {
+  "id": "040d935235b1",
+  "title": "Mercato: \"Des discussions sont en cours\", Mika Godts confirme des négociations avec le PSG",
+  "player": "Mika Godts",
+  "title_ko": "Mercato: \"논의 중\", Mika Godts, PSG와의 협상 확인",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-des-discussions-sont-en-cours-mika-godts-confirme-des-negociations-avec-le-psg_AN-202608100210.html",
+  "fee": null,
+  "published": "2026-08-10T07:45:15+00:00"
+ },
+ {
+  "id": "9f50651512a4",
+  "title": "Darwin Nunez prematurely announces Liverpool transfer with social media message",
+  "player": "Darwin Nunez",
+  "title_ko": "다윈 누네즈는 소셜 미디어 메시지로 리버풀 이적을 조기에 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/darwin-nunez-liverpool-ronald-araujo-37531675",
+  "fee": null,
+  "published": "2026-08-10T07:37:47+00:00"
+ },
+ {
   "id": "b6d92b6b6eb3",
   "title": "DIRECT. Mercato: toutes les infos et rumeurs du 10 août 2026 sur le marché des transferts en live",
   "player": "Ferran Torres",

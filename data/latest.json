@@ -1,5 +1,31 @@
 [
  {
+  "id": "040d935235b1",
+  "title": "Mercato: \"Des discussions sont en cours\", Mika Godts confirme des négociations avec le PSG",
+  "player": "Mika Godts",
+  "title_ko": "Mercato: \"논의 중\", Mika Godts, PSG와의 협상 확인",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-des-discussions-sont-en-cours-mika-godts-confirme-des-negociations-avec-le-psg_AN-202608100210.html",
+  "fee": null,
+  "published": "2026-08-10T07:45:15+00:00"
+ },
+ {
+  "id": "9f50651512a4",
+  "title": "Darwin Nunez prematurely announces Liverpool transfer with social media message",
+  "player": "Darwin Nunez",
+  "title_ko": "다윈 누네즈는 소셜 미디어 메시지로 리버풀 이적을 조기에 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/darwin-nunez-liverpool-ronald-araujo-37531675",
+  "fee": null,
+  "published": "2026-08-10T07:37:47+00:00"
+ },
+ {
   "id": "b6d92b6b6eb3",
   "title": "DIRECT. Mercato: toutes les infos et rumeurs du 10 août 2026 sur le marché des transferts en live",
   "player": "Ferran Torres",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
   "fee": null,
   "published": "2026-08-07T22:51:00+00:00"
- },
- {
-  "id": "a595ab22777a",
-  "title": "Mercato: un nouveau cadre de l'OM sur le départ? Newcastle se renseigne sur Pierre-Emile Hojbjerg",
-  "player": "Emile Hojbjerg",
-  "title_ko": "Mercato: 새로운 OM 임원이 떠날 예정인가요? 피에르-에밀 호이비에르에 대한 뉴캐슬 문의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-nouveau-cadre-de-l-om-sur-le-depart-newcastle-se-renseigne-sur-pierre-emile-hojbjerg_AP-202608070495.html",
-  "fee": null,
-  "published": "2026-08-07T21:38:42+00:00"
- },
- {
-  "id": "d169d8a58dac",
-  "title": "Man City explore Fernandez move - Saturday's gossip",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티, 페르난데스 이적 탐색 - 토요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-07T21:07:46+00:00"
  }
 ]
