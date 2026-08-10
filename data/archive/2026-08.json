@@ -1,5 +1,31 @@
 [
  {
+  "id": "1785a1f78a8f",
+  "title": "Liverpool can get five transfers wrapped up this week as developments made for £150m spree",
+  "player": null,
+  "title_ko": "리버풀은 £150m의 이적료로 이번 주에 5번의 이적을 마무리할 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-fc-transfer-window-signings-37532477",
+  "fee": "£150M",
+  "published": "2026-08-10T10:42:35+00:00"
+ },
+ {
+  "id": "f166c2cb0099",
+  "title": "Porto have agreement with Milan’s Gimenez but situation depends on Roma",
+  "player": "Santiago Gimenez",
+  "title_ko": "포르투는 밀란의 히메네즈와 합의했지만 상황은 로마에 달려있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/porto-agreement-milan-gimenez-involves-roma/",
+  "fee": null,
+  "published": "2026-08-10T10:36:20+00:00"
+ },
+ {
   "id": "7eb97873e5b6",
   "title": "Harry Kane to respond to Barcelona transfer interest with new bumper contract",
   "player": "Harry Kane",
