@@ -1,5 +1,18 @@
 [
  {
+  "id": "2e8f601679bb",
+  "title": "Liverpool sign Araujo from Barcelona",
+  "player": "Ronald Araujo",
+  "title_ko": "리버풀은 바르셀로나에서 아라우호를 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy",
+  "fee": null,
+  "published": "2026-08-10T18:30:00+00:00"
+ },
+ {
   "id": "f6be287a6c22",
   "title": "Mercato: le Barça refuse une première offre du PSG pour Ferran Torres mais \"les négociations se poursuivent\"",
   "player": "Ferran Torres",
