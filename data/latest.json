@@ -1,5 +1,44 @@
 [
  {
+  "id": "6d806bb00086",
+  "title": "OL - Sparta Prague : \"Nous devons marquer les premiers\", affirme Fonseca, prêt à prendre des risques",
+  "player": "Sparta Prague",
+  "title_ko": "OL – 스파르타 프라하: \"먼저 득점해야 합니다.\" 위험을 감수할 준비가 된 Fonseca가 말했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/video-ol-sparta-prague-nous-devons-marquer-les-premiers-affirme-fonseca-pret-a-prendre-des-risques_VN-202608100314.html",
+  "fee": null,
+  "published": "2026-08-10T11:37:27+00:00"
+ },
+ {
+  "id": "9b3cb9900a4a",
+  "title": "Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal",
+  "player": "Brennan Johnson-",
+  "title_ko": "크리스탈 팰리스와 에버턴은 브레넌 존슨-드와이트 맥닐 스왑 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/10/crystal-palace-everton-brennan-johnson-dwight-mcneil-transfer-roundup",
+  "fee": null,
+  "published": "2026-08-10T11:35:39+00:00"
+ },
+ {
+  "id": "c2979eb7034a",
+  "title": "Man Utd can finalise eight transfers this week including £89m of talent arriving",
+  "player": "Old Trafford",
+  "title_ko": "맨유는 이번 주에 8900만 파운드의 인재 영입을 포함해 8번의 이적을 마무리할 수 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-rashford-37533530",
+  "fee": "£89M",
+  "published": "2026-08-10T11:30:46+00:00"
+ },
+ {
   "id": "1785a1f78a8f",
   "title": "Liverpool can get five transfers wrapped up this week as developments made for £150m spree",
   "player": null,
@@ -50,6 +89,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": "£8M",
   "published": "2026-08-10T10:25:00+00:00"
+ },
+ {
+  "id": "4ba505391117",
+  "title": "Godts, Diaby, Gabriel Jesus... les 5 infos mercato du 10 août à midi",
+  "player": "Gabriel Jesus",
+  "title_ko": "갓츠, 디아비, 가브리엘 제수스...8월 10일 정오 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-godts-diaby-gabriel-jesus-les-5-infos-mercato-du-10-aout-a-midi_VN-202608100315.html",
+  "fee": null,
+  "published": "2026-08-10T10:15:18+00:00"
  },
  {
   "id": "5d2fd19047aa",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/jamie-carragher-liverpool-manchester-united-37527933",
   "fee": null,
   "published": "2026-08-08T08:45:10+00:00"
- },
- {
-  "id": "a627752dc232",
-  "title": "Liverpool agree shock deal for Barcelona star as Andoni Iraola gets transfer wish",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀은 안도니 이라올라가 이적 희망을 얻자 바르셀로나 스타에 대한 충격적인 거래에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-barcelona-ronald-araujo-loan-37527813",
-  "fee": null,
-  "published": "2026-08-08T06:56:05+00:00"
- },
- {
-  "id": "10f6054ef07f",
-  "title": "Mercato: Ronald Araujo fonce en prêt à Liverpool après avoir prolongé avec Barcelone la saison dernière",
-  "player": "Ronald Araujo",
-  "title_ko": "메르카토: 로날드 아라우조는 지난 시즌 바르셀로나와 연장한 후 리버풀로 임대됩니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ronald-araujo-fonce-en-pret-a-liverpool-apres-avoir-prolonge-avec-barcelone-la-saison-derniere_AV-202608080069.html",
-  "fee": null,
-  "published": "2026-08-08T06:15:08+00:00"
- },
- {
-  "id": "85f9e508ee67",
-  "title": "Man City agree deal to sign Marseille keeper Rulli",
-  "player": "Geronimo Rulli",
-  "title_ko": "맨시티, 마르세유 골키퍼 룰리 영입 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-08T06:00:37+00:00"
- },
- {
-  "id": "647d46162976",
-  "title": "Liverpool star refused to go on pre-season tour with £49m transfer forced through",
-  "player": null,
-  "title_ko": "리버풀 스타는 £49m 이적을 강제하면서 프리시즌 투어 참가를 거부했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-pre-season-tour-transfer-37509425",
-  "fee": "£49M",
-  "published": "2026-08-08T05:30:00+00:00"
  }
 ]
