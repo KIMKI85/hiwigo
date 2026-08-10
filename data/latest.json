@@ -1,5 +1,31 @@
 [
  {
+  "id": "3d6c70885fa3",
+  "title": "\"Ein tolles Signal\": VfB macht Pejcinovic-Transfer offiziell",
+  "player": "Dzenan Pejcinovic",
+  "title_ko": "\"훌륭한 신호\": VfB, 페이치노비치 이적 공식화",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/ein-tolles-signal-vfb-macht-pejcinovic-transfer-offiziell-1240073/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-10T14:03:55+00:00"
+ },
+ {
+  "id": "b74b51e74bbb",
+  "title": "Which Premier League teams are in Carabao Cup draw? When Man Utd, Liverpool and Arsenal join",
+  "player": null,
+  "title_ko": "카라바오컵 추첨에 어떤 프리미어리그 팀이 참여하나요? 맨유, 리버풀, 아스날이 합류하면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/carabao-cup-premier-league-teams-37532300",
+  "fee": null,
+  "published": "2026-08-10T14:00:00+00:00"
+ },
+ {
   "id": "292f38f48dc6",
   "title": "Mercato: le PSG veut recruter le jeune Montpelliérain Laciné Megnan-Pavé",
   "player": "Montpelliérain Laciné Megnan-",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/man-utd-transfers-hall-alternatives-37528130",
   "fee": null,
   "published": "2026-08-08T10:47:25+00:00"
- },
- {
-  "id": "9202efc7fa04",
-  "title": "Ferran Torres, Hojbjerg, Paredes… les 5 infos mercato du 8 août à midi",
-  "player": "Ferran Torres",
-  "title_ko": "페란 토레스, 호이비에르, 파레데스…8월 8일 정오 5시 이적시장 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-ferran-torres-hojbjerg-paredes-les-5-infos-mercato-du-8-aout-a-midi_VN-202608080151.html",
-  "fee": null,
-  "published": "2026-08-08T10:45:34+00:00"
- },
- {
-  "id": "a12c786ce73b",
-  "title": "Juventus press on for Lucumí with Cabal offered to unlock Bologna deal",
-  "player": "Jhon Lucumí",
-  "title_ko": "유벤투스는 카발과 함께 볼로냐 계약을 성사시키겠다고 제안하면서 루쿠미를 압박하고 있습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-press-on-for-lucumi-with-cabal/",
-  "fee": null,
-  "published": "2026-08-08T10:45:00+00:00"
  }
 ]

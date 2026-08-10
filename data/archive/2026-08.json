@@ -1,5 +1,31 @@
 [
  {
+  "id": "3d6c70885fa3",
+  "title": "\"Ein tolles Signal\": VfB macht Pejcinovic-Transfer offiziell",
+  "player": "Dzenan Pejcinovic",
+  "title_ko": "\"훌륭한 신호\": VfB, 페이치노비치 이적 공식화",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/ein-tolles-signal-vfb-macht-pejcinovic-transfer-offiziell-1240073/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-10T14:03:55+00:00"
+ },
+ {
+  "id": "b74b51e74bbb",
+  "title": "Which Premier League teams are in Carabao Cup draw? When Man Utd, Liverpool and Arsenal join",
+  "player": null,
+  "title_ko": "카라바오컵 추첨에 어떤 프리미어리그 팀이 참여하나요? 맨유, 리버풀, 아스날이 합류하면",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/carabao-cup-premier-league-teams-37532300",
+  "fee": null,
+  "published": "2026-08-10T14:00:00+00:00"
+ },
+ {
   "id": "292f38f48dc6",
   "title": "Mercato: le PSG veut recruter le jeune Montpelliérain Laciné Megnan-Pavé",
   "player": "Montpelliérain Laciné Megnan-",
