@@ -1,5 +1,18 @@
 [
  {
+  "id": "8bcbe7c1a978",
+  "title": "Villa in talks to sign Bayern's Palhinha",
+  "player": "Bayern's Palhinha",
+  "title_ko": "빌라, 바이에른 팔히냐 영입 협상 중",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-10T15:40:18+00:00"
+ },
+ {
   "id": "3b50f0d742bf",
   "title": "Goretzkas Nachfolger: Bayern verpflichtet Ndiaye fest",
   "player": "Goretzkas Nachfolger",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/transferts/mercato-le-champion-du-monde-ferran-torres-veut-rejoindre-le-psg_AV-202608080158.html",
   "fee": null,
   "published": "2026-08-08T11:04:18+00:00"
- },
- {
-  "id": "d9a27f46d17c",
-  "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
-  "player": "Bruno Guimarães",
-  "title_ko": "브루노 기마랑이스, £75m에 아스날 이적 완료: '나는 새로운 도전이 필요했다'",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football",
-  "fee": "£75M",
-  "published": "2026-08-08T11:00:48+00:00"
  }
 ]
