@@ -13,6 +13,19 @@
   "published": "2026-08-11T10:00:00+00:00"
  },
  {
+  "id": "80414913b19a",
+  "title": "PSG reach Suzuki agreement with Parma and could involve Juventus",
+  "player": null,
+  "title_ko": "PSG는 파르마와 스즈키 계약을 맺고 유벤투스도 참여할 수 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/psg-reach-suzuki-agreement-with-parma/",
+  "fee": null,
+  "published": "2026-08-11T09:51:55+00:00"
+ },
+ {
   "id": "16f439575343",
   "title": "Man Utd preparing for four transfer exits as Michael Carrick green lights departures",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-ronald-araujo-37529658",
   "fee": null,
   "published": "2026-08-09T06:50:31+00:00"
- },
- {
-  "id": "70855f0d00dd",
-  "title": "Man Utd, Arsenal and Chelsea target who had £87m release clause is now a free agent",
-  "player": null,
-  "title_ko": "8700만 파운드의 방출 조항을 갖고 있던 맨유, 아스날, 첼시의 타겟은 이제 자유계약 선수가 되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-chelsea-striker-37516773",
-  "fee": "£87M",
-  "published": "2026-08-09T05:30:00+00:00"
  }
 ]
