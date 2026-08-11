@@ -1,5 +1,18 @@
 [
  {
+  "id": "37e0bbd741f5",
+  "title": "Mercato: Ferran Torres au PSG, ça chauffe",
+  "player": "Ferran Torres",
+  "title_ko": "Mercato: PSG의 Ferran Torres, 상황이 뜨거워지고 있습니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-au-psg-ca-chauffe_AP-202608110540.html",
+  "fee": null,
+  "published": "2026-08-11T22:20:44+00:00"
+ },
+ {
   "id": "ade93bac9d13",
   "title": "Pogba expected to have Monaco contract terminated",
   "player": "Paul Pogba",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-10-aout-2026-sur-le-marche-des-transferts-en-live_LN-202608100152.html",
   "fee": null,
   "published": "2026-08-10T06:41:36+00:00"
- },
- {
-  "id": "82d0f5dcdaa5",
-  "title": "Rangers midfielder Diomande set for move to Turkey - gossip",
-  "player": "Mohamed Diomande",
-  "title_ko": "레인저스의 미드필더 디오만데가 터키로 이적할 예정 - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2klw97p97o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-10T06:29:07+00:00"
  }
 ]
