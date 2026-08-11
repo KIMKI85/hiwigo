@@ -13,6 +13,19 @@
   "published": "2026-08-11T16:23:18+00:00"
  },
  {
+  "id": "87c6714262be",
+  "title": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
+  "player": "Djed Spence",
+  "title_ko": "제드 스펜스(Djed Spence)는 인테르와 £25.6m 이적 협상을 통해 토트넘을 떠나게 되었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move",
+  "fee": "£25.6M",
+  "published": "2026-08-11T16:22:46+00:00"
+ },
+ {
   "id": "f467aa15681d",
   "title": "Martin Zubimendi dilemma shows Mikel Arteta and Arsenal face new transfer problem",
   "player": "Martin Zubimendi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-chalobah-joins-ambitious-como-chelsea/",
   "fee": null,
   "published": "2026-08-09T17:23:42+00:00"
- },
- {
-  "id": "3fb6fe01a7cb",
-  "title": "Digne completes move to PSG from Aston Villa",
-  "player": "Lucas Digne",
-  "title_ko": "디뉴, 아스톤 빌라에서 PSG로 이적 완료",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-09T17:12:56+00:00"
  }
 ]
