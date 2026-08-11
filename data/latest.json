@@ -78,6 +78,19 @@
   "published": "2026-08-10T21:59:52+00:00"
  },
  {
+  "id": "fbad3bbd801f",
+  "title": "Araujo über Liverpool-Wechsel: \"Habe keine Sekunde gezweifelt\"",
+  "player": "Ronald Araujo",
+  "title_ko": "아라우조, 리버풀 이적에 \"한 순간도 의심하지 않았다\"",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/araujo-ueber-liverpool-wechsel-habe-keine-sekunde-gezweifelt-1242174/video#omrss",
+  "fee": null,
+  "published": "2026-08-10T21:31:41+00:00"
+ },
+ {
   "id": "0f61b554e14c",
   "title": "Van de Ven signs new long-term deal with Spurs",
   "player": "Van de Ven",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-08T20:37:28+00:00"
- },
- {
-  "id": "f3492680d259",
-  "title": "Former Premier League star punished under new rule days after completing £20m transfer",
-  "player": "Will Lankshear",
-  "title_ko": "전 프리미어리그 스타, £20m 이적 완료 후 새로운 규정에 따라 처벌",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/middlesbrough-will-lankshear-wrexham-tottenham-37529318",
-  "fee": "£20M",
-  "published": "2026-08-08T19:10:37+00:00"
  }
 ]
