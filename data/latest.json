@@ -1,5 +1,18 @@
 [
  {
+  "id": "b9f0e8f509da",
+  "title": "Man Utd make decision on top transfer target after Myles Lewis-Skelly U-turn",
+  "player": "Myles Lewis-",
+  "title_ko": "맨유, 마일스 루이스-스켈리 유턴 이후 최고 이적 목표 결정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-myles-lewis-skelly-37539830",
+  "fee": null,
+  "published": "2026-08-11T16:23:18+00:00"
+ },
+ {
   "id": "f467aa15681d",
   "title": "Martin Zubimendi dilemma shows Mikel Arteta and Arsenal face new transfer problem",
   "player": "Martin Zubimendi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ce34v2eyn1qo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-09T17:12:56+00:00"
- },
- {
-  "id": "c91b29ada866",
-  "title": "Inter target Jones left out of Liverpool squad due to ‘hip issue’",
-  "player": "Curtis Jones",
-  "title_ko": "인테르 타깃 존스, '엉덩이 문제'로 인해 리버풀 스쿼드 제외",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-jones-liverpool-squad-due-to-hip-issue/",
-  "fee": null,
-  "published": "2026-08-09T17:00:55+00:00"
  }
 ]
