@@ -1,5 +1,18 @@
 [
  {
+  "id": "2289da370e75",
+  "title": "Chelsea and Man Utd offered Myles Lewis-Skelly as Arsenal open to shock sale despite new deal",
+  "player": "Myles Lewis-",
+  "title_ko": "첼시와 맨유는 아스날이 재계약에도 불구하고 충격적인 판매를 개시하자 마일스 루이스-스켈리를 제안했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-skelly-chelsea-man-utd-37537552",
+  "fee": null,
+  "published": "2026-08-11T10:37:59+00:00"
+ },
+ {
   "id": "34628d2cacb2",
   "title": "Paul Scholes begs Man Utd to sign £30m 'absolute clown' and admits 'you might laugh'",
   "player": "Paul Scholes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/diego-simeone-julian-alvarez-arsenal-37529791",
   "fee": null,
   "published": "2026-08-09T08:40:51+00:00"
- },
- {
-  "id": "fe54f4120640",
-  "title": "Michael Carrick provides Marcus Rashford update and confirms Man Utd star's next move",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 마커스 래쉬포드 업데이트를 제공하고 맨유 스타의 다음 움직임을 확인합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-rashford-manchester-united-update-37529704",
-  "fee": null,
-  "published": "2026-08-09T08:21:35+00:00"
  }
 ]
