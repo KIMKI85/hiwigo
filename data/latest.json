@@ -13,6 +13,19 @@
   "published": "2026-08-11T11:53:00+00:00"
  },
  {
+  "id": "f0fb2830cad4",
+  "title": "Vlahovic on the verge of Besiktas deal at €8m per season with major signing bonus",
+  "player": "Dusan Vlahovic",
+  "title_ko": "베식타스 직전의 블라호비치는 메이저 계약 보너스와 함께 시즌당 €8m에 계약했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vlahovic-on-verge-of-besiktas-agreement/",
+  "fee": "€8M",
+  "published": "2026-08-11T11:23:31+00:00"
+ },
+ {
   "id": "2289da370e75",
   "title": "Chelsea and Man Utd offered Myles Lewis-Skelly as Arsenal open to shock sale despite new deal",
   "player": "Myles Lewis-",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/mercato-la-belle-somme-que-l-ol-va-toucher-grace-au-transfert-de-bruno-guimaraes-a-arsenal_AV-202608090134.html",
   "fee": null,
   "published": "2026-08-09T10:35:31+00:00"
- },
- {
-  "id": "6725fa45b456",
-  "title": "Chelsea and Real Madrid eye Martin Zubimendi as Arsenal set price after Bruno Guimaraes transfer",
-  "player": "Martin Zubimendi",
-  "title_ko": "첼시와 레알 마드리드는 브루노 기마랑스 이적 후 아스날이 가격을 책정할 때 마틴 주비멘디를 주목하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/zubimendi-transfer-arsenal-real-madrid-37529860",
-  "fee": null,
-  "published": "2026-08-09T10:13:44+00:00"
  }
 ]
