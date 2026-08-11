@@ -1,5 +1,44 @@
 [
  {
+  "id": "53e5cca6621d",
+  "title": "Done Deal: Kristensen ready for Atalanta at €22m plus bonus",
+  "player": "Thomas Kristensen",
+  "title_ko": "완료된 거래: Kristensen은 €22m에 보너스를 더해 아탈란타로 이적할 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-kristensen-ready-atalanta-at-e22m/",
+  "fee": "€22M",
+  "published": "2026-08-11T12:31:40+00:00"
+ },
+ {
+  "id": "bfbe9505b288",
+  "title": "Rodri has a huge transfer decision to make - he's outgrown Man City and MUST leave",
+  "player": null,
+  "title_ko": "로드리는 거대한 이적 결정을 내려야 합니다. 그는 맨시티를 능가하고 떠나야 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/rodri-transfer-barcelona-real-madrid-37538610",
+  "fee": null,
+  "published": "2026-08-11T12:30:00+00:00"
+ },
+ {
+  "id": "5e30468769cd",
+  "title": "Man Utd 'ready to trigger release clause' and forced to act quick after £20m agreement",
+  "player": "Michael Carrick's",
+  "title_ko": "맨유는 '자유 조항 발동 준비', £20m 합의 후 신속히 조치해야",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-latest-salinas-37538299",
+  "fee": "£20M",
+  "published": "2026-08-11T12:28:24+00:00"
+ },
+ {
   "id": "314193aa41db",
   "title": "El fichaje de Ilenikhena se complica",
   "player": null,
@@ -63,6 +102,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utds-last-minute-attempt-37538199",
   "fee": null,
   "published": "2026-08-11T11:41:21+00:00"
+ },
+ {
+  "id": "8aa1c0d90221",
+  "title": "Man City have signed Anderson - why do they also want Bouaddi?",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티는 앤더슨을 영입했습니다. 그들은 왜 부아디도 원할까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson",
+  "fee": null,
+  "published": "2026-08-11T11:41:00+00:00"
  },
  {
   "id": "f0fb2830cad4",
@@ -1246,57 +1298,5 @@
   "url": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
   "fee": null,
   "published": "2026-08-09T13:23:00+00:00"
- },
- {
-  "id": "88f1db9be878",
-  "title": "Fulham agree £30m fee for Southampton's Charles",
-  "player": "Southampton's Charles",
-  "title_ko": "풀럼은 사우샘프턴의 찰스에게 £30m의 이적료에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-08-09T13:10:10+00:00"
- },
- {
-  "id": "cf577853fe58",
-  "title": "Lukaku, Fenerbahce and Napoli confident of agreement within 48 hours",
-  "player": "Romelu Lukaku",
-  "title_ko": "루카쿠, 페네르바체, 나폴리는 48시간 내 합의를 확신",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lukaku-fenerbahce-napoli-confident-agreement/",
-  "fee": null,
-  "published": "2026-08-09T13:06:23+00:00"
- },
- {
-  "id": "0a3998ac7e40",
-  "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
-  "player": "Scotland Under-",
-  "title_ko": "세비야는 스코틀랜드의 스트라이커 우레(Ure)를 790만 파운드(약 79억 원)에 영입하는 데 가까워졌습니다.",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo?at_medium=RSS&at_campaign=rss",
-  "fee": "£7.9M",
-  "published": "2026-08-09T12:29:04+00:00"
- },
- {
-  "id": "12352f07ea5d",
-  "title": "Man Utd working on deal to sign Leicester teenager Page",
-  "player": "Louis Page",
-  "title_ko": "맨유, 레스터의 10대 소년 페이지 영입을 위해 노력 중",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-09T12:13:59+00:00"
  }
 ]

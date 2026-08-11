@@ -1,5 +1,44 @@
 [
  {
+  "id": "53e5cca6621d",
+  "title": "Done Deal: Kristensen ready for Atalanta at €22m plus bonus",
+  "player": "Thomas Kristensen",
+  "title_ko": "완료된 거래: Kristensen은 €22m에 보너스를 더해 아탈란타로 이적할 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-kristensen-ready-atalanta-at-e22m/",
+  "fee": "€22M",
+  "published": "2026-08-11T12:31:40+00:00"
+ },
+ {
+  "id": "bfbe9505b288",
+  "title": "Rodri has a huge transfer decision to make - he's outgrown Man City and MUST leave",
+  "player": null,
+  "title_ko": "로드리는 거대한 이적 결정을 내려야 합니다. 그는 맨시티를 능가하고 떠나야 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/rodri-transfer-barcelona-real-madrid-37538610",
+  "fee": null,
+  "published": "2026-08-11T12:30:00+00:00"
+ },
+ {
+  "id": "5e30468769cd",
+  "title": "Man Utd 'ready to trigger release clause' and forced to act quick after £20m agreement",
+  "player": "Michael Carrick's",
+  "title_ko": "맨유는 '자유 조항 발동 준비', £20m 합의 후 신속히 조치해야",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-latest-salinas-37538299",
+  "fee": "£20M",
+  "published": "2026-08-11T12:28:24+00:00"
+ },
+ {
   "id": "314193aa41db",
   "title": "El fichaje de Ilenikhena se complica",
   "player": null,
@@ -63,6 +102,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utds-last-minute-attempt-37538199",
   "fee": null,
   "published": "2026-08-11T11:41:21+00:00"
+ },
+ {
+  "id": "8aa1c0d90221",
+  "title": "Man City have signed Anderson - why do they also want Bouaddi?",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티는 앤더슨을 영입했습니다. 그들은 왜 부아디도 원할까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson",
+  "fee": null,
+  "published": "2026-08-11T11:41:00+00:00"
  },
  {
   "id": "f0fb2830cad4",
