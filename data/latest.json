@@ -1,5 +1,31 @@
 [
  {
+  "id": "34628d2cacb2",
+  "title": "Paul Scholes begs Man Utd to sign £30m 'absolute clown' and admits 'you might laugh'",
+  "player": "Paul Scholes",
+  "title_ko": "폴 스콜스는 맨유에게 3000만 파운드(약 300억 원)의 계약을 요구하고 '절대 광대'라고 인정하며 '웃을 수도 있다'고 인정했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/scholes-romero-man-utd-transfer-37537425",
+  "fee": "£30M",
+  "published": "2026-08-11T10:30:39+00:00"
+ },
+ {
+  "id": "e71213ebbdae",
+  "title": "Suzuki, Medina, Lautaro Martinez... les 5 infos mercato du 11 août à midi",
+  "player": "Lautaro Martinez",
+  "title_ko": "스즈키, 메디나, 라우타로 마르티네스...8월 11일 정오 5시 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-suzuki-medina-lautaro-martinez-les-5-infos-mercato-du-11-aout-a-midi_VN-202608110278.html",
+  "fee": null,
+  "published": "2026-08-11T10:20:36+00:00"
+ },
+ {
   "id": "228ddbea296d",
   "title": "Arsenal set to receive millions back from Newcastle days after Bruno Guimaraes transfer",
   "player": "Bruno Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-rashford-manchester-united-update-37529704",
   "fee": null,
   "published": "2026-08-09T08:21:35+00:00"
- },
- {
-  "id": "40f808aa71ee",
-  "title": "El mejor fichaje es Mikel Oyarzabal",
-  "player": "Mikel Oyarzabal",
-  "title_ko": "최고의 영입은 미켈 오야르자발이다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/09/mejor-fichaje-mikel-oyarzabal.html",
-  "fee": null,
-  "published": "2026-08-09T08:06:19+00:00"
- },
- {
-  "id": "52f8c3ffdd44",
-  "title": "Chelsea flop set for MLS move just two months after Cesc Fabregas punt",
-  "player": "Cesc Fabregas",
-  "title_ko": "세스크 파브레가스의 펀트 이후 불과 두 달 만에 MLS 이적을 위한 첼시 플롭 설정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-morata-como-fabregas-37529422",
-  "fee": null,
-  "published": "2026-08-09T07:17:09+00:00"
  }
 ]
