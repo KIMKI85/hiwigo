@@ -1,5 +1,18 @@
 [
  {
+  "id": "f467aa15681d",
+  "title": "Martin Zubimendi dilemma shows Mikel Arteta and Arsenal face new transfer problem",
+  "player": "Martin Zubimendi",
+  "title_ko": "Martin Zubimendi 딜레마는 Mikel Arteta와 Arsenal이 새로운 이적 문제에 직면했음을 보여줍니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-martin-zubimendi-future-guimaraes-37537445",
+  "fee": null,
+  "published": "2026-08-11T16:00:00+00:00"
+ },
+ {
   "id": "2ace51c5d6a7",
   "title": "Zweiter WM-Finalist im Kader: Bayer macht Medina-Transfer offiziell",
   "player": "Facundo Medina",
@@ -11,6 +24,19 @@
   "url": "https://www.kicker.de/zweiter-wm-finalist-im-kader-bayer-macht-medina-transfer-offiziell-1241675/artikel#omrss",
   "fee": null,
   "published": "2026-08-11T15:53:48+00:00"
+ },
+ {
+  "id": "c32a604d4563",
+  "title": "Wrexham sign Sunderland goalkeeper Patterson",
+  "player": "Goalkeeper Anthony Patterson",
+  "title_ko": "렉섬은 선더랜드의 골키퍼 패터슨을 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx256kz7nkko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-11T15:30:53+00:00"
  },
  {
   "id": "f454c52b0a78",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/inter-jones-liverpool-squad-due-to-hip-issue/",
   "fee": null,
   "published": "2026-08-09T17:00:55+00:00"
- },
- {
-  "id": "4743beaa1cf9",
-  "title": "De Rossi: ‘Transfer market open after Week 2 of season is an abomination’",
-  "player": "De Rossi",
-  "title_ko": "데 로시 \"시즌 2주차 이후 이적시장 열리는 것은 정말 끔찍한 일\"",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/de-rossi-transfer-market-open-an-abomination/",
-  "fee": null,
-  "published": "2026-08-09T16:49:29+00:00"
- },
- {
-  "id": "46bcc2d491a9",
-  "title": "Arsenal next transfer priority is clear after Vinicius Jr blow and Borussia Dortmund defeat",
-  "player": "Vinicius Jr",
-  "title_ko": "비니시우스 주니어 타격과 보루시아 도르트문트 패배 후 아스날의 다음 이적 우선 순위는 분명합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-dortmund-arteta-transfers-37530828",
-  "fee": null,
-  "published": "2026-08-09T16:00:47+00:00"
  }
 ]
