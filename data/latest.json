@@ -1,5 +1,18 @@
 [
  {
+  "id": "ccd26ce26eba",
+  "title": "Done Deal: Vlahovic agreement with Besiktas on 3-year contract",
+  "player": "Dusan Vlahovic",
+  "title_ko": "거래 완료: 블라호비치와 베식타스와 3년 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-vlahovic-agreement-besiktas-contract/",
+  "fee": null,
+  "published": "2026-08-11T17:51:41+00:00"
+ },
+ {
   "id": "2aaa7c43cc37",
   "title": "Official: Dominguez joins Sassuolo from Bologna with purchase option at €10m",
   "player": "Benjamin Dominguez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-09T21:04:49+00:00"
- },
- {
-  "id": "14120fea926c",
-  "title": "Milan agreement to loan Athekame to Olympique Lyonnais",
-  "player": "Olympique Lyonnais",
-  "title_ko": "밀란은 아테카메를 올림피크 리옹에 임대하기로 합의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-loan-athekame-to-olympique-lyonnais/",
-  "fee": null,
-  "published": "2026-08-09T18:53:51+00:00"
  }
 ]
