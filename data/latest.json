@@ -26,6 +26,19 @@
   "published": "2026-08-11T11:53:00+00:00"
  },
  {
+  "id": "20078e639c46",
+  "title": "Transfer roundup: Nottingham Forest seal £34m deal for Sporting’s Diomande",
+  "player": "Shea Charles",
+  "title_ko": "이적 정리: 노팅엄 포레스트는 스포르팅의 디오망드에게 3400만 파운드의 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles",
+  "fee": "£34M",
+  "published": "2026-08-11T11:47:24+00:00"
+ },
+ {
   "id": "16fcdce62254",
   "title": "Man Utd's last-minute attempt to sign Real Madrid star Endrick revealed",
   "player": "Jose Mourinho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-barcelona-37530078",
   "fee": null,
   "published": "2026-08-09T11:35:34+00:00"
- },
- {
-  "id": "e9de1ec7b755",
-  "title": "PSG move could hand Marcus Rashford last-gasp Man Utd transfer with Barcelona reunion",
-  "player": "Marcus Rashford",
-  "title_ko": "PSG 이적은 마커스 래쉬포드가 바르셀로나 재결합과 함께 맨유 이적에 마지막 기회를 줄 수 있다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-psg-barcelona-torres-37529922",
-  "fee": null,
-  "published": "2026-08-09T11:26:37+00:00"
  }
 ]
