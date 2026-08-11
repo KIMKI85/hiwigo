@@ -1,5 +1,31 @@
 [
  {
+  "id": "33d306209120",
+  "title": "Done Deal: Ruggeri agrees personal terms with Aston Villa at total €26.5m transfer",
+  "player": "Matteo Ruggeri",
+  "title_ko": "거래 완료: Ruggeri는 총 €26.5m 이적료로 Aston Villa와 개인 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-ruggeri-agrees-personal-terms-aston-villa/",
+  "fee": "€26.5M",
+  "published": "2026-08-11T21:41:13+00:00"
+ },
+ {
+  "id": "7b24f0bbd99a",
+  "title": "Tottenham could hand Arsenal major transfer boost after opening Folarin Balogun talks",
+  "player": "Folarin Balogun",
+  "title_ko": "토트넘은 Folarin Balogun 회담을 개시한 후 아스날의 주요 이적 촉진을 제공할 수 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-transfers-folarin-balogun-arsenal-37540665",
+  "fee": null,
+  "published": "2026-08-11T21:36:42+00:00"
+ },
+ {
   "id": "a99406e18c1b",
   "title": "Roma change Mora terms for FC Porto, loan with option worth total €50m",
   "player": "Sky Sport Italia",
