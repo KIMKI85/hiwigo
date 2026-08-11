@@ -13,6 +13,32 @@
   "published": "2026-08-11T10:00:00+00:00"
  },
  {
+  "id": "16f439575343",
+  "title": "Man Utd preparing for four transfer exits as Michael Carrick green lights departures",
+  "player": "Michael Carrick",
+  "title_ko": "맨유는 마이클 캐릭의 녹색 신호가 출발함에 따라 4개의 이적 출구를 준비하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-player-exits-zirkzee-37536812",
+  "fee": null,
+  "published": "2026-08-11T09:36:48+00:00"
+ },
+ {
+  "id": "775b4edb8ff6",
+  "title": "Fenerbahce strike Lukaku agreement with Napoli: Details revealed",
+  "player": null,
+  "title_ko": "페네르바체, 루카쿠 공격 나폴리와 합의: 세부 사항 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fenerbahce-reach-lukaku-agreement-with-napoli/",
+  "fee": null,
+  "published": "2026-08-11T09:21:52+00:00"
+ },
+ {
   "id": "2cfb7c952c88",
   "title": "Everton and Palace complete McNeil-Johnson swap",
   "player": "Brennan Johnson",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-chelsea-striker-37516773",
   "fee": "£87M",
   "published": "2026-08-09T05:30:00+00:00"
- },
- {
-  "id": "f0e54f3ea492",
-  "title": "Steven Gerrard lambasted 'disastrous' Liverpool transfer and pointed finger of blame at manager",
-  "player": "Steven Gerrard",
-  "title_ko": "스티븐 제라드는 '비참한' 리버풀 이적을 비난하고 감독을 비난했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-steven-gerrard-manager-37515737",
-  "fee": null,
-  "published": "2026-08-09T05:00:00+00:00"
- },
- {
-  "id": "ab4e67df09de",
-  "title": "'I negotiated Man Utd transfer – they paid more than double what we expected'",
-  "player": null,
-  "title_ko": "'나는 맨유 이적에 대해 협상했습니다. 그들은 우리가 기대했던 것보다 두 배 이상 많은 돈을 지불했습니다.'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-luke-shaw-37512012",
-  "fee": null,
-  "published": "2026-08-09T04:30:00+00:00"
  }
 ]
