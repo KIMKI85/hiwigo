@@ -1,5 +1,18 @@
 [
  {
+  "id": "d4feb2021417",
+  "title": "Crystal Palace in talks to re-sign Guessand on loan",
+  "player": "Ivory Coast",
+  "title_ko": "크리스탈팰리스, 게상드 임대 재계약 논의 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czrjee6gzkxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-11T11:54:57+00:00"
+ },
+ {
   "id": "4d76170c1e6e",
   "title": "Nottingham Forest sign defender Diomande in £34m deal",
   "player": "Ivory Coast",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13571913/ousmane-diomande-nottingham-forest-sign-sporting-defender-for-34-3m-on-four-year-deal",
   "fee": "£34M",
   "published": "2026-08-11T11:53:00+00:00"
+ },
+ {
+  "id": "16fcdce62254",
+  "title": "Man Utd's last-minute attempt to sign Real Madrid star Endrick revealed",
+  "player": "Jose Mourinho",
+  "title_ko": "레알 마드리드의 스타 엔드릭을 영입하려는 맨유의 막판 시도가 공개됐다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utds-last-minute-attempt-37538199",
+  "fee": null,
+  "published": "2026-08-11T11:41:21+00:00"
  },
  {
   "id": "f0fb2830cad4",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-psg-barcelona-torres-37529922",
   "fee": null,
   "published": "2026-08-09T11:26:37+00:00"
- },
- {
-  "id": "aac0a6c29235",
-  "title": "Araujo, Lukaku, Ghedjemis... les 5 infos mercato du 9 août à la mi-journée",
-  "player": "Ronald Araujo",
-  "title_ko": "아라우조, 루카쿠, 게제미스...8월 9일 정오부터 5번 이적 창구 안내",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-araujo-lukaku-ghedjemis-les-5-infos-mercato-du-9-aout-a-la-mi-journee_VN-202608090144.html",
-  "fee": null,
-  "published": "2026-08-09T11:17:05+00:00"
- },
- {
-  "id": "5d22cb705252",
-  "title": "Mercato: la belle somme que l'OL va toucher grâce au transfert de Bruno Guimaraes à Arsenal",
-  "player": "Bruno Guimaraes",
-  "title_ko": "Mercato: Bruno Guimaraes를 Arsenal로 이적한 덕분에 OL이 받게 될 좋은 금액",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/mercato-la-belle-somme-que-l-ol-va-toucher-grace-au-transfert-de-bruno-guimaraes-a-arsenal_AV-202608090134.html",
-  "fee": null,
-  "published": "2026-08-09T10:35:31+00:00"
  }
 ]
