@@ -1,5 +1,18 @@
 [
  {
+  "id": "ade93bac9d13",
+  "title": "Pogba expected to have Monaco contract terminated",
+  "player": "Paul Pogba",
+  "title_ko": "포그바, 모나코 계약 해지 예상",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-11T21:59:39+00:00"
+ },
+ {
   "id": "33d306209120",
   "title": "Done Deal: Ruggeri agrees personal terms with Aston Villa at total €26.5m transfer",
   "player": "Matteo Ruggeri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2klw97p97o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-10T06:29:07+00:00"
- },
- {
-  "id": "e943199d1283",
-  "title": "Transfer news LIVE: Arsenal 'make contact' with Liverpool target, Man Utd £35m enquiry, Rashford latest",
-  "player": null,
-  "title_ko": "이적 뉴스 라이브: 아스날이 리버풀 타깃과 '접촉', 맨유 £35m 문의, 래쉬포드 최신",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37531587",
-  "fee": "£35M",
-  "published": "2026-08-10T06:11:30+00:00"
  }
 ]
