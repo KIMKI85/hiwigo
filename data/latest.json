@@ -1,5 +1,31 @@
 [
  {
+  "id": "1324e6d89447",
+  "title": "Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
+  "player": "Sebastian Krug",
+  "title_ko": "PL 클럽이 원하는 홀란드와 벨링엄 이적 뒤에 있는 도르트문트 스카우트",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs",
+  "fee": null,
+  "published": "2026-08-11T09:00:00+00:00"
+ },
+ {
+  "id": "d8e0a7740d42",
+  "title": "Audacious Marcus Rashford swap deal proposed with Arsenal star joining Man Utd",
+  "player": "Audacious Marcus Rashford",
+  "title_ko": "맨유 합류 아스날 스타에게 대담한 마커스 래시포드 스왑 딜 제안",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/audacious-marcus-rashford-swap-deal-37536513",
+  "fee": null,
+  "published": "2026-08-11T07:59:22+00:00"
+ },
+ {
   "id": "b90ab507c8ed",
   "title": "Rangers agree £6.5m deal for PSV's Driouech - gossip",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-update-37528696",
   "fee": "£85M",
   "published": "2026-08-09T03:00:00+00:00"
- },
- {
-  "id": "c372231966bd",
-  "title": "Einigung erzielt: Wolfsburgs Stürmer Pejcinovic vor Wechsel zum VfB",
-  "player": "Wolfsburgs Stürmer Pejcinovic",
-  "title_ko": "합의 도달: 볼프스부르크의 스트라이커 페이치노비치가 VfB로 이적하기 전",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/einigung-erzielt-wolfsburgs-stuermer-pejcinovic-vor-wechsel-zum-vfb-1241763/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-08T21:21:45+00:00"
- },
- {
-  "id": "fe4abb0b595a",
-  "title": "Barca make second bid for Rodri - Sunday's gossip",
-  "player": "Cristian Romero",
-  "title_ko": "바르샤가 로드리에게 두 번째 제의를 했다 - 일요일의 가십",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-08T20:37:28+00:00"
  }
 ]
