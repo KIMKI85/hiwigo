@@ -1,5 +1,18 @@
 [
  {
+  "id": "1bc410aa178a",
+  "title": "'Incredible' Jarrod Bowen move will help West Ham win Championship claims ex-England star",
+  "player": "Incredible' Jarrod Bowen",
+  "title_ko": "'인크레더블' Jarrod Bowen의 움직임은 West Ham이 챔피언십에서 우승하는 데 도움이 될 것입니다. 전 잉글랜드 스타",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/incredible-jarrod-bowen-move-help-37535364",
+  "fee": null,
+  "published": "2026-08-11T15:07:41+00:00"
+ },
+ {
   "id": "41f531f34a88",
   "title": "Banda saga intensifies as FIGC refuse Swahly SC transfer due to Lecce contract",
   "player": "Lameck Banda",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/molina-schedule-for-roma-medical-test-contract/",
   "fee": null,
   "published": "2026-08-09T15:34:38+00:00"
- },
- {
-  "id": "8c2b7ad857a8",
-  "title": "Man Utd in driving seat to beat Arsenal and Aston Villa to wonderkid transfer",
-  "player": null,
-  "title_ko": "맨유, 아스날과 애스턴 빌라를 꺾고 원더키드 이적을 위해 운전석에 앉다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-page-transfer-leicester-37530615",
-  "fee": null,
-  "published": "2026-08-09T15:06:00+00:00"
  }
 ]
