@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ae21ccab45d",
+  "title": "Real Madrid plot shock Martin Zubimendi transfer as Arsenal left with dilemma",
+  "player": "Martin Zubimendi",
+  "title_ko": "레알 마드리드 음모는 마르틴 주비멘디 이적에 충격을 주었고 아스날은 딜레마에 빠졌다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-real-madrid-martin-zubimendi-37540480",
+  "fee": null,
+  "published": "2026-08-11T18:20:11+00:00"
+ },
+ {
   "id": "50eab9b90f78",
   "title": "Mercato: vers une fin d’aventure entre Paul Pogba et l’AS Monaco",
   "player": "Paul Pogba",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/08/09/joan-jordan-lisboa-cerrar-fichaje-estrela-amadora.html",
   "fee": null,
   "published": "2026-08-09T21:21:27+00:00"
- },
- {
-  "id": "58bff84fa173",
-  "title": "Transfer roundup: Fulham agree £30m deal for Charles, Chalobah checks in at Como",
-  "player": "Northern Ireland",
-  "title_ko": "이적 요약: 풀럼은 찰스의 £30m 거래에 동의했고, 찰로바는 코모에 체크인했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/09/transfer-roundup-fulham-agree-deal-shea-charles-southampton-trevoh-chalobah-como",
-  "fee": "£30M",
-  "published": "2026-08-09T21:14:16+00:00"
  }
 ]
