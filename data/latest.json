@@ -1,5 +1,18 @@
 [
  {
+  "id": "057695bb4519",
+  "title": "Frattesi targeted for Lazio loan, but Inter still hope for Nottingham Forest",
+  "player": "Davide Frattesi",
+  "title_ko": "프라테시는 라치오 임대를 노리고 있지만 인테르는 여전히 노팅엄 포레스트를 원하고 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frattesi-target-lazio-inter-nottingham-forest/",
+  "fee": null,
+  "published": "2026-08-11T18:49:44+00:00"
+ },
+ {
   "id": "1ae21ccab45d",
   "title": "Real Madrid plot shock Martin Zubimendi transfer as Arsenal left with dilemma",
   "player": "Martin Zubimendi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13571792/aston-villa-keen-on-loan-deal-for-real-madrid-wonderkid-endrick-paper-talk",
   "fee": null,
   "published": "2026-08-09T23:00:00+00:00"
- },
- {
-  "id": "fd9cdc41b638",
-  "title": "Joan Jordán, en Lisboa para cerrar su fichaje por el Estrela Amadora",
-  "player": "Joan Jordán",
-  "title_ko": "Estrela Amadora와의 계약을 마무리하기 위해 리스본에서 Joan Jordán",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/09/joan-jordan-lisboa-cerrar-fichaje-estrela-amadora.html",
-  "fee": null,
-  "published": "2026-08-09T21:21:27+00:00"
  }
 ]
