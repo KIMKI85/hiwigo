@@ -1,5 +1,18 @@
 [
  {
+  "id": "a33227005dfa",
+  "title": "Torres misses Barcelona training to finalise PSG move",
+  "player": "Spain's World",
+  "title_ko": "토레스는 PSG 이적을 마무리하기 위한 바르셀로나 훈련을 놓쳤습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgljpye101xo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-12T09:13:34+00:00"
+ },
+ {
   "id": "28a1dcba8a45",
   "title": "Mercato: les indésirables du Barça enragent contre leur direction",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-transfer-atletico-37534156",
   "fee": null,
   "published": "2026-08-10T13:04:14+00:00"
- },
- {
-  "id": "94a262c06b9e",
-  "title": "Arsenal open transfer talks over next deal but major hurdle could stop record move",
-  "player": "Gabriel Martinelli",
-  "title_ko": "아스날은 다음 거래에 대해 공개 이적을 논의하지만 큰 장애물로 인해 기록적인 움직임이 멈출 수 있습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-talks-37533722",
-  "fee": null,
-  "published": "2026-08-10T11:43:51+00:00"
  }
 ]
