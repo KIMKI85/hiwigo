@@ -26,6 +26,19 @@
   "published": "2026-08-12T21:30:00+00:00"
  },
  {
+  "id": "c6b7ce1a93c1",
+  "title": "Atletico agree £34.2m deal for Tottenham's Romero",
+  "player": "Tottenham's Romero",
+  "title_ko": "아틀레티코는 토트넘의 로메로와 £34.2m의 계약을 맺었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
+  "fee": "£34.2M",
+  "published": "2026-08-12T21:18:21+00:00"
+ },
+ {
   "id": "5066747864d5",
   "title": "Doch noch ein \"Statement\"-Transfer: Besiktas bekommt Vlahovic",
   "player": "Die Konkurrenz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs",
   "fee": null,
   "published": "2026-08-11T09:00:00+00:00"
- },
- {
-  "id": "1fa86be68af6",
-  "title": "Football transfer rumours: Vardy to West Ham? Madrid move for Zubimendi?",
-  "player": "Bruno Guimarães",
-  "title_ko": "축구 이적 루머: 바디에서 웨스트햄으로? 마드리드가 주비멘디를 영입할 것인가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/11/football-transfer-rumour-mill-jamie-vardy-west-ham-real-madrid-zubimendi",
-  "fee": null,
-  "published": "2026-08-11T08:37:22+00:00"
  }
 ]
