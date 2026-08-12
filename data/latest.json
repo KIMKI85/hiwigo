@@ -1,5 +1,18 @@
 [
  {
+  "id": "6ab15bbb5418",
+  "title": "Giménez agrees to Porto move as Milan hold out over the details",
+  "player": "Santiago Giménez",
+  "title_ko": "밀란이 세부 사항을 놓고 고민하는 가운데 히메네스는 포르투 이적에 동의했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gimenez-agrees-to-porto-move-as-milan/",
+  "fee": null,
+  "published": "2026-08-12T08:20:00+00:00"
+ },
+ {
   "id": "4dd0def5423c",
   "title": "Newcastle join Lazio in race for Inter’s Frattesi after Stanković snub",
   "player": "Davide Frattesi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-fc-transfer-window-signings-37532477",
   "fee": "£150M",
   "published": "2026-08-10T10:42:35+00:00"
- },
- {
-  "id": "f166c2cb0099",
-  "title": "Porto have agreement with Milan’s Gimenez but situation depends on Roma",
-  "player": "Santiago Gimenez",
-  "title_ko": "포르투는 밀란의 히메네즈와 합의했지만 상황은 로마에 달려있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/porto-agreement-milan-gimenez-involves-roma/",
-  "fee": null,
-  "published": "2026-08-10T10:36:20+00:00"
  }
 ]
