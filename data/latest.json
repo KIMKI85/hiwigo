@@ -1,5 +1,18 @@
 [
  {
+  "id": "b5dcb812e324",
+  "title": "Done Deal: Romero ready for Parma in €7m agreement with Tigre",
+  "player": "David Romero",
+  "title_ko": "거래 완료: 로메로가 티그레와 €7m 계약을 맺고 파르마로 이적할 준비가 되었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-romero-ready-for-parma-e7m-tigres/",
+  "fee": "€7M",
+  "published": "2026-08-12T16:33:27+00:00"
+ },
+ {
   "id": "701bc01de5d3",
   "title": "Tottenham reach agreement with Inter Milan after making Djed Spence compromise",
   "player": "Djed Spence",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/araujo-ueber-liverpool-wechsel-habe-keine-sekunde-gezweifelt-1242174/video#omrss",
   "fee": null,
   "published": "2026-08-10T21:31:41+00:00"
- },
- {
-  "id": "0f61b554e14c",
-  "title": "Van de Ven signs new long-term deal with Spurs",
-  "player": "Van de Ven",
-  "title_ko": "반 데 벤(Van de Ven)은 스퍼스와 새로운 장기 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4g362n1e28o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-10T20:59:50+00:00"
  }
 ]
