@@ -1,5 +1,31 @@
 [
  {
+  "id": "7cae6ba22cfa",
+  "title": "Man Utd chief gets blunt response to transfer approach - 'I'd tell him to go away'",
+  "player": "Leicester City's Louis",
+  "title_ko": "맨유 단장, 이적 접근에 직설적 반응 - '나는 그에게 떠나라고 말하고 싶다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-wilcox-russell-leicester-37544895",
+  "fee": null,
+  "published": "2026-08-12T16:50:57+00:00"
+ },
+ {
+  "id": "180eef788e61",
+  "title": "Jadon Sancho hits new low as club reject free transfer for Man Utd flop",
+  "player": "Jadon Sancho",
+  "title_ko": "Jadon Sancho는 클럽이 Man Utd의 실패에 대한 자유 이적을 거부하면서 새로운 최저치를 기록했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-man-utd-transfer-37544878",
+  "fee": null,
+  "published": "2026-08-12T16:43:00+00:00"
+ },
+ {
   "id": "b5dcb812e324",
   "title": "Done Deal: Romero ready for Parma in €7m agreement with Tigre",
   "player": "David Romero",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-kenan-yildiz-martinelli-37534774",
   "fee": null,
   "published": "2026-08-11T03:00:00+00:00"
- },
- {
-  "id": "230bf711c92c",
-  "title": "Mercato: Barcelone mise sur Lautaro Martinez en cas d’échec avec Julian Alvarez",
-  "player": "Lautaro Martinez",
-  "title_ko": "Mercato: 바르셀로나는 Julian Alvarez에게 실패할 경우 Lautaro Martinez에 베팅합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barcelone-mise-sur-lautaro-martinez-en-cas-d-echec-avec-julian-alvarez_AV-202608100540.html",
-  "fee": null,
-  "published": "2026-08-10T21:59:52+00:00"
- },
- {
-  "id": "fbad3bbd801f",
-  "title": "Araujo über Liverpool-Wechsel: \"Habe keine Sekunde gezweifelt\"",
-  "player": "Ronald Araujo",
-  "title_ko": "아라우조, 리버풀 이적에 \"한 순간도 의심하지 않았다\"",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/araujo-ueber-liverpool-wechsel-habe-keine-sekunde-gezweifelt-1242174/video#omrss",
-  "fee": null,
-  "published": "2026-08-10T21:31:41+00:00"
  }
 ]
