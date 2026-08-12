@@ -1,5 +1,31 @@
 [
  {
+  "id": "1096e592a007",
+  "title": "Official: Lukaku completes move from Napoli to Fenerbahce for €6m plus bonus",
+  "player": "Romelu Lukaku",
+  "title_ko": "공식: 루카쿠는 600만 유로에 보너스를 더해 나폴리에서 페네르바체로 이적을 완료했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lukaku-complete-napoli-to-fenerbahce/",
+  "fee": "€6M",
+  "published": "2026-08-12T16:01:39+00:00"
+ },
+ {
+  "id": "d827e7b25dd9",
+  "title": "El administrador calma el mercado: \"Hay dinero para hacer varios fichajes\"",
+  "player": null,
+  "title_ko": "관리자는 \"여러 계약을 할 돈이 있다\"고 시장을 진정시켰다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/12/administrador-calma-mercado-hay-dinero-fichajes.html",
+  "fee": null,
+  "published": "2026-08-12T15:57:02+00:00"
+ },
+ {
   "id": "6f2678c13efc",
   "title": "Erfurt leiht torgefährliches Düsseldorf-Talent: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",

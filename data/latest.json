@@ -1,5 +1,31 @@
 [
  {
+  "id": "1096e592a007",
+  "title": "Official: Lukaku completes move from Napoli to Fenerbahce for €6m plus bonus",
+  "player": "Romelu Lukaku",
+  "title_ko": "공식: 루카쿠는 600만 유로에 보너스를 더해 나폴리에서 페네르바체로 이적을 완료했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lukaku-complete-napoli-to-fenerbahce/",
+  "fee": "€6M",
+  "published": "2026-08-12T16:01:39+00:00"
+ },
+ {
+  "id": "d827e7b25dd9",
+  "title": "El administrador calma el mercado: \"Hay dinero para hacer varios fichajes\"",
+  "player": null,
+  "title_ko": "관리자는 \"여러 계약을 할 돈이 있다\"고 시장을 진정시켰다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/12/administrador-calma-mercado-hay-dinero-fichajes.html",
+  "fee": null,
+  "published": "2026-08-12T15:57:02+00:00"
+ },
+ {
   "id": "6f2678c13efc",
   "title": "Erfurt leiht torgefährliches Düsseldorf-Talent: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/aston-villa-enquire-for-juventuss-david/",
   "fee": null,
   "published": "2026-08-10T19:58:00+00:00"
- },
- {
-  "id": "9c46c5f6ea38",
-  "title": "Molina lands in Rome for Roma medical and signing",
-  "player": "Nahuel Molina",
-  "title_ko": "몰리나는 로마 메디컬과 계약을 위해 로마에 도착했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/molina-lands-in-rome-for-roma-signing/",
-  "fee": null,
-  "published": "2026-08-10T19:20:00+00:00"
- },
- {
-  "id": "c69b70a5be6c",
-  "title": "Liverpool sign Ronald Araujo as club legend reaches out and Andoni Iraola gets his wish",
-  "player": "Ronald Araujo",
-  "title_ko": "리버풀은 클럽의 전설이 손을 내밀고 안도니 이라올라가 그의 소원을 들어주면서 로날드 아라우조를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-suarez-37535867",
-  "fee": null,
-  "published": "2026-08-10T19:07:05+00:00"
  }
 ]
