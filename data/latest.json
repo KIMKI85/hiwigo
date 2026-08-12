@@ -1,5 +1,18 @@
 [
  {
+  "id": "41042a0851e9",
+  "title": "Lazio close in on Frattesi deal on loan with obligation to buy",
+  "player": "Davide Frattesi",
+  "title_ko": "라치오, 프라테시 임대 계약 성사, 구매 의무 포함",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-frattesi-inter-loan-obligation-deal/",
+  "fee": null,
+  "published": "2026-08-12T11:15:00+00:00"
+ },
+ {
   "id": "c8708a0cc503",
   "title": "Chavarria, Ivanovic, Rulli… les 5 infos mercato du 12 août à midi",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-ask-for-miretti-on-loan-juventus-sale/",
   "fee": null,
   "published": "2026-08-10T14:53:38+00:00"
- },
- {
-  "id": "33ff0b64cff7",
-  "title": "Cucurella über Real-Wechsel: \"Belohnung für die harte Arbeit\"",
-  "player": "Marc Cucurella",
-  "title_ko": "쿠쿠렐라 레알 이적 \"노력에 대한 보상\"",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/cucurella-ueber-real-wechsel-belohnung-fuer-die-harte-arbeit-1242129/video#omrss",
-  "fee": null,
-  "published": "2026-08-10T14:27:45+00:00"
  }
 ]
