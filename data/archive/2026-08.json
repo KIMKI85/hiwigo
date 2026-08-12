@@ -1,5 +1,44 @@
 [
  {
+  "id": "4dd0def5423c",
+  "title": "Newcastle join Lazio in race for Inter’s Frattesi after Stanković snub",
+  "player": "Davide Frattesi",
+  "title_ko": "뉴캐슬은 스탄코비치의 거절 이후 인테르의 프라테시 경쟁에 라치오와 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/newcastle-join-lazio-race-for-inter-frattesi/",
+  "fee": null,
+  "published": "2026-08-12T08:00:00+00:00"
+ },
+ {
+  "id": "bbfd0fbbd35c",
+  "title": "Mercato: \"Uniquement et exclusivement dans l'intérêt de la santé financière de notre institution\",  les Corinthians annoncent le départ de Memphis Depay pour des raisons économiques",
+  "player": "Memphis Depay",
+  "title_ko": "Mercato: “우리 기관의 재정 건전성을 전적으로 그리고 독점적으로 위해”, Corinthians는 경제적 이유로 Memphis Depay의 출발을 발표합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-uniquement-et-exclusivement-dans-l-interet-de-la-sante-financiere-de-notre-institution-les-corinthians-annoncent-le-depart-de-memphis-depay-pour-des-raisons-economiques_AV-202608120202.html",
+  "fee": null,
+  "published": "2026-08-12T07:47:16+00:00"
+ },
+ {
+  "id": "2ac44a8b936e",
+  "title": "Netherlands make shock move for ex-Premier League boss after Arne Slot snub",
+  "player": "Arne Slot",
+  "title_ko": "네덜란드는 아르네 슬롯의 징계 이후 전 프리미어 리그 감독에게 충격적인 조치를 취했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/netherlands-roberto-martinez-arne-slot-37541449",
+  "fee": null,
+  "published": "2026-08-12T07:45:24+00:00"
+ },
+ {
   "id": "f40c0dfd05e2",
   "title": "Tottenham hold the key to Arsenal transfer after Mikel Arteta changes target",
   "player": "Mikel Arteta",
