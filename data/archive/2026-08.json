@@ -1,5 +1,31 @@
 [
  {
+  "id": "842bc2e4f667",
+  "title": "Report Lukaku has Fenerbahce jet ready, Fayed sale to Frosinone also agreed",
+  "player": "Romelu Lukaku",
+  "title_ko": "보도에 따르면 루카쿠는 페네르바체 제트기를 준비했고, 파예드는 프로시노네로의 매각도 합의했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lukaku-fenerbahce-jet-ready-fayed-frosinone/",
+  "fee": null,
+  "published": "2026-08-12T14:23:42+00:00"
+ },
+ {
+  "id": "f0fc54ef1c79",
+  "title": "Palace bid for Monaco midfielder Camara rejected",
+  "player": "Lamine Camara",
+  "title_ko": "모나코의 미드필더 카마라에 대한 궁전의 제의는 거절되었습니다",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0jl27w90xxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-12T14:20:21+00:00"
+ },
+ {
   "id": "e5cd4d056fd5",
   "title": "Inter agreement for Spence, Tottenham accept €31.5m plus bonus",
   "player": null,
