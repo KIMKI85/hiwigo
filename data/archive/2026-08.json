@@ -1,5 +1,44 @@
 [
  {
+  "id": "c8708a0cc503",
+  "title": "Chavarria, Ivanovic, Rulli… les 5 infos mercato du 12 août à midi",
+  "player": null,
+  "title_ko": "Chavarria, Ivanovic, Rulli... 8월 12일 정오의 5개 메르카토 뉴스",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-chavarria-ivanovic-rulli-les-5-infos-mercato-du-12-aout-a-midi_VN-202608120287.html",
+  "fee": null,
+  "published": "2026-08-12T10:51:29+00:00"
+ },
+ {
+  "id": "0ba50b719bdf",
+  "title": "Tottenham reject Inter’s €30m Spence bid and hold out for €35m",
+  "player": "Djed Spence",
+  "title_ko": "토트넘은 인테르의 €30m 스펜스 제안을 거부하고 €35m을 유지했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tottenham-reject-inter-e30m-spence/",
+  "fee": "€30M",
+  "published": "2026-08-12T10:50:31+00:00"
+ },
+ {
+  "id": "cc15e5c6aaa8",
+  "title": "Manchester City target Enzo Fernández but Chelsea’s £120m price tag may be too high",
+  "player": "Enzo Fernández",
+  "title_ko": "맨체스터 시티는 엔조 페르난데스를 노리고 있지만 첼시의 £120m 가격표는 너무 높을 수 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
+  "fee": "£120M",
+  "published": "2026-08-12T10:32:30+00:00"
+ },
+ {
   "id": "2c3d0edcc269",
   "title": "Man City sign goalkeeper Rulli from Marseille",
   "player": "Geronimo Rulli",
