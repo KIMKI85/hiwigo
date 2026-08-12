@@ -1,5 +1,18 @@
 [
  {
+  "id": "e3328ffd5ed3",
+  "title": "Manchester City sign £2m goalkeeper who destroyed Man Utd's hopes of European trophy",
+  "player": "James Trafford",
+  "title_ko": "맨체스터 시티는 맨유의 유럽 우승 희망을 무너뜨린 200만 파운드의 골키퍼와 계약했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-transfer-geronimo-rulli-37542478",
+  "fee": "£2M",
+  "published": "2026-08-12T10:09:00+00:00"
+ },
+ {
   "id": "a33227005dfa",
   "title": "Torres misses Barcelona training to finalise PSG move",
   "player": "Spain's World",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/ogc-nice/nice-la-tuile-pour-laurent-abergel-la-recrue-des-aiglons-victime-d-une-rupture-du-ligament-croise-anterieur-du-genou_AN-202608100344.html",
   "fee": null,
   "published": "2026-08-10T13:14:36+00:00"
- },
- {
-  "id": "e202271480e4",
-  "title": "Arsenal get significant Julian Alvarez transfer update after Atletico Madrid meeting",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 아틀레티코 마드리드 회의 후 줄리안 알바레즈 이적 업데이트를 크게 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-transfer-atletico-37534156",
-  "fee": null,
-  "published": "2026-08-10T13:04:14+00:00"
  }
 ]
