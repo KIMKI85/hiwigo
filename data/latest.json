@@ -1,5 +1,18 @@
 [
  {
+  "id": "f40c0dfd05e2",
+  "title": "Tottenham hold the key to Arsenal transfer after Mikel Arteta changes target",
+  "player": "Mikel Arteta",
+  "title_ko": "토트넘은 미켈 아르테타가 목표를 변경한 후 아스날 이적의 열쇠를 쥐고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tottenham-transfer-kounde-porro-37541235",
+  "fee": null,
+  "published": "2026-08-12T06:10:55+00:00"
+ },
+ {
   "id": "3a9c3b9cc76e",
   "title": "Transfer news LIVE: Man Utd's £14m move, midfielder 'spotted' at Liverpool, Lewis-Skelly move off",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-godts-diaby-gabriel-jesus-les-5-infos-mercato-du-10-aout-a-midi_VN-202608100315.html",
   "fee": null,
   "published": "2026-08-10T10:15:18+00:00"
- },
- {
-  "id": "5d2fd19047aa",
-  "title": "Arsenal outline Gabriel Martinelli transfer stance as new club eyes Gabriel Jesus",
-  "player": "Gabriel Martinelli",
-  "title_ko": "아스날은 가브리엘 마르티넬리의 이적 입장을 새 클럽이 가브리엘 제수스에게 주목하고 있다고 설명했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-gabriel-martinelli-37533216",
-  "fee": null,
-  "published": "2026-08-10T10:09:33+00:00"
  }
 ]
