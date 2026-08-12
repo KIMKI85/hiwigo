@@ -1,5 +1,31 @@
 [
  {
+  "id": "772866516557",
+  "title": "Juventus plan Suzuki loan now with Liverpool’s Alisson the target in 2027",
+  "player": null,
+  "title_ko": "유벤투스는 2027년 리버풀의 알리송을 목표로 스즈키 임대를 계획하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-plan-suzuki-loan-alisson-goal/",
+  "fee": null,
+  "published": "2026-08-12T11:45:00+00:00"
+ },
+ {
+  "id": "79b9b60687e3",
+  "title": "El Sevilla acuerda con el Ascoli italiano el traspaso del argentino Gattoni",
+  "player": null,
+  "title_ko": "세비야는 아르헨티나 가토니의 이적에 대해 이탈리아 클럽 아스콜리와 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/12/sevilla-acuerda-ascoli-italiano-traspaso-argentino-gattoni.html",
+  "fee": null,
+  "published": "2026-08-12T11:28:42+00:00"
+ },
+ {
   "id": "41042a0851e9",
   "title": "Lazio close in on Frattesi deal on loan with obligation to buy",
   "player": "Davide Frattesi",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-10T15:40:18+00:00"
- },
- {
-  "id": "3b50f0d742bf",
-  "title": "Goretzkas Nachfolger: Bayern verpflichtet Ndiaye fest",
-  "player": "Goretzkas Nachfolger",
-  "title_ko": "고레츠카의 후임: 바이에른이 은디아예와 계약했다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/goretzkas-nachfolger-bayern-verpflichtet-ndiaye-fest-1238870/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-10T15:09:55+00:00"
- },
- {
-  "id": "8ea5c69f4433",
-  "title": "Lazio ask for Miretti on loan but Juventus want a permanent sale",
-  "player": "Fabio Miretti",
-  "title_ko": "라치오는 미레티에게 임대를 요청했지만 유벤투스는 영구 판매를 원합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-ask-for-miretti-on-loan-juventus-sale/",
-  "fee": null,
-  "published": "2026-08-10T14:53:38+00:00"
  }
 ]
