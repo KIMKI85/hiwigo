@@ -1,5 +1,18 @@
 [
  {
+  "id": "95bb80e12099",
+  "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
+  "player": "Cristian Romero",
+  "title_ko": "아틀레티코 마드리드는 토트넘의 크리스티안 로메로에게 £34.1m의 계약을 체결했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
+  "fee": "£34.1M",
+  "published": "2026-08-12T22:16:37+00:00"
+ },
+ {
   "id": "8599d935d474",
   "title": "Chelsea set Man City deadline to bid for Fernandez",
   "player": "Enzo Fernandez",

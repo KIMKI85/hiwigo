@@ -1,5 +1,18 @@
 [
  {
+  "id": "95bb80e12099",
+  "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
+  "player": "Cristian Romero",
+  "title_ko": "아틀레티코 마드리드는 토트넘의 크리스티안 로메로에게 £34.1m의 계약을 체결했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
+  "fee": "£34.1M",
+  "published": "2026-08-12T22:16:37+00:00"
+ },
+ {
   "id": "8599d935d474",
   "title": "Chelsea set Man City deadline to bid for Fernandez",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cm2g9yvd1neo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-11T09:00:30+00:00"
- },
- {
-  "id": "1324e6d89447",
-  "title": "Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
-  "player": "Sebastian Krug",
-  "title_ko": "PL 클럽이 원하는 홀란드와 벨링엄 이적 뒤에 있는 도르트문트 스카우트",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs",
-  "fee": null,
-  "published": "2026-08-11T09:00:00+00:00"
  }
 ]
