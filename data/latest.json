@@ -1,5 +1,18 @@
 [
  {
+  "id": "8599d935d474",
+  "title": "Chelsea set Man City deadline to bid for Fernandez",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 맨시티의 페르난데스 영입 마감일을 정했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
+  "fee": null,
+  "published": "2026-08-12T21:49:00+00:00"
+ },
+ {
   "id": "45bdc1862b6a",
   "title": "Atletico agree deal to sign Spurs captain Romero",
   "player": "Cristian Romero",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
   "fee": null,
   "published": "2026-08-12T21:30:00+00:00"
+ },
+ {
+  "id": "5066747864d5",
+  "title": "Doch noch ein \"Statement\"-Transfer: Besiktas bekommt Vlahovic",
+  "player": "Die Konkurrenz",
+  "title_ko": "그러나 또 다른 \"성명\" 이적: 베식타스가 블라호비치를 얻습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/doch-noch-ein-statement-transfer-besiktas-bekommt-vlahovic-1242441/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-12T20:44:08+00:00"
  },
  {
   "id": "c425cf85afba",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/11/football-transfer-rumour-mill-jamie-vardy-west-ham-real-madrid-zubimendi",
   "fee": null,
   "published": "2026-08-11T08:37:22+00:00"
- },
- {
-  "id": "075069a94c78",
-  "title": "Inter closing in on agreement with Tottenham for England international Spence",
-  "player": null,
-  "title_ko": "인테르는 잉글랜드 국가대표 스펜스를 영입하기 위해 토트넘과 계약을 마무리했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-closing-in-on-spence-agreement/",
-  "fee": null,
-  "published": "2026-08-11T08:23:46+00:00"
- },
- {
-  "id": "d8e0a7740d42",
-  "title": "Audacious Marcus Rashford swap deal proposed with Arsenal star joining Man Utd",
-  "player": "Audacious Marcus Rashford",
-  "title_ko": "맨유 합류 아스날 스타에게 대담한 마커스 래시포드 스왑 딜 제안",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/audacious-marcus-rashford-swap-deal-37536513",
-  "fee": null,
-  "published": "2026-08-11T07:59:22+00:00"
  }
 ]

@@ -1,5 +1,18 @@
 [
  {
+  "id": "8599d935d474",
+  "title": "Chelsea set Man City deadline to bid for Fernandez",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 맨시티의 페르난데스 영입 마감일을 정했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
+  "fee": null,
+  "published": "2026-08-12T21:49:00+00:00"
+ },
+ {
   "id": "45bdc1862b6a",
   "title": "Atletico agree deal to sign Spurs captain Romero",
   "player": "Cristian Romero",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
   "fee": null,
   "published": "2026-08-12T21:30:00+00:00"
+ },
+ {
+  "id": "5066747864d5",
+  "title": "Doch noch ein \"Statement\"-Transfer: Besiktas bekommt Vlahovic",
+  "player": "Die Konkurrenz",
+  "title_ko": "그러나 또 다른 \"성명\" 이적: 베식타스가 블라호비치를 얻습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/doch-noch-ein-statement-transfer-besiktas-bekommt-vlahovic-1242441/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-12T20:44:08+00:00"
  },
  {
   "id": "c425cf85afba",
