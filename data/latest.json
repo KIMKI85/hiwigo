@@ -1,5 +1,18 @@
 [
  {
+  "id": "f6d9eaecf2f5",
+  "title": "Man Utd urged to complete 'no brainer' seventh summer signing 'they can't say no to'",
+  "player": "Michael Carrick",
+  "title_ko": "맨유는 7번째 여름 계약을 완료할 것을 촉구했고 '그들은 거절할 수 없다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-summer-transfer-latest-37536435",
+  "fee": null,
+  "published": "2026-08-12T05:00:00+00:00"
+ },
+ {
   "id": "3f8ad3e778c9",
   "title": "Liverpool news: Bradley Barcola to give telling signal today as agent leaks transfer move",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-transfer-news-endrick-37532183",
   "fee": null,
   "published": "2026-08-10T09:17:56+00:00"
- },
- {
-  "id": "2dab2ba871cf",
-  "title": "Napoli reject latest Fenerbahce bid for Lukaku",
-  "player": null,
-  "title_ko": "나폴리는 루카쿠에 대한 페네르바체의 최근 입찰을 거부했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-reject-latest-fenerbahce-bid-for-lukaku/",
-  "fee": null,
-  "published": "2026-08-10T08:36:49+00:00"
  }
 ]
