@@ -1,5 +1,31 @@
 [
  {
+  "id": "f4d3276987e2",
+  "title": "Liverpool handed Bradley Barcola transfer boost as 'agreement nears' after PSG comments",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG의 발언 이후 브래들리 바르콜라 이적 지원을 '합의가 가까워졌다'고 전달했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-psg-torres-37543178",
+  "fee": null,
+  "published": "2026-08-12T12:09:10+00:00"
+ },
+ {
+  "id": "e3c5fa21838c",
+  "title": "Freigestellt: Paderborns Baur vor Wechsel zu Celtic",
+  "player": "Paderborns Baur",
+  "title_ko": "면제: 셀틱으로 이적하기 전 Paderborn의 Baur",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/freigestellt-paderborns-baur-vor-wechsel-zu-celtic-1242539/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-12T12:06:15+00:00"
+ },
+ {
   "id": "80f5a0ea16bc",
   "title": "8 transfers that could happen in the next week with Man Utd and Arsenal busy",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/08/10/sevilla-anuncia-acuerdo-estrela-amadora-traspaso-joan-jordan.html",
   "fee": null,
   "published": "2026-08-10T17:08:50+00:00"
- },
- {
-  "id": "b3ab6f51ee0c",
-  "title": "Arsenal mocked for eyeing up Vinicius Jnr transfer - 'You're not one of the big boys'",
-  "player": "Vinicius Jnr",
-  "title_ko": "비니시우스 주니어 이적을 노리는 아스날 - '당신은 빅 보이 중 하나가 아니다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-vinicius-junior-future-mikel-37535610",
-  "fee": null,
-  "published": "2026-08-10T17:01:06+00:00"
- },
- {
-  "id": "474e080607e6",
-  "title": "Mercato: Toulouse repousse une offre record de Sunderland pour Dayann Methalie",
-  "player": "Dayann Methalie",
-  "title_ko": "Mercato: 툴루즈는 Dayann Methalie에 대한 선더랜드의 음반 제안을 거부했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-toulouse-repousse-une-offre-record-de-sunderland-pour-dayann-methalie_AV-202608100442.html",
-  "fee": null,
-  "published": "2026-08-10T16:36:24+00:00"
  }
 ]
