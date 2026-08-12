@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c19c12f3384",
+  "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
+  "player": "Mateo Pellegrino",
+  "title_ko": "피콜리는 볼로냐와 1,800만 유로에 보너스를 더한 계약을 맺고 세리에 A 도미노 효과를 촉발했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/piccoli-agreement-with-bologna-e18m-plus-bonus/",
+  "fee": "€18M",
+  "published": "2026-08-12T12:54:26+00:00"
+ },
+ {
   "id": "f4d3276987e2",
   "title": "Liverpool handed Bradley Barcola transfer boost as 'agreement nears' after PSG comments",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-refuse-une-premiere-offre-du-psg-pour-ferran-torres-mais-les-negociations-se-poursuivent_AV-202608100468.html",
   "fee": null,
   "published": "2026-08-10T17:26:16+00:00"
- },
- {
-  "id": "55aa92bda178",
-  "title": "El Sevilla anuncia el acuerdo con el Estrela Amadora para el traspaso de Joan Jordán",
-  "player": "Estrela Amadora",
-  "title_ko": "세비야는 호안 조르단의 이적을 위해 에스트렐라 아마도라와 합의했다고 발표했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/10/sevilla-anuncia-acuerdo-estrela-amadora-traspaso-joan-jordan.html",
-  "fee": null,
-  "published": "2026-08-10T17:08:50+00:00"
  }
 ]
