@@ -1,5 +1,18 @@
 [
  {
+  "id": "52ec9c6abdf4",
+  "title": "Roma transfer news: Molina official as Mora and Luis Henrique close",
+  "player": "Luis Henrique",
+  "title_ko": "로마 이적 소식: 몰리나 공식, 모라와 루이스 엔리케 종료",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-transfer-news-molina-mora-henrique/",
+  "fee": null,
+  "published": "2026-08-12T10:20:00+00:00"
+ },
+ {
   "id": "e3328ffd5ed3",
   "title": "Manchester City sign £2m goalkeeper who destroyed Man Utd's hopes of European trophy",
   "player": "James Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-veut-recruter-le-jeune-montpellierain-lacine-megnan-pave_AP-202608100349.html",
   "fee": null,
   "published": "2026-08-10T13:24:04+00:00"
- },
- {
-  "id": "c8a245eba2a1",
-  "title": "Nice: la tuile pour Laurent Abergel, la recrue des Aiglons victime d'une rupture du ligament croisé antérieur du genou",
-  "player": "Laurent Abergel",
-  "title_ko": "좋은 점: 무릎 전방 십자인대 파열의 피해자인 Aiglons 신병인 Laurent Abergel의 문제",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/ogc-nice/nice-la-tuile-pour-laurent-abergel-la-recrue-des-aiglons-victime-d-une-rupture-du-ligament-croise-anterieur-du-genou_AN-202608100344.html",
-  "fee": null,
-  "published": "2026-08-10T13:14:36+00:00"
  }
 ]
