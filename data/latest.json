@@ -1,5 +1,18 @@
 [
  {
+  "id": "45bdc1862b6a",
+  "title": "Atletico agree deal to sign Spurs captain Romero",
+  "player": "Cristian Romero",
+  "title_ko": "아틀레티코는 토트넘의 주장 로메로 영입에 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
+  "fee": null,
+  "published": "2026-08-12T21:30:00+00:00"
+ },
+ {
   "id": "c425cf85afba",
   "title": "Luis Henrique not eager for Roma move, as Inter want €30m payday",
   "player": "Luis Henrique",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/audacious-marcus-rashford-swap-deal-37536513",
   "fee": null,
   "published": "2026-08-11T07:59:22+00:00"
- },
- {
-  "id": "b90ab507c8ed",
-  "title": "Rangers agree £6.5m deal for PSV's Driouech - gossip",
-  "player": null,
-  "title_ko": "레인저스는 PSV의 드리우에흐와 £6.5m 계약에 합의했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gwlv0e62vo?at_medium=RSS&at_campaign=rss",
-  "fee": "£6.5M",
-  "published": "2026-08-11T06:41:11+00:00"
  }
 ]
