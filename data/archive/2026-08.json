@@ -1,5 +1,57 @@
 [
  {
+  "id": "43c19be47bd6",
+  "title": "Lazio star Romagnoli weighs Atalanta switch as Al-Sadd move continues to stall",
+  "player": "Alessio Romagnoli",
+  "title_ko": "라치오 스타 로마뇰리는 알-사드의 움직임이 계속 정체되면서 아탈란타 스위치에 무게를 두고 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/romagnoli-atalanta-lazio-al-sadd-sarri/",
+  "fee": null,
+  "published": "2026-08-12T08:40:00+00:00"
+ },
+ {
+  "id": "b3b6a1fbe5ae",
+  "title": "Cristian Romero nears Tottenham exit as transfer fee agreed amid Arsenal interest",
+  "player": "Cristian Romero",
+  "title_ko": "아스날의 관심 속에 이적료 합의로 크리스티안 로메로가 토트넘을 떠나게 됐다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/cristian-romero-transfer-arsenal-tottenham-37541631",
+  "fee": null,
+  "published": "2026-08-12T08:37:31+00:00"
+ },
+ {
+  "id": "560c622d2001",
+  "title": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+  "player": "Folarin Balogun",
+  "title_ko": "축구 이적 루머: Folarin Balogun이 토트넘으로? 가브리엘 제수스, 나폴리로?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli",
+  "fee": null,
+  "published": "2026-08-12T08:30:27+00:00"
+ },
+ {
+  "id": "ffaf0ad4c6b5",
+  "title": "Chelsea sign Chavarria in £16m deal - who is the left-back?",
+  "player": "Pep Chavarria",
+  "title_ko": "첼시는 1,600만 파운드에 차바리아를 영입했습니다. 레프트백은 누구일까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvg0rw84xk9o?at_medium=RSS&at_campaign=rss",
+  "fee": "£16M",
+  "published": "2026-08-12T08:29:22+00:00"
+ },
+ {
   "id": "6ab15bbb5418",
   "title": "Giménez agrees to Porto move as Milan hold out over the details",
   "player": "Santiago Giménez",
