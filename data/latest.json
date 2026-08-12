@@ -1,5 +1,18 @@
 [
  {
+  "id": "183f644f5364",
+  "title": "Arsenal news: Door opens to £20m transfer as wonderkid agreement reached",
+  "player": null,
+  "title_ko": "아스날 뉴스: 원더키드 계약이 타결되면서 £20m 이적 가능성이 열렸습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-gabriel-jesus-wonderkid-37538306",
+  "fee": "£20M",
+  "published": "2026-08-12T03:00:00+00:00"
+ },
+ {
   "id": "37e0bbd741f5",
   "title": "Mercato: Ferran Torres au PSG, ça chauffe",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-des-discussions-sont-en-cours-mika-godts-confirme-des-negociations-avec-le-psg_AN-202608100210.html",
   "fee": null,
   "published": "2026-08-10T07:45:15+00:00"
- },
- {
-  "id": "9f50651512a4",
-  "title": "Darwin Nunez prematurely announces Liverpool transfer with social media message",
-  "player": "Darwin Nunez",
-  "title_ko": "다윈 누네즈는 소셜 미디어 메시지로 리버풀 이적을 조기에 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/darwin-nunez-liverpool-ronald-araujo-37531675",
-  "fee": null,
-  "published": "2026-08-10T07:37:47+00:00"
  }
 ]
