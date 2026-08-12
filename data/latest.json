@@ -1,5 +1,31 @@
 [
  {
+  "id": "64ea69a12638",
+  "title": "Report Gimenez could join FC Porto on loan with €20m option, no Milan guarantee",
+  "player": "Santiago Gimenez",
+  "title_ko": "보고서 히메네스는 €20m 옵션으로 FC 포르투에 임대로 합류할 수 있으며, 밀란은 보장하지 않습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-gimenez-porto-loan-no-milan-guarantee/",
+  "fee": "€20M",
+  "published": "2026-08-12T13:09:27+00:00"
+ },
+ {
+  "id": "e9b83581a363",
+  "title": "Zehn Zweitliga-Einsätze und vielversprechende Quoten: Atilgan wechselt zum HFC",
+  "player": "Zehn Zweitliga-",
+  "title_ko": "10개의 두 번째 부문 출연 및 유망한 등급: Atilgan이 HFC로 이동합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/zehn-zweitliga-einsaetze-und-vielversprechende-quoten-atilgan-wechselt-zum-hfc-1242560/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-12T12:55:58+00:00"
+ },
+ {
   "id": "6c19c12f3384",
   "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
   "player": "Mateo Pellegrino",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/collins-verstaerkt-tasmania-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-08-10T18:02:58+00:00"
- },
- {
-  "id": "6205af1152d8",
-  "title": "Liverpool sign Araujo on loan from Barcelona",
-  "player": "Ronald Araujo",
-  "title_ko": "리버풀은 바르셀로나에서 아라우조를 임대로 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-10T17:54:08+00:00"
- },
- {
-  "id": "f6be287a6c22",
-  "title": "Mercato: le Barça refuse une première offre du PSG pour Ferran Torres mais \"les négociations se poursuivent\"",
-  "player": "Ferran Torres",
-  "title_ko": "Mercato: Barça는 Ferran Torres에 대한 PSG의 첫 번째 제안을 거부했지만 “협상은 계속됩니다”",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-refuse-une-premiere-offre-du-psg-pour-ferran-torres-mais-les-negociations-se-poursuivent_AV-202608100468.html",
-  "fee": null,
-  "published": "2026-08-10T17:26:16+00:00"
  }
 ]
