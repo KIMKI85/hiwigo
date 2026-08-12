@@ -1,5 +1,18 @@
 [
  {
+  "id": "28a1dcba8a45",
+  "title": "Mercato: les indésirables du Barça enragent contre leur direction",
+  "player": null,
+  "title_ko": "메르카토: 바르사의 바람직하지 못한 자들은 그들의 경영진에 분노하고 있다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-les-indesirables-du-barca-enragent-contre-leur-direction_AV-202608120243.html",
+  "fee": null,
+  "published": "2026-08-12T09:03:13+00:00"
+ },
+ {
   "id": "43c19be47bd6",
   "title": "Lazio star Romagnoli weighs Atalanta switch as Al-Sadd move continues to stall",
   "player": "Alessio Romagnoli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-talks-37533722",
   "fee": null,
   "published": "2026-08-10T11:43:51+00:00"
- },
- {
-  "id": "4b694ef114df",
-  "title": "Liverpool set to announce new signing but team-mate 'already wants him back' after goodbyes",
-  "player": "Ronald Araujo",
-  "title_ko": "리버풀은 새로운 영입을 발표할 예정이지만 팀 동료는 작별 인사 후 '이미 그를 다시 원하고 있다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ronald-araujo-transfer-signing-37533713",
-  "fee": null,
-  "published": "2026-08-10T11:40:30+00:00"
  }
 ]
