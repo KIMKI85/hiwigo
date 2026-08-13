@@ -1,5 +1,18 @@
 [
  {
+  "id": "1edad4d93ef6",
+  "title": "Le héros de la finale de la Coupe du monde 2026: accord de principe pour le transfert de Ferran Torres au PSG, le joueur a donné son accord",
+  "player": "Ferran Torres",
+  "title_ko": "2026년 월드컵 결승전의 영웅: 페란 토레스의 PSG 이적에 대한 원칙적 합의, 선수가 합의했습니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/le-heros-de-la-finale-de-la-coupe-du-monde-2026-accord-de-principe-pour-le-transfert-de-ferran-torres-au-psg-le-joueur-a-donne-son-accord_AV-202608130516.html",
+  "fee": null,
+  "published": "2026-08-13T18:21:41+00:00"
+ },
+ {
   "id": "a4ca4c20f6fb",
   "title": "El Elche oficializa el fichaje de Tiziano Perrotta",
   "player": "Tiziano Perrotta",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-ruggeri-agrees-personal-terms-aston-villa/",
   "fee": "€26.5M",
   "published": "2026-08-11T21:41:13+00:00"
- },
- {
-  "id": "7b24f0bbd99a",
-  "title": "Tottenham could hand Arsenal major transfer boost after opening Folarin Balogun talks",
-  "player": "Folarin Balogun",
-  "title_ko": "토트넘은 Folarin Balogun 회담을 개시한 후 아스날의 주요 이적 촉진을 제공할 수 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-transfers-folarin-balogun-arsenal-37540665",
-  "fee": null,
-  "published": "2026-08-11T21:36:42+00:00"
  }
 ]
