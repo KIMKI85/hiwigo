@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee9932f08caf",
+  "title": "Done Deal: Lucumi final details for Juventus at €20m including bonus",
+  "player": null,
+  "title_ko": "완료된 거래: 유벤투스의 Lucumi 최종 세부 사항은 보너스를 포함하여 €20m입니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-lucumi-final-details-juventus-e20m/",
+  "fee": "€20M",
+  "published": "2026-08-13T20:53:07+00:00"
+ },
+ {
   "id": "2b9390d31cf0",
   "title": "PSG agree deal in principle for Barcelona's Torres",
   "player": "Barcelona's Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-myles-lewis-skelly-37538208",
   "fee": null,
   "published": "2026-08-12T03:30:00+00:00"
- },
- {
-  "id": "183f644f5364",
-  "title": "Arsenal news: Door opens to £20m transfer as wonderkid agreement reached",
-  "player": null,
-  "title_ko": "아스날 뉴스: 원더키드 계약이 타결되면서 £20m 이적 가능성이 열렸습니다.",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-gabriel-jesus-wonderkid-37538306",
-  "fee": "£20M",
-  "published": "2026-08-12T03:00:00+00:00"
  }
 ]
