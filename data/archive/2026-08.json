@@ -13,6 +13,32 @@
   "published": "2026-08-13T12:05:00+00:00"
  },
  {
+  "id": "b99cfbae4229",
+  "title": "Still no Badiashile agreement with Chelsea despite improved Napoli offer",
+  "player": null,
+  "title_ko": "나폴리의 개선된 제안에도 불구하고 여전히 첼시와 바디아실 계약은 이루어지지 않았습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-still-no-badiashile-agreement-chelsea/",
+  "fee": null,
+  "published": "2026-08-13T11:55:43+00:00"
+ },
+ {
+  "id": "b39669e17af7",
+  "title": "Mercato: le Barça prêt à ouvrir la porte à une vente XXL de Koundé?",
+  "player": "Jules Koundé",
+  "title_ko": "Mercato: Barça가 Koundé의 XXL 판매 문을 열 준비가 되었나요?",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-pret-a-ouvrir-la-porte-a-une-vente-xxl-de-kounde_AV-202608130326.html",
+  "fee": null,
+  "published": "2026-08-13T11:49:04+00:00"
+ },
+ {
   "id": "369f45b704fb",
   "title": "Lazio book Frattesi medical ahead of €15m transfer from Inter",
   "player": "Davide Frattesi",
