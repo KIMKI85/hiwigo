@@ -1,5 +1,18 @@
 [
  {
+  "id": "e7fc12af11bc",
+  "title": "Cesc Fabregas opens the door to Arsenal transfers after Max Dowman assessment",
+  "player": "Cesc Fabregas",
+  "title_ko": "세스크 파브레가스는 맥스 다우먼 평가 후 아스날 이적의 문을 열었습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-cesc-fabregas-max-dowman-37546729",
+  "fee": null,
+  "published": "2026-08-13T10:04:38+00:00"
+ },
+ {
   "id": "037d6437cba5",
   "title": "Man City reject fresh Barcelona bid for Rodri",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/ksc-verpflichtet-madagassischen-nationalspieler-tremoulet-1240667/artikel#omrss",
   "fee": null,
   "published": "2026-08-11T13:11:57+00:00"
- },
- {
-  "id": "53e5cca6621d",
-  "title": "Done Deal: Kristensen ready for Atalanta at €22m plus bonus",
-  "player": "Thomas Kristensen",
-  "title_ko": "완료된 거래: Kristensen은 €22m에 보너스를 더해 아탈란타로 이적할 준비가 되었습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-kristensen-ready-atalanta-at-e22m/",
-  "fee": "€22M",
-  "published": "2026-08-11T12:31:40+00:00"
  }
 ]
