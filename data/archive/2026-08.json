@@ -1,5 +1,31 @@
 [
  {
+  "id": "47f2db09a70f",
+  "title": "Transfer news LIVE: Man Utd working on deal, Barcola to Liverpool, Fernandez £120m call",
+  "player": null,
+  "title_ko": "이적 뉴스 라이브: 맨유, 딜 작업 중, 바르콜라에서 리버풀로, 페르난데스 £120m 콜",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37545999",
+  "fee": "£120M",
+  "published": "2026-08-13T05:41:46+00:00"
+ },
+ {
+  "id": "b64435b36587",
+  "title": "Man Utd news: Arsenal target 'favours' United as club stand firm on £14m star",
+  "player": null,
+  "title_ko": "맨유 뉴스: 아스날은 클럽이 1400만 파운드의 스타 영입을 확고히 하기 위해 맨유를 선호한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-page-salinas-37543875",
+  "fee": "£14M",
+  "published": "2026-08-13T05:37:00+00:00"
+ },
+ {
   "id": "274eebb26a71",
   "title": "Liverpool news: Andoni Iraola set to be handed new transfer priority as double update emerges",
   "player": "Andoni Iraola",
