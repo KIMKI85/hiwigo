@@ -1,5 +1,18 @@
 [
  {
+  "id": "ac98cc528891",
+  "title": "Vlahovic goodbye to Juventus after signing new Besiktas contract",
+  "player": "Dusan Vlahovic",
+  "title_ko": "블라호비치는 베식타스와 새로운 계약을 체결한 후 유벤투스와 작별합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vlahovic-goodbye-to-juventus-signing-besiktas/",
+  "fee": null,
+  "published": "2026-08-13T16:21:55+00:00"
+ },
+ {
   "id": "80486d9c73d1",
   "title": "Esposito new medical certificate extends Cagliari feud to 25 days",
   "player": "Sebastiano Esposito",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-real-madrid-martin-zubimendi-37540480",
   "fee": null,
   "published": "2026-08-11T18:20:11+00:00"
- },
- {
-  "id": "50eab9b90f78",
-  "title": "Mercato: vers une fin d’aventure entre Paul Pogba et l’AS Monaco",
-  "player": "Paul Pogba",
-  "title_ko": "메르카토: 폴 포그바와 AS 모나코의 모험이 끝날 무렵",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-vers-une-fin-d-aventure-entre-paul-pogba-et-l-as-monaco_AV-202608110477.html",
-  "fee": null,
-  "published": "2026-08-11T18:01:36+00:00"
  }
 ]
