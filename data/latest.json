@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e1a0c760dd4",
+  "title": "Arsenal handed chance of stunning Victor Osimhen swap transfer with talks opened",
+  "player": "Victor Osimhen",
+  "title_ko": "아스날은 협상 개시와 함께 놀라운 빅터 오시멘 스왑 이적의 기회를 잡았습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-victor-osimhen-37549630",
+  "fee": null,
+  "published": "2026-08-13T17:37:24+00:00"
+ },
+ {
   "id": "f58524638960",
   "title": "Official: Kristensen joins Atalanta from Udinese in deal worth up to €25m",
   "player": "Thomas Kristensen",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lucumi-closer-to-juventus-bid-for-bologna-e20m/",
   "fee": "€20M",
   "published": "2026-08-11T19:14:29+00:00"
- },
- {
-  "id": "0e9e5fcf96ae",
-  "title": "Man Utd have clear transfer priority after Myles Lewis-Skelly offer",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유는 마일스 루이스-스켈리의 제안 이후 확실한 이적 우선순위를 갖고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-skelly-transfer-37540575",
-  "fee": null,
-  "published": "2026-08-11T19:01:13+00:00"
  }
 ]
