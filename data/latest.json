@@ -1,5 +1,18 @@
 [
  {
+  "id": "206883c2e78b",
+  "title": "Arsenal rocked by £20m Ezri Konsa problem after new transfer talks with Aston Villa",
+  "player": "Ezri Konsa",
+  "title_ko": "아스날은 Aston Villa와의 새로운 이적 협상 이후 £20m의 Ezri Konsa 문제로 인해 흔들렸습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-ezri-konsa-37549597",
+  "fee": "£20M",
+  "published": "2026-08-13T16:58:14+00:00"
+ },
+ {
   "id": "ac98cc528891",
   "title": "Vlahovic goodbye to Juventus after signing new Besiktas contract",
   "player": "Dusan Vlahovic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/frattesi-target-lazio-inter-nottingham-forest/",
   "fee": null,
   "published": "2026-08-11T18:49:44+00:00"
- },
- {
-  "id": "1ae21ccab45d",
-  "title": "Real Madrid plot shock Martin Zubimendi transfer as Arsenal left with dilemma",
-  "player": "Martin Zubimendi",
-  "title_ko": "레알 마드리드 음모는 마르틴 주비멘디 이적에 충격을 주었고 아스날은 딜레마에 빠졌다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-real-madrid-martin-zubimendi-37540480",
-  "fee": null,
-  "published": "2026-08-11T18:20:11+00:00"
  }
 ]
