@@ -1,5 +1,18 @@
 [
  {
+  "id": "f58524638960",
+  "title": "Official: Kristensen joins Atalanta from Udinese in deal worth up to €25m",
+  "player": "Thomas Kristensen",
+  "title_ko": "공식: 크리스텐센은 우디네세에서 아탈란타에 최대 €25m 상당의 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-kristensen-joins-atalanta-udinese/",
+  "fee": "€25M",
+  "published": "2026-08-13T17:15:59+00:00"
+ },
+ {
   "id": "206883c2e78b",
   "title": "Arsenal rocked by £20m Ezri Konsa problem after new transfer talks with Aston Villa",
   "player": "Ezri Konsa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-skelly-transfer-37540575",
   "fee": null,
   "published": "2026-08-11T19:01:13+00:00"
- },
- {
-  "id": "057695bb4519",
-  "title": "Frattesi targeted for Lazio loan, but Inter still hope for Nottingham Forest",
-  "player": "Davide Frattesi",
-  "title_ko": "프라테시는 라치오 임대를 노리고 있지만 인테르는 여전히 노팅엄 포레스트를 원하고 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/frattesi-target-lazio-inter-nottingham-forest/",
-  "fee": null,
-  "published": "2026-08-11T18:49:44+00:00"
  }
 ]
