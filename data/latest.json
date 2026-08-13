@@ -1,5 +1,31 @@
 [
  {
+  "id": "9aa892bd37d2",
+  "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
+  "player": "Bonnie Tyler",
+  "title_ko": "축구 이적 루머: 갈라타사라이가 아스날의 마르티넬리에게 3,800만 파운드를 쓸 것이라고요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
+  "fee": "£38M",
+  "published": "2026-08-13T08:14:07+00:00"
+ },
+ {
+  "id": "840be045fcfd",
+  "title": "Chelsea set Man City strict deadline to complete £120m Enzo Fernandez transfer",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 맨시티에게 1억 2천만 파운드의 엔조 페르난데스 이적을 완료하기 위한 엄격한 기한을 정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-mancity-enzo-fernandez-future-37546317",
+  "fee": "£120M",
+  "published": "2026-08-13T08:11:43+00:00"
+ },
+ {
   "id": "6c00db2aa754",
   "title": "DIRECT. Mercato: le Barça patine pour Rodri et patiente pour Julian Alvarez, Romero proche de l'Atlético",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson",
   "fee": null,
   "published": "2026-08-11T11:41:00+00:00"
- },
- {
-  "id": "f0fb2830cad4",
-  "title": "Vlahovic on the verge of Besiktas deal at €8m per season with major signing bonus",
-  "player": "Dusan Vlahovic",
-  "title_ko": "베식타스 직전의 블라호비치는 메이저 계약 보너스와 함께 시즌당 €8m에 계약했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/vlahovic-on-verge-of-besiktas-agreement/",
-  "fee": "€8M",
-  "published": "2026-08-11T11:23:31+00:00"
- },
- {
-  "id": "2289da370e75",
-  "title": "Chelsea and Man Utd offered Myles Lewis-Skelly as Arsenal open to shock sale despite new deal",
-  "player": "Myles Lewis-",
-  "title_ko": "첼시와 맨유는 아스날이 재계약에도 불구하고 충격적인 판매를 개시하자 마일스 루이스-스켈리를 제안했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-skelly-chelsea-man-utd-37537552",
-  "fee": null,
-  "published": "2026-08-11T10:37:59+00:00"
  }
 ]
