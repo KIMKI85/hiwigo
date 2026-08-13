@@ -1,5 +1,18 @@
 [
  {
+  "id": "e3f7bf917ad7",
+  "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
+  "player": "Villa's Konsa",
+  "title_ko": "Aston Villa의 Konsa의 Arsenal 이적에 대한 새로운 대화",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-13T15:47:45+00:00"
+ },
+ {
   "id": "9cd5fd51ed10",
   "title": "Unal completes move from Bournemouth to Getafe",
   "player": "Enes Unal",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0m7j79j873o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-11T16:57:05+00:00"
- },
- {
-  "id": "4a58f3c3c693",
-  "title": "Liverpool’s Alisson is real target for Juventus for free after Suzuki loan from PSG",
-  "player": "Zion Suzuki",
-  "title_ko": "리버풀의 알리송은 PSG에서 스즈키 임대 이후 유벤투스의 진정한 타겟이 되었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/liverpools-alisson-juventus-suzuki-loan-psg/",
-  "fee": null,
-  "published": "2026-08-11T16:52:51+00:00"
  }
 ]
