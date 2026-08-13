@@ -1,5 +1,31 @@
 [
  {
+  "id": "309105a8470e",
+  "title": "Atalanta want Lang, but Napoli refuse loan amid Ajax interest",
+  "player": "Noa Lang",
+  "title_ko": "아탈란타는 랭을 원하지만 나폴리는 아약스의 관심 속에 임대를 거부했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atalanta-want-lang-but-napoli-refuse-loan-ajax/",
+  "fee": null,
+  "published": "2026-08-13T13:03:01+00:00"
+ },
+ {
+  "id": "95846cacdd3b",
+  "title": "Genoa discussing deal for Brighton and ex-Roma striker Ferguson",
+  "player": "Daniele De Rossi",
+  "title_ko": "제노아는 브라이튼과 전 로마 스트라이커 퍼거슨의 거래를 논의하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/genoa-discussing-deal-for-brighton-ferguson/",
+  "fee": null,
+  "published": "2026-08-13T12:54:53+00:00"
+ },
+ {
   "id": "0e15b41e0461",
   "title": "Steven Gerrard's call to Virgil van Dijk that saw Liverpool win Man City transfer battle",
   "player": "Steven Gerrard's",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx256kz7nkko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-11T15:30:53+00:00"
- },
- {
-  "id": "f454c52b0a78",
-  "title": "Monchi: \"No vamos a sobrepagar por desesperación; tendría que llegar un mínimo de dos o tres fichajes”",
-  "player": null,
-  "title_ko": "몬치: \"우리는 절박해서 초과 지불하지 않을 것입니다. 최소한 두세 명의 영입이 도착해야 할 것입니다.\"",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/espanyol/2026/08/11/monchi-sobrepagar-desesperacion-tendria-llegar-minimo-dos-tres-fichajes.html",
-  "fee": null,
-  "published": "2026-08-11T15:20:32+00:00"
- },
- {
-  "id": "1bc410aa178a",
-  "title": "'Incredible' Jarrod Bowen move will help West Ham win Championship claims ex-England star",
-  "player": "Incredible' Jarrod Bowen",
-  "title_ko": "'인크레더블' Jarrod Bowen의 움직임은 West Ham이 챔피언십에서 우승하는 데 도움이 될 것입니다. 전 잉글랜드 스타",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/incredible-jarrod-bowen-move-help-37535364",
-  "fee": null,
-  "published": "2026-08-11T15:07:41+00:00"
  }
 ]
