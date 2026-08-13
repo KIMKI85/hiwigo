@@ -1,5 +1,18 @@
 [
  {
+  "id": "ffbe93d5ad03",
+  "title": "Spence secures Inter contract and has already chosen new shirt number",
+  "player": "Djed Spence",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spence-chooses-inter-shirt-number/",
+  "fee": null,
+  "published": "2026-08-13T08:25:38+00:00"
+ },
+ {
   "id": "9aa892bd37d2",
   "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
   "player": "Bonnie Tyler",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utds-last-minute-attempt-37538199",
   "fee": null,
   "published": "2026-08-11T11:41:21+00:00"
- },
- {
-  "id": "8aa1c0d90221",
-  "title": "Man City have signed Anderson - why do they also want Bouaddi?",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "맨시티는 앤더슨을 영입했습니다. 그들은 왜 부아디도 원할까요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson",
-  "fee": null,
-  "published": "2026-08-11T11:41:00+00:00"
  }
 ]
