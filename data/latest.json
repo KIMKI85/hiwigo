@@ -1,5 +1,18 @@
 [
  {
+  "id": "4686bbd8050a",
+  "title": "El Rayo ha cerrado el fichaje de Giorgi Tsitaishvili",
+  "player": "Giorgi Tsitaishvili",
+  "title_ko": "라요(Rayo)가 조르지 치타이슈빌리(Giorgi Tsitaishvili)의 영입을 완료했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/rayo/2026/08/13/rayo-cerrado-fichaje-giorgi-tsitaishvili.html",
+  "fee": null,
+  "published": "2026-08-13T06:38:55+00:00"
+ },
+ {
   "id": "b711fdee83f4",
   "title": "PSG chief drops transfer bombshell on Liverpool target Bradley Barcola",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-suzuki-medina-lautaro-martinez-les-5-infos-mercato-du-11-aout-a-midi_VN-202608110278.html",
   "fee": null,
   "published": "2026-08-11T10:20:36+00:00"
- },
- {
-  "id": "228ddbea296d",
-  "title": "Arsenal set to receive millions back from Newcastle days after Bruno Guimaraes transfer",
-  "player": "Bruno Guimaraes",
-  "title_ko": "아스널은 브루노 기마랑스 이적 후 며칠 만에 뉴캐슬로부터 수백만 달러를 돌려받을 예정이다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-bruno-guimaraes-newcastle-37537440",
-  "fee": null,
-  "published": "2026-08-11T10:12:29+00:00"
  }
 ]
