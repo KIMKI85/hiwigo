@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c00db2aa754",
+  "title": "DIRECT. Mercato: le Barça patine pour Rodri et patiente pour Julian Alvarez, Romero proche de l'Atlético",
+  "player": "Julian Alvarez",
+  "title_ko": "직접. Mercato: Barça는 Rodri를 위해 스케이팅하고 있으며 Atlético와 가까운 Julian Alvarez, Romero를 위해 인내심을 갖고 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-13-aout-2026-sur-le-marche-des-transferts-en-live_LN-202608130200.html",
+  "fee": null,
+  "published": "2026-08-13T07:42:53+00:00"
+ },
+ {
   "id": "f7ec0a42f043",
   "title": "Celtic want Chelsea's Emenalo on loan - gossip",
   "player": "Chelsea's Emenalo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-skelly-chelsea-man-utd-37537552",
   "fee": null,
   "published": "2026-08-11T10:37:59+00:00"
- },
- {
-  "id": "34628d2cacb2",
-  "title": "Paul Scholes begs Man Utd to sign £30m 'absolute clown' and admits 'you might laugh'",
-  "player": "Paul Scholes",
-  "title_ko": "폴 스콜스는 맨유에게 3000만 파운드(약 300억 원)의 계약을 요구하고 '절대 광대'라고 인정하며 '웃을 수도 있다'고 인정했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/scholes-romero-man-utd-transfer-37537425",
-  "fee": "£30M",
-  "published": "2026-08-11T10:30:39+00:00"
  }
 ]
