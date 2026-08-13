@@ -1,5 +1,18 @@
 [
  {
+  "id": "d89b6e96e749",
+  "title": "PSV winger Driouech at Ibrox before expected Rangers move",
+  "player": "Couhaib Driouech",
+  "title_ko": "레인저스가 이적하기 전에 Ibrox의 PSV 윙어 Driouech",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-13T18:41:31+00:00"
+ },
+ {
   "id": "1edad4d93ef6",
   "title": "Le héros de la finale de la Coupe du monde 2026: accord de principe pour le transfert de Ferran Torres au PSG, le joueur a donné son accord",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-11T21:59:39+00:00"
- },
- {
-  "id": "33d306209120",
-  "title": "Done Deal: Ruggeri agrees personal terms with Aston Villa at total €26.5m transfer",
-  "player": "Matteo Ruggeri",
-  "title_ko": "거래 완료: Ruggeri는 총 €26.5m 이적료로 Aston Villa와 개인 계약에 동의했습니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-ruggeri-agrees-personal-terms-aston-villa/",
-  "fee": "€26.5M",
-  "published": "2026-08-11T21:41:13+00:00"
  }
 ]
