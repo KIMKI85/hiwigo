@@ -1,5 +1,18 @@
 [
  {
+  "id": "73987bb5462c",
+  "title": "Arsenal news: Mikel Arteta eyes Barcelona raid as £85m star opens door to transfer",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날 뉴스: 미켈 아르테타(Mikel Arteta)가 £85m의 스타가 이적 가능성을 열자 바르셀로나 공격을 주시하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-mikel-arteta-latest-37543807",
+  "fee": "£85M",
+  "published": "2026-08-13T03:00:00+00:00"
+ },
+ {
   "id": "95bb80e12099",
   "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/fenerbahce-reach-lukaku-agreement-with-napoli/",
   "fee": null,
   "published": "2026-08-11T09:21:52+00:00"
- },
- {
-  "id": "2cfb7c952c88",
-  "title": "Everton and Palace complete McNeil-Johnson swap",
-  "player": "Brennan Johnson",
-  "title_ko": "에버턴과 팰리스, 맥닐-존슨 스왑 완료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cm2g9yvd1neo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-11T09:00:30+00:00"
  }
 ]
