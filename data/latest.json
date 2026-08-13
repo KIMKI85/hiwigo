@@ -1,5 +1,18 @@
 [
  {
+  "id": "b711fdee83f4",
+  "title": "PSG chief drops transfer bombshell on Liverpool target Bradley Barcola",
+  "player": "Bradley Barcola",
+  "title_ko": "PSG 수장, 리버풀 타겟 브래들리 바르콜라에게 이적 폭탄 선언",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/psg-liverpool-bradley-barcola-update-37546040",
+  "fee": null,
+  "published": "2026-08-13T06:20:56+00:00"
+ },
+ {
   "id": "338b98489fa5",
   "title": "Man Utd signing Myles Lewis-Skelly would be bad news for seven players",
   "player": "Myles Lewis-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-bruno-guimaraes-newcastle-37537440",
   "fee": null,
   "published": "2026-08-11T10:12:29+00:00"
- },
- {
-  "id": "6a33ad997b43",
-  "title": "Chelsea give Mudryk go-ahead for loan move",
-  "player": "Mykhailo Mudryk",
-  "title_ko": "첼시, 머드릭에게 임대 이적 승인",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cqlx7geg6leo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-11T10:10:43+00:00"
  }
 ]
