@@ -1,5 +1,31 @@
 [
  {
+  "id": "2b9390d31cf0",
+  "title": "PSG agree deal in principle for Barcelona's Torres",
+  "player": "Barcelona's Torres",
+  "title_ko": "PSG는 바르셀로나의 토레스에 대한 원칙적 거래에 동의했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-13T20:36:21+00:00"
+ },
+ {
+  "id": "57cd3a3a2893",
+  "title": "Arsenal and Liverpool set for transfer tribunal after teenager signed for Gunners",
+  "player": "Vincent Joseph",
+  "title_ko": "10대 선수가 거너스와 계약한 후 아스날과 리버풀이 이적 재판소에 갈 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-liverpool-transfer-vincent-joseph-37549890",
+  "fee": null,
+  "published": "2026-08-13T20:31:22+00:00"
+ },
+ {
   "id": "d89b6e96e749",
   "title": "PSV winger Driouech at Ibrox before expected Rangers move",
   "player": "Couhaib Driouech",
