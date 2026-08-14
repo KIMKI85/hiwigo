@@ -13,6 +13,45 @@
   "published": "2026-08-14T11:00:00+00:00"
  },
  {
+  "id": "3aa6f0935c8e",
+  "title": "Arsenal express interest in signing  Quansah",
+  "player": "Jarell Quansah",
+  "title_ko": "아스널, 콴사 영입에 관심 표명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T10:35:26+00:00"
+ },
+ {
+  "id": "6eed9afc4cb3",
+  "title": "Villa-Wechsel geplatzt: Joao Palhinha bleibt vorerst bei Bayern",
+  "player": "Joao Palhinha",
+  "title_ko": "빌라 변경 실패 : Joao Palhinha는 당분간 바이에른에 머물고 있습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/villa-wechsel-geplatzt-joao-palhinha-bleibt-vorerst-bei-bayern-1243016/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T10:33:43+00:00"
+ },
+ {
+  "id": "e36b4ece6d79",
+  "title": "El-Mala-Wechsel zum BVB geplatzt",
+  "player": "Said El Mala",
+  "title_ko": "El Mala의 BVB로의 이적은 무산되었습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/el-mala-wechsel-zum-bvb-geplatzt-1243020/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T10:30:21+00:00"
+ },
+ {
   "id": "f0d1af780304",
   "title": "Inter and Lazio restructure Frattesi deal after last-minute problem",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-psg-torres-37543178",
   "fee": null,
   "published": "2026-08-12T12:09:10+00:00"
- },
- {
-  "id": "e3c5fa21838c",
-  "title": "Freigestellt: Paderborns Baur vor Wechsel zu Celtic",
-  "player": "Paderborns Baur",
-  "title_ko": "면제: 셀틱으로 이적하기 전 Paderborn의 Baur",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/freigestellt-paderborns-baur-vor-wechsel-zu-celtic-1242539/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-12T12:06:15+00:00"
- },
- {
-  "id": "80f5a0ea16bc",
-  "title": "8 transfers that could happen in the next week with Man Utd and Arsenal busy",
-  "player": null,
-  "title_ko": "맨유와 아스날이 바쁜 상황에서 다음 주에 일어날 수 있는 8가지 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfers-man-utd-arsenal-liverpool-37541981",
-  "fee": null,
-  "published": "2026-08-12T11:45:03+00:00"
- },
- {
-  "id": "772866516557",
-  "title": "Juventus plan Suzuki loan now with Liverpool’s Alisson the target in 2027",
-  "player": null,
-  "title_ko": "유벤투스는 2027년 리버풀의 알리송을 목표로 스즈키 임대를 계획하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-plan-suzuki-loan-alisson-goal/",
-  "fee": null,
-  "published": "2026-08-12T11:45:00+00:00"
  }
 ]
