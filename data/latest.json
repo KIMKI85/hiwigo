@@ -1,5 +1,18 @@
 [
  {
+  "id": "92beca5dedb2",
+  "title": "Frattesi transfer from Inter to Lazio put on standby at the last minute",
+  "player": "Davide Frattesi",
+  "title_ko": "인테르에서 라치오로 프라테시 이적이 막판에 대기상태에 빠졌다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frattesi-transfer-from-inter-to-lazio-standby/",
+  "fee": null,
+  "published": "2026-08-14T09:08:05+00:00"
+ },
+ {
   "id": "859738a30299",
   "title": "Mercato: Nice veut relancer Ngoumou et s'intéresse à un international belge",
   "player": "Nathan Ngoumou",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cvgwz829l04o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-12T10:27:22+00:00"
- },
- {
-  "id": "52ec9c6abdf4",
-  "title": "Roma transfer news: Molina official as Mora and Luis Henrique close",
-  "player": "Luis Henrique",
-  "title_ko": "로마 이적 소식: 몰리나 공식, 모라와 루이스 엔리케 종료",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-transfer-news-molina-mora-henrique/",
-  "fee": null,
-  "published": "2026-08-12T10:20:00+00:00"
  }
 ]
