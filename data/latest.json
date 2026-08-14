@@ -1,5 +1,44 @@
 [
  {
+  "id": "4625aaa9b884",
+  "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
+  "player": "Mikel Arteta",
+  "title_ko": "아르테타는 '유기적인 방식'으로 아스날과 새로운 계약을 체결할 것이라고 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
+  "fee": null,
+  "published": "2026-08-14T22:30:00+00:00"
+ },
+ {
+  "id": "bc1510db78ba",
+  "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
+  "player": "Mikel Arteta",
+  "title_ko": "'문제되지 않을 것': 미켈 아르테타는 아스날 계약 상황에 대해 안심했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
+  "fee": null,
+  "published": "2026-08-14T21:30:38+00:00"
+ },
+ {
+  "id": "fe058810a912",
+  "title": "Arteta not worried about Arsenal contract talks",
+  "player": "Mikel Arteta",
+  "title_ko": "아르테타는 아스날 계약 협상에 대해 걱정하지 않는다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T21:30:21+00:00"
+ },
+ {
   "id": "4e6f33e5de21",
   "title": "Official: Lazio get Frattesi on loan from Inter with option to buy for €15m",
   "player": "Davide Frattesi",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/psg-liverpool-bradley-barcola-update-37546040",
   "fee": null,
   "published": "2026-08-13T06:20:56+00:00"
- },
- {
-  "id": "338b98489fa5",
-  "title": "Man Utd signing Myles Lewis-Skelly would be bad news for seven players",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유가 마일스 루이스-스켈리를 영입하는 것은 7명의 선수들에게 나쁜 소식이 될 것이다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-myles-lewis-skelly-37541471",
-  "fee": null,
-  "published": "2026-08-13T06:00:00+00:00"
- },
- {
-  "id": "47f2db09a70f",
-  "title": "Transfer news LIVE: Man Utd working on deal, Barcola to Liverpool, Fernandez £120m call",
-  "player": null,
-  "title_ko": "이적 뉴스 라이브: 맨유, 딜 작업 중, 바르콜라에서 리버풀로, 페르난데스 £120m 콜",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37545999",
-  "fee": "£120M",
-  "published": "2026-08-13T05:41:46+00:00"
- },
- {
-  "id": "b64435b36587",
-  "title": "Man Utd news: Arsenal target 'favours' United as club stand firm on £14m star",
-  "player": null,
-  "title_ko": "맨유 뉴스: 아스날은 클럽이 1400만 파운드의 스타 영입을 확고히 하기 위해 맨유를 선호한다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-page-salinas-37543875",
-  "fee": "£14M",
-  "published": "2026-08-13T05:37:00+00:00"
  }
 ]
