@@ -13,6 +13,19 @@
   "published": "2026-08-14T19:40:00+00:00"
  },
  {
+  "id": "a85768cd169f",
+  "title": "Giuntoli: ‘Atalanta’s best signing was Sarri, nothing to envy Lang’",
+  "player": "Cristiano Giuntoli",
+  "title_ko": "지운톨리 \"아탈란타 최고의 영입은 사리, 랭 부럽지 않다\"",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/giuntoli-atalantas-best-signing-was-sarri-lang/",
+  "fee": null,
+  "published": "2026-08-14T19:21:11+00:00"
+ },
+ {
   "id": "3b0e7aa98eeb",
   "title": "Enzo Fernandez deadline passes as Chelsea reject transfer amid Man City interest",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
   "fee": "£34.1M",
   "published": "2026-08-12T22:16:37+00:00"
- },
- {
-  "id": "8599d935d474",
-  "title": "Chelsea set Man City deadline to bid for Fernandez",
-  "player": "Enzo Fernandez",
-  "title_ko": "첼시는 맨시티의 페르난데스 영입 마감일을 정했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
-  "fee": null,
-  "published": "2026-08-12T21:49:00+00:00"
  }
 ]
