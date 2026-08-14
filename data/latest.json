@@ -13,6 +13,19 @@
   "published": "2026-08-14T11:00:00+00:00"
  },
  {
+  "id": "f0d1af780304",
+  "title": "Inter and Lazio restructure Frattesi deal after last-minute problem",
+  "player": null,
+  "title_ko": "인테르와 라치오는 막판 문제 이후 프라테시 계약을 재조정했다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-and-lazio-restructure-frattesi-deal/",
+  "fee": null,
+  "published": "2026-08-14T10:06:31+00:00"
+ },
+ {
   "id": "1466780201a4",
   "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
   "player": "Read Football Daily",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-plan-suzuki-loan-alisson-goal/",
   "fee": null,
   "published": "2026-08-12T11:45:00+00:00"
- },
- {
-  "id": "79b9b60687e3",
-  "title": "El Sevilla acuerda con el Ascoli italiano el traspaso del argentino Gattoni",
-  "player": null,
-  "title_ko": "세비야는 아르헨티나 가토니의 이적에 대해 이탈리아 클럽 아스콜리와 합의했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/12/sevilla-acuerda-ascoli-italiano-traspaso-argentino-gattoni.html",
-  "fee": null,
-  "published": "2026-08-12T11:28:42+00:00"
  }
 ]
