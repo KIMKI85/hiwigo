@@ -1,5 +1,31 @@
 [
  {
+  "id": "382f5ecb7aa1",
+  "title": "Man City miss Chelsea's deadline to bid for Fernandez",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티는 첼시의 페르난데스 영입 마감시한을 놓쳤다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
+  "fee": null,
+  "published": "2026-08-14T17:27:00+00:00"
+ },
+ {
+  "id": "4fbe86c29b44",
+  "title": "Frattesi arrives for Lazio medical after Inter change €15m terms",
+  "player": "Davide Frattesi",
+  "title_ko": "프라테시, 인테르가 €15m 조건으로 변경한 후 라치오 메디컬로 도착",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frattesi-lazio-medical-inter-change-e15m-terms/",
+  "fee": "€15M",
+  "published": "2026-08-14T16:45:34+00:00"
+ },
+ {
   "id": "c58c64ace855",
   "title": "Official: Milan loan Athekame to Olympique Lyonnais",
   "player": "Olympique Lyonnais",
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/ac-milan-loan-athekame-olympique-lyonnais/",
   "fee": null,
   "published": "2026-08-14T16:26:08+00:00"
+ },
+ {
+  "id": "ded8c7c6b10b",
+  "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 마감 기한이 지났으므로 페르난데스의 이적은 없다고 밝혔습니다. 하지만 정말 끝난 걸까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T16:04:54+00:00"
  },
  {
   "id": "0bd78d088936",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "382f5ecb7aa1",
+  "title": "Man City miss Chelsea's deadline to bid for Fernandez",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티는 첼시의 페르난데스 영입 마감시한을 놓쳤다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
+  "fee": null,
+  "published": "2026-08-14T17:27:00+00:00"
+ },
+ {
+  "id": "4fbe86c29b44",
+  "title": "Frattesi arrives for Lazio medical after Inter change €15m terms",
+  "player": "Davide Frattesi",
+  "title_ko": "프라테시, 인테르가 €15m 조건으로 변경한 후 라치오 메디컬로 도착",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frattesi-lazio-medical-inter-change-e15m-terms/",
+  "fee": "€15M",
+  "published": "2026-08-14T16:45:34+00:00"
+ },
+ {
   "id": "c58c64ace855",
   "title": "Official: Milan loan Athekame to Olympique Lyonnais",
   "player": "Olympique Lyonnais",
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/ac-milan-loan-athekame-olympique-lyonnais/",
   "fee": null,
   "published": "2026-08-14T16:26:08+00:00"
+ },
+ {
+  "id": "ded8c7c6b10b",
+  "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 마감 기한이 지났으므로 페르난데스의 이적은 없다고 밝혔습니다. 하지만 정말 끝난 걸까요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T16:04:54+00:00"
  },
  {
   "id": "0bd78d088936",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-reignite-ezri-konsa-transfer-37545054",
   "fee": null,
   "published": "2026-08-12T18:25:06+00:00"
- },
- {
-  "id": "6ec17757e973",
-  "title": "Video: Kristensen arrives for Atalanta medical, agreement €22m plus bonus",
-  "player": "Thomas Kristensen",
-  "title_ko": "영상: 크리스텐센, 아탈란타 메디컬로 도착, €22m에 보너스 추가 합의",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-kristensen-arrives-for-atalanta-medical/",
-  "fee": "€22M",
-  "published": "2026-08-12T17:31:43+00:00"
- },
- {
-  "id": "159685fda603",
-  "title": "Arsenal set to finally break record for transfer sale as bid submitted for Gabriel Martinelli",
-  "player": "Gabriel Martinelli",
-  "title_ko": "아스날은 가브리엘 마르티넬리에 대한 입찰로 마침내 이적 판매 기록을 경신할 예정입니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-record-martinelli-galatasaray-37545028",
-  "fee": null,
-  "published": "2026-08-12T17:27:28+00:00"
- },
- {
-  "id": "7cae6ba22cfa",
-  "title": "Man Utd chief gets blunt response to transfer approach - 'I'd tell him to go away'",
-  "player": "Leicester City's Louis",
-  "title_ko": "맨유 단장, 이적 접근에 직설적 반응 - '나는 그에게 떠나라고 말하고 싶다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-wilcox-russell-leicester-37544895",
-  "fee": null,
-  "published": "2026-08-12T16:50:57+00:00"
  }
 ]
