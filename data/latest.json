@@ -1,5 +1,18 @@
 [
  {
+  "id": "f22875cf3328",
+  "title": "El Málaga quiere polivalencia para cerrar sus últimos fichajes",
+  "player": "El Málaga",
+  "title_ko": "말라가는 최근 영입을 마무리하기 위해 다재다능함을 원합니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/14/malaga-quiere-polivalencia-cerrar-ultimos-fichajes.html",
+  "fee": null,
+  "published": "2026-08-14T09:31:42+00:00"
+ },
+ {
   "id": "92beca5dedb2",
   "title": "Frattesi transfer from Inter to Lazio put on standby at the last minute",
   "player": "Davide Frattesi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
   "fee": "£120M",
   "published": "2026-08-12T10:32:30+00:00"
- },
- {
-  "id": "2c3d0edcc269",
-  "title": "Man City sign goalkeeper Rulli from Marseille",
-  "player": "Geronimo Rulli",
-  "title_ko": "맨시티는 마르세유의 골키퍼 룰리를 영입했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cvgwz829l04o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-12T10:27:22+00:00"
  }
 ]
