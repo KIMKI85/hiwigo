@@ -1,5 +1,44 @@
 [
  {
+  "id": "447459c83c6e",
+  "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
+  "player": "Thomas Tuchel's England",
+  "title_ko": "이적에 대한 최신 소식, 리버풀과 토마스 투헬의 잉글랜드 뒷페이지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
+  "fee": null,
+  "published": "2026-08-14T07:57:00+00:00"
+ },
+ {
+  "id": "acadb859dbc5",
+  "title": "Paul Pogba's wife responds to retirement demand as Monaco contract set to be ripped up",
+  "player": "Paul Pogba's",
+  "title_ko": "폴 포그바의 아내, 모나코 계약 파기 앞두고 은퇴 요구에 응",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-wife-monaco-contract-37550501",
+  "fee": null,
+  "published": "2026-08-14T07:06:21+00:00"
+ },
+ {
+  "id": "e373d5a345af",
+  "title": "Leeds lockt Elvedi: An diesen Faktoren hängt ein Wechsel",
+  "player": "Nico Elvedi",
+  "title_ko": "Leeds는 Elvedi를 유혹합니다. 변화는 이러한 요인에 달려 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/leeds-lockt-elvedi-an-diesen-faktoren-haengt-ein-wechsel-1242943/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T06:43:21+00:00"
+ },
+ {
   "id": "fa114dca684f",
   "title": "Mikel Arteta's own words explain the obvious problem Arsenal face with Ezri Konsa transfer",
   "player": "Mikel Arteta's",

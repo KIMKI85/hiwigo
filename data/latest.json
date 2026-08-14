@@ -1,5 +1,44 @@
 [
  {
+  "id": "447459c83c6e",
+  "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
+  "player": "Thomas Tuchel's England",
+  "title_ko": "이적에 대한 최신 소식, 리버풀과 토마스 투헬의 잉글랜드 뒷페이지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
+  "fee": null,
+  "published": "2026-08-14T07:57:00+00:00"
+ },
+ {
+  "id": "acadb859dbc5",
+  "title": "Paul Pogba's wife responds to retirement demand as Monaco contract set to be ripped up",
+  "player": "Paul Pogba's",
+  "title_ko": "폴 포그바의 아내, 모나코 계약 파기 앞두고 은퇴 요구에 응",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-wife-monaco-contract-37550501",
+  "fee": null,
+  "published": "2026-08-14T07:06:21+00:00"
+ },
+ {
+  "id": "e373d5a345af",
+  "title": "Leeds lockt Elvedi: An diesen Faktoren hängt ein Wechsel",
+  "player": "Nico Elvedi",
+  "title_ko": "Leeds는 Elvedi를 유혹합니다. 변화는 이러한 요인에 달려 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/leeds-lockt-elvedi-an-diesen-faktoren-haengt-ein-wechsel-1242943/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T06:43:21+00:00"
+ },
+ {
   "id": "fa114dca684f",
   "title": "Mikel Arteta's own words explain the obvious problem Arsenal face with Ezri Konsa transfer",
   "player": "Mikel Arteta's",
@@ -1259,44 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli",
   "fee": null,
   "published": "2026-08-12T08:30:27+00:00"
- },
- {
-  "id": "ffaf0ad4c6b5",
-  "title": "Chelsea sign Chavarria in £16m deal - who is the left-back?",
-  "player": "Pep Chavarria",
-  "title_ko": "첼시는 1,600만 파운드에 차바리아를 영입했습니다. 레프트백은 누구일까요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cvg0rw84xk9o?at_medium=RSS&at_campaign=rss",
-  "fee": "£16M",
-  "published": "2026-08-12T08:29:22+00:00"
- },
- {
-  "id": "6ab15bbb5418",
-  "title": "Giménez agrees to Porto move as Milan hold out over the details",
-  "player": "Santiago Giménez",
-  "title_ko": "밀란이 세부 사항을 놓고 고민하는 가운데 히메네스는 포르투 이적에 동의했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gimenez-agrees-to-porto-move-as-milan/",
-  "fee": null,
-  "published": "2026-08-12T08:20:00+00:00"
- },
- {
-  "id": "4dd0def5423c",
-  "title": "Newcastle join Lazio in race for Inter’s Frattesi after Stanković snub",
-  "player": "Davide Frattesi",
-  "title_ko": "뉴캐슬은 스탄코비치의 거절 이후 인테르의 프라테시 경쟁에 라치오와 합류했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/newcastle-join-lazio-race-for-inter-frattesi/",
-  "fee": null,
-  "published": "2026-08-12T08:00:00+00:00"
  }
 ]
