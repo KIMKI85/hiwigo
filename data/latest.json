@@ -1,5 +1,18 @@
 [
  {
+  "id": "b6e15cefbaa9",
+  "title": "Man City respond to Chelsea's Enzo Fernandez transfer deadline as Enzo Maresca's view clear",
+  "player": "Chelsea's Enzo Fernandez",
+  "title_ko": "맨시티는 엔조 마레스카의 견해가 명확해지자 첼시의 엔조 페르난데스 이적 마감일에 대응했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-respond-chelseas-enzo-37552709",
+  "fee": null,
+  "published": "2026-08-14T13:00:54+00:00"
+ },
+ {
   "id": "2acdc2a5a630",
   "title": "Vor erneuter Leihe: Tohumcu soll in Salzburg durchstarten",
   "player": "Holstein Kiel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0jl27w90xxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-12T14:20:21+00:00"
- },
- {
-  "id": "e5cd4d056fd5",
-  "title": "Inter agreement for Spence, Tottenham accept €31.5m plus bonus",
-  "player": null,
-  "title_ko": "Spence와 Tottenham의 상호 계약은 €31.5m에 보너스를 추가로 수락합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-agreement-spence-tottenham-e31-5m-bonus/",
-  "fee": "€31.5M",
-  "published": "2026-08-12T13:56:34+00:00"
  }
 ]
