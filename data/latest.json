@@ -1,5 +1,18 @@
 [
  {
+  "id": "fb9e7ab9a9d2",
+  "title": "Burnley sign Chelsea's Satpayev on loan",
+  "player": "Chelsea's Satpayev",
+  "title_ko": "번리는 첼시의 사트파예프 임대 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T19:49:11+00:00"
+ },
+ {
   "id": "52b22c72a477",
   "title": "Romero announces Spurs exit ahead of Atletico transfer",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-update-andoni-iraola-37543873",
   "fee": null,
   "published": "2026-08-13T04:00:00+00:00"
- },
- {
-  "id": "73987bb5462c",
-  "title": "Arsenal news: Mikel Arteta eyes Barcelona raid as £85m star opens door to transfer",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 뉴스: 미켈 아르테타(Mikel Arteta)가 £85m의 스타가 이적 가능성을 열자 바르셀로나 공격을 주시하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-mikel-arteta-latest-37543807",
-  "fee": "£85M",
-  "published": "2026-08-13T03:00:00+00:00"
  }
 ]
