@@ -13,6 +13,19 @@
   "published": "2026-08-14T07:57:00+00:00"
  },
  {
+  "id": "47e28eaef0cb",
+  "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
+  "player": "Gabriel Martinelli",
+  "title_ko": "축구 이적 루머: 아스날이 오시멘을 교환 제안으로 제안했나요? 뉴캐슬, 발레바 입찰에 참여할까?",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
+  "fee": null,
+  "published": "2026-08-14T07:48:24+00:00"
+ },
+ {
   "id": "acadb859dbc5",
   "title": "Paul Pogba's wife responds to retirement demand as Monaco contract set to be ripped up",
   "player": "Paul Pogba's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/cristian-romero-transfer-arsenal-tottenham-37541631",
   "fee": null,
   "published": "2026-08-12T08:37:31+00:00"
- },
- {
-  "id": "560c622d2001",
-  "title": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
-  "player": "Folarin Balogun",
-  "title_ko": "축구 이적 루머: Folarin Balogun이 토트넘으로? 가브리엘 제수스, 나폴리로?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli",
-  "fee": null,
-  "published": "2026-08-12T08:30:27+00:00"
  }
 ]
