@@ -1,5 +1,31 @@
 [
  {
+  "id": "079fa561c428",
+  "title": "Celtic's Engels poised for West Ham transfer",
+  "player": "Celtic's Engels",
+  "title_ko": "웨스트햄 이적을 준비하는 셀틱의 엥겔스",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgjexdypjqyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T14:51:01+00:00"
+ },
+ {
+  "id": "51fa8237e6fa",
+  "title": "Ex-Liverpool star Jarell Quansah emerges as shock Arsenal target amid William Saliba fears",
+  "player": "Jarell Quansah",
+  "title_ko": "윌리엄 살리바의 우려 속에 전 리버풀 스타 자렐 콴사가 아스날의 충격적인 타깃으로 떠올랐다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-jarell-quansah-liverpool-37553263",
+  "fee": null,
+  "published": "2026-08-14T14:49:08+00:00"
+ },
+ {
   "id": "48fa6f0a9e2d",
   "title": "Winkt Bayern ein 250-Millionen-Euro-Deal?",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-lukaku-complete-napoli-to-fenerbahce/",
   "fee": "€6M",
   "published": "2026-08-12T16:01:39+00:00"
- },
- {
-  "id": "d827e7b25dd9",
-  "title": "El administrador calma el mercado: \"Hay dinero para hacer varios fichajes\"",
-  "player": null,
-  "title_ko": "관리자는 \"여러 계약을 할 돈이 있다\"고 시장을 진정시켰다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/08/12/administrador-calma-mercado-hay-dinero-fichajes.html",
-  "fee": null,
-  "published": "2026-08-12T15:57:02+00:00"
- },
- {
-  "id": "6f2678c13efc",
-  "title": "Erfurt leiht torgefährliches Düsseldorf-Talent: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "에르푸르트는 위험한 뒤셀도르프 재능을 빌려줍니다: 현재 지역 리그의 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/erfurt-leiht-torgefaehrliches-duesseldorf-talent-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-12T15:56:27+00:00"
  }
 ]
