@@ -1,5 +1,18 @@
 [
  {
+  "id": "5a4ba85f0ed0",
+  "title": "Mercato: Strasbourg va s’offrir un jeune talent du Real Madrid",
+  "player": "Jacobo Ortega",
+  "title_ko": "메르카토: 스트라스부르는 레알 마드리드의 젊은 재능을 제공할 것입니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-va-s-offrir-un-jeune-talent-du-real-madrid_AV-202608140234.html",
+  "fee": null,
+  "published": "2026-08-14T08:53:55+00:00"
+ },
+ {
   "id": "81ad06aba91e",
   "title": "Galatasaray reject £111m Victor Osimhen transfer offer as Arsenal task made clear",
   "player": "Victor Osimhen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgljpye101xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-12T09:13:34+00:00"
- },
- {
-  "id": "28a1dcba8a45",
-  "title": "Mercato: les indésirables du Barça enragent contre leur direction",
-  "player": null,
-  "title_ko": "메르카토: 바르사의 바람직하지 못한 자들은 그들의 경영진에 분노하고 있다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-les-indesirables-du-barca-enragent-contre-leur-direction_AV-202608120243.html",
-  "fee": null,
-  "published": "2026-08-12T09:03:13+00:00"
  }
 ]
