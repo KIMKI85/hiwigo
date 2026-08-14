@@ -1,5 +1,18 @@
 [
  {
+  "id": "8274272550dd",
+  "title": "Como approach Chelsea for Delap after securing €30m Chalobah deal",
+  "player": "Cesc Fabregas",
+  "title_ko": "Como는 €30m의 Chalobah 계약을 체결한 후 Delap을 위해 Chelsea에게 접근했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/como-approach-chelsea-for-delap/",
+  "fee": "€30M",
+  "published": "2026-08-14T11:46:12+00:00"
+ },
+ {
   "id": "b62f77dba87a",
   "title": "Spurs agree £30m deal with Inter for Spence",
   "player": "Djed Spence",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-gimenez-porto-loan-no-milan-guarantee/",
   "fee": "€20M",
   "published": "2026-08-12T13:09:27+00:00"
- },
- {
-  "id": "e9b83581a363",
-  "title": "Zehn Zweitliga-Einsätze und vielversprechende Quoten: Atilgan wechselt zum HFC",
-  "player": "Zehn Zweitliga-",
-  "title_ko": "10개의 두 번째 부문 출연 및 유망한 등급: Atilgan이 HFC로 이동합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/zehn-zweitliga-einsaetze-und-vielversprechende-quoten-atilgan-wechselt-zum-hfc-1242560/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-12T12:55:58+00:00"
  }
 ]
