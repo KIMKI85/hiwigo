@@ -13,6 +13,32 @@
   "published": "2026-08-14T11:00:00+00:00"
  },
  {
+  "id": "b91dbd3b8737",
+  "title": "Juventus book Lucumi medical after reaching €20m agreement with Bologna",
+  "player": "Jhon Lucumi",
+  "title_ko": "유벤투스는 볼로냐와 €20m 계약을 체결한 후 루쿠미 메디컬을 예약했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-book-lucumi-medical-bologna-deal/",
+  "fee": "€20M",
+  "published": "2026-08-14T10:52:28+00:00"
+ },
+ {
+  "id": "9ce40fa03125",
+  "title": "Mikel Merino makes 'best in the world' claim after Arsenal's latest transfer move",
+  "player": "Mikel Merino",
+  "title_ko": "미켈 메리노는 아스날의 최근 이적 움직임 이후 '세계 최고'라는 주장을 펼쳤습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-merino-bruno-guimaraes-37551567",
+  "fee": null,
+  "published": "2026-08-14T10:48:26+00:00"
+ },
+ {
   "id": "3aa6f0935c8e",
   "title": "Arsenal express interest in signing  Quansah",
   "player": "Jarell Quansah",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/zehn-zweitliga-einsaetze-und-vielversprechende-quoten-atilgan-wechselt-zum-hfc-1242560/artikel#omrss",
   "fee": null,
   "published": "2026-08-12T12:55:58+00:00"
- },
- {
-  "id": "6c19c12f3384",
-  "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
-  "player": "Mateo Pellegrino",
-  "title_ko": "피콜리는 볼로냐와 1,800만 유로에 보너스를 더한 계약을 맺고 세리에 A 도미노 효과를 촉발했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/piccoli-agreement-with-bologna-e18m-plus-bonus/",
-  "fee": "€18M",
-  "published": "2026-08-12T12:54:26+00:00"
- },
- {
-  "id": "f4d3276987e2",
-  "title": "Liverpool handed Bradley Barcola transfer boost as 'agreement nears' after PSG comments",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG의 발언 이후 브래들리 바르콜라 이적 지원을 '합의가 가까워졌다'고 전달했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-barcola-psg-torres-37543178",
-  "fee": null,
-  "published": "2026-08-12T12:09:10+00:00"
  }
 ]
