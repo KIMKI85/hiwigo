@@ -1,5 +1,31 @@
 [
  {
+  "id": "81ad06aba91e",
+  "title": "Galatasaray reject £111m Victor Osimhen transfer offer as Arsenal task made clear",
+  "player": "Victor Osimhen",
+  "title_ko": "갈라타사라이는 아스날의 과제가 명확해지자 빅터 오시멘의 £111m 이적 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-bid-galatasaray-37550685",
+  "fee": "£111M",
+  "published": "2026-08-14T08:39:21+00:00"
+ },
+ {
+  "id": "da258912c619",
+  "title": "\"Nennenswerte Ablöse\": HSV lässt Baldé nach Straßburg ziehen",
+  "player": "Nennenswerte Ablöse",
+  "title_ko": "“눈에 띄는 이적 수수료”: HSV는 Baldé를 스트라스부르로 이적시킵니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/nennenswerte-abloese-hsv-laesst-bald-nach-strassburg-ziehen-1242973/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T08:28:49+00:00"
+ },
+ {
   "id": "447459c83c6e",
   "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
   "player": "Thomas Tuchel's England",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-les-indesirables-du-barca-enragent-contre-leur-direction_AV-202608120243.html",
   "fee": null,
   "published": "2026-08-12T09:03:13+00:00"
- },
- {
-  "id": "43c19be47bd6",
-  "title": "Lazio star Romagnoli weighs Atalanta switch as Al-Sadd move continues to stall",
-  "player": "Alessio Romagnoli",
-  "title_ko": "라치오 스타 로마뇰리는 알-사드의 움직임이 계속 정체되면서 아탈란타 스위치에 무게를 두고 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/romagnoli-atalanta-lazio-al-sadd-sarri/",
-  "fee": null,
-  "published": "2026-08-12T08:40:00+00:00"
- },
- {
-  "id": "b3b6a1fbe5ae",
-  "title": "Cristian Romero nears Tottenham exit as transfer fee agreed amid Arsenal interest",
-  "player": "Cristian Romero",
-  "title_ko": "아스날의 관심 속에 이적료 합의로 크리스티안 로메로가 토트넘을 떠나게 됐다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/cristian-romero-transfer-arsenal-tottenham-37541631",
-  "fee": null,
-  "published": "2026-08-12T08:37:31+00:00"
  }
 ]
