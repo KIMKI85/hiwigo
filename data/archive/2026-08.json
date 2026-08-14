@@ -1,5 +1,18 @@
 [
  {
+  "id": "833c7c867649",
+  "title": "Official: Sassuolo secure Obrador from Benfica, loan out Alvarez",
+  "player": "Rafa Obrador",
+  "title_ko": "공식: 사수올로가 벤피카로부터 오브라도르를 확보하고 알바레즈를 임대",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-sassuolo-secure-obrador-from-benfica/",
+  "fee": null,
+  "published": "2026-08-14T18:23:49+00:00"
+ },
+ {
   "id": "23ea533829f9",
   "title": "Gabriel Martinelli makes Arsenal transfer decision after £38m bid and Andrea Berta negotiations",
   "player": "Gabriel Martinelli",
@@ -89,6 +102,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-l-ajax-pour-mika-godts-qui-sera-a-paris-dans-les-prochaines-heures_AV-202608140385.html",
   "fee": null,
   "published": "2026-08-14T15:24:18+00:00"
+ },
+ {
+  "id": "227696ac6f44",
+  "title": "Grimaldo über Atletico-Wechsel: \"Erfülle mir einen Traum\"",
+  "player": "Neuzugang Alejandro Grimaldo",
+  "title_ko": "아틀레티코 이적에 그리말도 “내 꿈을 이루세요”",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/grimaldo-ueber-atletico-wechsel-erfuelle-mir-einen-traum-1243105/video#omrss",
+  "fee": null,
+  "published": "2026-08-14T14:55:41+00:00"
  },
  {
   "id": "079fa561c428",
