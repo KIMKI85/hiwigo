@@ -1,5 +1,18 @@
 [
  {
+  "id": "91d99229d511",
+  "title": "Liverpool news: Bradley Barcola update issued as PSG transfer ruled out after agent talks",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 에이전트 대화 후 PSG 이적이 배제됨에 따라 브래들리 바르콜라 업데이트 발표",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37548459",
+  "fee": null,
+  "published": "2026-08-14T04:00:00+00:00"
+ },
+ {
   "id": "23d57b9c456b",
   "title": "Man Utd news: 'Contact' made over £42million star as transfer confirmed for 'sizeable' fee",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/netherlands-roberto-martinez-arne-slot-37541449",
   "fee": null,
   "published": "2026-08-12T07:45:24+00:00"
- },
- {
-  "id": "f40c0dfd05e2",
-  "title": "Tottenham hold the key to Arsenal transfer after Mikel Arteta changes target",
-  "player": "Mikel Arteta",
-  "title_ko": "토트넘은 미켈 아르테타가 목표를 변경한 후 아스날 이적의 열쇠를 쥐고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tottenham-transfer-kounde-porro-37541235",
-  "fee": null,
-  "published": "2026-08-12T06:10:55+00:00"
  }
 ]
