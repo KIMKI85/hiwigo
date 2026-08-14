@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a454d2049f0",
+  "title": "Arsenal news: Jules Kounde's agent 'spotted' as transfer record set to be broken",
+  "player": "Jules Kounde's",
+  "title_ko": "아스날 뉴스: Jules Kounde의 에이전트가 이적 기록이 깨질 것으로 '발견'되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-record-kounde-agent-37548085",
+  "fee": null,
+  "published": "2026-08-14T03:00:00+00:00"
+ },
+ {
   "id": "2eb0faeac4e6",
   "title": "Man City's Reijnders set for £52m Saudi move",
   "player": "City's Reijnders",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37541231",
   "fee": "£14M",
   "published": "2026-08-12T05:54:35+00:00"
- },
- {
-  "id": "f6d9eaecf2f5",
-  "title": "Man Utd urged to complete 'no brainer' seventh summer signing 'they can't say no to'",
-  "player": "Michael Carrick",
-  "title_ko": "맨유는 7번째 여름 계약을 완료할 것을 촉구했고 '그들은 거절할 수 없다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-summer-transfer-latest-37536435",
-  "fee": null,
-  "published": "2026-08-12T05:00:00+00:00"
  }
 ]
