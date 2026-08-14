@@ -78,6 +78,19 @@
   "published": "2026-08-14T17:27:00+00:00"
  },
  {
+  "id": "608f9ecd6cf0",
+  "title": "Un départ pour une arrivée: Lorenzi dévoile les conditions pour voir une recrue à l'OM cet été",
+  "player": "Grégory Lorenzi",
+  "title_ko": "도착을 위한 출발: Lorenzi는 올 여름 OM에서 신입생을 만날 수 있는 조건을 밝힙니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/un-depart-pour-une-arrivee-lorenzi-devoile-les-conditions-pour-voir-une-recrue-a-l-om-cet-ete_AV-202608140500.html",
+  "fee": null,
+  "published": "2026-08-14T17:09:00+00:00"
+ },
+ {
   "id": "4fbe86c29b44",
   "title": "Frattesi arrives for Lazio medical after Inter change €15m terms",
   "player": "Davide Frattesi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-mikel-arteta-latest-37543807",
   "fee": "£85M",
   "published": "2026-08-13T03:00:00+00:00"
- },
- {
-  "id": "95bb80e12099",
-  "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
-  "player": "Cristian Romero",
-  "title_ko": "아틀레티코 마드리드는 토트넘의 크리스티안 로메로에게 £34.1m의 계약을 체결했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
-  "fee": "£34.1M",
-  "published": "2026-08-12T22:16:37+00:00"
  }
 ]
