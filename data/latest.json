@@ -1,5 +1,18 @@
 [
  {
+  "id": "fa114dca684f",
+  "title": "Mikel Arteta's own words explain the obvious problem Arsenal face with Ezri Konsa transfer",
+  "player": "Mikel Arteta's",
+  "title_ko": "미켈 아르테타의 말은 아스날이 에즈리 콘사 이적과 관련해 직면한 명백한 문제를 설명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-ezri-konsa-arteta-37549575",
+  "fee": null,
+  "published": "2026-08-14T06:00:00+00:00"
+ },
+ {
   "id": "21e1775acd5e",
   "title": "Aston Villa's dream end to transfer window as Unai Emery completes four new signings",
   "player": "Unai Emery",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/newcastle-join-lazio-race-for-inter-frattesi/",
   "fee": null,
   "published": "2026-08-12T08:00:00+00:00"
- },
- {
-  "id": "bbfd0fbbd35c",
-  "title": "Mercato: \"Uniquement et exclusivement dans l'intérêt de la santé financière de notre institution\",  les Corinthians annoncent le départ de Memphis Depay pour des raisons économiques",
-  "player": "Memphis Depay",
-  "title_ko": "Mercato: “우리 기관의 재정 건전성을 전적으로 그리고 독점적으로 위해”, Corinthians는 경제적 이유로 Memphis Depay의 출발을 발표합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-uniquement-et-exclusivement-dans-l-interet-de-la-sante-financiere-de-notre-institution-les-corinthians-annoncent-le-depart-de-memphis-depay-pour-des-raisons-economiques_AV-202608120202.html",
-  "fee": null,
-  "published": "2026-08-12T07:47:16+00:00"
  }
 ]
