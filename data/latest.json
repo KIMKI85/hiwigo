@@ -1,5 +1,18 @@
 [
  {
+  "id": "c58c64ace855",
+  "title": "Official: Milan loan Athekame to Olympique Lyonnais",
+  "player": "Olympique Lyonnais",
+  "title_ko": "공식: 밀란의 아테카메를 올랭피크 리옹으로 임대",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ac-milan-loan-athekame-olympique-lyonnais/",
+  "fee": null,
+  "published": "2026-08-14T16:26:08+00:00"
+ },
+ {
   "id": "0bd78d088936",
   "title": "Mercato: Ferran Torres autorisé à voyager à Paris pour finaliser son transfert au PSG",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-wilcox-russell-leicester-37544895",
   "fee": null,
   "published": "2026-08-12T16:50:57+00:00"
- },
- {
-  "id": "180eef788e61",
-  "title": "Jadon Sancho hits new low as club reject free transfer for Man Utd flop",
-  "player": "Jadon Sancho",
-  "title_ko": "Jadon Sancho는 클럽이 Man Utd의 실패에 대한 자유 이적을 거부하면서 새로운 최저치를 기록했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-man-utd-transfer-37544878",
-  "fee": null,
-  "published": "2026-08-12T16:43:00+00:00"
  }
 ]
