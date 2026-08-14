@@ -1,5 +1,18 @@
 [
  {
+  "id": "48fa6f0a9e2d",
+  "title": "Winkt Bayern ein 250-Millionen-Euro-Deal?",
+  "player": null,
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/winkt-bayern-ein-250-millionen-euro-deal-1243007/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-14T14:34:20+00:00"
+ },
+ {
   "id": "14615e74bccc",
   "title": "Bradley Barcola to Liverpool transfer twist as decision made over £145m PSG demand",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/erfurt-leiht-torgefaehrliches-duesseldorf-talent-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-08-12T15:56:27+00:00"
- },
- {
-  "id": "64fc3e0bf3cc",
-  "title": "Report David targeted by Aston Villa, loan with obligation to buy from Juventus",
-  "player": "Jonathan David",
-  "title_ko": "아스톤 빌라의 표적이 된 다비드, 유벤투스로부터 구매 의무가 있는 임대 보고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/david-aston-villa-loan-obligation-juventus/",
-  "fee": null,
-  "published": "2026-08-12T15:03:21+00:00"
  }
 ]
