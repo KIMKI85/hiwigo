@@ -1,5 +1,18 @@
 [
  {
+  "id": "21e1775acd5e",
+  "title": "Aston Villa's dream end to transfer window as Unai Emery completes four new signings",
+  "player": "Unai Emery",
+  "title_ko": "우나이 에메리가 4명의 새로운 계약을 완료하면서 아스톤 빌라의 꿈의 이적 기간 종료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/aston-villa-transfers-unai-emery-37546565",
+  "fee": null,
+  "published": "2026-08-14T04:30:00+00:00"
+ },
+ {
   "id": "91d99229d511",
   "title": "Liverpool news: Bradley Barcola update issued as PSG transfer ruled out after agent talks",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-uniquement-et-exclusivement-dans-l-interet-de-la-sante-financiere-de-notre-institution-les-corinthians-annoncent-le-depart-de-memphis-depay-pour-des-raisons-economiques_AV-202608120202.html",
   "fee": null,
   "published": "2026-08-12T07:47:16+00:00"
- },
- {
-  "id": "2ac44a8b936e",
-  "title": "Netherlands make shock move for ex-Premier League boss after Arne Slot snub",
-  "player": "Arne Slot",
-  "title_ko": "네덜란드는 아르네 슬롯의 징계 이후 전 프리미어 리그 감독에게 충격적인 조치를 취했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/netherlands-roberto-martinez-arne-slot-37541449",
-  "fee": null,
-  "published": "2026-08-12T07:45:24+00:00"
  }
 ]
