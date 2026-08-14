@@ -1,5 +1,18 @@
 [
  {
+  "id": "0bd78d088936",
+  "title": "Mercato: Ferran Torres autorisé à voyager à Paris pour finaliser son transfert au PSG",
+  "player": "Ferran Torres",
+  "title_ko": "메르카토: 페란 토레스는 PSG로의 이적을 마무리하기 위해 파리로 여행할 권한을 받았습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-autorise-a-voyager-a-paris-pour-finaliser-son-transfert-au-psg_AV-202608140387.html",
+  "fee": null,
+  "published": "2026-08-14T15:33:37+00:00"
+ },
+ {
   "id": "22eb16e00456",
   "title": "Mercato: accord total entre le PSG et l’Ajax pour Mika Godts, qui sera à Paris dans les prochaines heures",
   "player": "Mika Godts",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-romero-ready-for-parma-e7m-tigres/",
   "fee": "€7M",
   "published": "2026-08-12T16:33:27+00:00"
- },
- {
-  "id": "701bc01de5d3",
-  "title": "Tottenham reach agreement with Inter Milan after making Djed Spence compromise",
-  "player": "Djed Spence",
-  "title_ko": "토트넘, 제드 스펜스 타협 후 인터밀란과 합의",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/inter-milan-djed-spence-tottenham-37544654",
-  "fee": null,
-  "published": "2026-08-12T16:25:02+00:00"
  }
 ]
