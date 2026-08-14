@@ -1,5 +1,44 @@
 [
  {
+  "id": "b62f77dba87a",
+  "title": "Spurs agree £30m deal with Inter for Spence",
+  "player": "Djed Spence",
+  "title_ko": "스퍼스는 스펜스를 위해 인테르와 £30m 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572315/djed-spence-transfer-news-tottenham-and-inter-milan-agree-30m-deal-for-england-defender",
+  "fee": "£30M",
+  "published": "2026-08-14T11:00:00+00:00"
+ },
+ {
+  "id": "1466780201a4",
+  "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
+  "player": "Read Football Daily",
+  "title_ko": "아스날, 콴사 영입 논의중; 최신 전송; 챔피언십이 시작됩니다. FIFA 뉴스: 축구 – 라이브",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
+  "fee": null,
+  "published": "2026-08-14T10:04:17+00:00"
+ },
+ {
+  "id": "fc854ad2b90b",
+  "title": "Liverpool's Lundgaard joins Eintracht Frankfurt",
+  "player": "Liverpool's Lundgaard",
+  "title_ko": "리버풀의 룬드가르드가 아인트라흐트 프랑크푸르트로 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqlx1023wd3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-14T10:00:53+00:00"
+ },
+ {
   "id": "c5f1eaa14064",
   "title": "Icardi, Ferran Torres, Aguerd… les 5 infos mercato du vendredi 14 août à 12h",
   "player": "Ferran Torres",
