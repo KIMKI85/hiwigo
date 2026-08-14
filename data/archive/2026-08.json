@@ -1,5 +1,18 @@
 [
  {
+  "id": "859738a30299",
+  "title": "Mercato: Nice veut relancer Ngoumou et s'intéresse à un international belge",
+  "player": "Nathan Ngoumou",
+  "title_ko": "Mercato: Nice는 Ngoumou를 다시 시작하고 싶어하며 벨기에 국가대표에 관심이 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nice-veut-relancer-ngoumou-et-s-interesse-a-un-international-belge_AV-202608140241.html",
+  "fee": null,
+  "published": "2026-08-14T09:04:59+00:00"
+ },
+ {
   "id": "5a4ba85f0ed0",
   "title": "Mercato: Strasbourg va s’offrir un jeune talent du Real Madrid",
   "player": "Jacobo Ortega",
@@ -24,6 +37,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-bid-galatasaray-37550685",
   "fee": "£111M",
   "published": "2026-08-14T08:39:21+00:00"
+ },
+ {
+  "id": "595d1dea6a79",
+  "title": "Leao to miss Manchester United clash and hand Milan a transfer concern",
+  "player": "Rafael Leao",
+  "title_ko": "레오는 맨체스터 유나이티드의 경기를 놓치고 밀란에게 이적 문제를 안겨줄 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/leao-to-miss-man-united-milan-transfer-concern/",
+  "fee": null,
+  "published": "2026-08-14T08:35:53+00:00"
  },
  {
   "id": "da258912c619",

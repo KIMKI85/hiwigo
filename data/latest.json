@@ -1,5 +1,18 @@
 [
  {
+  "id": "859738a30299",
+  "title": "Mercato: Nice veut relancer Ngoumou et s'intéresse à un international belge",
+  "player": "Nathan Ngoumou",
+  "title_ko": "Mercato: Nice는 Ngoumou를 다시 시작하고 싶어하며 벨기에 국가대표에 관심이 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nice-veut-relancer-ngoumou-et-s-interesse-a-un-international-belge_AV-202608140241.html",
+  "fee": null,
+  "published": "2026-08-14T09:04:59+00:00"
+ },
+ {
   "id": "5a4ba85f0ed0",
   "title": "Mercato: Strasbourg va s’offrir un jeune talent du Real Madrid",
   "player": "Jacobo Ortega",
@@ -24,6 +37,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-bid-galatasaray-37550685",
   "fee": "£111M",
   "published": "2026-08-14T08:39:21+00:00"
+ },
+ {
+  "id": "595d1dea6a79",
+  "title": "Leao to miss Manchester United clash and hand Milan a transfer concern",
+  "player": "Rafael Leao",
+  "title_ko": "레오는 맨체스터 유나이티드의 경기를 놓치고 밀란에게 이적 문제를 안겨줄 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/leao-to-miss-man-united-milan-transfer-concern/",
+  "fee": null,
+  "published": "2026-08-14T08:35:53+00:00"
  },
  {
   "id": "da258912c619",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/roma-transfer-news-molina-mora-henrique/",
   "fee": null,
   "published": "2026-08-12T10:20:00+00:00"
- },
- {
-  "id": "e3328ffd5ed3",
-  "title": "Manchester City sign £2m goalkeeper who destroyed Man Utd's hopes of European trophy",
-  "player": "James Trafford",
-  "title_ko": "맨체스터 시티는 맨유의 유럽 우승 희망을 무너뜨린 200만 파운드의 골키퍼와 계약했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-transfer-geronimo-rulli-37542478",
-  "fee": "£2M",
-  "published": "2026-08-12T10:09:00+00:00"
- },
- {
-  "id": "a33227005dfa",
-  "title": "Torres misses Barcelona training to finalise PSG move",
-  "player": "Spain's World",
-  "title_ko": "토레스는 PSG 이적을 마무리하기 위한 바르셀로나 훈련을 놓쳤습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgljpye101xo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-12T09:13:34+00:00"
  }
 ]
