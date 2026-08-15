@@ -1,5 +1,18 @@
 [
  {
+  "id": "ccf21285244d",
+  "title": "Liverpool finally change transfer stance after breakthrough in negotiations",
+  "player": "Curtis Jones",
+  "title_ko": "리버풀은 협상 타결 후 마침내 이적 입장을 바꿨다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-curtis-jones-37555159",
+  "fee": null,
+  "published": "2026-08-15T10:32:57+00:00"
+ },
+ {
   "id": "3b0878dfcb0b",
   "title": "PSG sign World Cup final hero Torres from Barcelona",
   "player": "Spain's World",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-still-no-badiashile-agreement-chelsea/",
   "fee": null,
   "published": "2026-08-13T11:55:43+00:00"
- },
- {
-  "id": "b39669e17af7",
-  "title": "Mercato: le Barça prêt à ouvrir la porte à une vente XXL de Koundé?",
-  "player": "Jules Koundé",
-  "title_ko": "Mercato: Barça가 Koundé의 XXL 판매 문을 열 준비가 되었나요?",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-pret-a-ouvrir-la-porte-a-une-vente-xxl-de-kounde_AV-202608130326.html",
-  "fee": null,
-  "published": "2026-08-13T11:49:04+00:00"
  }
 ]
