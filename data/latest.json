@@ -1,5 +1,18 @@
 [
  {
+  "id": "edf2e1af9ec2",
+  "title": "West Ham break EFL record to sign Engels for £22m",
+  "player": "Celtic's Belgium",
+  "title_ko": "웨스트햄은 EFL 기록을 깨고 엥겔스를 £22m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
+  "fee": "£22M",
+  "published": "2026-08-15T20:19:40+00:00"
+ },
+ {
   "id": "bceb59024fb1",
   "title": "Mariano es el ‘fichaje’",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-13T21:37:39+00:00"
- },
- {
-  "id": "ee9932f08caf",
-  "title": "Done Deal: Lucumi final details for Juventus at €20m including bonus",
-  "player": null,
-  "title_ko": "완료된 거래: 유벤투스의 Lucumi 최종 세부 사항은 보너스를 포함하여 €20m입니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-lucumi-final-details-juventus-e20m/",
-  "fee": "€20M",
-  "published": "2026-08-13T20:53:07+00:00"
  }
 ]
