@@ -1,5 +1,31 @@
 [
  {
+  "id": "bceb59024fb1",
+  "title": "Mariano es el ‘fichaje’",
+  "player": null,
+  "title_ko": "마리아노는 '서명'이다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/alaves/2026/08/15/mariano-fichaje.html",
+  "fee": null,
+  "published": "2026-08-15T19:45:28+00:00"
+ },
+ {
+  "id": "ab64dc971b03",
+  "title": "Man City and Arsenal handed Ayyoub Bouaddi transfer update with coach admission",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티와 아스널은 아이유브 부아디의 코치 영입 소식을 전했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bouaddi-transfer-man-city-arsenal-37556394",
+  "fee": null,
+  "published": "2026-08-15T19:42:09+00:00"
+ },
+ {
   "id": "6b0bbf9640e7",
   "title": "Liverpool handed Bradley Barcola transfer boost as Cody Gakpo 'agreement' emerges",
   "player": "Bradley Barcola",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/done-deal-lucumi-final-details-juventus-e20m/",
   "fee": "€20M",
   "published": "2026-08-13T20:53:07+00:00"
- },
- {
-  "id": "2b9390d31cf0",
-  "title": "PSG agree deal in principle for Barcelona's Torres",
-  "player": "Barcelona's Torres",
-  "title_ko": "PSG는 바르셀로나의 토레스에 대한 원칙적 거래에 동의했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-13T20:36:21+00:00"
- },
- {
-  "id": "57cd3a3a2893",
-  "title": "Arsenal and Liverpool set for transfer tribunal after teenager signed for Gunners",
-  "player": "Vincent Joseph",
-  "title_ko": "10대 선수가 거너스와 계약한 후 아스날과 리버풀이 이적 재판소에 갈 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-liverpool-transfer-vincent-joseph-37549890",
-  "fee": null,
-  "published": "2026-08-13T20:31:22+00:00"
  }
 ]
