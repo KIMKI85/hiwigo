@@ -1,5 +1,18 @@
 [
  {
+  "id": "c74983e0aa57",
+  "title": "Juventus agree €22m deal for Bologna defender Jhon Lucumi",
+  "player": "Jhon Lucumi",
+  "title_ko": "유벤투스는 볼로냐 수비수 존 루쿠미의 €22m 계약에 동의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-agree-22m-deal-for-bologna-lucumi/",
+  "fee": "€22M",
+  "published": "2026-08-15T11:10:00+00:00"
+ },
+ {
   "id": "ccf21285244d",
   "title": "Liverpool finally change transfer stance after breakthrough in negotiations",
   "player": "Curtis Jones",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
   "fee": null,
   "published": "2026-08-15T10:32:00+00:00"
+ },
+ {
+  "id": "bf1f90f00fc1",
+  "title": "Paris Saint-Germain sign Ferran Torres from Barcelona in €50m deal",
+  "player": "Ferran Torres",
+  "title_ko": "파리 생제르맹은 바르셀로나에서 페란 토레스를 €50m에 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/15/psg-ferran-torres-barcelona-transfer-window",
+  "fee": "€50M",
+  "published": "2026-08-15T10:23:24+00:00"
  },
  {
   "id": "6cfb5eb4f840",
