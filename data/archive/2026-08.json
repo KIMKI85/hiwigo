@@ -1,5 +1,18 @@
 [
  {
+  "id": "3b0878dfcb0b",
+  "title": "PSG sign World Cup final hero Torres from Barcelona",
+  "player": "Spain's World",
+  "title_ko": "PSG는 월드컵 결승 영웅 바르셀로나의 토레스를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
+  "fee": null,
+  "published": "2026-08-15T10:32:00+00:00"
+ },
+ {
   "id": "8daaa275807b",
   "title": "PSG sign World Cup winner Torres from Barcelona",
   "player": "Ferran Torres",

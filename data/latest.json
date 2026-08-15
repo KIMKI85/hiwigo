@@ -1,5 +1,18 @@
 [
  {
+  "id": "3b0878dfcb0b",
+  "title": "PSG sign World Cup final hero Torres from Barcelona",
+  "player": "Spain's World",
+  "title_ko": "PSG는 월드컵 결승 영웅 바르셀로나의 토레스를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
+  "fee": null,
+  "published": "2026-08-15T10:32:00+00:00"
+ },
+ {
   "id": "8daaa275807b",
   "title": "PSG sign World Cup winner Torres from Barcelona",
   "player": "Ferran Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-book-frattesi-medical-ahead-inter-move/",
   "fee": "€15M",
   "published": "2026-08-13T11:33:13+00:00"
- },
- {
-  "id": "feadb0b07135",
-  "title": "Liverpool 'pull out of transfer deal' for attacker after holding talks with agent",
-  "player": "Bradley Barcola's",
-  "title_ko": "리버풀은 에이전트와 대화를 나눈 후 공격수에 대한 '이적 계약을 철회'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ibrahim-mbaye-liverpool-transfer-barcola-37546912",
-  "fee": null,
-  "published": "2026-08-13T10:12:43+00:00"
  }
 ]
