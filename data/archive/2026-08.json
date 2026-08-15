@@ -1,5 +1,31 @@
 [
  {
+  "id": "367f3168a468",
+  "title": "Spence completes £30m Inter move from Spurs",
+  "player": "Djed Spence",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573504/djed-spence-transfer-news-tottenham-defender-completes-30m-inter-milan-move",
+  "fee": "£30M",
+  "published": "2026-08-15T17:00:00+00:00"
+ },
+ {
+  "id": "b0e0c4252758",
+  "title": "Klopp dementiert Wechsel-Rat an El Mala: \"Hat mich ein bisschen beleidigt, dass …\"",
+  "player": "El Mala",
+  "title_ko": "클롭은 엘 말라에게 조언을 바꾸라는 말을 거부했다: \"그게 조금 기분이 상했다...\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/klopp-dementiert-wechsel-rat-an-el-mala-hat-mich-ein-bisschen-beleidigt-dass-1243328/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T16:49:58+00:00"
+ },
+ {
   "id": "faa037f6c7ee",
   "title": "Official: Spence signs for Inter in €35m including bonus deal with Tottenham",
   "player": "Djed Spence",
