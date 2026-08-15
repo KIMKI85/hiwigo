@@ -1,5 +1,31 @@
 [
  {
+  "id": "b4e7b73a6b3f",
+  "title": "Romero completes £34m Atletico Madrid transfer",
+  "player": "Cristian Romero",
+  "title_ko": "로메로, 3400만 파운드에 아틀레티코 마드리드 이적 완료",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573213/cristian-romero-tottenham-captain-completes-move-to-atletico-madrid",
+  "fee": "£34M",
+  "published": "2026-08-15T08:00:00+00:00"
+ },
+ {
+  "id": "ad1838897eb9",
+  "title": "Romero reflects on Spurs stay as Atletico move confirmed",
+  "player": "Cristian Romero",
+  "title_ko": "로메로는 아틀레티코 이적 확정으로 토트넘 잔류에 대해 반성했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-15T07:44:59+00:00"
+ },
+ {
   "id": "a8180dbd686b",
   "title": "EFL’s big kick-off; Romero joins Atlético; transfer updates and more – matchday live",
   "player": "Cristian Romero",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/13/manchester-city-barcelona-rodri-chelsea-enzo-fernandez",
   "fee": "£51M",
   "published": "2026-08-13T09:26:27+00:00"
- },
- {
-  "id": "ffbe93d5ad03",
-  "title": "Spence secures Inter contract and has already chosen new shirt number",
-  "player": "Djed Spence",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/spence-chooses-inter-shirt-number/",
-  "fee": null,
-  "published": "2026-08-13T08:25:38+00:00"
- },
- {
-  "id": "9aa892bd37d2",
-  "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
-  "player": "Bonnie Tyler",
-  "title_ko": "축구 이적 루머: 갈라타사라이가 아스날의 마르티넬리에게 3,800만 파운드를 쓸 것이라고요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
-  "fee": "£38M",
-  "published": "2026-08-13T08:14:07+00:00"
  }
 ]
