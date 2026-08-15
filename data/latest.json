@@ -1,5 +1,18 @@
 [
  {
+  "id": "677252ea16fd",
+  "title": "'Man Utd had agreed record deal to sign me – but I'm glad I waited for Liverpool instead'",
+  "player": null,
+  "title_ko": "'맨유는 저와 계약하기로 레코드 계약에 동의했습니다. 하지만 대신 리버풀을 기다려서 기쁩니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-transfer-babbel-37543046",
+  "fee": null,
+  "published": "2026-08-15T05:00:00+00:00"
+ },
+ {
   "id": "3c420973ddc0",
   "title": "Liverpool news: Andoni Iraola has 'huge problem' as Bradley Barcola transfer update emerges",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-mancity-enzo-fernandez-future-37546317",
   "fee": "£120M",
   "published": "2026-08-13T08:11:43+00:00"
- },
- {
-  "id": "6c00db2aa754",
-  "title": "DIRECT. Mercato: le Barça patine pour Rodri et patiente pour Julian Alvarez, Romero proche de l'Atlético",
-  "player": "Julian Alvarez",
-  "title_ko": "직접. Mercato: Barça는 Rodri를 위해 스케이팅하고 있으며 Atlético와 가까운 Julian Alvarez, Romero를 위해 인내심을 갖고 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-13-aout-2026-sur-le-marche-des-transferts-en-live_LN-202608130200.html",
-  "fee": null,
-  "published": "2026-08-13T07:42:53+00:00"
  }
 ]
