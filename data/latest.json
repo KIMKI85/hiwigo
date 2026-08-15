@@ -1,5 +1,18 @@
 [
  {
+  "id": "48ecf1551981",
+  "title": "Man Utd news: Michael Carrick issues transfer statement as Ibrahim Mbaye decision made",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 뉴스: 이브라힘 음바예의 결정에 마이클 캐릭이 이적 성명을 발표했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-carrick-mbaye-37552896",
+  "fee": null,
+  "published": "2026-08-15T03:30:00+00:00"
+ },
+ {
   "id": "ec50d47b4c2e",
   "title": "Arsenal news: Victor Osimhen swap talks held as Liverpool clear path for £43m transfer",
   "player": "Victor Osimhen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c79g4q44zvro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-13T06:55:40+00:00"
- },
- {
-  "id": "4686bbd8050a",
-  "title": "El Rayo ha cerrado el fichaje de Giorgi Tsitaishvili",
-  "player": "Giorgi Tsitaishvili",
-  "title_ko": "라요(Rayo)가 조르지 치타이슈빌리(Giorgi Tsitaishvili)의 영입을 완료했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/rayo/2026/08/13/rayo-cerrado-fichaje-giorgi-tsitaishvili.html",
-  "fee": null,
-  "published": "2026-08-13T06:38:55+00:00"
  }
 ]
