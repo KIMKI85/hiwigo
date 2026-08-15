@@ -1,5 +1,18 @@
 [
  {
+  "id": "7f8938000ec2",
+  "title": "'A bit surreal' - Penrice joins Rangers from AEK Athens on loan",
+  "player": "James Penrice",
+  "title_ko": "'조금 초현실적' - 펜리스가 AEK 아테네에서 레인저스로 임대 이적했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-15T16:18:51+00:00"
+ },
+ {
   "id": "950198d640d0",
   "title": "Mercato: Manchester City refuse une troisième du Barça offre pour Rodri",
   "player": "Les Skyblues",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/esposito-medical-certificate-cagliari-feud/",
   "fee": null,
   "published": "2026-08-13T16:05:24+00:00"
- },
- {
-  "id": "861dba476bb6",
-  "title": "Carrick rules out £100m signing for Manchester United as Rashford rejoins squad",
-  "player": "Michael Carrick",
-  "title_ko": "캐릭은 래쉬포드가 스쿼드에 다시 합류함에 따라 맨체스터 유나이티드에 £100m의 이적을 배제했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window",
-  "fee": "£100M",
-  "published": "2026-08-13T16:00:02+00:00"
  }
 ]
