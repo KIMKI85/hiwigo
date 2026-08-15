@@ -1,5 +1,31 @@
 [
  {
+  "id": "f52e6c6716d7",
+  "title": "Mercato: Ferran Torres est officiellement un joueur du PSG",
+  "player": "Ferran Torres",
+  "title_ko": "Mercato: Ferran Torres는 공식적으로 PSG 선수입니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-est-officiellement-un-joueur-du-psg_AV-202608150135.html",
+  "fee": null,
+  "published": "2026-08-15T09:20:55+00:00"
+ },
+ {
+  "id": "04e0dc139395",
+  "title": "WM-Finalheld Ferran Torres wechselt von Barcelona zu PSG",
+  "player": "Finalheld Ferran Torres",
+  "title_ko": "월드컵 결승 영웅 페란 토레스가 바르셀로나에서 PSG로 이적했다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wm-finalheld-ferran-torres-wechselt-von-barcelona-zu-psg-1241674/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T09:20:21+00:00"
+ },
+ {
   "id": "43419e4ad7be",
   "title": "Einjährige Leihe: Dinkci kehrt zu Werder zurück",
   "player": "Einjährige Leihe",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13567985/rodri-transfer-news-man-city-reject-55m-bid-from-barcelona-for-world-cup-winning-midfielder",
   "fee": null,
   "published": "2026-08-13T10:00:00+00:00"
- },
- {
-  "id": "6f31781c3d3b",
-  "title": "Le Barça bloque sur Rodri et Alvarez mais pense à Mikautadze... les 5 infos mercato du 13 août à la mi-journée",
-  "player": "Tijjani Reijnders",
-  "title_ko": "바르샤는 로드리와 알바레즈에 붙어있지만 미카우타제 생각중..8월 13일 정오부터 5번째 이적시장 소식",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/video-le-barca-bloque-sur-rodri-et-alvarez-mais-pense-a-mikautadze-les-5-infos-mercato-du-12-aout-a-la-mi-journee_VN-202608130284.html",
-  "fee": null,
-  "published": "2026-08-13T09:55:37+00:00"
- },
- {
-  "id": "0299489f87e0",
-  "title": "Arsenal target's agent 'spotted' at Barcelona as Mikel Arteta stance emerges",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 입장이 드러나면서 바르셀로나에서 아스날 타겟의 에이전트가 '발견'되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-kounde-latest-barcelona-37546741",
-  "fee": null,
-  "published": "2026-08-13T09:50:19+00:00"
  }
 ]
