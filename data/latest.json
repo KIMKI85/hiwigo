@@ -1,5 +1,18 @@
 [
  {
+  "id": "43419e4ad7be",
+  "title": "Einjährige Leihe: Dinkci kehrt zu Werder zurück",
+  "player": "Einjährige Leihe",
+  "title_ko": "1년 임대: Dinkci가 Werder로 복귀합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/einjaehrige-leihe-dinkci-kehrt-zu-werder-zurueck-1243214/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T08:45:53+00:00"
+ },
+ {
   "id": "651da1a22ed3",
   "title": "Premier League sides join Roma for Luis Henrique as Inter chase Jones",
   "player": "Luis Henrique",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-kounde-latest-barcelona-37546741",
   "fee": null,
   "published": "2026-08-13T09:50:19+00:00"
- },
- {
-  "id": "d015bacc3950",
-  "title": "Mercato: encore un accroc pour le transfert de Rodri au Barça",
-  "player": null,
-  "title_ko": "메르카토: 로드리의 바르사 이적에 또 다른 걸림돌",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-encore-un-accroc-pour-le-transfert-de-rodri-au-barca_AV-202608130279.html",
-  "fee": null,
-  "published": "2026-08-13T09:44:47+00:00"
  }
 ]
