@@ -1,5 +1,18 @@
 [
  {
+  "id": "950198d640d0",
+  "title": "Mercato: Manchester City refuse une troisième du Barça offre pour Rodri",
+  "player": "Les Skyblues",
+  "title_ko": "메르카토: 맨체스터 시티는 로드리에 대한 바르셀로나의 세 번째 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-refuse-une-troisieme-du-barca-offre-pour-rodri_AV-202608150219.html",
+  "fee": null,
+  "published": "2026-08-15T15:23:59+00:00"
+ },
+ {
   "id": "ae9fa23fe086",
   "title": "INFO RMC Sport: accord total pour le transfert de Methalie en Premier League",
   "player": "Dayann Methalie",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window",
   "fee": "£100M",
   "published": "2026-08-13T16:00:02+00:00"
- },
- {
-  "id": "3586a8e94d9c",
-  "title": "Michael Carrick confirms Man Utd's Marcus Rashford plan as transfer reality becomes clear",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 이적 현실이 명확해지면서 맨유의 마커스 래시포드 계획을 확인했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-marcus-rashford-carrick-37549145",
-  "fee": null,
-  "published": "2026-08-13T16:00:00+00:00"
  }
 ]
