@@ -1,5 +1,18 @@
 [
  {
+  "id": "651da1a22ed3",
+  "title": "Premier League sides join Roma for Luis Henrique as Inter chase Jones",
+  "player": "Luis Henrique",
+  "title_ko": "프리미어 리그 팀은 인터 체이스 존스로 루이스 엔리케를 대신해 로마에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/premier-league-roma-inter-luis-henrique-jones/",
+  "fee": null,
+  "published": "2026-08-15T08:28:00+00:00"
+ },
+ {
   "id": "b4e7b73a6b3f",
   "title": "Romero completes £34m Atletico Madrid transfer",
   "player": "Cristian Romero",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-encore-un-accroc-pour-le-transfert-de-rodri-au-barca_AV-202608130279.html",
   "fee": null,
   "published": "2026-08-13T09:44:47+00:00"
- },
- {
-  "id": "9fed37eaea77",
-  "title": "Michael Carrick provides Marcus Rashford transfer update with telling Man Utd statement",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 맨유의 성명을 통해 마커스 래쉬포드의 이적 소식을 전했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-marcus-rashford-manchester-united-37546512",
-  "fee": null,
-  "published": "2026-08-13T09:42:50+00:00"
  }
 ]
