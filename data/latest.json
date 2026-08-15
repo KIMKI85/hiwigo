@@ -1,5 +1,18 @@
 [
  {
+  "id": "9d7aaf7d8ed1",
+  "title": "Inter sign England full-back Spence from Tottenham",
+  "player": "Djed Spence",
+  "title_ko": "인테르는 토트넘에서 잉글랜드 풀백 스펜스를 영입했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-15T17:15:16+00:00"
+ },
+ {
   "id": "367f3168a468",
   "title": "Spence completes £30m Inter move from Spurs",
   "player": "Djed Spence",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-badiashile-napoli-27m-option-chelsea/",
   "fee": "€27M",
   "published": "2026-08-13T17:51:10+00:00"
- },
- {
-  "id": "8e1a0c760dd4",
-  "title": "Arsenal handed chance of stunning Victor Osimhen swap transfer with talks opened",
-  "player": "Victor Osimhen",
-  "title_ko": "아스날은 협상 개시와 함께 놀라운 빅터 오시멘 스왑 이적의 기회를 잡았습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-victor-osimhen-37549630",
-  "fee": null,
-  "published": "2026-08-13T17:37:24+00:00"
  }
 ]
