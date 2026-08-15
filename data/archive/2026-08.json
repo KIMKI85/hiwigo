@@ -1,5 +1,31 @@
 [
  {
+  "id": "7b85d8119cb5",
+  "title": "Man Utd new signing sends message to Michael Carrick during private friendly",
+  "player": "Michael Carrick",
+  "title_ko": "맨유의 새로운 영입은 개인 친선경기에서 마이클 캐릭에게 메시지를 보낸다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cristian-orozco-transfer-37555365",
+  "fee": null,
+  "published": "2026-08-15T12:12:50+00:00"
+ },
+ {
+  "id": "5b66db9a9059",
+  "title": "Mercato : \"Beaucoup de joueurs veulent venir au PSG\" se réjouit Luis Enrique",
+  "player": "Luis Enrique",
+  "title_ko": "메르카토: “많은 선수들이 PSG로 오고 싶어한다” 루이스 엔리케 기뻐",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-beaucoup-de-joueurs-veulent-venir-au-psg-se-rejouit-luis-enrique_VN-202608150178.html",
+  "fee": null,
+  "published": "2026-08-15T12:04:15+00:00"
+ },
+ {
   "id": "fb995127b066",
   "title": "PSG: \"Il peut jouer partout en attaque\": Luis Enrique dithyrambique sur sa nouvelle recrue Ferran Torres",
   "player": "Luis Enrique",
