@@ -1,5 +1,31 @@
 [
  {
+  "id": "8daaa275807b",
+  "title": "PSG sign World Cup winner Torres from Barcelona",
+  "player": "Ferran Torres",
+  "title_ko": "PSG는 월드컵 우승자 바르셀로나의 토레스를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-15T09:37:31+00:00"
+ },
+ {
+  "id": "bda0fdd0845d",
+  "title": "Nach abgelehntem Wechsel: Marseille setzt Höjbjerg als Kapitän ab",
+  "player": "Olympique Marseilles Ansinnen",
+  "title_ko": "변경이 거부된 후: 마르세유는 회이비에르를 주장직에서 제거합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nach-abgelehntem-wechsel-marseille-setzt-hoejbjerg-als-kapitaen-ab-1243217/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T09:30:31+00:00"
+ },
+ {
   "id": "f52e6c6716d7",
   "title": "Mercato: Ferran Torres est officiellement un joueur du PSG",
   "player": "Ferran Torres",

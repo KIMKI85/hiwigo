@@ -1,5 +1,31 @@
 [
  {
+  "id": "8daaa275807b",
+  "title": "PSG sign World Cup winner Torres from Barcelona",
+  "player": "Ferran Torres",
+  "title_ko": "PSG는 월드컵 우승자 바르셀로나의 토레스를 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-15T09:37:31+00:00"
+ },
+ {
+  "id": "bda0fdd0845d",
+  "title": "Nach abgelehntem Wechsel: Marseille setzt Höjbjerg als Kapitän ab",
+  "player": "Olympique Marseilles Ansinnen",
+  "title_ko": "변경이 거부된 후: 마르세유는 회이비에르를 주장직에서 제거합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nach-abgelehntem-wechsel-marseille-setzt-hoejbjerg-als-kapitaen-ab-1243217/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T09:30:31+00:00"
+ },
+ {
   "id": "f52e6c6716d7",
   "title": "Mercato: Ferran Torres est officiellement un joueur du PSG",
   "player": "Ferran Torres",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/ibrahim-mbaye-liverpool-transfer-barcola-37546912",
   "fee": null,
   "published": "2026-08-13T10:12:43+00:00"
- },
- {
-  "id": "e7fc12af11bc",
-  "title": "Cesc Fabregas opens the door to Arsenal transfers after Max Dowman assessment",
-  "player": "Cesc Fabregas",
-  "title_ko": "세스크 파브레가스는 맥스 다우먼 평가 후 아스날 이적의 문을 열었습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-cesc-fabregas-max-dowman-37546729",
-  "fee": null,
-  "published": "2026-08-13T10:04:38+00:00"
- },
- {
-  "id": "037d6437cba5",
-  "title": "Man City reject fresh Barcelona bid for Rodri",
-  "player": null,
-  "title_ko": "맨시티는 로드리에게 바르셀로나의 새로운 제안을 거부했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567985/rodri-transfer-news-man-city-reject-55m-bid-from-barcelona-for-world-cup-winning-midfielder",
-  "fee": null,
-  "published": "2026-08-13T10:00:00+00:00"
  }
 ]
