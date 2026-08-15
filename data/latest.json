@@ -1,5 +1,18 @@
 [
  {
+  "id": "a21fa9db665e",
+  "title": "Transfer-Doppelpack perfekt: PSG angelt sich auch Shootingstar Godts",
+  "player": "Shootingstar Godts",
+  "title_ko": "완벽한 이적 더블 팩: PSG도 슈팅 스타 갓츠를 얻습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/transfer-doppelpack-perfekt-psg-angelt-sich-auch-shootingstar-godts-1243097/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-15T20:46:00+00:00"
+ },
+ {
   "id": "edf2e1af9ec2",
   "title": "West Ham break EFL record to sign Engels for £22m",
   "player": "Celtic's Belgium",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
   "fee": "£52M",
   "published": "2026-08-13T22:12:05+00:00"
- },
- {
-  "id": "d09c79b901aa",
-  "title": "Man City reject fresh Rodri bid - Friday's gossip",
-  "player": "Tijjani Reijnders",
-  "title_ko": "맨시티는 로드리의 새로운 제안을 거부했다 - 금요일의 가십",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-13T21:37:39+00:00"
  }
 ]
