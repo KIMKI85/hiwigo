@@ -13,6 +13,32 @@
   "published": "2026-08-15T08:00:00+00:00"
  },
  {
+  "id": "d61235e618f0",
+  "title": "Victor Osimhen breaks silence on Arsenal transfer rumours after £58m talks",
+  "player": "Victor Osimhen",
+  "title_ko": "빅터 오시멘은 £58m 협상 후 아스날 이적 루머에 대해 침묵을 깬다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-transfer-news-37554852",
+  "fee": "£58M",
+  "published": "2026-08-15T07:58:18+00:00"
+ },
+ {
+  "id": "83925c8d1977",
+  "title": "Arsenal 'prepare bid' for £51m Brighton star amid Man Utd and Man City competition",
+  "player": "Jack Hinshelwood",
+  "title_ko": "맨유와 맨시티의 경쟁 속에서 아스날은 £51m 브라이튼 스타에 대한 '비드 준비'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-man-utd-hinshelwood-37554833",
+  "fee": "£51M",
+  "published": "2026-08-15T07:52:52+00:00"
+ },
+ {
   "id": "ad1838897eb9",
   "title": "Romero reflects on Spurs stay as Atletico move confirmed",
   "player": "Cristian Romero",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-marcus-rashford-manchester-united-37546512",
   "fee": null,
   "published": "2026-08-13T09:42:50+00:00"
- },
- {
-  "id": "ad3653dc9238",
-  "title": "Arsenal transfer deal moves one step closer after official announcement",
-  "player": "Gabriel Jesus",
-  "title_ko": "아스날의 이적 계약은 공식 발표 이후 한 걸음 더 가까워졌습니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-gabriel-jesus-future-napoli-37546606",
-  "fee": null,
-  "published": "2026-08-13T09:28:28+00:00"
- },
- {
-  "id": "adfceef07e0a",
-  "title": "Chelsea set Friday deadline for Fernández suitors as City reject new £51m Barça bid for Rodri",
-  "player": "Tijjani Reijnders",
-  "title_ko": "첼시는 로드리에게 대한 바르셀로나의 새로운 £51m 제안을 시티가 거부함에 따라 페르난데스 구혼자에 대한 마감 기한을 금요일로 설정했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/13/manchester-city-barcelona-rodri-chelsea-enzo-fernandez",
-  "fee": "£51M",
-  "published": "2026-08-13T09:26:27+00:00"
  }
 ]
