@@ -1,5 +1,18 @@
 [
  {
+  "id": "c770e427e948",
+  "title": "Floriani Mussolini a Cagliari target as Lazio future stays uncertain",
+  "player": "Floriani Mussolini",
+  "title_ko": "라치오의 미래가 불확실해지면서 칼리아리의 플로리아니 무솔리니가 타겟이 되었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/floriani-mussolini-a-cagliari-target-lazio/",
+  "fee": null,
+  "published": "2026-08-16T17:20:00+00:00"
+ },
+ {
   "id": "388a08874d3b",
   "title": "Liverpool vs Como – Official Lineups as Inter target Jones misses out",
   "player": "Curtis Jones",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-merino-bruno-guimaraes-37551567",
   "fee": null,
   "published": "2026-08-14T10:48:26+00:00"
- },
- {
-  "id": "7b989b6a5cdf",
-  "title": "Arsenal open talks with Bayer Leverkusen over deal for Jarell Quansah",
-  "player": "Jarell Quansah",
-  "title_ko": "아스널은 자렐 콴사 영입을 위해 바이엘 레버쿠젠과 공개 협상을 벌이고 있다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverkusen-jarell-quansah-transfer-talks",
-  "fee": null,
-  "published": "2026-08-14T10:40:24+00:00"
  }
 ]
