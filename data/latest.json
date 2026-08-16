@@ -1,5 +1,18 @@
 [
  {
+  "id": "970ec82d8513",
+  "title": "Mercato: Joao Cancelo de plus en plus proche d'un retour au Barça",
+  "player": "Joao Cancelo",
+  "title_ko": "Mercato: Joao Cancelo의 바르샤 복귀가 점점 더 가까워지고 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-joao-cancelo-de-plus-en-plus-proche-d-un-retour-au-barca_AV-202608160171.html",
+  "fee": null,
+  "published": "2026-08-16T12:20:51+00:00"
+ },
+ {
   "id": "e76e36b2401b",
   "title": "Villa agree deal to sign goalkeeper Suzuki as Juve make Martinez bid",
   "player": "Zion Suzuki",
@@ -24,6 +37,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-barcola-mbaye-37557480",
   "fee": null,
   "published": "2026-08-16T11:50:59+00:00"
+ },
+ {
+  "id": "6190059e6503",
+  "title": "Inter could change summer transfer strategy if Luis Henrique is sold",
+  "player": "Luis Henrique",
+  "title_ko": "인터는 루이스 엔리케가 팔리면 여름 이적 전략을 바꿀 수 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-cold-change-henrique-transfer-strategy/",
+  "fee": null,
+  "published": "2026-08-16T11:49:12+00:00"
  },
  {
   "id": "b0be022c42d3",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/frattesi-transfer-from-inter-to-lazio-standby/",
   "fee": null,
   "published": "2026-08-14T09:08:05+00:00"
- },
- {
-  "id": "859738a30299",
-  "title": "Mercato: Nice veut relancer Ngoumou et s'intéresse à un international belge",
-  "player": "Nathan Ngoumou",
-  "title_ko": "Mercato: Nice는 Ngoumou를 다시 시작하고 싶어하며 벨기에 국가대표에 관심이 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nice-veut-relancer-ngoumou-et-s-interesse-a-un-international-belge_AV-202608140241.html",
-  "fee": null,
-  "published": "2026-08-14T09:04:59+00:00"
- },
- {
-  "id": "5a4ba85f0ed0",
-  "title": "Mercato: Strasbourg va s’offrir un jeune talent du Real Madrid",
-  "player": "Jacobo Ortega",
-  "title_ko": "메르카토: 스트라스부르는 레알 마드리드의 젊은 재능을 제공할 것입니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-va-s-offrir-un-jeune-talent-du-real-madrid_AV-202608140234.html",
-  "fee": null,
-  "published": "2026-08-14T08:53:55+00:00"
  }
 ]

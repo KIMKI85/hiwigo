@@ -1,5 +1,18 @@
 [
  {
+  "id": "970ec82d8513",
+  "title": "Mercato: Joao Cancelo de plus en plus proche d'un retour au Barça",
+  "player": "Joao Cancelo",
+  "title_ko": "Mercato: Joao Cancelo의 바르샤 복귀가 점점 더 가까워지고 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-joao-cancelo-de-plus-en-plus-proche-d-un-retour-au-barca_AV-202608160171.html",
+  "fee": null,
+  "published": "2026-08-16T12:20:51+00:00"
+ },
+ {
   "id": "e76e36b2401b",
   "title": "Villa agree deal to sign goalkeeper Suzuki as Juve make Martinez bid",
   "player": "Zion Suzuki",
@@ -24,6 +37,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-barcola-mbaye-37557480",
   "fee": null,
   "published": "2026-08-16T11:50:59+00:00"
+ },
+ {
+  "id": "6190059e6503",
+  "title": "Inter could change summer transfer strategy if Luis Henrique is sold",
+  "player": "Luis Henrique",
+  "title_ko": "인터는 루이스 엔리케가 팔리면 여름 이적 전략을 바꿀 수 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-cold-change-henrique-transfer-strategy/",
+  "fee": null,
+  "published": "2026-08-16T11:49:12+00:00"
  },
  {
   "id": "b0be022c42d3",
