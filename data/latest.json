@@ -1,5 +1,18 @@
 [
  {
+  "id": "fa5bf258f6ef",
+  "title": "Wrexham's Premier League bid: Crazy or credible?",
+  "player": "Ryan Reynolds",
+  "title_ko": "Wrexham의 프리미어리그 입찰: 미쳤습니까, 아니면 믿을 만합니까?",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13572631/wrexhams-premier-league-bid-how-ready-are-the-hollywood-owned-club-from-wales-for-a-championship-promotion-race",
+  "fee": null,
+  "published": "2026-08-16T10:00:00+00:00"
+ },
+ {
   "id": "910df5d4ee67",
   "title": "Transfer news LIVE: Liverpool's Barcola boost, £60m for Arsenal to sign star, double Spurs deal",
   "player": "Liverpool's Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-wife-monaco-contract-37550501",
   "fee": null,
   "published": "2026-08-14T07:06:21+00:00"
- },
- {
-  "id": "e373d5a345af",
-  "title": "Leeds lockt Elvedi: An diesen Faktoren hängt ein Wechsel",
-  "player": "Nico Elvedi",
-  "title_ko": "Leeds는 Elvedi를 유혹합니다. 변화는 이러한 요인에 달려 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/leeds-lockt-elvedi-an-diesen-faktoren-haengt-ein-wechsel-1242943/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-14T06:43:21+00:00"
  }
 ]
