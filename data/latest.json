@@ -1,5 +1,18 @@
 [
  {
+  "id": "8921d538ecd1",
+  "title": "Arsenal news: Berta preparing surprise move as Quansah update emerges",
+  "player": null,
+  "title_ko": "아스날 뉴스: Berta는 Quansah 업데이트로 깜짝 움직임을 준비하고 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-berta-jarell-quansah-37555696",
+  "fee": null,
+  "published": "2026-08-16T03:00:00+00:00"
+ },
+ {
   "id": "a21fa9db665e",
   "title": "Transfer-Doppelpack perfekt: PSG angelt sich auch Shootingstar Godts",
   "player": "Shootingstar Godts",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-record-kounde-agent-37548085",
   "fee": null,
   "published": "2026-08-14T03:00:00+00:00"
- },
- {
-  "id": "2eb0faeac4e6",
-  "title": "Man City's Reijnders set for £52m Saudi move",
-  "player": "City's Reijnders",
-  "title_ko": "맨시티의 레인더스는 £52m 사우디 이적을 제안했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
-  "fee": "£52M",
-  "published": "2026-08-13T22:12:05+00:00"
  }
 ]
