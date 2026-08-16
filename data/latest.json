@@ -1,5 +1,31 @@
 [
  {
+  "id": "b0be022c42d3",
+  "title": "Godts, Spence, Rodri... les 5 infos mercato du 16 août à la mi-journée",
+  "player": "Ruben Amorim",
+  "title_ko": "고츠, 스펜스, 로드리... 8월 16일 정오부터 5번 이적시장 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-godts-spence-rodri-les-5-infos-mercato-du-16-aout-a-la-mi-journee_VN-202608160163.html",
+  "fee": null,
+  "published": "2026-08-16T11:28:29+00:00"
+ },
+ {
+  "id": "e6c8308e881b",
+  "title": "Done deal: Aston Villa strike agreement with Parma for Japan international Suzuki",
+  "player": null,
+  "title_ko": "거래 완료: 아스톤 빌라가 일본 국가대표 스즈키를 위해 파르마와 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-suzuki-set-for-aston-villa/",
+  "fee": null,
+  "published": "2026-08-16T11:23:40+00:00"
+ },
+ {
   "id": "f3706fa6e78d",
   "title": "Dritte Leihe in zwei Jahren: Ulrich soll sich beim SCP in der Bundesliga beweisen",
   "player": "Dritte Leihe",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/leao-to-miss-man-united-milan-transfer-concern/",
   "fee": null,
   "published": "2026-08-14T08:35:53+00:00"
- },
- {
-  "id": "da258912c619",
-  "title": "\"Nennenswerte Ablöse\": HSV lässt Baldé nach Straßburg ziehen",
-  "player": "Nennenswerte Ablöse",
-  "title_ko": "“눈에 띄는 이적 수수료”: HSV는 Baldé를 스트라스부르로 이적시킵니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/nennenswerte-abloese-hsv-laesst-bald-nach-strassburg-ziehen-1242973/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-14T08:28:49+00:00"
- },
- {
-  "id": "447459c83c6e",
-  "title": "The latest on transfers, Liverpool and Thomas Tuchel's England from the back pages",
-  "player": "Thomas Tuchel's England",
-  "title_ko": "이적에 대한 최신 소식, 리버풀과 토마스 투헬의 잉글랜드 뒷페이지",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
-  "fee": null,
-  "published": "2026-08-14T07:57:00+00:00"
  }
 ]
