@@ -1,5 +1,18 @@
 [
  {
+  "id": "f3706fa6e78d",
+  "title": "Dritte Leihe in zwei Jahren: Ulrich soll sich beim SCP in der Bundesliga beweisen",
+  "player": "Dritte Leihe",
+  "title_ko": "2년 만에 세 번째 임대: 울리히는 SCP에서 분데스리가에서 자신을 증명해야 합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/dritte-leihe-in-zwei-jahren-ulrich-soll-sich-beim-scp-in-der-bundesliga-beweisen-1243523/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-16T10:17:01+00:00"
+ },
+ {
   "id": "fa5bf258f6ef",
   "title": "Wrexham's Premier League bid: Crazy or credible?",
   "player": "Ryan Reynolds",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
   "fee": null,
   "published": "2026-08-14T07:57:00+00:00"
- },
- {
-  "id": "47e28eaef0cb",
-  "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
-  "player": "Gabriel Martinelli",
-  "title_ko": "축구 이적 루머: 아스날이 오시멘을 교환 제안으로 제안했나요? 뉴캐슬, 발레바 입찰에 참여할까?",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
-  "fee": null,
-  "published": "2026-08-14T07:48:24+00:00"
  }
 ]
