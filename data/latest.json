@@ -1,5 +1,18 @@
 [
  {
+  "id": "c8862edadbee",
+  "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+  "player": null,
+  "title_ko": "바르셀로나는 맨시티에서 로드리를 영입하기 위해 £65m 계약에 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-08-16T19:37:45+00:00"
+ },
+ {
   "id": "f2d6cd75e9bf",
   "title": "Man Utd ready to change tack in transfer market to match Chelsea and Man City",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/vor-erneuter-leihe-tohumcu-soll-in-salzburg-durchstarten-1243050/artikel#omrss",
   "fee": null,
   "published": "2026-08-14T12:29:16+00:00"
- },
- {
-  "id": "8274272550dd",
-  "title": "Como approach Chelsea for Delap after securing €30m Chalobah deal",
-  "player": "Cesc Fabregas",
-  "title_ko": "Como는 €30m의 Chalobah 계약을 체결한 후 Delap을 위해 Chelsea에게 접근했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-approach-chelsea-for-delap/",
-  "fee": "€30M",
-  "published": "2026-08-14T11:46:12+00:00"
  }
 ]
