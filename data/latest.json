@@ -1,5 +1,18 @@
 [
  {
+  "id": "35f698bd3e5e",
+  "title": "Victor Osimhen to Arsenal decision made by Galatasaray after 'private internal transfer talks'",
+  "player": "Victor Osimhen",
+  "title_ko": "빅터 오시멘은 '비공개 내부 이적 협상' 이후 갈라타사라이가 내린 아스날 결정",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/victor-osimhen-arsenal-galatasaray-transfer-37557656",
+  "fee": null,
+  "published": "2026-08-16T13:10:27+00:00"
+ },
+ {
   "id": "d41490577e17",
   "title": "Elvedi set for Leeds move as £8.5m fee agreed",
   "player": "Nico Elvedi",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-icardi-ferran-torres-aguerd-les-5-infos-mercato-du-vendredi-14-aout-a-12h_VN-202608140266.html",
   "fee": null,
   "published": "2026-08-14T09:52:53+00:00"
- },
- {
-  "id": "f22875cf3328",
-  "title": "El Málaga quiere polivalencia para cerrar sus últimos fichajes",
-  "player": "El Málaga",
-  "title_ko": "말라가는 최근 영입을 마무리하기 위해 다재다능함을 원합니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/08/14/malaga-quiere-polivalencia-cerrar-ultimos-fichajes.html",
-  "fee": null,
-  "published": "2026-08-14T09:31:42+00:00"
  }
 ]
