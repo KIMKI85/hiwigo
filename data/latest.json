@@ -1,5 +1,18 @@
 [
  {
+  "id": "45adbe2596ac",
+  "title": "Mercato: \"C'est le meilleur club du monde\", les premiers mots de Mika Godts en tant que joueur du PSG",
+  "player": "Mika Godts",
+  "title_ko": "메르카토: “세계 최고의 클럽이다”, PSG 선수 미카 고츠의 첫 마디",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/mercato-c-est-le-meilleur-club-du-monde-les-premiers-mots-de-mika-godts-en-tant-que-joueur-du-psg_AV-202608160076.html",
+  "fee": null,
+  "published": "2026-08-16T06:35:47+00:00"
+ },
+ {
   "id": "fc1e408ecb69",
   "title": "Xabi Alonso makes Chelsea transfer point with 'last' game warning after Enzo Fernandez deadline",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-ezri-konsa-arteta-37549575",
   "fee": null,
   "published": "2026-08-14T06:00:00+00:00"
- },
- {
-  "id": "21e1775acd5e",
-  "title": "Aston Villa's dream end to transfer window as Unai Emery completes four new signings",
-  "player": "Unai Emery",
-  "title_ko": "우나이 에메리가 4명의 새로운 계약을 완료하면서 아스톤 빌라의 꿈의 이적 기간 종료",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/aston-villa-transfers-unai-emery-37546565",
-  "fee": null,
-  "published": "2026-08-14T04:30:00+00:00"
  }
 ]
