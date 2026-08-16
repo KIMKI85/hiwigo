@@ -1,5 +1,18 @@
 [
  {
+  "id": "388a08874d3b",
+  "title": "Liverpool vs Como – Official Lineups as Inter target Jones misses out",
+  "player": "Curtis Jones",
+  "title_ko": "리버풀 대 코모 – 인테르의 타겟 존스가 놓친 공식 라인업",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/liverpool-vs-como-official-lineups-jones-out/",
+  "fee": null,
+  "published": "2026-08-16T16:29:23+00:00"
+ },
+ {
   "id": "de4e06854cbe",
   "title": "Tottenham reject Juventus loan bid for Vicario",
   "player": "Guglielmo Vicario",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-14T10:35:26+00:00"
- },
- {
-  "id": "6eed9afc4cb3",
-  "title": "Villa-Wechsel geplatzt: Joao Palhinha bleibt vorerst bei Bayern",
-  "player": "Joao Palhinha",
-  "title_ko": "빌라 변경 실패 : Joao Palhinha는 당분간 바이에른에 머물고 있습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/villa-wechsel-geplatzt-joao-palhinha-bleibt-vorerst-bei-bayern-1243016/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-14T10:33:43+00:00"
  }
 ]
