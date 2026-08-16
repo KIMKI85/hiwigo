@@ -1,5 +1,31 @@
 [
  {
+  "id": "a4e0b5a769b6",
+  "title": "Papers: Delap & Neto move closer to Chelsea exit",
+  "player": null,
+  "title_ko": "논문: Delap & Neto가 Chelsea 출구로 더 가까워졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
+  "fee": null,
+  "published": "2026-08-16T22:30:00+00:00"
+ },
+ {
+  "id": "a58297d825ab",
+  "title": "Luis Enrique gives frosty three-word reply as both Liverpool targets axed from PSG squad",
+  "player": "Luis Enrique",
+  "title_ko": "루이스 엔리케는 PSG 스쿼드에서 리버풀의 두 타겟이 모두 탈락하자 냉랭한 세 단어로 답했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enrique-psg-liverpool-barcola-mbaye-37558707",
+  "fee": null,
+  "published": "2026-08-16T22:03:55+00:00"
+ },
+ {
   "id": "2c844739801a",
   "title": "Martinez Juventus move now off - Monday's gossip",
   "player": "Emiliano Martinez",
