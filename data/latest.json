@@ -1,5 +1,18 @@
 [
  {
+  "id": "910df5d4ee67",
+  "title": "Transfer news LIVE: Liverpool's Barcola boost, £60m for Arsenal to sign star, double Spurs deal",
+  "player": "Liverpool's Barcola",
+  "title_ko": "이적 뉴스 라이브: 리버풀의 바르콜라 부스트, 아스날이 스타와 계약하는 데 £60m, 스퍼스 계약 두 배",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-liverpool-transfers-37556784",
+  "fee": "£60M",
+  "published": "2026-08-16T07:06:23+00:00"
+ },
+ {
   "id": "45adbe2596ac",
   "title": "Mercato: \"C'est le meilleur club du monde\", les premiers mots de Mika Godts en tant que joueur du PSG",
   "player": "Mika Godts",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/leeds-lockt-elvedi-an-diesen-faktoren-haengt-ein-wechsel-1242943/artikel#omrss",
   "fee": null,
   "published": "2026-08-14T06:43:21+00:00"
- },
- {
-  "id": "fa114dca684f",
-  "title": "Mikel Arteta's own words explain the obvious problem Arsenal face with Ezri Konsa transfer",
-  "player": "Mikel Arteta's",
-  "title_ko": "미켈 아르테타의 말은 아스날이 에즈리 콘사 이적과 관련해 직면한 명백한 문제를 설명합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-ezri-konsa-arteta-37549575",
-  "fee": null,
-  "published": "2026-08-14T06:00:00+00:00"
  }
 ]
