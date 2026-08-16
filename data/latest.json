@@ -1,5 +1,18 @@
 [
  {
+  "id": "9763f9363140",
+  "title": "Torino seal potential €15m Perri deal with Leeds United",
+  "player": "Lucas Perri",
+  "title_ko": "토리노는 리즈 유나이티드와 €15m의 페리 계약을 맺을 가능성이 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/torino-seal-perri-deal-with-leeds-united/",
+  "fee": "€15M",
+  "published": "2026-08-16T13:45:44+00:00"
+ },
+ {
   "id": "292a8b3f30a3",
   "title": "Video: Lucumi arrives to complete €20m Juventus transfer",
   "player": "Jhon Lucumi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
   "fee": null,
   "published": "2026-08-14T10:04:17+00:00"
- },
- {
-  "id": "fc854ad2b90b",
-  "title": "Liverpool's Lundgaard joins Eintracht Frankfurt",
-  "player": "Liverpool's Lundgaard",
-  "title_ko": "리버풀의 룬드가르드가 아인트라흐트 프랑크푸르트로 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cqlx1023wd3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-14T10:00:53+00:00"
  }
 ]
