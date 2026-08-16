@@ -13,6 +13,19 @@
   "published": "2026-08-16T10:00:00+00:00"
  },
  {
+  "id": "dbf58278fee6",
+  "title": "Newcastle agree deal to sign Dedic from Benfica",
+  "player": "Amar Dedic",
+  "title_ko": "뉴캐슬, 벤피카의 데딕 영입에 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+  "fee": null,
+  "published": "2026-08-16T09:48:00+00:00"
+ },
+ {
   "id": "910df5d4ee67",
   "title": "Transfer news LIVE: Liverpool's Barcola boost, £60m for Arsenal to sign star, double Spurs deal",
   "player": "Liverpool's Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
   "fee": null,
   "published": "2026-08-14T07:48:24+00:00"
- },
- {
-  "id": "acadb859dbc5",
-  "title": "Paul Pogba's wife responds to retirement demand as Monaco contract set to be ripped up",
-  "player": "Paul Pogba's",
-  "title_ko": "폴 포그바의 아내, 모나코 계약 파기 앞두고 은퇴 요구에 응",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-wife-monaco-contract-37550501",
-  "fee": null,
-  "published": "2026-08-14T07:06:21+00:00"
  }
 ]
