@@ -1,5 +1,18 @@
 [
  {
+  "id": "03038ce50737",
+  "title": "Man Utd news: Kim Min-jae makes transfer decision as Amorim hands former club opportunity",
+  "player": "Kim Min-jae",
+  "title_ko": "맨유 뉴스: 아모림이 전 클럽 기회를 건네자 김민재가 이적 결정을 내림",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-kim-transfer-amorim-37555584",
+  "fee": null,
+  "published": "2026-08-16T03:30:00+00:00"
+ },
+ {
   "id": "8921d538ecd1",
   "title": "Arsenal news: Berta preparing surprise move as Quansah update emerges",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-mbaye-37548284",
   "fee": "£42M",
   "published": "2026-08-14T03:30:00+00:00"
- },
- {
-  "id": "1a454d2049f0",
-  "title": "Arsenal news: Jules Kounde's agent 'spotted' as transfer record set to be broken",
-  "player": "Jules Kounde's",
-  "title_ko": "아스날 뉴스: Jules Kounde의 에이전트가 이적 기록이 깨질 것으로 '발견'되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-record-kounde-agent-37548085",
-  "fee": null,
-  "published": "2026-08-14T03:00:00+00:00"
  }
 ]
