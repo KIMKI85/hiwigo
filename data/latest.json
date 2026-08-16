@@ -1,5 +1,18 @@
 [
  {
+  "id": "de4e06854cbe",
+  "title": "Tottenham reject Juventus loan bid for Vicario",
+  "player": "Guglielmo Vicario",
+  "title_ko": "토트넘은 비카리오에 대한 유벤투스 임대 제안을 거부했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tottenham-reject-juventus-loan-bid-for-vicario/",
+  "fee": null,
+  "published": "2026-08-16T14:45:00+00:00"
+ },
+ {
   "id": "8e4bed314996",
   "title": "Milan and Lazio could swap unwanted defenders Tomori and Nuno Tavares",
   "player": "Nuno Tavares",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/villa-wechsel-geplatzt-joao-palhinha-bleibt-vorerst-bei-bayern-1243016/artikel#omrss",
   "fee": null,
   "published": "2026-08-14T10:33:43+00:00"
- },
- {
-  "id": "e36b4ece6d79",
-  "title": "El-Mala-Wechsel zum BVB geplatzt",
-  "player": "Said El Mala",
-  "title_ko": "El Mala의 BVB로의 이적은 무산되었습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/el-mala-wechsel-zum-bvb-geplatzt-1243020/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-14T10:30:21+00:00"
  }
 ]
