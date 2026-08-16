@@ -1,5 +1,18 @@
 [
  {
+  "id": "d41490577e17",
+  "title": "Elvedi set for Leeds move as £8.5m fee agreed",
+  "player": "Nico Elvedi",
+  "title_ko": "Elvedi는 £8.5m의 이적료에 동의하면서 리즈 이적을 결정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£8.5M",
+  "published": "2026-08-16T12:52:42+00:00"
+ },
+ {
   "id": "970ec82d8513",
   "title": "Mercato: Joao Cancelo de plus en plus proche d'un retour au Barça",
   "player": "Joao Cancelo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/malaga/2026/08/14/malaga-quiere-polivalencia-cerrar-ultimos-fichajes.html",
   "fee": null,
   "published": "2026-08-14T09:31:42+00:00"
- },
- {
-  "id": "92beca5dedb2",
-  "title": "Frattesi transfer from Inter to Lazio put on standby at the last minute",
-  "player": "Davide Frattesi",
-  "title_ko": "인테르에서 라치오로 프라테시 이적이 막판에 대기상태에 빠졌다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/frattesi-transfer-from-inter-to-lazio-standby/",
-  "fee": null,
-  "published": "2026-08-14T09:08:05+00:00"
  }
 ]
