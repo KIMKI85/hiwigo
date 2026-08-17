@@ -1,5 +1,18 @@
 [
  {
+  "id": "3e3d4e7ec657",
+  "title": "Official: Lucumi joins Juventus from Bologna as price tag revealed",
+  "player": "Jhon Lucumi",
+  "title_ko": "공식: 루쿠미는 가격표가 공개되면서 볼로냐에서 유벤투스로 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lucumi-joins-juventus-price-tag/",
+  "fee": null,
+  "published": "2026-08-17T07:52:27+00:00"
+ },
+ {
   "id": "f525087ede38",
   "title": "Today’s Papers – Juventus to sign Vicario, Inter wait for Jones",
   "player": "Sport Stellar Italy",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/ac-milan-loan-athekame-olympique-lyonnais/",
   "fee": null,
   "published": "2026-08-14T16:26:08+00:00"
- },
- {
-  "id": "ded8c7c6b10b",
-  "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
-  "player": "Enzo Fernandez",
-  "title_ko": "첼시는 마감 기한이 지났으므로 페르난데스의 이적은 없다고 밝혔습니다. 하지만 정말 끝난 걸까요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-14T16:04:54+00:00"
  }
 ]
