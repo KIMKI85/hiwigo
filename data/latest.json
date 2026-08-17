@@ -1,5 +1,18 @@
 [
  {
+  "id": "7b88efdd5881",
+  "title": "Milan could swoop for Juventus winger and Atletico Madrid target Nico Gonzalez",
+  "player": "Nico Gonzalez",
+  "title_ko": "밀란은 유벤투스의 윙어와 아틀레티코 마드리드의 타겟인 니코 곤잘레스를 영입할 수 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-could-swoop-for-juventus-nico-gonzalez/",
+  "fee": null,
+  "published": "2026-08-17T13:27:51+00:00"
+ },
+ {
   "id": "4b06d4a81148",
   "title": "Ayyoub Bouaddi says YES to Man City transfer as £85m deal moves step closer",
   "player": "Ayyoub Bouaddi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-transfer-babbel-37543046",
   "fee": null,
   "published": "2026-08-15T05:00:00+00:00"
- },
- {
-  "id": "3c420973ddc0",
-  "title": "Liverpool news: Andoni Iraola has 'huge problem' as Bradley Barcola transfer update emerges",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라는 브래들리 바르콜라 이적 업데이트가 나오면서 '큰 문제'를 안고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-latest-bradley-barcola-37552975",
-  "fee": null,
-  "published": "2026-08-15T04:00:00+00:00"
  }
 ]
