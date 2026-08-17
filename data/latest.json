@@ -1,5 +1,18 @@
 [
  {
+  "id": "f525087ede38",
+  "title": "Today’s Papers – Juventus to sign Vicario, Inter wait for Jones",
+  "player": "Sport Stellar Italy",
+  "title_ko": "오늘의 서류 – 유벤투스는 비카리오를 영입하고 인테르는 존스를 기다린다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/todays-papers-juventus-vicario-inter-jones/",
+  "fee": null,
+  "published": "2026-08-17T07:36:28+00:00"
+ },
+ {
   "id": "5fd3b8bbb527",
   "title": "DIRECT. Mercato: toutes les infos et rumeurs du 17 août 2026 sur le marché des transferts en live",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-14T16:04:54+00:00"
- },
- {
-  "id": "0bd78d088936",
-  "title": "Mercato: Ferran Torres autorisé à voyager à Paris pour finaliser son transfert au PSG",
-  "player": "Ferran Torres",
-  "title_ko": "메르카토: 페란 토레스는 PSG로의 이적을 마무리하기 위해 파리로 여행할 권한을 받았습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-autorise-a-voyager-a-paris-pour-finaliser-son-transfert-au-psg_AV-202608140387.html",
-  "fee": null,
-  "published": "2026-08-14T15:33:37+00:00"
  }
 ]
