@@ -1,5 +1,18 @@
 [
  {
+  "id": "f274c19843ee",
+  "title": "Jamie Carragher says Man Utd won't win the title and names player they should have signed",
+  "player": "Jamie Carragher",
+  "title_ko": "제이미 캐러거는 맨유가 타이틀을 얻지 못할 것이며 계약했어야 할 선수를 지명할 것이라고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-man-utd-prediction-37560268",
+  "fee": null,
+  "published": "2026-08-17T12:16:52+00:00"
+ },
+ {
   "id": "c2f2eb6c2a38",
   "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
   "player": "Guglielmo Vicario",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
   "fee": null,
   "published": "2026-08-14T22:30:00+00:00"
- },
- {
-  "id": "bc1510db78ba",
-  "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
-  "player": "Mikel Arteta",
-  "title_ko": "'문제되지 않을 것': 미켈 아르테타는 아스날 계약 상황에 대해 안심했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
-  "fee": null,
-  "published": "2026-08-14T21:30:38+00:00"
  }
 ]
