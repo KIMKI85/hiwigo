@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b99bfd09837",
+  "title": "Badiashile: Chelsea defender set for Napoli medical",
+  "player": "Benoit Badiashile",
+  "title_ko": "바디아실레: 첼시 수비수, 나폴리 메디컬로 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/badiashile-chelsea-defender-napoli-medical/",
+  "fee": null,
+  "published": "2026-08-17T08:14:02+00:00"
+ },
+ {
   "id": "3e3d4e7ec657",
   "title": "Official: Lucumi joins Juventus from Bologna as price tag revealed",
   "player": "Jhon Lucumi",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/official-lucumi-joins-juventus-price-tag/",
   "fee": null,
   "published": "2026-08-17T07:52:27+00:00"
+ },
+ {
+  "id": "3735d5b8bbad",
+  "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
+  "player": "Alexis Mac Allister",
+  "title_ko": "축구 이적 루머: 맨체스터 시티가 알렉시스 맥 알리스터를 영입할 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
+  "fee": null,
+  "published": "2026-08-17T07:42:16+00:00"
  },
  {
   "id": "f525087ede38",

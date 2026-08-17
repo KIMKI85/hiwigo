@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b99bfd09837",
+  "title": "Badiashile: Chelsea defender set for Napoli medical",
+  "player": "Benoit Badiashile",
+  "title_ko": "바디아실레: 첼시 수비수, 나폴리 메디컬로 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/badiashile-chelsea-defender-napoli-medical/",
+  "fee": null,
+  "published": "2026-08-17T08:14:02+00:00"
+ },
+ {
   "id": "3e3d4e7ec657",
   "title": "Official: Lucumi joins Juventus from Bologna as price tag revealed",
   "player": "Jhon Lucumi",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/official-lucumi-joins-juventus-price-tag/",
   "fee": null,
   "published": "2026-08-17T07:52:27+00:00"
+ },
+ {
+  "id": "3735d5b8bbad",
+  "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
+  "player": "Alexis Mac Allister",
+  "title_ko": "축구 이적 루머: 맨체스터 시티가 알렉시스 맥 알리스터를 영입할 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
+  "fee": null,
+  "published": "2026-08-17T07:42:16+00:00"
  },
  {
   "id": "f525087ede38",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/un-depart-pour-une-arrivee-lorenzi-devoile-les-conditions-pour-voir-une-recrue-a-l-om-cet-ete_AV-202608140500.html",
   "fee": null,
   "published": "2026-08-14T17:09:00+00:00"
- },
- {
-  "id": "4fbe86c29b44",
-  "title": "Frattesi arrives for Lazio medical after Inter change €15m terms",
-  "player": "Davide Frattesi",
-  "title_ko": "프라테시, 인테르가 €15m 조건으로 변경한 후 라치오 메디컬로 도착",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/frattesi-lazio-medical-inter-change-e15m-terms/",
-  "fee": "€15M",
-  "published": "2026-08-14T16:45:34+00:00"
- },
- {
-  "id": "c58c64ace855",
-  "title": "Official: Milan loan Athekame to Olympique Lyonnais",
-  "player": "Olympique Lyonnais",
-  "title_ko": "공식: 밀란의 아테카메를 올랭피크 리옹으로 임대",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ac-milan-loan-athekame-olympique-lyonnais/",
-  "fee": null,
-  "published": "2026-08-14T16:26:08+00:00"
  }
 ]
