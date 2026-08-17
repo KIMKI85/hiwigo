@@ -1,5 +1,31 @@
 [
  {
+  "id": "8fd987a212f0",
+  "title": "Die internationalen Top-Transfers des Sommers",
+  "player": "Eine Auswahl",
+  "title_ko": "올여름 최고의 해외 이적",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-internationalen-top-transfers-des-sommers-1242108/slideshow#omrss",
+  "fee": null,
+  "published": "2026-08-17T15:03:31+00:00"
+ },
+ {
+  "id": "fbc2cb74d036",
+  "title": "Liverpool star accused of 'white lie' as he tries to force through summer transfer",
+  "player": "Curtis Jones",
+  "title_ko": "리버풀 스타, 여름 이적을 강요하다 '선의의 거짓말' 혐의로 기소",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-curtis-jones-37561243",
+  "fee": null,
+  "published": "2026-08-17T15:01:04+00:00"
+ },
+ {
   "id": "da0e8064d943",
   "title": "Ipswich sign midfielder Ouattara from Strasbourg",
   "player": "Abdoul Ouattara",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/premier-league-roma-inter-luis-henrique-jones/",
   "fee": null,
   "published": "2026-08-15T08:28:00+00:00"
- },
- {
-  "id": "b4e7b73a6b3f",
-  "title": "Romero completes £34m Atletico Madrid transfer",
-  "player": "Cristian Romero",
-  "title_ko": "로메로, 3400만 파운드에 아틀레티코 마드리드 이적 완료",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13573213/cristian-romero-tottenham-captain-completes-move-to-atletico-madrid",
-  "fee": "£34M",
-  "published": "2026-08-15T08:00:00+00:00"
- },
- {
-  "id": "d61235e618f0",
-  "title": "Victor Osimhen breaks silence on Arsenal transfer rumours after £58m talks",
-  "player": "Victor Osimhen",
-  "title_ko": "빅터 오시멘은 £58m 협상 후 아스날 이적 루머에 대해 침묵을 깬다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-transfer-news-37554852",
-  "fee": "£58M",
-  "published": "2026-08-15T07:58:18+00:00"
  }
 ]

@@ -1,5 +1,31 @@
 [
  {
+  "id": "8fd987a212f0",
+  "title": "Die internationalen Top-Transfers des Sommers",
+  "player": "Eine Auswahl",
+  "title_ko": "올여름 최고의 해외 이적",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-internationalen-top-transfers-des-sommers-1242108/slideshow#omrss",
+  "fee": null,
+  "published": "2026-08-17T15:03:31+00:00"
+ },
+ {
+  "id": "fbc2cb74d036",
+  "title": "Liverpool star accused of 'white lie' as he tries to force through summer transfer",
+  "player": "Curtis Jones",
+  "title_ko": "리버풀 스타, 여름 이적을 강요하다 '선의의 거짓말' 혐의로 기소",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-curtis-jones-37561243",
+  "fee": null,
+  "published": "2026-08-17T15:01:04+00:00"
+ },
+ {
   "id": "da0e8064d943",
   "title": "Ipswich sign midfielder Ouattara from Strasbourg",
   "player": "Abdoul Ouattara",
