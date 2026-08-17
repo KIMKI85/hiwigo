@@ -1,5 +1,18 @@
 [
  {
+  "id": "f098954f0511",
+  "title": "Genoa pushing for Ferguson loan from Brighton after Roma struggle",
+  "player": "Hove Albion",
+  "title_ko": "로마의 부진 이후 브라이튼으로부터 퍼거슨 임대를 추진하는 제노아",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/genoa-pushing-for-ferguson-loan-brighton-roma/",
+  "fee": null,
+  "published": "2026-08-17T18:53:24+00:00"
+ },
+ {
   "id": "b4edb774f7d1",
   "title": "Official: Inter loan Berenbruch to Avellino, option and counter option",
   "player": "Thomas Berenbruch",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/chelsea-vs-real-sociedad/live/575209",
   "fee": null,
   "published": "2026-08-15T12:27:00+00:00"
- },
- {
-  "id": "7b85d8119cb5",
-  "title": "Man Utd new signing sends message to Michael Carrick during private friendly",
-  "player": "Michael Carrick",
-  "title_ko": "맨유의 새로운 영입은 개인 친선경기에서 마이클 캐릭에게 메시지를 보낸다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cristian-orozco-transfer-37555365",
-  "fee": null,
-  "published": "2026-08-15T12:12:50+00:00"
  }
 ]
