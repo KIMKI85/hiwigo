@@ -1,5 +1,31 @@
 [
  {
+  "id": "da0e8064d943",
+  "title": "Ipswich sign midfielder Ouattara from Strasbourg",
+  "player": "Abdoul Ouattara",
+  "title_ko": "스트라스부르 출신 입스위치의 미드필더 와타라(Ouattara)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-17T14:51:19+00:00"
+ },
+ {
+  "id": "60ecf6d3aa43",
+  "title": "Khalaili agent explains why ‘first choice’ Inter couldn’t complete deal: ‘We laughed’",
+  "player": "Anan Khalaili",
+  "title_ko": "칼라일리 에이전트, '1순위' 인테르가 거래를 성사시키지 못한 이유: '우리는 웃었다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/khalaili-agent-inter-first-choice-we-laughed/",
+  "fee": null,
+  "published": "2026-08-17T14:46:01+00:00"
+ },
+ {
   "id": "bc00546ca518",
   "title": "Man Utd will reject any bid for Fernandes",
   "player": "Bruno Fernandes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-victor-osimhen-transfer-news-37554852",
   "fee": "£58M",
   "published": "2026-08-15T07:58:18+00:00"
- },
- {
-  "id": "83925c8d1977",
-  "title": "Arsenal 'prepare bid' for £51m Brighton star amid Man Utd and Man City competition",
-  "player": "Jack Hinshelwood",
-  "title_ko": "맨유와 맨시티의 경쟁 속에서 아스날은 £51m 브라이튼 스타에 대한 '비드 준비'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-man-utd-hinshelwood-37554833",
-  "fee": "£51M",
-  "published": "2026-08-15T07:52:52+00:00"
- },
- {
-  "id": "ad1838897eb9",
-  "title": "Romero reflects on Spurs stay as Atletico move confirmed",
-  "player": "Cristian Romero",
-  "title_ko": "로메로는 아틀레티코 이적 확정으로 토트넘 잔류에 대해 반성했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-15T07:44:59+00:00"
  }
 ]

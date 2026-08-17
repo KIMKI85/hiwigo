@@ -1,5 +1,31 @@
 [
  {
+  "id": "da0e8064d943",
+  "title": "Ipswich sign midfielder Ouattara from Strasbourg",
+  "player": "Abdoul Ouattara",
+  "title_ko": "스트라스부르 출신 입스위치의 미드필더 와타라(Ouattara)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-17T14:51:19+00:00"
+ },
+ {
+  "id": "60ecf6d3aa43",
+  "title": "Khalaili agent explains why ‘first choice’ Inter couldn’t complete deal: ‘We laughed’",
+  "player": "Anan Khalaili",
+  "title_ko": "칼라일리 에이전트, '1순위' 인테르가 거래를 성사시키지 못한 이유: '우리는 웃었다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/khalaili-agent-inter-first-choice-we-laughed/",
+  "fee": null,
+  "published": "2026-08-17T14:46:01+00:00"
+ },
+ {
   "id": "bc00546ca518",
   "title": "Man Utd will reject any bid for Fernandes",
   "player": "Bruno Fernandes",
