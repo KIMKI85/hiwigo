@@ -1,5 +1,18 @@
 [
  {
+  "id": "5fd3b8bbb527",
+  "title": "DIRECT. Mercato: toutes les infos et rumeurs du 17 août 2026 sur le marché des transferts en live",
+  "player": null,
+  "title_ko": "직접. Mercato: 2026년 8월 17일 실시간 이적 시장에 대한 모든 정보와 루머",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-17-aout-2026-sur-le-marche-des-transferts-en-live_LN-202608170120.html",
+  "fee": null,
+  "published": "2026-08-17T06:21:24+00:00"
+ },
+ {
   "id": "e8d5a42ad35a",
   "title": "Transfer news LIVE: Rodri £65.4m latest, Liverpool's Barcola boost, Osimhen to Arsenal",
   "player": "Liverpool's Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-autorise-a-voyager-a-paris-pour-finaliser-son-transfert-au-psg_AV-202608140387.html",
   "fee": null,
   "published": "2026-08-14T15:33:37+00:00"
- },
- {
-  "id": "22eb16e00456",
-  "title": "Mercato: accord total entre le PSG et l’Ajax pour Mika Godts, qui sera à Paris dans les prochaines heures",
-  "player": "Mika Godts",
-  "title_ko": "Mercato: 앞으로 몇 시간 안에 파리에 있을 Mika Godts에 대한 PSG와 Ajax 간의 완전한 합의",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-l-ajax-pour-mika-godts-qui-sera-a-paris-dans-les-prochaines-heures_AV-202608140385.html",
-  "fee": null,
-  "published": "2026-08-14T15:24:18+00:00"
  }
 ]
