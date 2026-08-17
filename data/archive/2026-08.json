@@ -1,5 +1,44 @@
 [
  {
+  "id": "514dacc67804",
+  "title": "Mendes mastermind behind Moreira move to Milan for over €50m",
+  "player": "Diego Moreira",
+  "title_ko": "모레이라의 배후 멘데스는 5천만 유로가 넘는 가격에 밀란으로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mendes-mastermind-behind-moreira-move-to-milan/",
+  "fee": "€50M",
+  "published": "2026-08-17T15:24:52+00:00"
+ },
+ {
+  "id": "301bca4444c4",
+  "title": "Mercato: Diego Moreira annoncé à l'AC Milan, transfert record en vue pour Strasbourg",
+  "player": "Diego Moreira",
+  "title_ko": "메르카토: 디에고 모레이라, AC밀란으로 이적 발표, 스트라스부르 기록 이적 눈앞",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-diego-moreira-annonce-a-l-ac-milan-transfert-record-en-vue-pour-strasbourg_AV-202608170417.html",
+  "fee": null,
+  "published": "2026-08-17T15:22:57+00:00"
+ },
+ {
+  "id": "79a26ac78f53",
+  "title": "Barcelona eye shock Viktor Gyokeres transfer move as alternative for Arsenal target",
+  "player": "Viktor Gyokeres",
+  "title_ko": "아스날 타겟의 대안으로 바르셀로나의 시선을 사로잡은 빅토르 교케레스의 이적 움직임",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-viktor-gyokeres-arsenal-alvarez-37561269",
+  "fee": null,
+  "published": "2026-08-17T15:20:29+00:00"
+ },
+ {
   "id": "8fd987a212f0",
   "title": "Die internationalen Top-Transfers des Sommers",
   "player": "Eine Auswahl",

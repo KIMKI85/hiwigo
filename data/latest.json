@@ -1,5 +1,44 @@
 [
  {
+  "id": "514dacc67804",
+  "title": "Mendes mastermind behind Moreira move to Milan for over €50m",
+  "player": "Diego Moreira",
+  "title_ko": "모레이라의 배후 멘데스는 5천만 유로가 넘는 가격에 밀란으로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mendes-mastermind-behind-moreira-move-to-milan/",
+  "fee": "€50M",
+  "published": "2026-08-17T15:24:52+00:00"
+ },
+ {
+  "id": "301bca4444c4",
+  "title": "Mercato: Diego Moreira annoncé à l'AC Milan, transfert record en vue pour Strasbourg",
+  "player": "Diego Moreira",
+  "title_ko": "메르카토: 디에고 모레이라, AC밀란으로 이적 발표, 스트라스부르 기록 이적 눈앞",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-diego-moreira-annonce-a-l-ac-milan-transfert-record-en-vue-pour-strasbourg_AV-202608170417.html",
+  "fee": null,
+  "published": "2026-08-17T15:22:57+00:00"
+ },
+ {
+  "id": "79a26ac78f53",
+  "title": "Barcelona eye shock Viktor Gyokeres transfer move as alternative for Arsenal target",
+  "player": "Viktor Gyokeres",
+  "title_ko": "아스날 타겟의 대안으로 바르셀로나의 시선을 사로잡은 빅토르 교케레스의 이적 움직임",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-viktor-gyokeres-arsenal-alvarez-37561269",
+  "fee": null,
+  "published": "2026-08-17T15:20:29+00:00"
+ },
+ {
   "id": "8fd987a212f0",
   "title": "Die internationalen Top-Transfers des Sommers",
   "player": "Eine Auswahl",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-est-officiellement-un-joueur-du-psg_AV-202608150135.html",
   "fee": null,
   "published": "2026-08-15T09:20:55+00:00"
- },
- {
-  "id": "04e0dc139395",
-  "title": "WM-Finalheld Ferran Torres wechselt von Barcelona zu PSG",
-  "player": "Finalheld Ferran Torres",
-  "title_ko": "월드컵 결승 영웅 페란 토레스가 바르셀로나에서 PSG로 이적했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/wm-finalheld-ferran-torres-wechselt-von-barcelona-zu-psg-1241674/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-15T09:20:21+00:00"
- },
- {
-  "id": "43419e4ad7be",
-  "title": "Einjährige Leihe: Dinkci kehrt zu Werder zurück",
-  "player": "Einjährige Leihe",
-  "title_ko": "1년 임대: Dinkci가 Werder로 복귀합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/einjaehrige-leihe-dinkci-kehrt-zu-werder-zurueck-1243214/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-15T08:45:53+00:00"
- },
- {
-  "id": "651da1a22ed3",
-  "title": "Premier League sides join Roma for Luis Henrique as Inter chase Jones",
-  "player": "Luis Henrique",
-  "title_ko": "프리미어 리그 팀은 인터 체이스 존스로 루이스 엔리케를 대신해 로마에 합류했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/premier-league-roma-inter-luis-henrique-jones/",
-  "fee": null,
-  "published": "2026-08-15T08:28:00+00:00"
  }
 ]
