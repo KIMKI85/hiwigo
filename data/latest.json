@@ -1,5 +1,18 @@
 [
  {
+  "id": "d291b907e0b4",
+  "title": "Rodri lands in Barcelona to complete 'dream' move",
+  "player": null,
+  "title_ko": "로드리는 '꿈' 이적을 완료하기 위해 바르셀로나에 도착했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-17T20:02:27+00:00"
+ },
+ {
   "id": "f098954f0511",
   "title": "Genoa pushing for Ferguson loan from Brighton after Roma struggle",
   "player": "Hove Albion",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/mateta-milan-serious-than-told-crystal-palace/",
   "fee": null,
   "published": "2026-08-15T12:37:03+00:00"
- },
- {
-  "id": "de7dc5557171",
-  "title": "Joao Pedro scores twice with Rogers also on target as Chelsea beat Sociedad LIVE!",
-  "player": "Joao Pedro",
-  "title_ko": "첼시가 라이브로 소시에다드를 이겼을 때 주앙 페드로가 로저스와 함께 두 골을 넣었습니다!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/chelsea-vs-real-sociedad/live/575209",
-  "fee": null,
-  "published": "2026-08-15T12:27:00+00:00"
  }
 ]
