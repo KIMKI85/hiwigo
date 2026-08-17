@@ -1,5 +1,31 @@
 [
  {
+  "id": "b4edb774f7d1",
+  "title": "Official: Inter loan Berenbruch to Avellino, option and counter option",
+  "player": "Thomas Berenbruch",
+  "title_ko": "공식: Berenbruch에서 Avellino로의 인터 대출, 옵션 및 카운터 옵션",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-berenbruch-avellino-counter-option/",
+  "fee": null,
+  "published": "2026-08-17T18:27:11+00:00"
+ },
+ {
+  "id": "69f66240b315",
+  "title": "Hertha-Abschied fix: Winkler wechselt zu Anderlecht",
+  "player": "Marten Winkler",
+  "title_ko": "헤르타 이별 수정: 윙클러가 안더레흐트로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/hertha-abschied-fix-winkler-wechselt-zu-anderlecht-1243726/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-17T18:11:55+00:00"
+ },
+ {
   "id": "0dfbd1d2b130",
   "title": "Moreira given permission for Milan medical, deal worth over €50m",
   "player": "Diego Moreira",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cristian-orozco-transfer-37555365",
   "fee": null,
   "published": "2026-08-15T12:12:50+00:00"
- },
- {
-  "id": "5b66db9a9059",
-  "title": "Mercato : \"Beaucoup de joueurs veulent venir au PSG\" se réjouit Luis Enrique",
-  "player": "Luis Enrique",
-  "title_ko": "메르카토: “많은 선수들이 PSG로 오고 싶어한다” 루이스 엔리케 기뻐",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-beaucoup-de-joueurs-veulent-venir-au-psg-se-rejouit-luis-enrique_VN-202608150178.html",
-  "fee": null,
-  "published": "2026-08-15T12:04:15+00:00"
- },
- {
-  "id": "fb995127b066",
-  "title": "PSG: \"Il peut jouer partout en attaque\": Luis Enrique dithyrambique sur sa nouvelle recrue Ferran Torres",
-  "player": "Luis Enrique",
-  "title_ko": "PSG: \"그는 공격 어디에서나 뛸 수 있다\": 루이스 엔리케는 그의 새로운 영입인 페란 토레스에 대해 극찬했다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/psg-il-peut-jouer-partout-en-attaque-luis-enrique-dithyrambique-sur-sa-nouvelle-recrue-ferran-torres_AV-202608150171.html",
-  "fee": null,
-  "published": "2026-08-15T11:37:17+00:00"
  }
 ]

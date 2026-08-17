@@ -1,5 +1,31 @@
 [
  {
+  "id": "b4edb774f7d1",
+  "title": "Official: Inter loan Berenbruch to Avellino, option and counter option",
+  "player": "Thomas Berenbruch",
+  "title_ko": "공식: Berenbruch에서 Avellino로의 인터 대출, 옵션 및 카운터 옵션",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-berenbruch-avellino-counter-option/",
+  "fee": null,
+  "published": "2026-08-17T18:27:11+00:00"
+ },
+ {
+  "id": "69f66240b315",
+  "title": "Hertha-Abschied fix: Winkler wechselt zu Anderlecht",
+  "player": "Marten Winkler",
+  "title_ko": "헤르타 이별 수정: 윙클러가 안더레흐트로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/hertha-abschied-fix-winkler-wechselt-zu-anderlecht-1243726/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-17T18:11:55+00:00"
+ },
+ {
   "id": "0dfbd1d2b130",
   "title": "Moreira given permission for Milan medical, deal worth over €50m",
   "player": "Diego Moreira",
