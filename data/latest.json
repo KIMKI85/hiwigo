@@ -1,5 +1,18 @@
 [
  {
+  "id": "25848be76e39",
+  "title": "Man City accelerate talks for £85m Rodri successor - and could sign Enzo Fernandez as well",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티는 8500만 파운드의 로드리 후계자 영입 협상을 가속화하고 엔조 페르난데스도 영입할 수 있다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-rodri-bouaddi-fernandez-37559749",
+  "fee": "£85M",
+  "published": "2026-08-17T10:36:08+00:00"
+ },
+ {
   "id": "57c8d6103f63",
   "title": "Mercato: manque d’enthousiasme, projet sportif moins solide… Pourquoi Rodri n’a finalement pas signé au Real et a choisi le Barça",
   "player": "Pourquoi Rodri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-14T19:49:11+00:00"
- },
- {
-  "id": "52b22c72a477",
-  "title": "Romero announces Spurs exit ahead of Atletico transfer",
-  "player": "Cristian Romero",
-  "title_ko": "로메로, 아틀레티코 이적 앞두고 스퍼스 탈퇴 선언",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13572603/cristian-romero-spurs-captain-announces-exit-ahead-of-atletico-madrid-transfer-as-he-makes-statement-on-instagram",
-  "fee": null,
-  "published": "2026-08-14T19:40:00+00:00"
  }
 ]
