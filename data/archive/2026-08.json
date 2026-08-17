@@ -1,5 +1,31 @@
 [
  {
+  "id": "255200819f19",
+  "title": "Official: Bologna send Dallinga to FC Koln, loan with €14m option to buy",
+  "player": "Thijs Dallinga",
+  "title_ko": "공식: 볼로냐는 달링가를 FC 쾰른으로 보내고 €14m 구매 옵션으로 임대를 보냈습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bologna-dallinga-koln-loan-14m-option/",
+  "fee": "€14M",
+  "published": "2026-08-17T16:53:42+00:00"
+ },
+ {
+  "id": "49ca32f576ef",
+  "title": "Mercato: Manchester City ne lâche pas Bouaddi et négocie un transfert record avec Lille",
+  "player": "Lillois Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-ne-lache-pas-bouaddi-et-negocie-un-transfert-record-avec-lille_AV-202608170468.html",
+  "fee": null,
+  "published": "2026-08-17T16:45:47+00:00"
+ },
+ {
   "id": "28d57eda34b0",
   "title": "Brighton reject £7.5m bid from Rangers for Cozier-Duberry",
   "player": "Amario Cozier-",
