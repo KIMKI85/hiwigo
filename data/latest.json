@@ -1,5 +1,18 @@
 [
  {
+  "id": "c2f2eb6c2a38",
+  "title": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
+  "player": "Guglielmo Vicario",
+  "title_ko": "토트넘 골키퍼 굴리엘모 비카리오가 유벤투스로 임대 이적한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window",
+  "fee": null,
+  "published": "2026-08-17T11:42:09+00:00"
+ },
+ {
   "id": "967f2c5fb3d6",
   "title": "PAOK-Fans protestieren gegen Konstantelias' BVB-Wechsel - Rechtfertigung am Flughafen",
   "player": "Giannis Konstantelias",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
   "fee": null,
   "published": "2026-08-14T21:30:38+00:00"
- },
- {
-  "id": "fe058810a912",
-  "title": "Arteta not worried about Arsenal contract talks",
-  "player": "Mikel Arteta",
-  "title_ko": "아르테타는 아스날 계약 협상에 대해 걱정하지 않는다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-14T21:30:21+00:00"
  }
 ]
