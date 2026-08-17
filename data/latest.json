@@ -1,5 +1,18 @@
 [
  {
+  "id": "e8d5a42ad35a",
+  "title": "Transfer news LIVE: Rodri £65.4m latest, Liverpool's Barcola boost, Osimhen to Arsenal",
+  "player": "Liverpool's Barcola",
+  "title_ko": "이적 뉴스 라이브: 최근 로드리 £65.4m, 리버풀의 바르콜라 부스트, 오시멘에서 아스날로",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-transfers-live-37556784",
+  "fee": "£65.4M",
+  "published": "2026-08-17T05:52:07+00:00"
+ },
+ {
   "id": "18b91f195d67",
   "title": "Liverpool news: Barcola alternative sends message to Iraola as transfer plan clarified",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-total-entre-le-psg-et-l-ajax-pour-mika-godts-qui-sera-a-paris-dans-les-prochaines-heures_AV-202608140385.html",
   "fee": null,
   "published": "2026-08-14T15:24:18+00:00"
- },
- {
-  "id": "227696ac6f44",
-  "title": "Grimaldo über Atletico-Wechsel: \"Erfülle mir einen Traum\"",
-  "player": "Neuzugang Alejandro Grimaldo",
-  "title_ko": "아틀레티코 이적에 그리말도 “내 꿈을 이루세요”",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/grimaldo-ueber-atletico-wechsel-erfuelle-mir-einen-traum-1243105/video#omrss",
-  "fee": null,
-  "published": "2026-08-14T14:55:41+00:00"
  }
 ]
