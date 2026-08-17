@@ -1,5 +1,18 @@
 [
  {
+  "id": "e7b506f9add3",
+  "title": "Mercato: Barça ou Atletico, pourquoi la semaine sera cruciale pour l'avenir de Julian Alvarez",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Barça 또는 Atletico, 이번 주가 Julian Alvarez의 미래에 중요한 이유",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barca-ou-atletico-pourquoi-la-semaine-sera-cruciale-pour-l-avenir-de-julian-alvarez_AV-202608170489.html",
+  "fee": null,
+  "published": "2026-08-17T17:08:11+00:00"
+ },
+ {
   "id": "255200819f19",
   "title": "Official: Bologna send Dallinga to FC Koln, loan with €14m option to buy",
   "player": "Thijs Dallinga",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-curtis-jones-37555159",
   "fee": null,
   "published": "2026-08-15T10:32:57+00:00"
- },
- {
-  "id": "3b0878dfcb0b",
-  "title": "PSG sign World Cup final hero Torres from Barcelona",
-  "player": "Spain's World",
-  "title_ko": "PSG는 월드컵 결승 영웅 바르셀로나의 토레스를 영입했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-  "fee": null,
-  "published": "2026-08-15T10:32:00+00:00"
  }
 ]
