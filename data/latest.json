@@ -1,5 +1,18 @@
 [
  {
+  "id": "4b06d4a81148",
+  "title": "Ayyoub Bouaddi says YES to Man City transfer as £85m deal moves step closer",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "Ayyoub Bouaddi는 £85m 거래가 가까워지면서 맨시티 이적에 찬성이라고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ayyoub-bouaddi-man-city-transfer-37560813",
+  "fee": "£85M",
+  "published": "2026-08-17T13:15:24+00:00"
+ },
+ {
   "id": "0fca626da7eb",
   "title": "Man Utd issue instant response to shock Bruno Fernandes transfer approach",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-latest-bradley-barcola-37552975",
   "fee": null,
   "published": "2026-08-15T04:00:00+00:00"
- },
- {
-  "id": "48ecf1551981",
-  "title": "Man Utd news: Michael Carrick issues transfer statement as Ibrahim Mbaye decision made",
-  "player": "Michael Carrick",
-  "title_ko": "맨유 뉴스: 이브라힘 음바예의 결정에 마이클 캐릭이 이적 성명을 발표했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-carrick-mbaye-37552896",
-  "fee": null,
-  "published": "2026-08-15T03:30:00+00:00"
  }
 ]
