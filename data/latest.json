@@ -1,5 +1,18 @@
 [
  {
+  "id": "967f2c5fb3d6",
+  "title": "PAOK-Fans protestieren gegen Konstantelias' BVB-Wechsel - Rechtfertigung am Flughafen",
+  "player": "Giannis Konstantelias",
+  "title_ko": "PAOK 팬들은 콘스탄텔리아스의 BVB 움직임에 항의합니다 - 공항에서의 정당성",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/paok-fans-protestieren-gegen-konstantelias-bvb-wechsel-rechtfertigung-am-flughafen-1244104/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-17T11:17:23+00:00"
+ },
+ {
   "id": "86aeccacce4e",
   "title": "Enzo Maresca drops new Jack Grealish transfer hint after making Man City return",
   "player": "Enzo Maresca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-14T21:30:21+00:00"
- },
- {
-  "id": "4e6f33e5de21",
-  "title": "Official: Lazio get Frattesi on loan from Inter with option to buy for €15m",
-  "player": "Davide Frattesi",
-  "title_ko": "공식: 라치오는 인테르로부터 프라테시를 €15m에 구매 옵션과 함께 임대로 데려왔습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-lazio-get-frattesi-on-loan-from-inter/",
-  "fee": "€15M",
-  "published": "2026-08-14T20:42:28+00:00"
  }
 ]
