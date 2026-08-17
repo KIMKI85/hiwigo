@@ -1,5 +1,31 @@
 [
  {
+  "id": "0dfbd1d2b130",
+  "title": "Moreira given permission for Milan medical, deal worth over €50m",
+  "player": "Diego Moreira",
+  "title_ko": "모레이라가 밀란 메디컬에 허가를 내렸고 €50m 이상의 거래 가치가 있음",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/moreira-given-permission-milan-medical-e50m/",
+  "fee": "€50M",
+  "published": "2026-08-17T17:39:46+00:00"
+ },
+ {
+  "id": "e1f75c021ea8",
+  "title": "Mercato: l'OM a reçu une première offre pour le transfert de Mmadi",
+  "player": "Olympique de",
+  "title_ko": "Mercato: OM은 Mmadi 이전에 대한 첫 번째 제안을 받았습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-om-a-recu-une-premiere-offre-pour-le-transfert-de-mmadi_AV-202608170508.html",
+  "fee": null,
+  "published": "2026-08-17T17:35:07+00:00"
+ },
+ {
   "id": "5723b6da8724",
   "title": "Badiashile set for Napoli medical, Chelsea agree to remove bonus at total €30m",
   "player": "Benoit Badiashile",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/psg-il-peut-jouer-partout-en-attaque-luis-enrique-dithyrambique-sur-sa-nouvelle-recrue-ferran-torres_AV-202608150171.html",
   "fee": null,
   "published": "2026-08-15T11:37:17+00:00"
- },
- {
-  "id": "6d03f0126d57",
-  "title": "Monza target Di Gregorio return as Juventus aim to resolve goalkeeper crisis",
-  "player": "Di Gregorio",
-  "title_ko": "유벤투스가 골키퍼 위기 해결을 목표로 몬차는 디 그레고리오의 복귀를 목표로 하고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/monza-target-di-gregorio-return-juventus/",
-  "fee": null,
-  "published": "2026-08-15T11:30:00+00:00"
- },
- {
-  "id": "c74983e0aa57",
-  "title": "Juventus agree €22m deal for Bologna defender Jhon Lucumi",
-  "player": "Jhon Lucumi",
-  "title_ko": "유벤투스는 볼로냐 수비수 존 루쿠미의 €22m 계약에 동의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-agree-22m-deal-for-bologna-lucumi/",
-  "fee": "€22M",
-  "published": "2026-08-15T11:10:00+00:00"
  }
 ]
