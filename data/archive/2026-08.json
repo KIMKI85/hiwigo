@@ -1,5 +1,31 @@
 [
  {
+  "id": "bc00546ca518",
+  "title": "Man Utd will reject any bid for Fernandes",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유는 페르난데스에 대한 어떠한 제의도 거절할 것이다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-17T13:55:54+00:00"
+ },
+ {
+  "id": "e516655b17f0",
+  "title": "Man City move for £85m Bouaddi and still want Fernandez",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티는 £85m의 부아디로 이적했지만 여전히 페르난데스를 원합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+  "fee": "£85M",
+  "published": "2026-08-17T13:50:22+00:00"
+ },
+ {
   "id": "7b88efdd5881",
   "title": "Milan could swoop for Juventus winger and Atletico Madrid target Nico Gonzalez",
   "player": "Nico Gonzalez",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "bc00546ca518",
+  "title": "Man Utd will reject any bid for Fernandes",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유는 페르난데스에 대한 어떠한 제의도 거절할 것이다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-17T13:55:54+00:00"
+ },
+ {
+  "id": "e516655b17f0",
+  "title": "Man City move for £85m Bouaddi and still want Fernandez",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티는 £85m의 부아디로 이적했지만 여전히 페르난데스를 원합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+  "fee": "£85M",
+  "published": "2026-08-17T13:50:22+00:00"
+ },
+ {
   "id": "7b88efdd5881",
   "title": "Milan could swoop for Juventus winger and Atletico Madrid target Nico Gonzalez",
   "player": "Nico Gonzalez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-15T07:44:59+00:00"
- },
- {
-  "id": "a8180dbd686b",
-  "title": "EFL’s big kick-off; Romero joins Atlético; transfer updates and more – matchday live",
-  "player": "Cristian Romero",
-  "title_ko": "EFL의 큰 시작; 로메로가 아틀레티코에 합류했습니다. 이적 업데이트 등 – 매치데이 라이브",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/aug/15/community-shield-buildup-championship-and-club-friendly-updates-matchday-live",
-  "fee": null,
-  "published": "2026-08-15T07:39:43+00:00"
- },
- {
-  "id": "677252ea16fd",
-  "title": "'Man Utd had agreed record deal to sign me – but I'm glad I waited for Liverpool instead'",
-  "player": null,
-  "title_ko": "'맨유는 저와 계약하기로 레코드 계약에 동의했습니다. 하지만 대신 리버풀을 기다려서 기쁩니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-transfer-babbel-37543046",
-  "fee": null,
-  "published": "2026-08-15T05:00:00+00:00"
  }
 ]
