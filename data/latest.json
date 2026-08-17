@@ -1,5 +1,31 @@
 [
  {
+  "id": "2a321512e7b6",
+  "title": "Chalobah: ‘Demanding’ Fabregas convinced me to join Como instead of Inter",
+  "player": "Trevoh Chalobah",
+  "title_ko": "찰로바: '까다로운' 파브레가스가 인테르 대신 코모로 이적하도록 설득했다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chalobah-fabregas-convinced-me-to-join-como/",
+  "fee": null,
+  "published": "2026-08-17T15:41:49+00:00"
+ },
+ {
+  "id": "c16372b450f9",
+  "title": "Video: Vicario arrives to start Juventus medical, loan from Tottenham",
+  "player": "Guglielmo Vicario",
+  "title_ko": "영상: 비카리오가 유벤투스 메디컬을 시작하기 위해 도착, 토트넘에서 임대",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vicario-juventus-medical-loan-from-tottenham/",
+  "fee": null,
+  "published": "2026-08-17T15:35:45+00:00"
+ },
+ {
   "id": "514dacc67804",
   "title": "Mendes mastermind behind Moreira move to Milan for over €50m",
   "player": "Diego Moreira",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-15T09:37:31+00:00"
- },
- {
-  "id": "bda0fdd0845d",
-  "title": "Nach abgelehntem Wechsel: Marseille setzt Höjbjerg als Kapitän ab",
-  "player": "Olympique Marseilles Ansinnen",
-  "title_ko": "변경이 거부된 후: 마르세유는 회이비에르를 주장직에서 제거합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/nach-abgelehntem-wechsel-marseille-setzt-hoejbjerg-als-kapitaen-ab-1243217/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-15T09:30:31+00:00"
- },
- {
-  "id": "f52e6c6716d7",
-  "title": "Mercato: Ferran Torres est officiellement un joueur du PSG",
-  "player": "Ferran Torres",
-  "title_ko": "Mercato: Ferran Torres는 공식적으로 PSG 선수입니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ferran-torres-est-officiellement-un-joueur-du-psg_AV-202608150135.html",
-  "fee": null,
-  "published": "2026-08-15T09:20:55+00:00"
  }
 ]
