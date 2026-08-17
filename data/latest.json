@@ -1,5 +1,18 @@
 [
  {
+  "id": "7763176e0363",
+  "title": "Man Utd 'living in the past' as transfer failings exposed in damning Liverpool comparison",
+  "player": null,
+  "title_ko": "맨유는 리버풀과의 비교에서 드러난 이적 실패로 '과거에 살고 있다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-signings-carrick-liverpool-37559074",
+  "fee": null,
+  "published": "2026-08-17T08:46:24+00:00"
+ },
+ {
   "id": "1b99bfd09837",
   "title": "Badiashile: Chelsea defender set for Napoli medical",
   "player": "Benoit Badiashile",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
   "fee": null,
   "published": "2026-08-14T17:27:00+00:00"
- },
- {
-  "id": "608f9ecd6cf0",
-  "title": "Un départ pour une arrivée: Lorenzi dévoile les conditions pour voir une recrue à l'OM cet été",
-  "player": "Grégory Lorenzi",
-  "title_ko": "도착을 위한 출발: Lorenzi는 올 여름 OM에서 신입생을 만날 수 있는 조건을 밝힙니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/un-depart-pour-une-arrivee-lorenzi-devoile-les-conditions-pour-voir-une-recrue-a-l-om-cet-ete_AV-202608140500.html",
-  "fee": null,
-  "published": "2026-08-14T17:09:00+00:00"
  }
 ]
