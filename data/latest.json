@@ -1,5 +1,31 @@
 [
  {
+  "id": "8d907c087885",
+  "title": "Mercato: accord entre Malick Fofana et la Roma, vers un gros chèque pour l'OL?",
+  "player": "Malick Fofana",
+  "title_ko": "Mercato: Malick Fofana와 Roma 간의 OL에 대한 큰 수표에 대한 합의?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-entre-malick-fofana-et-la-roma-vers-un-gros-cheque-pour-l-ol_AV-202608170597.html",
+  "fee": null,
+  "published": "2026-08-17T21:12:42+00:00"
+ },
+ {
+  "id": "ea2ff838352c",
+  "title": "\"Bin froh, dass alles geklärt ist\": Rodri-Wechsel nach Barcelona vor Vollzug",
+  "player": "Sein Wechsel",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/bin-froh-dass-alles-geklaert-ist-rodri-wechsel-nach-barcelona-vor-vollzug-1244242/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-17T20:53:19+00:00"
+ },
+ {
   "id": "6dc7d54ce3c8",
   "title": "Mercato: Rodri arrive à Barcelone et affiche déjà l'objectif \"Ligue des champions\"",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-accord-total-pour-le-transfert-de-methalie-en-premier-league_AV-202608150217.html",
   "fee": null,
   "published": "2026-08-15T15:01:00+00:00"
- },
- {
-  "id": "2ecd3b1217cc",
-  "title": "Newcastle progressing with move for Benfica defender Dedic",
-  "player": "Amar Dedic",
-  "title_ko": "뉴캐슬, 벤피카 수비수 데딕 영입 추진 중",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-15T13:54:09+00:00"
- },
- {
-  "id": "dd9c2f2d25e7",
-  "title": "Esposito set to triple Inter salary with new contract worth €3.2m per season",
-  "player": "Francesco Pio Esposito",
-  "title_ko": "Esposito는 시즌당 €3.2m 상당의 새 계약으로 인테르 연봉을 세 배로 늘릴 예정입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/esposito-triple-inter-salary-new-contract/",
-  "fee": "€3.2M",
-  "published": "2026-08-15T12:58:40+00:00"
  }
 ]
