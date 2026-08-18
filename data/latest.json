@@ -1,5 +1,18 @@
 [
  {
+  "id": "207f60c5ccad",
+  "title": "Mercato: le latéral bosnien Amar Dedic s'engage avec Newcastle",
+  "player": "Amar Dedic",
+  "title_ko": "메르카토: 보스니아 출신 풀백 아마르 데딕이 뉴캐슬과 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-lateral-bosnien-amar-dedic-s-engage-avec-newcastle_AV-202608180440.html",
+  "fee": null,
+  "published": "2026-08-18T15:32:52+00:00"
+ },
+ {
   "id": "c44be027e143",
   "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
   "player": "Guglielmo Vicario",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-and-lazio-could-swap-tomori-and-tavares/",
   "fee": null,
   "published": "2026-08-16T14:00:38+00:00"
- },
- {
-  "id": "9763f9363140",
-  "title": "Torino seal potential €15m Perri deal with Leeds United",
-  "player": "Lucas Perri",
-  "title_ko": "토리노는 리즈 유나이티드와 €15m의 페리 계약을 맺을 가능성이 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/torino-seal-perri-deal-with-leeds-united/",
-  "fee": "€15M",
-  "published": "2026-08-16T13:45:44+00:00"
  }
 ]
