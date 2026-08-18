@@ -1,5 +1,31 @@
 [
  {
+  "id": "3c6d56804b10",
+  "title": "Chelsea change name of under-21s side in controversial move to rebrand academy",
+  "player": null,
+  "title_ko": "첼시, 아카데미 브랜드 변경 논란에 21세 이하 팀 이름 변경",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-academy-under-21-rebrand-37564768",
+  "fee": null,
+  "published": "2026-08-18T12:52:30+00:00"
+ },
+ {
+  "id": "c6f55c92ca0b",
+  "title": "Besiktas and Italiano target Juventus winger Gonzalez amid Milan links",
+  "player": "Nico Gonzalez",
+  "title_ko": "베식타스와 이탈리아노는 밀란과 링크가 있는 가운데 유벤투스의 윙어 곤잘레스를 노리고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/besiktas-and-italiano-target-juventus-gonzalez/",
+  "fee": null,
+  "published": "2026-08-18T12:50:00+00:00"
+ },
+ {
   "id": "d41caea4933c",
   "title": "Mercato: \"construire une équipe autour de lui\", Simeone claque de nouveau la porte à un départ d'Alvarez cet été",
   "player": "Colchoneros Diego Simeone",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13573666/aston-villa-transfer-news-zion-suzuki-lined-up-as-juventus-linked-emiliano-martinez-replacement-after-29-9m-deal-agreed-with-parma",
   "fee": null,
   "published": "2026-08-16T12:02:00+00:00"
- },
- {
-  "id": "634faea8e570",
-  "title": "Liverpool learn new PSG decision on Bradley Barcola and Ibrahim Mbaye after transfer announcement",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 이적 발표 후 브래들리 바르콜라와 이브라힘 음바예에 대한 새로운 PSG 결정을 알게 되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-barcola-mbaye-37557480",
-  "fee": null,
-  "published": "2026-08-16T11:50:59+00:00"
- },
- {
-  "id": "6190059e6503",
-  "title": "Inter could change summer transfer strategy if Luis Henrique is sold",
-  "player": "Luis Henrique",
-  "title_ko": "인터는 루이스 엔리케가 팔리면 여름 이적 전략을 바꿀 수 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-cold-change-henrique-transfer-strategy/",
-  "fee": null,
-  "published": "2026-08-16T11:49:12+00:00"
  }
 ]

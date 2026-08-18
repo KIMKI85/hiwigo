@@ -1,5 +1,31 @@
 [
  {
+  "id": "3c6d56804b10",
+  "title": "Chelsea change name of under-21s side in controversial move to rebrand academy",
+  "player": null,
+  "title_ko": "첼시, 아카데미 브랜드 변경 논란에 21세 이하 팀 이름 변경",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-academy-under-21-rebrand-37564768",
+  "fee": null,
+  "published": "2026-08-18T12:52:30+00:00"
+ },
+ {
+  "id": "c6f55c92ca0b",
+  "title": "Besiktas and Italiano target Juventus winger Gonzalez amid Milan links",
+  "player": "Nico Gonzalez",
+  "title_ko": "베식타스와 이탈리아노는 밀란과 링크가 있는 가운데 유벤투스의 윙어 곤잘레스를 노리고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/besiktas-and-italiano-target-juventus-gonzalez/",
+  "fee": null,
+  "published": "2026-08-18T12:50:00+00:00"
+ },
+ {
   "id": "d41caea4933c",
   "title": "Mercato: \"construire une équipe autour de lui\", Simeone claque de nouveau la porte à un départ d'Alvarez cet été",
   "player": "Colchoneros Diego Simeone",
