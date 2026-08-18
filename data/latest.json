@@ -1,5 +1,18 @@
 [
  {
+  "id": "4fa0349fa47f",
+  "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
+  "player": "Ham's Wan-",
+  "title_ko": "Aston Villa는 West Ham의 Wan-Bissaka와 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T17:56:13+00:00"
+ },
+ {
   "id": "79d9f843825c",
   "title": "Vicario on Juventus move: ‘A lifelong dream, waiting for this moment since I was a child’",
   "player": "Guglielmo Vicario",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tranafer-news-osimhen-nwaneri-37557815",
   "fee": null,
   "published": "2026-08-17T03:00:00+00:00"
- },
- {
-  "id": "a4e0b5a769b6",
-  "title": "Papers: Delap & Neto move closer to Chelsea exit",
-  "player": null,
-  "title_ko": "논문: Delap & Neto가 Chelsea 출구로 더 가까워졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
-  "fee": null,
-  "published": "2026-08-16T22:30:00+00:00"
  }
 ]
