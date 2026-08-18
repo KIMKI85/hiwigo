@@ -1,5 +1,18 @@
 [
  {
+  "id": "a9df06c45f38",
+  "title": "La fin du feuilleton du mercato estival: Rodri signe officiellement au Barça et met un petit tacle au Real",
+  "player": null,
+  "title_ko": "여름 이적 기간의 끝: Rodri는 공식적으로 Barça와 계약하고 Real에 작은 태클을가합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/la-fin-du-feuilleton-du-mercato-estival-rodri-signe-officiellement-au-barca-et-met-un-petit-tacle-au-real_AV-202608180537.html",
+  "fee": null,
+  "published": "2026-08-18T18:06:29+00:00"
+ },
+ {
   "id": "4fa0349fa47f",
   "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
   "player": "Ham's Wan-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-wharton-bayern-37557780",
   "fee": "£85M",
   "published": "2026-08-17T03:30:00+00:00"
- },
- {
-  "id": "3e2312a7e259",
-  "title": "Arsenal news: Victor Osimhen statement made as Mikel Arteta drops next transfer clue",
-  "player": "Victor Osimhen",
-  "title_ko": "아스날 뉴스: 미켈 아르테타가 다음 이적 단서를 떨어뜨렸을 때 빅터 오시멘의 발언",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-tranafer-news-osimhen-nwaneri-37557815",
-  "fee": null,
-  "published": "2026-08-17T03:00:00+00:00"
  }
 ]
