@@ -1,5 +1,31 @@
 [
  {
+  "id": "975eca118f7c",
+  "title": "Video: Diego Moreira arrives for Milan medical",
+  "player": "Diego Moreira",
+  "title_ko": "비디오: 디에고 모레이라가 밀란 메디컬을 위해 도착함",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-diego-moreira-arrives-for-milan-medical/",
+  "fee": null,
+  "published": "2026-08-18T10:29:32+00:00"
+ },
+ {
+  "id": "6994f3fdda54",
+  "title": "Rodri, Sidibé, Fernandes... les 5 infos mercato du 18 août à midi",
+  "player": null,
+  "title_ko": "로드리, 시디베, 페르난데스... 8월 18일 정오 5개의 메르카토 뉴스",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-rodri-sidibe-fernandes-les-5-infos-mercato-du-18-aout-a-midi_VN-202608180285.html",
+  "fee": null,
+  "published": "2026-08-18T10:23:32+00:00"
+ },
+ {
   "id": "b3efd97efcb5",
   "title": "Wolfsburgs Deal mit Bernhardsson und der Versuch bei Schlotterbeck",
   "player": "Kieler Alexander Bernhardsson",
