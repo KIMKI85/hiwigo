@@ -1,5 +1,31 @@
 [
  {
+  "id": "ee1c4d848fe7",
+  "title": "Circati to leave Parma for Benfica in €20m deal",
+  "player": "Alessandro Circati",
+  "title_ko": "시르카티는 €20m에 파르마를 떠나 벤피카로 이적합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/circati-to-leave-parma-for-benfica/",
+  "fee": "€20M",
+  "published": "2026-08-18T19:40:00+00:00"
+ },
+ {
+  "id": "bb6e00f65783",
+  "title": "Irish striker Parrott on brink of Real Betis move",
+  "player": "Troy Parrott",
+  "title_ko": "아일랜드 공격수 패럿, 레알 베티스 이적 직전",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c935vrgrn0vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T19:25:40+00:00"
+ },
+ {
   "id": "19d58efc686f",
   "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
   "player": "Noa Lang",
@@ -113,6 +139,19 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/ausgerechnet-real-ausgestochen-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:50:52+00:00"
+ },
+ {
+  "id": "97e088162175",
+  "title": "\"Passt zu mir\": Rodris Wechsel zu Barcelona perfekt",
+  "player": "Rodris Wechsel",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/passt-zu-mir-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
   "fee": null,
   "published": "2026-08-18T16:50:52+00:00"
  },

@@ -1,5 +1,31 @@
 [
  {
+  "id": "ee1c4d848fe7",
+  "title": "Circati to leave Parma for Benfica in €20m deal",
+  "player": "Alessandro Circati",
+  "title_ko": "시르카티는 €20m에 파르마를 떠나 벤피카로 이적합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/circati-to-leave-parma-for-benfica/",
+  "fee": "€20M",
+  "published": "2026-08-18T19:40:00+00:00"
+ },
+ {
+  "id": "bb6e00f65783",
+  "title": "Irish striker Parrott on brink of Real Betis move",
+  "player": "Troy Parrott",
+  "title_ko": "아일랜드 공격수 패럿, 레알 베티스 이적 직전",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c935vrgrn0vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T19:25:40+00:00"
+ },
+ {
   "id": "19d58efc686f",
   "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
   "player": "Noa Lang",
@@ -102,6 +128,19 @@
   "url": "https://www.kicker.de/neue-moeglichkeiten-fuers-offensivspiel-bernhardsson-wechselt-nach-wolfsburg-1244445/artikel#omrss",
   "fee": null,
   "published": "2026-08-18T16:54:49+00:00"
+ },
+ {
+  "id": "97e088162175",
+  "title": "\"Passt zu mir\": Rodris Wechsel zu Barcelona perfekt",
+  "player": "Rodris Wechsel",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/passt-zu-mir-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:50:52+00:00"
  },
  {
   "id": "30fc2ed3e361",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/todays-papers-juventus-vicario-inter-jones/",
   "fee": null,
   "published": "2026-08-17T07:36:28+00:00"
- },
- {
-  "id": "5fd3b8bbb527",
-  "title": "DIRECT. Mercato: toutes les infos et rumeurs du 17 août 2026 sur le marché des transferts en live",
-  "player": null,
-  "title_ko": "직접. Mercato: 2026년 8월 17일 실시간 이적 시장에 대한 모든 정보와 루머",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-17-aout-2026-sur-le-marche-des-transferts-en-live_LN-202608170120.html",
-  "fee": null,
-  "published": "2026-08-17T06:21:24+00:00"
- },
- {
-  "id": "e8d5a42ad35a",
-  "title": "Transfer news LIVE: Rodri £65.4m latest, Liverpool's Barcola boost, Osimhen to Arsenal",
-  "player": "Liverpool's Barcola",
-  "title_ko": "이적 뉴스 라이브: 최근 로드리 £65.4m, 리버풀의 바르콜라 부스트, 오시멘에서 아스날로",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-transfers-live-37556784",
-  "fee": "£65.4M",
-  "published": "2026-08-17T05:52:07+00:00"
- },
- {
-  "id": "18b91f195d67",
-  "title": "Liverpool news: Barcola alternative sends message to Iraola as transfer plan clarified",
-  "player": null,
-  "title_ko": "리버풀 뉴스: 바르콜라 대안은 이적 계획이 명확해지면서 이라올라에게 메시지를 보냅니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-barcola-andoni-iraola-37557874",
-  "fee": null,
-  "published": "2026-08-17T04:00:00+00:00"
  }
 ]
