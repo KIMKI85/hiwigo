@@ -1,5 +1,18 @@
 [
  {
+  "id": "8185a53fe0fd",
+  "title": "Newcastle complete £30m move for Benfica's Dedic",
+  "player": "Benfica's Dedic",
+  "title_ko": "뉴캐슬은 벤피카의 데딕을 £30m 이적시켰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-08-18T08:00:14+00:00"
+ },
+ {
   "id": "fd7e2aff171f",
   "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
   "player": "It's September",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c934488gjyzo?at_medium=RSS&at_campaign=rss",
   "fee": "£25.6M",
   "published": "2026-08-15T17:20:54+00:00"
- },
- {
-  "id": "9d7aaf7d8ed1",
-  "title": "Inter sign England full-back Spence from Tottenham",
-  "player": "Djed Spence",
-  "title_ko": "인테르는 토트넘에서 잉글랜드 풀백 스펜스를 영입했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-15T17:15:16+00:00"
  }
 ]
