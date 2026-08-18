@@ -1196,6 +1196,19 @@
   "published": "2026-08-17T10:36:08+00:00"
  },
  {
+  "id": "0e340fab5085",
+  "title": "Wolves beat Hull KR to move two points off Super League top spot",
+  "player": "Sewell Group Craven",
+  "title_ko": "울브즈, 헐 KR 꺾고 슈퍼리그 1위 자리에서 승점 2점 하락",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/rugby-league/news/12040/13573970/hull-kr-28-34-warrington-wolves-george-williams-stars-as-sam-burgess-side-move-two-points-off-super-league-top-spot",
+  "fee": null,
+  "published": "2026-08-17T10:21:00+00:00"
+ },
+ {
   "id": "57c8d6103f63",
   "title": "Mercato: manque d’enthousiasme, projet sportif moins solide… Pourquoi Rodri n’a finalement pas signé au Real et a choisi le Barça",
   "player": "Pourquoi Rodri",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/badiashile-chelsea-defender-napoli-medical/",
   "fee": null,
   "published": "2026-08-17T08:14:02+00:00"
- },
- {
-  "id": "3e3d4e7ec657",
-  "title": "Official: Lucumi joins Juventus from Bologna as price tag revealed",
-  "player": "Jhon Lucumi",
-  "title_ko": "공식: 루쿠미는 가격표가 공개되면서 볼로냐에서 유벤투스로 합류했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-lucumi-joins-juventus-price-tag/",
-  "fee": null,
-  "published": "2026-08-17T07:52:27+00:00"
  }
 ]
