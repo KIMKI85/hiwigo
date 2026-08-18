@@ -1,5 +1,18 @@
 [
  {
+  "id": "19d58efc686f",
+  "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
+  "player": "Noa Lang",
+  "title_ko": "아약스와 갈라타사라이가 나폴리의 추방자 랭의 대기열에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ajax-and-galatasaray-napoli-lang/",
+  "fee": null,
+  "published": "2026-08-18T18:20:00+00:00"
+ },
+ {
   "id": "a9df06c45f38",
   "title": "La fin du feuilleton du mercato estival: Rodri signe officiellement au Barça et met un petit tacle au Real",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-barcola-andoni-iraola-37557874",
   "fee": null,
   "published": "2026-08-17T04:00:00+00:00"
- },
- {
-  "id": "3c0c307fb735",
-  "title": "Man Utd news: £85m transfer touted as long-term target added to wishlist",
-  "player": null,
-  "title_ko": "맨유 뉴스: 장기 목표로 £85m 이적을 위시리스트에 추가",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-wharton-bayern-37557780",
-  "fee": "£85M",
-  "published": "2026-08-17T03:30:00+00:00"
  }
 ]
