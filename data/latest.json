@@ -1,5 +1,18 @@
 [
  {
+  "id": "922961bbfade",
+  "title": "El Villarreal cierra el capítulo de salidas con la cesión de Kambwala a Osasuna",
+  "player": null,
+  "title_ko": "비야레알은 캄브왈라를 오사수나에게 임대하면서 출구 장을 마감했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/villarreal/2026/08/18/villarreal-cierra-capitulo-salidas-cesion-kambwala-osasuna.html",
+  "fee": null,
+  "published": "2026-08-18T16:00:07+00:00"
+ },
+ {
   "id": "207f60c5ccad",
   "title": "Mercato: le latéral bosnien Amar Dedic s'engage avec Newcastle",
   "player": "Amar Dedic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/tottenham-reject-juventus-loan-bid-for-vicario/",
   "fee": null,
   "published": "2026-08-16T14:45:00+00:00"
- },
- {
-  "id": "8e4bed314996",
-  "title": "Milan and Lazio could swap unwanted defenders Tomori and Nuno Tavares",
-  "player": "Nuno Tavares",
-  "title_ko": "밀란과 라치오는 원치 않는 수비수 토모리와 누노 타바레스를 교체할 수 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-and-lazio-could-swap-tomori-and-tavares/",
-  "fee": null,
-  "published": "2026-08-16T14:00:38+00:00"
  }
 ]
