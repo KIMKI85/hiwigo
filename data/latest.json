@@ -13,6 +13,19 @@
   "published": "2026-08-18T09:00:00+00:00"
  },
  {
+  "id": "5866a5ba8063",
+  "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
+  "player": "Christopher Nkunku",
+  "title_ko": "축구 이적 루머: 아틀레티코는 알바레즈가 바르샤 대신 아스날로 이적하길 원한다고요?",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona",
+  "fee": null,
+  "published": "2026-08-18T08:35:44+00:00"
+ },
+ {
   "id": "8185a53fe0fd",
   "title": "Newcastle complete £30m move for Benfica's Dedic",
   "player": "Benfica's Dedic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-page-leicester-37556187",
   "fee": null,
   "published": "2026-08-15T17:59:44+00:00"
- },
- {
-  "id": "6d3e31730556",
-  "title": "OM: \"Ni un caprice, ni un manque de respect\", la mise au point d'Aguerd sur l'échec de son prêt en Espagne",
-  "player": "Nayef Aguerd",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-ni-un-caprice-ni-un-manque-de-respect-la-mise-au-point-d-aguerd-sur-l-echec-de-son-pret-en-espagne_AN-202608150253.html",
-  "fee": null,
-  "published": "2026-08-15T17:36:43+00:00"
  }
 ]
