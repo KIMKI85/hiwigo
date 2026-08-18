@@ -1,5 +1,18 @@
 [
  {
+  "id": "0dfd87d9c380",
+  "title": "Papers: Barca midfielder rejects chance to join Man Utd",
+  "player": null,
+  "title_ko": "서류: 바르샤 미드필더, 맨유 합류 기회 거부",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
+  "fee": null,
+  "published": "2026-08-18T22:40:00+00:00"
+ },
+ {
   "id": "63635aa61bd2",
   "title": "Arsenal chief makes transfer window vow as Mikel Arteta shortlist revealed",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-17T09:05:54+00:00"
- },
- {
-  "id": "7763176e0363",
-  "title": "Man Utd 'living in the past' as transfer failings exposed in damning Liverpool comparison",
-  "player": null,
-  "title_ko": "맨유는 리버풀과의 비교에서 드러난 이적 실패로 '과거에 살고 있다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-signings-carrick-liverpool-37559074",
-  "fee": null,
-  "published": "2026-08-17T08:46:24+00:00"
  }
 ]
