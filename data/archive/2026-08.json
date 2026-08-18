@@ -13,6 +13,32 @@
   "published": "2026-08-18T17:00:00+00:00"
  },
  {
+  "id": "a58e277f5686",
+  "title": "Barcelona sign Rodri from Man City in £65m deal",
+  "player": null,
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-08-18T16:57:18+00:00"
+ },
+ {
+  "id": "b35b66d45de3",
+  "title": "Neue Möglichkeiten fürs Offensivspiel: Bernhardsson wechselt nach Wolfsburg",
+  "player": "Neue Möglichkeiten",
+  "title_ko": "공격적인 플레이를 위한 새로운 기회: 베른하르트손이 볼프스부르크로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neue-moeglichkeiten-fuers-offensivspiel-bernhardsson-wechselt-nach-wolfsburg-1244445/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:54:49+00:00"
+ },
+ {
   "id": "30fc2ed3e361",
   "title": "Ausgerechnet Real ausgestochen: Rodris Wechsel zu Barcelona perfekt",
   "player": "Rodris Wechsel",

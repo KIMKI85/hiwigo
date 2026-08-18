@@ -13,6 +13,32 @@
   "published": "2026-08-18T17:00:00+00:00"
  },
  {
+  "id": "a58e277f5686",
+  "title": "Barcelona sign Rodri from Man City in £65m deal",
+  "player": null,
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-08-18T16:57:18+00:00"
+ },
+ {
+  "id": "b35b66d45de3",
+  "title": "Neue Möglichkeiten fürs Offensivspiel: Bernhardsson wechselt nach Wolfsburg",
+  "player": "Neue Möglichkeiten",
+  "title_ko": "공격적인 플레이를 위한 새로운 기회: 베른하르트손이 볼프스부르크로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neue-moeglichkeiten-fuers-offensivspiel-bernhardsson-wechselt-nach-wolfsburg-1244445/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:54:49+00:00"
+ },
+ {
   "id": "30fc2ed3e361",
   "title": "Ausgerechnet Real ausgestochen: Rodris Wechsel zu Barcelona perfekt",
   "player": "Rodris Wechsel",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-16T21:24:43+00:00"
- },
- {
-  "id": "415c248431fc",
-  "title": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
-  "player": "Etihad Stadium",
-  "title_ko": "로드리는 맨체스터 시티가 £65.4m의 입찰을 받아들인 후 바르셀로나 이적을 완료할 예정입니다.",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
-  "fee": "£65.4M",
-  "published": "2026-08-16T20:46:01+00:00"
- },
- {
-  "id": "8c21428cbe8f",
-  "title": "Le gros coup mercato de l'été: \"Feu vert\" et signature imminente de Rodri au Barça",
-  "player": "Fabrizio Romano",
-  "title_ko": "여름의 큰 이적 시장: \"그린 라이트\"와 Barça의 로드리 영입 임박",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/le-gros-coup-mercato-de-l-ete-feu-vert-et-signature-imminente-de-rodri-au-barca_AV-202608160267.html",
-  "fee": null,
-  "published": "2026-08-16T20:42:12+00:00"
  }
 ]
