@@ -1,5 +1,18 @@
 [
  {
+  "id": "5382d2cdd085",
+  "title": "Barcola, Bouaddi, Gouiri, Fernandez-Pardo... ces 10 dossiers chauds à suivre d’ici la fin du mercato estival",
+  "player": null,
+  "title_ko": "바르콜라, 부아디, 구이리, 페르난데스-파르도... 지금부터 여름 이적 기간이 끝날 때까지 따라야 할 10가지 핫 이슈",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/barcola-bouaddi-gouiri-fernandez-pardo-ces-10-dossiers-chauds-a-suivre-d-ici-la-fin-du-mercato-estival_AV-202608180291.html",
+  "fee": null,
+  "published": "2026-08-18T10:43:29+00:00"
+ },
+ {
   "id": "330fa9aa9965",
   "title": "Man Utd are sleepwalking into Bruno Fernandes transfer issue - the harsh truth is clear",
   "player": "Bruno Fernandes",
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-bruno-fernandes-transfer-37563767",
   "fee": null,
   "published": "2026-08-18T10:41:36+00:00"
+ },
+ {
+  "id": "cff647205651",
+  "title": "Middleton-Patel joins Watford on loan from Man Utd",
+  "player": "Safia Middleton-",
+  "title_ko": "미들턴-파텔은 맨유에서 임대로 왓포드에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T10:30:07+00:00"
  },
  {
   "id": "975eca118f7c",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/dritte-leihe-in-zwei-jahren-ulrich-soll-sich-beim-scp-in-der-bundesliga-beweisen-1243523/artikel#omrss",
   "fee": null,
   "published": "2026-08-16T10:17:01+00:00"
- },
- {
-  "id": "fa5bf258f6ef",
-  "title": "Wrexham's Premier League bid: Crazy or credible?",
-  "player": "Ryan Reynolds",
-  "title_ko": "Wrexham의 프리미어리그 입찰: 미쳤습니까, 아니면 믿을 만합니까?",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13572631/wrexhams-premier-league-bid-how-ready-are-the-hollywood-owned-club-from-wales-for-a-championship-promotion-race",
-  "fee": null,
-  "published": "2026-08-16T10:00:00+00:00"
- },
- {
-  "id": "dbf58278fee6",
-  "title": "Newcastle agree deal to sign Dedic from Benfica",
-  "player": "Amar Dedic",
-  "title_ko": "뉴캐슬, 벤피카의 데딕 영입에 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-  "fee": null,
-  "published": "2026-08-16T09:48:00+00:00"
  }
 ]

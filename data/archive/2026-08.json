@@ -1,5 +1,18 @@
 [
  {
+  "id": "5382d2cdd085",
+  "title": "Barcola, Bouaddi, Gouiri, Fernandez-Pardo... ces 10 dossiers chauds à suivre d’ici la fin du mercato estival",
+  "player": null,
+  "title_ko": "바르콜라, 부아디, 구이리, 페르난데스-파르도... 지금부터 여름 이적 기간이 끝날 때까지 따라야 할 10가지 핫 이슈",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/barcola-bouaddi-gouiri-fernandez-pardo-ces-10-dossiers-chauds-a-suivre-d-ici-la-fin-du-mercato-estival_AV-202608180291.html",
+  "fee": null,
+  "published": "2026-08-18T10:43:29+00:00"
+ },
+ {
   "id": "330fa9aa9965",
   "title": "Man Utd are sleepwalking into Bruno Fernandes transfer issue - the harsh truth is clear",
   "player": "Bruno Fernandes",
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-bruno-fernandes-transfer-37563767",
   "fee": null,
   "published": "2026-08-18T10:41:36+00:00"
+ },
+ {
+  "id": "cff647205651",
+  "title": "Middleton-Patel joins Watford on loan from Man Utd",
+  "player": "Safia Middleton-",
+  "title_ko": "미들턴-파텔은 맨유에서 임대로 왓포드에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T10:30:07+00:00"
  },
  {
   "id": "975eca118f7c",
