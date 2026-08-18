@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c388f3006d0",
+  "title": "Arsenal news: Viktor Gyokores transfer offer as Premier League clubs eye Gunners star",
+  "player": "Viktor Gyokores",
+  "title_ko": "아스날 뉴스: 프리미어 리그 클럽이 거너스 스타를 주목하고 있는 빅토르 교코레스의 이적 제안",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-transfer-nwaneri-37560795",
+  "fee": null,
+  "published": "2026-08-18T03:00:00+00:00"
+ },
+ {
   "id": "8d907c087885",
   "title": "Mercato: accord entre Malick Fofana et la Roma, vers un gros chèque pour l'OL?",
   "player": "Malick Fofana",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-refuse-une-troisieme-du-barca-offre-pour-rodri_AV-202608150219.html",
   "fee": null,
   "published": "2026-08-15T15:23:59+00:00"
- },
- {
-  "id": "ae9fa23fe086",
-  "title": "INFO RMC Sport: accord total pour le transfert de Methalie en Premier League",
-  "player": "Dayann Methalie",
-  "title_ko": "INFO RMC Sport: Methalie의 프리미어 리그 이적에 대한 완전한 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-accord-total-pour-le-transfert-de-methalie-en-premier-league_AV-202608150217.html",
-  "fee": null,
-  "published": "2026-08-15T15:01:00+00:00"
  }
 ]
