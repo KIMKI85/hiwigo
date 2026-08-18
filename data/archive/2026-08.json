@@ -1,5 +1,18 @@
 [
  {
+  "id": "b754d7dbe5a3",
+  "title": "Newcastle sign Dedic from Benfica",
+  "player": "Amar Dedic",
+  "title_ko": "뉴캐슬, 벤피카에서 데디 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica",
+  "fee": null,
+  "published": "2026-08-18T09:00:00+00:00"
+ },
+ {
   "id": "8185a53fe0fd",
   "title": "Newcastle complete £30m move for Benfica's Dedic",
   "player": "Benfica's Dedic",

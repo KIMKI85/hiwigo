@@ -1,5 +1,18 @@
 [
  {
+  "id": "b754d7dbe5a3",
+  "title": "Newcastle sign Dedic from Benfica",
+  "player": "Amar Dedic",
+  "title_ko": "뉴캐슬, 벤피카에서 데디 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica",
+  "fee": null,
+  "published": "2026-08-18T09:00:00+00:00"
+ },
+ {
   "id": "8185a53fe0fd",
   "title": "Newcastle complete £30m move for Benfica's Dedic",
   "player": "Benfica's Dedic",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-ni-un-caprice-ni-un-manque-de-respect-la-mise-au-point-d-aguerd-sur-l-echec-de-son-pret-en-espagne_AN-202608150253.html",
   "fee": null,
   "published": "2026-08-15T17:36:43+00:00"
- },
- {
-  "id": "c1f5b428613f",
-  "title": "Sunderland agree £25.6m fee for defender Methalie",
-  "player": "Dayann Methalie",
-  "title_ko": "선더랜드는 수비수 메탈리의 이적료 £25.6m에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c934488gjyzo?at_medium=RSS&at_campaign=rss",
-  "fee": "£25.6M",
-  "published": "2026-08-15T17:20:54+00:00"
  }
 ]
