@@ -1,5 +1,18 @@
 [
  {
+  "id": "63635aa61bd2",
+  "title": "Arsenal chief makes transfer window vow as Mikel Arteta shortlist revealed",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 후보 명단이 공개되자 아스날의 수석이 이적 시장을 약속했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-mikel-arteta-garlick-37566732",
+  "fee": null,
+  "published": "2026-08-18T21:31:37+00:00"
+ },
+ {
   "id": "f5788bd3e504",
   "title": "Brighton sign Canada striker David on loan",
   "player": "Promise David",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-signings-carrick-liverpool-37559074",
   "fee": null,
   "published": "2026-08-17T08:46:24+00:00"
- },
- {
-  "id": "1b99bfd09837",
-  "title": "Badiashile: Chelsea defender set for Napoli medical",
-  "player": "Benoit Badiashile",
-  "title_ko": "바디아실레: 첼시 수비수, 나폴리 메디컬로 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/badiashile-chelsea-defender-napoli-medical/",
-  "fee": null,
-  "published": "2026-08-17T08:14:02+00:00"
  }
 ]
