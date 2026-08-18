@@ -1,5 +1,18 @@
 [
  {
+  "id": "da91b45b87b4",
+  "title": "Guibelalde seguirá carrera en Suiza y el Athletic se reserva un porcentaje de un futuro traspaso del jugador",
+  "player": null,
+  "title_ko": "Guibelalde는 스위스에서 그의 경력을 계속할 것이며 Athletic은 향후 선수 이적의 일부를 보유합니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/athletic/2026/08/18/guibelalde-seguira-carrera-suiza-athletic-reserva-porcentaje-futuro-traspaso-jugador.html",
+  "fee": null,
+  "published": "2026-08-18T09:18:17+00:00"
+ },
+ {
   "id": "2bf438bf532d",
   "title": "Video: Fresh Italy debutant Favasuli arrives for Napoli medical",
   "player": "Fresh Italy",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
   "fee": "£22M",
   "published": "2026-08-15T20:19:40+00:00"
- },
- {
-  "id": "bceb59024fb1",
-  "title": "Mariano es el ‘fichaje’",
-  "player": null,
-  "title_ko": "마리아노는 '서명'이다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/alaves/2026/08/15/mariano-fichaje.html",
-  "fee": null,
-  "published": "2026-08-15T19:45:28+00:00"
  }
 ]
