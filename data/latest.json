@@ -1,5 +1,18 @@
 [
  {
+  "id": "79d9f843825c",
+  "title": "Vicario on Juventus move: ‘A lifelong dream, waiting for this moment since I was a child’",
+  "player": "Guglielmo Vicario",
+  "title_ko": "유벤투스 이적에 비카리오 “어렸을 때부터 지금 이 순간을 기다려온 평생의 꿈”",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vicario-on-juventus-move-a-lifelong-dream/",
+  "fee": null,
+  "published": "2026-08-18T17:41:07+00:00"
+ },
+ {
   "id": "6655e72a1210",
   "title": "La Turquie ne connaît pas la crise: Fenerbahce, Trabzonspor... comment font les clubs turcs pour signer un mercato XXL?",
   "player": "Mohamed Salah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
   "fee": null,
   "published": "2026-08-16T22:30:00+00:00"
- },
- {
-  "id": "a58297d825ab",
-  "title": "Luis Enrique gives frosty three-word reply as both Liverpool targets axed from PSG squad",
-  "player": "Luis Enrique",
-  "title_ko": "루이스 엔리케는 PSG 스쿼드에서 리버풀의 두 타겟이 모두 탈락하자 냉랭한 세 단어로 답했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enrique-psg-liverpool-barcola-mbaye-37558707",
-  "fee": null,
-  "published": "2026-08-16T22:03:55+00:00"
  }
 ]
