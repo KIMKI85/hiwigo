@@ -1,5 +1,18 @@
 [
  {
+  "id": "6655e72a1210",
+  "title": "La Turquie ne connaît pas la crise: Fenerbahce, Trabzonspor... comment font les clubs turcs pour signer un mercato XXL?",
+  "player": "Mohamed Salah",
+  "title_ko": "터키는 위기를 겪고 있지 않습니다: 페네르바체, 트라브존스포르... 터키 클럽은 어떻게 XXL 이적 기간에 서명합니까?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/la-turquie-ne-connait-pas-la-crise-fenerbahce-trabzonspor-comment-font-les-clubs-turcs-pour-signer-un-mercato-xxl_AV-202608180512.html",
+  "fee": null,
+  "published": "2026-08-18T17:17:49+00:00"
+ },
+ {
   "id": "9fd7d5da0eaa",
   "title": "Lazio transfer news: Southampton eye Ratkov as Fiorentina could enter Icardi race",
   "player": "Petar Ratkov",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/enrique-psg-liverpool-barcola-mbaye-37558707",
   "fee": null,
   "published": "2026-08-16T22:03:55+00:00"
- },
- {
-  "id": "2c844739801a",
-  "title": "Martinez Juventus move now off - Monday's gossip",
-  "player": "Emiliano Martinez",
-  "title_ko": "마르티네즈 유벤투스가 이제 이적합니다 - 월요일의 가십",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-16T21:24:43+00:00"
  }
 ]
