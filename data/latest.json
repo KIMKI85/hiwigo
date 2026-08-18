@@ -1,5 +1,18 @@
 [
  {
+  "id": "7e94f5df0c22",
+  "title": "Man Utd news: Bruno Fernandes bid incoming as Marcus Rashford to Barcelona still on",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유 뉴스: 브루노 페르난데스가 마커스 래쉬포드로 바르셀로나로 이적 제안을 제안했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rashford-fernandes-transfers-37561802",
+  "fee": null,
+  "published": "2026-08-18T03:30:00+00:00"
+ },
+ {
   "id": "5c388f3006d0",
   "title": "Arsenal news: Viktor Gyokores transfer offer as Premier League clubs eye Gunners star",
   "player": "Viktor Gyokores",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-15T16:18:51+00:00"
- },
- {
-  "id": "950198d640d0",
-  "title": "Mercato: Manchester City refuse une troisième du Barça offre pour Rodri",
-  "player": "Les Skyblues",
-  "title_ko": "메르카토: 맨체스터 시티는 로드리에 대한 바르셀로나의 세 번째 제안을 거부했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-refuse-une-troisieme-du-barca-offre-pour-rodri_AV-202608150219.html",
-  "fee": null,
-  "published": "2026-08-15T15:23:59+00:00"
  }
 ]
