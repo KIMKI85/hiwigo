@@ -1,5 +1,18 @@
 [
  {
+  "id": "f5788bd3e504",
+  "title": "Brighton sign Canada striker David on loan",
+  "player": "Promise David",
+  "title_ko": "브라이튼은 캐나다의 스트라이커 데이비드를 임대로 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T20:43:01+00:00"
+ },
+ {
   "id": "a172459fab16",
   "title": "Mercato: Nice s'offre l'expérimenté Witsel pour \"que le club revienne là où il doit être\"",
   "player": "Axel Witsel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-lucumi-joins-juventus-price-tag/",
   "fee": null,
   "published": "2026-08-17T07:52:27+00:00"
- },
- {
-  "id": "3735d5b8bbad",
-  "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
-  "player": "Alexis Mac Allister",
-  "title_ko": "축구 이적 루머: 맨체스터 시티가 알렉시스 맥 알리스터를 영입할 것인가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
-  "fee": null,
-  "published": "2026-08-17T07:42:16+00:00"
  }
 ]
