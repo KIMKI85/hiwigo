@@ -1,5 +1,31 @@
 [
  {
+  "id": "c44be027e143",
+  "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
+  "player": "Guglielmo Vicario",
+  "title_ko": "유벤투스는 마르티네즈의 이적을 반대한 후 토트넘에서 비카리오를 임대로 영입했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
+  "fee": null,
+  "published": "2026-08-18T15:22:00+00:00"
+ },
+ {
+  "id": "b3c8f461326c",
+  "title": "Kane set to begin talks over new Bayern contract",
+  "player": "Harry Kane",
+  "title_ko": "케인, 바이에른 재계약 논의 시작",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T14:28:36+00:00"
+ },
+ {
   "id": "99d030524713",
   "title": "Official: Juventus sign Vicario from Tottenham on loan with €8m buy option",
   "player": "Guglielmo Vicario",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/victor-osimhen-arsenal-galatasaray-transfer-37557656",
   "fee": null,
   "published": "2026-08-16T13:10:27+00:00"
- },
- {
-  "id": "d41490577e17",
-  "title": "Elvedi set for Leeds move as £8.5m fee agreed",
-  "player": "Nico Elvedi",
-  "title_ko": "Elvedi는 £8.5m의 이적료에 동의하면서 리즈 이적을 결정했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo?at_medium=RSS&at_campaign=rss",
-  "fee": "£8.5M",
-  "published": "2026-08-16T12:52:42+00:00"
- },
- {
-  "id": "970ec82d8513",
-  "title": "Mercato: Joao Cancelo de plus en plus proche d'un retour au Barça",
-  "player": "Joao Cancelo",
-  "title_ko": "Mercato: Joao Cancelo의 바르샤 복귀가 점점 더 가까워지고 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-joao-cancelo-de-plus-en-plus-proche-d-un-retour-au-barca_AV-202608160171.html",
-  "fee": null,
-  "published": "2026-08-16T12:20:51+00:00"
  }
 ]

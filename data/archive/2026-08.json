@@ -1,5 +1,31 @@
 [
  {
+  "id": "c44be027e143",
+  "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
+  "player": "Guglielmo Vicario",
+  "title_ko": "유벤투스는 마르티네즈의 이적을 반대한 후 토트넘에서 비카리오를 임대로 영입했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
+  "fee": null,
+  "published": "2026-08-18T15:22:00+00:00"
+ },
+ {
+  "id": "b3c8f461326c",
+  "title": "Kane set to begin talks over new Bayern contract",
+  "player": "Harry Kane",
+  "title_ko": "케인, 바이에른 재계약 논의 시작",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-18T14:28:36+00:00"
+ },
+ {
   "id": "99d030524713",
   "title": "Official: Juventus sign Vicario from Tottenham on loan with €8m buy option",
   "player": "Guglielmo Vicario",
