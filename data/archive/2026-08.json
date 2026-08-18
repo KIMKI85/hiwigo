@@ -1,5 +1,31 @@
 [
  {
+  "id": "30fc2ed3e361",
+  "title": "Ausgerechnet Real ausgestochen: Rodris Wechsel zu Barcelona perfekt",
+  "player": "Rodris Wechsel",
+  "title_ko": "정말로 패배했다: 로드리의 바르셀로나 이적은 완벽했다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ausgerechnet-real-ausgestochen-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:50:52+00:00"
+ },
+ {
+  "id": "2fbbb5378234",
+  "title": "Mercato: Methalie rentre à Toulouse, son transfert à Sunderland en danger",
+  "player": "Dayann Methalie",
+  "title_ko": "메르카토: 메탈리가 툴루즈로 돌아오면서 선더랜드로의 이적이 위험에 처해 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-methalie-rentre-a-toulouse-son-transfert-a-sunderland-en-danger_AV-202608180480.html",
+  "fee": null,
+  "published": "2026-08-18T16:45:31+00:00"
+ },
+ {
   "id": "77b7e53e1e59",
   "title": "Man Utd miss out on £13m transfer windfall as Red Devils left stung by flop Antony AGAIN",
   "player": "Red Devils",
@@ -193,6 +219,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-construire-une-equipe-autour-de-lui-simeone-claque-de-nouveau-la-porte-a-un-depart-d-alvarez-cet-ete_AV-202608180329.html",
   "fee": null,
   "published": "2026-08-18T12:07:18+00:00"
+ },
+ {
+  "id": "5ada53510972",
+  "title": "Rodri completes £65.4m Barcelona move",
+  "player": null,
+  "title_ko": "로드리, £65.4m의 바르셀로나 이적 완료",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
+  "fee": "£65.4M",
+  "published": "2026-08-18T12:00:00+00:00"
  },
  {
   "id": "d99bba0b314c",

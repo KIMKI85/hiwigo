@@ -1,5 +1,31 @@
 [
  {
+  "id": "30fc2ed3e361",
+  "title": "Ausgerechnet Real ausgestochen: Rodris Wechsel zu Barcelona perfekt",
+  "player": "Rodris Wechsel",
+  "title_ko": "정말로 패배했다: 로드리의 바르셀로나 이적은 완벽했다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ausgerechnet-real-ausgestochen-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:50:52+00:00"
+ },
+ {
+  "id": "2fbbb5378234",
+  "title": "Mercato: Methalie rentre à Toulouse, son transfert à Sunderland en danger",
+  "player": "Dayann Methalie",
+  "title_ko": "메르카토: 메탈리가 툴루즈로 돌아오면서 선더랜드로의 이적이 위험에 처해 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-methalie-rentre-a-toulouse-son-transfert-a-sunderland-en-danger_AV-202608180480.html",
+  "fee": null,
+  "published": "2026-08-18T16:45:31+00:00"
+ },
+ {
   "id": "77b7e53e1e59",
   "title": "Man Utd miss out on £13m transfer windfall as Red Devils left stung by flop Antony AGAIN",
   "player": "Red Devils",
@@ -193,6 +219,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-construire-une-equipe-autour-de-lui-simeone-claque-de-nouveau-la-porte-a-un-depart-d-alvarez-cet-ete_AV-202608180329.html",
   "fee": null,
   "published": "2026-08-18T12:07:18+00:00"
+ },
+ {
+  "id": "5ada53510972",
+  "title": "Rodri completes £65.4m Barcelona move",
+  "player": null,
+  "title_ko": "로드리, £65.4m의 바르셀로나 이적 완료",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
+  "fee": "£65.4M",
+  "published": "2026-08-18T12:00:00+00:00"
  },
  {
   "id": "d99bba0b314c",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
   "fee": "£65M",
   "published": "2026-08-16T19:37:45+00:00"
- },
- {
-  "id": "f2d6cd75e9bf",
-  "title": "Man Utd ready to change tack in transfer market to match Chelsea and Man City",
-  "player": "Old Trafford",
-  "title_ko": "맨유는 첼시와 맨시티에 맞춰 이적시장 방향을 바꿀 준비가 되어 있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-chelsea-city-transfers-37558213",
-  "fee": null,
-  "published": "2026-08-16T17:51:19+00:00"
- },
- {
-  "id": "d7477128c168",
-  "title": "Roma optimism grows over move for Porto talent Rodrigo Mora",
-  "player": "Rodrigo Mora",
-  "title_ko": "포르투의 유망주 로드리고 모라에 대한 로마의 낙관론이 커지고 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-optimism-grows-over-move-for-rodrigo-mora/",
-  "fee": null,
-  "published": "2026-08-16T17:42:00+00:00"
- },
- {
-  "id": "6b8c29aa12a2",
-  "title": "Jamie Carragher tells Man City to call off transfer immediately after Arsenal drubbing",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거, 아스날의 패배 직후 맨시티에게 이적을 취소하라고 지시",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-rodri-barcelona-37558321",
-  "fee": null,
-  "published": "2026-08-16T17:25:29+00:00"
  }
 ]
