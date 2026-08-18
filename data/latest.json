@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a0982c993aa",
+  "title": "Arsenal could offer Brighton five players to beat Man Utd to statement signing",
+  "player": null,
+  "title_ko": "아스널은 성명서 서명을 위해 브라이튼에게 맨유를 이길 5명의 선수를 제안할 수도 있다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-hinshelwood-man-utd-37558968",
+  "fee": null,
+  "published": "2026-08-18T05:30:00+00:00"
+ },
+ {
   "id": "5ad79fe27fcd",
   "title": "Liverpool news: Bradley Barcola transfer moves one step closer as reason for U-turn emerges",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-veut-pres-de-70-millions-d-euros-pour-nicolas-jackson-trois-clubs-a-l-affut_AV-202608150248.html",
   "fee": null,
   "published": "2026-08-15T16:42:00+00:00"
- },
- {
-  "id": "faa037f6c7ee",
-  "title": "Official: Spence signs for Inter in €35m including bonus deal with Tottenham",
-  "player": "Djed Spence",
-  "title_ko": "공식: 스펜스는 토트넘과의 보너스 계약을 포함해 €35m에 인테르와 계약했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-spence-inter-e35m-deal-with-tottenham/",
-  "fee": "€35M",
-  "published": "2026-08-15T16:36:05+00:00"
  }
 ]
