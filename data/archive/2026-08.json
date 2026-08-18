@@ -13,6 +13,19 @@
   "published": "2026-08-18T15:22:00+00:00"
  },
  {
+  "id": "242acf857fff",
+  "title": "Ferguson close to Genoa switch as Brighton accept loan proposal",
+  "player": "Evan Ferguson",
+  "title_ko": "브라이튼이 임대 제안을 수락함에 따라 퍼거슨은 제노아 전환에 가까워졌습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ferguson-close-to-genoa-switch-brighton/",
+  "fee": null,
+  "published": "2026-08-18T15:10:00+00:00"
+ },
+ {
   "id": "e04aa2468cc1",
   "title": "Barcelona star Gavi responds to Man Utd transfer interest as Red Devils eye THIRD midfielder",
   "player": "Red Devils",
@@ -50,6 +63,19 @@
   "url": "https://football-italia.net/official-juventus-sign-vicario-from-tottenham/",
   "fee": "€8M",
   "published": "2026-08-18T14:20:00+00:00"
+ },
+ {
+  "id": "0c2d810b85a7",
+  "title": "Harry Kane's stance on mega-money transfer as England captain targeted in Bayern swoop",
+  "player": "Harry Kane's",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-transfer-bayern-alhilal-37565235",
+  "fee": null,
+  "published": "2026-08-18T14:08:04+00:00"
  },
  {
   "id": "3c6d56804b10",

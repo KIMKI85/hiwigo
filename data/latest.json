@@ -13,6 +13,19 @@
   "published": "2026-08-18T15:22:00+00:00"
  },
  {
+  "id": "242acf857fff",
+  "title": "Ferguson close to Genoa switch as Brighton accept loan proposal",
+  "player": "Evan Ferguson",
+  "title_ko": "브라이튼이 임대 제안을 수락함에 따라 퍼거슨은 제노아 전환에 가까워졌습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ferguson-close-to-genoa-switch-brighton/",
+  "fee": null,
+  "published": "2026-08-18T15:10:00+00:00"
+ },
+ {
   "id": "e04aa2468cc1",
   "title": "Barcelona star Gavi responds to Man Utd transfer interest as Red Devils eye THIRD midfielder",
   "player": "Red Devils",
@@ -50,6 +63,19 @@
   "url": "https://football-italia.net/official-juventus-sign-vicario-from-tottenham/",
   "fee": "€8M",
   "published": "2026-08-18T14:20:00+00:00"
+ },
+ {
+  "id": "0c2d810b85a7",
+  "title": "Harry Kane's stance on mega-money transfer as England captain targeted in Bayern swoop",
+  "player": "Harry Kane's",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-transfer-bayern-alhilal-37565235",
+  "fee": null,
+  "published": "2026-08-18T14:08:04+00:00"
  },
  {
   "id": "3c6d56804b10",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/torino-seal-perri-deal-with-leeds-united/",
   "fee": "€15M",
   "published": "2026-08-16T13:45:44+00:00"
- },
- {
-  "id": "d8b56cd9d5ff",
-  "title": "Mikel Arteta sends clear transfer message to three Arsenal stars ahead of Community Shield",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타(Mikel Arteta)는 커뮤니티 쉴드(Community Shield)를 앞두고 아스날 스타 3명에게 명확한 이적 메시지를 보냈습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-martinelli-nwaneri-37557749",
-  "fee": null,
-  "published": "2026-08-16T13:44:56+00:00"
- },
- {
-  "id": "292a8b3f30a3",
-  "title": "Video: Lucumi arrives to complete €20m Juventus transfer",
-  "player": "Jhon Lucumi",
-  "title_ko": "비디오: 루쿠미가 도착하여 €20m의 유벤투스 이적을 완료했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-lucumi-arrives-for-juventus-transfer/",
-  "fee": "€20M",
-  "published": "2026-08-16T13:29:05+00:00"
  }
 ]
