@@ -1,5 +1,18 @@
 [
  {
+  "id": "9fd7d5da0eaa",
+  "title": "Lazio transfer news: Southampton eye Ratkov as Fiorentina could enter Icardi race",
+  "player": "Petar Ratkov",
+  "title_ko": "라치오 이적 소식: 사우샘프턴은 피오렌티나가 이카르디 레이스에 참가할 수 있는 라트코프를 주시하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-transfer-news-southampton-ratkov-icardi/",
+  "fee": null,
+  "published": "2026-08-18T17:00:00+00:00"
+ },
+ {
   "id": "30fc2ed3e361",
   "title": "Ausgerechnet Real ausgestochen: Rodris Wechsel zu Barcelona perfekt",
   "player": "Rodris Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/le-gros-coup-mercato-de-l-ete-feu-vert-et-signature-imminente-de-rodri-au-barca_AV-202608160267.html",
   "fee": null,
   "published": "2026-08-16T20:42:12+00:00"
- },
- {
-  "id": "c8862edadbee",
-  "title": "Barcelona agree £65m deal to sign Rodri from Man City",
-  "player": null,
-  "title_ko": "바르셀로나는 맨시티에서 로드리를 영입하기 위해 £65m 계약에 합의했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo?at_medium=RSS&at_campaign=rss",
-  "fee": "£65M",
-  "published": "2026-08-16T19:37:45+00:00"
  }
 ]
