@@ -1,5 +1,31 @@
 [
  {
+  "id": "77b7e53e1e59",
+  "title": "Man Utd miss out on £13m transfer windfall as Red Devils left stung by flop Antony AGAIN",
+  "player": "Red Devils",
+  "title_ko": "맨유는 1,300만 파운드의 이적 횡재를 놓쳤다. 붉은 악마가 플롭 안토니에게 또 다시 타격을 입으면서 남겨졌기 때문이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-antony-betis-37565945",
+  "fee": "£13M",
+  "published": "2026-08-18T16:37:00+00:00"
+ },
+ {
+  "id": "bcfa40f3d30e",
+  "title": "Nach gescheitertem BVB-Deal: Leipzig prüft Verpflichtung von El Mala",
+  "player": "In den Gedanken",
+  "title_ko": "BVB 거래 실패 후: 라이프치히는 엘 말라와의 계약을 고려하고 있습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/nach-gescheitertem-bvb-deal-leipzig-prueft-verpflichtung-von-el-mala-1244439/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T16:34:54+00:00"
+ },
+ {
   "id": "4581fd78086a",
   "title": "El Valencia consigue la cesión del portero Van Oevelen",
   "player": "Van Oevelen",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-rodri-barcelona-37558321",
   "fee": null,
   "published": "2026-08-16T17:25:29+00:00"
- },
- {
-  "id": "c770e427e948",
-  "title": "Floriani Mussolini a Cagliari target as Lazio future stays uncertain",
-  "player": "Floriani Mussolini",
-  "title_ko": "라치오의 미래가 불확실해지면서 칼리아리의 플로리아니 무솔리니가 타겟이 되었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/floriani-mussolini-a-cagliari-target-lazio/",
-  "fee": null,
-  "published": "2026-08-16T17:20:00+00:00"
- },
- {
-  "id": "388a08874d3b",
-  "title": "Liverpool vs Como – Official Lineups as Inter target Jones misses out",
-  "player": "Curtis Jones",
-  "title_ko": "리버풀 대 코모 – 인테르의 타겟 존스가 놓친 공식 라인업",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/liverpool-vs-como-official-lineups-jones-out/",
-  "fee": null,
-  "published": "2026-08-16T16:29:23+00:00"
  }
 ]
