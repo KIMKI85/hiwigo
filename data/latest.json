@@ -1,5 +1,18 @@
 [
  {
+  "id": "fd7e2aff171f",
+  "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
+  "player": "It's September",
+  "title_ko": "브렌트포드의 상가레를 조심하세요 - 그는 시즌 계약을 맺을 수도 있습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
+  "fee": null,
+  "published": "2026-08-18T08:00:00+00:00"
+ },
+ {
   "id": "4a0982c993aa",
   "title": "Arsenal could offer Brighton five players to beat Man Utd to statement signing",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/klopp-dementiert-wechsel-rat-an-el-mala-hat-mich-ein-bisschen-beleidigt-dass-1243328/artikel#omrss",
   "fee": null,
   "published": "2026-08-15T16:49:58+00:00"
- },
- {
-  "id": "5a89d48321b8",
-  "title": "Mercato: Chelsea veut près de 70 millions d'euros pour Nicolas Jackson, trois clubs à l’affût",
-  "player": "Nicolas Jackson",
-  "title_ko": "메르카토: 첼시는 니콜라스 잭슨에게 거의 7000만 유로를 원하며 세 클럽이 경계하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-veut-pres-de-70-millions-d-euros-pour-nicolas-jackson-trois-clubs-a-l-affut_AV-202608150248.html",
-  "fee": null,
-  "published": "2026-08-15T16:42:00+00:00"
  }
 ]
