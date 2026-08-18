@@ -1,5 +1,18 @@
 [
  {
+  "id": "99d030524713",
+  "title": "Official: Juventus sign Vicario from Tottenham on loan with €8m buy option",
+  "player": "Guglielmo Vicario",
+  "title_ko": "공식: 유벤투스는 토트넘의 비카리오를 800만 유로의 구매 옵션으로 임대 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-juventus-sign-vicario-from-tottenham/",
+  "fee": "€8M",
+  "published": "2026-08-18T14:20:00+00:00"
+ },
+ {
   "id": "3c6d56804b10",
   "title": "Chelsea change name of under-21s side in controversial move to rebrand academy",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-joao-cancelo-de-plus-en-plus-proche-d-un-retour-au-barca_AV-202608160171.html",
   "fee": null,
   "published": "2026-08-16T12:20:51+00:00"
- },
- {
-  "id": "e76e36b2401b",
-  "title": "Villa agree deal to sign goalkeeper Suzuki as Juve make Martinez bid",
-  "player": "Zion Suzuki",
-  "title_ko": "빌라는 유베가 마르티네즈를 입찰하게 만드는 가운데 골키퍼 스즈키 영입에 합의했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13573666/aston-villa-transfer-news-zion-suzuki-lined-up-as-juventus-linked-emiliano-martinez-replacement-after-29-9m-deal-agreed-with-parma",
-  "fee": null,
-  "published": "2026-08-16T12:02:00+00:00"
  }
 ]
