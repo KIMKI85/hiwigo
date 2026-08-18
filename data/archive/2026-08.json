@@ -1,5 +1,44 @@
 [
  {
+  "id": "2bf438bf532d",
+  "title": "Video: Fresh Italy debutant Favasuli arrives for Napoli medical",
+  "player": "Fresh Italy",
+  "title_ko": "비디오: 신선한 이탈리아 데뷔작인 Favasuli가 나폴리 메디컬을 위해 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/italy-debutant-favasuli-arrives-napoli-medical/",
+  "fee": null,
+  "published": "2026-08-18T09:13:57+00:00"
+ },
+ {
+  "id": "d07b5d30bfb4",
+  "title": "Mercato: retournement de situation, les Corinthians prolongent finalement Memphis Depay",
+  "player": "Memphis Depay",
+  "title_ko": "Mercato: 전환, Corinthians가 마침내 Memphis Depay를 연장했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-retournement-de-situation-les-corinthians-prolongent-finalement-memphis-depay_AV-202608180242.html",
+  "fee": null,
+  "published": "2026-08-18T09:08:40+00:00"
+ },
+ {
+  "id": "30b7ed8260c5",
+  "title": "Transfer-Doppelpack perfekt: BVB verpflichtet auch Veerman",
+  "player": "Joey Veerman",
+  "title_ko": "이적 더블 팩 완벽함: BVB도 Veerman과 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transfer-doppelpack-perfekt-bvb-verpflichtet-auch-veerman-1243647/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-18T09:04:47+00:00"
+ },
+ {
   "id": "b754d7dbe5a3",
   "title": "Newcastle sign Dedic from Benfica",
   "player": "Amar Dedic",
