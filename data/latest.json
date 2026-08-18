@@ -13,6 +13,19 @@
   "published": "2026-08-18T15:22:00+00:00"
  },
  {
+  "id": "e04aa2468cc1",
+  "title": "Barcelona star Gavi responds to Man Utd transfer interest as Red Devils eye THIRD midfielder",
+  "player": "Red Devils",
+  "title_ko": "바르셀로나 스타 가비는 맨유 이적 관심에 붉은 악마의 제3의 미드필더로 반응",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-gavi-barcelona-37565466",
+  "fee": null,
+  "published": "2026-08-18T14:53:42+00:00"
+ },
+ {
   "id": "b3c8f461326c",
   "title": "Kane set to begin talks over new Bayern contract",
   "player": "Harry Kane",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-lucumi-arrives-for-juventus-transfer/",
   "fee": "€20M",
   "published": "2026-08-16T13:29:05+00:00"
- },
- {
-  "id": "35f698bd3e5e",
-  "title": "Victor Osimhen to Arsenal decision made by Galatasaray after 'private internal transfer talks'",
-  "player": "Victor Osimhen",
-  "title_ko": "빅터 오시멘은 '비공개 내부 이적 협상' 이후 갈라타사라이가 내린 아스날 결정",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/victor-osimhen-arsenal-galatasaray-transfer-37557656",
-  "fee": null,
-  "published": "2026-08-16T13:10:27+00:00"
  }
 ]
