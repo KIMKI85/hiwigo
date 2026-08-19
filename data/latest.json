@@ -1,5 +1,31 @@
 [
  {
+  "id": "6fd9236c475f",
+  "title": "Atubolu kann sich Wechsel nach Frankfurt gut vorstellen - Kaua Santos spielt im Pokal",
+  "player": "Kaua Santos",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/atubolu-kann-sich-wechsel-nach-frankfurt-gut-vorstellen-kaua-santos-spielt-im-pokal-1245002/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-19T15:17:13+00:00"
+ },
+ {
+  "id": "77a3df79a9af",
+  "title": "Free agent Dieng set for intensive Lazio medical on August 20",
+  "player": "Bamba Dieng",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/free-agent-dieng-set-intensive-lazio-medical/",
+  "fee": null,
+  "published": "2026-08-19T15:16:15+00:00"
+ },
+ {
   "id": "9d2e032196cb",
   "title": "Inter Milan close to agreeing deal to sign Curtis Jones from Liverpool as talks revived",
   "player": "Curtis Jones",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona",
   "fee": null,
   "published": "2026-08-18T08:35:44+00:00"
- },
- {
-  "id": "8185a53fe0fd",
-  "title": "Newcastle complete £30m move for Benfica's Dedic",
-  "player": "Benfica's Dedic",
-  "title_ko": "뉴캐슬은 벤피카의 데딕을 £30m 이적시켰습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-08-18T08:00:14+00:00"
- },
- {
-  "id": "fd7e2aff171f",
-  "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
-  "player": "It's September",
-  "title_ko": "브렌트포드의 상가레를 조심하세요 - 그는 시즌 계약을 맺을 수도 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
-  "fee": null,
-  "published": "2026-08-18T08:00:00+00:00"
  }
 ]
