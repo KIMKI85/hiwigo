@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c611945efb1",
+  "title": "Jose Mourinho reveals Vinicius Jr intervention that wrecked Arsenal transfer plan",
+  "player": "Jose Mourinho",
+  "title_ko": "조세 무리뉴는 아스날 이적 계획을 망친 비니시우스 주니어의 개입을 폭로했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-junior-arsenal-jose-mourinho-37568848",
+  "fee": null,
+  "published": "2026-08-19T11:52:15+00:00"
+ },
+ {
   "id": "541efee46574",
   "title": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/inter-berenbruch-avellino-counter-option/",
   "fee": null,
   "published": "2026-08-17T18:27:11+00:00"
- },
- {
-  "id": "69f66240b315",
-  "title": "Hertha-Abschied fix: Winkler wechselt zu Anderlecht",
-  "player": "Marten Winkler",
-  "title_ko": "헤르타 이별 수정: 윙클러가 안더레흐트로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/hertha-abschied-fix-winkler-wechselt-zu-anderlecht-1243726/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-17T18:11:55+00:00"
  }
 ]
