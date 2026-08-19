@@ -1,5 +1,18 @@
 [
  {
+  "id": "4523c5659f2f",
+  "title": "Report Ricci ready for Como on loan with option to buy from Milan",
+  "player": "Samuele Ricci",
+  "title_ko": "리치가 밀란에서 구매할 수 있는 옵션과 함께 임대로 코모로 이적할 준비가 되었다고 보고하세요.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-ricci-ready-for-como-loan-option-milan/",
+  "fee": null,
+  "published": "2026-08-19T18:56:25+00:00"
+ },
+ {
   "id": "dbebbf85a7d1",
   "title": "Mercato: Arsenal crée la polémique en ouvrant la porte à un départ de ses jeunes formés au club",
   "player": "Richard Garlick",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-diego-moreira-arrives-for-milan-medical/",
   "fee": null,
   "published": "2026-08-18T10:29:32+00:00"
- },
- {
-  "id": "6994f3fdda54",
-  "title": "Rodri, Sidibé, Fernandes... les 5 infos mercato du 18 août à midi",
-  "player": null,
-  "title_ko": "로드리, 시디베, 페르난데스... 8월 18일 정오 5개의 메르카토 뉴스",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-rodri-sidibe-fernandes-les-5-infos-mercato-du-18-aout-a-midi_VN-202608180285.html",
-  "fee": null,
-  "published": "2026-08-18T10:23:32+00:00"
  }
 ]
