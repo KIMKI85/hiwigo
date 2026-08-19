@@ -1,5 +1,18 @@
 [
  {
+  "id": "3fb9e1156b1b",
+  "title": "Rodri fires dig at Arsenal in emotional Man City farewell as Barcelona move confirmed",
+  "player": null,
+  "title_ko": "로드리는 바르셀로나 이적이 확정되자 맨시티와의 감정적인 작별 인사로 아스날을 향해 총격을 가했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-arsenal-manchester-city-barcelona-37567065",
+  "fee": null,
+  "published": "2026-08-19T05:57:04+00:00"
+ },
+ {
   "id": "c24665b5beed",
   "title": "Andoni Iraola's dream Curtis Jones replacement as Liverpool sign £78m star everyone wants",
   "player": "Andoni Iraola's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/rugby-league/news/12040/13573970/hull-kr-28-34-warrington-wolves-george-williams-stars-as-sam-burgess-side-move-two-points-off-super-league-top-spot",
   "fee": null,
   "published": "2026-08-17T10:21:00+00:00"
- },
- {
-  "id": "57c8d6103f63",
-  "title": "Mercato: manque d’enthousiasme, projet sportif moins solide… Pourquoi Rodri n’a finalement pas signé au Real et a choisi le Barça",
-  "player": "Pourquoi Rodri",
-  "title_ko": "메르카토: 열정 부족, 덜 탄탄한 스포츠 프로젝트… 로드리가 결국 레알에 합류하지 않고 바르샤를 선택한 이유",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manque-d-enthousiasme-projet-sportif-moins-solide-pourquoi-rodri-n-a-finalement-pas-signe-au-real-et-a-choisi-le-barca_AV-202608170268.html",
-  "fee": null,
-  "published": "2026-08-17T09:45:27+00:00"
  }
 ]
