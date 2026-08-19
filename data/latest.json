@@ -39,6 +39,19 @@
   "published": "2026-08-19T10:02:00+00:00"
  },
  {
+  "id": "a7cb1d8a08af",
+  "title": "Man Utd close on deal for Brighton's Baleba",
+  "player": "Brighton's Baleba",
+  "title_ko": "맨유가 브라이튼의 발레바 영입을 마무리했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c2k7ev41nnvo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-19T09:50:55+00:00"
+ },
+ {
   "id": "4a259d2ba9da",
   "title": "Nedeljkovic joins Rangers from Aston Villa",
   "player": "Kosta Nedeljkovic",
@@ -50,6 +63,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2mz3j402zo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-19T09:25:38+00:00"
+ },
+ {
+  "id": "4adc2d93a3cf",
+  "title": "Official: Napoli sign Favasuli in €7.5m deal from Catanzaro",
+  "player": "Costantino Favasuli",
+  "title_ko": "공식: 나폴리는 카탄자로로부터 750만 유로의 계약으로 파바술리를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-napoli-sign-favasuli-from-catanzaro/",
+  "fee": "€7.5M",
+  "published": "2026-08-19T09:25:14+00:00"
  },
  {
   "id": "ce24615a1da1",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-curtis-jones-37561243",
   "fee": null,
   "published": "2026-08-17T15:01:04+00:00"
- },
- {
-  "id": "da0e8064d943",
-  "title": "Ipswich sign midfielder Ouattara from Strasbourg",
-  "player": "Abdoul Ouattara",
-  "title_ko": "스트라스부르 출신 입스위치의 미드필더 와타라(Ouattara)",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-17T14:51:19+00:00"
- },
- {
-  "id": "60ecf6d3aa43",
-  "title": "Khalaili agent explains why ‘first choice’ Inter couldn’t complete deal: ‘We laughed’",
-  "player": "Anan Khalaili",
-  "title_ko": "칼라일리 에이전트, '1순위' 인테르가 거래를 성사시키지 못한 이유: '우리는 웃었다'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/khalaili-agent-inter-first-choice-we-laughed/",
-  "fee": null,
-  "published": "2026-08-17T14:46:01+00:00"
  }
 ]
