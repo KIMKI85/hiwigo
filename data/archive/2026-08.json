@@ -1,5 +1,31 @@
 [
  {
+  "id": "ce24615a1da1",
+  "title": "Pogba leaves Monaco after contract termination",
+  "player": "Former France",
+  "title_ko": "포그바, 계약 종료 후 모나코 떠난다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-19T09:12:22+00:00"
+ },
+ {
+  "id": "7fbb84a2ab6b",
+  "title": "Man Utd 'closing in' on Carlos Baleba deal as Michael Carrick finally gets demand granted",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유는 마이클 캐릭이 마침내 요구를 받아들인 가운데 카를로스 발레바 계약을 '마지막'으로 잡았다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-transfer-37567768",
+  "fee": null,
+  "published": "2026-08-19T09:04:05+00:00"
+ },
+ {
   "id": "b2151cca3fc4",
   "title": "Mercato: après l’imbroglio sur son transfert au PSG, Suzuki débarque en Premier League",
   "player": "Zion Suzuki",

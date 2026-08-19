@@ -1,5 +1,31 @@
 [
  {
+  "id": "ce24615a1da1",
+  "title": "Pogba leaves Monaco after contract termination",
+  "player": "Former France",
+  "title_ko": "포그바, 계약 종료 후 모나코 떠난다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-19T09:12:22+00:00"
+ },
+ {
+  "id": "7fbb84a2ab6b",
+  "title": "Man Utd 'closing in' on Carlos Baleba deal as Michael Carrick finally gets demand granted",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유는 마이클 캐릭이 마침내 요구를 받아들인 가운데 카를로스 발레바 계약을 '마지막'으로 잡았다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-transfer-37567768",
+  "fee": null,
+  "published": "2026-08-19T09:04:05+00:00"
+ },
+ {
   "id": "b2151cca3fc4",
   "title": "Mercato: après l’imbroglio sur son transfert au PSG, Suzuki débarque en Premier League",
   "player": "Zion Suzuki",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/ayyoub-bouaddi-man-city-transfer-37560813",
   "fee": "£85M",
   "published": "2026-08-17T13:15:24+00:00"
- },
- {
-  "id": "0fca626da7eb",
-  "title": "Man Utd issue instant response to shock Bruno Fernandes transfer approach",
-  "player": "Bruno Fernandes",
-  "title_ko": "맨유, 브루노 페르난데스 이적 접근에 충격에 즉각 대응",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-bruno-fernandes-galatasaray-37560750",
-  "fee": null,
-  "published": "2026-08-17T13:00:25+00:00"
- },
- {
-  "id": "3a342978efcf",
-  "title": "Gila: ‘Thank you Tare for convincing Milan to sign me, beating Man United was ideal’",
-  "player": "Mario Gila",
-  "title_ko": "길라: '밀란이 나를 영입하도록 설득한 테레에게 감사합니다. 맨유를 이기는 것이 이상적이었습니다.'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gila-thank-you-tare-for-milan-transfer/",
-  "fee": null,
-  "published": "2026-08-17T12:52:48+00:00"
  }
 ]
