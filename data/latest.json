@@ -1,5 +1,18 @@
 [
  {
+  "id": "39d181ce44c9",
+  "title": "'A game-changing signing' | Man Utd close to signing Baleba from Brighton",
+  "player": "Sky Sports' Dan",
+  "title_ko": "'판도를 바꾸는 계약' | 맨유는 브라이튼의 발레바 영입에 임박했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13574636/transfer-latest-man-utd-close-to-signing-carlos-baleba-from-brighton",
+  "fee": null,
+  "published": "2026-08-19T10:25:00+00:00"
+ },
+ {
   "id": "383ca9e3b4d7",
   "title": "Rangers sign Nedeljkovic from Aston Villa",
   "player": "Kosta Nedeljkovic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/khalaili-agent-inter-first-choice-we-laughed/",
   "fee": null,
   "published": "2026-08-17T14:46:01+00:00"
- },
- {
-  "id": "bc00546ca518",
-  "title": "Man Utd will reject any bid for Fernandes",
-  "player": "Bruno Fernandes",
-  "title_ko": "맨유는 페르난데스에 대한 어떠한 제의도 거절할 것이다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-17T13:55:54+00:00"
  }
 ]
