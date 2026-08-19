@@ -1,5 +1,18 @@
 [
  {
+  "id": "45c7b2a45fdf",
+  "title": "Arsenal transfer news: Mikel Arteta eyeing £206million duo as Julian Alvarez decision made",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날 이적 소식: 미켈 아르테타는 줄리안 알바레즈의 결정에 따라 £206m의 듀오를 노리고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37565019",
+  "fee": "£206M",
+  "published": "2026-08-19T03:00:00+00:00"
+ },
+ {
   "id": "0dfd87d9c380",
   "title": "Papers: Barca midfielder rejects chance to join Man Utd",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-mbaye-benzema-rodri-les-5-infos-mercato-du-17-aout-a-la-mi-journee_VN-202608170258.html",
   "fee": null,
   "published": "2026-08-17T09:20:49+00:00"
- },
- {
-  "id": "5b3d5481e73b",
-  "title": "Spurs' Vicario set to join Juventus on loan",
-  "player": "Guglielmo Vicario",
-  "title_ko": "토트넘 비카리오, 유벤투스 임대로 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-17T09:05:54+00:00"
  }
 ]
