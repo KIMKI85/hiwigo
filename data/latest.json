@@ -1,5 +1,18 @@
 [
  {
+  "id": "9d2e032196cb",
+  "title": "Inter Milan close to agreeing deal to sign Curtis Jones from Liverpool as talks revived",
+  "player": "Curtis Jones",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-inter-milan-curtis-jones-37570099",
+  "fee": null,
+  "published": "2026-08-19T14:52:32+00:00"
+ },
+ {
   "id": "7ac50d1be83c",
   "title": "Report Sutalo ready for Lazio, loan from Ajax with option to buy for total €12m",
   "player": "Josip Sutalo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
   "fee": null,
   "published": "2026-08-18T08:00:00+00:00"
- },
- {
-  "id": "6612d83133c1",
-  "title": "Mercato: avec 2,5 milliards d'euros, la Premier League s'approche du record de dépenses",
-  "player": null,
-  "title_ko": "Mercato: 25억 유로로 프리미어 리그는 지출 기록에 근접하고 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-avec-2-5-milliards-d-euros-la-premier-league-s-approche-du-record-de-depenses_AV-202608180203.html",
-  "fee": null,
-  "published": "2026-08-18T07:47:21+00:00"
  }
 ]
