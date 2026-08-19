@@ -1,5 +1,18 @@
 [
  {
+  "id": "c445c17cbc2a",
+  "title": "Juventus could still part ways with eight senior players before transfer deadline",
+  "player": "Guglielmo Vicario",
+  "title_ko": "유벤투스는 이적 마감일 이전에 8명의 선배 선수들과 헤어질 수 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-could-still-part-ways-eight-players/",
+  "fee": null,
+  "published": "2026-08-19T13:08:08+00:00"
+ },
+ {
   "id": "7d39f6b95ef2",
   "title": "Report Inter have Jones agreement with Liverpool at €35m",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-arrive-a-barcelone-et-affiche-deja-l-objectif-ligue-des-champions_AV-202608170584.html",
   "fee": null,
   "published": "2026-08-17T20:49:22+00:00"
- },
- {
-  "id": "a96b07b143f2",
-  "title": "Liverpool reach agreement with PSG star as attacking double deal takes shape",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 공격적인 이중 거래가 구체화되면서 PSG 스타와 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-latest-ibrahim-mbaye-37562368",
-  "fee": null,
-  "published": "2026-08-17T20:34:44+00:00"
  }
 ]
