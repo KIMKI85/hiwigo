@@ -13,6 +13,19 @@
   "published": "2026-08-19T14:41:00+00:00"
  },
  {
+  "id": "42182cce9d26",
+  "title": "Jose Mourinho rubbishes Rodri claim after Real Madrid lose transfer battle to Barcelona",
+  "player": "Jose Mourinho",
+  "title_ko": "호세 무리뉴는 레알 마드리드가 바르셀로나와의 이적 경쟁에서 패한 후 로드리의 주장을 일축했다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-rodri-transfer-jose-mourinho-37569452",
+  "fee": null,
+  "published": "2026-08-19T13:56:31+00:00"
+ },
+ {
   "id": "ec0d1f37c8a2",
   "title": "‘He doubted’: Mourinho says Real Madrid didn’t want Rodri after hesitation over move",
   "player": "José Mourinho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rashford-fernandes-transfers-37561802",
   "fee": null,
   "published": "2026-08-18T03:30:00+00:00"
- },
- {
-  "id": "5c388f3006d0",
-  "title": "Arsenal news: Viktor Gyokores transfer offer as Premier League clubs eye Gunners star",
-  "player": "Viktor Gyokores",
-  "title_ko": "아스날 뉴스: 프리미어 리그 클럽이 거너스 스타를 주목하고 있는 빅토르 교코레스의 이적 제안",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-transfer-nwaneri-37560795",
-  "fee": null,
-  "published": "2026-08-18T03:00:00+00:00"
  }
 ]
