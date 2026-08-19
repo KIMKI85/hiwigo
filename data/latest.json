@@ -1,5 +1,31 @@
 [
  {
+  "id": "f12a7be01218",
+  "title": "Arsenal close to signing two Man Utd youngsters as club's new transfer strategy continues",
+  "player": "James Scanlon",
+  "title_ko": "아스날은 클럽의 새로운 이적 전략이 계속됨에 따라 두 명의 맨유 유망주 영입에 가까워졌습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-man-utd-37570855",
+  "fee": null,
+  "published": "2026-08-19T17:42:19+00:00"
+ },
+ {
+  "id": "14c89dd87005",
+  "title": "Gabriel Jesus snubs transfer to leave Arsenal career in limbo after Mikel Arteta comments",
+  "player": "Gabriel Jesus",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-gabriel-jesus-future-napoli-37570903",
+  "fee": null,
+  "published": "2026-08-19T17:31:55+00:00"
+ },
+ {
   "id": "22d83320a4a5",
   "title": "Man Utd haven't answered Harry Maguire's transfer plea as he makes Marcus Rashford demand",
   "player": "Harry Maguire's",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/mercato-cadres-remplaces-milieu-remodele-encore-un-chantier-en-defense-comment-lens-a-confie-un-effectif-competitif-a-toppmoller_AV-202608180277.html",
   "fee": null,
   "published": "2026-08-18T10:07:10+00:00"
- },
- {
-  "id": "fad02b9da61f",
-  "title": "Man Utd put on red alert as Premier League rivals consider Carlos Baleba bid",
-  "player": "Carlos Baleba",
-  "title_ko": "맨유는 프리미어리그 라이벌들이 카를로스 발레바의 입찰을 고려함에 따라 적색경보를 발동했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-newcastle-baleba-37563180",
-  "fee": null,
-  "published": "2026-08-18T10:05:53+00:00"
- },
- {
-  "id": "7c0d99de8ad3",
-  "title": "Report Milan reject Coventry City bid for Loftus-Cheek",
-  "player": "Frank Lampard",
-  "title_ko": "밀란은 Loftus-Cheek에 대한 Coventry City의 입찰을 거부했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-reject-coventry-city-bid-loftus-cheek/",
-  "fee": null,
-  "published": "2026-08-18T10:01:10+00:00"
  }
 ]
