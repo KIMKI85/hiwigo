@@ -1,5 +1,18 @@
 [
  {
+  "id": "8cc9cd1efec9",
+  "title": "Julian Alvarez left out of Atletico Madrid team as reason exposed amid transfer saga",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/atletico-madrid-julian-alvarez-future-37571119",
+  "fee": null,
+  "published": "2026-08-19T18:59:16+00:00"
+ },
+ {
   "id": "4523c5659f2f",
   "title": "Report Ricci ready for Como on loan with option to buy from Milan",
   "player": "Samuele Ricci",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-18T10:30:07+00:00"
- },
- {
-  "id": "975eca118f7c",
-  "title": "Video: Diego Moreira arrives for Milan medical",
-  "player": "Diego Moreira",
-  "title_ko": "비디오: 디에고 모레이라가 밀란 메디컬을 위해 도착함",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-diego-moreira-arrives-for-milan-medical/",
-  "fee": null,
-  "published": "2026-08-18T10:29:32+00:00"
  }
 ]
