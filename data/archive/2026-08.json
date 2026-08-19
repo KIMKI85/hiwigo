@@ -1,5 +1,31 @@
 [
  {
+  "id": "7d39f6b95ef2",
+  "title": "Report Inter have Jones agreement with Liverpool at €35m",
+  "player": null,
+  "title_ko": "인테르는 존스와 리버풀의 €35m에 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-inter-jones-agreement-with-liverpool/",
+  "fee": "€35M",
+  "published": "2026-08-19T12:36:32+00:00"
+ },
+ {
+  "id": "6d030d1bc22c",
+  "title": "El Betis acuerda el fichaje de Parrott",
+  "player": null,
+  "title_ko": "베티스, 패럿 영입에 동의",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/08/19/betis-acuerda-fichaje-parrott.html",
+  "fee": null,
+  "published": "2026-08-19T12:29:06+00:00"
+ },
+ {
   "id": "5c611945efb1",
   "title": "Jose Mourinho reveals Vinicius Jr intervention that wrecked Arsenal transfer plan",
   "player": "Jose Mourinho",
@@ -63,6 +89,19 @@
   "url": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender",
   "fee": null,
   "published": "2026-08-19T11:36:00+00:00"
+ },
+ {
+  "id": "ddbfeb2b311c",
+  "title": "Inter preparing €30m bid for Jones and are not lining up an alternative",
+  "player": "Curtis Jones",
+  "title_ko": "인테르는 존스에게 3000만 유로의 제안을 준비하고 있으나 대안을 마련하지 못하고 있다",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-preparing-jones-bid-no-alternatives/",
+  "fee": "€30M",
+  "published": "2026-08-19T11:31:00+00:00"
  },
  {
   "id": "6a4c8a5cae51",
