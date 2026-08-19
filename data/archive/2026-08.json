@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f81e0a550d3",
+  "title": "Official: Ruggeri joins Aston Villa from Atletico Madrid",
+  "player": "Matteo Ruggeri",
+  "title_ko": "공식: 루게리는 아틀레티코 마드리드에서 아스톤 빌라로 합류했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-ruggeri-joins-villa-from-atletico/",
+  "fee": null,
+  "published": "2026-08-19T08:38:29+00:00"
+ },
+ {
+  "id": "42b72d255253",
+  "title": "Official: Aston Villa announce €35m Suzuki signing from Parma",
+  "player": "Zion Suzuki",
+  "title_ko": "공식: Aston Villa는 파르마에서 스즈키를 €35m에 영입했다고 발표했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-aston-villa-sign-suzuki-parma/",
+  "fee": "€35M",
+  "published": "2026-08-19T08:27:24+00:00"
+ },
+ {
   "id": "55694407ddd4",
   "title": "Mercato: c'est officiellement terminé pour Paul Pogba à l'AS Monaco",
   "player": "Paul Pogba",
