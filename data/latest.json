@@ -1,5 +1,31 @@
 [
  {
+  "id": "2d98f26c0698",
+  "title": "Mittel zum Zweck? Reijnders wechselt nach Saudi-Arabien",
+  "player": "Tijjani Reijnders",
+  "title_ko": "끝을 의미합니까? 레인더스는 사우디아라비아로 이적합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/mittel-zum-zweck-reijnders-wechselt-nach-saudi-arabien-1244339/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-19T16:05:09+00:00"
+ },
+ {
+  "id": "7538b9ff8f4b",
+  "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
+  "player": "Tijjani Reijnders",
+  "title_ko": "Reijnders는 £ 52m 거래에 Man City를 떠나 Al-Qadsiah로 이동했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss",
+  "fee": "£52M",
+  "published": "2026-08-19T16:01:32+00:00"
+ },
+ {
   "id": "98ad3c946b52",
   "title": "Barcelona ready to pounce as Harry Kane makes contract stance clear to Bayern Munich",
   "player": "Harry Kane",
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/athletic/2026/08/18/guibelalde-seguira-carrera-suiza-athletic-reserva-porcentaje-futuro-traspaso-jugador.html",
   "fee": null,
   "published": "2026-08-18T09:18:17+00:00"
- },
- {
-  "id": "2bf438bf532d",
-  "title": "Video: Fresh Italy debutant Favasuli arrives for Napoli medical",
-  "player": "Fresh Italy",
-  "title_ko": "비디오: 신선한 이탈리아 데뷔작인 Favasuli가 나폴리 메디컬을 위해 도착했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/italy-debutant-favasuli-arrives-napoli-medical/",
-  "fee": null,
-  "published": "2026-08-18T09:13:57+00:00"
- },
- {
-  "id": "d07b5d30bfb4",
-  "title": "Mercato: retournement de situation, les Corinthians prolongent finalement Memphis Depay",
-  "player": "Memphis Depay",
-  "title_ko": "Mercato: 전환, Corinthians가 마침내 Memphis Depay를 연장했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-retournement-de-situation-les-corinthians-prolongent-finalement-memphis-depay_AV-202608180242.html",
-  "fee": null,
-  "published": "2026-08-18T09:08:40+00:00"
  }
 ]
