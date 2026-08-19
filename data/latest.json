@@ -1,5 +1,18 @@
 [
  {
+  "id": "fbf07aa55ff4",
+  "title": "Tottenham eye double transfer swoop for Man City duo in Roberto De Zerbi 'bomba' plans",
+  "player": "Roberto De Zerbi",
+  "title_ko": "토트넘은 로베르토 데 제르비의 '폭탄' 계획을 통해 맨시티 듀오에게 이중 이적을 노리고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/spurs-transfers-latest-savinho-marmoush-37571110",
+  "fee": null,
+  "published": "2026-08-19T19:10:07+00:00"
+ },
+ {
   "id": "8cc9cd1efec9",
   "title": "Julian Alvarez left out of Atletico Madrid team as reason exposed amid transfer saga",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-bruno-fernandes-transfer-37563767",
   "fee": null,
   "published": "2026-08-18T10:41:36+00:00"
- },
- {
-  "id": "cff647205651",
-  "title": "Middleton-Patel joins Watford on loan from Man Utd",
-  "player": "Safia Middleton-",
-  "title_ko": "미들턴-파텔은 맨유에서 임대로 왓포드에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-18T10:30:07+00:00"
  }
 ]
