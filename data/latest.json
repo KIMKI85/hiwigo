@@ -1,5 +1,18 @@
 [
  {
+  "id": "541efee46574",
+  "title": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
+  "player": null,
+  "title_ko": "사비뉴, 각포, 네토, 마모쉬! 3명의 새로운 포워드와 계약을 맺기 위해 시장에 진출한 박차",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
+  "fee": null,
+  "published": "2026-08-19T11:49:00+00:00"
+ },
+ {
   "id": "bcc89698d79d",
   "title": "Arsenal in advanced talks to sign Villa's Konsa",
   "player": "Villa's Konsa",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barca-ou-atletico-pourquoi-la-semaine-sera-cruciale-pour-l-avenir-de-julian-alvarez_AV-202608170489.html",
   "fee": null,
   "published": "2026-08-17T17:08:11+00:00"
- },
- {
-  "id": "255200819f19",
-  "title": "Official: Bologna send Dallinga to FC Koln, loan with €14m option to buy",
-  "player": "Thijs Dallinga",
-  "title_ko": "공식: 볼로냐는 달링가를 FC 쾰른으로 보내고 €14m 구매 옵션으로 임대를 보냈습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-bologna-dallinga-koln-loan-14m-option/",
-  "fee": "€14M",
-  "published": "2026-08-17T16:53:42+00:00"
  }
 ]
