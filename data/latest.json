@@ -1,5 +1,44 @@
 [
  {
+  "id": "b7dad721b64d",
+  "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
+  "player": null,
+  "title_ko": "서류: 첼시 마감일을 놓쳤음에도 불구하고 맨시티는 페르난데스에게 입찰할 예정",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574860/man-city-transfer-news-enzo-fernandez-bid-incoming-despite-missing-chelsea-deadline-paper-talk",
+  "fee": null,
+  "published": "2026-08-19T22:00:00+00:00"
+ },
+ {
+  "id": "3192be53225c",
+  "title": "Info RMC Sport. Mercato: accord entre Chelsea et Crystal Palace pour Disasi, qui doit prendre sa décision",
+  "player": "Axel Disasi",
+  "title_ko": "RMC 스포츠 정보. 메르카토: 결정을 내려야 하는 디사시에 대한 첼시와 크리스탈 팰리스 간의 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-accord-entre-chelsea-et-crystal-palace-pour-disasi-qui-doit-prendre-sa-decision_AV-202608190586.html",
+  "fee": null,
+  "published": "2026-08-19T21:00:35+00:00"
+ },
+ {
+  "id": "8030c4c8ddaf",
+  "title": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
+  "player": "Manu Koné",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
+  "fee": null,
+  "published": "2026-08-19T20:56:13+00:00"
+ },
+ {
   "id": "b967babb8dc7",
   "title": "Mercato: Strasbourg s'intéresse à l'attaquant de Saint-Étienne Lucas Stassin",
   "player": "Étienne Lucas Stassin",
@@ -1259,44 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-18T13:00:00+00:00"
- },
- {
-  "id": "3c6d56804b10",
-  "title": "Chelsea change name of under-21s side in controversial move to rebrand academy",
-  "player": null,
-  "title_ko": "첼시, 아카데미 브랜드 변경 논란에 21세 이하 팀 이름 변경",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-academy-under-21-rebrand-37564768",
-  "fee": null,
-  "published": "2026-08-18T12:52:30+00:00"
- },
- {
-  "id": "c6f55c92ca0b",
-  "title": "Besiktas and Italiano target Juventus winger Gonzalez amid Milan links",
-  "player": "Nico Gonzalez",
-  "title_ko": "베식타스와 이탈리아노는 밀란과 링크가 있는 가운데 유벤투스의 윙어 곤잘레스를 노리고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/besiktas-and-italiano-target-juventus-gonzalez/",
-  "fee": null,
-  "published": "2026-08-18T12:50:00+00:00"
- },
- {
-  "id": "d41caea4933c",
-  "title": "Mercato: \"construire une équipe autour de lui\", Simeone claque de nouveau la porte à un départ d'Alvarez cet été",
-  "player": "Colchoneros Diego Simeone",
-  "title_ko": "메르카토: \"그를 중심으로 팀을 구성하라\", 시메오네는 이번 여름 알바레즈를 떠나는 데 다시 한 번 문을 쾅 닫았다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-construire-une-equipe-autour-de-lui-simeone-claque-de-nouveau-la-porte-a-un-depart-d-alvarez-cet-ete_AV-202608180329.html",
-  "fee": null,
-  "published": "2026-08-18T12:07:18+00:00"
  }
 ]

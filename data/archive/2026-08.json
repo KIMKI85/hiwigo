@@ -1,5 +1,44 @@
 [
  {
+  "id": "b7dad721b64d",
+  "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
+  "player": null,
+  "title_ko": "서류: 첼시 마감일을 놓쳤음에도 불구하고 맨시티는 페르난데스에게 입찰할 예정",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574860/man-city-transfer-news-enzo-fernandez-bid-incoming-despite-missing-chelsea-deadline-paper-talk",
+  "fee": null,
+  "published": "2026-08-19T22:00:00+00:00"
+ },
+ {
+  "id": "3192be53225c",
+  "title": "Info RMC Sport. Mercato: accord entre Chelsea et Crystal Palace pour Disasi, qui doit prendre sa décision",
+  "player": "Axel Disasi",
+  "title_ko": "RMC 스포츠 정보. 메르카토: 결정을 내려야 하는 디사시에 대한 첼시와 크리스탈 팰리스 간의 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-accord-entre-chelsea-et-crystal-palace-pour-disasi-qui-doit-prendre-sa-decision_AV-202608190586.html",
+  "fee": null,
+  "published": "2026-08-19T21:00:35+00:00"
+ },
+ {
+  "id": "8030c4c8ddaf",
+  "title": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
+  "player": "Manu Koné",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
+  "fee": null,
+  "published": "2026-08-19T20:56:13+00:00"
+ },
+ {
   "id": "b967babb8dc7",
   "title": "Mercato: Strasbourg s'intéresse à l'attaquant de Saint-Étienne Lucas Stassin",
   "player": "Étienne Lucas Stassin",
