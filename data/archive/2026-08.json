@@ -26,6 +26,19 @@
   "published": "2026-08-19T10:15:00+00:00"
  },
  {
+  "id": "2b37d5103504",
+  "title": "Suzuki, Ruggeri, Pogba… les 5 infos mercato du 19 août à midi",
+  "player": "Zion Suzuki",
+  "title_ko": "스즈키, 루게리, 포그바… 8월 19일 정오 5개 메르카토 소식",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-suzuki-ruggeri-pogba-les-5-infos-mercato-du-19-aout-a-midi_VN-202608190277.html",
+  "fee": null,
+  "published": "2026-08-19T10:09:56+00:00"
+ },
+ {
   "id": "02b13ac87965",
   "title": "Man Utd close to full agreement with Brighton for Baleba",
   "player": "Carlos Baleba",
@@ -37,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder",
   "fee": null,
   "published": "2026-08-19T10:02:00+00:00"
+ },
+ {
+  "id": "f4b73bb170ce",
+  "title": "Official: 19-year-old talent Mora joins Roma in staggered deal from Porto",
+  "player": "Rodrigo Mora",
+  "title_ko": "공식: 19세의 유망주 모라가 포르투에서 파격 이적을 통해 로마에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-mora-joins-roma-from-porto/",
+  "fee": null,
+  "published": "2026-08-19T09:57:54+00:00"
  },
  {
   "id": "a7cb1d8a08af",
