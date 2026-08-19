@@ -13,6 +13,19 @@
   "published": "2026-08-19T10:25:00+00:00"
  },
  {
+  "id": "f5e502857915",
+  "title": "Arsenal preference is for Nwaneri to leave on loan",
+  "player": "Ethan Nwaneri",
+  "title_ko": "아스널은 은와네리를 임대로 떠나는 것을 선호한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gd1r1nel2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-19T10:24:11+00:00"
+ },
+ {
   "id": "383ca9e3b4d7",
   "title": "Rangers sign Nedeljkovic from Aston Villa",
   "player": "Kosta Nedeljkovic",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-diego-moreira-annonce-a-l-ac-milan-transfert-record-en-vue-pour-strasbourg_AV-202608170417.html",
   "fee": null,
   "published": "2026-08-17T15:22:57+00:00"
- },
- {
-  "id": "79a26ac78f53",
-  "title": "Barcelona eye shock Viktor Gyokeres transfer move as alternative for Arsenal target",
-  "player": "Viktor Gyokeres",
-  "title_ko": "아스날 타겟의 대안으로 바르셀로나의 시선을 사로잡은 빅토르 교케레스의 이적 움직임",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-viktor-gyokeres-arsenal-alvarez-37561269",
-  "fee": null,
-  "published": "2026-08-17T15:20:29+00:00"
  }
 ]
