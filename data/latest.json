@@ -1,5 +1,18 @@
 [
  {
+  "id": "7ac50d1be83c",
+  "title": "Report Sutalo ready for Lazio, loan from Ajax with option to buy for total €12m",
+  "player": "Josip Sutalo",
+  "title_ko": "보고 수탈로가 라치오로 이적할 준비가 되었으며, 아약스에서 임대되었으며 총 €12m에 구매 옵션이 있음",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-sutalo-ready-lazio-loan-ajax-total-e12m/",
+  "fee": "€12M",
+  "published": "2026-08-19T14:44:48+00:00"
+ },
+ {
   "id": "a009c8e6d326",
   "title": "Chelsea latest: Badiashile set to complete Napoli move",
   "player": null,
@@ -11,6 +24,32 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-19T14:41:00+00:00"
+ },
+ {
+  "id": "a187fb69dae9",
+  "title": "Liverpool to 'make new Bradley Barcola offer' as update on PSG transfer given",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG 이적에 대한 업데이트로 '새로운 브래들리 바르콜라 제안'을 할 것입니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-psg-transfer-37569360",
+  "fee": null,
+  "published": "2026-08-19T14:38:42+00:00"
+ },
+ {
+  "id": "00bbfd006080",
+  "title": "Nach De-Regt-Transfer: Holstein Kiel holt Madsen aus Portugal",
+  "player": "Nach De-",
+  "title_ko": "De Regt 이적 후: Holstein Kiel은 포르투갈에서 Madsen을 데려옵니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nach-de-regt-transfer-holstein-kiel-holt-madsen-aus-portugal-1245030/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-19T14:35:57+00:00"
  },
  {
   "id": "1fd2ccb10b77",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-avec-2-5-milliards-d-euros-la-premier-league-s-approche-du-record-de-depenses_AV-202608180203.html",
   "fee": null,
   "published": "2026-08-18T07:47:21+00:00"
- },
- {
-  "id": "ce97d23c3e87",
-  "title": "Mercato: Djibril Sidibé signe chez le promu en Ligue 1 du Mans",
-  "player": "Djibril Sidibé",
-  "title_ko": "메르카토: 지브릴 시디베가 리그 1 승격 르망과 계약",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-djibril-sidibe-signe-chez-le-promu-en-ligue-1-du-mans_AV-202608180197.html",
-  "fee": null,
-  "published": "2026-08-18T07:37:52+00:00"
- },
- {
-  "id": "4a0982c993aa",
-  "title": "Arsenal could offer Brighton five players to beat Man Utd to statement signing",
-  "player": null,
-  "title_ko": "아스널은 성명서 서명을 위해 브라이튼에게 맨유를 이길 5명의 선수를 제안할 수도 있다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-hinshelwood-man-utd-37558968",
-  "fee": null,
-  "published": "2026-08-18T05:30:00+00:00"
- },
- {
-  "id": "5ad79fe27fcd",
-  "title": "Liverpool news: Bradley Barcola transfer moves one step closer as reason for U-turn emerges",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바르콜라 이적은 유턴 이유가 드러나면서 한 걸음 더 가까워졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-psg-bradley-barcola-transfer-37561510",
-  "fee": null,
-  "published": "2026-08-18T04:00:00+00:00"
  }
 ]

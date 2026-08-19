@@ -1,5 +1,18 @@
 [
  {
+  "id": "7ac50d1be83c",
+  "title": "Report Sutalo ready for Lazio, loan from Ajax with option to buy for total €12m",
+  "player": "Josip Sutalo",
+  "title_ko": "보고 수탈로가 라치오로 이적할 준비가 되었으며, 아약스에서 임대되었으며 총 €12m에 구매 옵션이 있음",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-sutalo-ready-lazio-loan-ajax-total-e12m/",
+  "fee": "€12M",
+  "published": "2026-08-19T14:44:48+00:00"
+ },
+ {
   "id": "a009c8e6d326",
   "title": "Chelsea latest: Badiashile set to complete Napoli move",
   "player": null,
@@ -11,6 +24,32 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-19T14:41:00+00:00"
+ },
+ {
+  "id": "a187fb69dae9",
+  "title": "Liverpool to 'make new Bradley Barcola offer' as update on PSG transfer given",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG 이적에 대한 업데이트로 '새로운 브래들리 바르콜라 제안'을 할 것입니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-psg-transfer-37569360",
+  "fee": null,
+  "published": "2026-08-19T14:38:42+00:00"
+ },
+ {
+  "id": "00bbfd006080",
+  "title": "Nach De-Regt-Transfer: Holstein Kiel holt Madsen aus Portugal",
+  "player": "Nach De-",
+  "title_ko": "De Regt 이적 후: Holstein Kiel은 포르투갈에서 Madsen을 데려옵니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nach-de-regt-transfer-holstein-kiel-holt-madsen-aus-portugal-1245030/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-19T14:35:57+00:00"
  },
  {
   "id": "1fd2ccb10b77",
