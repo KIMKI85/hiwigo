@@ -1,5 +1,31 @@
 [
  {
+  "id": "22d83320a4a5",
+  "title": "Man Utd haven't answered Harry Maguire's transfer plea as he makes Marcus Rashford demand",
+  "player": "Harry Maguire's",
+  "title_ko": "맨유는 마커스 래시포드에게 요구하는 해리 맥과이어의 이적 요청에 응답하지 않았다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rashford-maguire-transfer-37568519",
+  "fee": null,
+  "published": "2026-08-19T16:30:00+00:00"
+ },
+ {
+  "id": "d3097ee9a366",
+  "title": "Arsenal would 'obviously consider' Ethan Nwaneri transfer as club chief spells out plan",
+  "player": "Ethan Nwaneri",
+  "title_ko": "아스날은 클럽 회장이 계획을 설명함에 따라 Ethan Nwaneri의 이적을 '분명히 고려할 것'입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-nwaneri-lewis-skelly-future-37570609",
+  "fee": null,
+  "published": "2026-08-19T16:25:09+00:00"
+ },
+ {
   "id": "2d98f26c0698",
   "title": "Mittel zum Zweck? Reijnders wechselt nach Saudi-Arabien",
   "player": "Tijjani Reijnders",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/milan-reject-coventry-city-bid-loftus-cheek/",
   "fee": null,
   "published": "2026-08-18T10:01:10+00:00"
- },
- {
-  "id": "4b1f6a4ef878",
-  "title": "‘Really happy’ Amar Dedic completes £29.5m move from Benfica to Newcastle",
-  "player": "Amar Dedic",
-  "title_ko": "'정말 행복하다' 아마르 데딕, 벤피카에서 뉴캐슬로 £29.5m 이적 완료",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window",
-  "fee": "£29.5M",
-  "published": "2026-08-18T09:35:51+00:00"
- },
- {
-  "id": "da91b45b87b4",
-  "title": "Guibelalde seguirá carrera en Suiza y el Athletic se reserva un porcentaje de un futuro traspaso del jugador",
-  "player": null,
-  "title_ko": "Guibelalde는 스위스에서 그의 경력을 계속할 것이며 Athletic은 향후 선수 이적의 일부를 보유합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/athletic/2026/08/18/guibelalde-seguira-carrera-suiza-athletic-reserva-porcentaje-futuro-traspaso-jugador.html",
-  "fee": null,
-  "published": "2026-08-18T09:18:17+00:00"
  }
 ]
