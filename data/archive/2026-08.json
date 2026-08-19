@@ -1,5 +1,31 @@
 [
  {
+  "id": "b2151cca3fc4",
+  "title": "Mercato: après l’imbroglio sur son transfert au PSG, Suzuki débarque en Premier League",
+  "player": "Zion Suzuki",
+  "title_ko": "메르카토: PSG 이적에 대한 불황 이후 스즈키는 프리미어 리그에 도착합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-apres-l-imbroglio-sur-son-transfert-au-psg-suzuki-debarque-en-premier-league_AV-202608190237.html",
+  "fee": null,
+  "published": "2026-08-19T08:57:17+00:00"
+ },
+ {
+  "id": "55f3065e6a60",
+  "title": "Video: Badiashile arrives to complete potential €30m transfer to Napoli",
+  "player": "Benoit Badiashile",
+  "title_ko": "비디오: 바디아실레가 나폴리로의 잠재적인 €30m 이적을 완료하기 위해 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-badiashile-arrives-complete-napoli-move/",
+  "fee": "€30M",
+  "published": "2026-08-19T08:56:37+00:00"
+ },
+ {
   "id": "5f81e0a550d3",
   "title": "Official: Ruggeri joins Aston Villa from Atletico Madrid",
   "player": "Matteo Ruggeri",
