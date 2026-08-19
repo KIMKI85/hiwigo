@@ -1,5 +1,31 @@
 [
  {
+  "id": "98ad3c946b52",
+  "title": "Barcelona ready to pounce as Harry Kane makes contract stance clear to Bayern Munich",
+  "player": "Harry Kane",
+  "title_ko": "해리 케인이 바이에른 뮌헨에 계약 입장을 분명히 하자 바르셀로나는 반격 준비를 마쳤다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-bayern-munich-barcelona-37570168",
+  "fee": null,
+  "published": "2026-08-19T15:39:45+00:00"
+ },
+ {
+  "id": "9486e4542863",
+  "title": "Inter hold talks with Liverpool over deal for £30m-rated Curtis Jones",
+  "player": "Curtis Jones",
+  "title_ko": "인터밀란은 리버풀과 £30m 평가의 커티스 존스 영입을 놓고 협상을 진행 중입니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
+  "fee": "£30M",
+  "published": "2026-08-19T15:32:15+00:00"
+ },
+ {
   "id": "6fd9236c475f",
   "title": "Atubolu kann sich Wechsel nach Frankfurt gut vorstellen - Kaua Santos spielt im Pokal",
   "player": "Kaua Santos",
@@ -24,6 +50,19 @@
   "url": "https://football-italia.net/free-agent-dieng-set-intensive-lazio-medical/",
   "fee": null,
   "published": "2026-08-19T15:16:15+00:00"
+ },
+ {
+  "id": "2c5c5d6634a2",
+  "title": "Ezri Konsa could make Arsenal debut at Aston Villa after £51m transfer agreement struck",
+  "player": "Ezri Konsa",
+  "title_ko": "Ezri Konsa는 £51m 이적 계약이 체결된 후 Aston Villa에서 아스날 데뷔전을 펼칠 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-aston-villa-37570381",
+  "fee": "£51M",
+  "published": "2026-08-19T15:06:18+00:00"
  },
  {
   "id": "9d2e032196cb",
