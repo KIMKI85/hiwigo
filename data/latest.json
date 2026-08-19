@@ -13,6 +13,19 @@
   "published": "2026-08-19T11:49:00+00:00"
  },
  {
+  "id": "a04d8b389385",
+  "title": "Monaco terminate Paul Pogba contract over injury concerns just days after wife's rant",
+  "player": "Paul Pogba",
+  "title_ko": "모나코는 아내의 폭언이 있은 지 며칠 만에 부상 우려로 폴 포그바와 계약을 종료했다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/paul-pogba-man-utd-monaco-37568693",
+  "fee": null,
+  "published": "2026-08-19T11:38:28+00:00"
+ },
+ {
   "id": "bcc89698d79d",
   "title": "Arsenal in advanced talks to sign Villa's Konsa",
   "player": "Villa's Konsa",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/badiashile-napoli-medical-chelsea-remove-bonus/",
   "fee": "€30M",
   "published": "2026-08-17T17:30:19+00:00"
- },
- {
-  "id": "e7b506f9add3",
-  "title": "Mercato: Barça ou Atletico, pourquoi la semaine sera cruciale pour l'avenir de Julian Alvarez",
-  "player": "Julian Alvarez",
-  "title_ko": "Mercato: Barça 또는 Atletico, 이번 주가 Julian Alvarez의 미래에 중요한 이유",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-barca-ou-atletico-pourquoi-la-semaine-sera-cruciale-pour-l-avenir-de-julian-alvarez_AV-202608170489.html",
-  "fee": null,
-  "published": "2026-08-17T17:08:11+00:00"
  }
 ]
