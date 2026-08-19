@@ -1,5 +1,44 @@
 [
  {
+  "id": "383ca9e3b4d7",
+  "title": "Rangers sign Nedeljkovic from Aston Villa",
+  "player": "Kosta Nedeljkovic",
+  "title_ko": "레인저스는 Aston Villa에서 Nedeljkovic을 영입했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
+  "fee": null,
+  "published": "2026-08-19T10:15:00+00:00"
+ },
+ {
+  "id": "02b13ac87965",
+  "title": "Man Utd close to full agreement with Brighton for Baleba",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유는 발레바 영입에 브라이튼과 완전한 합의에 가까워졌다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder",
+  "fee": null,
+  "published": "2026-08-19T10:02:00+00:00"
+ },
+ {
+  "id": "4a259d2ba9da",
+  "title": "Nedeljkovic joins Rangers from Aston Villa",
+  "player": "Kosta Nedeljkovic",
+  "title_ko": "Nedeljkovic은 Aston Villa에서 레인저스로 합류했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2mz3j402zo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-19T09:25:38+00:00"
+ },
+ {
   "id": "ce24615a1da1",
   "title": "Pogba leaves Monaco after contract termination",
   "player": "Former France",
