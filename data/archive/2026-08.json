@@ -1,5 +1,31 @@
 [
  {
+  "id": "b967babb8dc7",
+  "title": "Mercato: Strasbourg s'intéresse à l'attaquant de Saint-Étienne Lucas Stassin",
+  "player": "Étienne Lucas Stassin",
+  "title_ko": "Mercato: 스트라스부르는 생테티엔의 스트라이커 루카스 스타신에게 관심이 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-s-interesse-a-l-attaquant-de-saint-etienne-lucas-stassin_AV-202608190584.html",
+  "fee": null,
+  "published": "2026-08-19T20:54:52+00:00"
+ },
+ {
+  "id": "02a63f3272b4",
+  "title": "Man Utd target Ederson hits back after failed transfer - 'I don't know what changed'",
+  "player": null,
+  "title_ko": "맨유의 타깃 에데르손, 이적 실패 후 반격 - '무엇이 달라졌는지 모르겠다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-ederson-medical-failed-37571309",
+  "fee": null,
+  "published": "2026-08-19T20:48:41+00:00"
+ },
+ {
   "id": "ce88bcd2fca7",
   "title": "Arsenal, Man Utd and Chelsea forced to wait for next transfer after major twist",
   "player": null,
