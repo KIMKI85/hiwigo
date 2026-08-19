@@ -26,6 +26,19 @@
   "published": "2026-08-19T10:24:11+00:00"
  },
  {
+  "id": "b42a984a053a",
+  "title": "Vicario bids emotional farewell to Tottenham: ‘A very exciting season ahead’",
+  "player": "Guglielmo Vicario",
+  "title_ko": "비카리오, 토트넘과 감정적 작별 인사 “앞으로 매우 흥미로운 시즌”",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vicario-bids-emotional-farewell-to-tottenham/",
+  "fee": null,
+  "published": "2026-08-19T10:17:07+00:00"
+ },
+ {
   "id": "383ca9e3b4d7",
   "title": "Rangers sign Nedeljkovic from Aston Villa",
   "player": "Kosta Nedeljkovic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/mendes-mastermind-behind-moreira-move-to-milan/",
   "fee": "€50M",
   "published": "2026-08-17T15:24:52+00:00"
- },
- {
-  "id": "301bca4444c4",
-  "title": "Mercato: Diego Moreira annoncé à l'AC Milan, transfert record en vue pour Strasbourg",
-  "player": "Diego Moreira",
-  "title_ko": "메르카토: 디에고 모레이라, AC밀란으로 이적 발표, 스트라스부르 기록 이적 눈앞",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-diego-moreira-annonce-a-l-ac-milan-transfert-record-en-vue-pour-strasbourg_AV-202608170417.html",
-  "fee": null,
-  "published": "2026-08-17T15:22:57+00:00"
  }
 ]
