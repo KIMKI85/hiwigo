@@ -1,5 +1,18 @@
 [
  {
+  "id": "46dd247c820a",
+  "title": "Official: Moreira joins Milan from RC Strasbourg for circa €65m including bonus",
+  "player": "Diego Moreira",
+  "title_ko": "공식: 모레이라는 ​​보너스를 포함해 약 €65m에 RC 스트라스부르에서 밀란으로 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-moreira-joins-milan-rc-strasbourg/",
+  "fee": "€65M",
+  "published": "2026-08-19T20:16:06+00:00"
+ },
+ {
   "id": "51a699705d93",
   "title": "Suggestion of Ruben Dias swap with Rafael Leao for Milan and Manchester City",
   "player": "Ruben Dias",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/latest-biggest-transfers-italians-2026-27/",
   "fee": null,
   "published": "2026-08-18T11:41:01+00:00"
- },
- {
-  "id": "5382d2cdd085",
-  "title": "Barcola, Bouaddi, Gouiri, Fernandez-Pardo... ces 10 dossiers chauds à suivre d’ici la fin du mercato estival",
-  "player": null,
-  "title_ko": "바르콜라, 부아디, 구이리, 페르난데스-파르도... 지금부터 여름 이적 기간이 끝날 때까지 따라야 할 10가지 핫 이슈",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/barcola-bouaddi-gouiri-fernandez-pardo-ces-10-dossiers-chauds-a-suivre-d-ici-la-fin-du-mercato-estival_AV-202608180291.html",
-  "fee": null,
-  "published": "2026-08-18T10:43:29+00:00"
  }
 ]
