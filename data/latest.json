@@ -1,5 +1,18 @@
 [
  {
+  "id": "55694407ddd4",
+  "title": "Mercato: c'est officiellement terminé pour Paul Pogba à l'AS Monaco",
+  "player": "Paul Pogba",
+  "title_ko": "메르카토: AS 모나코의 폴 포그바는 공식적으로 끝났다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiellement-termine-pour-paul-pogba-a-l-as-monaco_AV-202608190199.html",
+  "fee": null,
+  "published": "2026-08-19T08:00:09+00:00"
+ },
+ {
   "id": "1105f7b4079f",
   "title": "Aston Villa respond to shock £38m Ollie Watkins bid as Al-Hilal step up transfer pursuit",
   "player": "Ollie Watkins",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/grealish-man-city-future-maresca-37559247",
   "fee": null,
   "published": "2026-08-17T10:46:50+00:00"
- },
- {
-  "id": "25848be76e39",
-  "title": "Man City accelerate talks for £85m Rodri successor - and could sign Enzo Fernandez as well",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티는 8500만 파운드의 로드리 후계자 영입 협상을 가속화하고 엔조 페르난데스도 영입할 수 있다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-rodri-bouaddi-fernandez-37559749",
-  "fee": "£85M",
-  "published": "2026-08-17T10:36:08+00:00"
  }
 ]
