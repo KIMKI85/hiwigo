@@ -1,5 +1,18 @@
 [
  {
+  "id": "9e5a48a6a849",
+  "title": "Man Utd news: Bruno Fernandes contract talks opened as £43m price-tag placed on star",
+  "player": "Bruno Fernandes",
+  "title_ko": "Man Utd 뉴스: 브루노 페르난데스의 계약 협상이 스타에게 £43m의 가격표가 붙으면서 시작되었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-fernandes-37564463",
+  "fee": "£43M",
+  "published": "2026-08-19T03:30:00+00:00"
+ },
+ {
   "id": "45c7b2a45fdf",
   "title": "Arsenal transfer news: Mikel Arteta eyeing £206million duo as Julian Alvarez decision made",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13573938/guglielmo-vicario-transfer-news-juventus-agree-deal-to-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
   "fee": null,
   "published": "2026-08-17T09:22:00+00:00"
- },
- {
-  "id": "e2f0f95a54bf",
-  "title": "Mbaye, Benzema, Rodri... Les 5 infos mercato du 17 août à la mi-journée",
-  "player": "Ibrahim Mbaye",
-  "title_ko": "음바예, 벤제마, 로드리... 8월 17일 정오부터 5번의 이적 창구 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mbaye-benzema-rodri-les-5-infos-mercato-du-17-aout-a-la-mi-journee_VN-202608170258.html",
-  "fee": null,
-  "published": "2026-08-17T09:20:49+00:00"
  }
 ]
