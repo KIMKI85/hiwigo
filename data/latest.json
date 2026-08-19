@@ -1,5 +1,18 @@
 [
  {
+  "id": "c24665b5beed",
+  "title": "Andoni Iraola's dream Curtis Jones replacement as Liverpool sign £78m star everyone wants",
+  "player": "Andoni Iraola's",
+  "title_ko": "안도니 이라올라의 꿈은 커티스 존스를 교체하고 리버풀이 모두가 원하는 7800만 파운드의 스타와 계약하는 것입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-curtis-jones-wharton-37563113",
+  "fee": "£78M",
+  "published": "2026-08-19T05:00:00+00:00"
+ },
+ {
   "id": "f500f968d4fd",
   "title": "Liverpool news: Bradley Barcola transfer risk as Rio Ngumoha switch could be forced",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manque-d-enthousiasme-projet-sportif-moins-solide-pourquoi-rodri-n-a-finalement-pas-signe-au-real-et-a-choisi-le-barca_AV-202608170268.html",
   "fee": null,
   "published": "2026-08-17T09:45:27+00:00"
- },
- {
-  "id": "5f00173f41a2",
-  "title": "Juventus agreement with Tottenham for Vicario as Martinez dropped",
-  "player": "Guglielmo Vicario",
-  "title_ko": "마르티네즈의 탈락으로 유벤투스는 비카리오를 위해 토트넘과 계약을 맺었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-agree-tottenham-vicario-martinez-drop/",
-  "fee": null,
-  "published": "2026-08-17T09:38:09+00:00"
  }
 ]
