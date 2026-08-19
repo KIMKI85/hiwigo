@@ -13,6 +13,32 @@
   "published": "2026-08-19T22:00:00+00:00"
  },
  {
+  "id": "c3ff67366023",
+  "title": "Done Deal: Jones permission to fly for Inter medical, €35m including bonus from Liverpool",
+  "player": "Curtis Jones",
+  "title_ko": "거래 완료: 존스의 인테르 메디컬 이적 허가, 리버풀 보너스 포함 €35m",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-jones-permission-inter-35m-liverpool/",
+  "fee": "€35M",
+  "published": "2026-08-19T21:58:22+00:00"
+ },
+ {
+  "id": "3d8ee7aa315e",
+  "title": "Rio Ferdinand delivers Premier League title prediction in response to £51m transfer",
+  "player": "Rio Ferdinand",
+  "title_ko": "리오 퍼디난드가 £51m 이적료에 대한 프리미어리그 타이틀 예측을 내놓았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/rio-ferdinand-premier-league-prediction-37571478",
+  "fee": "£51M",
+  "published": "2026-08-19T21:48:33+00:00"
+ },
+ {
   "id": "46533cb7e7d0",
   "title": "Man City join Man Utd in Kone race - Thursday's gossip",
   "player": "Manu Kone",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-18T14:28:36+00:00"
- },
- {
-  "id": "99d030524713",
-  "title": "Official: Juventus sign Vicario from Tottenham on loan with €8m buy option",
-  "player": "Guglielmo Vicario",
-  "title_ko": "공식: 유벤투스는 토트넘의 비카리오를 800만 유로의 구매 옵션으로 임대 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-juventus-sign-vicario-from-tottenham/",
-  "fee": "€8M",
-  "published": "2026-08-18T14:20:00+00:00"
- },
- {
-  "id": "0c2d810b85a7",
-  "title": "Harry Kane's stance on mega-money transfer as England captain targeted in Bayern swoop",
-  "player": "Harry Kane's",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-transfer-bayern-alhilal-37565235",
-  "fee": null,
-  "published": "2026-08-18T14:08:04+00:00"
  }
 ]
