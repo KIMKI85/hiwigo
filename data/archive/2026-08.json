@@ -13,6 +13,19 @@
   "published": "2026-08-19T11:49:00+00:00"
  },
  {
+  "id": "9b9097287891",
+  "title": "Arsenal close in on deal to sign Aston Villa and England defender Ezri Konsa",
+  "player": "Ezri Konsa",
+  "title_ko": "아스날은 아스톤 빌라와 잉글랜드 수비수 에즈리 콘사 영입 계약을 성사시켰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-aston-villa-ezri-konsa-37568694",
+  "fee": null,
+  "published": "2026-08-19T11:46:36+00:00"
+ },
+ {
   "id": "a04d8b389385",
   "title": "Monaco terminate Paul Pogba contract over injury concerns just days after wife's rant",
   "player": "Paul Pogba",
@@ -37,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender",
   "fee": null,
   "published": "2026-08-19T11:36:00+00:00"
+ },
+ {
+  "id": "6a4c8a5cae51",
+  "title": "Juventus could still sign another goalkeeper on top of Vicario",
+  "player": null,
+  "title_ko": "유벤투스는 여전히 비카리오 외에 또 다른 골키퍼를 영입할 수 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-could-still-sign-another-goalkeeper/",
+  "fee": null,
+  "published": "2026-08-19T11:14:17+00:00"
  },
  {
   "id": "6d6e93852964",
@@ -765,6 +791,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-transfer-bayern-alhilal-37565235",
   "fee": null,
   "published": "2026-08-18T14:08:04+00:00"
+ },
+ {
+  "id": "108b6e2397c9",
+  "title": "Liverpool latest: Highly-rated defender set for Spain loan",
+  "player": null,
+  "title_ko": "리버풀 최신: 높은 평가를 받은 수비수, 스페인 임대로 결정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-18T13:00:00+00:00"
  },
  {
   "id": "3c6d56804b10",
