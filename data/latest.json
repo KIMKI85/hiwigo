@@ -91,6 +91,19 @@
   "published": "2026-08-19T15:39:45+00:00"
  },
  {
+  "id": "831f1f5c166e",
+  "title": "\"Man träumt davon\": Bernardo Silva stolz auf Real-Wechsel",
+  "player": "Bernardo Silva",
+  "title_ko": "“당신은 꿈을 꾸고 있습니다”: 베르나르도 실바는 레알 이적을 자랑스럽게 생각합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/man-traeumt-davon-bernardo-silva-stolz-auf-real-wechsel-1245061/video#omrss",
+  "fee": null,
+  "published": "2026-08-19T15:37:12+00:00"
+ },
+ {
   "id": "9486e4542863",
   "title": "Inter hold talks with Liverpool over deal for £30m-rated Curtis Jones",
   "player": "Curtis Jones",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/wolfsburgs-deal-mit-bernhardsson-und-der-versuch-bei-schlotterbeck-1244322/artikel#omrss",
   "fee": null,
   "published": "2026-08-18T10:09:25+00:00"
- },
- {
-  "id": "354557995ab3",
-  "title": "Mercato: cadres remplacés, milieu remodelé, encore un chantier en défense... comment Lens a confié un effectif compétitif à Toppmöller",
-  "player": "Dino Toppmöller",
-  "title_ko": "Mercato: 경영진 교체, 미드필더 리모델링, 또 다른 수비 프로젝트... Lens가 경쟁력 있는 인력을 Toppmöller에 맡긴 방법",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/mercato-cadres-remplaces-milieu-remodele-encore-un-chantier-en-defense-comment-lens-a-confie-un-effectif-competitif-a-toppmoller_AV-202608180277.html",
-  "fee": null,
-  "published": "2026-08-18T10:07:10+00:00"
  }
 ]
