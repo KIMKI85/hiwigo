@@ -1,5 +1,18 @@
 [
  {
+  "id": "dbebbf85a7d1",
+  "title": "Mercato: Arsenal crée la polémique en ouvrant la porte à un départ de ses jeunes formés au club",
+  "player": "Richard Garlick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arsenal-cree-la-polemique-en-ouvrant-la-porte-a-un-depart-de-ses-jeunes-formes-au-club_AV-202608190520.html",
+  "fee": null,
+  "published": "2026-08-19T17:57:20+00:00"
+ },
+ {
   "id": "f12a7be01218",
   "title": "Arsenal close to signing two Man Utd youngsters as club's new transfer strategy continues",
   "player": "James Scanlon",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-rodri-sidibe-fernandes-les-5-infos-mercato-du-18-aout-a-midi_VN-202608180285.html",
   "fee": null,
   "published": "2026-08-18T10:23:32+00:00"
- },
- {
-  "id": "b3efd97efcb5",
-  "title": "Wolfsburgs Deal mit Bernhardsson und der Versuch bei Schlotterbeck",
-  "player": "Kieler Alexander Bernhardsson",
-  "title_ko": "볼프스부르크의 Bernhardsson 거래 및 Schlotterbeck에서의 시도",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/wolfsburgs-deal-mit-bernhardsson-und-der-versuch-bei-schlotterbeck-1244322/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-18T10:09:25+00:00"
  }
 ]
