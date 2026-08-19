@@ -1,5 +1,31 @@
 [
  {
+  "id": "a009c8e6d326",
+  "title": "Chelsea latest: Badiashile set to complete Napoli move",
+  "player": null,
+  "title_ko": "첼시 최신: 바디아실레가 나폴리 이적을 완료할 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-19T14:41:00+00:00"
+ },
+ {
+  "id": "ec0d1f37c8a2",
+  "title": "‘He doubted’: Mourinho says Real Madrid didn’t want Rodri after hesitation over move",
+  "player": "José Mourinho",
+  "title_ko": "'그는 의심했다': 무리뉴는 레알 마드리드가 이적을 망설인 후 로드리를 원하지 않았다고 말했다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+  "fee": null,
+  "published": "2026-08-19T13:42:13+00:00"
+ },
+ {
   "id": "c445c17cbc2a",
   "title": "Juventus could still part ways with eight senior players before transfer deadline",
   "player": "Guglielmo Vicario",
@@ -89,6 +115,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/paul-pogba-man-utd-monaco-37568693",
   "fee": null,
   "published": "2026-08-19T11:38:28+00:00"
+ },
+ {
+  "id": "e1661ffa0999",
+  "title": "Arsenal agree £51m deal to sign Aston Villa's Konsa",
+  "player": "Villa's Konsa",
+  "title_ko": "아스날은 Aston Villa의 Konsa와 계약하기 위해 £ 51m 계약에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+  "fee": "£51M",
+  "published": "2026-08-19T11:36:00+00:00"
  },
  {
   "id": "bcc89698d79d",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-transfer-nwaneri-37560795",
   "fee": null,
   "published": "2026-08-18T03:00:00+00:00"
- },
- {
-  "id": "8d907c087885",
-  "title": "Mercato: accord entre Malick Fofana et la Roma, vers un gros chèque pour l'OL?",
-  "player": "Malick Fofana",
-  "title_ko": "Mercato: Malick Fofana와 Roma 간의 OL에 대한 큰 수표에 대한 합의?",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-accord-entre-malick-fofana-et-la-roma-vers-un-gros-cheque-pour-l-ol_AV-202608170597.html",
-  "fee": null,
-  "published": "2026-08-17T21:12:42+00:00"
- },
- {
-  "id": "ea2ff838352c",
-  "title": "\"Bin froh, dass alles geklärt ist\": Rodri-Wechsel nach Barcelona vor Vollzug",
-  "player": "Sein Wechsel",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/bin-froh-dass-alles-geklaert-ist-rodri-wechsel-nach-barcelona-vor-vollzug-1244242/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-17T20:53:19+00:00"
- },
- {
-  "id": "6dc7d54ce3c8",
-  "title": "Mercato: Rodri arrive à Barcelone et affiche déjà l'objectif \"Ligue des champions\"",
-  "player": null,
-  "title_ko": "메르카토: 로드리는 바르셀로나에 도착해 이미 '챔피언스 리그' 목표를 보여주고 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-rodri-arrive-a-barcelone-et-affiche-deja-l-objectif-ligue-des-champions_AV-202608170584.html",
-  "fee": null,
-  "published": "2026-08-17T20:49:22+00:00"
  }
 ]
