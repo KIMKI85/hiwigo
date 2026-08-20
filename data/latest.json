@@ -1,5 +1,18 @@
 [
  {
+  "id": "367bda94f181",
+  "title": "Liverpool news: £70million deal still on as agreement finally reached on transfer",
+  "player": null,
+  "title_ko": "리버풀 뉴스: 이적에 대한 최종 합의가 이루어졌음에도 불구하고 £70m의 거래가 여전히 진행 중입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-latest-gakpo-jones-37569429",
+  "fee": "£70M",
+  "published": "2026-08-20T04:00:00+00:00"
+ },
+ {
   "id": "2cd8203023d4",
   "title": "Man Utd news: Myles Lewis-Skelly transfer boost as club close in on £60m deal",
   "player": "Myles Lewis-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
   "fee": null,
   "published": "2026-08-18T15:22:00+00:00"
- },
- {
-  "id": "242acf857fff",
-  "title": "Ferguson close to Genoa switch as Brighton accept loan proposal",
-  "player": "Evan Ferguson",
-  "title_ko": "브라이튼이 임대 제안을 수락함에 따라 퍼거슨은 제노아 전환에 가까워졌습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ferguson-close-to-genoa-switch-brighton/",
-  "fee": null,
-  "published": "2026-08-18T15:10:00+00:00"
  }
 ]

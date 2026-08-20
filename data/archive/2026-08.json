@@ -1,5 +1,18 @@
 [
  {
+  "id": "367bda94f181",
+  "title": "Liverpool news: £70million deal still on as agreement finally reached on transfer",
+  "player": null,
+  "title_ko": "리버풀 뉴스: 이적에 대한 최종 합의가 이루어졌음에도 불구하고 £70m의 거래가 여전히 진행 중입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-latest-gakpo-jones-37569429",
+  "fee": "£70M",
+  "published": "2026-08-20T04:00:00+00:00"
+ },
+ {
   "id": "2cd8203023d4",
   "title": "Man Utd news: Myles Lewis-Skelly transfer boost as club close in on £60m deal",
   "player": "Myles Lewis-",
