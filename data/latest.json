@@ -1,5 +1,18 @@
 [
  {
+  "id": "38de8f876099",
+  "title": "Mercato: Manchester City se lance sur la piste Manu Koné",
+  "player": "Manu Koné",
+  "title_ko": "Mercato: Manu Koné 트랙에서 맨체스터 시티 출범",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-se-lance-sur-la-piste-manu-kone_AV-202608200240.html",
+  "fee": null,
+  "published": "2026-08-20T08:38:13+00:00"
+ },
+ {
   "id": "5253621d5681",
   "title": "Inter Milan agree £30m deal for Liverpool's Jones",
   "player": "Liverpool's Jones",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-methalie-rentre-a-toulouse-son-transfert-a-sunderland-en-danger_AV-202608180480.html",
   "fee": null,
   "published": "2026-08-18T16:45:31+00:00"
- },
- {
-  "id": "77b7e53e1e59",
-  "title": "Man Utd miss out on £13m transfer windfall as Red Devils left stung by flop Antony AGAIN",
-  "player": "Red Devils",
-  "title_ko": "맨유는 1,300만 파운드의 이적 횡재를 놓쳤다. 붉은 악마가 플롭 안토니에게 또 다시 타격을 입으면서 남겨졌기 때문이다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-antony-betis-37565945",
-  "fee": "£13M",
-  "published": "2026-08-18T16:37:00+00:00"
  }
 ]
