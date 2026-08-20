@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad1a0ae3af65",
+  "title": "Parrott makes move to Real Betis from AZ Alkmaar",
+  "player": "Troy Parrott",
+  "title_ko": "패럿, AZ 알크마르에서 레알 베티스로 이적",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-20T20:15:59+00:00"
+ },
+ {
   "id": "5a3b84f7da13",
   "title": "Joao Pedro set to extend Chelsea deal to 2034",
   "player": "Joao Pedro",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-suzuki-ruggeri-pogba-les-5-infos-mercato-du-19-aout-a-midi_VN-202608190277.html",
   "fee": null,
   "published": "2026-08-19T10:09:56+00:00"
- },
- {
-  "id": "02b13ac87965",
-  "title": "Man Utd close to full agreement with Brighton for Baleba",
-  "player": "Carlos Baleba",
-  "title_ko": "맨유는 발레바 영입에 브라이튼과 완전한 합의에 가까워졌다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574619/carlos-baleba-transfer-manchester-united-close-to-full-agreement-with-brighton-for-cameroon-midfielder",
-  "fee": null,
-  "published": "2026-08-19T10:02:00+00:00"
  }
 ]
