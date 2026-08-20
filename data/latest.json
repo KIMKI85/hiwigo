@@ -1,5 +1,18 @@
 [
  {
+  "id": "f218254ac756",
+  "title": "Arsenal exploring Yildiz move - Friday's gossip",
+  "player": "Kenan Yildiz",
+  "title_ko": "아스날은 Yildiz의 이적을 모색하고 있습니다 - 금요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-20T20:47:42+00:00"
+ },
+ {
   "id": "ad1a0ae3af65",
   "title": "Parrott makes move to Real Betis from AZ Alkmaar",
   "player": "Troy Parrott",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
   "fee": null,
   "published": "2026-08-19T10:15:00+00:00"
- },
- {
-  "id": "2b37d5103504",
-  "title": "Suzuki, Ruggeri, Pogba… les 5 infos mercato du 19 août à midi",
-  "player": "Zion Suzuki",
-  "title_ko": "스즈키, 루게리, 포그바… 8월 19일 정오 5개 메르카토 소식",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-suzuki-ruggeri-pogba-les-5-infos-mercato-du-19-aout-a-midi_VN-202608190277.html",
-  "fee": null,
-  "published": "2026-08-19T10:09:56+00:00"
  }
 ]
