@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee272363b134",
+  "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
+  "player": "Joao Cancelo",
+  "title_ko": "칸셀루, 알힐랄 퇴장 후 '꿈' 바르샤 이적",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-20T14:39:19+00:00"
+ },
+ {
   "id": "f80cfb6a2a82",
   "title": "Napoli set Hojlund a 20-goal target as Allegri eyes new level from Dane",
   "player": "Rasmus Hojlund",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-barcola-transfer-rio-ngumoha-37564982",
   "fee": null,
   "published": "2026-08-19T04:00:00+00:00"
- },
- {
-  "id": "9e5a48a6a849",
-  "title": "Man Utd news: Bruno Fernandes contract talks opened as £43m price-tag placed on star",
-  "player": "Bruno Fernandes",
-  "title_ko": "Man Utd 뉴스: 브루노 페르난데스의 계약 협상이 스타에게 £43m의 가격표가 붙으면서 시작되었습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-fernandes-37564463",
-  "fee": "£43M",
-  "published": "2026-08-19T03:30:00+00:00"
  }
 ]
