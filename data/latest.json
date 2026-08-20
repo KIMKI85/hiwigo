@@ -1,5 +1,18 @@
 [
  {
+  "id": "6d2dff265434",
+  "title": "Troy Parrott aterriza en Sevilla para cerrar su fichaje por el Betis",
+  "player": "Troy Parrott",
+  "title_ko": "트로이 패럿은 베티스와의 계약을 마무리하기 위해 세비야에 도착했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/08/20/troy-parrott-aterriza-sevilla-cerrar-fichaje-betis.html",
+  "fee": null,
+  "published": "2026-08-20T15:27:50+00:00"
+ },
+ {
   "id": "a583e96438c2",
   "title": "Liverpool 'need five more signings' with three transfer targets absolute musts",
   "player": "Andoni Iroala",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-ollie-watkins-saudi-37567105",
   "fee": "£38M",
   "published": "2026-08-19T07:07:24+00:00"
- },
- {
-  "id": "3fb9e1156b1b",
-  "title": "Rodri fires dig at Arsenal in emotional Man City farewell as Barcelona move confirmed",
-  "player": null,
-  "title_ko": "로드리는 바르셀로나 이적이 확정되자 맨시티와의 감정적인 작별 인사로 아스날을 향해 총격을 가했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rodri-arsenal-manchester-city-barcelona-37567065",
-  "fee": null,
-  "published": "2026-08-19T05:57:04+00:00"
  }
 ]
