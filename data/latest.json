@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ef1c973b94a",
+  "title": "Lazio push for Hull target Pinamonti after Dieng move collapsed",
+  "player": "Andrea Pinamonti",
+  "title_ko": "디엥 이적이 무산된 후 헐 타겟 피나몬티를 노리는 라치오",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-push-for-hull-target-pinamonti/",
+  "fee": null,
+  "published": "2026-08-20T15:15:00+00:00"
+ },
+ {
   "id": "ee272363b134",
   "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
   "player": "Joao Cancelo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-curtis-jones-wharton-37563113",
   "fee": "£78M",
   "published": "2026-08-19T05:00:00+00:00"
- },
- {
-  "id": "f500f968d4fd",
-  "title": "Liverpool news: Bradley Barcola transfer risk as Rio Ngumoha switch could be forced",
-  "player": "Bradley Barcola",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-barcola-transfer-rio-ngumoha-37564982",
-  "fee": null,
-  "published": "2026-08-19T04:00:00+00:00"
  }
 ]
