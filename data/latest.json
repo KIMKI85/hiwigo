@@ -1,5 +1,18 @@
 [
  {
+  "id": "5e51016cb431",
+  "title": "Done deal: Lazio seal Sutalo agreement with Ajax",
+  "player": null,
+  "title_ko": "거래 완료: 라치오, 아약스와 수탈로 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-lazio-seal-sutalo-ajax-agreement/",
+  "fee": null,
+  "published": "2026-08-20T11:08:53+00:00"
+ },
+ {
   "id": "5b42fdee5f0f",
   "title": "Stankovic wants to fight for his place at Inter and isn’t interested in a loan move",
   "player": "Aleksandar Stankovic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-18T17:56:13+00:00"
- },
- {
-  "id": "79d9f843825c",
-  "title": "Vicario on Juventus move: ‘A lifelong dream, waiting for this moment since I was a child’",
-  "player": "Guglielmo Vicario",
-  "title_ko": "유벤투스 이적에 비카리오 “어렸을 때부터 지금 이 순간을 기다려온 평생의 꿈”",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/vicario-on-juventus-move-a-lifelong-dream/",
-  "fee": null,
-  "published": "2026-08-18T17:41:07+00:00"
  }
 ]
