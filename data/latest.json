@@ -1,5 +1,18 @@
 [
  {
+  "id": "f0fb4749aee9",
+  "title": "Italy international Retegui on Juventus list of centre-forward targets",
+  "player": "Luciano Spalletti",
+  "title_ko": "유벤투스의 센터 포워드 타겟 목록에 있는 이탈리아 국가대표 레테기",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/retegui-on-juventus-list-of-striker-targets/",
+  "fee": null,
+  "published": "2026-08-20T08:43:39+00:00"
+ },
+ {
   "id": "38de8f876099",
   "title": "Mercato: Manchester City se lance sur la piste Manu Koné",
   "player": "Manu Koné",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/ausgerechnet-real-ausgestochen-rodris-wechsel-zu-barcelona-perfekt-1241251/artikel#omrss",
   "fee": null,
   "published": "2026-08-18T16:50:52+00:00"
- },
- {
-  "id": "2fbbb5378234",
-  "title": "Mercato: Methalie rentre à Toulouse, son transfert à Sunderland en danger",
-  "player": "Dayann Methalie",
-  "title_ko": "메르카토: 메탈리가 툴루즈로 돌아오면서 선더랜드로의 이적이 위험에 처해 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-methalie-rentre-a-toulouse-son-transfert-a-sunderland-en-danger_AV-202608180480.html",
-  "fee": null,
-  "published": "2026-08-18T16:45:31+00:00"
  }
 ]
