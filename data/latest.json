@@ -1,5 +1,18 @@
 [
  {
+  "id": "207a3d5dea86",
+  "title": "Joao Cancelo wechselt zum drittten Mal zu Barcelona",
+  "player": "Joao Cancelo",
+  "title_ko": "주앙 칸셀루가 세 번째로 바르셀로나로 이적했다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/joao-cancelo-wechselt-zum-drittten-mal-zu-barcelona-1243738/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-20T13:16:01+00:00"
+ },
+ {
   "id": "fe3c07183e37",
   "title": "Matarazzo: \"¿La falta de fichajes? Aperribay y Bretos han visto que no siempre soy un buen tío...\"",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-18T20:43:01+00:00"
- },
- {
-  "id": "a172459fab16",
-  "title": "Mercato: Nice s'offre l'expérimenté Witsel pour \"que le club revienne là où il doit être\"",
-  "player": "Axel Witsel",
-  "title_ko": "Mercato: Nice는 \"클럽이 원래 위치로 돌아갈 수 있도록\" 경험이 풍부한 Witsel을 제공합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nice-s-offre-l-experimente-witsel-pour-que-le-club-revienne-la-ou-il-doit-etre_AV-202608180566.html",
-  "fee": null,
-  "published": "2026-08-18T20:12:14+00:00"
  }
 ]
