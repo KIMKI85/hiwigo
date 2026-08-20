@@ -1,5 +1,18 @@
 [
  {
+  "id": "f80cfb6a2a82",
+  "title": "Napoli set Hojlund a 20-goal target as Allegri eyes new level from Dane",
+  "player": "Rasmus Hojlund",
+  "title_ko": "Napoli는 Allegri가 Dane의 새로운 수준을 바라보면서 Hojlund에게 20골 목표를 설정했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-set-hojlund-a-20-goal-target/",
+  "fee": null,
+  "published": "2026-08-20T14:00:00+00:00"
+ },
+ {
   "id": "8a66a272e842",
   "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
   "player": "Andreas Schicker",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-fernandes-37564463",
   "fee": "£43M",
   "published": "2026-08-19T03:30:00+00:00"
- },
- {
-  "id": "45c7b2a45fdf",
-  "title": "Arsenal transfer news: Mikel Arteta eyeing £206million duo as Julian Alvarez decision made",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 이적 소식: 미켈 아르테타는 줄리안 알바레즈의 결정에 따라 £206m의 듀오를 노리고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37565019",
-  "fee": "£206M",
-  "published": "2026-08-19T03:00:00+00:00"
  }
 ]
