@@ -1,5 +1,18 @@
 [
  {
+  "id": "be4e5840fbad",
+  "title": "Liverpool receive Brighton response after launching £50m Yankuba Minteh transfer bid",
+  "player": "Yankuba Minteh",
+  "title_ko": "리버풀은 £50m의 양쿠바 민테 이적 제안을 개시한 후 브라이튼의 반응을 받았습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-yankuba-minteh-bid-brighton-37575331",
+  "fee": "£50M",
+  "published": "2026-08-20T16:11:03+00:00"
+ },
+ {
   "id": "6d2dff265434",
   "title": "Troy Parrott aterriza en Sevilla para cerrar su fichaje por el Betis",
   "player": "Troy Parrott",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiellement-termine-pour-paul-pogba-a-l-as-monaco_AV-202608190199.html",
   "fee": null,
   "published": "2026-08-19T08:00:09+00:00"
- },
- {
-  "id": "1105f7b4079f",
-  "title": "Aston Villa respond to shock £38m Ollie Watkins bid as Al-Hilal step up transfer pursuit",
-  "player": "Ollie Watkins",
-  "title_ko": "Aston Villa는 Al-Hilal이 이적 추진을 강화함에 따라 Ollie Watkins가 £38m의 충격적인 입찰에 응했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-ollie-watkins-saudi-37567105",
-  "fee": "£38M",
-  "published": "2026-08-19T07:07:24+00:00"
  }
 ]
