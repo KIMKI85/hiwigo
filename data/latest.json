@@ -1,5 +1,18 @@
 [
  {
+  "id": "5253621d5681",
+  "title": "Inter Milan agree £30m deal for Liverpool's Jones",
+  "player": "Liverpool's Jones",
+  "title_ko": "인터 밀란은 리버풀의 존스와 £30m 계약에 합의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder",
+  "fee": "£30M",
+  "published": "2026-08-20T08:00:00+00:00"
+ },
+ {
   "id": "323d2405e9a1",
   "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
   "player": "Nico González",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-antony-betis-37565945",
   "fee": "£13M",
   "published": "2026-08-18T16:37:00+00:00"
- },
- {
-  "id": "bcfa40f3d30e",
-  "title": "Nach gescheitertem BVB-Deal: Leipzig prüft Verpflichtung von El Mala",
-  "player": "In den Gedanken",
-  "title_ko": "BVB 거래 실패 후: 라이프치히는 엘 말라와의 계약을 고려하고 있습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/nach-gescheitertem-bvb-deal-leipzig-prueft-verpflichtung-von-el-mala-1244439/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-18T16:34:54+00:00"
  }
 ]
