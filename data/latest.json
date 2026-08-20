@@ -1,5 +1,31 @@
 [
  {
+  "id": "b4e848a46784",
+  "title": "Zirkzee still a Juventus and Napoli target as Manchester United star’s future hinges on sales",
+  "player": "Joshua Zirkzee",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/zirkzee-still-a-juventus-and-napoli-target/",
+  "fee": null,
+  "published": "2026-08-20T18:30:00+00:00"
+ },
+ {
+  "id": "0043350d691d",
+  "title": "Vor dem Pokal-Highlight: Jeddeloh verpflichtet Drochtersens Top-Torjäger Hyseni",
+  "player": "Torjäger Hyseni",
+  "title_ko": "컵 하이라이트 전: Jeddeloh는 Drochtersen의 최고 득점자 Hyseni와 계약했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/vor-dem-pokal-highlight-jeddeloh-verpflichtet-drochtersens-top-torjaeger-hyseni-1245361/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-20T18:20:27+00:00"
+ },
+ {
   "id": "2d58889bdb32",
   "title": "Michael Carrick drops hint over Man Utd's next signing after Carlos Baleba transfer",
   "player": "Michael Carrick",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-19T09:12:22+00:00"
- },
- {
-  "id": "7fbb84a2ab6b",
-  "title": "Man Utd 'closing in' on Carlos Baleba deal as Michael Carrick finally gets demand granted",
-  "player": "Carlos Baleba",
-  "title_ko": "맨유는 마이클 캐릭이 마침내 요구를 받아들인 가운데 카를로스 발레바 계약을 '마지막'으로 잡았다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-transfer-37567768",
-  "fee": null,
-  "published": "2026-08-19T09:04:05+00:00"
- },
- {
-  "id": "b2151cca3fc4",
-  "title": "Mercato: après l’imbroglio sur son transfert au PSG, Suzuki débarque en Premier League",
-  "player": "Zion Suzuki",
-  "title_ko": "메르카토: PSG 이적에 대한 불황 이후 스즈키는 프리미어 리그에 도착합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-apres-l-imbroglio-sur-son-transfert-au-psg-suzuki-debarque-en-premier-league_AV-202608190237.html",
-  "fee": null,
-  "published": "2026-08-19T08:57:17+00:00"
  }
 ]
