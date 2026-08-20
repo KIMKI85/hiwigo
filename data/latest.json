@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee3e75450369",
+  "title": "Genoa weigh move for ex-Inter striker Taremi",
+  "player": "Mehdi Taremi",
+  "title_ko": "제노아는 전 인터 스트라이커 타레미의 움직임을 검토하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/genoa-weigh-move-for-ex-inter-striker-taremi/",
+  "fee": null,
+  "published": "2026-08-20T16:40:00+00:00"
+ },
+ {
   "id": "be4e5840fbad",
   "title": "Liverpool receive Brighton response after launching £50m Yankuba Minteh transfer bid",
   "player": "Yankuba Minteh",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-aston-villa-sign-suzuki-parma/",
   "fee": "€35M",
   "published": "2026-08-19T08:27:24+00:00"
- },
- {
-  "id": "55694407ddd4",
-  "title": "Mercato: c'est officiellement terminé pour Paul Pogba à l'AS Monaco",
-  "player": "Paul Pogba",
-  "title_ko": "메르카토: AS 모나코의 폴 포그바는 공식적으로 끝났다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-c-est-officiellement-termine-pour-paul-pogba-a-l-as-monaco_AV-202608190199.html",
-  "fee": null,
-  "published": "2026-08-19T08:00:09+00:00"
  }
 ]
