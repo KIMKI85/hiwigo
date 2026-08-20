@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a66a272e842",
+  "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
+  "player": "Andreas Schicker",
+  "title_ko": "\"그는 또 똑같아\": Asllani 이적 실패에 대한 Schicker",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/er-ist-wieder-der-alte-schicker-ueber-geplatzten-asllani-transfer-1245298/video#omrss",
+  "fee": null,
+  "published": "2026-08-20T13:21:42+00:00"
+ },
+ {
   "id": "480460a276cb",
   "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asslani-Transfer",
   "player": "Andreas Schicker",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37565019",
   "fee": "£206M",
   "published": "2026-08-19T03:00:00+00:00"
- },
- {
-  "id": "0dfd87d9c380",
-  "title": "Papers: Barca midfielder rejects chance to join Man Utd",
-  "player": null,
-  "title_ko": "서류: 바르샤 미드필더, 맨유 합류 기회 거부",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
-  "fee": null,
-  "published": "2026-08-18T22:40:00+00:00"
  }
 ]
