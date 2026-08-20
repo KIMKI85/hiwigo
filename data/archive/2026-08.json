@@ -1,5 +1,31 @@
 [
  {
+  "id": "50382712884b",
+  "title": "'Here we go!' - Romano helps Alcaraz announce US Open comeback",
+  "player": "Carlos Alcaraz",
+  "title_ko": "'여기요!' - Romano는 Alcaraz가 US Open 복귀를 발표하도록 돕습니다.",
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows",
+  "fee": null,
+  "published": "2026-08-20T19:00:00+00:00"
+ },
+ {
+  "id": "f0ce9a96885a",
+  "title": "Man Utd's Carlos Baleba deal shows they've learnt from Frenkie de Jong mistake",
+  "player": "Utd's Carlos",
+  "title_ko": "맨유의 카를로스 발레바 계약은 프렌키 데 용의 실수로부터 교훈을 얻었음을 보여줍니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-baleba-de-jong-37575208",
+  "fee": null,
+  "published": "2026-08-20T18:38:12+00:00"
+ },
+ {
   "id": "b4e848a46784",
   "title": "Zirkzee still a Juventus and Napoli target as Manchester United star’s future hinges on sales",
   "player": "Joshua Zirkzee",
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/zirkzee-still-a-juventus-and-napoli-target/",
   "fee": null,
   "published": "2026-08-20T18:30:00+00:00"
+ },
+ {
+  "id": "4f75bcb1722f",
+  "title": "Lücke geschlossen: Köln verpflichtet Außenverteidiger Heister",
+  "player": "Fortuna Köln",
+  "title_ko": "격차 해소: 쾰른이 풀백 하이스터와 계약함",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/luecke-geschlossen-koeln-verpflichtet-aussenverteidiger-heister-1245364/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-20T18:29:35+00:00"
  },
  {
   "id": "0043350d691d",
