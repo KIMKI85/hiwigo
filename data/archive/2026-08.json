@@ -1,5 +1,31 @@
 [
  {
+  "id": "8d5bc65e3242",
+  "title": "Transfer news LIVE: Man Utd poised for £65m signing, Arsenal deal agreed, Liverpool medical",
+  "player": null,
+  "title_ko": "이적 뉴스 라이브: 맨유는 6500만 파운드 계약을 준비하고 있고 아스날 계약도 합의했으며 리버풀 메디컬도 있습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-liverpool-live-37571702",
+  "fee": "£65M",
+  "published": "2026-08-20T05:38:51+00:00"
+ },
+ {
+  "id": "529326a029bd",
+  "title": "Brighton manager's Carlos Baleba admission, why initial transfer efforts failed, new Man Utd bid",
+  "player": "Carlos Baleba",
+  "title_ko": "브라이튼 감독 카를로스 발레바 인정, 초기 이적 노력이 실패한 이유, 새로운 맨유 입찰",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/carlos-baleba-man-utd-transfer-37568250",
+  "fee": null,
+  "published": "2026-08-20T05:30:00+00:00"
+ },
+ {
   "id": "367bda94f181",
   "title": "Liverpool news: £70million deal still on as agreement finally reached on transfer",
   "player": null,

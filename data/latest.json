@@ -1,5 +1,31 @@
 [
  {
+  "id": "8d5bc65e3242",
+  "title": "Transfer news LIVE: Man Utd poised for £65m signing, Arsenal deal agreed, Liverpool medical",
+  "player": null,
+  "title_ko": "이적 뉴스 라이브: 맨유는 6500만 파운드 계약을 준비하고 있고 아스날 계약도 합의했으며 리버풀 메디컬도 있습니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-liverpool-live-37571702",
+  "fee": "£65M",
+  "published": "2026-08-20T05:38:51+00:00"
+ },
+ {
+  "id": "529326a029bd",
+  "title": "Brighton manager's Carlos Baleba admission, why initial transfer efforts failed, new Man Utd bid",
+  "player": "Carlos Baleba",
+  "title_ko": "브라이튼 감독 카를로스 발레바 인정, 초기 이적 노력이 실패한 이유, 새로운 맨유 입찰",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/carlos-baleba-man-utd-transfer-37568250",
+  "fee": null,
+  "published": "2026-08-20T05:30:00+00:00"
+ },
+ {
   "id": "367bda94f181",
   "title": "Liverpool news: £70million deal still on as agreement finally reached on transfer",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/villarreal/2026/08/18/villarreal-cierra-capitulo-salidas-cesion-kambwala-osasuna.html",
   "fee": null,
   "published": "2026-08-18T16:00:07+00:00"
- },
- {
-  "id": "207f60c5ccad",
-  "title": "Mercato: le latéral bosnien Amar Dedic s'engage avec Newcastle",
-  "player": "Amar Dedic",
-  "title_ko": "메르카토: 보스니아 출신 풀백 아마르 데딕이 뉴캐슬과 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-lateral-bosnien-amar-dedic-s-engage-avec-newcastle_AV-202608180440.html",
-  "fee": null,
-  "published": "2026-08-18T15:32:52+00:00"
- },
- {
-  "id": "c44be027e143",
-  "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
-  "player": "Guglielmo Vicario",
-  "title_ko": "유벤투스는 마르티네즈의 이적을 반대한 후 토트넘에서 비카리오를 임대로 영입했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
-  "fee": null,
-  "published": "2026-08-18T15:22:00+00:00"
  }
 ]
