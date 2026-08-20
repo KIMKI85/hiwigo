@@ -1,5 +1,18 @@
 [
  {
+  "id": "8dbee5e284fa",
+  "title": "Gabriel Jesus offered Premier League transfer lifeline as part of Arsenal rebuild",
+  "player": "Gabriel Jesus",
+  "title_ko": "가브리엘 제수스는 아스날 리빌딩의 일환으로 프리미어리그 이적 생명줄을 제안했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-gabriel-jesus-ipswich-37571712",
+  "fee": null,
+  "published": "2026-08-20T06:13:30+00:00"
+ },
+ {
   "id": "8d5bc65e3242",
   "title": "Transfer news LIVE: Man Utd poised for £65m signing, Arsenal deal agreed, Liverpool medical",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/moreira-completes-milan-medical-contract/",
   "fee": null,
   "published": "2026-08-18T16:20:00+00:00"
- },
- {
-  "id": "922961bbfade",
-  "title": "El Villarreal cierra el capítulo de salidas con la cesión de Kambwala a Osasuna",
-  "player": null,
-  "title_ko": "비야레알은 캄브왈라를 오사수나에게 임대하면서 출구 장을 마감했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/villarreal/2026/08/18/villarreal-cierra-capitulo-salidas-cesion-kambwala-osasuna.html",
-  "fee": null,
-  "published": "2026-08-18T16:00:07+00:00"
  }
 ]
