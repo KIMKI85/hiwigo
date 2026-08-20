@@ -1,5 +1,18 @@
 [
  {
+  "id": "2d58889bdb32",
+  "title": "Michael Carrick drops hint over Man Utd's next signing after Carlos Baleba transfer",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭은 카를로스 발레바 이적 후 맨유의 다음 영입에 대한 힌트를 던졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-manchester-united-baleba-balde-37575465",
+  "fee": null,
+  "published": "2026-08-20T17:08:28+00:00"
+ },
+ {
   "id": "578c617701c5",
   "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
   "player": "Brighton's Minteh",
@@ -11,6 +24,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
   "fee": "£50M",
   "published": "2026-08-20T17:06:34+00:00"
+ },
+ {
+  "id": "aeeb0aca1134",
+  "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+  "player": "Yankuba Minteh",
+  "title_ko": "리버풀은 양쿠바 민테에 대한 £50m의 제의를 브라이튼에 의해 거절당했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+  "fee": "£50M",
+  "published": "2026-08-20T16:59:12+00:00"
  },
  {
   "id": "ee3e75450369",
