@@ -1,5 +1,31 @@
 [
  {
+  "id": "165cfcda916c",
+  "title": "La Real visitará al Betis sin Gorrotxategi, Marín y Guedes, y sin fichajes",
+  "player": "Pellegrino Matarazzo",
+  "title_ko": "라 레알은 고로차테지, 마린, 게데스 없이 베티스를 방문할 것이며, 계약도 없이 베티스를 방문할 것입니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/20/real-visitara-betis-gorrotxategi-marin-guedes-fichajes.html",
+  "fee": null,
+  "published": "2026-08-20T11:52:08+00:00"
+ },
+ {
+  "id": "3a157c89a095",
+  "title": "Arsenal make transfer decision on Milan-linked Nwaneri",
+  "player": "Milan-linked Nwaneri",
+  "title_ko": "아스날, 밀란과 연결된 은와네리 이적 결정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/arsenal-make-transfer-decision-on-nwaneri/",
+  "fee": null,
+  "published": "2026-08-20T11:39:28+00:00"
+ },
+ {
   "id": "5e51016cb431",
   "title": "Done deal: Lazio seal Sutalo agreement with Ajax",
   "player": null,

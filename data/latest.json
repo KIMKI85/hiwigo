@@ -1,5 +1,31 @@
 [
  {
+  "id": "165cfcda916c",
+  "title": "La Real visitará al Betis sin Gorrotxategi, Marín y Guedes, y sin fichajes",
+  "player": "Pellegrino Matarazzo",
+  "title_ko": "라 레알은 고로차테지, 마린, 게데스 없이 베티스를 방문할 것이며, 계약도 없이 베티스를 방문할 것입니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/20/real-visitara-betis-gorrotxategi-marin-guedes-fichajes.html",
+  "fee": null,
+  "published": "2026-08-20T11:52:08+00:00"
+ },
+ {
+  "id": "3a157c89a095",
+  "title": "Arsenal make transfer decision on Milan-linked Nwaneri",
+  "player": "Milan-linked Nwaneri",
+  "title_ko": "아스날, 밀란과 연결된 은와네리 이적 결정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/arsenal-make-transfer-decision-on-nwaneri/",
+  "fee": null,
+  "published": "2026-08-20T11:39:28+00:00"
+ },
+ {
   "id": "5e51016cb431",
   "title": "Done deal: Lazio seal Sutalo agreement with Ajax",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/ajax-and-galatasaray-napoli-lang/",
   "fee": null,
   "published": "2026-08-18T18:20:00+00:00"
- },
- {
-  "id": "a9df06c45f38",
-  "title": "La fin du feuilleton du mercato estival: Rodri signe officiellement au Barça et met un petit tacle au Real",
-  "player": null,
-  "title_ko": "여름 이적 기간의 끝: Rodri는 공식적으로 Barça와 계약하고 Real에 작은 태클을가합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/la-fin-du-feuilleton-du-mercato-estival-rodri-signe-officiellement-au-barca-et-met-un-petit-tacle-au-real_AV-202608180537.html",
-  "fee": null,
-  "published": "2026-08-18T18:06:29+00:00"
- },
- {
-  "id": "4fa0349fa47f",
-  "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-  "player": "Ham's Wan-",
-  "title_ko": "Aston Villa는 West Ham의 Wan-Bissaka와 계약을 체결했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-18T17:56:13+00:00"
  }
 ]
