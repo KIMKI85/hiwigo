@@ -1,5 +1,18 @@
 [
  {
+  "id": "fe3c07183e37",
+  "title": "Matarazzo: \"¿La falta de fichajes? Aperribay y Bretos han visto que no siempre soy un buen tío...\"",
+  "player": null,
+  "title_ko": "Matarazzo: \"계약이 부족하다고요? Aperribay와 Bretos는 제가 항상 좋은 사람이 아니라는 것을 알았습니다...\"",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/20/matarazzo-falta-fichajes-aperribay-bretos-han-visto-siempre-buen-tio.html",
+  "fee": null,
+  "published": "2026-08-20T12:41:29+00:00"
+ },
+ {
   "id": "d1e32a7116e7",
   "title": "Official: Bologna reward Orsolini with new contract until 2031",
   "player": "Riccardo Orsolini",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/circati-to-leave-parma-for-benfica/",
   "fee": "€20M",
   "published": "2026-08-18T19:40:00+00:00"
- },
- {
-  "id": "bb6e00f65783",
-  "title": "Irish striker Parrott on brink of Real Betis move",
-  "player": "Troy Parrott",
-  "title_ko": "아일랜드 공격수 패럿, 레알 베티스 이적 직전",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c935vrgrn0vo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-18T19:25:40+00:00"
  }
 ]
