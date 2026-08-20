@@ -13,6 +13,19 @@
   "published": "2026-08-20T12:41:29+00:00"
  },
  {
+  "id": "fe72be7e0472",
+  "title": "Lazio walk away from Dieng transfer after failed medical",
+  "player": "Bamba Dieng",
+  "title_ko": "라치오, 메디컬 실패로 디엥 이적 포기",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-walk-away-from-dieng-transfer/",
+  "fee": null,
+  "published": "2026-08-20T12:38:33+00:00"
+ },
+ {
   "id": "d1e32a7116e7",
   "title": "Official: Bologna reward Orsolini with new contract until 2031",
   "player": "Riccardo Orsolini",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nice-s-offre-l-experimente-witsel-pour-que-le-club-revienne-la-ou-il-doit-etre_AV-202608180566.html",
   "fee": null,
   "published": "2026-08-18T20:12:14+00:00"
- },
- {
-  "id": "ee1c4d848fe7",
-  "title": "Circati to leave Parma for Benfica in €20m deal",
-  "player": "Alessandro Circati",
-  "title_ko": "시르카티는 €20m에 파르마를 떠나 벤피카로 이적합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/circati-to-leave-parma-for-benfica/",
-  "fee": "€20M",
-  "published": "2026-08-18T19:40:00+00:00"
  }
 ]
