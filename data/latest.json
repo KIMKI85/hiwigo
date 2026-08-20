@@ -1,5 +1,18 @@
 [
  {
+  "id": "66aeb8c3d591",
+  "title": "Myles Lewis-Skelly's mum bombarded over transfer saga as Ian Wright slams Arsenal fans",
+  "player": "Myles Lewis-",
+  "title_ko": "마일스 루이스-스켈리의 어머니는 이안 라이트가 아스날 팬들을 비난하자 이적설에 대해 맹비난했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-myles-lewis-skelly-37572121",
+  "fee": null,
+  "published": "2026-08-20T09:20:32+00:00"
+ },
+ {
   "id": "c6a66ddb478a",
   "title": "Nächste Leihe: Hertha angelt sich Leverkusens Alfa-Ruprecht",
   "player": "Nächste Leihe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
   "fee": "£65M",
   "published": "2026-08-18T16:57:18+00:00"
- },
- {
-  "id": "b35b66d45de3",
-  "title": "Neue Möglichkeiten fürs Offensivspiel: Bernhardsson wechselt nach Wolfsburg",
-  "player": "Neue Möglichkeiten",
-  "title_ko": "공격적인 플레이를 위한 새로운 기회: 베른하르트손이 볼프스부르크로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/neue-moeglichkeiten-fuers-offensivspiel-bernhardsson-wechselt-nach-wolfsburg-1244445/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-18T16:54:49+00:00"
  }
 ]
