@@ -1,5 +1,18 @@
 [
  {
+  "id": "f0460eed98a7",
+  "title": "Arsenal news: Ethan Nwaneri transfer stance clear as interest in two Man Utd stars emerges",
+  "player": "Ethan Nwaneri",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-ethan-nwaneri-37569330",
+  "fee": null,
+  "published": "2026-08-20T03:00:00+00:00"
+ },
+ {
   "id": "b7dad721b64d",
   "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-gavi-barcelona-37565466",
   "fee": null,
   "published": "2026-08-18T14:53:42+00:00"
- },
- {
-  "id": "b3c8f461326c",
-  "title": "Kane set to begin talks over new Bayern contract",
-  "player": "Harry Kane",
-  "title_ko": "케인, 바이에른 재계약 논의 시작",
-  "league": "BUND",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-18T14:28:36+00:00"
  }
 ]
