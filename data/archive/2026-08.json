@@ -1,5 +1,31 @@
 [
  {
+  "id": "c6a66ddb478a",
+  "title": "Nächste Leihe: Hertha angelt sich Leverkusens Alfa-Ruprecht",
+  "player": "Nächste Leihe",
+  "title_ko": "다음 임대: 헤르타, 레버쿠젠의 알파-루프레히트 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/naechste-leihe-hertha-angelt-sich-leverkusens-alfa-ruprecht-1242095/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-20T09:06:43+00:00"
+ },
+ {
+  "id": "61a2f4f83332",
+  "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
+  "player": "City's Savinho",
+  "title_ko": "토트넘, 맨시티 사비뉴·마무쉬 영입 논의 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-20T09:01:26+00:00"
+ },
+ {
   "id": "f0fb4749aee9",
   "title": "Italy international Retegui on Juventus list of centre-forward targets",
   "player": "Luciano Spalletti",
