@@ -1,5 +1,31 @@
 [
  {
+  "id": "5b42fdee5f0f",
+  "title": "Stankovic wants to fight for his place at Inter and isn’t interested in a loan move",
+  "player": "Aleksandar Stankovic",
+  "title_ko": "스탄코비치는 인테르에서 자신의 자리를 위해 싸우고 싶어하지만 임대 이적에는 관심이 없습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/stankovic-wants-fight-for-inter-spot-no-loan/",
+  "fee": null,
+  "published": "2026-08-20T10:51:48+00:00"
+ },
+ {
+  "id": "bfd86e7dcce4",
+  "title": "Stassin, Yamal, Manu Koné… les 5 infos mercato du jeudi 20 août à 13h",
+  "player": "Manu Koné",
+  "title_ko": "스타신, 야말, 마누 코네… 8월 20일 목요일 오후 1시 5차 이적 창구 안내.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-stassin-yamal-manu-kone-les-5-infos-mercato-du-jeudi-20-aout-a-13h_VN-202608200307.html",
+  "fee": null,
+  "published": "2026-08-20T10:44:00+00:00"
+ },
+ {
   "id": "92bfe223feac",
   "title": "Mercato: à la recherche d'un numéro 9, le Barça se dirige vers un nouvel échec après le dossier Alvarez",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/vicario-on-juventus-move-a-lifelong-dream/",
   "fee": null,
   "published": "2026-08-18T17:41:07+00:00"
- },
- {
-  "id": "6655e72a1210",
-  "title": "La Turquie ne connaît pas la crise: Fenerbahce, Trabzonspor... comment font les clubs turcs pour signer un mercato XXL?",
-  "player": "Mohamed Salah",
-  "title_ko": "터키는 위기를 겪고 있지 않습니다: 페네르바체, 트라브존스포르... 터키 클럽은 어떻게 XXL 이적 기간에 서명합니까?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/la-turquie-ne-connait-pas-la-crise-fenerbahce-trabzonspor-comment-font-les-clubs-turcs-pour-signer-un-mercato-xxl_AV-202608180512.html",
-  "fee": null,
-  "published": "2026-08-18T17:17:49+00:00"
- },
- {
-  "id": "9fd7d5da0eaa",
-  "title": "Lazio transfer news: Southampton eye Ratkov as Fiorentina could enter Icardi race",
-  "player": "Petar Ratkov",
-  "title_ko": "라치오 이적 소식: 사우샘프턴은 피오렌티나가 이카르디 레이스에 참가할 수 있는 라트코프를 주시하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-transfer-news-southampton-ratkov-icardi/",
-  "fee": null,
-  "published": "2026-08-18T17:00:00+00:00"
  }
 ]
