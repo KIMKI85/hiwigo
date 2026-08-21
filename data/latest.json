@@ -13,6 +13,19 @@
   "published": "2026-08-21T20:38:00+00:00"
  },
  {
+  "id": "5e0cb364366c",
+  "title": "Mercato: le Barça entre dans la danse pour Balogun",
+  "player": "Folarin Balogun",
+  "title_ko": "Mercato: Barça가 Balogun을 위해 춤을 추었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-barca-entre-dans-la-danse-pour-balogun_AV-202608210564.html",
+  "fee": null,
+  "published": "2026-08-21T19:46:58+00:00"
+ },
+ {
   "id": "77adfe8f1416",
   "title": "Report Oosterwolde and Fenerbahce in Roma talks for total €20m deal",
   "player": "Jayden Oosterwolde",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/stankovic-wants-fight-for-inter-spot-no-loan/",
   "fee": null,
   "published": "2026-08-20T10:51:48+00:00"
- },
- {
-  "id": "bfd86e7dcce4",
-  "title": "Stassin, Yamal, Manu Koné… les 5 infos mercato du jeudi 20 août à 13h",
-  "player": "Manu Koné",
-  "title_ko": "스타신, 야말, 마누 코네… 8월 20일 목요일 오후 1시 5차 이적 창구 안내.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-stassin-yamal-manu-kone-les-5-infos-mercato-du-jeudi-20-aout-a-13h_VN-202608200307.html",
-  "fee": null,
-  "published": "2026-08-20T10:44:00+00:00"
  }
 ]
