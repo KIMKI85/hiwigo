@@ -1,5 +1,18 @@
 [
  {
+  "id": "b545eca36658",
+  "title": "Arsenal news: Swap deal for £60m-plus star mooted as 'magnificent signing' gets thumbs up",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날 뉴스: '훌륭한 계약'이 호평을 받으면서 £60m 이상의 스타에 대한 스왑 거래가 논의됨",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-martinelli-yildiz-37574146",
+  "fee": "£60M",
+  "published": "2026-08-21T03:00:00+00:00"
+ },
+ {
   "id": "f218254ac756",
   "title": "Arsenal exploring Yildiz move - Friday's gossip",
   "player": "Kenan Yildiz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/vicario-bids-emotional-farewell-to-tottenham/",
   "fee": null,
   "published": "2026-08-19T10:17:07+00:00"
- },
- {
-  "id": "383ca9e3b4d7",
-  "title": "Rangers sign Nedeljkovic from Aston Villa",
-  "player": "Kosta Nedeljkovic",
-  "title_ko": "레인저스는 Aston Villa에서 Nedeljkovic을 영입했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
-  "fee": null,
-  "published": "2026-08-19T10:15:00+00:00"
  }
 ]
