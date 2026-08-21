@@ -1,5 +1,31 @@
 [
  {
+  "id": "145322d5d459",
+  "title": "David and Fortini: Double Hull City transfer blow with official transfer for Italian defender",
+  "player": "Niccolò Fortini",
+  "title_ko": "다비드와 포르티니: 이탈리아 수비수 공식 이적과 함께 더블 헐 시티 이적 타격",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/david-fortini-hull-city-blow-official-transfer/",
+  "fee": null,
+  "published": "2026-08-21T12:27:26+00:00"
+ },
+ {
+  "id": "37829ca0907c",
+  "title": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
+  "player": "Axel Disasi",
+  "title_ko": "크리스탈 팰리스는 디사시 임대에 동의하고 맨체스터 시티에 와튼을 매각하지 않는다고 알립니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league",
+  "fee": null,
+  "published": "2026-08-21T12:02:37+00:00"
+ },
+ {
   "id": "c9bba0a80012",
   "title": "Arsenal complete £51m Konsa deal",
   "player": "Ezri Konsa",
@@ -24,6 +50,19 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-mercato-kebbal-et-adama-camara-ils-n-iront-nul-part-sourit-rosenior_VN-202608210341.html",
   "fee": null,
   "published": "2026-08-21T11:23:23+00:00"
+ },
+ {
+  "id": "8408e044b391",
+  "title": "Carra meets Iraola! Liverpool boss on playing style, transfers & Newcastle",
+  "player": "Andoni Iraola",
+  "title_ko": "카라가 이라올라를 만났습니다! 리버풀 감독의 플레이 스타일, 이적, 뉴캐슬",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575327/andoni-iraola-new-liverpool-boss-explains-his-coaching-philosophy-ahead-of-premier-league-opener-at-newcastle",
+  "fee": null,
+  "published": "2026-08-21T11:12:00+00:00"
  },
  {
   "id": "28c6e814b0c3",
@@ -1259,44 +1298,5 @@
   "url": "https://www.kicker.de/atubolu-kann-sich-wechsel-nach-frankfurt-gut-vorstellen-kaua-santos-spielt-im-pokal-1245002/artikel#omrss",
   "fee": null,
   "published": "2026-08-19T15:17:13+00:00"
- },
- {
-  "id": "77a3df79a9af",
-  "title": "Free agent Dieng set for intensive Lazio medical on August 20",
-  "player": "Bamba Dieng",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/free-agent-dieng-set-intensive-lazio-medical/",
-  "fee": null,
-  "published": "2026-08-19T15:16:15+00:00"
- },
- {
-  "id": "2c5c5d6634a2",
-  "title": "Ezri Konsa could make Arsenal debut at Aston Villa after £51m transfer agreement struck",
-  "player": "Ezri Konsa",
-  "title_ko": "Ezri Konsa는 £51m 이적 계약이 체결된 후 Aston Villa에서 아스날 데뷔전을 펼칠 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-aston-villa-37570381",
-  "fee": "£51M",
-  "published": "2026-08-19T15:06:18+00:00"
- },
- {
-  "id": "9d2e032196cb",
-  "title": "Inter Milan close to agreeing deal to sign Curtis Jones from Liverpool as talks revived",
-  "player": "Curtis Jones",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-inter-milan-curtis-jones-37570099",
-  "fee": null,
-  "published": "2026-08-19T14:52:32+00:00"
  }
 ]
