@@ -1,5 +1,31 @@
 [
  {
+  "id": "c9bba0a80012",
+  "title": "Arsenal complete £51m Konsa deal",
+  "player": "Ezri Konsa",
+  "title_ko": "아스날은 5100만 파운드의 콘사 딜을 완료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+  "fee": "£51M",
+  "published": "2026-08-21T11:24:00+00:00"
+ },
+ {
+  "id": "c5cd02afc1e2",
+  "title": "Juventus planning to sign three more players, including Man United striker",
+  "player": null,
+  "title_ko": "유벤투스는 맨유 공격수를 포함해 3명의 선수를 추가로 영입할 계획이다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-plan-sign-3-more-players-man-united/",
+  "fee": null,
+  "published": "2026-08-21T10:32:29+00:00"
+ },
+ {
   "id": "1630063e5b2e",
   "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
   "player": "Ham's Wan",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-19T14:41:00+00:00"
- },
- {
-  "id": "a187fb69dae9",
-  "title": "Liverpool to 'make new Bradley Barcola offer' as update on PSG transfer given",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG 이적에 대한 업데이트로 '새로운 브래들리 바르콜라 제안'을 할 것입니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-psg-transfer-37569360",
-  "fee": null,
-  "published": "2026-08-19T14:38:42+00:00"
- },
- {
-  "id": "00bbfd006080",
-  "title": "Nach De-Regt-Transfer: Holstein Kiel holt Madsen aus Portugal",
-  "player": "Nach De-",
-  "title_ko": "De Regt 이적 후: Holstein Kiel은 포르투갈에서 Madsen을 데려옵니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/nach-de-regt-transfer-holstein-kiel-holt-madsen-aus-portugal-1245030/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-19T14:35:57+00:00"
  }
 ]

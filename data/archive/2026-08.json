@@ -1,5 +1,31 @@
 [
  {
+  "id": "c9bba0a80012",
+  "title": "Arsenal complete £51m Konsa deal",
+  "player": "Ezri Konsa",
+  "title_ko": "아스날은 5100만 파운드의 콘사 딜을 완료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
+  "fee": "£51M",
+  "published": "2026-08-21T11:24:00+00:00"
+ },
+ {
+  "id": "c5cd02afc1e2",
+  "title": "Juventus planning to sign three more players, including Man United striker",
+  "player": null,
+  "title_ko": "유벤투스는 맨유 공격수를 포함해 3명의 선수를 추가로 영입할 계획이다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-plan-sign-3-more-players-man-united/",
+  "fee": null,
+  "published": "2026-08-21T10:32:29+00:00"
+ },
+ {
   "id": "1630063e5b2e",
   "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
   "player": "Ham's Wan",
