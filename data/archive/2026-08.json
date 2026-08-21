@@ -1,5 +1,57 @@
 [
  {
+  "id": "5615454c9c98",
+  "title": "Chelsea secure agreement to host Champions League games for Shakhtar Donetsk",
+  "player": "Shakhtar Donetsk",
+  "title_ko": "첼시, 샤흐타르 도네츠크와 챔피언스리그 경기 개최 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-shakhtar-champions-league-games-37579844",
+  "fee": null,
+  "published": "2026-08-21T16:55:23+00:00"
+ },
+ {
+  "id": "8f171f5218e7",
+  "title": "OM : \"Zéro recrue, des départs... un défi immense\" le challenge de Genesio",
+  "player": "Bruno Genesio",
+  "title_ko": "OM: \"신병 제로, 이탈... 엄청난 도전\" 제네시오의 도전",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-om-zero-recrue-des-departs-un-defi-immense-le-challenge-de-genesio_VN-202608210494.html",
+  "fee": null,
+  "published": "2026-08-21T16:50:48+00:00"
+ },
+ {
+  "id": "a459ede1e4da",
+  "title": "Arthur Melo cost Juventus €1.48m per match after disastrous Barcelona move",
+  "player": "Arthur Melo",
+  "title_ko": "아서 멜로(Arthur Melo)는 바르셀로나의 비참한 이적 이후 유벤투스에게 경기당 €1.48m의 손실을 입혔습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/arthur-melo-juventus-e148m-per-match-barcelona/",
+  "fee": "€1.48M",
+  "published": "2026-08-21T16:45:31+00:00"
+ },
+ {
+  "id": "3570358c2d6a",
+  "title": "Brighton manager Fabian Hurzeler responds to Man Utd's bid for Carlos Baleba",
+  "player": "Fabian Hurzeler",
+  "title_ko": "브라이튼의 파비안 후르젤러 감독은 카를로스 발레바에 대한 맨체스터 유나이티드의 제의에 응했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-hurzeler-37579791",
+  "fee": null,
+  "published": "2026-08-21T16:40:56+00:00"
+ },
+ {
   "id": "57e94adb50c8",
   "title": "Done Deal: Napoli send Obaretin to Lorient with €3.5m option to buy",
   "player": "Nosa Obaretin",

@@ -1,5 +1,57 @@
 [
  {
+  "id": "5615454c9c98",
+  "title": "Chelsea secure agreement to host Champions League games for Shakhtar Donetsk",
+  "player": "Shakhtar Donetsk",
+  "title_ko": "첼시, 샤흐타르 도네츠크와 챔피언스리그 경기 개최 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-shakhtar-champions-league-games-37579844",
+  "fee": null,
+  "published": "2026-08-21T16:55:23+00:00"
+ },
+ {
+  "id": "8f171f5218e7",
+  "title": "OM : \"Zéro recrue, des départs... un défi immense\" le challenge de Genesio",
+  "player": "Bruno Genesio",
+  "title_ko": "OM: \"신병 제로, 이탈... 엄청난 도전\" 제네시오의 도전",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-om-zero-recrue-des-departs-un-defi-immense-le-challenge-de-genesio_VN-202608210494.html",
+  "fee": null,
+  "published": "2026-08-21T16:50:48+00:00"
+ },
+ {
+  "id": "a459ede1e4da",
+  "title": "Arthur Melo cost Juventus €1.48m per match after disastrous Barcelona move",
+  "player": "Arthur Melo",
+  "title_ko": "아서 멜로(Arthur Melo)는 바르셀로나의 비참한 이적 이후 유벤투스에게 경기당 €1.48m의 손실을 입혔습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/arthur-melo-juventus-e148m-per-match-barcelona/",
+  "fee": "€1.48M",
+  "published": "2026-08-21T16:45:31+00:00"
+ },
+ {
+  "id": "3570358c2d6a",
+  "title": "Brighton manager Fabian Hurzeler responds to Man Utd's bid for Carlos Baleba",
+  "player": "Fabian Hurzeler",
+  "title_ko": "브라이튼의 파비안 후르젤러 감독은 카를로스 발레바에 대한 맨체스터 유나이티드의 제의에 응했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-hurzeler-37579791",
+  "fee": null,
+  "published": "2026-08-21T16:40:56+00:00"
+ },
+ {
   "id": "57e94adb50c8",
   "title": "Done Deal: Napoli send Obaretin to Lorient with €3.5m option to buy",
   "player": "Nosa Obaretin",
@@ -1246,57 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-ethan-nwaneri-37569330",
   "fee": null,
   "published": "2026-08-20T03:00:00+00:00"
- },
- {
-  "id": "b7dad721b64d",
-  "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
-  "player": null,
-  "title_ko": "서류: 첼시 마감일을 놓쳤음에도 불구하고 맨시티는 페르난데스에게 입찰할 예정",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574860/man-city-transfer-news-enzo-fernandez-bid-incoming-despite-missing-chelsea-deadline-paper-talk",
-  "fee": null,
-  "published": "2026-08-19T22:00:00+00:00"
- },
- {
-  "id": "c3ff67366023",
-  "title": "Done Deal: Jones permission to fly for Inter medical, €35m including bonus from Liverpool",
-  "player": "Curtis Jones",
-  "title_ko": "거래 완료: 존스의 인테르 메디컬 이적 허가, 리버풀 보너스 포함 €35m",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-jones-permission-inter-35m-liverpool/",
-  "fee": "€35M",
-  "published": "2026-08-19T21:58:22+00:00"
- },
- {
-  "id": "3d8ee7aa315e",
-  "title": "Rio Ferdinand delivers Premier League title prediction in response to £51m transfer",
-  "player": "Rio Ferdinand",
-  "title_ko": "리오 퍼디난드가 £51m 이적료에 대한 프리미어리그 타이틀 예측을 내놓았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/rio-ferdinand-premier-league-prediction-37571478",
-  "fee": "£51M",
-  "published": "2026-08-19T21:48:33+00:00"
- },
- {
-  "id": "46533cb7e7d0",
-  "title": "Man City join Man Utd in Kone race - Thursday's gossip",
-  "player": "Manu Kone",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-19T21:30:46+00:00"
  }
 ]
