@@ -1,5 +1,44 @@
 [
  {
+  "id": "9afd6ef8a401",
+  "title": "Spurs agree £85m Savinho deal and close in on Marmoush",
+  "player": "Omar Marmoush",
+  "title_ko": "토트넘은 8500만 파운드의 사비뉴 계약에 동의하고 마모시 영입에 성공했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-tottenham-agree-85m-deal-to-sign-man-city-winger-as-spurs-close-in-on-omar-marmoush",
+  "fee": "£85M",
+  "published": "2026-08-21T15:51:00+00:00"
+ },
+ {
+  "id": "39e3aa5ee7fb",
+  "title": "Inter Milan: Pavard \"fait du bon boulot\", Chivu convaincu après le retour de prêt du Français",
+  "player": "Benjamin Pavard",
+  "title_ko": "인터 밀란: 파바르는 \"잘 해낸다\", 프랑스인이 임대에서 돌아온 후 치부는 확신했다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/serie-a/inter-milan-pavard-fait-du-bon-boulot-chivu-convaincu-apres-le-retour-de-pret-du-francais_AV-202608210429.html",
+  "fee": null,
+  "published": "2026-08-21T15:10:04+00:00"
+ },
+ {
+  "id": "b40de20eaa17",
+  "title": "Arsenal complete stunning Ezri Konsa deal with defender set for instant Aston Villa reunion",
+  "player": "Ezri Konsa",
+  "title_ko": "아스날은 즉각적인 Aston Villa 재결합을 위해 수비수와 놀라운 Ezri Konsa 계약을 완료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-transfer-villa-37576752",
+  "fee": null,
+  "published": "2026-08-21T15:02:30+00:00"
+ },
+ {
   "id": "71a26cb7a88d",
   "title": "Mercato: \"il a demandé à partir dès le premier jour\", Maresca confirme l'envie d'ailleurs de Savinho, attendu à Tottenham",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/ruben-dias-rafael-leao-milan-manchester-city/",
   "fee": null,
   "published": "2026-08-19T19:16:36+00:00"
- },
- {
-  "id": "fbf07aa55ff4",
-  "title": "Tottenham eye double transfer swoop for Man City duo in Roberto De Zerbi 'bomba' plans",
-  "player": "Roberto De Zerbi",
-  "title_ko": "토트넘은 로베르토 데 제르비의 '폭탄' 계획을 통해 맨시티 듀오에게 이중 이적을 노리고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/spurs-transfers-latest-savinho-marmoush-37571110",
-  "fee": null,
-  "published": "2026-08-19T19:10:07+00:00"
- },
- {
-  "id": "8cc9cd1efec9",
-  "title": "Julian Alvarez left out of Atletico Madrid team as reason exposed amid transfer saga",
-  "player": "Julian Alvarez",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/atletico-madrid-julian-alvarez-future-37571119",
-  "fee": null,
-  "published": "2026-08-19T18:59:16+00:00"
- },
- {
-  "id": "4523c5659f2f",
-  "title": "Report Ricci ready for Como on loan with option to buy from Milan",
-  "player": "Samuele Ricci",
-  "title_ko": "리치가 밀란에서 구매할 수 있는 옵션과 함께 임대로 코모로 이적할 준비가 되었다고 보고하세요.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-ricci-ready-for-como-loan-option-milan/",
-  "fee": null,
-  "published": "2026-08-19T18:56:25+00:00"
  }
 ]
