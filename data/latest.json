@@ -13,6 +13,19 @@
   "published": "2026-08-21T12:56:58+00:00"
  },
  {
+  "id": "9f4a6f91092a",
+  "title": "Julian Alvarez to Arsenal twist as huge transfer agreement wrecks forward's dream move",
+  "player": "Julian Alvarez",
+  "title_ko": "거대한 이적 계약으로 인해 아스날로의 줄리안 알바레즈가 꿈의 이적을 망쳤습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-barcelona-atletico-37578321",
+  "fee": null,
+  "published": "2026-08-21T12:56:37+00:00"
+ },
+ {
   "id": "84f1a420d248",
   "title": "Paris FC: \"Ces joueurs ne partiront pas\", Rosenior clarifie la situation concernant le mercato de Kebbal et Camara",
   "player": "Liam Rosenior",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss",
   "fee": "£52M",
   "published": "2026-08-19T16:01:32+00:00"
- },
- {
-  "id": "98ad3c946b52",
-  "title": "Barcelona ready to pounce as Harry Kane makes contract stance clear to Bayern Munich",
-  "player": "Harry Kane",
-  "title_ko": "해리 케인이 바이에른 뮌헨에 계약 입장을 분명히 하자 바르셀로나는 반격 준비를 마쳤다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-bayern-munich-barcelona-37570168",
-  "fee": null,
-  "published": "2026-08-19T15:39:45+00:00"
  }
 ]
