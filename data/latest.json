@@ -1,5 +1,31 @@
 [
  {
+  "id": "1a08f430a800",
+  "title": "Man Utd agree £70m deal for Baleba",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유, 발레바 이적료 7000만 파운드에 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
+  "fee": "£70M",
+  "published": "2026-08-21T20:38:00+00:00"
+ },
+ {
+  "id": "77adfe8f1416",
+  "title": "Report Oosterwolde and Fenerbahce in Roma talks for total €20m deal",
+  "player": "Jayden Oosterwolde",
+  "title_ko": "총 €20m 거래에 대한 로마 협상에서 우스터볼데와 페네르바체를 보고하세요",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-oosterwolde-fenerbahce-roma-talks-20m/",
+  "fee": "€20M",
+  "published": "2026-08-21T19:44:29+00:00"
+ },
+ {
   "id": "eb4da2987d75",
   "title": "Inter Milan sign Jones from Liverpool",
   "player": "Curtis Jones",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-stassin-yamal-manu-kone-les-5-infos-mercato-du-jeudi-20-aout-a-13h_VN-202608200307.html",
   "fee": null,
   "published": "2026-08-20T10:44:00+00:00"
- },
- {
-  "id": "92bfe223feac",
-  "title": "Mercato: à la recherche d'un numéro 9, le Barça se dirige vers un nouvel échec après le dossier Alvarez",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 등번호 9번을 찾고 있는 바르샤는 알바레즈 사건 이후 또 다른 실패를 향해 가고 있다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-a-la-recherche-d-un-numero-9-le-barca-se-dirige-vers-un-nouvel-echec-apres-le-dossier-alvarez_AV-202608200280.html",
-  "fee": null,
-  "published": "2026-08-20T09:50:19+00:00"
- },
- {
-  "id": "66aeb8c3d591",
-  "title": "Myles Lewis-Skelly's mum bombarded over transfer saga as Ian Wright slams Arsenal fans",
-  "player": "Myles Lewis-",
-  "title_ko": "마일스 루이스-스켈리의 어머니는 이안 라이트가 아스날 팬들을 비난하자 이적설에 대해 맹비난했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-myles-lewis-skelly-37572121",
-  "fee": null,
-  "published": "2026-08-20T09:20:32+00:00"
  }
 ]

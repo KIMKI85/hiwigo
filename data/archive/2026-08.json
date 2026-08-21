@@ -1,5 +1,31 @@
 [
  {
+  "id": "1a08f430a800",
+  "title": "Man Utd agree £70m deal for Baleba",
+  "player": "Carlos Baleba",
+  "title_ko": "맨유, 발레바 이적료 7000만 파운드에 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
+  "fee": "£70M",
+  "published": "2026-08-21T20:38:00+00:00"
+ },
+ {
+  "id": "77adfe8f1416",
+  "title": "Report Oosterwolde and Fenerbahce in Roma talks for total €20m deal",
+  "player": "Jayden Oosterwolde",
+  "title_ko": "총 €20m 거래에 대한 로마 협상에서 우스터볼데와 페네르바체를 보고하세요",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-oosterwolde-fenerbahce-roma-talks-20m/",
+  "fee": "€20M",
+  "published": "2026-08-21T19:44:29+00:00"
+ },
+ {
   "id": "eb4da2987d75",
   "title": "Inter Milan sign Jones from Liverpool",
   "player": "Curtis Jones",
