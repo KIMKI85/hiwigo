@@ -1,5 +1,18 @@
 [
  {
+  "id": "ba08543277e3",
+  "title": "Mercato: l’ancien Lorientais Bamba Dieng rebondit à l’Etoile rouge de Belgrade",
+  "player": "Lorientais Bamba Dieng",
+  "title_ko": "Mercato: 전 Lorient 선수 Bamba Dieng이 Red Star Belgrade에서 다시 돌아왔습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ancien-lorientais-bamba-dieng-rebondit-a-l-etoile-rouge-de-belgrade_AV-202608210578.html",
+  "fee": null,
+  "published": "2026-08-21T20:43:55+00:00"
+ },
+ {
   "id": "1a08f430a800",
   "title": "Man Utd agree £70m deal for Baleba",
   "player": "Carlos Baleba",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/bologna-reward-orsolini-with-new-contract/",
   "fee": null,
   "published": "2026-08-20T12:08:19+00:00"
- },
- {
-  "id": "165cfcda916c",
-  "title": "La Real visitará al Betis sin Gorrotxategi, Marín y Guedes, y sin fichajes",
-  "player": "Pellegrino Matarazzo",
-  "title_ko": "라 레알은 고로차테지, 마린, 게데스 없이 베티스를 방문할 것이며, 계약도 없이 베티스를 방문할 것입니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/20/real-visitara-betis-gorrotxategi-marin-guedes-fichajes.html",
-  "fee": null,
-  "published": "2026-08-20T11:52:08+00:00"
  }
 ]
