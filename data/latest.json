@@ -1,5 +1,18 @@
 [
  {
+  "id": "7b328a9b9038",
+  "title": "Roberto De Zerbi issues honest message to Tottenham stars as he justifies transfer spend",
+  "player": "Roberto De Zerbi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-squad-spend-roberto-dezerbi-37579902",
+  "fee": null,
+  "published": "2026-08-21T21:30:00+00:00"
+ },
+ {
   "id": "10f47a353128",
   "title": "Mercato: \"Pourquoi je devrais choisir Trabzonspor?\", comment le club turc a convaincu Salah",
   "player": "Mohamed Salah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/real-sociedad/2026/08/20/matarazzo-falta-fichajes-aperribay-bretos-han-visto-siempre-buen-tio.html",
   "fee": null,
   "published": "2026-08-20T12:41:29+00:00"
- },
- {
-  "id": "fe72be7e0472",
-  "title": "Lazio walk away from Dieng transfer after failed medical",
-  "player": "Bamba Dieng",
-  "title_ko": "라치오, 메디컬 실패로 디엥 이적 포기",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-walk-away-from-dieng-transfer/",
-  "fee": null,
-  "published": "2026-08-20T12:38:33+00:00"
  }
 ]
