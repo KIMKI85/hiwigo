@@ -1,5 +1,31 @@
 [
  {
+  "id": "1630063e5b2e",
+  "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
+  "player": "Ham's Wan",
+  "title_ko": "웨스트햄의 완-비사카가 아스톤 빌라로 임대 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-21T10:24:16+00:00"
+ },
+ {
+  "id": "eb12f789772f",
+  "title": "Mercato: Strasbourg sort le chéquier pour le Karim Coulibaly",
+  "player": "Karim Coulibaly",
+  "title_ko": "Mercato: 스트라스부르가 Karim Coulibaly의 수표장을 꺼냅니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-sort-le-chequier-pour-le-karim-coulibaly_AV-202608210292.html",
+  "fee": null,
+  "published": "2026-08-21T10:20:04+00:00"
+ },
+ {
   "id": "57af44e0ec13",
   "title": "From Spain: Barcelona have agreement with Inter star Lautaro Martinez",
   "player": "From Spain",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/nach-de-regt-transfer-holstein-kiel-holt-madsen-aus-portugal-1245030/artikel#omrss",
   "fee": null,
   "published": "2026-08-19T14:35:57+00:00"
- },
- {
-  "id": "1fd2ccb10b77",
-  "title": "Inter close in on £30m deal for Liverpool's Jones",
-  "player": "Liverpool's Jones",
-  "title_ko": "인테르는 리버풀 존스의 £30m 계약을 성사시켰습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-08-19T14:23:20+00:00"
- },
- {
-  "id": "42182cce9d26",
-  "title": "Jose Mourinho rubbishes Rodri claim after Real Madrid lose transfer battle to Barcelona",
-  "player": "Jose Mourinho",
-  "title_ko": "호세 무리뉴는 레알 마드리드가 바르셀로나와의 이적 경쟁에서 패한 후 로드리의 주장을 일축했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-rodri-transfer-jose-mourinho-37569452",
-  "fee": null,
-  "published": "2026-08-19T13:56:31+00:00"
  }
 ]
