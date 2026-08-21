@@ -1,5 +1,18 @@
 [
  {
+  "id": "aec56504d29b",
+  "title": "Spurs agree £85m deal to sign Savinho from Man City",
+  "player": null,
+  "title_ko": "토트넘, 맨시티로부터 사비뉴 영입에 £85m 계약 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city",
+  "fee": "£85M",
+  "published": "2026-08-21T07:56:00+00:00"
+ },
+ {
   "id": "a221dca60a1a",
   "title": "Joao Palhinha vor Wechsel zu Benfica",
   "player": "Joao Palhinha",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-could-still-sign-another-goalkeeper/",
   "fee": null,
   "published": "2026-08-19T11:14:17+00:00"
- },
- {
-  "id": "6d6e93852964",
-  "title": "Leeds sign Elvedi from Borussia Monchengladbach",
-  "player": "Nico Elvedi",
-  "title_ko": "리즈, 보루시아 묀헨글라트바흐에서 엘베디 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-19T11:10:51+00:00"
  }
 ]
