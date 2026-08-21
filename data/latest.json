@@ -1,5 +1,18 @@
 [
  {
+  "id": "0bdaf29f4889",
+  "title": "Mercato: énorme tacle de l'agent d'Alvarez envers le président de l'Atlético, le feuilleton continue",
+  "player": "Julian Alvarez",
+  "title_ko": "메르카토: 아틀레티코 회장을 향한 알바레즈 에이전트의 엄청난 태클, 연속극은 계속된다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-enorme-tacle-de-l-agent-d-alvarez-envers-le-president-de-l-atletico-le-feuilleton-continue_AV-202608210618.html",
+  "fee": null,
+  "published": "2026-08-21T21:59:34+00:00"
+ },
+ {
   "id": "fa473caa611f",
   "title": "Chelsea: Napoli ready for Guiu, Roma request Gittens loan",
   "player": "Marc Guiu",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-set-hojlund-a-20-goal-target/",
   "fee": null,
   "published": "2026-08-20T14:00:00+00:00"
- },
- {
-  "id": "8a66a272e842",
-  "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
-  "player": "Andreas Schicker",
-  "title_ko": "\"그는 또 똑같아\": Asllani 이적 실패에 대한 Schicker",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/er-ist-wieder-der-alte-schicker-ueber-geplatzten-asllani-transfer-1245298/video#omrss",
-  "fee": null,
-  "published": "2026-08-20T13:21:42+00:00"
  }
 ]
