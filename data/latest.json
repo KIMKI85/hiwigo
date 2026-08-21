@@ -1,5 +1,18 @@
 [
  {
+  "id": "10f47a353128",
+  "title": "Mercato: \"Pourquoi je devrais choisir Trabzonspor?\", comment le club turc a convaincu Salah",
+  "player": "Mohamed Salah",
+  "title_ko": "메르카토: “내가 왜 트라브존스포르를 선택해야 하는가?”, 터키 클럽이 살라를 설득한 방법",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-je-devrais-choisir-trabzonspor-comment-le-club-turc-a-convaincu-salah_AV-202608210581.html",
+  "fee": null,
+  "published": "2026-08-21T20:47:14+00:00"
+ },
+ {
   "id": "ba08543277e3",
   "title": "Mercato: l’ancien Lorientais Bamba Dieng rebondit à l’Etoile rouge de Belgrade",
   "player": "Lorientais Bamba Dieng",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-walk-away-from-dieng-transfer/",
   "fee": null,
   "published": "2026-08-20T12:38:33+00:00"
- },
- {
-  "id": "d1e32a7116e7",
-  "title": "Official: Bologna reward Orsolini with new contract until 2031",
-  "player": "Riccardo Orsolini",
-  "title_ko": "공식: 볼로냐는 오르솔리니에게 2031년까지 재계약을 제안했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bologna-reward-orsolini-with-new-contract/",
-  "fee": null,
-  "published": "2026-08-20T12:08:19+00:00"
  }
 ]
