@@ -1,5 +1,44 @@
 [
  {
+  "id": "57d94981c7bf",
+  "title": "Allegri: De Bruyne can ‘play everywhere’ for Napoli, Badiashile move still not confirmed",
+  "player": "De Bruyne",
+  "title_ko": "알레그리: 데 브라이너는 나폴리에서 '어디서나 뛸 수 있다', 바디아실 이적은 아직 확정되지 않았다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/allegri-de-bruyne-play-everywhere-badiashile/",
+  "fee": null,
+  "published": "2026-08-21T12:56:58+00:00"
+ },
+ {
+  "id": "84f1a420d248",
+  "title": "Paris FC: \"Ces joueurs ne partiront pas\", Rosenior clarifie la situation concernant le mercato de Kebbal et Camara",
+  "player": "Liam Rosenior",
+  "title_ko": "파리 FC: “이 선수들은 떠나지 않을 것이다”, 로제니어는 케발과 카마라의 이적 기간 관련 상황을 해명했다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/paris-fc-ces-joueurs-ne-partiront-pas-rosenior-clarifie-la-situation-concernant-le-mercato-de-kebbal-et-camara_AV-202608210363.html",
+  "fee": null,
+  "published": "2026-08-21T12:54:19+00:00"
+ },
+ {
+  "id": "b0fc438f1aa6",
+  "title": "Andoni Iraola issues Liverpool transfer update as he teases multiple deals before deadline",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라(Andoni Iraola)는 마감일 전에 여러 거래를 예고하면서 리버풀 이적 업데이트를 발표했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-newcastle-37578523",
+  "fee": null,
+  "published": "2026-08-21T12:45:35+00:00"
+ },
+ {
   "id": "145322d5d459",
   "title": "David and Fortini: Double Hull City transfer blow with official transfer for Italian defender",
   "player": "Niccolò Fortini",
