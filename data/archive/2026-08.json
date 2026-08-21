@@ -1,5 +1,44 @@
 [
  {
+  "id": "3389428283a6",
+  "title": "OM: \"J'espère qu'on aura un groupe compétitif le 1er septembre\" Malgré la victoire face à Strasbourg, Genesio annonce une fin de mercato agitée",
+  "player": null,
+  "title_ko": "OM: \"9월 1일에 경쟁 그룹이 있었으면 좋겠다\"",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/om-on-doit-baisser-la-masse-salariale-malgre-la-victoire-face-a-strasbourg-genesio-annonce-une-fin-de-mercato-agitee_AP-202608210615.html",
+  "fee": null,
+  "published": "2026-08-21T21:44:50+00:00"
+ },
+ {
+  "id": "d4b1ba69e309",
+  "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
+  "player": "Carlos Baleba",
+  "title_ko": "맨체스터 유나이티드는 카를로스 발레바와 미드필더 재건을 계속하기로 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
+  "fee": null,
+  "published": "2026-08-21T21:30:45+00:00"
+ },
+ {
+  "id": "810a395dae3b",
+  "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
+  "player": "De Zerbi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league",
+  "fee": null,
+  "published": "2026-08-21T21:30:45+00:00"
+ },
+ {
   "id": "7b328a9b9038",
   "title": "Roberto De Zerbi issues honest message to Tottenham stars as he justifies transfer spend",
   "player": "Roberto De Zerbi",
