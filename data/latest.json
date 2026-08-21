@@ -1,5 +1,31 @@
 [
  {
+  "id": "694a15832a98",
+  "title": "Brighton reject £60m Liverpool bid for Minteh",
+  "player": "Yankuba Minteh",
+  "title_ko": "브라이튼은 민테에 대한 리버풀의 £60m 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger",
+  "fee": "£60M",
+  "published": "2026-08-21T18:24:00+00:00"
+ },
+ {
+  "id": "f2e5e946dc23",
+  "title": "Brighton reject Liverpool's new £60m Minteh bid",
+  "player": "Yankuba Minteh",
+  "title_ko": "브라이튼은 리버풀의 새로운 £60m 민테 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss",
+  "fee": "£60M",
+  "published": "2026-08-21T17:26:49+00:00"
+ },
+ {
   "id": "5615454c9c98",
   "title": "Chelsea secure agreement to host Champions League games for Shakhtar Donetsk",
   "player": "Shakhtar Donetsk",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-latest-gakpo-jones-37569429",
   "fee": "£70M",
   "published": "2026-08-20T04:00:00+00:00"
- },
- {
-  "id": "2cd8203023d4",
-  "title": "Man Utd news: Myles Lewis-Skelly transfer boost as club close in on £60m deal",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유 뉴스: 클럽이 ￡60m 계약을 성사시키면서 마일스 루이스-스켈리 이적 촉진",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-lewis-skelly-37569891",
-  "fee": "£60M",
-  "published": "2026-08-20T03:30:00+00:00"
- },
- {
-  "id": "f0460eed98a7",
-  "title": "Arsenal news: Ethan Nwaneri transfer stance clear as interest in two Man Utd stars emerges",
-  "player": "Ethan Nwaneri",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-ethan-nwaneri-37569330",
-  "fee": null,
-  "published": "2026-08-20T03:00:00+00:00"
  }
 ]
