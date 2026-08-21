@@ -1,5 +1,18 @@
 [
  {
+  "id": "71a26cb7a88d",
+  "title": "Mercato: \"il a demandé à partir dès le premier jour\", Maresca confirme l'envie d'ailleurs de Savinho, attendu à Tottenham",
+  "player": null,
+  "title_ko": "메르카토: \"그는 첫날부터 떠나라고 요청했다\", 마레스카는 사비뉴가 토트넘에서 기대되는 다른 곳에서 원하는 바를 확인했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-a-demande-a-partir-des-le-premier-jour-maresca-confirme-l-envie-d-ailleurs-de-savinho-attendu-a-tottenham_AV-202608210425.html",
+  "fee": null,
+  "published": "2026-08-21T14:54:38+00:00"
+ },
+ {
   "id": "29d5dd61f5cb",
   "title": "Mercato: \"Nous en avons besoin\", le coach de Liverpool réclamme encore l'arrivée de deux ailiers",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-ricci-ready-for-como-loan-option-milan/",
   "fee": null,
   "published": "2026-08-19T18:56:25+00:00"
- },
- {
-  "id": "dbebbf85a7d1",
-  "title": "Mercato: Arsenal crée la polémique en ouvrant la porte à un départ de ses jeunes formés au club",
-  "player": "Richard Garlick",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arsenal-cree-la-polemique-en-ouvrant-la-porte-a-un-depart-de-ses-jeunes-formes-au-club_AV-202608190520.html",
-  "fee": null,
-  "published": "2026-08-19T17:57:20+00:00"
  }
 ]
