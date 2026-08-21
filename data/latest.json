@@ -1,5 +1,31 @@
 [
  {
+  "id": "eb4da2987d75",
+  "title": "Inter Milan sign Jones from Liverpool",
+  "player": "Curtis Jones",
+  "title_ko": "인터 밀란은 리버풀에서 존스를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
+  "fee": null,
+  "published": "2026-08-21T19:30:00+00:00"
+ },
+ {
+  "id": "17c6c28d073d",
+  "title": "Official: Jones joins Inter from Liverpool in €30m plus bonus deal",
+  "player": "Curtis Jones",
+  "title_ko": "공식: 존스는 3천만 유로에 보너스 계약으로 리버풀에서 인테르로 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-jones-joins-inter-from-liverpool-e30m/",
+  "fee": "€30M",
+  "published": "2026-08-21T18:39:20+00:00"
+ },
+ {
   "id": "694a15832a98",
   "title": "Brighton reject £60m Liverpool bid for Minteh",
   "player": "Yankuba Minteh",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/retegui-on-juventus-list-of-striker-targets/",
   "fee": null,
   "published": "2026-08-20T08:43:39+00:00"
- },
- {
-  "id": "38de8f876099",
-  "title": "Mercato: Manchester City se lance sur la piste Manu Koné",
-  "player": "Manu Koné",
-  "title_ko": "Mercato: Manu Koné 트랙에서 맨체스터 시티 출범",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-se-lance-sur-la-piste-manu-kone_AV-202608200240.html",
-  "fee": null,
-  "published": "2026-08-20T08:38:13+00:00"
- },
- {
-  "id": "5253621d5681",
-  "title": "Inter Milan agree £30m deal for Liverpool's Jones",
-  "player": "Liverpool's Jones",
-  "title_ko": "인터 밀란은 리버풀의 존스와 £30m 계약에 합의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder",
-  "fee": "£30M",
-  "published": "2026-08-20T08:00:00+00:00"
  }
 ]
