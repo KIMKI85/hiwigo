@@ -1,5 +1,31 @@
 [
  {
+  "id": "00eccefd40b2",
+  "title": "Mercato: annoncé partant d'Al-Hilal, Benzema règle la question de son avenir",
+  "player": "Al Feiha",
+  "title_ko": "메르카토: 알 힐랄을 떠난다고 발표한 벤제마는 그의 미래에 대한 문제를 해결했다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-annonce-partant-d-al-hilal-benzema-regle-la-question-de-son-avenir_AV-202608210205.html",
+  "fee": null,
+  "published": "2026-08-21T07:56:31+00:00"
+ },
+ {
+  "id": "04222ce52441",
+  "title": "Tottenham set to sign Man City star Savinho as spending spree smashes £300m mark",
+  "player": "Roberto De Zerbi",
+  "title_ko": "토트넘은 £300m의 엄청난 지출로 맨시티의 스타 사비뉴를 영입할 예정입니다.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-man-city-transfer-savinho-37576564",
+  "fee": "£300M",
+  "published": "2026-08-21T07:56:21+00:00"
+ },
+ {
   "id": "aec56504d29b",
   "title": "Spurs agree £85m deal to sign Savinho from Man City",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city",
   "fee": "£85M",
   "published": "2026-08-21T07:56:00+00:00"
+ },
+ {
+  "id": "b80951144edc",
+  "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+  "player": "After Vinícius Júnior",
+  "title_ko": "축구 이적 루머: 엔드릭에서 리버풀로? 아스날, 마르티넬리와 일디즈를 교환할까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz",
+  "fee": null,
+  "published": "2026-08-21T07:41:43+00:00"
  },
  {
   "id": "a9bcaa614224",
