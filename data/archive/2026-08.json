@@ -1,5 +1,44 @@
 [
  {
+  "id": "57af44e0ec13",
+  "title": "From Spain: Barcelona have agreement with Inter star Lautaro Martinez",
+  "player": "From Spain",
+  "title_ko": "스페인에서: 바르셀로나는 인터 스타 라우타로 마르티네스와 계약을 맺었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/from-spain-barcelona-agreement-lautaro-inter/",
+  "fee": null,
+  "published": "2026-08-21T10:01:45+00:00"
+ },
+ {
+  "id": "0061b7b6d4dd",
+  "title": "Mercato: l'Atlético de Madrid prêt à vendre Julian Alvarez, mais pas au Barça",
+  "player": "Julian Alvarez",
+  "title_ko": "메르카토: 아틀레티코 마드리드는 줄리안 알바레즈를 팔 준비가 되었지만 바르샤에게는 팔지 않았습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-de-madrid-pret-a-vendre-julian-alvarez-mais-pas-au-barca_AV-202608210281.html",
+  "fee": null,
+  "published": "2026-08-21T10:00:59+00:00"
+ },
+ {
+  "id": "c547de3c9fc7",
+  "title": "Benzema, Ronaldinho, Lautaro Martinez… les 5 infos mercato du vendredi 21 août 2026 à 12h",
+  "player": "Lautaro Martinez",
+  "title_ko": "벤제마, 호나우지뉴, 라우타로 마르티네즈… 2026년 8월 21일 금요일 밤 12시 5차 이적 창구 정보.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-benzema-ronaldinho-lautaro-martinez-les-5-infos-mercato-du-vendredi-21-aout-2026-a-12h_VN-202608210280.html",
+  "fee": null,
+  "published": "2026-08-21T09:58:36+00:00"
+ },
+ {
   "id": "63678edfa042",
   "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
   "player": "Jose Mourinho",
