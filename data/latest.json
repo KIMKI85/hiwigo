@@ -1,5 +1,31 @@
 [
  {
+  "id": "63678edfa042",
+  "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
+  "player": "Jose Mourinho",
+  "title_ko": "엔드릭은 리버풀이 호세 무리뉴의 복수를 계획하면서 리버풀의 제안에 응했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-jose-mourinho-37577040",
+  "fee": null,
+  "published": "2026-08-21T09:17:54+00:00"
+ },
+ {
+  "id": "727fa7152877",
+  "title": "Rückkehr nach drei Jahren: Köln verpflichtet Skhiri",
+  "player": "Die Suche",
+  "title_ko": "3년 만에 복귀: 쾰른, 스키리 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/rueckkehr-nach-drei-jahren-koeln-verpflichtet-skhiri-1245257/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-21T09:00:43+00:00"
+ },
+ {
   "id": "de75e1465ae6",
   "title": "Rückkehr nach drei Jahren: Köln verpflichtet Shkiri",
   "player": "Die Suche",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/report-inter-jones-agreement-with-liverpool/",
   "fee": "€35M",
   "published": "2026-08-19T12:36:32+00:00"
- },
- {
-  "id": "6d030d1bc22c",
-  "title": "El Betis acuerda el fichaje de Parrott",
-  "player": null,
-  "title_ko": "베티스, 패럿 영입에 동의",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/betis/2026/08/19/betis-acuerda-fichaje-parrott.html",
-  "fee": null,
-  "published": "2026-08-19T12:29:06+00:00"
- },
- {
-  "id": "5c611945efb1",
-  "title": "Jose Mourinho reveals Vinicius Jr intervention that wrecked Arsenal transfer plan",
-  "player": "Jose Mourinho",
-  "title_ko": "조세 무리뉴는 아스날 이적 계획을 망친 비니시우스 주니어의 개입을 폭로했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/vinicius-junior-arsenal-jose-mourinho-37568848",
-  "fee": null,
-  "published": "2026-08-19T11:52:15+00:00"
  }
 ]
