@@ -1,5 +1,18 @@
 [
  {
+  "id": "869b155bf247",
+  "title": "Man Utd news: Michael Carrick to get transfer gift as medical booked for double deal",
+  "player": "Michael Carrick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37574449",
+  "fee": null,
+  "published": "2026-08-21T03:30:00+00:00"
+ },
+ {
   "id": "b545eca36658",
   "title": "Arsenal news: Swap deal for £60m-plus star mooted as 'magnificent signing' gets thumbs up",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gd1r1nel2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-19T10:24:11+00:00"
- },
- {
-  "id": "b42a984a053a",
-  "title": "Vicario bids emotional farewell to Tottenham: ‘A very exciting season ahead’",
-  "player": "Guglielmo Vicario",
-  "title_ko": "비카리오, 토트넘과 감정적 작별 인사 “앞으로 매우 흥미로운 시즌”",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/vicario-bids-emotional-farewell-to-tottenham/",
-  "fee": null,
-  "published": "2026-08-19T10:17:07+00:00"
  }
 ]
