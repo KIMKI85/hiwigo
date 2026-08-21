@@ -13,6 +13,58 @@
   "published": "2026-08-21T18:24:00+00:00"
  },
  {
+  "id": "a6f5981c11b1",
+  "title": "Pablo Martínez se convierte en el quinto fichaje malaguista",
+  "player": "Pablo Martínez",
+  "title_ko": "파블로 마르티네스는 말라기스타의 5번째 영입이 되었습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/21/pablo-martinez-convierte-quinto-fichaje-malaguista.html",
+  "fee": null,
+  "published": "2026-08-21T18:21:24+00:00"
+ },
+ {
+  "id": "4b060ddd1d5e",
+  "title": "Official: Sassuolo sign Leysen from Union Saint-Gilloise",
+  "player": "Fedde Leysen",
+  "title_ko": "공식: 사수올로(Sassuolo)가 Union Saint-Gilloise에서 Leysen을 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-sassuolo-leysen-union-saint-gilloise/",
+  "fee": null,
+  "published": "2026-08-21T18:20:28+00:00"
+ },
+ {
+  "id": "9559a3172f0f",
+  "title": "Mercato: Chelsea envisage de prêter Mudryk à Strasbourg",
+  "player": "Mykhaylo Mudryk",
+  "title_ko": "메르카토: 첼시는 머드릭을 스트라스부르로 임대하는 것을 고려하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-envisage-de-preter-mudryk-a-strasbourg_AV-202608210549.html",
+  "fee": null,
+  "published": "2026-08-21T18:14:51+00:00"
+ },
+ {
+  "id": "46e5e704b003",
+  "title": "Man United set for transfer windfall thanks to sell-on clause as player in 'advanced talks'",
+  "player": null,
+  "title_ko": "맨유, '고급 협상' 선수로서 매각 조항 덕분에 이적 횡재 예상",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-kambwala-37580009",
+  "fee": null,
+  "published": "2026-08-21T18:10:20+00:00"
+ },
+ {
   "id": "b8835bc1a178",
   "title": "Arsenal transfer 'proof' revealed live on Sky Sports in Julian Alvarez and Vinicius Jr claim",
   "player": "Sky Sports",
