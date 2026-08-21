@@ -1,5 +1,44 @@
 [
  {
+  "id": "088d035de4ea",
+  "title": "DIRECT. Mercato: suivez en live toutes les infos et rumeurs du 21 août 2026",
+  "player": null,
+  "title_ko": "직접. Mercato: 2026년 8월 21일의 모든 뉴스와 소문을 실시간으로 팔로우하세요",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-21-aout-2026_LN-202608210035.html",
+  "fee": null,
+  "published": "2026-08-21T04:04:21+00:00"
+ },
+ {
+  "id": "812e93505fe9",
+  "title": "Liverpool news: Virgil van Dijk makes 'unacceptable' claim as club approve three transfer exits",
+  "player": "Virgil van Dijk",
+  "title_ko": "리버풀 뉴스: 버질 반 다이크는 클럽이 세 번의 이적 출구를 승인함에 따라 '받아들일 수 없는' 주장을 했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-virgil-van-dijk-sales-37575394",
+  "fee": null,
+  "published": "2026-08-21T04:00:00+00:00"
+ },
+ {
+  "id": "c2e3bcb4dbf7",
+  "title": "Arsenal 'exploring Kenan Yildiz transfer' with chance of completing blockbuster swap",
+  "player": "Kenan Yildiz",
+  "title_ko": "아스날은 블록버스터 스왑을 완료할 가능성이 있는 '케난 일디즈 이적을 모색 중'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-kenan-yildiz-juventus-martinelli-37575894",
+  "fee": null,
+  "published": "2026-08-21T04:00:00+00:00"
+ },
+ {
   "id": "869b155bf247",
   "title": "Man Utd news: Michael Carrick to get transfer gift as medical booked for double deal",
   "player": "Michael Carrick",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/grealish-everton-transfer-man-city-37567920",
   "fee": null,
   "published": "2026-08-19T11:00:07+00:00"
- },
- {
-  "id": "7517488039c5",
-  "title": "Aston Villa expect another bid from Al Hilal for Ollie Watkins",
-  "player": "Al Hilal",
-  "title_ko": "Aston Villa는 Ollie Watkins에 대한 Al Hilal의 또 다른 입찰을 예상합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
-  "fee": null,
-  "published": "2026-08-19T10:57:58+00:00"
- },
- {
-  "id": "39d181ce44c9",
-  "title": "'A game-changing signing' | Man Utd close to signing Baleba from Brighton",
-  "player": "Sky Sports' Dan",
-  "title_ko": "'판도를 바꾸는 계약' | 맨유는 브라이튼의 발레바 영입에 임박했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13574636/transfer-latest-man-utd-close-to-signing-carlos-baleba-from-brighton",
-  "fee": null,
-  "published": "2026-08-19T10:25:00+00:00"
- },
- {
-  "id": "f5e502857915",
-  "title": "Arsenal preference is for Nwaneri to leave on loan",
-  "player": "Ethan Nwaneri",
-  "title_ko": "아스널은 은와네리를 임대로 떠나는 것을 선호한다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gd1r1nel2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-19T10:24:11+00:00"
  }
 ]
