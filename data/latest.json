@@ -1,5 +1,18 @@
 [
  {
+  "id": "a221dca60a1a",
+  "title": "Joao Palhinha vor Wechsel zu Benfica",
+  "player": "Joao Palhinha",
+  "title_ko": "Joao Palhinha v Wechsel zu Benfica",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/joao-palhinha-vor-wechsel-zu-benfica-1245423/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-21T06:33:31+00:00"
+ },
+ {
   "id": "5cfcd9574deb",
   "title": "Spurs agree £75m deal to sign Man City's Savinho",
   "player": "City's Savinho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-19T11:10:51+00:00"
- },
- {
-  "id": "0c753557e338",
-  "title": "Arsenal pushing on with deal to sign Villa's Konsa",
-  "player": "Villa's Konsa",
-  "title_ko": "아스날은 빌라의 콘사 영입을 추진하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-19T11:06:20+00:00"
  }
 ]
