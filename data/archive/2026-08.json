@@ -13,6 +13,32 @@
   "published": "2026-08-21T19:30:00+00:00"
  },
  {
+  "id": "42a54d2c06be",
+  "title": "LIVE! Hoeneß muss früh wechsel: Vagnoman ersetzt Nartey",
+  "player": "Hansa Rostock",
+  "title_ko": "살다! Hoeneß는 조기에 변화해야 합니다: Vagnoman이 Nartey를 대체합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-hoeness-muss-frueh-wechsel-vagnoman-ersetzt-nartey-1244499/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-21T18:54:48+00:00"
+ },
+ {
+  "id": "7ad19d84671d",
+  "title": "Inter complete £30m deal for Liverpool's Jones",
+  "player": "Liverpool's Jones",
+  "title_ko": "인테르는 리버풀의 존스와 £30m 계약을 완료했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-08-21T18:48:15+00:00"
+ },
+ {
   "id": "17c6c28d073d",
   "title": "Official: Jones joins Inter from Liverpool in €30m plus bonus deal",
   "player": "Curtis Jones",
