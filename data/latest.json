@@ -1,5 +1,18 @@
 [
  {
+  "id": "2207eb73e6ef",
+  "title": "Video: Liverpool midfielder Jones arrives for Inter medical",
+  "player": "Curtis Jones",
+  "title_ko": "비디오: 리버풀의 미드필더 존스가 인터 메디컬을 위해 도착합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-liverpool-jones-arrives-inter-medical/",
+  "fee": null,
+  "published": "2026-08-21T08:43:17+00:00"
+ },
+ {
   "id": "5b8643980673",
   "title": "Premier League returns with Arsenal v Coventry; transfer news and more: football – live",
   "player": "Read Football Daily",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
   "fee": null,
   "published": "2026-08-19T11:49:00+00:00"
- },
- {
-  "id": "9b9097287891",
-  "title": "Arsenal close in on deal to sign Aston Villa and England defender Ezri Konsa",
-  "player": "Ezri Konsa",
-  "title_ko": "아스날은 아스톤 빌라와 잉글랜드 수비수 에즈리 콘사 영입 계약을 성사시켰습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-aston-villa-ezri-konsa-37568694",
-  "fee": null,
-  "published": "2026-08-19T11:46:36+00:00"
  }
 ]
