@@ -13,6 +13,19 @@
   "published": "2026-08-21T18:24:00+00:00"
  },
  {
+  "id": "b8835bc1a178",
+  "title": "Arsenal transfer 'proof' revealed live on Sky Sports in Julian Alvarez and Vinicius Jr claim",
+  "player": "Sky Sports",
+  "title_ko": "줄리안 알바레즈와 비니시우스 주니어의 주장이 스카이 스포츠에서 생방송으로 공개된 아스날 이적 '증명'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-sky-sports-vinicius-junior-37580104",
+  "fee": null,
+  "published": "2026-08-21T18:02:09+00:00"
+ },
+ {
   "id": "a2ec6334dba6",
   "title": "Liverpool learn Yankuba Minteh price tag after Brighton reject second transfer bid",
   "player": "Yankuba Minteh",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-arsenal-liverpool-live-37571702",
   "fee": "£65M",
   "published": "2026-08-20T05:38:51+00:00"
- },
- {
-  "id": "529326a029bd",
-  "title": "Brighton manager's Carlos Baleba admission, why initial transfer efforts failed, new Man Utd bid",
-  "player": "Carlos Baleba",
-  "title_ko": "브라이튼 감독 카를로스 발레바 인정, 초기 이적 노력이 실패한 이유, 새로운 맨유 입찰",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/carlos-baleba-man-utd-transfer-37568250",
-  "fee": null,
-  "published": "2026-08-20T05:30:00+00:00"
  }
 ]
