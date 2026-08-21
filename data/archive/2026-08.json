@@ -1,5 +1,31 @@
 [
  {
+  "id": "12f24558db09",
+  "title": "Mercato: Konsa officiellement à Arsenal, les Gunners tiennent le remplaçant de Saliba",
+  "player": "Ezri Konsa",
+  "title_ko": "Mercato: Konsa는 공식적으로 Arsenal에 있고, Gunners는 Saliba의 교체 선수를 보유하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-konsa-officiellement-a-arsenal-les-gunners-tiennent-le-remplacant-de-saliba_AN-202608210463.html",
+  "fee": null,
+  "published": "2026-08-21T16:08:27+00:00"
+ },
+ {
+  "id": "cf618e7accab",
+  "title": "Report Di Gregorio targeted by Bournemouth, close to Juventus agreement",
+  "player": "Di Gregorio",
+  "title_ko": "유벤투스 계약에 가까운 본머스의 타겟인 디 그레고리오 보고",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/di-gregorio-bournemouth-close-to-juventus/",
+  "fee": null,
+  "published": "2026-08-21T16:06:07+00:00"
+ },
+ {
   "id": "9afd6ef8a401",
   "title": "Spurs agree £85m Savinho deal and close in on Marmoush",
   "player": "Omar Marmoush",
