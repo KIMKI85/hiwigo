@@ -1,5 +1,18 @@
 [
  {
+  "id": "29d5dd61f5cb",
+  "title": "Mercato: \"Nous en avons besoin\", le coach de Liverpool réclamme encore l'arrivée de deux ailiers",
+  "player": "Andoni Iraola",
+  "title_ko": "메르카토: \"우리는 그들이 필요하다\", 리버풀 코치는 여전히 두 명의 윙어의 도착을 요구하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nous-en-avons-besoin-le-coach-de-liverpool-reclamme-encore-l-arrivee-de-deux-ailiers_AV-202608210420.html",
+  "fee": null,
+  "published": "2026-08-21T14:37:45+00:00"
+ },
+ {
   "id": "3c8e67c3a06b",
   "title": "Morata next on Lazio wish list after Deng medical failure",
   "player": "Alvaro Morata",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arsenal-cree-la-polemique-en-ouvrant-la-porte-a-un-depart-de-ses-jeunes-formes-au-club_AV-202608190520.html",
   "fee": null,
   "published": "2026-08-19T17:57:20+00:00"
- },
- {
-  "id": "f12a7be01218",
-  "title": "Arsenal close to signing two Man Utd youngsters as club's new transfer strategy continues",
-  "player": "James Scanlon",
-  "title_ko": "아스날은 클럽의 새로운 이적 전략이 계속됨에 따라 두 명의 맨유 유망주 영입에 가까워졌습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-man-utd-37570855",
-  "fee": null,
-  "published": "2026-08-19T17:42:19+00:00"
  }
 ]
