@@ -13,6 +13,45 @@
   "published": "2026-08-21T15:51:00+00:00"
  },
  {
+  "id": "f12145d10742",
+  "title": "Chelsea reject initial Leeds loan bid for Mudryk",
+  "player": "Mykhailo Mudryk",
+  "title_ko": "첼시는 Mudryk에 대한 초기 리즈 임대 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-21T15:22:37+00:00"
+ },
+ {
+  "id": "5b63c8db4a80",
+  "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+  "player": "Villa's Konsa",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
+  "fee": "£51M",
+  "published": "2026-08-21T15:20:45+00:00"
+ },
+ {
+  "id": "cd97f4a97a45",
+  "title": "Video: Sutalo lands for Lazio medical in potential €10.5m agreement with Ajax",
+  "player": "Josip Sutalo",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sutalo-lazio-medical-potential-e10-5m-ajax/",
+  "fee": "€10.5M",
+  "published": "2026-08-21T15:19:30+00:00"
+ },
+ {
   "id": "39e3aa5ee7fb",
   "title": "Inter Milan: Pavard \"fait du bon boulot\", Chivu convaincu après le retour de prêt du Français",
   "player": "Benjamin Pavard",

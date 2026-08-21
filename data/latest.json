@@ -13,6 +13,45 @@
   "published": "2026-08-21T15:51:00+00:00"
  },
  {
+  "id": "f12145d10742",
+  "title": "Chelsea reject initial Leeds loan bid for Mudryk",
+  "player": "Mykhailo Mudryk",
+  "title_ko": "첼시는 Mudryk에 대한 초기 리즈 임대 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-21T15:22:37+00:00"
+ },
+ {
+  "id": "5b63c8db4a80",
+  "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+  "player": "Villa's Konsa",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
+  "fee": "£51M",
+  "published": "2026-08-21T15:20:45+00:00"
+ },
+ {
+  "id": "cd97f4a97a45",
+  "title": "Video: Sutalo lands for Lazio medical in potential €10.5m agreement with Ajax",
+  "player": "Josip Sutalo",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sutalo-lazio-medical-potential-e10-5m-ajax/",
+  "fee": "€10.5M",
+  "published": "2026-08-21T15:19:30+00:00"
+ },
+ {
   "id": "39e3aa5ee7fb",
   "title": "Inter Milan: Pavard \"fait du bon boulot\", Chivu convaincu après le retour de prêt du Français",
   "player": "Benjamin Pavard",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-ederson-medical-failed-37571309",
   "fee": null,
   "published": "2026-08-19T20:48:41+00:00"
- },
- {
-  "id": "ce88bcd2fca7",
-  "title": "Arsenal, Man Utd and Chelsea forced to wait for next transfer after major twist",
-  "player": null,
-  "title_ko": "아스널, 맨유, 첼시는 큰 변화 이후 다음 이적을 기다려야 했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-chelsea-arsenal-transfers-37571226",
-  "fee": null,
-  "published": "2026-08-19T20:31:24+00:00"
- },
- {
-  "id": "46dd247c820a",
-  "title": "Official: Moreira joins Milan from RC Strasbourg for circa €65m including bonus",
-  "player": "Diego Moreira",
-  "title_ko": "공식: 모레이라는 ​​보너스를 포함해 약 €65m에 RC 스트라스부르에서 밀란으로 합류했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-moreira-joins-milan-rc-strasbourg/",
-  "fee": "€65M",
-  "published": "2026-08-19T20:16:06+00:00"
- },
- {
-  "id": "51a699705d93",
-  "title": "Suggestion of Ruben Dias swap with Rafael Leao for Milan and Manchester City",
-  "player": "Ruben Dias",
-  "title_ko": "밀란과 맨체스터 시티의 라파엘 레오와 루벤 디아스 스왑 제안",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ruben-dias-rafael-leao-milan-manchester-city/",
-  "fee": null,
-  "published": "2026-08-19T19:16:36+00:00"
  }
 ]
