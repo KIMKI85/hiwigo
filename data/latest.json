@@ -1,5 +1,18 @@
 [
  {
+  "id": "ce2dcfedf733",
+  "title": "Liverpool star told he must tear up his contract to seal return to former club",
+  "player": "Stefan Bajcetic",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-stefan-bajcetic-37582486",
+  "fee": null,
+  "published": "2026-08-22T17:37:14+00:00"
+ },
+ {
   "id": "fe02cc97f0ba",
   "title": "Mercato: bloqué par l'Atlético, Alvarez ouvrirait la porte à un départ vers Arsenal",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-21-aout-2026_LN-202608210035.html",
   "fee": null,
   "published": "2026-08-21T04:04:21+00:00"
- },
- {
-  "id": "812e93505fe9",
-  "title": "Liverpool news: Virgil van Dijk makes 'unacceptable' claim as club approve three transfer exits",
-  "player": "Virgil van Dijk",
-  "title_ko": "리버풀 뉴스: 버질 반 다이크는 클럽이 세 번의 이적 출구를 승인함에 따라 '받아들일 수 없는' 주장을 했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-virgil-van-dijk-sales-37575394",
-  "fee": null,
-  "published": "2026-08-21T04:00:00+00:00"
  }
 ]
