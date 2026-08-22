@@ -1,5 +1,31 @@
 [
  {
+  "id": "fe02cc97f0ba",
+  "title": "Mercato: bloqué par l'Atlético, Alvarez ouvrirait la porte à un départ vers Arsenal",
+  "player": "Julian Alvarez",
+  "title_ko": "메르카토: 아틀레티코에 의해 막힌 알바레스는 아스날로 이적할 문을 열 것이다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bloque-par-l-atletico-alvarez-ouvrirait-la-porte-a-un-depart-vers-arsenal_AV-202608220305.html",
+  "fee": null,
+  "published": "2026-08-22T17:07:55+00:00"
+ },
+ {
+  "id": "e76d48ebbd82",
+  "title": "Arsenal dealt Kenan Yildiz blow as transfer hopes ended - 'They can offer whatever'",
+  "player": "Kenan Yildiz",
+  "title_ko": "아스날은 이적 희망이 끝나자 케난 일디즈에게 타격을 입혔다 - '그들은 무엇이든 제공할 수 있다'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-target-juventus-yildiz-future-37582428",
+  "fee": null,
+  "published": "2026-08-22T16:56:37+00:00"
+ },
+ {
   "id": "4ea1b552666a",
   "title": "Man Utd told new urgent transfer need after awful opening-day defeat to Hull City",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-virgil-van-dijk-sales-37575394",
   "fee": null,
   "published": "2026-08-21T04:00:00+00:00"
- },
- {
-  "id": "c2e3bcb4dbf7",
-  "title": "Arsenal 'exploring Kenan Yildiz transfer' with chance of completing blockbuster swap",
-  "player": "Kenan Yildiz",
-  "title_ko": "아스날은 블록버스터 스왑을 완료할 가능성이 있는 '케난 일디즈 이적을 모색 중'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-kenan-yildiz-juventus-martinelli-37575894",
-  "fee": null,
-  "published": "2026-08-21T04:00:00+00:00"
- },
- {
-  "id": "869b155bf247",
-  "title": "Man Utd news: Michael Carrick to get transfer gift as medical booked for double deal",
-  "player": "Michael Carrick",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37574449",
-  "fee": null,
-  "published": "2026-08-21T03:30:00+00:00"
  }
 ]
