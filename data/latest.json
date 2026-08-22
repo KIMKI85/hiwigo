@@ -1,5 +1,18 @@
 [
  {
+  "id": "a7815f12f471",
+  "title": "Done Deal: Oosterwolde to Roma from Fenerbahce with €18m purchase option",
+  "player": "Jayden Oosterwolde",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-oosterwolde-to-roma-from-fenerbahce/",
+  "fee": "€18M",
+  "published": "2026-08-22T21:57:47+00:00"
+ },
+ {
   "id": "767a1ddd28d2",
   "title": "DIRECT. Espanyol-Real Madrid: la recrue Carlos Espi offre la première victoire de l'ère Mourinho au Real !",
   "player": "Carlos Espi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city",
   "fee": "£85M",
   "published": "2026-08-21T07:56:00+00:00"
- },
- {
-  "id": "b80951144edc",
-  "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
-  "player": "After Vinícius Júnior",
-  "title_ko": "축구 이적 루머: 엔드릭에서 리버풀로? 아스날, 마르티넬리와 일디즈를 교환할까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz",
-  "fee": null,
-  "published": "2026-08-21T07:41:43+00:00"
  }
 ]
