@@ -1,5 +1,18 @@
 [
  {
+  "id": "4aaea380b3d7",
+  "title": "Official: Lazio sign Croatia international Sutalo from Ajax",
+  "player": "Josip Sutalo",
+  "title_ko": "공식: 라치오가 아약스에서 크로아티아 국가대표 수탈로를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lazio-sign-sutalo-from-ajax/",
+  "fee": null,
+  "published": "2026-08-22T15:17:24+00:00"
+ },
+ {
   "id": "1f450d499014",
   "title": "Milan have clear asking price as Nkunku says yes to RB Leipzig transfer",
   "player": "Christopher Nkunku",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-20T20:47:42+00:00"
- },
- {
-  "id": "ad1a0ae3af65",
-  "title": "Parrott makes move to Real Betis from AZ Alkmaar",
-  "player": "Troy Parrott",
-  "title_ko": "패럿, AZ 알크마르에서 레알 베티스로 이적",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-20T20:15:59+00:00"
  }
 ]
