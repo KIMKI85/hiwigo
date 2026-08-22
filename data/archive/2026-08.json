@@ -1,5 +1,31 @@
 [
  {
+  "id": "33f684acb363",
+  "title": "Official: Atalanta confirm Elmas move in surprising deal with RB Leipzig",
+  "player": "Eljif Elmas",
+  "title_ko": "공식: 아탈란타는 엘마스가 RB 라이프치히와 놀라운 계약을 맺었다고 확인했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atalanta-elmas-move-deal-rb-leipzig/",
+  "fee": null,
+  "published": "2026-08-22T11:42:03+00:00"
+ },
+ {
+  "id": "18eb44f182b0",
+  "title": "DIRECT. Rennes-PSG (J-1): inversion du match aller, mercato, forme des joueurs... Revivez la conférence de presse de Luis Enrique",
+  "player": "Luis Enrique",
+  "title_ko": "직접. 렌-PSG(D-1) : 1차전 역전, 이적시장, 선수 체력…루이스 엔리케 기자회견 재현",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-psg-j-1-suivez-en-live-la-conference-de-presse-de-luis-enrique-avant-la-reprise-de-la-ligue-1_LN-202608220165.html",
+  "fee": null,
+  "published": "2026-08-22T11:32:40+00:00"
+ },
+ {
   "id": "7beb1c4cefb7",
   "title": "INFO RMC Sport. Mercato: accord entre Nice et l'Eintracht Francfort pour le retour d'Elye Wahi",
   "player": "Eintracht Francfort",

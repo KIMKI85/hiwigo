@@ -1,5 +1,31 @@
 [
  {
+  "id": "33f684acb363",
+  "title": "Official: Atalanta confirm Elmas move in surprising deal with RB Leipzig",
+  "player": "Eljif Elmas",
+  "title_ko": "공식: 아탈란타는 엘마스가 RB 라이프치히와 놀라운 계약을 맺었다고 확인했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atalanta-elmas-move-deal-rb-leipzig/",
+  "fee": null,
+  "published": "2026-08-22T11:42:03+00:00"
+ },
+ {
+  "id": "18eb44f182b0",
+  "title": "DIRECT. Rennes-PSG (J-1): inversion du match aller, mercato, forme des joueurs... Revivez la conférence de presse de Luis Enrique",
+  "player": "Luis Enrique",
+  "title_ko": "직접. 렌-PSG(D-1) : 1차전 역전, 이적시장, 선수 체력…루이스 엔리케 기자회견 재현",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-psg-j-1-suivez-en-live-la-conference-de-presse-de-luis-enrique-avant-la-reprise-de-la-ligue-1_LN-202608220165.html",
+  "fee": null,
+  "published": "2026-08-22T11:32:40+00:00"
+ },
+ {
   "id": "7beb1c4cefb7",
   "title": "INFO RMC Sport. Mercato: accord entre Nice et l'Eintracht Francfort pour le retour d'Elye Wahi",
   "player": "Eintracht Francfort",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/vor-dem-pokal-highlight-jeddeloh-verpflichtet-drochtersens-top-torjaeger-hyseni-1245361/artikel#omrss",
   "fee": null,
   "published": "2026-08-20T18:20:27+00:00"
- },
- {
-  "id": "2d58889bdb32",
-  "title": "Michael Carrick drops hint over Man Utd's next signing after Carlos Baleba transfer",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 카를로스 발레바 이적 후 맨유의 다음 영입에 대한 힌트를 던졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/carrick-manchester-united-baleba-balde-37575465",
-  "fee": null,
-  "published": "2026-08-20T17:08:28+00:00"
- },
- {
-  "id": "578c617701c5",
-  "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
-  "player": "Brighton's Minteh",
-  "title_ko": "리버풀은 브라이튼의 민테에 대한 £50m의 제의를 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
-  "fee": "£50M",
-  "published": "2026-08-20T17:06:34+00:00"
  }
 ]
