@@ -1,5 +1,18 @@
 [
  {
+  "id": "e2430f164576",
+  "title": "Le feuilleton du mercato continue: Julian Alvarez de retour dans le groupe de l'Atlético de Madrid",
+  "player": "Julian Alvarez",
+  "title_ko": "계속되는 이적 기간: 줄리안 알바레스가 아틀레티코 마드리드 그룹으로 돌아왔습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/le-feuilleton-du-mercato-continue-julian-alvarez-de-retour-dans-le-groupe-de-l-atletico-de-madrid_AV-202608220234.html",
+  "fee": null,
+  "published": "2026-08-22T12:35:25+00:00"
+ },
+ {
   "id": "ad7fddb95e89",
   "title": "Juventus near Grabara deal as goalkeeping overhaul continues after Vicario and Di Gregorio deals",
   "player": "Di Gregorio",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/zirkzee-still-a-juventus-and-napoli-target/",
   "fee": null,
   "published": "2026-08-20T18:30:00+00:00"
- },
- {
-  "id": "4f75bcb1722f",
-  "title": "Lücke geschlossen: Köln verpflichtet Außenverteidiger Heister",
-  "player": "Fortuna Köln",
-  "title_ko": "격차 해소: 쾰른이 풀백 하이스터와 계약함",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/luecke-geschlossen-koeln-verpflichtet-aussenverteidiger-heister-1245364/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-20T18:29:35+00:00"
  }
 ]
