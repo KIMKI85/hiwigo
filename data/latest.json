@@ -1,5 +1,18 @@
 [
  {
+  "id": "967212b41476",
+  "title": "Juventus find Cabal refusal to join Bologna frustrating",
+  "player": "Juan Cabal",
+  "title_ko": "유벤투스는 카발이 볼로냐에 합류하는 것을 거부한 것을 실망스럽게 생각합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-cabal-refusal-to-bologna-frustrating/",
+  "fee": null,
+  "published": "2026-08-22T13:50:12+00:00"
+ },
+ {
   "id": "f18090fa40a9",
   "title": "Liverpool complete transfer as Andoni Iraola makes new signing promise",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/badiashile-passes-medical-napoli-squad/",
   "fee": null,
   "published": "2026-08-20T18:50:00+00:00"
- },
- {
-  "id": "f0ce9a96885a",
-  "title": "Man Utd's Carlos Baleba deal shows they've learnt from Frenkie de Jong mistake",
-  "player": "Utd's Carlos",
-  "title_ko": "맨유의 카를로스 발레바 계약은 프렌키 데 용의 실수로부터 교훈을 얻었음을 보여줍니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-baleba-de-jong-37575208",
-  "fee": null,
-  "published": "2026-08-20T18:38:12+00:00"
  }
 ]
