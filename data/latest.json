@@ -1,5 +1,31 @@
 [
  {
+  "id": "2adb3e5e4a70",
+  "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+  "player": "Julian Alvarez",
+  "title_ko": "알바레즈, 아스날 이적 가능성 열려 - 일요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-22T20:39:00+00:00"
+ },
+ {
+  "id": "8cc2b80ddcaf",
+  "title": "LIVE! Keine Wechsel zur Pause - Cala kratzt am Platzverweis",
+  "player": "Keine Wechsel",
+  "title_ko": "살다! 휴식 시간에 교체 선수 없음 - 칼라가 퇴장당할 지경에 이르렀습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/espanyol-gegen-real-madrid-2026-la-liga-5223807/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-08-22T20:37:57+00:00"
+ },
+ {
   "id": "ce2dcfedf733",
   "title": "Liverpool star told he must tear up his contract to seal return to former club",
   "player": "Stefan Bajcetic",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/joao-palhinha-vor-wechsel-zu-benfica-1245423/artikel#omrss",
   "fee": null,
   "published": "2026-08-21T06:33:31+00:00"
- },
- {
-  "id": "5cfcd9574deb",
-  "title": "Spurs agree £75m deal to sign Man City's Savinho",
-  "player": "City's Savinho",
-  "title_ko": "토트넘, 맨시티의 사비뉴 영입에 £75m 계약 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
-  "fee": "£75M",
-  "published": "2026-08-21T06:01:09+00:00"
- },
- {
-  "id": "088d035de4ea",
-  "title": "DIRECT. Mercato: suivez en live toutes les infos et rumeurs du 21 août 2026",
-  "player": null,
-  "title_ko": "직접. Mercato: 2026년 8월 21일의 모든 뉴스와 소문을 실시간으로 팔로우하세요",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-21-aout-2026_LN-202608210035.html",
-  "fee": null,
-  "published": "2026-08-21T04:04:21+00:00"
  }
 ]

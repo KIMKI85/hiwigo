@@ -1,5 +1,31 @@
 [
  {
+  "id": "2adb3e5e4a70",
+  "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+  "player": "Julian Alvarez",
+  "title_ko": "알바레즈, 아스날 이적 가능성 열려 - 일요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-22T20:39:00+00:00"
+ },
+ {
+  "id": "8cc2b80ddcaf",
+  "title": "LIVE! Keine Wechsel zur Pause - Cala kratzt am Platzverweis",
+  "player": "Keine Wechsel",
+  "title_ko": "살다! 휴식 시간에 교체 선수 없음 - 칼라가 퇴장당할 지경에 이르렀습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/espanyol-gegen-real-madrid-2026-la-liga-5223807/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-08-22T20:37:57+00:00"
+ },
+ {
   "id": "ce2dcfedf733",
   "title": "Liverpool star told he must tear up his contract to seal return to former club",
   "player": "Stefan Bajcetic",
