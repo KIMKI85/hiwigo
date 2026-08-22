@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f5cd91dd050",
+  "title": "Transfer fee revealed as Juventus agree to send Di Gregorio to Bournemouth",
+  "player": "Di Gregorio",
+  "title_ko": "유벤투스가 디 그레고리오를 본머스로 보내기로 합의함에 따라 이적료 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/details-revealed-di-gregorio-bournemouth/",
+  "fee": null,
+  "published": "2026-08-22T08:05:25+00:00"
+ },
+ {
+  "id": "00ed1969c3ff",
+  "title": "Arsenal icon Ian Wright slams 'uncomfortable' transfer treatment of Gabriel Martinelli",
+  "player": "Ian Wright",
+  "title_ko": "아스날 아이콘 이안 라이트는 가브리엘 마르티넬리의 이적 처리가 '불편하다'고 비난했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-wright-37580844",
+  "fee": null,
+  "published": "2026-08-22T07:56:11+00:00"
+ },
+ {
   "id": "fe6ab8cce512",
   "title": "Premier League buildup, transfers and Hull v Manchester United early news – matchday live",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-yankuba-minteh-bid-brighton-37575331",
   "fee": "£50M",
   "published": "2026-08-20T16:11:03+00:00"
- },
- {
-  "id": "6d2dff265434",
-  "title": "Troy Parrott aterriza en Sevilla para cerrar su fichaje por el Betis",
-  "player": "Troy Parrott",
-  "title_ko": "트로이 패럿은 베티스와의 계약을 마무리하기 위해 세비야에 도착했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/betis/2026/08/20/troy-parrott-aterriza-sevilla-cerrar-fichaje-betis.html",
-  "fee": null,
-  "published": "2026-08-20T15:27:50+00:00"
- },
- {
-  "id": "a583e96438c2",
-  "title": "Liverpool 'need five more signings' with three transfer targets absolute musts",
-  "player": "Andoni Iroala",
-  "title_ko": "리버풀은 3개의 이적 목표와 함께 '5명의 영입이 더 필요하다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-signings-andoni-iraola-37574689",
-  "fee": null,
-  "published": "2026-08-20T15:23:50+00:00"
  }
 ]
