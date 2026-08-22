@@ -1,5 +1,18 @@
 [
  {
+  "id": "fe6ab8cce512",
+  "title": "Premier League buildup, transfers and Hull v Manchester United early news – matchday live",
+  "player": null,
+  "title_ko": "프리미어 리그 빌드업, 이적 및 헐 v 맨체스터 유나이티드 초기 뉴스 – 매치데이 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
+  "fee": null,
+  "published": "2026-08-22T07:10:40+00:00"
+ },
+ {
   "id": "eaba84e7e7a8",
   "title": "Liverpool news: Andoni Iraola makes transfer promise as Endrick responds to interest",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-signings-andoni-iraola-37574689",
   "fee": null,
   "published": "2026-08-20T15:23:50+00:00"
- },
- {
-  "id": "1ef1c973b94a",
-  "title": "Lazio push for Hull target Pinamonti after Dieng move collapsed",
-  "player": "Andrea Pinamonti",
-  "title_ko": "디엥 이적이 무산된 후 헐 타겟 피나몬티를 노리는 라치오",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-push-for-hull-target-pinamonti/",
-  "fee": null,
-  "published": "2026-08-20T15:15:00+00:00"
  }
 ]
