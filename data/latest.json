@@ -1,5 +1,18 @@
 [
  {
+  "id": "1f450d499014",
+  "title": "Milan have clear asking price as Nkunku says yes to RB Leipzig transfer",
+  "player": "Christopher Nkunku",
+  "title_ko": "은쿤쿠가 RB 라이프치히 이적을 승인함에 따라 밀란은 분명한 가격을 요구하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/nkunku-says-yes-leipzig-transfer-asking-price/",
+  "fee": null,
+  "published": "2026-08-22T14:48:18+00:00"
+ },
+ {
   "id": "3ba72c37f388",
   "title": "Mercato: Barcola et Mbaye ne sont pas dans le groupe pour Rennes-PSG",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-20T20:15:59+00:00"
- },
- {
-  "id": "5a3b84f7da13",
-  "title": "Joao Pedro set to extend Chelsea deal to 2034",
-  "player": "Joao Pedro",
-  "title_ko": "주앙 페드로, 첼시와 2034년까지 연장 계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-20T19:06:34+00:00"
  }
 ]
