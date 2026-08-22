@@ -1,5 +1,18 @@
 [
  {
+  "id": "7beb1c4cefb7",
+  "title": "INFO RMC Sport. Mercato: accord entre Nice et l'Eintracht Francfort pour le retour d'Elye Wahi",
+  "player": "Eintracht Francfort",
+  "title_ko": "정보 RMC 스포츠. Mercato: Elye Wahi 복귀를 위한 Nice와 Eintracht 프랑크푸르트 간의 합의",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-accord-entre-nice-et-l-eintracht-francfort-pour-le-retour-d-elye-wahi_AV-202608220195.html",
+  "fee": null,
+  "published": "2026-08-22T10:29:32+00:00"
+ },
+ {
   "id": "8221fd5ccce2",
   "title": "Moffi, Julian Alvarez, Kebbal… les 5 infos mercato du samedi 22 août à 12h",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
   "fee": "£50M",
   "published": "2026-08-20T17:06:34+00:00"
- },
- {
-  "id": "aeeb0aca1134",
-  "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
-  "player": "Yankuba Minteh",
-  "title_ko": "리버풀은 양쿠바 민테에 대한 £50m의 제의를 브라이튼에 의해 거절당했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
-  "fee": "£50M",
-  "published": "2026-08-20T16:59:12+00:00"
  }
 ]
