@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad7fddb95e89",
+  "title": "Juventus near Grabara deal as goalkeeping overhaul continues after Vicario and Di Gregorio deals",
+  "player": "Di Gregorio",
+  "title_ko": "Vicario와 Di Gregorio의 거래 이후 골키퍼 정비가 계속되면서 Grabara 거래에 가까운 유벤투스",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-grabara-goalkeeper-vicario-digregorio/",
+  "fee": null,
+  "published": "2026-08-22T11:58:12+00:00"
+ },
+ {
   "id": "33f684acb363",
   "title": "Official: Atalanta confirm Elmas move in surprising deal with RB Leipzig",
   "player": "Eljif Elmas",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/luecke-geschlossen-koeln-verpflichtet-aussenverteidiger-heister-1245364/artikel#omrss",
   "fee": null,
   "published": "2026-08-20T18:29:35+00:00"
- },
- {
-  "id": "0043350d691d",
-  "title": "Vor dem Pokal-Highlight: Jeddeloh verpflichtet Drochtersens Top-Torjäger Hyseni",
-  "player": "Torjäger Hyseni",
-  "title_ko": "컵 하이라이트 전: Jeddeloh는 Drochtersen의 최고 득점자 Hyseni와 계약했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/vor-dem-pokal-highlight-jeddeloh-verpflichtet-drochtersens-top-torjaeger-hyseni-1245361/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-20T18:20:27+00:00"
  }
 ]
