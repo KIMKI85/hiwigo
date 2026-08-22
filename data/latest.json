@@ -1,5 +1,18 @@
 [
  {
+  "id": "4ea1b552666a",
+  "title": "Man Utd told new urgent transfer need after awful opening-day defeat to Hull City",
+  "player": null,
+  "title_ko": "맨유는 헐 시티에 끔찍한 개막전 패배를 당한 뒤 새로운 긴급 이적이 필요하다고 말했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-forward-signing-hargreaves-37582287",
+  "fee": null,
+  "published": "2026-08-22T16:34:15+00:00"
+ },
+ {
   "id": "dc5f41c78d03",
   "title": "Official: Napoli sign Badiashile in potential €23m transfer from Chelsea",
   "player": "Benoit Badiashile",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37574449",
   "fee": null,
   "published": "2026-08-21T03:30:00+00:00"
- },
- {
-  "id": "b545eca36658",
-  "title": "Arsenal news: Swap deal for £60m-plus star mooted as 'magnificent signing' gets thumbs up",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 뉴스: '훌륭한 계약'이 호평을 받으면서 £60m 이상의 스타에 대한 스왑 거래가 논의됨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-martinelli-yildiz-37574146",
-  "fee": "£60M",
-  "published": "2026-08-21T03:00:00+00:00"
  }
 ]
