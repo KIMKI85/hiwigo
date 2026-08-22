@@ -1,5 +1,18 @@
 [
  {
+  "id": "dc5f41c78d03",
+  "title": "Official: Napoli sign Badiashile in potential €23m transfer from Chelsea",
+  "player": "Benoit Badiashile",
+  "title_ko": "공식: 나폴리는 첼시로부터 2300만 유로의 이적료로 바디아실을 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-napoli-sign-badiashile-from-chelsea/",
+  "fee": "€23M",
+  "published": "2026-08-22T15:49:45+00:00"
+ },
+ {
   "id": "4aaea380b3d7",
   "title": "Official: Lazio sign Croatia international Sutalo from Ajax",
   "player": "Josip Sutalo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-martinelli-yildiz-37574146",
   "fee": "£60M",
   "published": "2026-08-21T03:00:00+00:00"
- },
- {
-  "id": "f218254ac756",
-  "title": "Arsenal exploring Yildiz move - Friday's gossip",
-  "player": "Kenan Yildiz",
-  "title_ko": "아스날은 Yildiz의 이적을 모색하고 있습니다 - 금요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-20T20:47:42+00:00"
  }
 ]
