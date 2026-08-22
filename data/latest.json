@@ -1,5 +1,18 @@
 [
  {
+  "id": "b11fc3033985",
+  "title": "Arsenal news: Mikel Arteta ‘closing in’ on trio as Julian Alvarez transfer twist emerges",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날 뉴스: Julian Alvarez 이적 트위스트가 등장하면서 Mikel Arteta가 트리오에 '접근'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-arteta-37579239",
+  "fee": null,
+  "published": "2026-08-22T03:00:00+00:00"
+ },
+ {
   "id": "0bdaf29f4889",
   "title": "Mercato: énorme tacle de l'agent d'Alvarez envers le président de l'Atlético, le feuilleton continue",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-20T14:39:19+00:00"
- },
- {
-  "id": "f80cfb6a2a82",
-  "title": "Napoli set Hojlund a 20-goal target as Allegri eyes new level from Dane",
-  "player": "Rasmus Hojlund",
-  "title_ko": "Napoli는 Allegri가 Dane의 새로운 수준을 바라보면서 Hojlund에게 20골 목표를 설정했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-set-hojlund-a-20-goal-target/",
-  "fee": null,
-  "published": "2026-08-20T14:00:00+00:00"
  }
 ]
