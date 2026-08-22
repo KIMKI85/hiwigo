@@ -1,5 +1,18 @@
 [
  {
+  "id": "f18090fa40a9",
+  "title": "Liverpool complete transfer as Andoni Iraola makes new signing promise",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라가 새로운 영입을 약속함에 따라 리버풀은 이적을 완료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ifeanyi-ndukwe-loan-levante-37581635",
+  "fee": null,
+  "published": "2026-08-22T12:53:27+00:00"
+ },
+ {
   "id": "e2430f164576",
   "title": "Le feuilleton du mercato continue: Julian Alvarez de retour dans le groupe de l'Atlético de Madrid",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-baleba-de-jong-37575208",
   "fee": null,
   "published": "2026-08-20T18:38:12+00:00"
- },
- {
-  "id": "b4e848a46784",
-  "title": "Zirkzee still a Juventus and Napoli target as Manchester United star’s future hinges on sales",
-  "player": "Joshua Zirkzee",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zirkzee-still-a-juventus-and-napoli-target/",
-  "fee": null,
-  "published": "2026-08-20T18:30:00+00:00"
  }
 ]
