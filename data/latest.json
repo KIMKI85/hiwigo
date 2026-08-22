@@ -1,5 +1,18 @@
 [
  {
+  "id": "0b97aac57a1f",
+  "title": "Barça: \"Pour Jules Koundé, il faut attendre la fin du mercato...\", Hansi Flick laisse planer le doute sur l'avenir du Français",
+  "player": "Pour Jules Koundé",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/barca-pour-jules-kounde-il-faut-attendre-la-fin-du-mercato-hansi-flick-laisse-planer-le-doute-sur-l-avenir-du-francais_AV-202608220255.html",
+  "fee": null,
+  "published": "2026-08-22T14:04:17+00:00"
+ },
+ {
   "id": "967212b41476",
   "title": "Juventus find Cabal refusal to join Bologna frustrating",
   "player": "Juan Cabal",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows",
   "fee": null,
   "published": "2026-08-20T19:00:00+00:00"
- },
- {
-  "id": "849ba2378bab",
-  "title": "Badiashile passes medical and meets squad as Napoli close in on Chelsea defender",
-  "player": "Benoit Badiashile",
-  "title_ko": "나폴리가 첼시 수비수에게 접근하는 동안 바디아실레는 메디컬을 통과하고 스쿼드를 만난다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/badiashile-passes-medical-napoli-squad/",
-  "fee": null,
-  "published": "2026-08-20T18:50:00+00:00"
  }
 ]
