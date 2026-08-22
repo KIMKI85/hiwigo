@@ -1,5 +1,18 @@
 [
  {
+  "id": "f1aa3ebe1075",
+  "title": "Sky: Roma close in on Oosterwolde, but Chelsea reject Gittens bid",
+  "player": "Sky Sport Italia",
+  "title_ko": "스카이: 로마는 우스터볼데에 가까워졌지만 첼시는 기튼스의 제안을 거부했습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-close-oosterwolde-chelsea-reject-gittens/",
+  "fee": null,
+  "published": "2026-08-22T09:51:08+00:00"
+ },
+ {
   "id": "5f5cd91dd050",
   "title": "Transfer fee revealed as Juventus agree to send Di Gregorio to Bournemouth",
   "player": "Di Gregorio",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/genoa-weigh-move-for-ex-inter-striker-taremi/",
   "fee": null,
   "published": "2026-08-20T16:40:00+00:00"
- },
- {
-  "id": "be4e5840fbad",
-  "title": "Liverpool receive Brighton response after launching £50m Yankuba Minteh transfer bid",
-  "player": "Yankuba Minteh",
-  "title_ko": "리버풀은 £50m의 양쿠바 민테 이적 제안을 개시한 후 브라이튼의 반응을 받았습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-yankuba-minteh-bid-brighton-37575331",
-  "fee": "£50M",
-  "published": "2026-08-20T16:11:03+00:00"
  }
 ]
