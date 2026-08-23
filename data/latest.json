@@ -1,5 +1,18 @@
 [
  {
+  "id": "f2d81028d5ec",
+  "title": "Vicario injury scare in Juventus win at Frosinone days after move from Tottenham",
+  "player": "Guglielmo Vicario",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vicario-injury-scare-in-juventus-win/",
+  "fee": null,
+  "published": "2026-08-23T18:53:47+00:00"
+ },
+ {
   "id": "a6b719e35bd9",
   "title": "Auf eigenen Wunsch: Beck wechselt zum VfL Osnabrück",
   "player": "Adrian Beck",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-a-demande-a-partir-des-le-premier-jour-maresca-confirme-l-envie-d-ailleurs-de-savinho-attendu-a-tottenham_AV-202608210425.html",
   "fee": null,
   "published": "2026-08-21T14:54:38+00:00"
- },
- {
-  "id": "29d5dd61f5cb",
-  "title": "Mercato: \"Nous en avons besoin\", le coach de Liverpool réclamme encore l'arrivée de deux ailiers",
-  "player": "Andoni Iraola",
-  "title_ko": "메르카토: \"우리는 그들이 필요하다\", 리버풀 코치는 여전히 두 명의 윙어의 도착을 요구하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nous-en-avons-besoin-le-coach-de-liverpool-reclamme-encore-l-arrivee-de-deux-ailiers_AV-202608210420.html",
-  "fee": null,
-  "published": "2026-08-21T14:37:45+00:00"
  }
 ]
