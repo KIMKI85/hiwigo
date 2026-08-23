@@ -1,5 +1,18 @@
 [
  {
+  "id": "80a6913b0aac",
+  "title": "Granit Xhaka confirms how close he came to Chelsea transfer after Xabi Alonso talks",
+  "player": "Granit Xhaka",
+  "title_ko": "Granit Xhaka는 Xabi Alonso가 말한 후 첼시 이적에 얼마나 가까워 졌는지 확인합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/xhaka-chelsea-transfer-sunderland-alonso-37583475",
+  "fee": null,
+  "published": "2026-08-23T10:52:18+00:00"
+ },
+ {
   "id": "973039f4fabc",
   "title": "Milan and RB Leipzig strike €32m agreement for Nkunku sale",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-de-madrid-pret-a-vendre-julian-alvarez-mais-pas-au-barca_AV-202608210281.html",
   "fee": null,
   "published": "2026-08-21T10:00:59+00:00"
- },
- {
-  "id": "c547de3c9fc7",
-  "title": "Benzema, Ronaldinho, Lautaro Martinez… les 5 infos mercato du vendredi 21 août 2026 à 12h",
-  "player": "Lautaro Martinez",
-  "title_ko": "벤제마, 호나우지뉴, 라우타로 마르티네즈… 2026년 8월 21일 금요일 밤 12시 5차 이적 창구 정보.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-benzema-ronaldinho-lautaro-martinez-les-5-infos-mercato-du-vendredi-21-aout-2026-a-12h_VN-202608210280.html",
-  "fee": null,
-  "published": "2026-08-21T09:58:36+00:00"
  }
 ]
