@@ -1,5 +1,18 @@
 [
  {
+  "id": "973039f4fabc",
+  "title": "Milan and RB Leipzig strike €32m agreement for Nkunku sale",
+  "player": null,
+  "title_ko": "밀란과 RB 라이프치히는 은쿤쿠 판매를 위해 3200만 유로에 계약을 체결했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-rb-leipzig-32m-nkunku-agreement/",
+  "fee": "€32M",
+  "published": "2026-08-23T10:39:49+00:00"
+ },
+ {
   "id": "04fac3fdebe0",
   "title": "El Celta, cerca de cerrar el fichaje de Couhaib Driouech",
   "player": "Couhaib Driouech",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-benzema-ronaldinho-lautaro-martinez-les-5-infos-mercato-du-vendredi-21-aout-2026-a-12h_VN-202608210280.html",
   "fee": null,
   "published": "2026-08-21T09:58:36+00:00"
- },
- {
-  "id": "63678edfa042",
-  "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
-  "player": "Jose Mourinho",
-  "title_ko": "엔드릭은 리버풀이 호세 무리뉴의 복수를 계획하면서 리버풀의 제안에 응했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-jose-mourinho-37577040",
-  "fee": null,
-  "published": "2026-08-21T09:17:54+00:00"
  }
 ]
