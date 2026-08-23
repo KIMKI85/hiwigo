@@ -1,5 +1,18 @@
 [
  {
+  "id": "14e278a4281e",
+  "title": "INFO RMC SPORT. Mercato: Ayyoub Bouaddi va signer à Manchester City pour un transfert record de 100 millions d'euros",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "RMC 스포츠 정보. Mercato: Ayyoub Bouaddi는 1억 유로의 기록적인 이적료로 맨체스터 시티와 계약할 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-ayyoub-bouaddi-va-signer-a-manchester-city-pour-un-transfert-record-de-100-millions-d-euros_AV-202608230201.html",
+  "fee": null,
+  "published": "2026-08-23T12:05:58+00:00"
+ },
+ {
   "id": "ef70b8daced4",
   "title": "Kochorashvili: fichaje, viaje a Bilbao con el equipo y trabajo en el día libre",
   "player": "García Plaza",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-sort-le-chequier-pour-le-karim-coulibaly_AV-202608210292.html",
   "fee": null,
   "published": "2026-08-21T10:20:04+00:00"
- },
- {
-  "id": "57af44e0ec13",
-  "title": "From Spain: Barcelona have agreement with Inter star Lautaro Martinez",
-  "player": "From Spain",
-  "title_ko": "스페인에서: 바르셀로나는 인터 스타 라우타로 마르티네스와 계약을 맺었습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/from-spain-barcelona-agreement-lautaro-inter/",
-  "fee": null,
-  "published": "2026-08-21T10:01:45+00:00"
  }
 ]
