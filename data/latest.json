@@ -1,5 +1,31 @@
 [
  {
+  "id": "379231052b08",
+  "title": "Yildiz remains Arsenal target after Juventus swap approach",
+  "player": "Kenan Yildiz",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/yildiz-remains-arsenal-target-juventus-swap/",
+  "fee": null,
+  "published": "2026-08-23T16:51:58+00:00"
+ },
+ {
+  "id": "2a3cb907f359",
+  "title": "Cécifoot: petit pont, double contact... Fréderic Villeroux signe un nouveau festival en finale de l'Euro contre l'Angleterre",
+  "player": "Fréderic Villeroux",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/cecifoot-petit-pont-double-contact-frederic-villeroux-signe-un-nouveau-festival-en-finale-de-l-euro-contre-l-angleterre_AV-202608230263.html",
+  "fee": null,
+  "published": "2026-08-23T16:46:27+00:00"
+ },
+ {
   "id": "c81005e83df5",
   "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
   "player": "Unai Emery",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/report-perin-palermo-help-juventus-sign-kessie/",
   "fee": null,
   "published": "2026-08-21T13:40:29+00:00"
- },
- {
-  "id": "57d94981c7bf",
-  "title": "Allegri: De Bruyne can ‘play everywhere’ for Napoli, Badiashile move still not confirmed",
-  "player": "De Bruyne",
-  "title_ko": "알레그리: 데 브라이너는 나폴리에서 '어디서나 뛸 수 있다', 바디아실 이적은 아직 확정되지 않았다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/allegri-de-bruyne-play-everywhere-badiashile/",
-  "fee": null,
-  "published": "2026-08-21T12:56:58+00:00"
- },
- {
-  "id": "9f4a6f91092a",
-  "title": "Julian Alvarez to Arsenal twist as huge transfer agreement wrecks forward's dream move",
-  "player": "Julian Alvarez",
-  "title_ko": "거대한 이적 계약으로 인해 아스날로의 줄리안 알바레즈가 꿈의 이적을 망쳤습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-barcelona-atletico-37578321",
-  "fee": null,
-  "published": "2026-08-21T12:56:37+00:00"
  }
 ]
