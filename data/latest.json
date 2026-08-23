@@ -1,5 +1,18 @@
 [
  {
+  "id": "853cfbd1215a",
+  "title": "Gabriel Martinelli poised to hand Arsenal huge payday as £60m transfer option emerges",
+  "player": "Gabriel Martinelli",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/martinelli-arsenal-transfer-al-hilal-37583961",
+  "fee": "£60M",
+  "published": "2026-08-23T13:56:32+00:00"
+ },
+ {
   "id": "f6ef3b39b218",
   "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
   "player": "Isaac Price",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league",
   "fee": null,
   "published": "2026-08-21T12:02:37+00:00"
- },
- {
-  "id": "c9bba0a80012",
-  "title": "Arsenal complete £51m Konsa deal",
-  "player": "Ezri Konsa",
-  "title_ko": "아스날은 5100만 파운드의 콘사 딜을 완료했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
-  "fee": "£51M",
-  "published": "2026-08-21T11:24:00+00:00"
  }
 ]
