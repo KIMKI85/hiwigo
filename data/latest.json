@@ -1,5 +1,18 @@
 [
  {
+  "id": "a6b719e35bd9",
+  "title": "Auf eigenen Wunsch: Beck wechselt zum VfL Osnabrück",
+  "player": "Adrian Beck",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/auf-eigenen-wunsch-beck-wechselt-zum-vfl-osnabrueck-1246178/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-23T18:24:00+00:00"
+ },
+ {
   "id": "b671d1d18dcd",
   "title": "Ghedjemis wants Monaco despite improved Besiktas bid for Frosinone winger",
   "player": "Fares Ghedjemis",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-nous-en-avons-besoin-le-coach-de-liverpool-reclamme-encore-l-arrivee-de-deux-ailiers_AV-202608210420.html",
   "fee": null,
   "published": "2026-08-21T14:37:45+00:00"
- },
- {
-  "id": "3c8e67c3a06b",
-  "title": "Morata next on Lazio wish list after Deng medical failure",
-  "player": "Alvaro Morata",
-  "title_ko": "덩샤오핑 의료실패 후 라치오 위시리스트에 모라타 차기",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/morata-next-on-lazio-wish-list-deng-medical/",
-  "fee": null,
-  "published": "2026-08-21T14:26:03+00:00"
  }
 ]
