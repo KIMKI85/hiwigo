@@ -1,5 +1,18 @@
 [
  {
+  "id": "5d88eb000f45",
+  "title": "Pokalprämie für Transfers: Ändert Mboms Verletzung die Bochumer Pläne?",
+  "player": "Ändert Mboms Verletzung",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/pokalpraemie-fuer-transfers-aendert-mboms-verletzung-die-bochumer-plaene-1246115/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-23T14:57:45+00:00"
+ },
+ {
   "id": "8402457bca29",
   "title": "Milan could hand new role to Bartesaghi instead of signing a new centre-back",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-newcastle-37578523",
   "fee": null,
   "published": "2026-08-21T12:45:35+00:00"
- },
- {
-  "id": "145322d5d459",
-  "title": "David and Fortini: Double Hull City transfer blow with official transfer for Italian defender",
-  "player": "Niccolò Fortini",
-  "title_ko": "다비드와 포르티니: 이탈리아 수비수 공식 이적과 함께 더블 헐 시티 이적 타격",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/david-fortini-hull-city-blow-official-transfer/",
-  "fee": null,
-  "published": "2026-08-21T12:27:26+00:00"
  }
 ]
