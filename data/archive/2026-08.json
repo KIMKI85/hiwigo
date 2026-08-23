@@ -13,6 +13,45 @@
   "published": "2026-08-23T13:02:00+00:00"
  },
  {
+  "id": "157c60738c6f",
+  "title": "Ollie Watkins edges closer to Saudi Arabia transfer as he's left out of Aston Villa squad",
+  "player": "Ollie Watkins",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ollie-watkins-villa-saudi-transfer-37583847",
+  "fee": null,
+  "published": "2026-08-23T12:51:07+00:00"
+ },
+ {
+  "id": "b32752c7b79d",
+  "title": "Man City agree £85m transfer deal for World Cup star Ayyoub Bouaddi to replace Rodri",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-ayyoub-bouaddi-lille-37583781",
+  "fee": "£85M",
+  "published": "2026-08-23T12:48:58+00:00"
+ },
+ {
+  "id": "06ef2d73f575",
+  "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
+  "fee": "€100M",
+  "published": "2026-08-23T12:32:43+00:00"
+ },
+ {
   "id": "b43ac4b40318",
   "title": "Man City agree £86m deal for teen midfielder Bouaddi",
   "player": "Ayyoub Bouaddi",

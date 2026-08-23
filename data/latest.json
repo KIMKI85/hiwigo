@@ -13,6 +13,45 @@
   "published": "2026-08-23T13:02:00+00:00"
  },
  {
+  "id": "157c60738c6f",
+  "title": "Ollie Watkins edges closer to Saudi Arabia transfer as he's left out of Aston Villa squad",
+  "player": "Ollie Watkins",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ollie-watkins-villa-saudi-transfer-37583847",
+  "fee": null,
+  "published": "2026-08-23T12:51:07+00:00"
+ },
+ {
+  "id": "b32752c7b79d",
+  "title": "Man City agree £85m transfer deal for World Cup star Ayyoub Bouaddi to replace Rodri",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-ayyoub-bouaddi-lille-37583781",
+  "fee": "£85M",
+  "published": "2026-08-23T12:48:58+00:00"
+ },
+ {
+  "id": "06ef2d73f575",
+  "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
+  "fee": "€100M",
+  "published": "2026-08-23T12:32:43+00:00"
+ },
+ {
   "id": "b43ac4b40318",
   "title": "Man City agree £86m deal for teen midfielder Bouaddi",
   "player": "Ayyoub Bouaddi",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-mercato-kebbal-et-adama-camara-ils-n-iront-nul-part-sourit-rosenior_VN-202608210341.html",
   "fee": null,
   "published": "2026-08-21T11:23:23+00:00"
- },
- {
-  "id": "8408e044b391",
-  "title": "Carra meets Iraola! Liverpool boss on playing style, transfers & Newcastle",
-  "player": "Andoni Iraola",
-  "title_ko": "카라가 이라올라를 만났습니다! 리버풀 감독의 플레이 스타일, 이적, 뉴캐슬",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13575327/andoni-iraola-new-liverpool-boss-explains-his-coaching-philosophy-ahead-of-premier-league-opener-at-newcastle",
-  "fee": null,
-  "published": "2026-08-21T11:12:00+00:00"
- },
- {
-  "id": "28c6e814b0c3",
-  "title": "Official – Juventus confirm Arthur contract termination: ‘Negative economic impact’",
-  "player": "Arthur Melo",
-  "title_ko": "공식 - 유벤투스, 아서 계약 종료 확인: '부정적 경제적 영향'",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-juventus-arthur-contract-termination/",
-  "fee": null,
-  "published": "2026-08-21T11:02:23+00:00"
- },
- {
-  "id": "c5cd02afc1e2",
-  "title": "Juventus planning to sign three more players, including Man United striker",
-  "player": null,
-  "title_ko": "유벤투스는 맨유 공격수를 포함해 3명의 선수를 추가로 영입할 계획이다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-plan-sign-3-more-players-man-united/",
-  "fee": null,
-  "published": "2026-08-21T10:32:29+00:00"
  }
 ]
