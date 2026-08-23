@@ -1,5 +1,31 @@
 [
  {
+  "id": "2755ec37b540",
+  "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": "맨시티는 부아디 영입을 위해 릴과 기록적인 계약을 체결했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
+  "fee": null,
+  "published": "2026-08-23T13:02:00+00:00"
+ },
+ {
+  "id": "b43ac4b40318",
+  "title": "Man City agree £86m deal for teen midfielder Bouaddi",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss",
+  "fee": "£86M",
+  "published": "2026-08-23T12:19:43+00:00"
+ },
+ {
   "id": "14e278a4281e",
   "title": "INFO RMC SPORT. Mercato: Ayyoub Bouaddi va signer à Manchester City pour un transfert record de 100 millions d'euros",
   "player": "Ayyoub Bouaddi",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/juventus-plan-sign-3-more-players-man-united/",
   "fee": null,
   "published": "2026-08-21T10:32:29+00:00"
- },
- {
-  "id": "1630063e5b2e",
-  "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
-  "player": "Ham's Wan",
-  "title_ko": "웨스트햄의 완-비사카가 아스톤 빌라로 임대 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-21T10:24:16+00:00"
- },
- {
-  "id": "eb12f789772f",
-  "title": "Mercato: Strasbourg sort le chéquier pour le Karim Coulibaly",
-  "player": "Karim Coulibaly",
-  "title_ko": "Mercato: 스트라스부르가 Karim Coulibaly의 수표장을 꺼냅니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-strasbourg-sort-le-chequier-pour-le-karim-coulibaly_AV-202608210292.html",
-  "fee": null,
-  "published": "2026-08-21T10:20:04+00:00"
  }
 ]
