@@ -1,5 +1,18 @@
 [
  {
+  "id": "f49c9a0afdaa",
+  "title": "Badiashile: ‘A great honour’ as defender joins Napoli from Chelsea",
+  "player": "Benoit Badiashile",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/badiashile-a-great-honour-napoli-chelsea/",
+  "fee": null,
+  "published": "2026-08-23T17:23:00+00:00"
+ },
+ {
   "id": "379231052b08",
   "title": "Yildiz remains Arsenal target after Juventus swap approach",
   "player": "Kenan Yildiz",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/pas-de-temps-a-perdre-sur-le-mercato-le-barca-boucle-l-arrivee-d-un-nouveau-gardien-pour-2027_AV-202608210391.html",
   "fee": null,
   "published": "2026-08-21T13:43:41+00:00"
- },
- {
-  "id": "16b5d96080b9",
-  "title": "Report Perin on verge of Palermo move, can help Juventus sign Kessie",
-  "player": "Mattia Perin",
-  "title_ko": "팔레르모 이적 직전의 페린을 보고하면 유벤투스가 케시를 영입하는 데 도움이 될 수 있습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-perin-palermo-help-juventus-sign-kessie/",
-  "fee": null,
-  "published": "2026-08-21T13:40:29+00:00"
  }
 ]
