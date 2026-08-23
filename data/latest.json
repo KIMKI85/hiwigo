@@ -1,5 +1,18 @@
 [
  {
+  "id": "b671d1d18dcd",
+  "title": "Ghedjemis wants Monaco despite improved Besiktas bid for Frosinone winger",
+  "player": "Fares Ghedjemis",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ghedjemis-wants-monaco-despite-besiktas-bid/",
+  "fee": null,
+  "published": "2026-08-23T17:57:58+00:00"
+ },
+ {
   "id": "ab56f0e3cfff",
   "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
   "player": "Saudi Arabian",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/morata-next-on-lazio-wish-list-deng-medical/",
   "fee": null,
   "published": "2026-08-21T14:26:03+00:00"
- },
- {
-  "id": "43b0093dcf91",
-  "title": "Liverpool's 'next bid' to seal Bradley Barcola transfer as FSG weigh up double deal",
-  "player": "Bradley Barcola",
-  "title_ko": "FSG가 더블 딜을 고려함에 따라 브래들리 바르콜라 이적을 확정하려는 리버풀의 '다음 입찰'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-psg-37578891",
-  "fee": null,
-  "published": "2026-08-21T14:15:28+00:00"
  }
 ]
