@@ -1,5 +1,18 @@
 [
  {
+  "id": "2d63935f08b4",
+  "title": "Man Utd news: Myles Lewis-Skelly update emerges as club makes early transfer approach",
+  "player": "Myles Lewis-",
+  "title_ko": "맨유 뉴스: 클럽이 조기 이적 접근 방식을 취함에 따라 Myles Lewis-Skelly 업데이트가 등장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-skelly-37581948",
+  "fee": null,
+  "published": "2026-08-23T03:30:00+00:00"
+ },
+ {
   "id": "d0a2e207ad6c",
   "title": "Arsenal news: Last-ditch Julian Alvarez transfer offer as fresh talks held to sign striker",
   "player": "Last-ditch Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live",
   "fee": null,
   "published": "2026-08-21T08:24:20+00:00"
- },
- {
-  "id": "00eccefd40b2",
-  "title": "Mercato: annoncé partant d'Al-Hilal, Benzema règle la question de son avenir",
-  "player": "Al Feiha",
-  "title_ko": "메르카토: 알 힐랄을 떠난다고 발표한 벤제마는 그의 미래에 대한 문제를 해결했다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-annonce-partant-d-al-hilal-benzema-regle-la-question-de-son-avenir_AV-202608210205.html",
-  "fee": null,
-  "published": "2026-08-21T07:56:31+00:00"
  }
 ]
