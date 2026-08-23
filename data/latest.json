@@ -1,5 +1,31 @@
 [
  {
+  "id": "ab56f0e3cfff",
+  "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+  "player": "Saudi Arabian",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-23T17:37:06+00:00"
+ },
+ {
+  "id": "45513a9a560f",
+  "title": "Mercato : « Il affiche une maturité extraordinaire », Olivier Giroud revient sur le parcours de Bouaddi",
+  "player": "Olivier Giroud",
+  "title_ko": "Mercato: \"그는 비범한 성숙함을 보여줍니다\", Olivier Giroud는 Bouaddi의 경력을 되돌아봅니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-il-affiche-une-maturite-extraordinaire-olivier-giroud-revient-sur-le-parcours-de-bouaddi_VN-202608230277.html",
+  "fee": null,
+  "published": "2026-08-23T17:37:06+00:00"
+ },
+ {
   "id": "f49c9a0afdaa",
   "title": "Badiashile: ‘A great honour’ as defender joins Napoli from Chelsea",
   "player": "Benoit Badiashile",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-psg-37578891",
   "fee": null,
   "published": "2026-08-21T14:15:28+00:00"
- },
- {
-  "id": "b1b73e0f7c92",
-  "title": "Conditions set for Arsenal outcasts Martinelli and Gabriel Jesus to join Serie A",
-  "player": "Gabriel Jesus",
-  "title_ko": "아스날이 추방한 마르티넬리와 가브리엘 제수스의 세리에 A 합류 조건",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/conditions-set-arsenal-duo-join-serie-a/",
-  "fee": null,
-  "published": "2026-08-21T13:50:21+00:00"
- },
- {
-  "id": "64cd4a48d59e",
-  "title": "Pas de temps à perdre sur le mercato: le Barça boucle l’arrivée d'un nouveau gardien... pour 2027",
-  "player": "Dominik Livakovic",
-  "title_ko": "이적 기간에 낭비할 시간이 없습니다: 바르샤는 2027년에 새로운 골키퍼의 도착을 완료했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/pas-de-temps-a-perdre-sur-le-mercato-le-barca-boucle-l-arrivee-d-un-nouveau-gardien-pour-2027_AV-202608210391.html",
-  "fee": null,
-  "published": "2026-08-21T13:43:41+00:00"
  }
 ]
