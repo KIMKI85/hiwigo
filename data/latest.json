@@ -1,5 +1,18 @@
 [
  {
+  "id": "2fe6dfa75cf9",
+  "title": "Osmajic arrives to start Genoa medical in €2.5m plus bonus move from Preston NE",
+  "player": "Milutin Osmajic",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/osmajic-genoa-2-5m-plus-bonus-move-preston-ne/",
+  "fee": "€2.5M",
+  "published": "2026-08-23T15:34:26+00:00"
+ },
+ {
   "id": "5d88eb000f45",
   "title": "Pokalprämie für Transfers: Ändert Mboms Verletzung die Bochumer Pläne?",
   "player": "Ändert Mboms Verletzung",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/paris-fc-ces-joueurs-ne-partiront-pas-rosenior-clarifie-la-situation-concernant-le-mercato-de-kebbal-et-camara_AV-202608210363.html",
   "fee": null,
   "published": "2026-08-21T12:54:19+00:00"
- },
- {
-  "id": "b0fc438f1aa6",
-  "title": "Andoni Iraola issues Liverpool transfer update as he teases multiple deals before deadline",
-  "player": "Andoni Iraola",
-  "title_ko": "안도니 이라올라(Andoni Iraola)는 마감일 전에 여러 거래를 예고하면서 리버풀 이적 업데이트를 발표했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-newcastle-37578523",
-  "fee": null,
-  "published": "2026-08-21T12:45:35+00:00"
  }
 ]
