@@ -1,5 +1,18 @@
 [
  {
+  "id": "f6ef3b39b218",
+  "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
+  "player": "Isaac Price",
+  "title_ko": "웨스트 브롬은 이적 추측 속에 플레밍 없는 번리로 다시 돌아왔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
+  "fee": null,
+  "published": "2026-08-23T13:24:14+00:00"
+ },
+ {
   "id": "2755ec37b540",
   "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
   "player": "Ayyoub Bouaddi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
   "fee": "£51M",
   "published": "2026-08-21T11:24:00+00:00"
- },
- {
-  "id": "4dca244d5ae2",
-  "title": "Paris FC / Mercato : Kebbal et Adama Camara ? “Ils n’iront nul part !”, sourit Rosenior",
-  "player": "Adama Camara",
-  "title_ko": "파리 FC / 메르카토: 케발과 아다마 카마라? \"그들은 아무데도 가지 않을 거예요!\"라고 Rosenior는 미소를 지었습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-paris-fc-mercato-kebbal-et-adama-camara-ils-n-iront-nul-part-sourit-rosenior_VN-202608210341.html",
-  "fee": null,
-  "published": "2026-08-21T11:23:23+00:00"
  }
 ]
