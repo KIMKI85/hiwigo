@@ -1,5 +1,18 @@
 [
  {
+  "id": "f9fbfb61c4ee",
+  "title": "Papers: Palace prepare audacious £50m bid for West Ham captain Bowen",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
+  "fee": "£50M",
+  "published": "2026-08-23T22:25:00+00:00"
+ },
+ {
   "id": "0f4242c20d83",
   "title": "LIVE! Keine Wechsel zur Pause - Raphinha lässt Großchance liegen",
   "player": "Keine Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-tottenham-agree-85m-deal-to-sign-man-city-winger-as-spurs-close-in-on-omar-marmoush",
   "fee": "£85M",
   "published": "2026-08-21T15:51:00+00:00"
- },
- {
-  "id": "0a61799d36eb",
-  "title": "Banda signs for Al Swehly in bizarre video that mocks Lecce with big mistake",
-  "player": "Al Swehly",
-  "title_ko": "반다, 레체를 큰 실수로 조롱하는 기괴한 영상에서 알 스웰리와 계약",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/banda-al-swehly-video-mocks-lecce-big-mistake/",
-  "fee": null,
-  "published": "2026-08-21T15:48:34+00:00"
  }
 ]
