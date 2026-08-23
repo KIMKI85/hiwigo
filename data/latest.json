@@ -1,5 +1,18 @@
 [
  {
+  "id": "736675e00d2d",
+  "title": "Diego Simeone addresses brutal Julian Alvarez jeers as Arsenal target blockbuster transfer",
+  "player": "Diego Simeone",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-atletico-37584735",
+  "fee": null,
+  "published": "2026-08-23T20:11:06+00:00"
+ },
+ {
   "id": "f9a139412b47",
   "title": "Alejandro Balde gives transfer green light as Man Utd handed huge Barcelona boost",
   "player": "Alejandro Balde",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/serie-a/inter-milan-pavard-fait-du-bon-boulot-chivu-convaincu-apres-le-retour-de-pret-du-francais_AV-202608210429.html",
   "fee": null,
   "published": "2026-08-21T15:10:04+00:00"
- },
- {
-  "id": "b40de20eaa17",
-  "title": "Arsenal complete stunning Ezri Konsa deal with defender set for instant Aston Villa reunion",
-  "player": "Ezri Konsa",
-  "title_ko": "아스날은 즉각적인 Aston Villa 재결합을 위해 수비수와 놀라운 Ezri Konsa 계약을 완료했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-ezri-konsa-transfer-villa-37576752",
-  "fee": null,
-  "published": "2026-08-21T15:02:30+00:00"
  }
 ]
