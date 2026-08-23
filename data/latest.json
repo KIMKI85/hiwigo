@@ -1,5 +1,18 @@
 [
  {
+  "id": "ef70b8daced4",
+  "title": "Kochorashvili: fichaje, viaje a Bilbao con el equipo y trabajo en el día libre",
+  "player": "García Plaza",
+  "title_ko": "Kochorashvili: 계약, 팀과 함께 빌바오 여행 및 쉬는 날 근무",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/23/kochorashvili-fichaje-viaje-bilbao-equipo-trabajo-dia-libre.html",
+  "fee": null,
+  "published": "2026-08-23T11:38:50+00:00"
+ },
+ {
   "id": "80a6913b0aac",
   "title": "Granit Xhaka confirms how close he came to Chelsea transfer after Xabi Alonso talks",
   "player": "Granit Xhaka",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/from-spain-barcelona-agreement-lautaro-inter/",
   "fee": null,
   "published": "2026-08-21T10:01:45+00:00"
- },
- {
-  "id": "0061b7b6d4dd",
-  "title": "Mercato: l'Atlético de Madrid prêt à vendre Julian Alvarez, mais pas au Barça",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 아틀레티코 마드리드는 줄리안 알바레즈를 팔 준비가 되었지만 바르샤에게는 팔지 않았습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-de-madrid-pret-a-vendre-julian-alvarez-mais-pas-au-barca_AV-202608210281.html",
-  "fee": null,
-  "published": "2026-08-21T10:00:59+00:00"
  }
 ]
