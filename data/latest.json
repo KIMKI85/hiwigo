@@ -1,5 +1,18 @@
 [
  {
+  "id": "34114fc68597",
+  "title": "Transfer news LIVE: Man Utd green light, Minteh to Liverpool latest, Alvarez and Arsenal updates",
+  "player": null,
+  "title_ko": "이적 뉴스 라이브: 맨유 그린 라이트, 민테에서 리버풀 최신, 알바레즈 및 아스날 업데이트",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-man-utd-37582887",
+  "fee": null,
+  "published": "2026-08-23T07:26:04+00:00"
+ },
+ {
   "id": "6f57c0084c90",
   "title": "11 top Premier League players in final year of contract including Man Utd and Liverpool stars",
   "player": null,
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Bundesliga (DE)",
   "url": "https://www.kicker.de/rueckkehr-nach-drei-jahren-koeln-verpflichtet-skhiri-1245257/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-21T09:00:43+00:00"
- },
- {
-  "id": "de75e1465ae6",
-  "title": "Rückkehr nach drei Jahren: Köln verpflichtet Shkiri",
-  "player": "Die Suche",
-  "title_ko": "3년 만에 복귀: 쾰른, 쉬키리 영입",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/rueckkehr-nach-drei-jahren-koeln-verpflichtet-shkiri-1245257/artikel#omrss",
   "fee": null,
   "published": "2026-08-21T09:00:43+00:00"
  }
