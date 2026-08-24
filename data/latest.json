@@ -1,5 +1,18 @@
 [
  {
+  "id": "3ab8d13994b1",
+  "title": "Liverpool news: Bradley Barcola exiled by PSG as personal terms 'agreed'",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라가 개인 조건에 '동의'해 PSG로부터 추방당했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37583666",
+  "fee": null,
+  "published": "2026-08-24T04:00:00+00:00"
+ },
+ {
   "id": "1a441ef6760a",
   "title": "Man Utd news: Alejandro Balde gives transfer green light and announcement imminent",
   "player": "Alejandro Balde",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-napoli-send-obaretin-to-lorient/",
   "fee": "€3.5M",
   "published": "2026-08-21T16:26:12+00:00"
- },
- {
-  "id": "12f24558db09",
-  "title": "Mercato: Konsa officiellement à Arsenal, les Gunners tiennent le remplaçant de Saliba",
-  "player": "Ezri Konsa",
-  "title_ko": "Mercato: Konsa는 공식적으로 Arsenal에 있고, Gunners는 Saliba의 교체 선수를 보유하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-konsa-officiellement-a-arsenal-les-gunners-tiennent-le-remplacant-de-saliba_AN-202608210463.html",
-  "fee": null,
-  "published": "2026-08-21T16:08:27+00:00"
  }
 ]
