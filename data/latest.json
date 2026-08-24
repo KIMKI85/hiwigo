@@ -1,5 +1,18 @@
 [
  {
+  "id": "87baa29a0c6e",
+  "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
+  "player": "Julián Alvarez",
+  "title_ko": "축구 이적 루머: 알바레즈가 아틀레티코에서 야유를 받은 후 아스날로 이적한다고요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
+  "fee": null,
+  "published": "2026-08-24T07:23:45+00:00"
+ },
+ {
   "id": "a8ffff1ff72d",
   "title": "Lewis Hall transfer response live on TV shows Newcastle's true stance over Man Utd move",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-om-zero-recrue-des-departs-un-defi-immense-le-challenge-de-genesio_VN-202608210494.html",
   "fee": null,
   "published": "2026-08-21T16:50:48+00:00"
- },
- {
-  "id": "a459ede1e4da",
-  "title": "Arthur Melo cost Juventus €1.48m per match after disastrous Barcelona move",
-  "player": "Arthur Melo",
-  "title_ko": "아서 멜로(Arthur Melo)는 바르셀로나의 비참한 이적 이후 유벤투스에게 경기당 €1.48m의 손실을 입혔습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/arthur-melo-juventus-e148m-per-match-barcelona/",
-  "fee": "€1.48M",
-  "published": "2026-08-21T16:45:31+00:00"
  }
 ]
