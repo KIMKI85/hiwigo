@@ -13,6 +13,19 @@
   "published": "2026-08-24T23:10:00+00:00"
  },
  {
+  "id": "d2fe36070dfd",
+  "title": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+  "player": "Xabi Alonso",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham",
+  "fee": null,
+  "published": "2026-08-24T22:33:20+00:00"
+ },
+ {
   "id": "d85737ccebbf",
   "title": "Nottingham Forest close in on signing Liam Delap from Chelsea",
   "player": "Liam Delap",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/atalanta-elmas-move-deal-rb-leipzig/",
   "fee": null,
   "published": "2026-08-22T11:42:03+00:00"
- },
- {
-  "id": "18eb44f182b0",
-  "title": "DIRECT. Rennes-PSG (J-1): inversion du match aller, mercato, forme des joueurs... Revivez la conférence de presse de Luis Enrique",
-  "player": "Luis Enrique",
-  "title_ko": "직접. 렌-PSG(D-1) : 1차전 역전, 이적시장, 선수 체력…루이스 엔리케 기자회견 재현",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-psg-j-1-suivez-en-live-la-conference-de-presse-de-luis-enrique-avant-la-reprise-de-la-ligue-1_LN-202608220165.html",
-  "fee": null,
-  "published": "2026-08-22T11:32:40+00:00"
  }
 ]
