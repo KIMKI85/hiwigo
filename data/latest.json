@@ -1,5 +1,18 @@
 [
  {
+  "id": "4948f32916ac",
+  "title": "Los deberes del Sevilla en la última semana del mercado de fichajes",
+  "player": "García Plaza",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/24/deberes-sevilla-ultima-semana-mercado-fichajes.html",
+  "fee": null,
+  "published": "2026-08-24T18:42:46+00:00"
+ },
+ {
   "id": "2a859e322d2b",
   "title": "Man City make shock Cody Gakpo approach to leave Liverpool and Tottenham with transfer dilemma",
   "player": "Cody Gakpo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-arteta-37579239",
   "fee": null,
   "published": "2026-08-22T03:00:00+00:00"
- },
- {
-  "id": "0bdaf29f4889",
-  "title": "Mercato: énorme tacle de l'agent d'Alvarez envers le président de l'Atlético, le feuilleton continue",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 아틀레티코 회장을 향한 알바레즈 에이전트의 엄청난 태클, 연속극은 계속된다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-enorme-tacle-de-l-agent-d-alvarez-envers-le-president-de-l-atletico-le-feuilleton-continue_AV-202608210618.html",
-  "fee": null,
-  "published": "2026-08-21T21:59:34+00:00"
  }
 ]
