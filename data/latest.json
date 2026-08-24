@@ -1,5 +1,18 @@
 [
  {
+  "id": "9cd519620b1f",
+  "title": "Mercato: pourquoi le Barça a sondé Dortmund mais a vite abandonné la piste Serhou Guirassy",
+  "player": "Serhou Guirassy",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-le-barca-a-sonde-dortmund-mais-a-vite-abandonne-la-piste-serhou-guirassy_AV-202608240878.html",
+  "fee": null,
+  "published": "2026-08-24T20:53:08+00:00"
+ },
+ {
   "id": "bd7c46c49cae",
   "title": "Mercato: \"Bienvenue chez toi\", Nice officialise le retour de Wahi en L1",
   "player": "Elye Wahi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-close-oosterwolde-chelsea-reject-gittens/",
   "fee": null,
   "published": "2026-08-22T09:51:08+00:00"
- },
- {
-  "id": "5f5cd91dd050",
-  "title": "Transfer fee revealed as Juventus agree to send Di Gregorio to Bournemouth",
-  "player": "Di Gregorio",
-  "title_ko": "유벤투스가 디 그레고리오를 본머스로 보내기로 합의함에 따라 이적료 공개",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/details-revealed-di-gregorio-bournemouth/",
-  "fee": null,
-  "published": "2026-08-22T08:05:25+00:00"
  }
 ]
