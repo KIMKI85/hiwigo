@@ -1,5 +1,18 @@
 [
  {
+  "id": "fbcf5eded517",
+  "title": "Papers: Arsenal ready to make £130m Alvarez push as Martinelli nears Saudi move",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576722/xxxx-paper-talk",
+  "fee": "£130M",
+  "published": "2026-08-24T23:10:00+00:00"
+ },
+ {
   "id": "d85737ccebbf",
   "title": "Nottingham Forest close in on signing Liam Delap from Chelsea",
   "player": "Liam Delap",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-rennes-psg-j-1-suivez-en-live-la-conference-de-presse-de-luis-enrique-avant-la-reprise-de-la-ligue-1_LN-202608220165.html",
   "fee": null,
   "published": "2026-08-22T11:32:40+00:00"
- },
- {
-  "id": "7beb1c4cefb7",
-  "title": "INFO RMC Sport. Mercato: accord entre Nice et l'Eintracht Francfort pour le retour d'Elye Wahi",
-  "player": "Eintracht Francfort",
-  "title_ko": "정보 RMC 스포츠. Mercato: Elye Wahi 복귀를 위한 Nice와 Eintracht 프랑크푸르트 간의 합의",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-accord-entre-nice-et-l-eintracht-francfort-pour-le-retour-d-elye-wahi_AV-202608220195.html",
-  "fee": null,
-  "published": "2026-08-22T10:29:32+00:00"
  }
 ]
