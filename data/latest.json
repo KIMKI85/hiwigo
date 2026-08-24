@@ -1,5 +1,31 @@
 [
  {
+  "id": "83cc3a47b1f3",
+  "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
+  "player": "Der Hamburger",
+  "title_ko": "흠집이 난 드림 스트라이커: HSV, 모피와 계약",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wunschstuermer-mit-delle-hsv-verpflichtet-moffi-1245625/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-24T08:04:30+00:00"
+ },
+ {
+  "id": "66fc9a05fc8c",
+  "title": "DIRECT. Mercato: du mouvement attendu au PSG, vers un nouveau départ à Rennes",
+  "player": null,
+  "title_ko": "직접. Mercato: PSG의 예상되는 움직임에서 Rennes의 새로운 시작을 향해",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-24-aout-2026_LN-202608240288.html",
+  "fee": null,
+  "published": "2026-08-24T08:03:11+00:00"
+ },
+ {
   "id": "1b7b2bfa2cdc",
   "title": "Video: Di Gregorio flies out for Bournemouth medical",
   "player": "Di Gregorio",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-brighton-yankuba-minteh-37580063",
   "fee": null,
   "published": "2026-08-21T17:55:43+00:00"
- },
- {
-  "id": "f2e5e946dc23",
-  "title": "Brighton reject Liverpool's new £60m Minteh bid",
-  "player": "Yankuba Minteh",
-  "title_ko": "브라이튼은 리버풀의 새로운 £60m 민테 제안을 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce97ky3vkx4o?at_medium=RSS&at_campaign=rss",
-  "fee": "£60M",
-  "published": "2026-08-21T17:26:49+00:00"
- },
- {
-  "id": "5615454c9c98",
-  "title": "Chelsea secure agreement to host Champions League games for Shakhtar Donetsk",
-  "player": "Shakhtar Donetsk",
-  "title_ko": "첼시, 샤흐타르 도네츠크와 챔피언스리그 경기 개최 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-shakhtar-champions-league-games-37579844",
-  "fee": null,
-  "published": "2026-08-21T16:55:23+00:00"
  }
 ]

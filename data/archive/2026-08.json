@@ -1,5 +1,31 @@
 [
  {
+  "id": "83cc3a47b1f3",
+  "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
+  "player": "Der Hamburger",
+  "title_ko": "흠집이 난 드림 스트라이커: HSV, 모피와 계약",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wunschstuermer-mit-delle-hsv-verpflichtet-moffi-1245625/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-24T08:04:30+00:00"
+ },
+ {
+  "id": "66fc9a05fc8c",
+  "title": "DIRECT. Mercato: du mouvement attendu au PSG, vers un nouveau départ à Rennes",
+  "player": null,
+  "title_ko": "직접. Mercato: PSG의 예상되는 움직임에서 Rennes의 새로운 시작을 향해",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-24-aout-2026_LN-202608240288.html",
+  "fee": null,
+  "published": "2026-08-24T08:03:11+00:00"
+ },
+ {
   "id": "1b7b2bfa2cdc",
   "title": "Video: Di Gregorio flies out for Bournemouth medical",
   "player": "Di Gregorio",
