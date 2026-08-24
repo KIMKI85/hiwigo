@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a441ef6760a",
+  "title": "Man Utd news: Alejandro Balde gives transfer green light and announcement imminent",
+  "player": "Alejandro Balde",
+  "title_ko": "맨유 뉴스: 알레한드로 발데가 이적 허가를 내렸고 발표가 임박했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-balde-baleba-37583953",
+  "fee": null,
+  "published": "2026-08-24T03:30:00+00:00"
+ },
+ {
   "id": "711ac3ea6022",
   "title": "Arsenal news: Fresh Julian Alvarez meeting held as update issued on £85m target",
   "player": "Fresh Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-konsa-officiellement-a-arsenal-les-gunners-tiennent-le-remplacant-de-saliba_AN-202608210463.html",
   "fee": null,
   "published": "2026-08-21T16:08:27+00:00"
- },
- {
-  "id": "cf618e7accab",
-  "title": "Report Di Gregorio targeted by Bournemouth, close to Juventus agreement",
-  "player": "Di Gregorio",
-  "title_ko": "유벤투스 계약에 가까운 본머스의 타겟인 디 그레고리오 보고",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/di-gregorio-bournemouth-close-to-juventus/",
-  "fee": null,
-  "published": "2026-08-21T16:06:07+00:00"
  }
 ]
