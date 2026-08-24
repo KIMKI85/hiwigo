@@ -1,5 +1,18 @@
 [
  {
+  "id": "54e09c55b9a4",
+  "title": "Man City agree deal for Palmeiras winger Allan",
+  "player": "Allan Elias",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T19:27:47+00:00"
+ },
+ {
   "id": "0c67e21580d2",
   "title": "Forest working on deal for Chelsea striker Delap",
   "player": "Liam Delap",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
   "fee": null,
   "published": "2026-08-22T07:10:40+00:00"
- },
- {
-  "id": "eaba84e7e7a8",
-  "title": "Liverpool news: Andoni Iraola makes transfer promise as Endrick responds to interest",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라는 엔드릭이 관심을 보이자 이적 약속을 했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-iraola-endrick-37578231",
-  "fee": null,
-  "published": "2026-08-22T04:00:00+00:00"
  }
 ]
