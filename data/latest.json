@@ -1,5 +1,18 @@
 [
  {
+  "id": "b7c13f4dba2b",
+  "title": "Bologna reject latest €35m bid from Atalanta for Jonathan Rowe",
+  "player": "Jonathan Rowe",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/bologna-reject-latest-35m-rowe-bid-atalanta/",
+  "fee": "€35M",
+  "published": "2026-08-24T12:32:31+00:00"
+ },
+ {
   "id": "6c80ce9c23f1",
   "title": "Man Utd can still sign Myles Lewis-Skelly as Arsenal open door to transfer",
   "player": "Myles Lewis-",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-oosterwolde-fenerbahce-roma-talks-20m/",
   "fee": "€20M",
   "published": "2026-08-21T19:44:29+00:00"
- },
- {
-  "id": "eb4da2987d75",
-  "title": "Inter Milan sign Jones from Liverpool",
-  "player": "Curtis Jones",
-  "title_ko": "인터 밀란은 리버풀에서 존스를 영입했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
-  "fee": null,
-  "published": "2026-08-21T19:30:00+00:00"
  }
 ]
