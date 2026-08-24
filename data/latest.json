@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ec9ac17b050",
+  "title": "Atletico Madrid dressing room stance on Julian Alvarez transfer noise as Arsenal chase heats up",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날의 추격전이 뜨거워지면서 줄리안 알바레스의 이적 소음에 대한 아틀레티코 마드리드 탈의실 입장",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-oblak-37585562",
+  "fee": null,
+  "published": "2026-08-24T09:29:44+00:00"
+ },
+ {
   "id": "44766d841d8d",
   "title": "Jarrod Bowen could land Premier League return in £50m transfer despite contract vow",
   "player": "Jarrod Bowen",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-envisage-de-preter-mudryk-a-strasbourg_AV-202608210549.html",
   "fee": null,
   "published": "2026-08-21T18:14:51+00:00"
- },
- {
-  "id": "46e5e704b003",
-  "title": "Man United set for transfer windfall thanks to sell-on clause as player in 'advanced talks'",
-  "player": null,
-  "title_ko": "맨유, '고급 협상' 선수로서 매각 조항 덕분에 이적 횡재 예상",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-kambwala-37580009",
-  "fee": null,
-  "published": "2026-08-21T18:10:20+00:00"
  }
 ]
