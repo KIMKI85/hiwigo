@@ -1,5 +1,31 @@
 [
  {
+  "id": "1a4adc8e5942",
+  "title": "Mercato: accord total entre Chelsea et Crystal Palace pour Axel Disasi",
+  "player": "Axel Disasi",
+  "title_ko": "Mercato: Axel Disasi에 대한 Chelsea와 Crystal Palace 간의 완전한 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/premier-league/transferts/mercato-accord-total-entre-chelsea-et-crystal-palace-pour-axel-disasi_AV-202608240476.html",
+  "fee": null,
+  "published": "2026-08-24T11:51:22+00:00"
+ },
+ {
+  "id": "3c074a97a82e",
+  "title": "Gabriel Jesus' Arsenal transfer route closed as suitor turns to £25m-rated Chelsea star",
+  "player": "Gabriel Jesus'",
+  "title_ko": "가브리엘 제수스의 아스날 이적 경로는 구혼자가 £25m 등급의 첼시 스타로 바뀌면서 폐쇄되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/gabriel-jesus-arsenal-chelsea-napoli-37586156",
+  "fee": "£25M",
+  "published": "2026-08-24T11:45:18+00:00"
+ },
+ {
   "id": "42670e4c808a",
   "title": "Premier League clubs get transfer wake-up call as top-four hopefuls exposed",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/live-hoeness-muss-frueh-wechsel-vagnoman-ersetzt-nartey-1244499/artikel#omrss",
   "fee": null,
   "published": "2026-08-21T18:54:48+00:00"
- },
- {
-  "id": "7ad19d84671d",
-  "title": "Inter complete £30m deal for Liverpool's Jones",
-  "player": "Liverpool's Jones",
-  "title_ko": "인테르는 리버풀의 존스와 £30m 계약을 완료했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-08-21T18:48:15+00:00"
- },
- {
-  "id": "17c6c28d073d",
-  "title": "Official: Jones joins Inter from Liverpool in €30m plus bonus deal",
-  "player": "Curtis Jones",
-  "title_ko": "공식: 존스는 3천만 유로에 보너스 계약으로 리버풀에서 인테르로 합류했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-jones-joins-inter-from-liverpool-e30m/",
-  "fee": "€30M",
-  "published": "2026-08-21T18:39:20+00:00"
  }
 ]
