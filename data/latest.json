@@ -1,5 +1,18 @@
 [
  {
+  "id": "42670e4c808a",
+  "title": "Premier League clubs get transfer wake-up call as top-four hopefuls exposed",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-villa-liverpool-37585322",
+  "fee": null,
+  "published": "2026-08-24T11:24:17+00:00"
+ },
+ {
   "id": "60cd493d28ec",
   "title": "Como have agreement with Kean as Fiorentina talks continue",
   "player": "Moise Kean",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-jones-joins-inter-from-liverpool-e30m/",
   "fee": "€30M",
   "published": "2026-08-21T18:39:20+00:00"
- },
- {
-  "id": "694a15832a98",
-  "title": "Brighton reject £60m Liverpool bid for Minteh",
-  "player": "Yankuba Minteh",
-  "title_ko": "브라이튼은 민테에 대한 리버풀의 £60m 제안을 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger",
-  "fee": "£60M",
-  "published": "2026-08-21T18:24:00+00:00"
  }
 ]
