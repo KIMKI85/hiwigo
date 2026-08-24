@@ -1,5 +1,31 @@
 [
  {
+  "id": "40318c62874c",
+  "title": "Vom Betze an den Rhein: Wekesser wechselt nach Düsseldorf",
+  "player": "Vom Betze",
+  "title_ko": "Betze에서 라인강까지: Wekesser가 뒤셀도르프로 이동",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/vom-betze-an-den-rhein-wekesser-wechselt-nach-duesseldorf-1245672/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-24T13:36:13+00:00"
+ },
+ {
+  "id": "725793085e35",
+  "title": "Girona winger Kim to undergo Rangers medical",
+  "player": "Kim Min-",
+  "title_ko": "지로나 윙어 김, 레인저스 메디컬 받아",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crr4ldl1wp0o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T13:29:22+00:00"
+ },
+ {
   "id": "b7c13f4dba2b",
   "title": "Bologna reject latest €35m bid from Atalanta for Jonathan Rowe",
   "player": "Jonathan Rowe",
