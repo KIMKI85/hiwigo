@@ -1,5 +1,18 @@
 [
  {
+  "id": "3d1107566c56",
+  "title": "Mercato: en attendant Ayyoub Bouaddi, Manchester City en passe de s’offrir une pépite brésilienne",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-en-attendant-ayyoub-bouaddi-manchester-city-en-passe-de-s-offrir-une-pepite-bresilienne_AV-202608240898.html",
+  "fee": null,
+  "published": "2026-08-24T21:18:53+00:00"
+ },
+ {
   "id": "9cd519620b1f",
   "title": "Mercato: pourquoi le Barça a sondé Dortmund mais a vite abandonné la piste Serhou Guirassy",
   "player": "Serhou Guirassy",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-moffi-julian-alvarez-kebbal-les-5-infos-mercato-du-samedi-22-aout-a-12h_VN-202608220187.html",
   "fee": null,
   "published": "2026-08-22T10:06:21+00:00"
- },
- {
-  "id": "f1aa3ebe1075",
-  "title": "Sky: Roma close in on Oosterwolde, but Chelsea reject Gittens bid",
-  "player": "Sky Sport Italia",
-  "title_ko": "스카이: 로마는 우스터볼데에 가까워졌지만 첼시는 기튼스의 제안을 거부했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-close-oosterwolde-chelsea-reject-gittens/",
-  "fee": null,
-  "published": "2026-08-22T09:51:08+00:00"
  }
 ]
