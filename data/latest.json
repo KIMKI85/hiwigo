@@ -13,6 +13,19 @@
   "published": "2026-08-24T17:10:00+00:00"
  },
  {
+  "id": "39100d7a72d8",
+  "title": "Sunderland sign Ahoka from Royal Antwerp",
+  "player": "Royal Antwerp",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2ze3dz4jro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T16:50:16+00:00"
+ },
+ {
   "id": "de8feb768c85",
   "title": "Mikel Arteta sets one condition for £130m Julian Alvarez transfer as Arsenal plans emerges",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/om-on-doit-baisser-la-masse-salariale-malgre-la-victoire-face-a-strasbourg-genesio-annonce-une-fin-de-mercato-agitee_AP-202608210615.html",
   "fee": null,
   "published": "2026-08-21T21:44:50+00:00"
- },
- {
-  "id": "d4b1ba69e309",
-  "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
-  "player": "Carlos Baleba",
-  "title_ko": "맨체스터 유나이티드는 카를로스 발레바와 미드필더 재건을 계속하기로 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
-  "fee": null,
-  "published": "2026-08-21T21:30:45+00:00"
  }
 ]
