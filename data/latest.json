@@ -1,5 +1,18 @@
 [
  {
+  "id": "79e8a6b846ad",
+  "title": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
+  "player": "Allan Elias",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/24/manchester-city-agree-34m-deal-for-allan-elias-as-nico-gonzalez-nears-newcastle-move",
+  "fee": "£34M",
+  "published": "2026-08-24T19:56:12+00:00"
+ },
+ {
   "id": "54e09c55b9a4",
   "title": "Man City agree deal for Palmeiras winger Allan",
   "player": "Allan Elias",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-wright-37580844",
   "fee": null,
   "published": "2026-08-22T07:56:11+00:00"
- },
- {
-  "id": "fe6ab8cce512",
-  "title": "Premier League buildup, transfers and Hull v Manchester United early news – matchday live",
-  "player": null,
-  "title_ko": "프리미어 리그 빌드업, 이적 및 헐 v 맨체스터 유나이티드 초기 뉴스 – 매치데이 라이브",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
-  "fee": null,
-  "published": "2026-08-22T07:10:40+00:00"
  }
 ]
