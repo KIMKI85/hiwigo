@@ -1,5 +1,18 @@
 [
  {
+  "id": "bd7c46c49cae",
+  "title": "Mercato: \"Bienvenue chez toi\", Nice officialise le retour de Wahi en L1",
+  "player": "Elye Wahi",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bienvenue-chez-toi-nice-officialise-le-retour-de-wahi-en-l1_AV-202608240852.html",
+  "fee": null,
+  "published": "2026-08-24T20:19:58+00:00"
+ },
+ {
   "id": "79e8a6b846ad",
   "title": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
   "player": "Allan Elias",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/details-revealed-di-gregorio-bournemouth/",
   "fee": null,
   "published": "2026-08-22T08:05:25+00:00"
- },
- {
-  "id": "00ed1969c3ff",
-  "title": "Arsenal icon Ian Wright slams 'uncomfortable' transfer treatment of Gabriel Martinelli",
-  "player": "Ian Wright",
-  "title_ko": "아스날 아이콘 이안 라이트는 가브리엘 마르티넬리의 이적 처리가 '불편하다'고 비난했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-wright-37580844",
-  "fee": null,
-  "published": "2026-08-22T07:56:11+00:00"
  }
 ]
