@@ -1,5 +1,18 @@
 [
  {
+  "id": "44766d841d8d",
+  "title": "Jarrod Bowen could land Premier League return in £50m transfer despite contract vow",
+  "player": "Jarrod Bowen",
+  "title_ko": "Jarrod Bowen은 계약 서약에도 불구하고 £50m 이적료로 프리미어 리그 복귀를 달성할 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jarrod-bowen-future-west-ham-37585423",
+  "fee": "£50M",
+  "published": "2026-08-24T08:53:20+00:00"
+ },
+ {
   "id": "3c515d1752fb",
   "title": "Überraschende Wende: Esther wechselt nach Saudi-Arabien",
   "player": "Überraschende Wende",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-kambwala-37580009",
   "fee": null,
   "published": "2026-08-21T18:10:20+00:00"
- },
- {
-  "id": "b8835bc1a178",
-  "title": "Arsenal transfer 'proof' revealed live on Sky Sports in Julian Alvarez and Vinicius Jr claim",
-  "player": "Sky Sports",
-  "title_ko": "줄리안 알바레즈와 비니시우스 주니어의 주장이 스카이 스포츠에서 생방송으로 공개된 아스날 이적 '증명'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-sky-sports-vinicius-junior-37580104",
-  "fee": null,
-  "published": "2026-08-21T18:02:09+00:00"
  }
 ]
