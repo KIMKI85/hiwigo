@@ -1,5 +1,18 @@
 [
  {
+  "id": "711ac3ea6022",
+  "title": "Arsenal news: Fresh Julian Alvarez meeting held as update issued on £85m target",
+  "player": "Fresh Julian Alvarez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37583842",
+  "fee": "£85M",
+  "published": "2026-08-24T03:00:00+00:00"
+ },
+ {
   "id": "f9fbfb61c4ee",
   "title": "Papers: Palace prepare audacious £50m bid for West Ham captain Bowen",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/di-gregorio-bournemouth-close-to-juventus/",
   "fee": null,
   "published": "2026-08-21T16:06:07+00:00"
- },
- {
-  "id": "9afd6ef8a401",
-  "title": "Spurs agree £85m Savinho deal and close in on Marmoush",
-  "player": "Omar Marmoush",
-  "title_ko": "토트넘은 8500만 파운드의 사비뉴 계약에 동의하고 마모시 영입에 성공했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-tottenham-agree-85m-deal-to-sign-man-city-winger-as-spurs-close-in-on-omar-marmoush",
-  "fee": "£85M",
-  "published": "2026-08-21T15:51:00+00:00"
  }
 ]
