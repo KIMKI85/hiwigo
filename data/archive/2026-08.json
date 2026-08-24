@@ -1,5 +1,44 @@
 [
  {
+  "id": "6629d7726f08",
+  "title": "Coventry latest: Deal agreed for Jamaica international",
+  "player": null,
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-24T17:10:00+00:00"
+ },
+ {
+  "id": "f56583d0c735",
+  "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
+  "player": "Julian Alvarez's",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T16:07:06+00:00"
+ },
+ {
+  "id": "b0c1b78e26fc",
+  "title": "William Saliba sent brutal warning after shock Arsenal transfer - 'He doesn't get back in'",
+  "player": "William Saliba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-konsa-terry-saliba-transfer-37587807",
+  "fee": null,
+  "published": "2026-08-24T16:03:43+00:00"
+ },
+ {
   "id": "9454ea7a1836",
   "title": "Nkunku medical set as Milan sanction potential €32m sale to RB Leipzig",
   "player": "Christopher Nkunku",

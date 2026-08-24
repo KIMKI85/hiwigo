@@ -1,5 +1,44 @@
 [
  {
+  "id": "6629d7726f08",
+  "title": "Coventry latest: Deal agreed for Jamaica international",
+  "player": null,
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-24T17:10:00+00:00"
+ },
+ {
+  "id": "f56583d0c735",
+  "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
+  "player": "Julian Alvarez's",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T16:07:06+00:00"
+ },
+ {
+  "id": "b0c1b78e26fc",
+  "title": "William Saliba sent brutal warning after shock Arsenal transfer - 'He doesn't get back in'",
+  "player": "William Saliba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-konsa-terry-saliba-transfer-37587807",
+  "fee": null,
+  "published": "2026-08-24T16:03:43+00:00"
+ },
+ {
   "id": "9454ea7a1836",
   "title": "Nkunku medical set as Milan sanction potential €32m sale to RB Leipzig",
   "player": "Christopher Nkunku",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-squad-spend-roberto-dezerbi-37579902",
   "fee": null,
   "published": "2026-08-21T21:30:00+00:00"
- },
- {
-  "id": "10f47a353128",
-  "title": "Mercato: \"Pourquoi je devrais choisir Trabzonspor?\", comment le club turc a convaincu Salah",
-  "player": "Mohamed Salah",
-  "title_ko": "메르카토: “내가 왜 트라브존스포르를 선택해야 하는가?”, 터키 클럽이 살라를 설득한 방법",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-je-devrais-choisir-trabzonspor-comment-le-club-turc-a-convaincu-salah_AV-202608210581.html",
-  "fee": null,
-  "published": "2026-08-21T20:47:14+00:00"
- },
- {
-  "id": "ba08543277e3",
-  "title": "Mercato: l’ancien Lorientais Bamba Dieng rebondit à l’Etoile rouge de Belgrade",
-  "player": "Lorientais Bamba Dieng",
-  "title_ko": "Mercato: 전 Lorient 선수 Bamba Dieng이 Red Star Belgrade에서 다시 돌아왔습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ancien-lorientais-bamba-dieng-rebondit-a-l-etoile-rouge-de-belgrade_AV-202608210578.html",
-  "fee": null,
-  "published": "2026-08-21T20:43:55+00:00"
- },
- {
-  "id": "1a08f430a800",
-  "title": "Man Utd agree £70m deal for Baleba",
-  "player": "Carlos Baleba",
-  "title_ko": "맨유, 발레바 이적료 7000만 파운드에 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
-  "fee": "£70M",
-  "published": "2026-08-21T20:38:00+00:00"
  }
 ]
