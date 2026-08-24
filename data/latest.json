@@ -1,5 +1,18 @@
 [
  {
+  "id": "0c67e21580d2",
+  "title": "Forest working on deal for Chelsea striker Delap",
+  "player": "Liam Delap",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-24T19:12:07+00:00"
+ },
+ {
   "id": "4948f32916ac",
   "title": "Los deberes del Sevilla en la última semana del mercado de fichajes",
   "player": "García Plaza",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-iraola-endrick-37578231",
   "fee": null,
   "published": "2026-08-22T04:00:00+00:00"
- },
- {
-  "id": "b11fc3033985",
-  "title": "Arsenal news: Mikel Arteta ‘closing in’ on trio as Julian Alvarez transfer twist emerges",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 뉴스: Julian Alvarez 이적 트위스트가 등장하면서 Mikel Arteta가 트리오에 '접근'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-arteta-37579239",
-  "fee": null,
-  "published": "2026-08-22T03:00:00+00:00"
  }
 ]
