@@ -13,6 +13,19 @@
   "published": "2026-08-24T17:10:00+00:00"
  },
  {
+  "id": "de8feb768c85",
+  "title": "Mikel Arteta sets one condition for £130m Julian Alvarez transfer as Arsenal plans emerges",
+  "player": "Mikel Arteta",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-julian-alvarez-arteta-37587909",
+  "fee": "£130M",
+  "published": "2026-08-24T16:31:58+00:00"
+ },
+ {
   "id": "391f672c2269",
   "title": "Calhanoglu’s contract situation puts Galatasaray and Fenerbahce on high alert",
   "player": "Hakan Calhanoglu",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "Guardian Football",
   "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
-  "fee": null,
-  "published": "2026-08-21T21:30:45+00:00"
- },
- {
-  "id": "810a395dae3b",
-  "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
-  "player": "De Zerbi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league",
   "fee": null,
   "published": "2026-08-21T21:30:45+00:00"
  }
