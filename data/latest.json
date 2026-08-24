@@ -1,5 +1,18 @@
 [
  {
+  "id": "2a859e322d2b",
+  "title": "Man City make shock Cody Gakpo approach to leave Liverpool and Tottenham with transfer dilemma",
+  "player": "Cody Gakpo",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-city-tottenham-transfer-gakpo-37588274",
+  "fee": null,
+  "published": "2026-08-24T18:37:09+00:00"
+ },
+ {
   "id": "c26c5fd6467b",
   "title": "Arsenal close to completing record transfer deal after Mikel Arteta green light",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-enorme-tacle-de-l-agent-d-alvarez-envers-le-president-de-l-atletico-le-feuilleton-continue_AV-202608210618.html",
   "fee": null,
   "published": "2026-08-21T21:59:34+00:00"
- },
- {
-  "id": "fa473caa611f",
-  "title": "Chelsea: Napoli ready for Guiu, Roma request Gittens loan",
-  "player": "Marc Guiu",
-  "title_ko": "첼시: 나폴리는 기우를 위해 준비됐고, 로마는 기튼스 임대를 요청했다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/chelsea-napoli-ready-guiu-roma-request-gittens/",
-  "fee": null,
-  "published": "2026-08-21T21:50:58+00:00"
  }
 ]
