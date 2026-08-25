@@ -1,5 +1,31 @@
 [
  {
+  "id": "7085b5e8a85e",
+  "title": "Liverpool a peut-être réalisé \"le plus mauvais mercato de l'histoire de la Premier League\" l'été dernier! Carragher sans pitié avec son ancien club",
+  "player": "Jamie Carragher",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/premier-league/liverpool-a-peut-etre-realise-le-plus-mauvais-mercato-de-l-histoire-de-la-premier-league-l-ete-dernier-carragher-sans-pitie-avec-son-ancien-club_AV-202608250330.html",
+  "fee": null,
+  "published": "2026-08-25T09:12:32+00:00"
+ },
+ {
+  "id": "b5fe94f4aa77",
+  "title": "Mercato: \"Le joueur et son entourage sont des imbéciles\", les mots forts de Dugarry sur la situation d'Alvarez à l'Atlético de Madrid",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-joueur-et-son-entourage-sont-des-imbeciles-les-mots-forts-de-dugarry-sur-la-situation-d-alvarez-a-l-atletico-de-madrid_AV-202608250329.html",
+  "fee": null,
+  "published": "2026-08-25T09:10:45+00:00"
+ },
+ {
   "id": "7a3544315eab",
   "title": "Mateta-David swap deal could tempt Juventus and Crystal Palace",
   "player": "Jonathan David",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/espanyol-gegen-real-madrid-2026-la-liga-5223807/spielbericht#omrss",
   "fee": null,
   "published": "2026-08-22T20:37:57+00:00"
- },
- {
-  "id": "ce2dcfedf733",
-  "title": "Liverpool star told he must tear up his contract to seal return to former club",
-  "player": "Stefan Bajcetic",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-stefan-bajcetic-37582486",
-  "fee": null,
-  "published": "2026-08-22T17:37:14+00:00"
- },
- {
-  "id": "fe02cc97f0ba",
-  "title": "Mercato: bloqué par l'Atlético, Alvarez ouvrirait la porte à un départ vers Arsenal",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 아틀레티코에 의해 막힌 알바레스는 아스날로 이적할 문을 열 것이다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bloque-par-l-atletico-alvarez-ouvrirait-la-porte-a-un-depart-vers-arsenal_AV-202608220305.html",
-  "fee": null,
-  "published": "2026-08-22T17:07:55+00:00"
  }
 ]
