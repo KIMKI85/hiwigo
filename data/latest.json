@@ -1,5 +1,18 @@
 [
  {
+  "id": "fdc88444983b",
+  "title": "Liverpool news: Virgil van Dijk transfer admission as PSG chief speaks out on Bradley Barcola",
+  "player": "Virgil van Dijk",
+  "title_ko": "리버풀 뉴스: PSG 회장이 브래들리 바르콜라에 대해 발언하면서 버질 반 다이크 이적 승인",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-van-dijk-psg-37586980",
+  "fee": null,
+  "published": "2026-08-25T04:00:00+00:00"
+ },
+ {
   "id": "43471df0b22f",
   "title": "Man Utd news: Lewis Hall transfer stance clear as defender ‘in talks’ over future",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ifeanyi-ndukwe-loan-levante-37581635",
   "fee": null,
   "published": "2026-08-22T12:53:27+00:00"
- },
- {
-  "id": "e2430f164576",
-  "title": "Le feuilleton du mercato continue: Julian Alvarez de retour dans le groupe de l'Atlético de Madrid",
-  "player": "Julian Alvarez",
-  "title_ko": "계속되는 이적 기간: 줄리안 알바레스가 아틀레티코 마드리드 그룹으로 돌아왔습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/le-feuilleton-du-mercato-continue-julian-alvarez-de-retour-dans-le-groupe-de-l-atletico-de-madrid_AV-202608220234.html",
-  "fee": null,
-  "published": "2026-08-22T12:35:25+00:00"
  }
 ]
