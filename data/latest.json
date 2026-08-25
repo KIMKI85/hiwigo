@@ -1,5 +1,18 @@
 [
  {
+  "id": "e3883795387d",
+  "title": "Newcastle latest: Gonzalez travelling for medical ahead move from Man City",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-25T16:15:00+00:00"
+ },
+ {
   "id": "6b871da4ac86",
   "title": "Lyon coach Fonseca reveals offers for Roma target Fofana but admits: ‘We’re not worried’",
   "player": "Paulo Fonseca",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/osmajic-genoa-2-5m-plus-bonus-move-preston-ne/",
   "fee": "€2.5M",
   "published": "2026-08-23T15:34:26+00:00"
- },
- {
-  "id": "5d88eb000f45",
-  "title": "Pokalprämie für Transfers: Ändert Mboms Verletzung die Bochumer Pläne?",
-  "player": "Ändert Mboms Verletzung",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/pokalpraemie-fuer-transfers-aendert-mboms-verletzung-die-bochumer-plaene-1246115/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-23T14:57:45+00:00"
  }
 ]
