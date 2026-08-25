@@ -13,6 +13,32 @@
   "published": "2026-08-25T10:06:00+00:00"
  },
  {
+  "id": "d6316cc56a06",
+  "title": "Chelsea braced for new Enzo Fernandez bid from Man City 11 days after deadline",
+  "player": "Enzo Fernandez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-enzo-fernandez-man-city-37589585",
+  "fee": null,
+  "published": "2026-08-25T09:28:53+00:00"
+ },
+ {
+  "id": "5d7feda7fa2d",
+  "title": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
+  "player": "De Zerbi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio",
+  "fee": "£75M",
+  "published": "2026-08-25T09:21:22+00:00"
+ },
+ {
   "id": "f6dc3ec768db",
   "title": "Savinho wechselt für 87,5 Millionen Euro von ManCity zu Tottenham",
   "player": "Millionen Euro",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/kovac-ueber-bvb-neulinge-gezeigt-warum-wir-sie-verpflichtet-haben-1245941/video#omrss",
   "fee": null,
   "published": "2026-08-22T22:00:20+00:00"
- },
- {
-  "id": "a7815f12f471",
-  "title": "Done Deal: Oosterwolde to Roma from Fenerbahce with €18m purchase option",
-  "player": "Jayden Oosterwolde",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-oosterwolde-to-roma-from-fenerbahce/",
-  "fee": "€18M",
-  "published": "2026-08-22T21:57:47+00:00"
- },
- {
-  "id": "767a1ddd28d2",
-  "title": "DIRECT. Espanyol-Real Madrid: la recrue Carlos Espi offre la première victoire de l'ère Mourinho au Real !",
-  "player": "Carlos Espi",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/direct-espanyol-barcelone-real-madrid-suivez-le-premier-match-de-mourinho-en-liga-en-live_LS-202608220286.html",
-  "fee": null,
-  "published": "2026-08-22T21:28:25+00:00"
  }
 ]
