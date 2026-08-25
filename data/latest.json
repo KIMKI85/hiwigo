@@ -1,5 +1,31 @@
 [
  {
+  "id": "b74468a8a770",
+  "title": "Di Gregorio: ‘Right decision’ to join Bournemouth from Juventus",
+  "player": "Di Gregorio",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/di-gregorio-decision-bournemouth-juventus/",
+  "fee": null,
+  "published": "2026-08-25T11:33:08+00:00"
+ },
+ {
+  "id": "a6b1f6fe00fa",
+  "title": "Bradley Barcola's behaviour speaks volumes as Liverpool transfer chances emerge",
+  "player": "Bradley Barcola's",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-latest-37590601",
+  "fee": null,
+  "published": "2026-08-25T11:30:11+00:00"
+ },
+ {
   "id": "56297e444173",
   "title": "Hamdani, Amoura, Leao... Les 5 infos mercato du 25 août à la mi-journée",
   "player": "Adil Hamdani",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/xhaka-chelsea-transfer-sunderland-alonso-37583475",
   "fee": null,
   "published": "2026-08-23T10:52:18+00:00"
- },
- {
-  "id": "973039f4fabc",
-  "title": "Milan and RB Leipzig strike €32m agreement for Nkunku sale",
-  "player": null,
-  "title_ko": "밀란과 RB 라이프치히는 은쿤쿠 판매를 위해 3200만 유로에 계약을 체결했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-rb-leipzig-32m-nkunku-agreement/",
-  "fee": "€32M",
-  "published": "2026-08-23T10:39:49+00:00"
- },
- {
-  "id": "04fac3fdebe0",
-  "title": "El Celta, cerca de cerrar el fichaje de Couhaib Driouech",
-  "player": "Couhaib Driouech",
-  "title_ko": "셀타, 쿠하이브 드리우에흐 영입 마무리 임박",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/celta/2026/08/23/celta-cerca-cerrar-fichaje-couhaib-driouech.html",
-  "fee": null,
-  "published": "2026-08-23T10:15:00+00:00"
  }
 ]
