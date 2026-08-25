@@ -13,6 +13,19 @@
   "published": "2026-08-25T16:45:00+00:00"
  },
  {
+  "id": "b1cf7ec412b4",
+  "title": "Augsburg vor Transfer von WM-Fahrer Seol",
+  "player": "Fahrer Seol",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/augsburg-vor-transfer-von-wm-fahrer-seol-1246673/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T16:18:16+00:00"
+ },
+ {
   "id": "e3883795387d",
   "title": "Newcastle latest: Gonzalez travelling for medical ahead move from Man City",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/ghedjemis-wants-monaco-despite-besiktas-bid/",
   "fee": null,
   "published": "2026-08-23T17:57:58+00:00"
- },
- {
-  "id": "ab56f0e3cfff",
-  "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
-  "player": "Saudi Arabian",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-23T17:37:06+00:00"
  }
 ]
