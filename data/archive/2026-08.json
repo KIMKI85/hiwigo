@@ -1,5 +1,31 @@
 [
  {
+  "id": "d69135377df7",
+  "title": "Demirovic-Wechsel zu Galatasaray auf der Kippe",
+  "player": null,
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/demirovic-wechsel-zu-galatasaray-auf-der-kippe-1246657/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T12:56:55+00:00"
+ },
+ {
+  "id": "d6d623ae016f",
+  "title": "Crystal Palace target Roma midfielder El Aynaoui",
+  "player": "El Aynaoui",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/crystal-palace-target-roma-el-aynaoui/",
+  "fee": null,
+  "published": "2026-08-25T12:50:00+00:00"
+ },
+ {
   "id": "0e2eb9279a9a",
   "title": "Nkunku completes Leipzig medical as Milan exit nears",
   "player": "Christopher Nkunku",

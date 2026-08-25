@@ -1,5 +1,31 @@
 [
  {
+  "id": "d69135377df7",
+  "title": "Demirovic-Wechsel zu Galatasaray auf der Kippe",
+  "player": null,
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/demirovic-wechsel-zu-galatasaray-auf-der-kippe-1246657/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T12:56:55+00:00"
+ },
+ {
+  "id": "d6d623ae016f",
+  "title": "Crystal Palace target Roma midfielder El Aynaoui",
+  "player": "El Aynaoui",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/crystal-palace-target-roma-el-aynaoui/",
+  "fee": null,
+  "published": "2026-08-25T12:50:00+00:00"
+ },
+ {
   "id": "0e2eb9279a9a",
   "title": "Nkunku completes Leipzig medical as Milan exit nears",
   "player": "Christopher Nkunku",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/ollie-watkins-villa-saudi-transfer-37583847",
   "fee": null,
   "published": "2026-08-23T12:51:07+00:00"
- },
- {
-  "id": "b32752c7b79d",
-  "title": "Man City agree £85m transfer deal for World Cup star Ayyoub Bouaddi to replace Rodri",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-ayyoub-bouaddi-lille-37583781",
-  "fee": "£85M",
-  "published": "2026-08-23T12:48:58+00:00"
- },
- {
-  "id": "06ef2d73f575",
-  "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
-  "fee": "€100M",
-  "published": "2026-08-23T12:32:43+00:00"
  }
 ]
