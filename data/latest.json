@@ -1,5 +1,31 @@
 [
  {
+  "id": "e0b9e32ce1da",
+  "title": "Report: Milan consider move for Manchester City’s Jack Grealish",
+  "player": "Jack Grealish",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-milan-linked-with-man-city-grealish/",
+  "fee": null,
+  "published": "2026-08-25T13:10:00+00:00"
+ },
+ {
+  "id": "036625286ff3",
+  "title": "Mercato: Aston Villa soumet une première offre à Crystal Palace pour Mateta",
+  "player": "Philippe Mateta",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-aston-villa-soumet-une-premiere-offre-a-crystal-palace-pour-mateta_AV-202608250501.html",
+  "fee": null,
+  "published": "2026-08-25T13:05:18+00:00"
+ },
+ {
   "id": "ef0724bdc23e",
   "title": "Man Utd face major Alejandro Balde transfer issue as they search for Lewis Hall alternative",
   "player": "Alejandro Balde",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/martinelli-arsenal-transfer-al-hilal-37583961",
   "fee": "£60M",
   "published": "2026-08-23T13:56:32+00:00"
- },
- {
-  "id": "f6ef3b39b218",
-  "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
-  "player": "Isaac Price",
-  "title_ko": "웨스트 브롬은 이적 추측 속에 플레밍 없는 번리로 다시 돌아왔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
-  "fee": null,
-  "published": "2026-08-23T13:24:14+00:00"
- },
- {
-  "id": "2755ec37b540",
-  "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "맨시티는 부아디 영입을 위해 릴과 기록적인 계약을 체결했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
-  "fee": null,
-  "published": "2026-08-23T13:02:00+00:00"
  }
 ]
