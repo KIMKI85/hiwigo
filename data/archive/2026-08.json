@@ -1,5 +1,31 @@
 [
  {
+  "id": "2a05ecac7f97",
+  "title": "Lazio reach agreement with Sassuolo for Pinamonti",
+  "player": "Andrea Pinamonti",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-reach-agreement-with-sassuolo-pinamonti/",
+  "fee": null,
+  "published": "2026-08-25T12:15:00+00:00"
+ },
+ {
+  "id": "63d7923a1ab2",
+  "title": "José Ignacio Navarro pasa revista: Agoumé, Vargas, Pedrosa, los fichajes, el límite salarial...",
+  "player": "José Ignacio Navarro",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/25/jose-ignacio-navarro-pasa-revista-agoume-vargas-pedrosa-fichajes-limite-salarial.html",
+  "fee": null,
+  "published": "2026-08-25T12:08:42+00:00"
+ },
+ {
   "id": "b74468a8a770",
   "title": "Di Gregorio: ‘Right decision’ to join Bournemouth from Juventus",
   "player": "Di Gregorio",

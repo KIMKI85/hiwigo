@@ -1,5 +1,31 @@
 [
  {
+  "id": "2a05ecac7f97",
+  "title": "Lazio reach agreement with Sassuolo for Pinamonti",
+  "player": "Andrea Pinamonti",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-reach-agreement-with-sassuolo-pinamonti/",
+  "fee": null,
+  "published": "2026-08-25T12:15:00+00:00"
+ },
+ {
+  "id": "63d7923a1ab2",
+  "title": "José Ignacio Navarro pasa revista: Agoumé, Vargas, Pedrosa, los fichajes, el límite salarial...",
+  "player": "José Ignacio Navarro",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/25/jose-ignacio-navarro-pasa-revista-agoume-vargas-pedrosa-fichajes-limite-salarial.html",
+  "fee": null,
+  "published": "2026-08-25T12:08:42+00:00"
+ },
+ {
   "id": "b74468a8a770",
   "title": "Di Gregorio: ‘Right decision’ to join Bournemouth from Juventus",
   "player": "Di Gregorio",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-ayyoub-bouaddi-va-signer-a-manchester-city-pour-un-transfert-record-de-100-millions-d-euros_AV-202608230201.html",
   "fee": null,
   "published": "2026-08-23T12:05:58+00:00"
- },
- {
-  "id": "ef70b8daced4",
-  "title": "Kochorashvili: fichaje, viaje a Bilbao con el equipo y trabajo en el día libre",
-  "player": "García Plaza",
-  "title_ko": "Kochorashvili: 계약, 팀과 함께 빌바오 여행 및 쉬는 날 근무",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/23/kochorashvili-fichaje-viaje-bilbao-equipo-trabajo-dia-libre.html",
-  "fee": null,
-  "published": "2026-08-23T11:38:50+00:00"
- },
- {
-  "id": "80a6913b0aac",
-  "title": "Granit Xhaka confirms how close he came to Chelsea transfer after Xabi Alonso talks",
-  "player": "Granit Xhaka",
-  "title_ko": "Granit Xhaka는 Xabi Alonso가 말한 후 첼시 이적에 얼마나 가까워 졌는지 확인합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/xhaka-chelsea-transfer-sunderland-alonso-37583475",
-  "fee": null,
-  "published": "2026-08-23T10:52:18+00:00"
  }
 ]
