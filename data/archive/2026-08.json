@@ -1,5 +1,18 @@
 [
  {
+  "id": "0af7a8e0d832",
+  "title": "Man Utd complete Baleba signing",
+  "player": "Carlos Baleba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton",
+  "fee": null,
+  "published": "2026-08-25T16:45:00+00:00"
+ },
+ {
   "id": "e3883795387d",
   "title": "Newcastle latest: Gonzalez travelling for medical ahead move from Man City",
   "player": null,
@@ -11,6 +24,45 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-25T16:15:00+00:00"
+ },
+ {
+  "id": "805757189ae0",
+  "title": "Baleba completes £70m Man Utd move from Brighton",
+  "player": "Carlos Baleba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
+  "fee": "£70M",
+  "published": "2026-08-25T15:55:56+00:00"
+ },
+ {
+  "id": "3afcfd3fe255",
+  "title": "Ex-Chelsea and Milan player Begovic on Leao: ‘He would be an incredible signing for Aston Villa’",
+  "player": "Asmir Begovic",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ex-chelsea-milan-begovic-on-leao-villa/",
+  "fee": null,
+  "published": "2026-08-25T15:50:00+00:00"
+ },
+ {
+  "id": "77ed1a8c18a2",
+  "title": "Man Utd announce Carlos Baleba transfer in £70m deal as next signing becomes clear",
+  "player": "Carlos Baleba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-carlos-baleba-brighton-37585117",
+  "fee": "£70M",
+  "published": "2026-08-25T15:44:41+00:00"
  },
  {
   "id": "6b871da4ac86",
