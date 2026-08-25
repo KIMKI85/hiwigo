@@ -1,5 +1,31 @@
 [
  {
+  "id": "0e2eb9279a9a",
+  "title": "Nkunku completes Leipzig medical as Milan exit nears",
+  "player": "Christopher Nkunku",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/nkunku-completes-leipzig-medical/",
+  "fee": null,
+  "published": "2026-08-25T12:35:00+00:00"
+ },
+ {
+  "id": "1672d9234c4f",
+  "title": "Beck nur der Anfang? Osnabrück bläst zur Transfer-Schlussoffensive",
+  "player": "Devise der Transferpolitik",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/beck-nur-der-anfang-osnabrueck-blaest-zur-transfer-schlussoffensive-1246636/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T12:29:43+00:00"
+ },
+ {
   "id": "2a05ecac7f97",
   "title": "Lazio reach agreement with Sassuolo for Pinamonti",
   "player": "Andrea Pinamonti",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
   "fee": "€100M",
   "published": "2026-08-23T12:32:43+00:00"
- },
- {
-  "id": "b43ac4b40318",
-  "title": "Man City agree £86m deal for teen midfielder Bouaddi",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clyjy0e0pkzo?at_medium=RSS&at_campaign=rss",
-  "fee": "£86M",
-  "published": "2026-08-23T12:19:43+00:00"
- },
- {
-  "id": "14e278a4281e",
-  "title": "INFO RMC SPORT. Mercato: Ayyoub Bouaddi va signer à Manchester City pour un transfert record de 100 millions d'euros",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "RMC 스포츠 정보. Mercato: Ayyoub Bouaddi는 1억 유로의 기록적인 이적료로 맨체스터 시티와 계약할 것입니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-ayyoub-bouaddi-va-signer-a-manchester-city-pour-un-transfert-record-de-100-millions-d-euros_AV-202608230201.html",
-  "fee": null,
-  "published": "2026-08-23T12:05:58+00:00"
  }
 ]
