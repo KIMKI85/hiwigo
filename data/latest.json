@@ -13,6 +13,19 @@
   "published": "2026-08-25T08:52:00+00:00"
  },
  {
+  "id": "bdb356aeceb0",
+  "title": "Talent Mike vor Wechsel nach Belgien - Bayern winken weitere Millionen",
+  "player": "Talent Mike",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/talent-mike-vor-wechsel-nach-belgien-bayern-winken-weitere-millionen-1246564/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T08:20:07+00:00"
+ },
+ {
   "id": "bf704f64750d",
   "title": "Gary Neville tells Xabi Alonso the one signing Chelsea must make after Fulham win",
   "player": "Gary Neville",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-napoli-sign-badiashile-from-chelsea/",
   "fee": "€23M",
   "published": "2026-08-22T15:49:45+00:00"
- },
- {
-  "id": "4aaea380b3d7",
-  "title": "Official: Lazio sign Croatia international Sutalo from Ajax",
-  "player": "Josip Sutalo",
-  "title_ko": "공식: 라치오가 아약스에서 크로아티아 국가대표 수탈로를 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-lazio-sign-sutalo-from-ajax/",
-  "fee": null,
-  "published": "2026-08-22T15:17:24+00:00"
  }
 ]
