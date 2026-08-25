@@ -1,5 +1,31 @@
 [
  {
+  "id": "dfe67b5c5496",
+  "title": "Mercato: en échec à l'AC Milan, Nkunku retourne à Leipzig pour tenter de relancer sa carrière",
+  "player": "Christopher Nkunku",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-en-echec-a-l-ac-milan-nkunku-retourne-a-leipzig-pour-tenter-de-relancer-sa-carriere_AV-202608250798.html",
+  "fee": null,
+  "published": "2026-08-25T19:41:59+00:00"
+ },
+ {
+  "id": "ea36ea606c56",
+  "title": "Brighton join Palace and Forest in race for Milan outcast Fofana",
+  "player": "Youssouf Fofana",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/brighton-join-race-milan-fofana/",
+  "fee": null,
+  "published": "2026-08-25T19:35:00+00:00"
+ },
+ {
   "id": "12fbd0ff90bf",
   "title": "Official: Juventus sign Grabara on loan from Wolfsburg with €11.5m buy option",
   "player": "Kamil Grabara",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
   "fee": "£50M",
   "published": "2026-08-23T22:25:00+00:00"
- },
- {
-  "id": "0f4242c20d83",
-  "title": "LIVE! Keine Wechsel zur Pause - Raphinha lässt Großchance liegen",
-  "player": "Keine Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/elche-gegen-barcelona-2026-la-liga-5223806/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-08-23T20:43:16+00:00"
- },
- {
-  "id": "b48c614104e0",
-  "title": "Luis Campos annonce que le mercato du PSG \"n'est pas du tout fini\"",
-  "player": "Luis Campos",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/luis-campos-annonce-que-le-mercato-du-psg-n-est-pas-du-tout-fini_AV-202608230309.html",
-  "fee": null,
-  "published": "2026-08-23T20:41:50+00:00"
  }
 ]
