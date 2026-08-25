@@ -26,6 +26,19 @@
   "published": "2026-08-25T18:20:00+00:00"
  },
  {
+  "id": "e383e390a063",
+  "title": "Official: Nkunku joins Leipzig on loan with option to buy",
+  "player": "Christopher Nkunku",
+  "title_ko": "공식: 은쿤쿠는 구매 옵션과 함께 임대로 라이프치히에 합류했습니다.",
+  "league": "BUND",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-nkunku-joins-leipzig-loan-option/",
+  "fee": null,
+  "published": "2026-08-25T18:10:00+00:00"
+ },
+ {
   "id": "f55102b3d939",
   "title": "Milan weigh late move for Manchester United’s Mazraoui",
   "player": "Noussair Mazraoui",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/leao-roma-milan-soule-swap/",
   "fee": null,
   "published": "2026-08-23T20:23:19+00:00"
- },
- {
-  "id": "736675e00d2d",
-  "title": "Diego Simeone addresses brutal Julian Alvarez jeers as Arsenal target blockbuster transfer",
-  "player": "Diego Simeone",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-atletico-37584735",
-  "fee": null,
-  "published": "2026-08-23T20:11:06+00:00"
  }
 ]
