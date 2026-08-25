@@ -1,5 +1,44 @@
 [
  {
+  "id": "184f81a347d0",
+  "title": "Spurs sign Savio from Man City in £85m deal",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal",
+  "fee": "£85M",
+  "published": "2026-08-25T10:06:00+00:00"
+ },
+ {
+  "id": "f6dc3ec768db",
+  "title": "Savinho wechselt für 87,5 Millionen Euro von ManCity zu Tottenham",
+  "player": "Millionen Euro",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/savinho-wechselt-fuer-87-5-millionen-euro-von-mancity-zu-tottenham-1245360/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T09:18:48+00:00"
+ },
+ {
+  "id": "e93107882c1d",
+  "title": "Tottenham sign Savinho from Man City for £75m",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
+  "fee": "£75M",
+  "published": "2026-08-25T09:14:39+00:00"
+ },
+ {
   "id": "7085b5e8a85e",
   "title": "Liverpool a peut-être réalisé \"le plus mauvais mercato de l'histoire de la Premier League\" l'été dernier! Carragher sans pitié avec son ancien club",
   "player": "Jamie Carragher",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/liga/direct-espanyol-barcelone-real-madrid-suivez-le-premier-match-de-mourinho-en-liga-en-live_LS-202608220286.html",
   "fee": null,
   "published": "2026-08-22T21:28:25+00:00"
- },
- {
-  "id": "6943b012946f",
-  "title": "Jean-Philippe Mateta calls in FIFA in bid to rip up Crystal Palace contract",
-  "player": "Philippe Mateta",
-  "title_ko": "장 필립 마테타, FIFA에 크리스탈 팰리스 계약 파기 요청",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mateta-crystal-palace-contract-fifa-37582644",
-  "fee": null,
-  "published": "2026-08-22T20:53:47+00:00"
- },
- {
-  "id": "2adb3e5e4a70",
-  "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
-  "player": "Julian Alvarez",
-  "title_ko": "알바레즈, 아스날 이적 가능성 열려 - 일요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-22T20:39:00+00:00"
- },
- {
-  "id": "8cc2b80ddcaf",
-  "title": "LIVE! Keine Wechsel zur Pause - Cala kratzt am Platzverweis",
-  "player": "Keine Wechsel",
-  "title_ko": "살다! 휴식 시간에 교체 선수 없음 - 칼라가 퇴장당할 지경에 이르렀습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/espanyol-gegen-real-madrid-2026-la-liga-5223807/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-08-22T20:37:57+00:00"
  }
 ]
