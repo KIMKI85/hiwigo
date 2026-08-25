@@ -1,5 +1,18 @@
 [
  {
+  "id": "0c95aa1f3873",
+  "title": "Lazio transfer news: Sevilla enquire for Ratkov after Southampton snub, Serie B sides track Artistico",
+  "player": "Petar Ratkov",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-transfer-news-sevilla-ratkov-southampton/",
+  "fee": null,
+  "published": "2026-08-25T13:47:23+00:00"
+ },
+ {
   "id": "e0b9e32ce1da",
   "title": "Report: Milan consider move for Manchester City’s Jack Grealish",
   "player": "Jack Grealish",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13576278/gabriel-martinelli-transfer-news-al-hilal-and-arsenal-make-progress-on-deal-for-brazilian-winger",
   "fee": null,
   "published": "2026-08-23T14:29:00+00:00"
- },
- {
-  "id": "853cfbd1215a",
-  "title": "Gabriel Martinelli poised to hand Arsenal huge payday as £60m transfer option emerges",
-  "player": "Gabriel Martinelli",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/martinelli-arsenal-transfer-al-hilal-37583961",
-  "fee": "£60M",
-  "published": "2026-08-23T13:56:32+00:00"
  }
 ]
