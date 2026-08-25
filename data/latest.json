@@ -1,5 +1,44 @@
 [
  {
+  "id": "56297e444173",
+  "title": "Hamdani, Amoura, Leao... Les 5 infos mercato du 25 août à la mi-journée",
+  "player": "Adil Hamdani",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-hamdani-amoura-leao-les-5-infos-mercato-du-25-aout-a-la-mi-journee_VN-202608250403.html",
+  "fee": null,
+  "published": "2026-08-25T10:41:45+00:00"
+ },
+ {
+  "id": "eb8a805a4978",
+  "title": "Liverpool will ignore Jamie Carragher's desperate transfer plea with focus elsewhere",
+  "player": "Jamie Carragher's",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-carragher-midfielder-jones-37590132",
+  "fee": null,
+  "published": "2026-08-25T10:39:25+00:00"
+ },
+ {
+  "id": "2ee654235e6e",
+  "title": "\"On signe déjà la fin de Ligue 1+\", un appel d’offres avant la fin de l’année comme seule solution pour LFP Media ?",
+  "player": null,
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-signe-deja-la-fin-de-ligue-1-un-appel-d-offres-avant-la-fin-de-l-annee-comme-seule-solution-pour-lfp-media_AV-202608250397.html",
+  "fee": null,
+  "published": "2026-08-25T10:32:51+00:00"
+ },
+ {
   "id": "94b349e1f6c3",
   "title": "Video: Oosterwolde arrives for Roma medical",
   "player": "Jayden Oosterwolde",
@@ -1259,44 +1298,5 @@
   "url": "https://www.marca.com/futbol/celta/2026/08/23/celta-cerca-cerrar-fichaje-couhaib-driouech.html",
   "fee": null,
   "published": "2026-08-23T10:15:00+00:00"
- },
- {
-  "id": "34114fc68597",
-  "title": "Transfer news LIVE: Man Utd green light, Minteh to Liverpool latest, Alvarez and Arsenal updates",
-  "player": null,
-  "title_ko": "이적 뉴스 라이브: 맨유 그린 라이트, 민테에서 리버풀 최신, 알바레즈 및 아스날 업데이트",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-man-utd-37582887",
-  "fee": null,
-  "published": "2026-08-23T07:26:04+00:00"
- },
- {
-  "id": "6f57c0084c90",
-  "title": "11 top Premier League players in final year of contract including Man Utd and Liverpool stars",
-  "player": null,
-  "title_ko": "맨유와 리버풀 스타를 포함해 계약 마지막 해에 프리미어 리그 최고의 선수 11명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-contracts-utd-liverpool-37574044",
-  "fee": null,
-  "published": "2026-08-23T06:00:00+00:00"
- },
- {
-  "id": "5bb40ef6f08c",
-  "title": "Liverpool news: Reds discover Yankuba Minteh asking price as transfer 'likely' to happen",
-  "player": "Yankuba Minteh",
-  "title_ko": "리버풀 뉴스: 레즈는 양쿠바 민테가 이적 가능성이 높으며 가격을 요구한다는 사실을 발견했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-yankuba-minteh-transfer-barcola-37581720",
-  "fee": null,
-  "published": "2026-08-23T04:00:00+00:00"
  }
 ]
