@@ -1,5 +1,18 @@
 [
  {
+  "id": "ef0724bdc23e",
+  "title": "Man Utd face major Alejandro Balde transfer issue as they search for Lewis Hall alternative",
+  "player": "Alejandro Balde",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-alejandro-balde-37590946",
+  "fee": null,
+  "published": "2026-08-25T12:56:59+00:00"
+ },
+ {
   "id": "d69135377df7",
   "title": "Demirovic-Wechsel zu Galatasaray auf der Kippe",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
   "fee": null,
   "published": "2026-08-23T13:02:00+00:00"
- },
- {
-  "id": "157c60738c6f",
-  "title": "Ollie Watkins edges closer to Saudi Arabia transfer as he's left out of Aston Villa squad",
-  "player": "Ollie Watkins",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ollie-watkins-villa-saudi-transfer-37583847",
-  "fee": null,
-  "published": "2026-08-23T12:51:07+00:00"
  }
 ]
