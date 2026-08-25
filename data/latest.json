@@ -1,5 +1,18 @@
 [
  {
+  "id": "e0c8ca780ba8",
+  "title": "Tattermusch stürmt Altglienicke: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/tattermusch-stuermt-altglienicke-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T14:13:02+00:00"
+ },
+ {
   "id": "0c95aa1f3873",
   "title": "Lazio transfer news: Sevilla enquire for Ratkov after Southampton snub, Serie B sides track Artistico",
   "player": "Petar Ratkov",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-could-hand-bartesaghi-new-role-no-new-cb/",
   "fee": null,
   "published": "2026-08-23T14:38:52+00:00"
- },
- {
-  "id": "706775d44f1a",
-  "title": "Arsenal and Al Hilal make progress on Martinelli deal",
-  "player": "Al Hilal",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13576278/gabriel-martinelli-transfer-news-al-hilal-and-arsenal-make-progress-on-deal-for-brazilian-winger",
-  "fee": null,
-  "published": "2026-08-23T14:29:00+00:00"
  }
 ]
