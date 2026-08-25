@@ -1,5 +1,18 @@
 [
  {
+  "id": "a5c35a262f5c",
+  "title": "Forest agree club-record deal for Chelsea's Delap",
+  "player": "Chelsea's Delap",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577090/liam-delap-transfer-nottingham-forest-agree-club-record-deal-to-sign-chelsea-striker",
+  "fee": null,
+  "published": "2026-08-25T18:45:00+00:00"
+ },
+ {
   "id": "0c987c41d37a",
   "title": "Liverpool hold positive Barcola talks with optimism over deal with PSG",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-atletico-37584735",
   "fee": null,
   "published": "2026-08-23T20:11:06+00:00"
- },
- {
-  "id": "f9a139412b47",
-  "title": "Alejandro Balde gives transfer green light as Man Utd handed huge Barcelona boost",
-  "player": "Alejandro Balde",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-balde-man-utd-transfer-37584672",
-  "fee": null,
-  "published": "2026-08-23T19:25:38+00:00"
  }
 ]
