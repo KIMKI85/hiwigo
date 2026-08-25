@@ -13,6 +13,19 @@
   "published": "2026-08-25T10:06:00+00:00"
  },
  {
+  "id": "0e6b8f76cb89",
+  "title": "100 millions d'euros sur Savinho: Tottenham poursuit son mercato insensé",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/100-millions-d-euros-sur-savinho-tottenham-poursuit-son-mercato-insense_AV-202608250372.html",
+  "fee": null,
+  "published": "2026-08-25T10:00:06+00:00"
+ },
+ {
   "id": "d6316cc56a06",
   "title": "Chelsea braced for new Enzo Fernandez bid from Man City 11 days after deadline",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-osimhen-37581744",
   "fee": null,
   "published": "2026-08-23T03:00:00+00:00"
- },
- {
-  "id": "0186b6da5063",
-  "title": "Kovac über BVB-Neulinge: \"Gezeigt, warum wir sie verpflichtet haben\"",
-  "player": "Niko Kovac",
-  "title_ko": "BVB 신규 이민자에 대한 Kovac: \"우리가 계약한 이유를 보여주었습니다\"",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/kovac-ueber-bvb-neulinge-gezeigt-warum-wir-sie-verpflichtet-haben-1245941/video#omrss",
-  "fee": null,
-  "published": "2026-08-22T22:00:20+00:00"
  }
 ]
