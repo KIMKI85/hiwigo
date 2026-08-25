@@ -1,5 +1,31 @@
 [
  {
+  "id": "0c987c41d37a",
+  "title": "Liverpool hold positive Barcola talks with optimism over deal with PSG",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG와의 거래에 대해 긍정적인 바르콜라 대화를 낙관적으로 진행합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13567087/bradley-barcola-transfer-news-liverpool-hold-positive-talks-with-optimism-deal-can-be-done-with-psg-for-france-international",
+  "fee": null,
+  "published": "2026-08-25T18:20:00+00:00"
+ },
+ {
+  "id": "f55102b3d939",
+  "title": "Milan weigh late move for Manchester United’s Mazraoui",
+  "player": "Noussair Mazraoui",
+  "title_ko": "밀란은 맨체스터 유나이티드의 마즈라위의 늦은 움직임을 고려하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-weigh-manchester-united-mazraoui/",
+  "fee": null,
+  "published": "2026-08-25T17:45:00+00:00"
+ },
+ {
   "id": "0af7a8e0d832",
   "title": "Man Utd complete Baleba signing",
   "player": "Carlos Baleba",
