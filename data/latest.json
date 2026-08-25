@@ -26,6 +26,32 @@
   "published": "2026-08-25T16:15:00+00:00"
  },
  {
+  "id": "1cc20e7011e9",
+  "title": "Für 76 Millionen Euro: Manchester United verpflichtet Baleba",
+  "player": "Millionen Euro",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/fuer-76-millionen-euro-manchester-united-verpflichtet-baleba-1245720/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T15:59:49+00:00"
+ },
+ {
+  "id": "4325ba5b252e",
+  "title": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
+  "player": "Carlos Baleba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton",
+  "fee": "£150M",
+  "published": "2026-08-25T15:58:29+00:00"
+ },
+ {
   "id": "805757189ae0",
   "title": "Baleba completes £70m Man Utd move from Brighton",
   "player": "Carlos Baleba",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-23T17:37:06+00:00"
- },
- {
-  "id": "45513a9a560f",
-  "title": "Mercato : « Il affiche une maturité extraordinaire », Olivier Giroud revient sur le parcours de Bouaddi",
-  "player": "Olivier Giroud",
-  "title_ko": "Mercato: \"그는 비범한 성숙함을 보여줍니다\", Olivier Giroud는 Bouaddi의 경력을 되돌아봅니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-mercato-il-affiche-une-maturite-extraordinaire-olivier-giroud-revient-sur-le-parcours-de-bouaddi_VN-202608230277.html",
-  "fee": null,
-  "published": "2026-08-23T17:37:06+00:00"
- },
- {
-  "id": "f49c9a0afdaa",
-  "title": "Badiashile: ‘A great honour’ as defender joins Napoli from Chelsea",
-  "player": "Benoit Badiashile",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/badiashile-a-great-honour-napoli-chelsea/",
-  "fee": null,
-  "published": "2026-08-23T17:23:00+00:00"
  }
 ]

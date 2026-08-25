@@ -26,6 +26,32 @@
   "published": "2026-08-25T16:15:00+00:00"
  },
  {
+  "id": "1cc20e7011e9",
+  "title": "Für 76 Millionen Euro: Manchester United verpflichtet Baleba",
+  "player": "Millionen Euro",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/fuer-76-millionen-euro-manchester-united-verpflichtet-baleba-1245720/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-25T15:59:49+00:00"
+ },
+ {
+  "id": "4325ba5b252e",
+  "title": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
+  "player": "Carlos Baleba",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton",
+  "fee": "£150M",
+  "published": "2026-08-25T15:58:29+00:00"
+ },
+ {
   "id": "805757189ae0",
   "title": "Baleba completes £70m Man Utd move from Brighton",
   "player": "Carlos Baleba",
