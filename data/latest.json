@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c70deefdb9b",
+  "title": "DIRECT. Mercato: Rafael Leao proche d'un départ de l'AC Milan",
+  "player": "Rafael Leao",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-25-aout-2026_LN-202608250133.html",
+  "fee": null,
+  "published": "2026-08-25T05:46:34+00:00"
+ },
+ {
   "id": "54b5bcb77c1b",
   "title": "\"Le salaire de certains joueurs les rend invendables\", Kevin Diaz défend Grégory Lorenzi sur le mercato de l'OM",
   "player": "Kevin Diaz",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/barca-pour-jules-kounde-il-faut-attendre-la-fin-du-mercato-hansi-flick-laisse-planer-le-doute-sur-l-avenir-du-francais_AV-202608220255.html",
   "fee": null,
   "published": "2026-08-22T14:04:17+00:00"
- },
- {
-  "id": "967212b41476",
-  "title": "Juventus find Cabal refusal to join Bologna frustrating",
-  "player": "Juan Cabal",
-  "title_ko": "유벤투스는 카발이 볼로냐에 합류하는 것을 거부한 것을 실망스럽게 생각합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-cabal-refusal-to-bologna-frustrating/",
-  "fee": null,
-  "published": "2026-08-22T13:50:12+00:00"
  }
 ]
