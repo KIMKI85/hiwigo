@@ -1,5 +1,31 @@
 [
  {
+  "id": "94b349e1f6c3",
+  "title": "Video: Oosterwolde arrives for Roma medical",
+  "player": "Jayden Oosterwolde",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-oosterwolde-arrives-roma-medical-15m/",
+  "fee": null,
+  "published": "2026-08-25T10:26:14+00:00"
+ },
+ {
+  "id": "d02c8c962ded",
+  "title": "Official: Juventus conrfirm Di Gregorio to Bournemouth and transfer fee",
+  "player": "Di Gregorio",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bournemouth-di-gregorio-juventus-fee/",
+  "fee": null,
+  "published": "2026-08-25T10:17:01+00:00"
+ },
+ {
   "id": "184f81a347d0",
   "title": "Spurs sign Savio from Man City in £85m deal",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-yankuba-minteh-transfer-barcola-37581720",
   "fee": null,
   "published": "2026-08-23T04:00:00+00:00"
- },
- {
-  "id": "2d63935f08b4",
-  "title": "Man Utd news: Myles Lewis-Skelly update emerges as club makes early transfer approach",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유 뉴스: 클럽이 조기 이적 접근 방식을 취함에 따라 Myles Lewis-Skelly 업데이트가 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-skelly-37581948",
-  "fee": null,
-  "published": "2026-08-23T03:30:00+00:00"
- },
- {
-  "id": "d0a2e207ad6c",
-  "title": "Arsenal news: Last-ditch Julian Alvarez transfer offer as fresh talks held to sign striker",
-  "player": "Last-ditch Julian Alvarez",
-  "title_ko": "아스날 뉴스: 스트라이커 영입을 위한 새로운 협상이 열리면서 최후의 수단인 줄리안 알바레스의 이적 제안",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-osimhen-37581744",
-  "fee": null,
-  "published": "2026-08-23T03:00:00+00:00"
  }
 ]
