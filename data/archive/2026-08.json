@@ -1,5 +1,18 @@
 [
  {
+  "id": "bf704f64750d",
+  "title": "Gary Neville tells Xabi Alonso the one signing Chelsea must make after Fulham win",
+  "player": "Gary Neville",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfers-alonso-gary-neville-37588949",
+  "fee": null,
+  "published": "2026-08-25T06:49:19+00:00"
+ },
+ {
   "id": "6c70deefdb9b",
   "title": "DIRECT. Mercato: Rafael Leao proche d'un départ de l'AC Milan",
   "player": "Rafael Leao",
@@ -882,6 +895,19 @@
   "url": "https://football-italia.net/milan-could-hand-bartesaghi-new-role-no-new-cb/",
   "fee": null,
   "published": "2026-08-23T14:38:52+00:00"
+ },
+ {
+  "id": "706775d44f1a",
+  "title": "Arsenal and Al Hilal make progress on Martinelli deal",
+  "player": "Al Hilal",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576278/gabriel-martinelli-transfer-news-al-hilal-and-arsenal-make-progress-on-deal-for-brazilian-winger",
+  "fee": null,
+  "published": "2026-08-23T14:29:00+00:00"
  },
  {
   "id": "853cfbd1215a",
