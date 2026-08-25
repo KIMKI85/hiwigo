@@ -1,5 +1,18 @@
 [
  {
+  "id": "43471df0b22f",
+  "title": "Man Utd news: Lewis Hall transfer stance clear as defender ‘in talks’ over future",
+  "player": "Lewis Hall",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37586983",
+  "fee": null,
+  "published": "2026-08-25T03:30:00+00:00"
+ },
+ {
   "id": "c10a09997cac",
   "title": "Arsenal news: Julian Alvarez price tag named as club U-turn on huge transfer exit",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/liga/le-feuilleton-du-mercato-continue-julian-alvarez-de-retour-dans-le-groupe-de-l-atletico-de-madrid_AV-202608220234.html",
   "fee": null,
   "published": "2026-08-22T12:35:25+00:00"
- },
- {
-  "id": "ad7fddb95e89",
-  "title": "Juventus near Grabara deal as goalkeeping overhaul continues after Vicario and Di Gregorio deals",
-  "player": "Di Gregorio",
-  "title_ko": "Vicario와 Di Gregorio의 거래 이후 골키퍼 정비가 계속되면서 Grabara 거래에 가까운 유벤투스",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-grabara-goalkeeper-vicario-digregorio/",
-  "fee": null,
-  "published": "2026-08-22T11:58:12+00:00"
  }
 ]
