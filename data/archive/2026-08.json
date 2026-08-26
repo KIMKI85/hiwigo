@@ -13,6 +13,19 @@
   "published": "2026-08-26T19:35:00+00:00"
  },
  {
+  "id": "9be29b5258c0",
+  "title": "El Valencia hace oficial el fichaje de Arnau Martínez hasta 2031",
+  "player": "Arnau Martínez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/08/26/valencia-oficial-fichaje-arnau-martinez-2031.html",
+  "fee": null,
+  "published": "2026-08-26T19:04:34+00:00"
+ },
+ {
   "id": "86a2a4c0d611",
   "title": "Mercato: \"Ce n'est pas non plus le joueur à garder à tout prix\", Dugarry assure que Paixao n'est pas \"intransférable\"",
   "player": "Christophe Dugarry",
@@ -24,6 +37,19 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/mercato-ce-n-est-pas-non-plus-le-joueur-a-garder-a-tout-prix-dugarry-assure-que-paixao-n-est-pas-intransferable_AV-202608260754.html",
   "fee": null,
   "published": "2026-08-26T18:07:19+00:00"
+ },
+ {
+  "id": "e898ee35267c",
+  "title": "Rangers finalize deal for Portland Timbers striker Kevin Kelsy",
+  "player": "Portland Timbers",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/26/kevin-kelsy-rangers-portland-timbers-transfer",
+  "fee": null,
+  "published": "2026-08-26T18:00:40+00:00"
  },
  {
   "id": "459380db2b89",
