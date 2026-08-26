@@ -1,5 +1,18 @@
 [
  {
+  "id": "9dd8e730c703",
+  "title": "Man City considering bid for Chelsea's Fernandez",
+  "player": "Chelsea's Fernandez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
+  "fee": null,
+  "published": "2026-08-26T11:45:00+00:00"
+ },
+ {
   "id": "0b121232fb0b",
   "title": "Man City sign Bouaddi in record-breaking deal",
   "player": "Ayyoub Bouaddi",
@@ -22,6 +35,19 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/von-seinem-potenzial-fuer-die-zukunft-ueberzeugt-bayerns-chavez-per-leihe-nach-magdeburg-1246753/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:50:00+00:00"
+ },
+ {
+  "id": "1e6d4ad9466d",
+  "title": "\"Von seinem Potenzial überzeugt\": Bayerns Chavez per Leihe nach Magdeburg",
+  "player": "Bayerns Chavez",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/von-seinem-potenzial-ueberzeugt-bayerns-chavez-per-leihe-nach-magdeburg-1246753/artikel#omrss",
   "fee": null,
   "published": "2026-08-26T10:50:00+00:00"
  },

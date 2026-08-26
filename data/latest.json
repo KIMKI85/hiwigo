@@ -1,5 +1,18 @@
 [
  {
+  "id": "9dd8e730c703",
+  "title": "Man City considering bid for Chelsea's Fernandez",
+  "player": "Chelsea's Fernandez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
+  "fee": null,
+  "published": "2026-08-26T11:45:00+00:00"
+ },
+ {
   "id": "0b121232fb0b",
   "title": "Man City sign Bouaddi in record-breaking deal",
   "player": "Ayyoub Bouaddi",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13576515/ayyoub-bouaddi-transfer-manchester-city-complete-record-breaking-86m-deal-to-sign-18-year-old-morocco-midfielder",
   "fee": null,
   "published": "2026-08-26T11:15:00+00:00"
+ },
+ {
+  "id": "1e6d4ad9466d",
+  "title": "\"Von seinem Potenzial überzeugt\": Bayerns Chavez per Leihe nach Magdeburg",
+  "player": "Bayerns Chavez",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/von-seinem-potenzial-ueberzeugt-bayerns-chavez-per-leihe-nach-magdeburg-1246753/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:50:00+00:00"
  },
  {
   "id": "821e847f9190",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-city-tottenham-transfer-gakpo-37588274",
   "fee": null,
   "published": "2026-08-24T18:37:09+00:00"
- },
- {
-  "id": "c26c5fd6467b",
-  "title": "Arsenal close to completing record transfer deal after Mikel Arteta green light",
-  "player": "Mikel Arteta",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-gabriel-martinelli-arteta-37588130",
-  "fee": null,
-  "published": "2026-08-24T17:41:30+00:00"
- },
- {
-  "id": "6629d7726f08",
-  "title": "Coventry latest: Deal agreed for Jamaica international",
-  "player": null,
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "herewego",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-08-24T17:10:00+00:00"
  }
 ]
