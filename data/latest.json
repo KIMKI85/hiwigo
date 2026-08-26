@@ -1,5 +1,31 @@
 [
  {
+  "id": "94c05ee36a1d",
+  "title": "Man Utd's dream end to transfer window with Lewis Hall U-turn and £40m deal struck",
+  "player": "Lewis Hall U-turn",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-hall-zirkzee-37589383",
+  "fee": "£40M",
+  "published": "2026-08-26T04:30:00+00:00"
+ },
+ {
+  "id": "e79e15828e2b",
+  "title": "La semana de fichajes que marcará todo",
+  "player": "En Copa",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/primera-division/opinion/2026/08/26/semana-fichajes-marcara.html",
+  "fee": null,
+  "published": "2026-08-26T04:25:54+00:00"
+ },
+ {
   "id": "b5a050d06743",
   "title": "DIRECT. Mercato: Christopher Nkunku fait son retour à Leipzig  trois ans après son départ",
   "player": "Christopher Nkunku",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/ueberraschende-wende-esther-wechselt-nach-saudi-arabien-1246316/artikel#omrss",
   "fee": null,
   "published": "2026-08-24T08:11:13+00:00"
- },
- {
-  "id": "83cc3a47b1f3",
-  "title": "Wunschstürmer mit Delle: HSV verpflichtet Moffi",
-  "player": "Der Hamburger",
-  "title_ko": "흠집이 난 드림 스트라이커: HSV, 모피와 계약",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/wunschstuermer-mit-delle-hsv-verpflichtet-moffi-1245625/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-24T08:04:30+00:00"
- },
- {
-  "id": "66fc9a05fc8c",
-  "title": "DIRECT. Mercato: du mouvement attendu au PSG, vers un nouveau départ à Rennes",
-  "player": null,
-  "title_ko": "직접. Mercato: PSG의 예상되는 움직임에서 Rennes의 새로운 시작을 향해",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-24-aout-2026_LN-202608240288.html",
-  "fee": null,
-  "published": "2026-08-24T08:03:11+00:00"
  }
 ]
