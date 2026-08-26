@@ -13,6 +13,19 @@
   "published": "2026-08-26T19:35:00+00:00"
  },
  {
+  "id": "d9d005edd568",
+  "title": "West Ham accept £40m Brentford bid for Diouf",
+  "player": "El Hadji Malick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+  "fee": "£40M",
+  "published": "2026-08-26T19:17:17+00:00"
+ },
+ {
   "id": "9be29b5258c0",
   "title": "El Valencia hace oficial el fichaje de Arnau Martínez hasta 2031",
   "player": "Arnau Martínez",
@@ -949,6 +962,19 @@
   "published": "2026-08-25T18:06:53+00:00"
  },
  {
+  "id": "99d4d5fe4c34",
+  "title": "Villa agree deal with Chelsea for Jackson",
+  "player": "Nicolas Jackson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577081/nicolas-jackson-transfer-aston-villa-agree-deal-worth-up-to-65m-to-sign-chelsea-striker",
+  "fee": null,
+  "published": "2026-08-25T17:47:00+00:00"
+ },
+ {
   "id": "f55102b3d939",
   "title": "Milan weigh late move for Manchester United’s Mazraoui",
   "player": "Noussair Mazraoui",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-hamdani-amoura-leao-les-5-infos-mercato-du-25-aout-a-la-mi-journee_VN-202608250403.html",
   "fee": null,
   "published": "2026-08-25T10:41:45+00:00"
- },
- {
-  "id": "eb8a805a4978",
-  "title": "Liverpool will ignore Jamie Carragher's desperate transfer plea with focus elsewhere",
-  "player": "Jamie Carragher's",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-carragher-midfielder-jones-37590132",
-  "fee": null,
-  "published": "2026-08-25T10:39:25+00:00"
- },
- {
-  "id": "2ee654235e6e",
-  "title": "\"On signe déjà la fin de Ligue 1+\", un appel d’offres avant la fin de l’année comme seule solution pour LFP Media ?",
-  "player": null,
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/on-signe-deja-la-fin-de-ligue-1-un-appel-d-offres-avant-la-fin-de-l-annee-comme-seule-solution-pour-lfp-media_AV-202608250397.html",
-  "fee": null,
-  "published": "2026-08-25T10:32:51+00:00"
  }
 ]

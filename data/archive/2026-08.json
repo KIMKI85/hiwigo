@@ -13,6 +13,19 @@
   "published": "2026-08-26T19:35:00+00:00"
  },
  {
+  "id": "d9d005edd568",
+  "title": "West Ham accept £40m Brentford bid for Diouf",
+  "player": "El Hadji Malick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+  "fee": "£40M",
+  "published": "2026-08-26T19:17:17+00:00"
+ },
+ {
   "id": "9be29b5258c0",
   "title": "El Valencia hace oficial el fichaje de Arnau Martínez hasta 2031",
   "player": "Arnau Martínez",
@@ -947,6 +960,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4g5zg526gdo?at_medium=RSS&at_campaign=rss",
   "fee": "£50M",
   "published": "2026-08-25T18:06:53+00:00"
+ },
+ {
+  "id": "99d4d5fe4c34",
+  "title": "Villa agree deal with Chelsea for Jackson",
+  "player": "Nicolas Jackson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577081/nicolas-jackson-transfer-aston-villa-agree-deal-worth-up-to-65m-to-sign-chelsea-striker",
+  "fee": null,
+  "published": "2026-08-25T17:47:00+00:00"
  },
  {
   "id": "f55102b3d939",
