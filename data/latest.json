@@ -1,5 +1,18 @@
 [
  {
+  "id": "6b3fe00772bf",
+  "title": "Info RMC Sport. Mercato: l'attaquant de Chelsea Nicolas Jackson d'accord avec Aston Villa et l'Atletico de Madrid",
+  "player": "Nicolas Jackson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/info-rmc-sport-mercato-l-attaquant-de-chelsea-nicolas-jackson-d-accord-avec-aston-villa-et-l-atletico-de-madrid_AV-202608260687.html",
+  "fee": null,
+  "published": "2026-08-26T16:43:23+00:00"
+ },
+ {
   "id": "063631142db2",
   "title": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
   "fee": "£75M",
   "published": "2026-08-25T09:14:39+00:00"
- },
- {
-  "id": "7085b5e8a85e",
-  "title": "Liverpool a peut-être réalisé \"le plus mauvais mercato de l'histoire de la Premier League\" l'été dernier! Carragher sans pitié avec son ancien club",
-  "player": "Jamie Carragher",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/liverpool-a-peut-etre-realise-le-plus-mauvais-mercato-de-l-histoire-de-la-premier-league-l-ete-dernier-carragher-sans-pitie-avec-son-ancien-club_AV-202608250330.html",
-  "fee": null,
-  "published": "2026-08-25T09:12:32+00:00"
  }
 ]
