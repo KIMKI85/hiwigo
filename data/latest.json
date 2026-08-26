@@ -1,5 +1,18 @@
 [
  {
+  "id": "09938829e04f",
+  "title": "Tottenham agree loan for Man City's Marmoush",
+  "player": "City's Marmoush",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-26T08:18:41+00:00"
+ },
+ {
   "id": "7d8073c405bf",
   "title": "Newcastle agree £52m deal for Man City's Gonzalez",
   "player": "City's Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/gabriel-jesus-arsenal-chelsea-napoli-37586156",
   "fee": "£25M",
   "published": "2026-08-24T11:45:18+00:00"
- },
- {
-  "id": "42670e4c808a",
-  "title": "Premier League clubs get transfer wake-up call as top-four hopefuls exposed",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-villa-liverpool-37585322",
-  "fee": null,
-  "published": "2026-08-24T11:24:17+00:00"
  }
 ]
