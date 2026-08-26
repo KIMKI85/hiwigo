@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ddf1771391f",
+  "title": "Esposito agrees Sassuolo move as Pinamonti heads to Lazio",
+  "player": "Sebastiano Esposito",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/esposito-agrees-sassuolo-move/",
+  "fee": null,
+  "published": "2026-08-26T20:00:00+00:00"
+ },
+ {
   "id": "c0eced90be47",
   "title": "Newcastle sign Gonzalez from Man City",
   "player": "Nico Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-latest-37590601",
   "fee": null,
   "published": "2026-08-25T11:30:11+00:00"
- },
- {
-  "id": "56297e444173",
-  "title": "Hamdani, Amoura, Leao... Les 5 infos mercato du 25 août à la mi-journée",
-  "player": "Adil Hamdani",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-hamdani-amoura-leao-les-5-infos-mercato-du-25-aout-a-la-mi-journee_VN-202608250403.html",
-  "fee": null,
-  "published": "2026-08-25T10:41:45+00:00"
  }
 ]
