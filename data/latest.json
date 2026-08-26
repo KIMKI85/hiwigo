@@ -1,5 +1,18 @@
 [
  {
+  "id": "f2496525b871",
+  "title": "Sunderland explore late move for Grealish",
+  "player": "Jack Grealish",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-move-for-manchester-city-winger-with-former-loan-side-everton-still-interested",
+  "fee": null,
+  "published": "2026-08-26T16:18:00+00:00"
+ },
+ {
   "id": "3d31c16b9762",
   "title": "Sunderland explore surprise late Grealish bid, Everton still interested",
   "player": "Jack Grealish",
@@ -11,6 +24,32 @@
   "url": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-bid-for-manchester-city-winger-with-former-loan-side-everton-still-interested",
   "fee": null,
   "published": "2026-08-26T16:18:00+00:00"
+ },
+ {
+  "id": "b4697a129e3f",
+  "title": "Liverpool turn attention to Sarr after Brighton reject Minteh bids",
+  "player": "Palace's Ismaila",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr7d5m4d928o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-26T15:42:13+00:00"
+ },
+ {
+  "id": "cf977a6c973f",
+  "title": "Newport sign Dibley-Dias on loan from Fulham",
+  "player": "Newport County",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gr0xdlk8zo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-26T15:32:07+00:00"
  },
  {
   "id": "42b19639dac2",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/mateta-david-swap-tempt-juventus-palance/",
   "fee": null,
   "published": "2026-08-25T09:06:44+00:00"
- },
- {
-  "id": "91a7666898fd",
-  "title": "Villa make 'serious' approach to sign Leao from AC Milan",
-  "player": "Rafael Leao",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13576879/rafael-leao-transfer-news-aston-villa-make-approach-to-sign-portugal-forward-who-is-open-to-leaving-ac-milan",
-  "fee": null,
-  "published": "2026-08-25T08:52:00+00:00"
- },
- {
-  "id": "223b8002abca",
-  "title": "Best players of Serie A Round 1: Italy trio joins Dybala and Malen",
-  "player": "Donyell Malen",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/best-players-round-1-dybala-malen-italy-trio/",
-  "fee": null,
-  "published": "2026-08-25T08:43:30+00:00"
- },
- {
-  "id": "045f15fe9b95",
-  "title": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
-  "player": "Cody Gakpo",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo",
-  "fee": null,
-  "published": "2026-08-25T08:32:29+00:00"
  }
 ]
