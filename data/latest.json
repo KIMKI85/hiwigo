@@ -1,5 +1,31 @@
 [
  {
+  "id": "55ae09d33d1a",
+  "title": "Transfer-Wahnsinn bei Bayer: Noch zehn Deals bis zum Deadline Day?",
+  "player": "Verantwortlichen von Bayer",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transfer-wahnsinn-bei-bayer-noch-zehn-deals-bis-zum-deadline-day-1246871/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T12:10:32+00:00"
+ },
+ {
+  "id": "d1dcd2b75b45",
+  "title": "Leao returns to Milan training but remains up for sale in final week of transfer window",
+  "player": "Rafael Leao",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/leao-returns-milan-training-still-up-for-sale/",
+  "fee": null,
+  "published": "2026-08-26T11:54:59+00:00"
+ },
+ {
   "id": "be41ab52b60f",
   "title": "Un transfert à 100 millions d'euros: Lille officialise la vente record de Bouaddi à Manchester City",
   "player": "Ayyoub Bouaddi",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bienvenue-chez-toi-nice-officialise-le-retour-de-wahi-en-l1_AV-202608240852.html",
   "fee": null,
   "published": "2026-08-24T20:19:58+00:00"
- },
- {
-  "id": "79e8a6b846ad",
-  "title": "Manchester City agree £34m deal for Allan Elias as Nico González nears Newcastle move",
-  "player": "Allan Elias",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/24/manchester-city-agree-34m-deal-for-allan-elias-as-nico-gonzalez-nears-newcastle-move",
-  "fee": "£34M",
-  "published": "2026-08-24T19:56:12+00:00"
- },
- {
-  "id": "54e09c55b9a4",
-  "title": "Man City agree deal for Palmeiras winger Allan",
-  "player": "Allan Elias",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-24T19:27:47+00:00"
  }
 ]
