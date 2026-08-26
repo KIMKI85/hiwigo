@@ -1,5 +1,31 @@
 [
  {
+  "id": "3e2fbe447be6",
+  "title": "Alan Shearer makes Julian Alvarez transfer prediction as Arsenal target nowhere to be seen",
+  "player": "Alan Shearer",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-atletico-37595482",
+  "fee": null,
+  "published": "2026-08-26T12:56:45+00:00"
+ },
+ {
+  "id": "232d8b17b1bb",
+  "title": "Report: Milan weighing up late move for Liverpool forward Elliott",
+  "player": "Harvey Elliott",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-milan-weighing-up-late-move-for-elliott/",
+  "fee": null,
+  "published": "2026-08-26T12:47:47+00:00"
+ },
+ {
   "id": "338ec531f142",
   "title": "Mercato: le beau message d'adieu de Bouaddi pour Lille après son transfert à Manchester City",
   "player": "Ayyoub Bouaddi",
