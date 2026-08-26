@@ -1,5 +1,18 @@
 [
  {
+  "id": "70c723be50c8",
+  "title": "\"Ce n’est pas parce que le Real a fait n’importe quoi avec Diomandé que Liverpool doit le faire avec Barcola\", Diaz regrette l’explosion des tarifs lors du mercato",
+  "player": "Bradley Barcola",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/ce-n-est-pas-parce-que-le-real-a-fait-n-importe-quoi-avec-diomande-que-liverpool-doit-le-faire-avec-barcola-diaz-regrette-l-explosion-des-tarifs-lors-du-mercato_AV-202608260142.html",
+  "fee": null,
+  "published": "2026-08-26T05:58:16+00:00"
+ },
+ {
   "id": "4897ac858830",
   "title": "Transfer news LIVE: Arsenal £50 agreement, Man Utd land huge boost, Barcola to Liverpool",
   "player": "Mirror Football",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-nkunku-fabinho-fofana-les-5-infos-mercato-du-24-aout-a-12h_VN-202608240380.html",
   "fee": null,
   "published": "2026-08-24T09:46:17+00:00"
- },
- {
-  "id": "1ec9ac17b050",
-  "title": "Atletico Madrid dressing room stance on Julian Alvarez transfer noise as Arsenal chase heats up",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날의 추격전이 뜨거워지면서 줄리안 알바레스의 이적 소음에 대한 아틀레티코 마드리드 탈의실 입장",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-oblak-37585562",
-  "fee": null,
-  "published": "2026-08-24T09:29:44+00:00"
  }
 ]
