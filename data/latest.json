@@ -1,5 +1,44 @@
 [
  {
+  "id": "b5a050d06743",
+  "title": "DIRECT. Mercato: Christopher Nkunku fait son retour à Leipzig  trois ans après son départ",
+  "player": "Christopher Nkunku",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-transferts-rumeurs-suivez-toute-l-actualite-en-live_LN-202608260044.html",
+  "fee": null,
+  "published": "2026-08-26T04:13:59+00:00"
+ },
+ {
+  "id": "ffb335f3979e",
+  "title": "Arsenal's dream end to transfer window as Julian Alvarez signs and Mikel Arteta gets £85m boost",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37587893",
+  "fee": "£85M",
+  "published": "2026-08-26T04:00:00+00:00"
+ },
+ {
+  "id": "1a814dd9467f",
+  "title": "Liverpool news: Bradley Barcola 'agreement close' as star 'excited' ahead of exit",
+  "player": "Bradley Barcola",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37591256",
+  "fee": null,
+  "published": "2026-08-26T04:00:00+00:00"
+ },
+ {
   "id": "a910f3d3137d",
   "title": "Man Utd news: Marcus Rashford subject of shock transfer plot as target's price tag emerges",
   "player": "Marcus Rashford",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-24-aout-2026_LN-202608240288.html",
   "fee": null,
   "published": "2026-08-24T08:03:11+00:00"
- },
- {
-  "id": "1b7b2bfa2cdc",
-  "title": "Video: Di Gregorio flies out for Bournemouth medical",
-  "player": "Di Gregorio",
-  "title_ko": "비디오: 디 그레고리오가 본머스 메디컬팀으로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/di-gregorio-flies-out-bournemouth-medical/",
-  "fee": null,
-  "published": "2026-08-24T07:50:29+00:00"
- },
- {
-  "id": "87baa29a0c6e",
-  "title": "Football transfer rumours: Alvarez set for Arsenal after being booed at Atlético?",
-  "player": "Julián Alvarez",
-  "title_ko": "축구 이적 루머: 알바레즈가 아틀레티코에서 야유를 받은 후 아스날로 이적한다고요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
-  "fee": null,
-  "published": "2026-08-24T07:23:45+00:00"
- },
- {
-  "id": "a8ffff1ff72d",
-  "title": "Lewis Hall transfer response live on TV shows Newcastle's true stance over Man Utd move",
-  "player": "Lewis Hall",
-  "title_ko": "루이스 홀 이적 반응은 TV에서 생방송으로 맨유 이적에 대한 뉴캐슬의 진정한 입장을 보여줍니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-hall-man-utd-newcastle-37584989",
-  "fee": null,
-  "published": "2026-08-24T06:24:09+00:00"
  }
 ]

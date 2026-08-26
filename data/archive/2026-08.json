@@ -1,5 +1,44 @@
 [
  {
+  "id": "b5a050d06743",
+  "title": "DIRECT. Mercato: Christopher Nkunku fait son retour à Leipzig  trois ans après son départ",
+  "player": "Christopher Nkunku",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-transferts-rumeurs-suivez-toute-l-actualite-en-live_LN-202608260044.html",
+  "fee": null,
+  "published": "2026-08-26T04:13:59+00:00"
+ },
+ {
+  "id": "ffb335f3979e",
+  "title": "Arsenal's dream end to transfer window as Julian Alvarez signs and Mikel Arteta gets £85m boost",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37587893",
+  "fee": "£85M",
+  "published": "2026-08-26T04:00:00+00:00"
+ },
+ {
+  "id": "1a814dd9467f",
+  "title": "Liverpool news: Bradley Barcola 'agreement close' as star 'excited' ahead of exit",
+  "player": "Bradley Barcola",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37591256",
+  "fee": null,
+  "published": "2026-08-26T04:00:00+00:00"
+ },
+ {
   "id": "a910f3d3137d",
   "title": "Man Utd news: Marcus Rashford subject of shock transfer plot as target's price tag emerges",
   "player": "Marcus Rashford",
