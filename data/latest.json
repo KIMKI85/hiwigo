@@ -1,5 +1,18 @@
 [
  {
+  "id": "a63bf5af0f53",
+  "title": "Official: Como sign ex-Manchester United defender Kambwala from Villarreal",
+  "player": "Willy Kambwala",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-como-sign-ex-united-defender-kambwala/",
+  "fee": null,
+  "published": "2026-08-26T09:27:26+00:00"
+ },
+ {
   "id": "92eadc49f0b0",
   "title": "Spurs agree deal to sign Marmoush from Man City",
   "player": "Omar Marmoush",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13577289/omar-marmoush-transfer-news-tottenham-agree-deal-to-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
   "fee": null,
   "published": "2026-08-26T09:27:00+00:00"
+ },
+ {
+  "id": "a4c4faabf4f2",
+  "title": "Manchester City agree Omar Marmoush loan to Spurs with initial £50m obligation to buy",
+  "player": "Omar Marmoush",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
+  "fee": "£50M",
+  "published": "2026-08-26T09:25:22+00:00"
  },
  {
   "id": "a84b882b26e6",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crr4ldl1wp0o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-24T13:29:22+00:00"
- },
- {
-  "id": "b7c13f4dba2b",
-  "title": "Bologna reject latest €35m bid from Atalanta for Jonathan Rowe",
-  "player": "Jonathan Rowe",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bologna-reject-latest-35m-rowe-bid-atalanta/",
-  "fee": "€35M",
-  "published": "2026-08-24T12:32:31+00:00"
- },
- {
-  "id": "6c80ce9c23f1",
-  "title": "Man Utd can still sign Myles Lewis-Skelly as Arsenal open door to transfer",
-  "player": "Myles Lewis-",
-  "title_ko": "맨유는 여전히 아스널의 이적 문을 열면서 마일스 루이스-스켈리를 영입할 수 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/lewis-skelly-manchester-united-transfer-37586549",
-  "fee": null,
-  "published": "2026-08-24T12:05:01+00:00"
  }
 ]
