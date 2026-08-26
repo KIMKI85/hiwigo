@@ -1,5 +1,31 @@
 [
  {
+  "id": "9d048872ee6e",
+  "title": "Bournemouth latest: Scott 'not for sale' with bids to be rejected",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-26T15:09:00+00:00"
+ },
+ {
+  "id": "5049376d9b9c",
+  "title": "Pinamonti set for Lazio medical as Ratkov opens door to Sevilla",
+  "player": "Andrea Pinamonti",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pinamonti-set-for-lazio-medical-ratkov/",
+  "fee": null,
+  "published": "2026-08-26T14:30:00+00:00"
+ },
+ {
   "id": "3839f3a6ea74",
   "title": "Chelsea considering late move for Villa's Martinez",
   "player": "Villa's Martinez",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-25-aout-2026_LN-202608250133.html",
   "fee": null,
   "published": "2026-08-25T05:46:34+00:00"
- },
- {
-  "id": "54b5bcb77c1b",
-  "title": "\"Le salaire de certains joueurs les rend invendables\", Kevin Diaz défend Grégory Lorenzi sur le mercato de l'OM",
-  "player": "Kevin Diaz",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/le-salaire-de-certains-joueurs-les-rend-invendables-kevin-diaz-defend-gregory-lorenzi-sur-le-mercato-de-l-om_AV-202608250053.html",
-  "fee": null,
-  "published": "2026-08-25T04:26:17+00:00"
- },
- {
-  "id": "fdc88444983b",
-  "title": "Liverpool news: Virgil van Dijk transfer admission as PSG chief speaks out on Bradley Barcola",
-  "player": "Virgil van Dijk",
-  "title_ko": "리버풀 뉴스: PSG 회장이 브래들리 바르콜라에 대해 발언하면서 버질 반 다이크 이적 승인",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-van-dijk-psg-37586980",
-  "fee": null,
-  "published": "2026-08-25T04:00:00+00:00"
  }
 ]

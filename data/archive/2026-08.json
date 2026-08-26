@@ -1,5 +1,31 @@
 [
  {
+  "id": "9d048872ee6e",
+  "title": "Bournemouth latest: Scott 'not for sale' with bids to be rejected",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-26T15:09:00+00:00"
+ },
+ {
+  "id": "5049376d9b9c",
+  "title": "Pinamonti set for Lazio medical as Ratkov opens door to Sevilla",
+  "player": "Andrea Pinamonti",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pinamonti-set-for-lazio-medical-ratkov/",
+  "fee": null,
+  "published": "2026-08-26T14:30:00+00:00"
+ },
+ {
   "id": "3839f3a6ea74",
   "title": "Chelsea considering late move for Villa's Martinez",
   "player": "Villa's Martinez",
