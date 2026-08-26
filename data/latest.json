@@ -1,5 +1,18 @@
 [
  {
+  "id": "c086ae47f61a",
+  "title": "Atletico Madrid 'explode' at Julian Alvarez as Arsenal and Barcelona eye transfer",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/atletico-julian-alvarez-arsenal-transfer-37597313",
+  "fee": null,
+  "published": "2026-08-26T20:09:44+00:00"
+ },
+ {
   "id": "0ddf1771391f",
   "title": "Esposito agrees Sassuolo move as Pinamonti heads to Lazio",
   "player": "Sebastiano Esposito",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/esposito-agrees-sassuolo-move/",
   "fee": null,
   "published": "2026-08-26T20:00:00+00:00"
+ },
+ {
+  "id": "3d21a497960a",
+  "title": "Villa close to £65m move for Chelsea's Jackson",
+  "player": "Chelsea's Jackson",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-08-26T19:46:01+00:00"
  },
  {
   "id": "c0eced90be47",
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/08/25/jose-ignacio-navarro-pasa-revista-agoume-vargas-pedrosa-fichajes-limite-salarial.html",
   "fee": null,
   "published": "2026-08-25T12:08:42+00:00"
- },
- {
-  "id": "b74468a8a770",
-  "title": "Di Gregorio: ‘Right decision’ to join Bournemouth from Juventus",
-  "player": "Di Gregorio",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/di-gregorio-decision-bournemouth-juventus/",
-  "fee": null,
-  "published": "2026-08-25T11:33:08+00:00"
- },
- {
-  "id": "a6b1f6fe00fa",
-  "title": "Bradley Barcola's behaviour speaks volumes as Liverpool transfer chances emerge",
-  "player": "Bradley Barcola's",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-latest-37590601",
-  "fee": null,
-  "published": "2026-08-25T11:30:11+00:00"
  }
 ]
