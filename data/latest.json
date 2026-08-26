@@ -13,6 +13,19 @@
   "published": "2026-08-26T09:27:00+00:00"
  },
  {
+  "id": "a84b882b26e6",
+  "title": "Official: Perin leaves Juventus to join Palermo in Serie B",
+  "player": "Mattia Perin",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-perin-leaves-juventus-to-join-palermo/",
+  "fee": null,
+  "published": "2026-08-26T08:58:14+00:00"
+ },
+ {
   "id": "09938829e04f",
   "title": "Tottenham agree loan for Man City's Marmoush",
   "player": "City's Marmoush",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/lewis-skelly-manchester-united-transfer-37586549",
   "fee": null,
   "published": "2026-08-24T12:05:01+00:00"
- },
- {
-  "id": "5e33f23be294",
-  "title": "Virgil van Dijk sends Liverpool chiefs transfer message with Andoni Iraola in agreement",
-  "player": "Virgil van Dijk",
-  "title_ko": "버질 반 다이크는 리버풀 수장들에게 안도니 이라올라에게 이적 메시지를 보냈다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/virgil-van-dijk-liverpool-iraola-37586327",
-  "fee": null,
-  "published": "2026-08-24T12:02:16+00:00"
  }
 ]
