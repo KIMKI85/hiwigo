@@ -13,6 +13,32 @@
   "published": "2026-08-26T11:15:00+00:00"
  },
  {
+  "id": "a5e48a987b0d",
+  "title": "Erfurt greift bei Becker zu: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/erfurt-greift-bei-becker-zu-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:34:33+00:00"
+ },
+ {
+  "id": "afb227804b8c",
+  "title": "Man City to make £100m Enzo Fernandez transfer bid despite missing Chelsea's deadline",
+  "player": "Enzo Fernandez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-enzo-fernandez-chelsea-37594615",
+  "fee": "£100M",
+  "published": "2026-08-26T10:31:13+00:00"
+ },
+ {
   "id": "0c8f13b5cbbe",
   "title": "Man City complete £85.6m Bouaddi signing from Lille",
   "player": "Ayyoub Bouaddi",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/calhanoglu-contract-gala-fenerbahce-high-alert/",
   "fee": null,
   "published": "2026-08-24T16:20:46+00:00"
- },
- {
-  "id": "f56583d0c735",
-  "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
-  "player": "Julian Alvarez's",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-24T16:07:06+00:00"
- },
- {
-  "id": "b0c1b78e26fc",
-  "title": "William Saliba sent brutal warning after shock Arsenal transfer - 'He doesn't get back in'",
-  "player": "William Saliba",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-konsa-terry-saliba-transfer-37587807",
-  "fee": null,
-  "published": "2026-08-24T16:03:43+00:00"
  }
 ]
