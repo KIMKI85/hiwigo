@@ -1,5 +1,18 @@
 [
  {
+  "id": "86a2a4c0d611",
+  "title": "Mercato: \"Ce n'est pas non plus le joueur à garder à tout prix\", Dugarry assure que Paixao n'est pas \"intransférable\"",
+  "player": "Christophe Dugarry",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/mercato-ce-n-est-pas-non-plus-le-joueur-a-garder-a-tout-prix-dugarry-assure-que-paixao-n-est-pas-intransferable_AV-202608260754.html",
+  "fee": null,
+  "published": "2026-08-26T18:07:19+00:00"
+ },
+ {
   "id": "459380db2b89",
   "title": "Chelsea closing in on €40m deal for Atalanta starlet Ahanor",
   "player": "Honest Ahanor",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal",
   "fee": "£85M",
   "published": "2026-08-25T10:06:00+00:00"
- },
- {
-  "id": "0e6b8f76cb89",
-  "title": "100 millions d'euros sur Savinho: Tottenham poursuit son mercato insensé",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/100-millions-d-euros-sur-savinho-tottenham-poursuit-son-mercato-insense_AV-202608250372.html",
-  "fee": null,
-  "published": "2026-08-25T10:00:06+00:00"
  }
 ]
