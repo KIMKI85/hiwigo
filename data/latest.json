@@ -1,5 +1,18 @@
 [
  {
+  "id": "a93accff18b2",
+  "title": "Erinnerungen an 1983: Deswegen wollte Moffis Vater den HSV-Wechsel",
+  "player": "Moffis Vater",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/erinnerungen-an-1983-deswegen-wollte-moffis-vater-den-hsv-wechsel-1246800/video#omrss",
+  "fee": null,
+  "published": "2026-08-26T06:22:56+00:00"
+ },
+ {
   "id": "0f2d7b925b6f",
   "title": "Tottenham's £85m Savio transfer puts pressure on overspending Spurs and Roberto De Zerbi",
   "player": "Roberto De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/como-agreement-kean-fiorentina-talks-continue/",
   "fee": null,
   "published": "2026-08-24T10:35:47+00:00"
- },
- {
-  "id": "f1cf72c4e1f1",
-  "title": "Arsenal discover Julian Alvarez price tag as Atletico Madrid perform U-turn on transfer",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 아틀레티코 마드리드가 이적에서 유턴을 수행하면서 줄리안 알바레스 가격표를 발견했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-price-atletico-37585755",
-  "fee": null,
-  "published": "2026-08-24T09:55:26+00:00"
  }
 ]
