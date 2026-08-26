@@ -1,5 +1,18 @@
 [
  {
+  "id": "459380db2b89",
+  "title": "Chelsea closing in on €40m deal for Atalanta starlet Ahanor",
+  "player": "Honest Ahanor",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chelsea-closing-deal-atalanta-starlet-ahanor/",
+  "fee": "€40M",
+  "published": "2026-08-26T17:50:00+00:00"
+ },
+ {
   "id": "f3d33f0038eb",
   "title": "Raskin could be on way out as Rangers close in on Kim deal",
   "player": "Nicolas Raskin",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/100-millions-d-euros-sur-savinho-tottenham-poursuit-son-mercato-insense_AV-202608250372.html",
   "fee": null,
   "published": "2026-08-25T10:00:06+00:00"
- },
- {
-  "id": "d6316cc56a06",
-  "title": "Chelsea braced for new Enzo Fernandez bid from Man City 11 days after deadline",
-  "player": "Enzo Fernandez",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-enzo-fernandez-man-city-37589585",
-  "fee": null,
-  "published": "2026-08-25T09:28:53+00:00"
  }
 ]
