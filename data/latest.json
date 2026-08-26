@@ -1,5 +1,18 @@
 [
  {
+  "id": "7d8073c405bf",
+  "title": "Newcastle agree £52m deal for Man City's Gonzalez",
+  "player": "City's Gonzalez",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
+  "fee": "£52M",
+  "published": "2026-08-26T07:59:50+00:00"
+ },
+ {
   "id": "a93accff18b2",
   "title": "Erinnerungen an 1983: Deswegen wollte Moffis Vater den HSV-Wechsel",
   "player": "Moffis Vater",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-villa-liverpool-37585322",
   "fee": null,
   "published": "2026-08-24T11:24:17+00:00"
- },
- {
-  "id": "60cd493d28ec",
-  "title": "Como have agreement with Kean as Fiorentina talks continue",
-  "player": "Moise Kean",
-  "title_ko": "Como는 Fiorentina와의 대화가 계속되면서 Kean과 합의했습니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-agreement-kean-fiorentina-talks-continue/",
-  "fee": null,
-  "published": "2026-08-24T10:35:47+00:00"
  }
 ]
