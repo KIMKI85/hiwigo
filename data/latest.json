@@ -1,5 +1,18 @@
 [
  {
+  "id": "91b730b91185",
+  "title": "Arsenal news: Four deals in works as contract offered and players pick side in £50m feud",
+  "player": "Mikel Arteta",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gabriel-martinelli-37591160",
+  "fee": "£50M",
+  "published": "2026-08-26T03:00:00+00:00"
+ },
+ {
   "id": "5df1ac539c67",
   "title": "Papers: Man City set for late Fernandez move as Chelsea replacement emerges",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/flick-schwaermt-nach-adeyemis-traumdebuet-gestrichener-balde-vor-wechsel-1246256/artikel#omrss",
   "fee": null,
   "published": "2026-08-24T06:13:04+00:00"
- },
- {
-  "id": "3ab8d13994b1",
-  "title": "Liverpool news: Bradley Barcola exiled by PSG as personal terms 'agreed'",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바르콜라가 개인 조건에 '동의'해 PSG로부터 추방당했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37583666",
-  "fee": null,
-  "published": "2026-08-24T04:00:00+00:00"
  }
 ]
