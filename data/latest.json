@@ -1,5 +1,18 @@
 [
  {
+  "id": "a910f3d3137d",
+  "title": "Man Utd news: Marcus Rashford subject of shock transfer plot as target's price tag emerges",
+  "player": "Marcus Rashford",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37591856",
+  "fee": null,
+  "published": "2026-08-26T03:30:00+00:00"
+ },
+ {
   "id": "91b730b91185",
   "title": "Arsenal news: Four deals in works as contract offered and players pick side in £50m feud",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-hall-man-utd-newcastle-37584989",
   "fee": null,
   "published": "2026-08-24T06:24:09+00:00"
- },
- {
-  "id": "8871c0d23d19",
-  "title": "Flick schwärmt nach Adeyemis \"Traumdebüt\" - Gestrichener Balde vor Wechsel?",
-  "player": "Gestrichener Balde",
-  "title_ko": "Flick은 Adeyemi의 \"꿈의 데뷔\"에 대해 극찬했습니다. Balde는 변화 전에 도끼를 쳤습니까?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/flick-schwaermt-nach-adeyemis-traumdebuet-gestrichener-balde-vor-wechsel-1246256/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-24T06:13:04+00:00"
  }
 ]
