@@ -1,5 +1,18 @@
 [
  {
+  "id": "f3d33f0038eb",
+  "title": "Raskin could be on way out as Rangers close in on Kim deal",
+  "player": "Nicolas Raskin",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqjkrg54wwko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-26T17:16:28+00:00"
+ },
+ {
   "id": "867efabfa643",
   "title": "Arsenal suffer huge Julian Alvarez setback as Barcelona REFUSE to give up on transfer",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-enzo-fernandez-man-city-37589585",
   "fee": null,
   "published": "2026-08-25T09:28:53+00:00"
- },
- {
-  "id": "5d7feda7fa2d",
-  "title": "Savinho seals £75m Spurs move from Manchester City – and changes name to Sávio",
-  "player": "De Zerbi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/25/savinho-completes-spurs-move-manchester-city-changes-name-to-savio",
-  "fee": "£75M",
-  "published": "2026-08-25T09:21:22+00:00"
  }
 ]
