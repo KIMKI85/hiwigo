@@ -1,5 +1,44 @@
 [
  {
+  "id": "0b121232fb0b",
+  "title": "Man City sign Bouaddi in record-breaking deal",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576515/ayyoub-bouaddi-transfer-manchester-city-complete-record-breaking-86m-deal-to-sign-18-year-old-morocco-midfielder",
+  "fee": null,
+  "published": "2026-08-26T11:15:00+00:00"
+ },
+ {
+  "id": "9ceef996d333",
+  "title": "Es geht nur noch um Details: Palacios vor Ipswich-Wechsel",
+  "player": "Der Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/es-geht-nur-noch-um-details-palacios-vor-ipswich-wechsel-1246812/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:16:31+00:00"
+ },
+ {
+  "id": "75636e940355",
+  "title": "Kean refuses to train with Fiorentina after latest €40m bid from Como",
+  "player": "Moise Kean",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/kean-not-training-fiorentina-after-como-bid/",
+  "fee": "€40M",
+  "published": "2026-08-26T10:12:13+00:00"
+ },
+ {
   "id": "b4b1391ec652",
   "title": "Arsenal set to announce striker transfer as target sends farewell message",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/nkunku-medical-set-milan-sanction-leipzig-sale/",
   "fee": "€32M",
   "published": "2026-08-24T15:49:48+00:00"
- },
- {
-  "id": "a027c0a9f1ff",
-  "title": "Man City 'pushing to sign Enzo Fernandez within days' as Chelsea's latest demands emerge",
-  "player": "Enzo Fernandez",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-chelsea-37587674",
-  "fee": null,
-  "published": "2026-08-24T15:39:13+00:00"
- },
- {
-  "id": "3b6c0824a794",
-  "title": "Julián Alvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
-  "player": "Julián Alvarez",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
-  "fee": null,
-  "published": "2026-08-24T15:13:24+00:00"
- },
- {
-  "id": "40318c62874c",
-  "title": "Vom Betze an den Rhein: Wekesser wechselt nach Düsseldorf",
-  "player": "Vom Betze",
-  "title_ko": "Betze에서 라인강까지: Wekesser가 뒤셀도르프로 이동",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/vom-betze-an-den-rhein-wekesser-wechselt-nach-duesseldorf-1245672/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-24T13:36:13+00:00"
  }
 ]

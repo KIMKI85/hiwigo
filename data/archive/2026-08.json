@@ -1,5 +1,44 @@
 [
  {
+  "id": "0b121232fb0b",
+  "title": "Man City sign Bouaddi in record-breaking deal",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576515/ayyoub-bouaddi-transfer-manchester-city-complete-record-breaking-86m-deal-to-sign-18-year-old-morocco-midfielder",
+  "fee": null,
+  "published": "2026-08-26T11:15:00+00:00"
+ },
+ {
+  "id": "9ceef996d333",
+  "title": "Es geht nur noch um Details: Palacios vor Ipswich-Wechsel",
+  "player": "Der Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/es-geht-nur-noch-um-details-palacios-vor-ipswich-wechsel-1246812/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:16:31+00:00"
+ },
+ {
+  "id": "75636e940355",
+  "title": "Kean refuses to train with Fiorentina after latest €40m bid from Como",
+  "player": "Moise Kean",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/kean-not-training-fiorentina-after-como-bid/",
+  "fee": "€40M",
+  "published": "2026-08-26T10:12:13+00:00"
+ },
+ {
   "id": "b4b1391ec652",
   "title": "Arsenal set to announce striker transfer as target sends farewell message",
   "player": null,
