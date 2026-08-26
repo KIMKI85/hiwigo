@@ -1,5 +1,18 @@
 [
  {
+  "id": "b4b1391ec652",
+  "title": "Arsenal set to announce striker transfer as target sends farewell message",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-igor-tyjon-blackburn-37594127",
+  "fee": null,
+  "published": "2026-08-26T09:53:03+00:00"
+ },
+ {
   "id": "a63bf5af0f53",
   "title": "Official: Como sign ex-Manchester United defender Kambwala from Villarreal",
   "player": "Willy Kambwala",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/vom-betze-an-den-rhein-wekesser-wechselt-nach-duesseldorf-1245672/artikel#omrss",
   "fee": null,
   "published": "2026-08-24T13:36:13+00:00"
- },
- {
-  "id": "725793085e35",
-  "title": "Girona winger Kim to undergo Rangers medical",
-  "player": "Kim Min-",
-  "title_ko": "지로나 윙어 김, 레인저스 메디컬 받아",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crr4ldl1wp0o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-24T13:29:22+00:00"
  }
 ]
