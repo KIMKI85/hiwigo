@@ -13,6 +13,45 @@
   "published": "2026-08-26T11:15:00+00:00"
  },
  {
+  "id": "821e847f9190",
+  "title": "\"Von seinem Potenzial für die Zukunft überzeugt\": Bayerns Chavez per Leihe nach Magdeburg",
+  "player": "Bayerns Chavez",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/von-seinem-potenzial-fuer-die-zukunft-ueberzeugt-bayerns-chavez-per-leihe-nach-magdeburg-1246753/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-26T10:50:00+00:00"
+ },
+ {
+  "id": "d2ea8cadbef1",
+  "title": "Confirmado: mañana debuta Rodri, el fichaje del verano",
+  "player": "Spotify Camp Noy",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/barcelona/2026/08/26/confirmado-manana-debuta-rodri-fichaje-verano.html",
+  "fee": null,
+  "published": "2026-08-26T10:45:49+00:00"
+ },
+ {
+  "id": "43daf8266546",
+  "title": "Bouaddi, Mateta, David... les 5 infos mercato du 26 août à la mi-journée",
+  "player": "Ayyoub Bouaddi",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-bouaddi-mateta-david-les-5-infos-mercato-du-26-aout-a-la-mi-journee_VN-202608260406.html",
+  "fee": null,
+  "published": "2026-08-26T10:43:58+00:00"
+ },
+ {
   "id": "a5e48a987b0d",
   "title": "Erfurt greift bei Becker zu: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",
@@ -1259,44 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-08-24T17:10:00+00:00"
- },
- {
-  "id": "39100d7a72d8",
-  "title": "Sunderland sign Ahoka from Royal Antwerp",
-  "player": "Royal Antwerp",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2ze3dz4jro?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-24T16:50:16+00:00"
- },
- {
-  "id": "de8feb768c85",
-  "title": "Mikel Arteta sets one condition for £130m Julian Alvarez transfer as Arsenal plans emerges",
-  "player": "Mikel Arteta",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-julian-alvarez-arteta-37587909",
-  "fee": "£130M",
-  "published": "2026-08-24T16:31:58+00:00"
- },
- {
-  "id": "391f672c2269",
-  "title": "Calhanoglu’s contract situation puts Galatasaray and Fenerbahce on high alert",
-  "player": "Hakan Calhanoglu",
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/calhanoglu-contract-gala-fenerbahce-high-alert/",
-  "fee": null,
-  "published": "2026-08-24T16:20:46+00:00"
  }
 ]
