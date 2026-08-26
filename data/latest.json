@@ -26,6 +26,19 @@
   "published": "2026-08-26T11:15:00+00:00"
  },
  {
+  "id": "a9640099e117",
+  "title": "Oosterwolde undergoing second Roma medical amid injury concerns",
+  "player": "Jayden Oosterwolde",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/oosterwolde-undergoing-second-roma-medical/",
+  "fee": null,
+  "published": "2026-08-26T11:12:30+00:00"
+ },
+ {
   "id": "1e6d4ad9466d",
   "title": "\"Von seinem Potenzial überzeugt\": Bayerns Chavez per Leihe nach Magdeburg",
   "player": "Bayerns Chavez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/08/24/deberes-sevilla-ultima-semana-mercado-fichajes.html",
   "fee": null,
   "published": "2026-08-24T18:42:46+00:00"
- },
- {
-  "id": "2a859e322d2b",
-  "title": "Man City make shock Cody Gakpo approach to leave Liverpool and Tottenham with transfer dilemma",
-  "player": "Cody Gakpo",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-city-tottenham-transfer-gakpo-37588274",
-  "fee": null,
-  "published": "2026-08-24T18:37:09+00:00"
  }
 ]
