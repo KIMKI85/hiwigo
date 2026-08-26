@@ -13,6 +13,19 @@
   "published": "2026-08-26T11:45:00+00:00"
  },
  {
+  "id": "cc2df640a128",
+  "title": "Mercato: toujours désiré par le Barça, Julian Alvarez ne s'est pas entraîné avec l'Atlético de Madrid",
+  "player": "Julian Alvarez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-toujours-desire-par-le-barca-julian-alvarez-ne-s-est-pas-entraine-avec-l-atletico-de-madrid_AV-202608260436.html",
+  "fee": null,
+  "published": "2026-08-26T11:33:26+00:00"
+ },
+ {
   "id": "0b121232fb0b",
   "title": "Man City sign Bouaddi in record-breaking deal",
   "player": "Ayyoub Bouaddi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-24T19:12:07+00:00"
- },
- {
-  "id": "4948f32916ac",
-  "title": "Los deberes del Sevilla en la última semana del mercado de fichajes",
-  "player": "García Plaza",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/08/24/deberes-sevilla-ultima-semana-mercado-fichajes.html",
-  "fee": null,
-  "published": "2026-08-24T18:42:46+00:00"
  }
 ]
