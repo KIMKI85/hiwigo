@@ -13,6 +13,19 @@
   "published": "2026-08-26T08:18:41+00:00"
  },
  {
+  "id": "dba963df2d8b",
+  "title": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
+  "player": "Philippe Mateta",
+  "title_ko": "축구 이적 루머: 장 필립 마테타가 애스턴 빌라로?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa",
+  "fee": null,
+  "published": "2026-08-26T08:13:30+00:00"
+ },
+ {
   "id": "7d8073c405bf",
   "title": "Newcastle agree £52m deal for Man City's Gonzalez",
   "player": "City's Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/premier-league/transferts/mercato-accord-total-entre-chelsea-et-crystal-palace-pour-axel-disasi_AV-202608240476.html",
   "fee": null,
   "published": "2026-08-24T11:51:22+00:00"
- },
- {
-  "id": "3c074a97a82e",
-  "title": "Gabriel Jesus' Arsenal transfer route closed as suitor turns to £25m-rated Chelsea star",
-  "player": "Gabriel Jesus'",
-  "title_ko": "가브리엘 제수스의 아스날 이적 경로는 구혼자가 £25m 등급의 첼시 스타로 바뀌면서 폐쇄되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/gabriel-jesus-arsenal-chelsea-napoli-37586156",
-  "fee": "£25M",
-  "published": "2026-08-24T11:45:18+00:00"
  }
 ]
