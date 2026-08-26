@@ -13,6 +13,32 @@
   "published": "2026-08-26T13:57:00+00:00"
  },
  {
+  "id": "0ab0f4d40c03",
+  "title": "Liverpool make Ismaila Sarr bid after abandoning £70m Yankuba Minteh transfer",
+  "player": "Ismaila Sarr",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-yankuba-minteh-37595784",
+  "fee": "£70M",
+  "published": "2026-08-26T13:47:53+00:00"
+ },
+ {
+  "id": "457413fbdeb6",
+  "title": "Will a Premier League club break record for transfer sales in one window?",
+  "player": null,
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-26T13:45:56+00:00"
+ },
+ {
   "id": "877b1ec2eabe",
   "title": "Chelsea in contact over move for Villa goalkeeper Martinez",
   "player": "Emiliano Martinez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-van-dijk-psg-37586980",
   "fee": null,
   "published": "2026-08-25T04:00:00+00:00"
- },
- {
-  "id": "43471df0b22f",
-  "title": "Man Utd news: Lewis Hall transfer stance clear as defender ‘in talks’ over future",
-  "player": "Lewis Hall",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37586983",
-  "fee": null,
-  "published": "2026-08-25T03:30:00+00:00"
- },
- {
-  "id": "c10a09997cac",
-  "title": "Arsenal news: Julian Alvarez price tag named as club U-turn on huge transfer exit",
-  "player": "Julian Alvarez",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37587361",
-  "fee": null,
-  "published": "2026-08-25T03:00:00+00:00"
  }
 ]
