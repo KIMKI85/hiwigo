@@ -1,5 +1,18 @@
 [
  {
+  "id": "45f44571dbbd",
+  "title": "Chelsea ready last-ditch Alex Scott bid with Enzo Fernandez closer to £120m exit",
+  "player": "Alex Scott",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-alex-scott-enzo-fernandez-37596959",
+  "fee": "£120M",
+  "published": "2026-08-26T16:50:27+00:00"
+ },
+ {
   "id": "6b3fe00772bf",
   "title": "Info RMC Sport. Mercato: l'attaquant de Chelsea Nicolas Jackson d'accord avec Aston Villa et l'Atletico de Madrid",
   "player": "Nicolas Jackson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/savinho-wechselt-fuer-87-5-millionen-euro-von-mancity-zu-tottenham-1245360/artikel#omrss",
   "fee": null,
   "published": "2026-08-25T09:18:48+00:00"
- },
- {
-  "id": "e93107882c1d",
-  "title": "Tottenham sign Savinho from Man City for £75m",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss",
-  "fee": "£75M",
-  "published": "2026-08-25T09:14:39+00:00"
  }
 ]
