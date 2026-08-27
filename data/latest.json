@@ -1,5 +1,57 @@
 [
  {
+  "id": "8477d8aca8d5",
+  "title": "Done Deal: Kean to join Como for €35m plus €5m bonus from Fiorentina",
+  "player": "Moise Kean",
+  "title_ko": "완료된 거래: 킨은 €35m에 피오렌티나로부터 €5m 보너스를 받고 코모에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-kean-como-e35m-e5m-bonus-fiorentina/",
+  "fee": "€35M",
+  "published": "2026-08-27T13:30:40+00:00"
+ },
+ {
+  "id": "d9f16d7d691f",
+  "title": "Fiorentina in talks with Man United over Zirkzee loan",
+  "player": "Joshua Zirkzee",
+  "title_ko": "피오렌티나는 지르크지 임대 문제로 맨유와 협상 중이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyz9lllx3xo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-27T13:30:17+00:00"
+ },
+ {
+  "id": "aabced9a9b19",
+  "title": "Amorim: ‘Milan have to thank Allegri, I promise I will talk transfers next week’",
+  "player": "Ruben Amorim",
+  "title_ko": "아모림: '밀란은 알레그리에게 감사해야 합니다. 다음 주에 이적에 대해 이야기하겠다고 약속합니다.'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/amorim-milan-have-to-thank-allegri/",
+  "fee": null,
+  "published": "2026-08-27T13:29:13+00:00"
+ },
+ {
+  "id": "4d88b4b5c6d1",
+  "title": "Bradley Barcola has already told Liverpool one thing he wants as transfer agreement emerges",
+  "player": "Bradley Barcola",
+  "title_ko": "브래들리 바르콜라는 이미 리버풀에게 이적 합의가 나오면서 원하는 한 가지를 말했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/bradley-barcola-liverpool-transfer-psg-37599665",
+  "fee": null,
+  "published": "2026-08-27T13:27:09+00:00"
+ },
+ {
   "id": "fdb6ea13df8d",
   "title": "Kim joins Rangers in £8.5m deal",
   "player": "Minsu Kim",
@@ -1246,57 +1298,5 @@
   "url": "https://football-italia.net/official-perin-leaves-juventus-to-join-palermo/",
   "fee": null,
   "published": "2026-08-26T08:58:14+00:00"
- },
- {
-  "id": "09938829e04f",
-  "title": "Tottenham agree loan for Man City's Marmoush",
-  "player": "City's Marmoush",
-  "title_ko": "토트넘, 맨시티의 마르무시 임대 계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-26T08:18:41+00:00"
- },
- {
-  "id": "dba963df2d8b",
-  "title": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
-  "player": "Philippe Mateta",
-  "title_ko": "축구 이적 루머: 장 필립 마테타가 애스턴 빌라로?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa",
-  "fee": null,
-  "published": "2026-08-26T08:13:30+00:00"
- },
- {
-  "id": "7d8073c405bf",
-  "title": "Newcastle agree £52m deal for Man City's Gonzalez",
-  "player": "City's Gonzalez",
-  "title_ko": "뉴캐슬, 맨시티의 곤잘레스와 £ 52M 계약 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
-  "fee": "£52M",
-  "published": "2026-08-26T07:59:50+00:00"
- },
- {
-  "id": "a93accff18b2",
-  "title": "Erinnerungen an 1983: Deswegen wollte Moffis Vater den HSV-Wechsel",
-  "player": "Moffis Vater",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/erinnerungen-an-1983-deswegen-wollte-moffis-vater-den-hsv-wechsel-1246800/video#omrss",
-  "fee": null,
-  "published": "2026-08-26T06:22:56+00:00"
  }
 ]
