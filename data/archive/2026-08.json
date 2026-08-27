@@ -1,5 +1,31 @@
 [
  {
+  "id": "36a61aaec64a",
+  "title": "Chelsea make huge profit on Delap as striker joins Forest",
+  "player": "Liam Delap",
+  "title_ko": "첼시는 스트라이커가 포레스트에 합류하면서 델랍에서 엄청난 이익을 얻었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577306/liam-delap-joins-nottingham-forest-in-club-record-50m-deal-as-chelsea-make-profit-on-striker",
+  "fee": null,
+  "published": "2026-08-27T10:00:00+00:00"
+ },
+ {
+  "id": "bc36466556b1",
+  "title": "\"Viel Erfahrung auf internationalem Niveau\": Augsburg verpflichtet Seol",
+  "player": "Viel Erfahrung",
+  "title_ko": "“국제적 수준에서 많은 경험”: 아우크스부르크, 설기현 영입",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/viel-erfahrung-auf-internationalem-niveau-augsburg-verpflichtet-seol-1247132/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T09:04:52+00:00"
+ },
+ {
   "id": "2fc6654a9081",
   "title": "Mercato: le PSG et Liverpool proches d'un accord pour le transfert de Barcola",
   "player": "Bradley Barcola",
