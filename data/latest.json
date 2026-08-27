@@ -1,5 +1,18 @@
 [
  {
+  "id": "14a4661da070",
+  "title": "Chelsea agree £7.5m fee for Villa's Martinez",
+  "player": "Villa's Martinez",
+  "title_ko": "첼시는 빌라 마르티네즈의 이적료 £7.5m에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
+  "fee": "£7.5M",
+  "published": "2026-08-27T18:28:09+00:00"
+ },
+ {
   "id": "c1b55a43bebd",
   "title": "Carabao Cup: Man City target Fernandez not in Chelsea squad vs Luton LIVE!",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/transfer-wahnsinn-bei-bayer-noch-zehn-deals-bis-zum-deadline-day-1246871/artikel#omrss",
   "fee": null,
   "published": "2026-08-26T12:10:32+00:00"
- },
- {
-  "id": "d1dcd2b75b45",
-  "title": "Leao returns to Milan training but remains up for sale in final week of transfer window",
-  "player": "Rafael Leao",
-  "title_ko": "Leao는 밀라노 훈련으로 돌아 왔지만 이전 기간의 마지막 주에 판매를 위해 남아 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/leao-returns-milan-training-still-up-for-sale/",
-  "fee": null,
-  "published": "2026-08-26T11:54:59+00:00"
  }
 ]
