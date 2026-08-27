@@ -1,5 +1,18 @@
 [
  {
+  "id": "21c35b08c9ad",
+  "title": "Sunderland defender Seelt joins Swansea on loan",
+  "player": "Jensen Seelt",
+  "title_ko": "선덜랜드의 수비수 실트가 스완지 임대로 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj06405yd22o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-27T15:04:59+00:00"
+ },
+ {
   "id": "c68229c5b87e",
   "title": "Tottenham sign Marmoush on loan with obligation to buy",
   "player": "Omar Marmoush",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/erfurt-greift-bei-becker-zu-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-08-26T10:34:33+00:00"
- },
- {
-  "id": "afb227804b8c",
-  "title": "Man City to make £100m Enzo Fernandez transfer bid despite missing Chelsea's deadline",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티, 첼시의 마감일을 놓쳤음에도 불구하고 £ 100M 엔조 페르난데스 이적 입찰",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-enzo-fernandez-chelsea-37594615",
-  "fee": "£100M",
-  "published": "2026-08-26T10:31:13+00:00"
  }
 ]
