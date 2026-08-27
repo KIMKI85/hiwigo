@@ -1,5 +1,18 @@
 [
  {
+  "id": "c66da224d14f",
+  "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
+  "player": null,
+  "title_ko": "서류: 맨시티는 첼시의 미드필더 페르난데스를 영입할 자신이 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
+  "fee": null,
+  "published": "2026-08-27T22:35:00+00:00"
+ },
+ {
   "id": "25cf9efaaf35",
   "title": "Muniz and García on target in Fulham’s Carabao Cup cruise past Wimbledon",
   "player": "Álvaro Arbeloa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
   "fee": null,
   "published": "2026-08-26T15:18:10+00:00"
- },
- {
-  "id": "9d048872ee6e",
-  "title": "Bournemouth latest: Scott 'not for sale' with bids to be rejected",
-  "player": null,
-  "title_ko": "본머스 최신: 거부할 입찰가가 있는 스콧 '판매 불가'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-08-26T15:09:00+00:00"
  }
 ]
