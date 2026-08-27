@@ -1,5 +1,18 @@
 [
  {
+  "id": "c68229c5b87e",
+  "title": "Tottenham sign Marmoush on loan with obligation to buy",
+  "player": "Omar Marmoush",
+  "title_ko": "토트넘은 구매 의무가 있는 마르무쉬를 임대로 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577796/omar-marmoush-transfer-news-tottenham-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
+  "fee": null,
+  "published": "2026-08-27T15:00:00+00:00"
+ },
+ {
   "id": "01748d16dfc9",
   "title": "Real Madrid monitoring Roma’s Kone but transfer only likely on one condition",
   "player": "Manu Kone",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-como-sign-ex-united-defender-kambwala/",
   "fee": null,
   "published": "2026-08-26T09:27:26+00:00"
- },
- {
-  "id": "92eadc49f0b0",
-  "title": "Spurs agree deal to sign Marmoush from Man City",
-  "player": "Omar Marmoush",
-  "title_ko": "Spurs는 맨시티에서 Marmoush와 계약하기로 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577289/omar-marmoush-transfer-news-tottenham-agree-deal-to-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
-  "fee": null,
-  "published": "2026-08-26T09:27:00+00:00"
  }
 ]
