@@ -1,5 +1,31 @@
 [
  {
+  "id": "829f2d62cbfe",
+  "title": "Kean back in training as Fiorentina and Como work on bonuses of €40m transfer",
+  "player": "Moise Kean",
+  "title_ko": "피오렌티나와 코모가 4천만 유로의 이적료 보너스를 받기 위해 훈련에 복귀한 킨",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/k-fiorentina-and-como-work-kean-bonuses/",
+  "fee": "€40M",
+  "published": "2026-08-27T11:44:56+00:00"
+ },
+ {
+  "id": "49ffecbaae5b",
+  "title": "Losc : “Fernandez-Pardo ne s’entraîne pas avec le groupe jusqu’à la fin du mercato…c’est sa situation…”, annonce Davide Ancelotti",
+  "player": "Davide Ancelotti",
+  "title_ko": "Losc: \"페르난데스-파르도는 이적 기간이 끝날 때까지 그룹과 함께 훈련하지 않습니다... 그게 그의 상황입니다...\", Davide Ancelotti 발표",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-losc-fernandez-pardo-ne-s-entraine-pas-avec-le-groupe-jusqu-a-la-fin-du-mercato-c-est-sa-situation-annonce-davide-ancelotti_VN-202608270437.html",
+  "fee": null,
+  "published": "2026-08-27T11:44:13+00:00"
+ },
+ {
   "id": "084a2f16d525",
   "title": "Video: Miretti sets off to join Besiktas in potential €15m deal from Juventus",
   "player": "Fabio Miretti",
@@ -11,6 +37,19 @@
   "url": "https://football-italia.net/miretti-sets-off-besiktas-15m-juventus-deal/",
   "fee": "€15M",
   "published": "2026-08-27T11:25:13+00:00"
+ },
+ {
+  "id": "86c6c17aeb8f",
+  "title": "Maresca admits Manchester City want more leaders as he targets Fernández",
+  "player": "Indicates Grealish",
+  "title_ko": "마레스카는 맨체스터 시티가 페르난데스를 노리면서 더 많은 리더를 원한다고 인정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/enzo-maresca-manchester-city-more-captains-enzo-fernandez-chelsea",
+  "fee": null,
+  "published": "2026-08-27T11:22:42+00:00"
  },
  {
   "id": "0b1fd83d77eb",
@@ -1259,44 +1298,5 @@
   "url": "https://www.marca.com/futbol/primera-division/opinion/2026/08/26/semana-fichajes-marcara.html",
   "fee": null,
   "published": "2026-08-26T04:25:54+00:00"
- },
- {
-  "id": "b5a050d06743",
-  "title": "DIRECT. Mercato: Christopher Nkunku fait son retour à Leipzig  trois ans après son départ",
-  "player": "Christopher Nkunku",
-  "title_ko": "직접. Mercato: Christopher Nkunku fait son retour à Leipzig trois ans après son départ",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-transferts-rumeurs-suivez-toute-l-actualite-en-live_LN-202608260044.html",
-  "fee": null,
-  "published": "2026-08-26T04:13:59+00:00"
- },
- {
-  "id": "ffb335f3979e",
-  "title": "Arsenal's dream end to transfer window as Julian Alvarez signs and Mikel Arteta gets £85m boost",
-  "player": "Julian Alvarez",
-  "title_ko": "줄리안 알바레즈 (Julian Alvarez) 와 미켈 아르테타 (Mikel Arteta) 가 £ 85M 부스트를 받음에 따라 아스날의 꿈은 창문을 옮기는 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37587893",
-  "fee": "£85M",
-  "published": "2026-08-26T04:00:00+00:00"
- },
- {
-  "id": "1a814dd9467f",
-  "title": "Liverpool news: Bradley Barcola 'agreement close' as star 'excited' ahead of exit",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바콜라 (Bradley Barcola) 가 퇴장을 앞두고 '흥분된' 스타로 '합의 종결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37591256",
-  "fee": null,
-  "published": "2026-08-26T04:00:00+00:00"
  }
 ]
