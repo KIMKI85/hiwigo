@@ -1,5 +1,18 @@
 [
  {
+  "id": "b6bd2add401c",
+  "title": "Chelsea in talks to sign Atalanta defender Ahanor",
+  "player": "Honest Ahanor",
+  "title_ko": "첼시, 아탈란타 수비수 아하노르 영입 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-27T07:28:01+00:00"
+ },
+ {
   "id": "00f6f339d946",
   "title": "\"Er muss spielen\": Bei Moores Leihe zum 1. FC Köln kommt Bewegung rein",
   "player": "Bei Moores Leihe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/tattermusch-stuermt-altglienicke-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-08-25T14:13:02+00:00"
- },
- {
-  "id": "0c95aa1f3873",
-  "title": "Lazio transfer news: Sevilla enquire for Ratkov after Southampton snub, Serie B sides track Artistico",
-  "player": "Petar Ratkov",
-  "title_ko": "라치오 이적 소식: 세비야는 사우샘프턴 스눕 이후 라트코프를 위해 문의하고, 세리에 B는 아티스티코를 추적합니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-transfer-news-sevilla-ratkov-southampton/",
-  "fee": null,
-  "published": "2026-08-25T13:47:23+00:00"
  }
 ]
