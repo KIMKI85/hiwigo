@@ -1,5 +1,18 @@
 [
  {
+  "id": "c2d9606f6b24",
+  "title": "Bayer erfüllt Spielerwunsch: Palacios wechselt zu Ipswich Town",
+  "player": "Exequiel Palacios",
+  "title_ko": "바이엘, 선수의 소원 충족: 팔라시오스가 입스위치 타운으로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/bayer-erfuellt-spielerwunsch-palacios-wechselt-zu-ipswich-town-1247369/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T20:35:49+00:00"
+ },
+ {
   "id": "55da94879d13",
   "title": "Arsenal terminate Reiss Nelson's contract as Mikel Arteta waits for three more exits",
   "player": "Reiss Nelson's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/pinamonti-set-for-lazio-medical-ratkov/",
   "fee": null,
   "published": "2026-08-26T14:30:00+00:00"
- },
- {
-  "id": "3839f3a6ea74",
-  "title": "Chelsea considering late move for Villa's Martinez",
-  "player": "Villa's Martinez",
-  "title_ko": "빌라의 마르티네스를 위해 늦은 이사를 고려하는 첼시",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577385/emiliano-martinez-transfer-news-chelsea-considering-late-move-for-aston-villa-and-argentina-goalkeeper",
-  "fee": null,
-  "published": "2026-08-26T13:57:00+00:00"
  }
 ]
