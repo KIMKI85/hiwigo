@@ -1,5 +1,18 @@
 [
  {
+  "id": "b5c1154d6d57",
+  "title": "Kevin De Bruyne gives backing to Arsenal transfer exit: \"We'll see what happens\"",
+  "player": "Kevin De Bruyne",
+  "title_ko": "케빈 데 브라이너는 아스날 이적을 지지합니다: \"무슨 일이 일어나는지 지켜보겠습니다\"",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-jesus-de-bruyne-37598731",
+  "fee": null,
+  "published": "2026-08-27T10:28:05+00:00"
+ },
+ {
   "id": "5af4b8af3fbf",
   "title": "Former Spain captain Morata closing in on move to 2nd division Leganes",
   "player": "Former Spain",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-en-echec-a-l-ac-milan-nkunku-retourne-a-leipzig-pour-tenter-de-relancer-sa-carriere_AV-202608250798.html",
   "fee": null,
   "published": "2026-08-25T19:41:59+00:00"
- },
- {
-  "id": "ea36ea606c56",
-  "title": "Brighton join Palace and Forest in race for Milan outcast Fofana",
-  "player": "Youssouf Fofana",
-  "title_ko": "브라이튼은 밀라노를 추방한 포파나를 향한 경주에서 궁전과 숲에 합류합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/brighton-join-race-milan-fofana/",
-  "fee": null,
-  "published": "2026-08-25T19:35:00+00:00"
  }
 ]
