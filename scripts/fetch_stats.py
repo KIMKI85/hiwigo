@@ -44,28 +44,31 @@ def api(path):
 
 
 def get_standings(code):
-    # 현재 시즌(연도) 명시 — 무료 티어가 종료 시즌으로 롤오버되는 문제 방지
-    from datetime import datetime as _dt
-    now = _dt.utcnow()
-    season_year = now.year if now.month >= 7 else now.year - 1  # 7월 이후는 새 시즌
-    data = api(f"/competitions/{code}/standings?season={season_year}")
+    # 시즌 지정 없이 기본 호출 (무료 티어는 현재 시즌을 자동으로 줌).
+    # 응답 구조를 진단 로그로 남겨서 문제를 정확히 파악.
+    data = api(f"/competitions/{code}/standings")
     tables = data.get("standings", [])
     if not tables:
-        # 시즌 지정이 안 먹히면 기본 호출로 폴백
-        print(f"    (season={season_year} 응답 비어있음 → 기본 호출 재시도)")
-        data = api(f"/competitions/{code}/standings")
-        tables = data.get("standings", [])
+        # 응답에 standings가 없으면 무슨 키가 왔는지, 시즌이 뭔지 로그로 남김
+        season = data.get("season", {})
+        print(f"    [진단] {code}: standings 비어있음. 응답키={list(data.keys())} "
+              f"시즌={season.get('startDate','?')}~{season.get('endDate','?')} "
+              f"currentMatchday={season.get('currentMatchday','?')}")
+        return []
+    rows_out = []
     for table in tables:
         if table.get("type") == "TOTAL":
-            return [{
-                "pos": row["position"],
-                "team": row["team"].get("shortName") or row["team"]["name"],
-                "crest": row["team"].get("crest", ""),
-                "played": row["playedGames"], "won": row["won"],
-                "draw": row["draw"], "lost": row["lost"],
-                "gd": row["goalDifference"], "pts": row["points"],
-            } for row in table["standings"]]
-    return []
+            for row in table.get("standings", []):
+                rows_out.append({
+                    "pos": row.get("position"),
+                    "team": (row.get("team") or {}).get("shortName") or (row.get("team") or {}).get("name", "?"),
+                    "crest": (row.get("team") or {}).get("crest", ""),
+                    "played": row.get("playedGames", 0), "won": row.get("won", 0),
+                    "draw": row.get("draw", 0), "lost": row.get("lost", 0),
+                    "gd": row.get("goalDifference", 0), "pts": row.get("points", 0),
+                })
+            break
+    return rows_out
 
 
 def get_results(code, limit=8):
@@ -81,10 +84,7 @@ def get_results(code, limit=8):
 
 
 def get_scorers(code, limit=10):
-    from datetime import datetime as _dt
-    now = _dt.utcnow()
-    season_year = now.year if now.month >= 7 else now.year - 1
-    data = api(f"/competitions/{code}/scorers?limit={limit}&season={season_year}")
+    data = api(f"/competitions/{code}/scorers?limit={limit}")
     return [{
         "name": s["player"]["name"],
         "team": s["team"].get("shortName") or s["team"]["name"],
