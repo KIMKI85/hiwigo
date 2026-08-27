@@ -1,5 +1,31 @@
 [
  {
+  "id": "01748d16dfc9",
+  "title": "Real Madrid monitoring Roma’s Kone but transfer only likely on one condition",
+  "player": "Manu Kone",
+  "title_ko": "레알 마드리드는 로마의 코네를 관찰하고 있지만 한 가지 조건에서만 이적 가능성이 있습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/real-madrid-monitoring-roma-kone-one-condition/",
+  "fee": null,
+  "published": "2026-08-27T13:57:09+00:00"
+ },
+ {
+  "id": "64a5e3927c62",
+  "title": "Roma change Oosterwolde terms with Fenerbahce after failed medical",
+  "player": "Jayden Oosterwolde",
+  "title_ko": "로마, 메디컬 실패 후 페네르바체와 우스터볼데 계약 변경",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-change-oosterwolde-fenerbahce-medical/",
+  "fee": null,
+  "published": "2026-08-27T13:47:12+00:00"
+ },
+ {
   "id": "8477d8aca8d5",
   "title": "Done Deal: Kean to join Como for €35m plus €5m bonus from Fiorentina",
   "player": "Moise Kean",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577289/omar-marmoush-transfer-news-tottenham-agree-deal-to-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
   "fee": null,
   "published": "2026-08-26T09:27:00+00:00"
- },
- {
-  "id": "a4c4faabf4f2",
-  "title": "Manchester City agree Omar Marmoush loan to Spurs with initial £50m obligation to buy",
-  "player": "Omar Marmoush",
-  "title_ko": "맨체스터 시티는 스퍼스에 대한 오마르 마르무시 (Omar Marmoush) 대출과 초기 £ 50M 구매 의무에 동의합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
-  "fee": "£50M",
-  "published": "2026-08-26T09:25:22+00:00"
- },
- {
-  "id": "a84b882b26e6",
-  "title": "Official: Perin leaves Juventus to join Palermo in Serie B",
-  "player": "Mattia Perin",
-  "title_ko": "공식: 페린은 세리에 B에서 팔레르모에 합류하기 위해 유벤투스를 떠납니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-perin-leaves-juventus-to-join-palermo/",
-  "fee": null,
-  "published": "2026-08-26T08:58:14+00:00"
  }
 ]
