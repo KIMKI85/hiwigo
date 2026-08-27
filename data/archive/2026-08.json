@@ -1,5 +1,31 @@
 [
  {
+  "id": "754d1a65647b",
+  "title": "Done Deals: Torino finally secure Perri from Leeds United, sell Pedersen to Olympiacos",
+  "player": "Lucas Perri",
+  "title_ko": "거래 완료: 토리노는 마침내 리즈 유나이티드에서 페리를 확보하고 페데르센을 올림피아코스에 매각했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deals-torino-perri-leeds-united-pedersen/",
+  "fee": null,
+  "published": "2026-08-27T16:19:49+00:00"
+ },
+ {
+  "id": "f263eb2db4c1",
+  "title": "Torres, Akliouche... LE PSG ENCORE PLUS FORT après son mercato 2026 ? (After Paris)",
+  "player": "In Lee",
+  "title_ko": "토레스, 아클리우슈... PSG는 2026년 이적 기간 이후 더욱 강해졌을까? (파리 이후)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-torres-akliouche-le-psg-encore-plus-fort-apres-son-mercato-2026-after-paris_VN-202608270652.html",
+  "fee": null,
+  "published": "2026-08-27T16:18:47+00:00"
+ },
+ {
   "id": "619233e49dfa",
   "title": "Wechsel zu Aston Villa: Hat Leon Goretzka die richtige Entscheidung getroffen?",
   "player": "Hat Leon Goretzka",
