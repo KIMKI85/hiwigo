@@ -29,17 +29,33 @@ COMPETITIONS = [
 
 
 def api(path):
-    """API 호출 (무료 티어 속도 제한 준수)"""
+    """API 호출 (무료 티어 속도 제한 준수). HTTP 에러 시 본문을 로그로 남김."""
     req = urllib.request.Request(BASE + path, headers={"X-Auth-Token": TOKEN})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "ignore")[:200]
+        print(f"    [HTTP {e.code}] {path} → {body}")
+        time.sleep(7)
+        raise
     time.sleep(7)  # 분당 10회 제한 준수
     return data
 
 
 def get_standings(code):
-    data = api(f"/competitions/{code}/standings")
-    for table in data.get("standings", []):
+    # 현재 시즌(연도) 명시 — 무료 티어가 종료 시즌으로 롤오버되는 문제 방지
+    from datetime import datetime as _dt
+    now = _dt.utcnow()
+    season_year = now.year if now.month >= 7 else now.year - 1  # 7월 이후는 새 시즌
+    data = api(f"/competitions/{code}/standings?season={season_year}")
+    tables = data.get("standings", [])
+    if not tables:
+        # 시즌 지정이 안 먹히면 기본 호출로 폴백
+        print(f"    (season={season_year} 응답 비어있음 → 기본 호출 재시도)")
+        data = api(f"/competitions/{code}/standings")
+        tables = data.get("standings", [])
+    for table in tables:
         if table.get("type") == "TOTAL":
             return [{
                 "pos": row["position"],
@@ -65,7 +81,10 @@ def get_results(code, limit=8):
 
 
 def get_scorers(code, limit=10):
-    data = api(f"/competitions/{code}/scorers?limit={limit}")
+    from datetime import datetime as _dt
+    now = _dt.utcnow()
+    season_year = now.year if now.month >= 7 else now.year - 1
+    data = api(f"/competitions/{code}/scorers?limit={limit}&season={season_year}")
     return [{
         "name": s["player"]["name"],
         "team": s["team"].get("shortName") or s["team"]["name"],
