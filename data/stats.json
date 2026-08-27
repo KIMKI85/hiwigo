@@ -1,23 +1,377 @@
 {
- "updated": "2026-08-27T01:44:41.116416+00:00",
+ "updated": "2026-08-27T01:52:56.979325+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-08-24",
+     "home": "Fulham",
+     "away": "Chelsea",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Newcastle",
+     "away": "Liverpool",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Brighton Hove",
+     "away": "Aston Villa",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Man City",
+     "away": "Bournemouth",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Brentford",
+     "away": "Tottenham",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Everton",
+     "away": "Crystal Palace",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Nottingham",
+     "away": "Leeds United",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Ipswich Town",
+     "away": "Sunderland",
+     "hs": 2,
+     "as": 1
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Jack Hinshelwood",
+     "team": "Brighton Hove",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Kai Havertz",
+     "team": "Arsenal",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Bukayo Saka",
+     "team": "Arsenal",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Martin Ødegaard",
+     "team": "Arsenal",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Semi Ajayi",
+     "team": "Hull City",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Nobel Mendy",
+     "team": "Hull City",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Emersonn",
+     "team": "Ipswich Town",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Nilson Angulo",
+     "team": "Sunderland",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Jack Clarke",
+     "team": "Ipswich Town",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Anton Stach",
+     "team": "Leeds United",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   },
   "LALIGA": {
    "name": "라리가",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-08-26",
+     "home": "Real Madrid",
+     "away": "Real Sociedad",
+     "hs": 5,
+     "as": 1
+    },
+    {
+     "date": "2026-08-25",
+     "home": "Valencia",
+     "away": "Real Betis",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Málaga",
+     "away": "Deportivo",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Osasuna",
+     "away": "Levante",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Elche",
+     "away": "Barça",
+     "hs": 0,
+     "as": 5
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Getafe",
+     "away": "Santander",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Atleti",
+     "away": "Villarreal",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Espanyol",
+     "away": "Real Madrid",
+     "hs": 1,
+     "as": 2
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Mariano Díaz",
+     "team": "Alavés",
+     "goals": 2,
+     "assists": 2
+    },
+    {
+     "name": "Roberto Fernández",
+     "team": "Espanyol",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Pierre-Emerick Aubameyang",
+     "team": "Deportivo",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Fermín López",
+     "team": "Barça",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Nahuel Tenaglia",
+     "team": "Alavés",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Mikel Rodríguez",
+     "team": "Alavés",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Álvaro García",
+     "team": "Rayo Vallecano",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Jon Guridi",
+     "team": "Sevilla FC",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   },
   "SERIEA": {
    "name": "세리에 A",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-08-24",
+     "home": "Roma",
+     "away": "Fiorentina",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Bologna",
+     "away": "Lazio",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Torino",
+     "away": "Milan",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Atalanta",
+     "away": "Sassuolo",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Venezia FC",
+     "away": "Lecce",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Frosinone",
+     "away": "Juventus",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Parma",
+     "away": "Cagliari",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Genoa",
+     "away": "Napoli",
+     "hs": 0,
+     "as": 2
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Donyell Malen",
+     "team": "Roma",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Hassane Kamara",
+     "team": "Udinese",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Anastasios Douvikas",
+     "team": "Como 1907",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Hakan Çalhanoğlu",
+     "team": "Inter",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Gustavo Varela",
+     "team": "Monza",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Piotr Zieliński",
+     "team": "Inter",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Francesco Esposito",
+     "team": "Inter",
+     "goals": 1,
+     "assists": 1
+    },
+    {
+     "name": "Yann Aurel Bisseck",
+     "team": "Inter",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Kevin De Bruyne",
+     "team": "Napoli",
+     "goals": 1,
+     "assists": 1
+    },
+    {
+     "name": "Antonio Vergara",
+     "team": "Napoli",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   },
   "BUND": {
    "name": "분데스리가",
@@ -28,14 +382,250 @@
   "LIGUE1": {
    "name": "리그 1",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-08-23",
+     "home": "Stade Rennais",
+     "away": "PSG",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Le Havre",
+     "away": "Monaco",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Angers SCO",
+     "away": "Lille",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Toulouse",
+     "away": "Olympique Lyon",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Nice",
+     "away": "Lorient",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Troyes",
+     "away": "Paris FC",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Le Mans",
+     "away": "Brest",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "RC Lens",
+     "away": "Auxerre",
+     "hs": 5,
+     "as": 2
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Amine Gouiri",
+     "team": "Marseille",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Florian Thauvin",
+     "team": "RC Lens",
+     "goals": 2,
+     "assists": 1
+    },
+    {
+     "name": "Ferrán Torres",
+     "team": "PSG",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Keyliane Abdallah",
+     "team": "Marseille",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Pierre Emile Højbjerg",
+     "team": "Marseille",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Franjo Ivanovic",
+     "team": "RC Lens",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Saud Abdulhamid",
+     "team": "RC Lens",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Daniel Namaso",
+     "team": "Auxerre",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Pierre Ganiou",
+     "team": "RC Lens",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Lamine Sy",
+     "team": "Auxerre",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   },
   "UCL": {
    "name": "챔피언스리그",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-05-30",
+     "home": "PSG",
+     "away": "Arsenal",
+     "hs": 5,
+     "as": 4
+    },
+    {
+     "date": "2026-05-06",
+     "home": "Bayern",
+     "away": "PSG",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-05-05",
+     "home": "Arsenal",
+     "away": "Atleti",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-04-29",
+     "home": "Atleti",
+     "away": "Arsenal",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-04-28",
+     "home": "PSG",
+     "away": "Bayern",
+     "hs": 5,
+     "as": 4
+    },
+    {
+     "date": "2026-04-15",
+     "home": "Arsenal",
+     "away": "Sporting CP",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-04-15",
+     "home": "Bayern",
+     "away": "Real Madrid",
+     "hs": 4,
+     "as": 3
+    },
+    {
+     "date": "2026-04-14",
+     "home": "Atleti",
+     "away": "Barça",
+     "hs": 1,
+     "as": 2
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
+     "goals": 15,
+     "assists": 1
+    },
+    {
+     "name": "Harry Kane",
+     "team": "Bayern",
+     "goals": 14,
+     "assists": 2
+    },
+    {
+     "name": "Khvicha Kvaratskhelia",
+     "team": "PSG",
+     "goals": 10,
+     "assists": 6
+    },
+    {
+     "name": "Anthony Gordon",
+     "team": "Newcastle",
+     "goals": 10,
+     "assists": 2
+    },
+    {
+     "name": "Julián Álvarez",
+     "team": "Atleti",
+     "goals": 10,
+     "assists": 3
+    },
+    {
+     "name": "Erling Haaland",
+     "team": "Man City",
+     "goals": 8,
+     "assists": 0
+    },
+    {
+     "name": "Ousmane Dembélé",
+     "team": "PSG",
+     "goals": 8,
+     "assists": 2
+    },
+    {
+     "name": "Victor Osimhen",
+     "team": "Galatasaray",
+     "goals": 7,
+     "assists": 2
+    },
+    {
+     "name": "Luis Díaz",
+     "team": "Bayern",
+     "goals": 7,
+     "assists": 3
+    },
+    {
+     "name": "Martinelli",
+     "team": "Arsenal",
+     "goals": 6,
+     "assists": 2
+    }
+   ]
   }
  }
 }
