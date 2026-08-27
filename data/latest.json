@@ -1,5 +1,31 @@
 [
  {
+  "id": "eeb7e81021e1",
+  "title": "Millionensumme für Bayern: Mike wechselt nach Brügge",
+  "player": "Wisdom Mike",
+  "title_ko": "바이에른의 수백만 달러: 마이크가 브뤼헤로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/millionensumme-fuer-bayern-mike-wechselt-nach-bruegge-1246714/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T07:39:38+00:00"
+ },
+ {
+  "id": "91f847ac0abb",
+  "title": "Offerte aus Saudi-Arabien: Hofmann erwägt Wechsel zu Al-Shabab",
+  "player": "Jonas Hofmann",
+  "title_ko": "사우디아라비아의 제안: 호프만은 알샤바로 전환을 고려하고 있다",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 4,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/offerte-aus-saudi-arabien-hofmann-erwaegt-wechsel-zu-al-shabab-1247060/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T07:29:23+00:00"
+ },
+ {
   "id": "b6bd2add401c",
   "title": "Chelsea in talks to sign Atalanta defender Ahanor",
   "player": "Honest Ahanor",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-carlos-baleba-brighton-37585117",
   "fee": "£70M",
   "published": "2026-08-25T15:44:41+00:00"
- },
- {
-  "id": "6b871da4ac86",
-  "title": "Lyon coach Fonseca reveals offers for Roma target Fofana but admits: ‘We’re not worried’",
-  "player": "Paulo Fonseca",
-  "title_ko": "리옹 코치 폰세카 (Fonseca) 가 로마의 표적 포파나 (Fofana) 에 대한 제안을 밝히지만 ‘우리는 걱정하지 않는다’ 고 인정한다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lyon-coach-fonseca-reveals-offers-for-fofana/",
-  "fee": null,
-  "published": "2026-08-25T15:10:00+00:00"
- },
- {
-  "id": "e0c8ca780ba8",
-  "title": "Tattermusch stürmt Altglienicke: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "Tattermusch stürmt Altglienicke: Die aktuellen Regionalliga에서 전송",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/tattermusch-stuermt-altglienicke-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-25T14:13:02+00:00"
  }
 ]
