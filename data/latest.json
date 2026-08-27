@@ -13,6 +13,19 @@
   "published": "2026-08-27T08:55:00+00:00"
  },
  {
+  "id": "68b0a4ddbe26",
+  "title": "Milan and Como discussing final details of transfer for Italy international Ricci",
+  "player": "Samuele Ricci",
+  "title_ko": "밀란과 코모는 이탈리아 국가대표 리치의 이적에 대한 최종 세부 사항을 논의하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-como-discussing-final-ricci-details/",
+  "fee": null,
+  "published": "2026-08-27T08:19:10+00:00"
+ },
+ {
   "id": "704f2baee895",
   "title": "Liverpool close in on signing PSG forward Barcola",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/fuer-76-millionen-euro-manchester-united-verpflichtet-baleba-1245720/artikel#omrss",
   "fee": null,
   "published": "2026-08-25T15:59:49+00:00"
- },
- {
-  "id": "4325ba5b252e",
-  "title": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
-  "player": "Carlos Baleba",
-  "title_ko": "맨체스터 유나이티드, 카를로스 발레바의 미드필드 지출이 £ 150M에 가까워짐에 따라 계약 확정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton",
-  "fee": "£150M",
-  "published": "2026-08-25T15:58:29+00:00"
  }
 ]
