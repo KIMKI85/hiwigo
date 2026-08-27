@@ -1,5 +1,31 @@
 [
  {
+  "id": "a1c00a74d91a",
+  "title": "Liverpool agree £120m deal in principle for Barcola",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 바르콜라의 £120m 거래에 원칙적으로 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
+  "fee": "£120M",
+  "published": "2026-08-27T08:55:00+00:00"
+ },
+ {
+  "id": "f60eb9448563",
+  "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+  "player": "Joel Ordóñez",
+  "title_ko": "축구 이적 루머: Palace가 Aston Villa를 납치하여 Joel Ordóñez를 영입할 예정인가요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez",
+  "fee": null,
+  "published": "2026-08-27T07:43:15+00:00"
+ },
+ {
   "id": "eeb7e81021e1",
   "title": "Millionensumme für Bayern: Mike wechselt nach Brügge",
   "player": "Wisdom Mike",

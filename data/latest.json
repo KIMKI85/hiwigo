@@ -1,5 +1,31 @@
 [
  {
+  "id": "a1c00a74d91a",
+  "title": "Liverpool agree £120m deal in principle for Barcola",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 바르콜라의 £120m 거래에 원칙적으로 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
+  "fee": "£120M",
+  "published": "2026-08-27T08:55:00+00:00"
+ },
+ {
+  "id": "f60eb9448563",
+  "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+  "player": "Joel Ordóñez",
+  "title_ko": "축구 이적 루머: Palace가 Aston Villa를 납치하여 Joel Ordóñez를 영입할 예정인가요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez",
+  "fee": null,
+  "published": "2026-08-27T07:43:15+00:00"
+ },
+ {
   "id": "eeb7e81021e1",
   "title": "Millionensumme für Bayern: Mike wechselt nach Brügge",
   "player": "Wisdom Mike",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss",
   "fee": "£70M",
   "published": "2026-08-25T15:55:56+00:00"
- },
- {
-  "id": "3afcfd3fe255",
-  "title": "Ex-Chelsea and Milan player Begovic on Leao: ‘He would be an incredible signing for Aston Villa’",
-  "player": "Asmir Begovic",
-  "title_ko": "Leao의 Ex-Chelsea와 밀라노 선수 Begovic: ‘그는 Aston Villa와 놀라운 계약을 맺을 것입니다’",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ex-chelsea-milan-begovic-on-leao-villa/",
-  "fee": null,
-  "published": "2026-08-25T15:50:00+00:00"
- },
- {
-  "id": "77ed1a8c18a2",
-  "title": "Man Utd announce Carlos Baleba transfer in £70m deal as next signing becomes clear",
-  "player": "Carlos Baleba",
-  "title_ko": "맨체스터 유나이티드, 다음 계약이 성사됨에 따라 카를로스 발레바의 £ 70M 이적 발표",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-carlos-baleba-brighton-37585117",
-  "fee": "£70M",
-  "published": "2026-08-25T15:44:41+00:00"
  }
 ]
