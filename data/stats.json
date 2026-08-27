@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T01:52:56.979325+00:00",
+ "updated": "2026-08-27T22:25:07.035119+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -130,10 +130,24 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-08-27",
+     "home": "Barça",
+     "away": "Athletic",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-08-27",
+     "home": "Celta",
+     "away": "Osasuna",
+     "hs": 1,
+     "as": 2
+    },
+    {
      "date": "2026-08-26",
      "home": "Real Madrid",
      "away": "Real Sociedad",
-     "hs": 5,
+     "hs": 4,
      "as": 1
     },
     {
@@ -170,23 +184,21 @@
      "away": "Santander",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Atleti",
-     "away": "Villarreal",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Espanyol",
-     "away": "Real Madrid",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
+    {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Fermín López",
+     "team": "Barça",
+     "goals": 3,
+     "assists": 0
+    },
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
@@ -208,18 +220,6 @@
     {
      "name": "Pierre-Emerick Aubameyang",
      "team": "Deportivo",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Raphinha",
-     "team": "Barça",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Fermín López",
-     "team": "Barça",
      "goals": 2,
      "assists": 0
     },
