@@ -13,6 +13,32 @@
   "published": "2026-08-27T13:00:00+00:00"
  },
  {
+  "id": "a6702777dde8",
+  "title": "Atletico Madrid issue extraordinary Julian Alvarez statement to clear path for Arsenal transfer",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코 마드리드는 아스날 이적의 길을 밝히기 위해 특별한 Julian Alvarez 성명을 발표했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-atletico-37599670",
+  "fee": null,
+  "published": "2026-08-27T12:19:43+00:00"
+ },
+ {
+  "id": "7ef1395f4965",
+  "title": "Rangers bolster wing options with signing of Kim",
+  "player": "South Korean",
+  "title_ko": "레인저스는 김의 영입으로 윙 옵션을 강화했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cd79n34g474o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-27T12:18:03+00:00"
+ },
+ {
   "id": "d037a55d7a64",
   "title": "Fiorentina hope to beat Juventus to Zirkzee with official bid for Manchester United",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/ce-n-est-pas-parce-que-le-real-a-fait-n-importe-quoi-avec-diomande-que-liverpool-doit-le-faire-avec-barcola-diaz-regrette-l-explosion-des-tarifs-lors-du-mercato_AV-202608260142.html",
   "fee": null,
   "published": "2026-08-26T05:58:16+00:00"
- },
- {
-  "id": "4897ac858830",
-  "title": "Transfer news LIVE: Arsenal £50 agreement, Man Utd land huge boost, Barcola to Liverpool",
-  "player": "Mirror Football",
-  "title_ko": "이적 소식 생중계: 아스널 £ 50 계약, 맨유 랜드 엄청난 부스트, 바콜라를 리버풀로",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37593300",
-  "fee": null,
-  "published": "2026-08-26T05:40:31+00:00"
- },
- {
-  "id": "39fc01fd0dbf",
-  "title": "Liverpool's dream end to transfer window as Bradley Barcola joins and £70m star signs",
-  "player": "Bradley Barcola",
-  "title_ko": "브래들리 바콜라 (Bradley Barcola) 가 합류하고 £ 70M 별표지판이 생기면서 리버풀의 꿈은 창문을 옮기는 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-dream-transfer-window-barcola-37590046",
-  "fee": "£70M",
-  "published": "2026-08-26T05:00:00+00:00"
  }
 ]
