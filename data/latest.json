@@ -117,6 +117,19 @@
   "published": "2026-08-26T19:46:01+00:00"
  },
  {
+  "id": "592031f1c0dc",
+  "title": "'He's the one we wanted': Newcastle sign Gonzalez from Man City",
+  "player": "Nico Gonzalez",
+  "title_ko": "'그는 우리가 원했던 사람이다': 뉴캐슬이 맨시티에서 곤잘레스를 영입했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13577494/newcastle-transfer-news-nico-gonzalez-completes-50m-move-from-man-city",
+  "fee": null,
+  "published": "2026-08-26T19:35:00+00:00"
+ },
+ {
   "id": "c0eced90be47",
   "title": "Newcastle sign Gonzalez from Man City",
   "player": "Nico Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-aston-villa-soumet-une-premiere-offre-a-crystal-palace-pour-mateta_AV-202608250501.html",
   "fee": null,
   "published": "2026-08-25T13:05:18+00:00"
- },
- {
-  "id": "ef0724bdc23e",
-  "title": "Man Utd face major Alejandro Balde transfer issue as they search for Lewis Hall alternative",
-  "player": "Alejandro Balde",
-  "title_ko": "맨유는 루이스 홀 대안을 찾는 과정에서 주요 알레한드로 발데 이적 문제에 직면한다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-alejandro-balde-37590946",
-  "fee": null,
-  "published": "2026-08-25T12:56:59+00:00"
  }
 ]
