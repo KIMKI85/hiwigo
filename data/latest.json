@@ -1,5 +1,18 @@
 [
  {
+  "id": "619233e49dfa",
+  "title": "Wechsel zu Aston Villa: Hat Leon Goretzka die richtige Entscheidung getroffen?",
+  "player": "Hat Leon Goretzka",
+  "title_ko": "Aston Villa로 이동: Leon Goretzka는 올바른 결정을 내렸습니까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-zu-aston-villa-hat-leon-goretzka-die-richtige-entscheidung-getroffen-1247289/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T15:44:15+00:00"
+ },
+ {
   "id": "cb88a0b0d6fc",
   "title": "Leihe mit Kaufoption: Bayern gibt Zaragoza an Espanyol ab",
   "player": "Bryan Zaragoza",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/oosterwolde-undergoing-second-roma-medical/",
   "fee": null,
   "published": "2026-08-26T11:12:30+00:00"
- },
- {
-  "id": "1e6d4ad9466d",
-  "title": "\"Von seinem Potenzial überzeugt\": Bayerns Chavez per Leihe nach Magdeburg",
-  "player": "Bayerns Chavez",
-  "title_ko": "\"Von seinem Potenzial überzeugt\": 바이에른 차베스/레이헤 나흐 마그데부르크",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/von-seinem-potenzial-ueberzeugt-bayerns-chavez-per-leihe-nach-magdeburg-1246753/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-26T10:50:00+00:00"
  }
 ]
