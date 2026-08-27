@@ -52,6 +52,19 @@
   "published": "2026-08-27T16:18:47+00:00"
  },
  {
+  "id": "c96f41bd3f60",
+  "title": "Wechsel zu Aston Villa: Hat Goretzka die richtige Entscheidung getroffen?",
+  "player": "Hat Goretzka",
+  "title_ko": "애스턴 빌라로 이적: 고레츠카는 올바른 결정을 내렸는가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-zu-aston-villa-hat-goretzka-die-richtige-entscheidung-getroffen-1247289/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-27T15:44:15+00:00"
+ },
+ {
   "id": "619233e49dfa",
   "title": "Wechsel zu Aston Villa: Hat Leon Goretzka die richtige Entscheidung getroffen?",
   "player": "Hat Leon Goretzka",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/leao-returns-milan-training-still-up-for-sale/",
   "fee": null,
   "published": "2026-08-26T11:54:59+00:00"
- },
- {
-  "id": "be41ab52b60f",
-  "title": "Un transfert à 100 millions d'euros: Lille officialise la vente record de Bouaddi à Manchester City",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "Un transfert à 100 million d 'euros: Lille officialise la vente record de Bouaddi à Manchester City",
-  "league": "LIGUE1",
-  "status": "official",
-  "lv": 5,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/un-transfert-a-100-millions-d-euros-lille-officialise-la-vente-record-de-bouaddi-a-manchester-city_AV-202608260445.html",
-  "fee": null,
-  "published": "2026-08-26T11:53:27+00:00"
  }
 ]
