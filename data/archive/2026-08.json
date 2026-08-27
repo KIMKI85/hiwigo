@@ -1,5 +1,44 @@
 [
  {
+  "id": "753ef60bceee",
+  "title": "Man Utd players 'forced to sign waivers' after Sir Jim Ratcliffe agrees £10m deal",
+  "player": "Sir Jim Ratcliffe",
+  "title_ko": "맨유 선수들은 짐 랫클리프 경이 1000만 파운드(약 100억 원) 계약에 동의한 후 '면제 계약을 강요당했다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-amazon-documentary-ratcliffe-37598802",
+  "fee": "£10M",
+  "published": "2026-08-27T11:03:35+00:00"
+ },
+ {
+  "id": "7d5d673c1a79",
+  "title": "Roma expected to sell Robinio Vaz to Hull City in potential €32m deal",
+  "player": "Robinio Vaz",
+  "title_ko": "로마는 로비니오 바즈를 헐 시티에 €32m에 판매할 것으로 예상됩니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-expected-to-sell-robinio-vaz-to-hull-city/",
+  "fee": "€32M",
+  "published": "2026-08-27T11:01:18+00:00"
+ },
+ {
+  "id": "9ec152e36dd0",
+  "title": "El Atlético insiste: No se negociará el traspaso de Julián al Barça",
+  "player": "Julián al",
+  "title_ko": "아틀레티코는 주장: 훌리안의 바르사 이적은 협상되지 않을 것이다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/atletico/2026/08/27/atletico-insiste-negociara-traspaso-julian-barca.html",
+  "fee": null,
+  "published": "2026-08-27T10:57:11+00:00"
+ },
+ {
   "id": "b5c1154d6d57",
   "title": "Kevin De Bruyne gives backing to Arsenal transfer exit: \"We'll see what happens\"",
   "player": "Kevin De Bruyne",
