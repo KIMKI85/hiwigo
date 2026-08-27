@@ -1,5 +1,31 @@
 [
  {
+  "id": "f3c4723976f4",
+  "title": "OL: crise financière, mercato menacé, défi mental... quelles conséquences après l’élimination en barrage de Ligue des champions?",
+  "player": "Groupama Stadium",
+  "title_ko": "OL: 금융 위기, 이적 기회 위협, 정신적 도전... 챔피언스 리그 플레이오프 탈락 후 어떤 결과가 발생했나요?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-crise-financiere-mercato-menace-defi-mental-quelles-consequences-apres-l-elimination-en-barrage-de-ligue-des-champions_AV-202608270377.html",
+  "fee": null,
+  "published": "2026-08-27T10:04:58+00:00"
+ },
+ {
+  "id": "3e92d646a158",
+  "title": "Man Utd set to sanction double transfer as talks held over moves with clever clauses",
+  "player": null,
+  "title_ko": "맨유는 영리한 조항을 사용한 움직임에 대한 회담이 진행되면서 이중 이적을 제재할 예정이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-news-latest-37598588",
+  "fee": null,
+  "published": "2026-08-27T10:00:06+00:00"
+ },
+ {
   "id": "36a61aaec64a",
   "title": "Chelsea make huge profit on Delap as striker joins Forest",
   "player": "Liam Delap",
