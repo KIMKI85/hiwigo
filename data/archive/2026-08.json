@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f52dc6fe822",
+  "title": "Matteo Guendouzi continues to shine light on Mikel Arteta's shrewdest Arsenal transfer",
+  "player": "Matteo Guendouzi",
+  "title_ko": "마테오 귀엥두지는 미켈 아르테타의 가장 기민한 아스날 이적에 대해 계속 조명하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/matteo-guendouzi-arsenal-mikel-arteta-37601468",
+  "fee": null,
+  "published": "2026-08-27T18:53:26+00:00"
+ },
+ {
+  "id": "fb4db697bdcc",
+  "title": "Mercato: Enzo Fernandez tout proche de Manchester City",
+  "player": "Enzo Fernandez",
+  "title_ko": "Mercato: Enzo Fernandez는 맨체스터 시티와 매우 가깝습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-enzo-fernandez-tout-proche-de-manchester-city_AV-202608270771.html",
+  "fee": null,
+  "published": "2026-08-27T18:51:54+00:00"
+ },
+ {
   "id": "14a4661da070",
   "title": "Chelsea agree £7.5m fee for Villa's Martinez",
   "player": "Villa's Martinez",
@@ -11,6 +37,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
   "fee": "£7.5M",
   "published": "2026-08-27T18:28:09+00:00"
+ },
+ {
+  "id": "e6011659d326",
+  "title": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
+  "player": "Emiliano Martínez",
+  "title_ko": "첼시는 아스톤 빌라로부터 에밀리아노 마르티네스를 영입하기 위해 £7.5m 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
+  "fee": "£7.5M",
+  "published": "2026-08-27T18:19:59+00:00"
  },
  {
   "id": "c1b55a43bebd",

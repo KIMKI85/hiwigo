@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f52dc6fe822",
+  "title": "Matteo Guendouzi continues to shine light on Mikel Arteta's shrewdest Arsenal transfer",
+  "player": "Matteo Guendouzi",
+  "title_ko": "마테오 귀엥두지는 미켈 아르테타의 가장 기민한 아스날 이적에 대해 계속 조명하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/matteo-guendouzi-arsenal-mikel-arteta-37601468",
+  "fee": null,
+  "published": "2026-08-27T18:53:26+00:00"
+ },
+ {
+  "id": "fb4db697bdcc",
+  "title": "Mercato: Enzo Fernandez tout proche de Manchester City",
+  "player": "Enzo Fernandez",
+  "title_ko": "Mercato: Enzo Fernandez는 맨체스터 시티와 매우 가깝습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-enzo-fernandez-tout-proche-de-manchester-city_AV-202608270771.html",
+  "fee": null,
+  "published": "2026-08-27T18:51:54+00:00"
+ },
+ {
   "id": "14a4661da070",
   "title": "Chelsea agree £7.5m fee for Villa's Martinez",
   "player": "Villa's Martinez",
@@ -11,6 +37,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
   "fee": "£7.5M",
   "published": "2026-08-27T18:28:09+00:00"
+ },
+ {
+  "id": "e6011659d326",
+  "title": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
+  "player": "Emiliano Martínez",
+  "title_ko": "첼시는 아스톤 빌라로부터 에밀리아노 마르티네스를 영입하기 위해 £7.5m 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
+  "fee": "£7.5M",
+  "published": "2026-08-27T18:19:59+00:00"
  },
  {
   "id": "c1b55a43bebd",
@@ -1259,44 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/26/forest-in-talks-with-celta-vigo-over-javi-rueda-as-axel-disasi-joins-palace-on-loan",
   "fee": null,
   "published": "2026-08-26T13:05:18+00:00"
- },
- {
-  "id": "3e2fbe447be6",
-  "title": "Alan Shearer makes Julian Alvarez transfer prediction as Arsenal target nowhere to be seen",
-  "player": "Alan Shearer",
-  "title_ko": "앨런 시어러 (Alan Shearer) 는 줄리안 알바레즈 (Julian Alvarez) 의 이적 예측을 아스날의 목표로 삼아 어디에서도",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-atletico-37595482",
-  "fee": null,
-  "published": "2026-08-26T12:56:45+00:00"
- },
- {
-  "id": "232d8b17b1bb",
-  "title": "Report: Milan weighing up late move for Liverpool forward Elliott",
-  "player": "Harvey Elliott",
-  "title_ko": "보고서: 밀라노, 리버풀 포워드 엘리엇을 위해 늦은 움직임",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-milan-weighing-up-late-move-for-elliott/",
-  "fee": null,
-  "published": "2026-08-26T12:47:47+00:00"
- },
- {
-  "id": "338ec531f142",
-  "title": "Mercato: le beau message d'adieu de Bouaddi pour Lille après son transfert à Manchester City",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "Mercato: le beau message d 'adieu de Bouaddi pour Lille après son transfert à Manchester City",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-beau-message-d-adieu-de-bouaddi-pour-lille-apres-son-transfert-a-manchester-city_AV-202608260457.html",
-  "fee": null,
-  "published": "2026-08-26T12:21:42+00:00"
  }
 ]
