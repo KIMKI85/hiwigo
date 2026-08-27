@@ -1,5 +1,31 @@
 [
  {
+  "id": "870430ba2bfc",
+  "title": "Chelsea's dream end to transfer window as Alex Scott signs and £270million stars sold",
+  "player": "Alex Scott",
+  "title_ko": "Alex Scott이 서명하고 £ 270million 별이 판매됨에 따라 첼시의 꿈은 창문을 옮기는 것입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-dream-transfer-alex-scott-37596298",
+  "fee": "£270M",
+  "published": "2026-08-27T03:00:00+00:00"
+ },
+ {
+  "id": "3aa47c750c6b",
+  "title": "Arsenal news: Julian Alvarez swap deal talk emerges as Atletico release angry statement",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날 뉴스: 아틀레티코가 분노한 성명을 발표하면서 줄리안 알바레스 스왑 딜 논의가 등장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-julian-alvarez-atletico-transfer-37596617",
+  "fee": null,
+  "published": "2026-08-27T03:00:00+00:00"
+ },
+ {
   "id": "7c7a44c2e3a6",
   "title": "Chelsea thrash Real Sociedad to move to brink of WCL league phase",
   "player": "Melvine Malard",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/crystal-palace-target-roma-el-aynaoui/",
   "fee": null,
   "published": "2026-08-25T12:50:00+00:00"
- },
- {
-  "id": "0e2eb9279a9a",
-  "title": "Nkunku completes Leipzig medical as Milan exit nears",
-  "player": "Christopher Nkunku",
-  "title_ko": "은쿤쿠, 밀라노 출구가 가까워지면서 라이프치히 의료 완료",
-  "league": "BUND",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/nkunku-completes-leipzig-medical/",
-  "fee": null,
-  "published": "2026-08-25T12:35:00+00:00"
- },
- {
-  "id": "1672d9234c4f",
-  "title": "Beck nur der Anfang? Osnabrück bläst zur Transfer-Schlussoffensive",
-  "player": "Devise der Transferpolitik",
-  "title_ko": "벡 누르 데어 안팡? Osnabrück bläst zur Transfer-Schlussoffensive",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/beck-nur-der-anfang-osnabrueck-blaest-zur-transfer-schlussoffensive-1246636/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-25T12:29:43+00:00"
  }
 ]
