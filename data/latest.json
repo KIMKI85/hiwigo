@@ -13,6 +13,19 @@
   "published": "2026-08-27T15:00:00+00:00"
  },
  {
+  "id": "4607d97a1676",
+  "title": "Report Chelsea agreement for Ahanor, Atalanta sale at €48m including bonus",
+  "player": "Honest Ahanor",
+  "title_ko": "아하노르, 아탈란타 매각에 대한 첼시 계약을 보너스 포함 €48m에 보고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-chelsea-ahanor-atalanta-e48m-inc-bonus/",
+  "fee": "€48M",
+  "published": "2026-08-27T14:51:39+00:00"
+ },
+ {
   "id": "ca896379361e",
   "title": "Lille: \"Il ne s’entraîne pas avec le groupe jusqu’à la fin du mercato\", Davide Ancelotti écarte Fernandez-Pardo avant le match contre le PSG",
   "player": "Davide Ancelotti",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-enzo-fernandez-chelsea-37594615",
   "fee": "£100M",
   "published": "2026-08-26T10:31:13+00:00"
- },
- {
-  "id": "0c8f13b5cbbe",
-  "title": "Man City complete £85.6m Bouaddi signing from Lille",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "맨시티, 릴에서 £ 85.6M 부아디 영입 완료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
-  "fee": "£85.6M",
-  "published": "2026-08-26T10:30:52+00:00"
  }
 ]
