@@ -13,6 +13,32 @@
   "published": "2026-08-27T10:00:00+00:00"
  },
  {
+  "id": "ea6e204f05b6",
+  "title": "‘I can’t wait’: Liam Delap seals £45m Nottingham Forest move from Chelsea",
+  "player": "Liam Delap",
+  "title_ko": "'기다려요': 리암 델랍, 첼시에서 노팅엄 포레스트로 £45m 이적",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/27/liam-delap-signs-nottingham-forest-chelsea-transfer-latest",
+  "fee": "£45M",
+  "published": "2026-08-27T09:47:45+00:00"
+ },
+ {
+  "id": "423102cb3df5",
+  "title": "Milan issue transfer ultimatum to unwanted trio of Gimenez, Fofana and Tomori",
+  "player": "Santiago Gimenez",
+  "title_ko": "밀란은 원치 않는 히메네스, 포파나, 토모리 3인조에게 최후 통첩을 이적했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-transfer-ultimatum-gimenez-fofana-tomori/",
+  "fee": null,
+  "published": "2026-08-27T09:44:49+00:00"
+ },
+ {
   "id": "4bc6d1b9a503",
   "title": "Kojic greift in Wattenscheid an: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-je-vais-devoir-commencer-a-pratiquer-le-francais-orlando-gill-un-mauvais-souvenir-pour-l-equipe-de-france-proche-de-signer-a-lille_AV-202608250756.html",
   "fee": null,
   "published": "2026-08-25T18:25:27+00:00"
- },
- {
-  "id": "0c987c41d37a",
-  "title": "Liverpool hold positive Barcola talks with optimism over deal with PSG",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG와의 거래에 대해 긍정적인 바르콜라 대화를 낙관적으로 진행합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13567087/bradley-barcola-transfer-news-liverpool-hold-positive-talks-with-optimism-deal-can-be-done-with-psg-for-france-international",
-  "fee": null,
-  "published": "2026-08-25T18:20:00+00:00"
- },
- {
-  "id": "e383e390a063",
-  "title": "Official: Nkunku joins Leipzig on loan with option to buy",
-  "player": "Christopher Nkunku",
-  "title_ko": "공식: 은쿤쿠는 구매 옵션과 함께 임대로 라이프치히에 합류했습니다.",
-  "league": "BUND",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-nkunku-joins-leipzig-loan-option/",
-  "fee": null,
-  "published": "2026-08-25T18:10:00+00:00"
  }
 ]
