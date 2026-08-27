@@ -13,6 +13,32 @@
   "published": "2026-08-27T13:00:00+00:00"
  },
  {
+  "id": "627bae52b602",
+  "title": "Mercato: un beau chèque pour l'OL en cas de transfert de Barcola à Liverpool",
+  "player": "Bradley Barcola",
+  "title_ko": "Mercato: Barcola에서 리버풀로 이적하는 경우 OL에 대한 좋은 확인입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-beau-cheque-pour-l-ol-en-cas-de-transfert-de-barcola-a-liverpool_AV-202608270482.html",
+  "fee": null,
+  "published": "2026-08-27T12:56:47+00:00"
+ },
+ {
+  "id": "ab14e9587723",
+  "title": "Andoni Iraola breaks silence on Bradley Barcola transfer after Liverpool agree £120m move",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라(Andoni Iraola)는 리버풀이 £120m 이적에 동의한 후 브래들리 바르콜라 이적에 대해 침묵을 지켰다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-iraola-37599853",
+  "fee": "£120M",
+  "published": "2026-08-27T12:45:12+00:00"
+ },
+ {
   "id": "a6702777dde8",
   "title": "Atletico Madrid issue extraordinary Julian Alvarez statement to clear path for Arsenal transfer",
   "player": "Julian Alvarez",

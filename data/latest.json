@@ -13,6 +13,32 @@
   "published": "2026-08-27T13:00:00+00:00"
  },
  {
+  "id": "627bae52b602",
+  "title": "Mercato: un beau chèque pour l'OL en cas de transfert de Barcola à Liverpool",
+  "player": "Bradley Barcola",
+  "title_ko": "Mercato: Barcola에서 리버풀로 이적하는 경우 OL에 대한 좋은 확인입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-beau-cheque-pour-l-ol-en-cas-de-transfert-de-barcola-a-liverpool_AV-202608270482.html",
+  "fee": null,
+  "published": "2026-08-27T12:56:47+00:00"
+ },
+ {
+  "id": "ab14e9587723",
+  "title": "Andoni Iraola breaks silence on Bradley Barcola transfer after Liverpool agree £120m move",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라(Andoni Iraola)는 리버풀이 £120m 이적에 동의한 후 브래들리 바르콜라 이적에 대해 침묵을 지켰다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-iraola-37599853",
+  "fee": "£120M",
+  "published": "2026-08-27T12:45:12+00:00"
+ },
+ {
   "id": "a6702777dde8",
   "title": "Atletico Madrid issue extraordinary Julian Alvarez statement to clear path for Arsenal transfer",
   "player": "Julian Alvarez",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/erinnerungen-an-1983-deswegen-wollte-moffis-vater-den-hsv-wechsel-1246800/video#omrss",
   "fee": null,
   "published": "2026-08-26T06:22:56+00:00"
- },
- {
-  "id": "0f2d7b925b6f",
-  "title": "Tottenham's £85m Savio transfer puts pressure on overspending Spurs and Roberto De Zerbi",
-  "player": "Roberto De Zerbi",
-  "title_ko": "Tottenham의 £ 85M Savio 이적은 과도한 지출을 하는 Spurs와 Roberto De Zerbi에게 압력을 가합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-savio-roberto-de-zerbi-37591499",
-  "fee": "£85M",
-  "published": "2026-08-26T06:00:00+00:00"
- },
- {
-  "id": "70c723be50c8",
-  "title": "\"Ce n’est pas parce que le Real a fait n’importe quoi avec Diomandé que Liverpool doit le faire avec Barcola\", Diaz regrette l’explosion des tarifs lors du mercato",
-  "player": "Bradley Barcola",
-  "title_ko": "\"Ce n 'est pas parce que le Real a fait n' importe quoi avec Diomandé que Liverpool doit le faire avec Barcola\", Diaz regrette l 'explosion des tarifs lors du mercato",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/ce-n-est-pas-parce-que-le-real-a-fait-n-importe-quoi-avec-diomande-que-liverpool-doit-le-faire-avec-barcola-diaz-regrette-l-explosion-des-tarifs-lors-du-mercato_AV-202608260142.html",
-  "fee": null,
-  "published": "2026-08-26T05:58:16+00:00"
  }
 ]
