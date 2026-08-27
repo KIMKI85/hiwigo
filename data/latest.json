@@ -1,5 +1,18 @@
 [
  {
+  "id": "75cc22b1d086",
+  "title": "Rangers agree deal for Venezuela striker Kelsy - gossip",
+  "player": null,
+  "title_ko": "레인저스는 베네수엘라의 스트라이커 켈시와의 계약에 합의했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-27T06:46:03+00:00"
+ },
+ {
   "id": "9005c346bf76",
   "title": "Liverpool edge closer to blockbuster Bradley Barcola deal as PSG finally make compromise",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-milan-linked-with-man-city-grealish/",
   "fee": null,
   "published": "2026-08-25T13:10:00+00:00"
- },
- {
-  "id": "036625286ff3",
-  "title": "Mercato: Aston Villa soumet une première offre à Crystal Palace pour Mateta",
-  "player": "Philippe Mateta",
-  "title_ko": "Mercato: Aston Villa soumet une première off à Crystal Palace pour Mateta",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-aston-villa-soumet-une-premiere-offre-a-crystal-palace-pour-mateta_AV-202608250501.html",
-  "fee": null,
-  "published": "2026-08-25T13:05:18+00:00"
  }
 ]
