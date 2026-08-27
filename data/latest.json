@@ -1,5 +1,18 @@
 [
  {
+  "id": "7bad03b143ec",
+  "title": "Arsenal push for Julian Alvarez transfer as Atletico Madrid hand star brutal ultimatum",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코 마드리드 손 스타 잔혹한 최후 통첩으로 줄리안 알바레스 이적을 추진하는 아스날",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-atletico-barcelona-37601071",
+  "fee": null,
+  "published": "2026-08-27T16:26:06+00:00"
+ },
+ {
   "id": "754d1a65647b",
   "title": "Done Deals: Torino finally secure Perri from Leeds United, sell Pedersen to Olympiacos",
   "player": "Lucas Perri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
   "fee": null,
   "published": "2026-08-26T11:45:00+00:00"
- },
- {
-  "id": "cc2df640a128",
-  "title": "Mercato: toujours désiré par le Barça, Julian Alvarez ne s'est pas entraîné avec l'Atlético de Madrid",
-  "player": "Julian Alvarez",
-  "title_ko": "Mercato: toujours désiré par le Barça, Julian Alvarez ne s 'est pas entraîné avec l' Atlético de Madrid",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-toujours-desire-par-le-barca-julian-alvarez-ne-s-est-pas-entraine-avec-l-atletico-de-madrid_AV-202608260436.html",
-  "fee": null,
-  "published": "2026-08-26T11:33:26+00:00"
  }
 ]
