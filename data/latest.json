@@ -1,5 +1,31 @@
 [
  {
+  "id": "55da94879d13",
+  "title": "Arsenal terminate Reiss Nelson's contract as Mikel Arteta waits for three more exits",
+  "player": "Reiss Nelson's",
+  "title_ko": "아스날은 미켈 아르테타가 세 번의 출구를 더 기다리면서 리스 넬슨의 계약을 종료했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-reiss-nelson-arteta-37601498",
+  "fee": null,
+  "published": "2026-08-27T19:55:04+00:00"
+ },
+ {
+  "id": "9ce82d10051f",
+  "title": "Oosterwolde sent back to Fenerbahce after failed Roma medical",
+  "player": "Jayden Oosterwolde",
+  "title_ko": "우스터볼데는 로마 의료 실패 후 페네르바체로 돌려보냈다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/oosterwolde-fenerbahce-failed-roma-medical/",
+  "fee": null,
+  "published": "2026-08-27T19:50:14+00:00"
+ },
+ {
   "id": "f021237b949d",
   "title": "Report Roma request Kehrer loan from Monaco, so Ziolkowski can join Monza",
   "player": "Thilo Kehrer",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577385/emiliano-martinez-transfer-news-chelsea-considering-late-move-for-aston-villa-and-argentina-goalkeeper",
   "fee": null,
   "published": "2026-08-26T13:57:00+00:00"
- },
- {
-  "id": "0ab0f4d40c03",
-  "title": "Liverpool make Ismaila Sarr bid after abandoning £70m Yankuba Minteh transfer",
-  "player": "Ismaila Sarr",
-  "title_ko": "리버풀은 £ 70M Yankuba Minteh 이체를 포기한 후 Ismaila Sarr를 입찰합니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-yankuba-minteh-37595784",
-  "fee": "£70M",
-  "published": "2026-08-26T13:47:53+00:00"
- },
- {
-  "id": "457413fbdeb6",
-  "title": "Will a Premier League club break record for transfer sales in one window?",
-  "player": null,
-  "title_ko": "프리미어 리그 클럽이 한 창에서 이적 판매 기록을 세우게 되나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-26T13:45:56+00:00"
  }
 ]
