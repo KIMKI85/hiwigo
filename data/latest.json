@@ -1,5 +1,31 @@
 [
  {
+  "id": "fdb6ea13df8d",
+  "title": "Kim joins Rangers in £8.5m deal",
+  "player": "Minsu Kim",
+  "title_ko": "김, 레인저스에 850만 파운드에 합류",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13576566/rangers-transfer-news-minsu-kim-joins-from-girona160as-ibrox-clubs-12th-summer-signing",
+  "fee": "£8.5M",
+  "published": "2026-08-27T13:00:00+00:00"
+ },
+ {
+  "id": "d037a55d7a64",
+  "title": "Fiorentina hope to beat Juventus to Zirkzee with official bid for Manchester United",
+  "player": null,
+  "title_ko": "피오렌티나는 맨체스터 유나이티드에 대한 공식 입찰을 통해 유벤투스를 지르크지에게 이기고 싶어합니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-hope-to-beat-juventus-zirkzee-bid/",
+  "fee": null,
+  "published": "2026-08-27T11:58:40+00:00"
+ },
+ {
   "id": "829f2d62cbfe",
   "title": "Kean back in training as Fiorentina and Como work on bonuses of €40m transfer",
   "player": "Moise Kean",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-dream-transfer-window-barcola-37590046",
   "fee": "£70M",
   "published": "2026-08-26T05:00:00+00:00"
- },
- {
-  "id": "94c05ee36a1d",
-  "title": "Man Utd's dream end to transfer window with Lewis Hall U-turn and £40m deal struck",
-  "player": "Lewis Hall U-turn",
-  "title_ko": "맨체스터 유나이티드가 루이스 홀 유턴과 £ 40M 딜 타격으로 창문을 옮기는 꿈의 결말",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-hall-zirkzee-37589383",
-  "fee": "£40M",
-  "published": "2026-08-26T04:30:00+00:00"
- },
- {
-  "id": "e79e15828e2b",
-  "title": "La semana de fichajes que marcará todo",
-  "player": "En Copa",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/primera-division/opinion/2026/08/26/semana-fichajes-marcara.html",
-  "fee": null,
-  "published": "2026-08-26T04:25:54+00:00"
  }
 ]
