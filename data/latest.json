@@ -13,6 +13,32 @@
   "published": "2026-08-27T15:00:00+00:00"
  },
  {
+  "id": "2108f20ba0d5",
+  "title": "Juventus meeting with Kessie agents, two-year contract proposed",
+  "player": "Joshua Zirkzee",
+  "title_ko": "유벤투스와 케시 에이전트의 만남, 2년 계약 제안",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-meeting-kessie-agents-2-year-contract/",
+  "fee": null,
+  "published": "2026-08-27T14:29:37+00:00"
+ },
+ {
+  "id": "359927058c86",
+  "title": "\"Je me sais attendu\", Wahi déterminé pour son nouveau prêt à Nice",
+  "player": "Elye Wahi",
+  "title_ko": "\"예상했던 일이라는 걸 알아요\", Wahi는 니스로의 새로운 임대를 결심했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-je-me-sais-attendu-wahi-determine-pour-son-nouveau-pret-a-nice_VN-202608270533.html",
+  "fee": null,
+  "published": "2026-08-27T14:13:45+00:00"
+ },
+ {
   "id": "01748d16dfc9",
   "title": "Real Madrid monitoring Roma’s Kone but transfer only likely on one condition",
   "player": "Manu Kone",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/kean-not-training-fiorentina-after-como-bid/",
   "fee": "€40M",
   "published": "2026-08-26T10:12:13+00:00"
- },
- {
-  "id": "b4b1391ec652",
-  "title": "Arsenal set to announce striker transfer as target sends farewell message",
-  "player": null,
-  "title_ko": "타깃이 작별 메시지를 보내자 아스널은 스트라이커 이적을 발표할 예정이다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-igor-tyjon-blackburn-37594127",
-  "fee": null,
-  "published": "2026-08-26T09:53:03+00:00"
- },
- {
-  "id": "a63bf5af0f53",
-  "title": "Official: Como sign ex-Manchester United defender Kambwala from Villarreal",
-  "player": "Willy Kambwala",
-  "title_ko": "공식: Como sign ex-Manchester United defender Kambwala from Villarreal",
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-como-sign-ex-united-defender-kambwala/",
-  "fee": null,
-  "published": "2026-08-26T09:27:26+00:00"
  }
 ]
