@@ -16,11 +16,17 @@ from pathlib import Path
 
 import feedparser
 
+import time as _time
+
+# 번역 엔진 이중화: 구글이 막히면 MyMemory로 폴백 (둘 다 무료)
+_engines = []
 try:
-    from deep_translator import GoogleTranslator
-    _translator = GoogleTranslator(source="auto", target="ko")
+    from deep_translator import GoogleTranslator, MyMemoryTranslator
+    _engines.append(("google", lambda t: GoogleTranslator(source="auto", target="ko").translate(t)))
+    # MyMemory는 소스 언어를 명시해야 함 → 영어 기준(대부분의 피드가 영어), 실패 시 그냥 스킵
+    _engines.append(("mymemory", lambda t: MyMemoryTranslator(source="en-GB", target="ko-KR").translate(t)))
 except Exception:
-    _translator = None  # 라이브러리 없거나 실패해도 수집은 계속
+    pass
 
 # 일부 매체는 기본 봇 UA를 차단하므로 브라우저 UA로 요청
 AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -224,25 +230,35 @@ def reliability(tier: int, status: str) -> int:
     return max(1, min(5, base + bonus))
 
 
-def translate_ko(title: str):
-    """제목 한글 번역. 실패하면 None (원문 표시)."""
-    if _translator is None:
+_BAD = ["error 500", "server error", "that's an error", "there was an error",
+        "try again later", "that\u2019s all we know", "429", "too many requests",
+        "service unavailable", "bad gateway", "mymemory warning", "quota"]
+
+def _clean(ko, title):
+    ko = (ko or "").strip()
+    if not ko or ko == title.strip():
         return None
-    try:
-        ko = _translator.translate(title)
-        ko = (ko or "").strip()
-        if not ko or ko == title.strip():
-            return None
-        # 번역 서버가 에러 메시지를 본문처럼 반환하는 경우 차단
-        low = ko.lower()
-        bad = ["error 500", "server error", "that's an error", "there was an error",
-               "try again later", "that\u2019s all we know", "429", "too many requests",
-               "service unavailable", "bad gateway"]
-        if any(b in low for b in bad):
-            return None
-        return ko
-    except Exception:
-        pass
+    if any(b in ko.lower() for b in _BAD):
+        return None
+    return ko
+
+def translate_ko(title: str):
+    """제목 한글 번역. 여러 엔진을 순차 시도하고, 일시 차단 시 재시도. 모두 실패하면 None."""
+    if not _engines or not title:
+        return None
+    for name, fn in _engines:
+        for attempt in range(2):  # 엔진별 최대 2회 (429 대비)
+            try:
+                ko = _clean(fn(title), title)
+                if ko:
+                    return ko
+                break  # 깨끗이 실패(빈 값 등)면 다음 엔진으로
+            except Exception as e:
+                msg = str(e).lower()
+                if ("429" in msg or "too many" in msg) and attempt == 0:
+                    _time.sleep(2)  # 잠깐 쉬고 재시도
+                    continue
+                break  # 그 외 오류는 다음 엔진으로
     return None
 
 
