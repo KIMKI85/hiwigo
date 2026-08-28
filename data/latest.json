@@ -65,6 +65,19 @@
   "published": "2026-08-28T07:22:26+00:00"
  },
  {
+  "id": "518b510d0612",
+  "title": "Donkor zurück bei RWO, Neuzugänge in Rhynern und Fulda: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "Donkor zurück bei RWO, Neuzugänge in Rhynern und Fulda: Die aktuellen 지역알리가에서 전송",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/donkor-zurueck-bei-rwo-neuzugaenge-in-rhynern-und-fulda-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T06:57:52+00:00"
+ },
+ {
   "id": "e8790da21958",
   "title": "Neuzugänge in Rhynern und Fulda: Die aktuellen Transfers in der Regionalliga",
   "player": "Die Personalplanungen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/26/kevin-kelsy-rangers-portland-timbers-transfer",
   "fee": null,
   "published": "2026-08-26T18:00:40+00:00"
- },
- {
-  "id": "459380db2b89",
-  "title": "Chelsea closing in on €40m deal for Atalanta starlet Ahanor",
-  "player": "Honest Ahanor",
-  "title_ko": "Atalanta starlet Ahanor의 € 40M 거래를 성사시키는 첼시",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/chelsea-closing-deal-atalanta-starlet-ahanor/",
-  "fee": "€40M",
-  "published": "2026-08-26T17:50:00+00:00"
  }
 ]
