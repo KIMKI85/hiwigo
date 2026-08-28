@@ -1,5 +1,18 @@
 [
  {
+  "id": "eb921fde6bb2",
+  "title": "Mercato: un ancien flop de l’OM dans le viseur de Manchester City et Arsenal",
+  "player": "Olympique de",
+  "title_ko": "Mercato: 맨체스터 시티와 아스날의 눈에 띈 전 OM 실패작",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-ancien-flop-de-l-om-dans-le-viseur-de-manchester-city-et-arsenal_AV-202608280327.html",
+  "fee": null,
+  "published": "2026-08-28T08:51:53+00:00"
+ },
+ {
   "id": "76daa3ba7970",
   "title": "Transfer latest, Premier League news, European draws, and more: football – live",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live",
   "fee": null,
   "published": "2026-08-28T08:30:56+00:00"
+ },
+ {
+  "id": "3ffae40f5557",
+  "title": "Football transfer rumours: Rafael Leão to Aston Villa? Harvey Elliott to Napoli or Lazio?",
+  "player": "Rafael Leão",
+  "title_ko": "축구 이적 루머: 라파엘 레오가 애스턴 빌라로? 하비 엘리엇이 나폴리로 갈 것인가, 아니면 라치오로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio",
+  "fee": null,
+  "published": "2026-08-28T08:27:02+00:00"
  },
  {
   "id": "63bcd858a06a",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/chelsea-closing-deal-atalanta-starlet-ahanor/",
   "fee": "€40M",
   "published": "2026-08-26T17:50:00+00:00"
- },
- {
-  "id": "f3d33f0038eb",
-  "title": "Raskin could be on way out as Rangers close in on Kim deal",
-  "player": "Nicolas Raskin",
-  "title_ko": "Raskin은 레인저스가 Kim 거래에 가까워지면서 나갈 수 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cqjkrg54wwko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-26T17:16:28+00:00"
- },
- {
-  "id": "867efabfa643",
-  "title": "Arsenal suffer huge Julian Alvarez setback as Barcelona REFUSE to give up on transfer",
-  "player": "Julian Alvarez",
-  "title_ko": "바르셀로나가 이적 포기하기를 거부하면서 아스날은 엄청난 줄리안 알바레스의 좌절을 겪는다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-transfer-barcelona-37597069",
-  "fee": null,
-  "published": "2026-08-26T17:09:09+00:00"
  }
 ]
