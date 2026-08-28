@@ -1,5 +1,18 @@
 [
  {
+  "id": "1d7edeee1615",
+  "title": "Julian Alvarez actions open door for Arsenal transfer - but huge obstacle remains",
+  "player": "Julian Alvarez",
+  "title_ko": "줄리안 알바레즈 (Julian Alvarez) 는 무기고 이송을 위해 문을 열어 놓았지만 커다란 장애물이 남아 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-julian-alvarez-atletico-37604028",
+  "fee": null,
+  "published": "2026-08-28T13:24:27+00:00"
+ },
+ {
   "id": "37181b1b290e",
   "title": "Man Utd agree terms to sign Swedish winger Jusu Bah",
   "player": "Jusu Bah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/chelsea-women-vs-real-sociedad-women/report/577445",
   "fee": null,
   "published": "2026-08-26T21:44:00+00:00"
- },
- {
-  "id": "13162e9544b0",
-  "title": "Mercato: Lille s'offre le gardien Orlando Gill, héros du Paraguay à la Coupe du monde 2026",
-  "player": "Orlando Gill",
-  "title_ko": "Mercato: Lille s 'offre le gardien Orlando Gill, héros du Paraguay à la Coupe du monde 2026",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/losc-lille/transferts/mercato-lille-s-offre-le-gardien-orlando-gill-heros-du-paraguay-a-la-coupe-du-monde-2026_AV-202608260819.html",
-  "fee": null,
-  "published": "2026-08-26T20:21:01+00:00"
  }
 ]
