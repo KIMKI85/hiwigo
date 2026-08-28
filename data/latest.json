@@ -13,6 +13,32 @@
   "published": "2026-08-28T17:38:00+00:00"
  },
  {
+  "id": "30391926f93a",
+  "title": "Official: Miretti to Besiktas on loan with option to buy from Juventus, total €15.1m deal",
+  "player": "Fabio Miretti",
+  "title_ko": "공식: Miretti to Besiktas on loan with option to buy from Juventus, total € 15.1m deal",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-miretti-besiktas-option-buy-juventus/",
+  "fee": "€15.1M",
+  "published": "2026-08-28T16:59:15+00:00"
+ },
+ {
+  "id": "b7c11689c979",
+  "title": "Leihe mit Kaufpflicht: Benkara verstärkt Fürths Defensive",
+  "player": "Fürths Defensive",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-mit-kaufpflicht-benkara-verstaerkt-fuerths-defensive-1247610/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T16:47:00+00:00"
+ },
+ {
   "id": "2ccdde205356",
   "title": "OM : \"Inquiétant et dramatique\" Rothen affolé par l'absence de recrue",
   "player": "Grégory Lorenzi",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/kojic-greift-in-wattenscheid-an-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T09:24:00+00:00"
- },
- {
-  "id": "57d4ad0e3c3f",
-  "title": "10 Premier League deals that could be completed before transfer deadline",
-  "player": null,
-  "title_ko": "이적 마감일 전에 완료할 수 있는 프리미어리그 거래 10가지",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-transfers-liverpool-arsenal-37598199",
-  "fee": null,
-  "published": "2026-08-27T09:16:40+00:00"
- },
- {
-  "id": "a90163a59a24",
-  "title": "Official: Lazio sign Pinamonti in permanent transfer from Sassuolo",
-  "player": "Andrea Pinamonti",
-  "title_ko": "공식: 라치오가 사수올로에서 피나몬티를 영구 이적시켰습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-lazio-sign-pinamonti-from-sassuolo/",
-  "fee": null,
-  "published": "2026-08-27T09:13:43+00:00"
  }
 ]
