@@ -1,5 +1,18 @@
 [
  {
+  "id": "704630a0bc3a",
+  "title": "Man Utd state of play on Lewis Hall and Marcus Rashford as forward closes on transfer exit",
+  "player": "Lewis Hall",
+  "title_ko": "이적 출구에서 포워드가 닫힐 때 루이스 홀과 마커스 래쉬포드의 맨유 플레이 상태",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-hall-rashford-zirkzee-37602625",
+  "fee": null,
+  "published": "2026-08-28T10:02:05+00:00"
+ },
+ {
   "id": "d90237e5baae",
   "title": "Paixao, Olise, Hamdani... Les 5 infos mercato du 28 août à la mi-journée",
   "player": "Igor Paixao",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
   "fee": "£40M",
   "published": "2026-08-26T19:17:17+00:00"
- },
- {
-  "id": "9be29b5258c0",
-  "title": "El Valencia hace oficial el fichaje de Arnau Martínez hasta 2031",
-  "player": "Arnau Martínez",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/08/26/valencia-oficial-fichaje-arnau-martinez-2031.html",
-  "fee": null,
-  "published": "2026-08-26T19:04:34+00:00"
  }
 ]
