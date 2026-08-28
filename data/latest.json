@@ -1,5 +1,18 @@
 [
  {
+  "id": "37181b1b290e",
+  "title": "Man Utd agree terms to sign Swedish winger Jusu Bah",
+  "player": "Jusu Bah",
+  "title_ko": "맨유는 스웨덴 윙어 주수 바 (Jusu Bah) 와 계약하는 데 동의한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-28T13:06:40+00:00"
+ },
+ {
   "id": "471c33c9eda8",
   "title": "OM : Garder Paixao, aucune recrue… Lorenzi répond à l'actu mercato",
   "player": "Garder Paixao",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/losc-lille/transferts/mercato-lille-s-offre-le-gardien-orlando-gill-heros-du-paraguay-a-la-coupe-du-monde-2026_AV-202608260819.html",
   "fee": null,
   "published": "2026-08-26T20:21:01+00:00"
- },
- {
-  "id": "c086ae47f61a",
-  "title": "Atletico Madrid 'explode' at Julian Alvarez as Arsenal and Barcelona eye transfer",
-  "player": "Julian Alvarez",
-  "title_ko": "아틀레티코 마드리드가 줄리안 알바레스에서 아스날과 바르셀로나 안구 이송으로 '폭발'",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/atletico-julian-alvarez-arsenal-transfer-37597313",
-  "fee": null,
-  "published": "2026-08-26T20:09:44+00:00"
  }
 ]
