@@ -1,5 +1,18 @@
 [
  {
+  "id": "76daa3ba7970",
+  "title": "Transfer latest, Premier League news, European draws, and more: football – live",
+  "player": null,
+  "title_ko": "최신 이적, 프리미어리그 뉴스, 유럽 대진표 등: 축구 – 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live",
+  "fee": null,
+  "published": "2026-08-28T08:30:56+00:00"
+ },
+ {
   "id": "63bcd858a06a",
   "title": "Schnelles Wiedersehen? Hoffenheims Geiger vor Wechsel nach Nijmegen",
   "player": "Schnelles Wiedersehen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-transfer-barcelona-37597069",
   "fee": null,
   "published": "2026-08-26T17:09:09+00:00"
- },
- {
-  "id": "45f44571dbbd",
-  "title": "Chelsea ready last-ditch Alex Scott bid with Enzo Fernandez closer to £120m exit",
-  "player": "Alex Scott",
-  "title_ko": "첼시 레디 라스트 도치 알렉스 스콧 (Chelsea Ready Last-Ditch Alex Scott) 이 엔조 페르난데스 (Enzo Fernandez) 와 함께 1억 2천만 £",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-alex-scott-enzo-fernandez-37596959",
-  "fee": "£120M",
-  "published": "2026-08-26T16:50:27+00:00"
  }
 ]
