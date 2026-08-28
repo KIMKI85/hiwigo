@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e74d2e09bab",
+  "title": "Nicolas Jackson nears £65m Aston Villa move as Emery clears air with departing Watkins",
+  "player": "Nicolas Jackson",
+  "title_ko": "니콜라스 잭슨 (Nicolas Jackson) 은 에머리 (Emery) 가 출발하는 왓킨스 (Watkins) 와 함께 공기를 맑게하면서 £ 65M 애스턴 빌라 (Aston Villa) 의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
+  "fee": "£65M",
+  "published": "2026-08-28T13:50:40+00:00"
+ },
+ {
   "id": "8925fcb8d4bc",
   "title": "OM: \"Peut-être aucune recrue cet été\", le discours inquiétant de Lorenzi sur le mercato marseillais",
   "player": "Olympique de",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-galatasaray-proche-d-un-accord-avec-l-ac-milan-pour-rafael-leao_LN-202608270053.html",
   "fee": null,
   "published": "2026-08-27T04:14:43+00:00"
- },
- {
-  "id": "870430ba2bfc",
-  "title": "Chelsea's dream end to transfer window as Alex Scott signs and £270million stars sold",
-  "player": "Alex Scott",
-  "title_ko": "Alex Scott이 서명하고 £ 270million 별이 판매됨에 따라 첼시의 꿈은 창문을 옮기는 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-dream-transfer-alex-scott-37596298",
-  "fee": "£270M",
-  "published": "2026-08-27T03:00:00+00:00"
  }
 ]
