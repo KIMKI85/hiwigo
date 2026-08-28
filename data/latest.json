@@ -1,5 +1,18 @@
 [
  {
+  "id": "471c33c9eda8",
+  "title": "OM : Garder Paixao, aucune recrue… Lorenzi répond à l'actu mercato",
+  "player": "Garder Paixao",
+  "title_ko": "OM: 파이샤오 유지, 영입 없음… 로렌지, 이적시장 소식에 반응",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-garder-paixao-aucune-recrue-lorenzi-repond-a-l-actu-mercato_VN-202608280488.html",
+  "fee": null,
+  "published": "2026-08-28T12:48:59+00:00"
+ },
+ {
   "id": "8a8692bc82e8",
   "title": "OM : \"Certains joueurs sont prêt à faire des sacrifices\", assure Richard",
   "player": "Stéphane Richard",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/atletico-julian-alvarez-arsenal-transfer-37597313",
   "fee": null,
   "published": "2026-08-26T20:09:44+00:00"
- },
- {
-  "id": "0ddf1771391f",
-  "title": "Esposito agrees Sassuolo move as Pinamonti heads to Lazio",
-  "player": "Sebastiano Esposito",
-  "title_ko": "에스포지토는 피나몬티가 라치오로 향함에 따라 사수올로의 이동에 동의한다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/esposito-agrees-sassuolo-move/",
-  "fee": null,
-  "published": "2026-08-26T20:00:00+00:00"
  }
 ]
