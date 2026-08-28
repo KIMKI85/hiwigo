@@ -1,5 +1,31 @@
 [
  {
+  "id": "3caf564b5347",
+  "title": "Leihe ohne Kaufoption: Böving verstärkt den FCN",
+  "player": "Ende der Transferphase",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-ohne-kaufoption-boeving-verstaerkt-den-fcn-1247441/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T16:16:39+00:00"
+ },
+ {
+  "id": "c8768360fdea",
+  "title": "Mercato: Aston Villa en pole position pour accueillir le Parisien Ibrahim Mbaye",
+  "player": "Parisien Ibrahim Mbaye",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/mercato-aston-villa-en-pole-position-pour-accueillir-le-parisien-ibrahim-mbaye_AV-202608280642.html",
+  "fee": null,
+  "published": "2026-08-28T16:15:11+00:00"
+ },
+ {
   "id": "513f0c670e2c",
   "title": "Mercato: Balerdi serait tombé d'accord avec l'AS Roma",
   "player": "Olympique de",
@@ -11,6 +37,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-balerdi-serait-tombe-d-accord-avec-l-as-roma_AV-202608280640.html",
   "fee": null,
   "published": "2026-08-28T16:14:27+00:00"
+ },
+ {
+  "id": "fbf3ec9f7319",
+  "title": "Arsenal could move for Marcus Rashford as Man Utd transfer raised with £50m deal to be confirmed",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 이적이 £ 50M 계약으로 제기됨에 따라 아스날은 Marcus Rashford로 이적할 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-man-utd-transfer-news-37604753",
+  "fee": "£50M",
+  "published": "2026-08-28T16:14:02+00:00"
  },
  {
   "id": "16c952c6b000",
@@ -1259,44 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
   "fee": "£120M",
   "published": "2026-08-27T08:55:00+00:00"
- },
- {
-  "id": "0e310deba58b",
-  "title": "Barcola, Alvarez, Fofana... Les 5 infos mercato du 27 août à la mi-journée",
-  "player": "Alvaro Morata",
-  "title_ko": "바르콜라, 알바레즈, 포파나... 8월 27일 정오부터 5번의 이적 창구 정보",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-barcola-alvarez-fofana-les-5-infos-mercato-du-27-aout-a-la-mi-journee_VN-202608270322.html",
-  "fee": null,
-  "published": "2026-08-27T08:51:53+00:00"
- },
- {
-  "id": "38bda681eef1",
-  "title": "Liverpool agree £120m fee for Bradley Barcola after breakthrough talks with PSG",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG와 획기적인 협상을 벌인 후 브래들리 바르콜라의 이적료 £120m에 합의했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/liverpool-bradley-barcola-psg-transfer-window",
-  "fee": "£120M",
-  "published": "2026-08-27T08:26:17+00:00"
- },
- {
-  "id": "68b0a4ddbe26",
-  "title": "Milan and Como discussing final details of transfer for Italy international Ricci",
-  "player": "Samuele Ricci",
-  "title_ko": "밀란과 코모는 이탈리아 국가대표 리치의 이적에 대한 최종 세부 사항을 논의하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-como-discussing-final-ricci-details/",
-  "fee": null,
-  "published": "2026-08-27T08:19:10+00:00"
  }
 ]
