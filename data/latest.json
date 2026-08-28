@@ -1,5 +1,18 @@
 [
  {
+  "id": "bc6e4bd86b7f",
+  "title": "Villa reach verbal agreement to sign PSG's Mbaye",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "빌라가 PSG의 음바예에 서명하기 위한 구두 합의에 도달했습니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578178/ibrahim-mbaye-transfer-news-aston-villa-reach-verbal-agreement-to-sign-psg-and-senegal-forward",
+  "fee": null,
+  "published": "2026-08-28T17:38:00+00:00"
+ },
+ {
   "id": "2ccdde205356",
   "title": "OM : \"Inquiétant et dramatique\" Rothen affolé par l'absence de recrue",
   "player": "Grégory Lorenzi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-lazio-sign-pinamonti-from-sassuolo/",
   "fee": null,
   "published": "2026-08-27T09:13:43+00:00"
- },
- {
-  "id": "bc36466556b1",
-  "title": "\"Viel Erfahrung auf internationalem Niveau\": Augsburg verpflichtet Seol",
-  "player": "Viel Erfahrung",
-  "title_ko": "“국제적 수준에서 많은 경험”: 아우크스부르크, 설기현 영입",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/viel-erfahrung-auf-internationalem-niveau-augsburg-verpflichtet-seol-1247132/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-27T09:04:52+00:00"
  }
 ]
