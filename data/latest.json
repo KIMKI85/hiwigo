@@ -1,5 +1,18 @@
 [
  {
+  "id": "e8790da21958",
+  "title": "Neuzugänge in Rhynern und Fulda: Die aktuellen Transfers in der Regionalliga",
+  "player": "Die Personalplanungen",
+  "title_ko": "Neuzugänge in Rhynern und Fulda: Die aktuellen 이적 in der Regionalliga",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neuzugaenge-in-rhynern-und-fulda-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T06:57:52+00:00"
+ },
+ {
   "id": "1241ed23e1c2",
   "title": "Xabi Alonso gives reason for Enzo Fernandez snub as Man City prepare Chelsea bid",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-26T16:23:04+00:00"
- },
- {
-  "id": "f2496525b871",
-  "title": "Sunderland explore late move for Grealish",
-  "player": "Jack Grealish",
-  "title_ko": "선덜랜드 탐방 - 그리얼리시로 떠나는 늦은 여행",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-move-for-manchester-city-winger-with-former-loan-side-everton-still-interested",
-  "fee": null,
-  "published": "2026-08-26T16:18:00+00:00"
  }
 ]
