@@ -1,5 +1,31 @@
 [
  {
+  "id": "2ccdde205356",
+  "title": "OM : \"Inquiétant et dramatique\" Rothen affolé par l'absence de recrue",
+  "player": "Grégory Lorenzi",
+  "title_ko": "OM: \"Inquiétant et dramatique\" Rothen affolé par l 'absence de recrue",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-inquietant-et-dramatique-rothen-affole-par-l-absence-de-recrue_VN-202608280668.html",
+  "fee": null,
+  "published": "2026-08-28T16:34:33+00:00"
+ },
+ {
+  "id": "a808c4a89492",
+  "title": "Report Solet targeted by Crystal Palace with €25m bid after Ordonez problem",
+  "player": "Oumar Solet",
+  "title_ko": "Ordonez 문제 후 € 25M 입찰로 Crystal Palace가 타겟팅한 Solet 보고",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-solet-targeted-crystal-palace-ordonez/",
+  "fee": "€25M",
+  "published": "2026-08-28T16:32:16+00:00"
+ },
+ {
   "id": "3caf564b5347",
   "title": "Leihe ohne Kaufoption: Böving verstärkt den FCN",
   "player": "Ende der Transferphase",

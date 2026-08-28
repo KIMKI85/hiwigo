@@ -1,5 +1,31 @@
 [
  {
+  "id": "2ccdde205356",
+  "title": "OM : \"Inquiétant et dramatique\" Rothen affolé par l'absence de recrue",
+  "player": "Grégory Lorenzi",
+  "title_ko": "OM: \"Inquiétant et dramatique\" Rothen affolé par l 'absence de recrue",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-inquietant-et-dramatique-rothen-affole-par-l-absence-de-recrue_VN-202608280668.html",
+  "fee": null,
+  "published": "2026-08-28T16:34:33+00:00"
+ },
+ {
+  "id": "a808c4a89492",
+  "title": "Report Solet targeted by Crystal Palace with €25m bid after Ordonez problem",
+  "player": "Oumar Solet",
+  "title_ko": "Ordonez 문제 후 € 25M 입찰로 Crystal Palace가 타겟팅한 Solet 보고",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-solet-targeted-crystal-palace-ordonez/",
+  "fee": "€25M",
+  "published": "2026-08-28T16:32:16+00:00"
+ },
+ {
   "id": "3caf564b5347",
   "title": "Leihe ohne Kaufoption: Böving verstärkt den FCN",
   "player": "Ende der Transferphase",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/viel-erfahrung-auf-internationalem-niveau-augsburg-verpflichtet-seol-1247132/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T09:04:52+00:00"
- },
- {
-  "id": "2fc6654a9081",
-  "title": "Mercato: le PSG et Liverpool proches d'un accord pour le transfert de Barcola",
-  "player": "Bradley Barcola",
-  "title_ko": "메르카토: PSG와 리버풀은 바르콜라 이적에 대한 합의에 가까워졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-et-liverpool-proches-d-un-accord-pour-le-transfert-de-barcola_AV-202608270326.html",
-  "fee": null,
-  "published": "2026-08-27T08:58:24+00:00"
- },
- {
-  "id": "a1c00a74d91a",
-  "title": "Liverpool agree £120m deal in principle for Barcola",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 바르콜라의 £120m 거래에 원칙적으로 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
-  "fee": "£120M",
-  "published": "2026-08-27T08:55:00+00:00"
  }
 ]
