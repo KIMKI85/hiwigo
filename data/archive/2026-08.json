@@ -1,5 +1,31 @@
 [
  {
+  "id": "513f0c670e2c",
+  "title": "Mercato: Balerdi serait tombé d'accord avec l'AS Roma",
+  "player": "Olympique de",
+  "title_ko": "메르카토: 발레르디는 AS 로마와 합의했을 것이다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-balerdi-serait-tombe-d-accord-avec-l-as-roma_AV-202608280640.html",
+  "fee": null,
+  "published": "2026-08-28T16:14:27+00:00"
+ },
+ {
+  "id": "16c952c6b000",
+  "title": "Zweitklassig, aber Madrid: Morata wechselt nach Leganes",
+  "player": "Alvaro Morata",
+  "title_ko": "2급이지만 마드리드: 모라타가 레가네스로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/zweitklassig-aber-madrid-morata-wechselt-nach-leganes-1247602/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T16:10:36+00:00"
+ },
+ {
   "id": "598d3c86b5c5",
   "title": "Offiziell: Hoffenheims Geiger wechselt nach Nijmegen",
   "player": "Hoffenheims Geiger",

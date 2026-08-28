@@ -1,5 +1,31 @@
 [
  {
+  "id": "513f0c670e2c",
+  "title": "Mercato: Balerdi serait tombé d'accord avec l'AS Roma",
+  "player": "Olympique de",
+  "title_ko": "메르카토: 발레르디는 AS 로마와 합의했을 것이다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-balerdi-serait-tombe-d-accord-avec-l-as-roma_AV-202608280640.html",
+  "fee": null,
+  "published": "2026-08-28T16:14:27+00:00"
+ },
+ {
+  "id": "16c952c6b000",
+  "title": "Zweitklassig, aber Madrid: Morata wechselt nach Leganes",
+  "player": "Alvaro Morata",
+  "title_ko": "2급이지만 마드리드: 모라타가 레가네스로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/zweitklassig-aber-madrid-morata-wechselt-nach-leganes-1247602/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-28T16:10:36+00:00"
+ },
+ {
   "id": "598d3c86b5c5",
   "title": "Offiziell: Hoffenheims Geiger wechselt nach Nijmegen",
   "player": "Hoffenheims Geiger",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/milan-como-discussing-final-ricci-details/",
   "fee": null,
   "published": "2026-08-27T08:19:10+00:00"
- },
- {
-  "id": "704f2baee895",
-  "title": "Liverpool close in on signing PSG forward Barcola",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 PSG 포워드 바르콜라 영입에 가까워졌다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T08:10:13+00:00"
- },
- {
-  "id": "f60eb9448563",
-  "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
-  "player": "Joel Ordóñez",
-  "title_ko": "축구 이적 루머: Palace가 Aston Villa를 납치하여 Joel Ordóñez를 영입할 예정인가요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez",
-  "fee": null,
-  "published": "2026-08-27T07:43:15+00:00"
  }
 ]
