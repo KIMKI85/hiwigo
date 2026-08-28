@@ -1,5 +1,18 @@
 [
  {
+  "id": "d622844ff6ac",
+  "title": "Lazio eyeing potential deal for out-of-favour Juventus winger Zhegrova",
+  "player": "Edon Zhegrova",
+  "title_ko": "라치오는 유벤투스의 윙어 제그로바에 대한 잠재적인 계약을 주시하고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-juventus-zhegrova-replace-cancellieri/",
+  "fee": null,
+  "published": "2026-08-28T10:07:38+00:00"
+ },
+ {
   "id": "704630a0bc3a",
   "title": "Man Utd state of play on Lewis Hall and Marcus Rashford as forward closes on transfer exit",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577494/x",
   "fee": null,
   "published": "2026-08-26T19:35:00+00:00"
- },
- {
-  "id": "d9d005edd568",
-  "title": "West Ham accept £40m Brentford bid for Diouf",
-  "player": "El Hadji Malick",
-  "title_ko": "West Ham은 Diouf에 대한 £ 40M Brentford 입찰을 수락합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
-  "fee": "£40M",
-  "published": "2026-08-26T19:17:17+00:00"
  }
 ]
