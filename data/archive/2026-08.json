@@ -13,6 +13,45 @@
   "published": "2026-08-28T17:38:00+00:00"
  },
  {
+  "id": "c6d028da2715",
+  "title": "Mercato: Morata prêté par Côme en D2 espagnole",
+  "player": "Alvaro Morata",
+  "title_ko": "Mercato: 스페인어 D2에서 Como가 Morata를 임대함",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-morata-prete-par-come-en-d2-espagnole_AV-202608280716.html",
+  "fee": null,
+  "published": "2026-08-28T17:28:27+00:00"
+ },
+ {
+  "id": "bef17e4876ad",
+  "title": "Done Deal: Bologna secure Enem in €6.5m agreement",
+  "player": "Crvena Zvezda",
+  "title_ko": "완료된 거래: 볼로냐는 650만 유로 계약으로 Enem을 확보했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-bologna-secure-enem-e6-5m-agreement/",
+  "fee": "€6.5M",
+  "published": "2026-08-28T17:20:59+00:00"
+ },
+ {
+  "id": "74b167227a30",
+  "title": "Mercato: Malick Fofana chez un promu anglais plutôt qu'à l'AS Roma?",
+  "player": "Malick Fofana",
+  "title_ko": "Mercato: AS Roma가 아닌 영어로 승격된 Malick Fofana?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-malick-fofana-chez-un-promu-anglais-plutot-qu-a-l-as-roma_AV-202608280709.html",
+  "fee": null,
+  "published": "2026-08-28T17:16:52+00:00"
+ },
+ {
   "id": "2d0ce36d728d",
   "title": "Liverpool handed third Harvey Elliott transfer bid as player faces major choice",
   "player": "Harvey Elliott",

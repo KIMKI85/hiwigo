@@ -13,6 +13,45 @@
   "published": "2026-08-28T17:38:00+00:00"
  },
  {
+  "id": "c6d028da2715",
+  "title": "Mercato: Morata prêté par Côme en D2 espagnole",
+  "player": "Alvaro Morata",
+  "title_ko": "Mercato: 스페인어 D2에서 Como가 Morata를 임대함",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-morata-prete-par-come-en-d2-espagnole_AV-202608280716.html",
+  "fee": null,
+  "published": "2026-08-28T17:28:27+00:00"
+ },
+ {
+  "id": "bef17e4876ad",
+  "title": "Done Deal: Bologna secure Enem in €6.5m agreement",
+  "player": "Crvena Zvezda",
+  "title_ko": "완료된 거래: 볼로냐는 650만 유로 계약으로 Enem을 확보했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-bologna-secure-enem-e6-5m-agreement/",
+  "fee": "€6.5M",
+  "published": "2026-08-28T17:20:59+00:00"
+ },
+ {
+  "id": "74b167227a30",
+  "title": "Mercato: Malick Fofana chez un promu anglais plutôt qu'à l'AS Roma?",
+  "player": "Malick Fofana",
+  "title_ko": "Mercato: AS Roma가 아닌 영어로 승격된 Malick Fofana?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-malick-fofana-chez-un-promu-anglais-plutot-qu-a-l-as-roma_AV-202608280709.html",
+  "fee": null,
+  "published": "2026-08-28T17:16:52+00:00"
+ },
+ {
   "id": "2d0ce36d728d",
   "title": "Liverpool handed third Harvey Elliott transfer bid as player faces major choice",
   "player": "Harvey Elliott",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-news-latest-37598588",
   "fee": null,
   "published": "2026-08-27T10:00:06+00:00"
- },
- {
-  "id": "36a61aaec64a",
-  "title": "Chelsea make huge profit on Delap as striker joins Forest",
-  "player": "Liam Delap",
-  "title_ko": "첼시는 스트라이커가 포레스트에 합류하면서 델랍에서 엄청난 이익을 얻었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577306/liam-delap-joins-nottingham-forest-in-club-record-50m-deal-as-chelsea-make-profit-on-striker",
-  "fee": null,
-  "published": "2026-08-27T10:00:00+00:00"
- },
- {
-  "id": "ea6e204f05b6",
-  "title": "‘I can’t wait’: Liam Delap seals £45m Nottingham Forest move from Chelsea",
-  "player": "Liam Delap",
-  "title_ko": "'기다려요': 리암 델랍, 첼시에서 노팅엄 포레스트로 £45m 이적",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/liam-delap-signs-nottingham-forest-chelsea-transfer-latest",
-  "fee": "£45M",
-  "published": "2026-08-27T09:47:45+00:00"
- },
- {
-  "id": "423102cb3df5",
-  "title": "Milan issue transfer ultimatum to unwanted trio of Gimenez, Fofana and Tomori",
-  "player": "Santiago Gimenez",
-  "title_ko": "밀란은 원치 않는 히메네스, 포파나, 토모리 3인조에게 최후 통첩을 이적했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-transfer-ultimatum-gimenez-fofana-tomori/",
-  "fee": null,
-  "published": "2026-08-27T09:44:49+00:00"
  }
 ]
