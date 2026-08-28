@@ -13,6 +13,19 @@
   "published": "2026-08-28T17:38:00+00:00"
  },
  {
+  "id": "2d0ce36d728d",
+  "title": "Liverpool handed third Harvey Elliott transfer bid as player faces major choice",
+  "player": "Harvey Elliott",
+  "title_ko": "리버풀은 선수가 주요 선택에 직면함에 따라 세 번째 하비 엘리엇 이적 제안을 제출했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-harvey-elliott-transfer-valencia-37605177",
+  "fee": null,
+  "published": "2026-08-28T17:07:27+00:00"
+ },
+ {
   "id": "30391926f93a",
   "title": "Official: Miretti to Besiktas on loan with option to buy from Juventus, total €15.1m deal",
   "player": "Fabio Miretti",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-transfer-ultimatum-gimenez-fofana-tomori/",
   "fee": null,
   "published": "2026-08-27T09:44:49+00:00"
- },
- {
-  "id": "4bc6d1b9a503",
-  "title": "Kojic greift in Wattenscheid an: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "Wattenscheid의 Kojic 공격 : 현재 지역 리그의 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/kojic-greift-in-wattenscheid-an-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-27T09:24:00+00:00"
  }
 ]
