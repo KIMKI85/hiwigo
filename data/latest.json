@@ -1,5 +1,18 @@
 [
  {
+  "id": "77316a99385d",
+  "title": "Man Utd agree midfielder transfer as Red Devils receive cash boost before deadline",
+  "player": "Red Devils",
+  "title_ko": "맨유는 레드 데블스가 마감일 전에 현금 지원을 받자 미드필더 이적에 동의했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-carrick-collyer-37604741",
+  "fee": null,
+  "published": "2026-08-28T15:35:50+00:00"
+ },
+ {
   "id": "aab8d69b38b1",
   "title": "De Zerbi wants one more signing for Tottenham before transfer deadline",
   "player": "De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/millionensumme-fuer-bayern-mike-wechselt-nach-bruegge-1246714/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T07:39:38+00:00"
- },
- {
-  "id": "91f847ac0abb",
-  "title": "Offerte aus Saudi-Arabien: Hofmann erwägt Wechsel zu Al-Shabab",
-  "player": "Jonas Hofmann",
-  "title_ko": "사우디아라비아의 제안: 호프만은 알샤바로 전환을 고려하고 있다",
-  "league": "BUND",
-  "status": "nego",
-  "lv": 4,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/offerte-aus-saudi-arabien-hofmann-erwaegt-wechsel-zu-al-shabab-1247060/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-27T07:29:23+00:00"
  }
 ]
