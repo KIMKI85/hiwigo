@@ -1,5 +1,18 @@
 [
  {
+  "id": "6588d442dd8e",
+  "title": "Man City 'ready to rival Arsenal' in transfer race for Atletico Madrid star Julian Alvarez",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코 마드리드 스타 줄리안 알바레스의 이적 레이스에서 맨시티가 '아스널과 맞붙을 준비'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-man-city-37605592",
+  "fee": null,
+  "published": "2026-08-28T20:08:04+00:00"
+ },
+ {
   "id": "f6e0ab88dc1e",
   "title": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
   "player": "Julian Alvarez",
@@ -258,6 +271,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-carrick-collyer-37604741",
   "fee": null,
   "published": "2026-08-28T15:35:50+00:00"
+ },
+ {
+  "id": "d0bede58eadf",
+  "title": "'Bomba!' De Zerbi delighted as Spurs transfers create 'great squad'",
+  "player": "De Zerbi",
+  "title_ko": "'봄바!' 드 제르비는 스퍼스 이적이 '위대한 스쿼드' 를 만들면서 기뻐했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578157/tottenham-roberto-de-zerbi-delighted-with-spurs-transfer-business-after-dramatic-premier-league-survival-last-season",
+  "fee": null,
+  "published": "2026-08-28T15:14:00+00:00"
  },
  {
   "id": "aab8d69b38b1",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-amazon-documentary-ratcliffe-37598802",
   "fee": "£10M",
   "published": "2026-08-27T11:03:35+00:00"
- },
- {
-  "id": "7d5d673c1a79",
-  "title": "Roma expected to sell Robinio Vaz to Hull City in potential €32m deal",
-  "player": "Robinio Vaz",
-  "title_ko": "로마는 로비니오 바즈를 헐 시티에 €32m에 판매할 것으로 예상됩니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-expected-to-sell-robinio-vaz-to-hull-city/",
-  "fee": "€32M",
-  "published": "2026-08-27T11:01:18+00:00"
- },
- {
-  "id": "9ec152e36dd0",
-  "title": "El Atlético insiste: No se negociará el traspaso de Julián al Barça",
-  "player": "Julián al",
-  "title_ko": "아틀레티코는 주장: 훌리안의 바르사 이적은 협상되지 않을 것이다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/atletico/2026/08/27/atletico-insiste-negociara-traspaso-julian-barca.html",
-  "fee": null,
-  "published": "2026-08-27T10:57:11+00:00"
  }
 ]

@@ -1,5 +1,18 @@
 [
  {
+  "id": "6588d442dd8e",
+  "title": "Man City 'ready to rival Arsenal' in transfer race for Atletico Madrid star Julian Alvarez",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코 마드리드 스타 줄리안 알바레스의 이적 레이스에서 맨시티가 '아스널과 맞붙을 준비'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-man-city-37605592",
+  "fee": null,
+  "published": "2026-08-28T20:08:04+00:00"
+ },
+ {
   "id": "f6e0ab88dc1e",
   "title": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
   "player": "Julian Alvarez",
@@ -258,6 +271,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-carrick-collyer-37604741",
   "fee": null,
   "published": "2026-08-28T15:35:50+00:00"
+ },
+ {
+  "id": "d0bede58eadf",
+  "title": "'Bomba!' De Zerbi delighted as Spurs transfers create 'great squad'",
+  "player": "De Zerbi",
+  "title_ko": "'봄바!' 드 제르비는 스퍼스 이적이 '위대한 스쿼드' 를 만들면서 기뻐했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578157/tottenham-roberto-de-zerbi-delighted-with-spurs-transfer-business-after-dramatic-premier-league-survival-last-season",
+  "fee": null,
+  "published": "2026-08-28T15:14:00+00:00"
  },
  {
   "id": "aab8d69b38b1",
