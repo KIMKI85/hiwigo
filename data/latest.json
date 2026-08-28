@@ -1,5 +1,18 @@
 [
  {
+  "id": "8925fcb8d4bc",
+  "title": "OM: \"Peut-être aucune recrue cet été\", le discours inquiétant de Lorenzi sur le mercato marseillais",
+  "player": "Olympique de",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-peut-etre-aucune-recrue-cet-ete-le-discours-inquietant-de-lorenzi-sur-le-mercato-marseillais_AV-202608280519.html",
+  "fee": null,
+  "published": "2026-08-28T13:31:41+00:00"
+ },
+ {
   "id": "1d7edeee1615",
   "title": "Julian Alvarez actions open door for Arsenal transfer - but huge obstacle remains",
   "player": "Julian Alvarez",
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-julian-alvarez-atletico-37604028",
   "fee": null,
   "published": "2026-08-28T13:24:27+00:00"
+ },
+ {
+  "id": "e1ebb3bedcc8",
+  "title": "AS Monaco : \"C'est important d'avoir un transfert de plus\", affirme Thiago Scuro",
+  "player": "Thiago Scuro",
+  "title_ko": "AS 모나코: \"C 'est important d' avoir un transfert de plus\", affirme Thiago Scuro",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-as-monaco-c-ets-important-d-avoi-run-transfert-de-plus-affirme-thiago-scuro_VN-202608280518.html",
+  "fee": null,
+  "published": "2026-08-28T13:22:58+00:00"
  },
  {
   "id": "37181b1b290e",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/chelsea-dream-transfer-alex-scott-37596298",
   "fee": "£270M",
   "published": "2026-08-27T03:00:00+00:00"
- },
- {
-  "id": "3aa47c750c6b",
-  "title": "Arsenal news: Julian Alvarez swap deal talk emerges as Atletico release angry statement",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 뉴스: 아틀레티코가 분노한 성명을 발표하면서 줄리안 알바레스 스왑 딜 논의가 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-julian-alvarez-atletico-transfer-37596617",
-  "fee": null,
-  "published": "2026-08-27T03:00:00+00:00"
- },
- {
-  "id": "7c7a44c2e3a6",
-  "title": "Chelsea thrash Real Sociedad to move to brink of WCL league phase",
-  "player": "Melvine Malard",
-  "title_ko": "첼시 스래시 레알 소시에다드, WCL 리그 국면 돌파",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/chelsea-women-vs-real-sociedad-women/report/577445",
-  "fee": null,
-  "published": "2026-08-26T21:44:00+00:00"
  }
 ]
