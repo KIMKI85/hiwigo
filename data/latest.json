@@ -1,5 +1,18 @@
 [
  {
+  "id": "bbc3ea44b959",
+  "title": "Man Utd news: New striker target named as club 'close in' on forward signing",
+  "player": null,
+  "title_ko": "맨유 뉴스: 클럽의 새로운 스트라이커 타깃이 전진 영입에 '접근'하고 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-joshua-zirkzee-37601154",
+  "fee": null,
+  "published": "2026-08-28T03:30:00+00:00"
+ },
+ {
   "id": "c66da224d14f",
   "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gr0xdlk8zo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-26T15:32:07+00:00"
- },
- {
-  "id": "42b19639dac2",
-  "title": "Chelsea in talks with Emiliano Martínez’s camp and braced for Enzo Fernández bid",
-  "player": "Emiliano Martínez",
-  "title_ko": "첼시는 에밀리아노 마르티네스 캠프와 대화를 나누고 엔초 페르난데스의 입찰에 대비하고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
-  "fee": null,
-  "published": "2026-08-26T15:18:10+00:00"
  }
 ]
