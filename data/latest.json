@@ -1,5 +1,18 @@
 [
  {
+  "id": "f6e0ab88dc1e",
+  "title": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코는 알바레즈의 체류 또는 아스날 이주 결정 기한을 정했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578318/julian-alvarez-transfer-news-atletico-madrid-set-deadline-for-striker-to-decide-whether-he-stays-or-joins-arsenal",
+  "fee": null,
+  "published": "2026-08-28T20:07:00+00:00"
+ },
+ {
   "id": "85decad3596e",
   "title": "OM: \"Inquiétant et dramatique\", Les déclarations des patrons de l'OM sur le mercato ne rassurent pas",
   "player": "Jérôme Rothen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/atletico/2026/08/27/atletico-insiste-negociara-traspaso-julian-barca.html",
   "fee": null,
   "published": "2026-08-27T10:57:11+00:00"
- },
- {
-  "id": "b5c1154d6d57",
-  "title": "Kevin De Bruyne gives backing to Arsenal transfer exit: \"We'll see what happens\"",
-  "player": "Kevin De Bruyne",
-  "title_ko": "케빈 데 브라이너는 아스날 이적을 지지합니다: \"무슨 일이 일어나는지 지켜보겠습니다\"",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-jesus-de-bruyne-37598731",
-  "fee": null,
-  "published": "2026-08-27T10:28:05+00:00"
  }
 ]
