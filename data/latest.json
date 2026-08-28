@@ -1,5 +1,44 @@
 [
  {
+  "id": "8f078880c998",
+  "title": "Mercato: Alvarez a encore zappé l'entraînement, mais Simeone ne lui en veut pas",
+  "player": "Julian Alvarez",
+  "title_ko": "메르카토: 알바레스는 또 훈련을 빼먹었지만 시메오네는 그를 비난하지 않았다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-alvarez-a-encore-zappe-l-entrainement-mais-simeone-ne-lui-en-veut-pas_AV-202608280563.html",
+  "fee": null,
+  "published": "2026-08-28T14:38:01+00:00"
+ },
+ {
+  "id": "983e289f3d11",
+  "title": "Chelsea set Enzo Fernandez price tag with one factor blocking Man City deal",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 맨시티 계약을 막는 한 가지 요인으로 엔조 페르난데스의 가격표를 정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-city-enzo-fernandez-transfer-37604426",
+  "fee": null,
+  "published": "2026-08-28T14:37:45+00:00"
+ },
+ {
+  "id": "57f5b6cedbf2",
+  "title": "Arsenal transfer state of play as Julian Alvarez meeting held and three departures loom",
+  "player": "Julian Alvarez",
+  "title_ko": "줄리안 알바레스 (Julian Alvarez) 회의가 개최되고 세 번의 출발이 베틀링됨에 따라 아스날 이적 상태",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-alvarez-martinelli-jesus-vieira-37603721",
+  "fee": null,
+  "published": "2026-08-28T14:30:00+00:00"
+ },
+ {
   "id": "8e74d2e09bab",
   "title": "Nicolas Jackson nears £65m Aston Villa move as Emery clears air with departing Watkins",
   "player": "Nicolas Jackson",
@@ -1259,44 +1298,5 @@
   "url": "https://www.kicker.de/er-muss-spielen-bei-moores-leihe-zum-1-fc-koeln-kommt-bewegung-rein-1247050/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T07:12:06+00:00"
- },
- {
-  "id": "75cc22b1d086",
-  "title": "Rangers agree deal for Venezuela striker Kelsy - gossip",
-  "player": null,
-  "title_ko": "레인저스는 베네수엘라의 스트라이커 켈시와의 계약에 합의했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T06:46:03+00:00"
- },
- {
-  "id": "9005c346bf76",
-  "title": "Liverpool edge closer to blockbuster Bradley Barcola deal as PSG finally make compromise",
-  "player": "Bradley Barcola",
-  "title_ko": "PSG가 마침내 타협하면서 리버풀은 블록버스터 브래들리 바르콜라 계약에 가까워졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-bradley-barcola-psg-37597785",
-  "fee": null,
-  "published": "2026-08-27T06:22:55+00:00"
- },
- {
-  "id": "9d2e1e75acf3",
-  "title": "DIRECT. Mercato: Galatasaray proche d'un accord avec l'AC Milan pour Rafael Leao",
-  "player": "Rafael Leao",
-  "title_ko": "직접. 메르카토: 갈라타사라이는 라파엘 레오에 대한 AC 밀란과의 계약에 가까워졌습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-galatasaray-proche-d-un-accord-avec-l-ac-milan-pour-rafael-leao_LN-202608270053.html",
-  "fee": null,
-  "published": "2026-08-27T04:14:43+00:00"
  }
 ]
