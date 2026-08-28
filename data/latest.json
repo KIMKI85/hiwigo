@@ -1,5 +1,18 @@
 [
  {
+  "id": "447df92a590e",
+  "title": "Nottingham Forest increase bid for Fiorentina full-back Dodo",
+  "player": null,
+  "title_ko": "노팅엄 포레스트는 피오렌티나의 풀백 도도에 대한 입찰을 증가시켰습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/nottingham-forest-increase-dodo-bid/",
+  "fee": null,
+  "published": "2026-08-28T11:13:02+00:00"
+ },
+ {
   "id": "4d6a4b5488fe",
   "title": "Chelsea transfer saga could force huge Arsenal decision in £298million domino effect",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
   "fee": "£65M",
   "published": "2026-08-26T19:46:01+00:00"
- },
- {
-  "id": "592031f1c0dc",
-  "title": "'He's the one we wanted': Newcastle sign Gonzalez from Man City",
-  "player": "Nico Gonzalez",
-  "title_ko": "'그는 우리가 원했던 사람이다': 뉴캐슬이 맨시티에서 곤잘레스를 영입했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577494/newcastle-transfer-news-nico-gonzalez-completes-50m-move-from-man-city",
-  "fee": null,
-  "published": "2026-08-26T19:35:00+00:00"
  }
 ]
