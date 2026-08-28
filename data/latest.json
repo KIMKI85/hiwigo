@@ -1,5 +1,44 @@
 [
  {
+  "id": "273f54bb2072",
+  "title": "Venezia secure Barcelona talent Toni Fernandez in Nico Paz style deal",
+  "player": "Toni Fernandez",
+  "title_ko": "베니스는 니코 파즈 스타일 계약으로 바르셀로나의 재능 있는 토니 페르난데스를 확보했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/venezia-secure-barcelona-talent-toni-fernandez/",
+  "fee": null,
+  "published": "2026-08-28T21:56:32+00:00"
+ },
+ {
+  "id": "34a68127002c",
+  "title": "Steven Gerrard names the one signing Liverpool must make before deadline day",
+  "player": "Steven Gerrard",
+  "title_ko": "스티븐 제라드 (Steven Gerrard) 는 마감일 전에 리버풀과 계약해야 하는",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-steven-gerrard-barcola-37605781",
+  "fee": null,
+  "published": "2026-08-28T21:47:46+00:00"
+ },
+ {
+  "id": "7c73f4e13ac2",
+  "title": "Tottenham reject Danso loan move to Sunderland",
+  "player": "Kevin Danso",
+  "title_ko": "토트넘 거절 단소 임대 선덜랜드로 이주",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp3knknq5neo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-28T21:41:55+00:00"
+ },
+ {
   "id": "a89ce35bd953",
   "title": "DIRECT. Lille-PSG: les Dogues délivrés par leur recrue, Paris dos au mur",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-losc-fernandez-pardo-ne-s-entraine-pas-avec-le-groupe-jusqu-a-la-fin-du-mercato-c-est-sa-situation-annonce-davide-ancelotti_VN-202608270437.html",
   "fee": null,
   "published": "2026-08-27T11:44:13+00:00"
- },
- {
-  "id": "084a2f16d525",
-  "title": "Video: Miretti sets off to join Besiktas in potential €15m deal from Juventus",
-  "player": "Fabio Miretti",
-  "title_ko": "영상: 미레티는 유벤투스로부터 1,500만 유로의 이적료로 베식타스에 합류하기 위해 출발합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/miretti-sets-off-besiktas-15m-juventus-deal/",
-  "fee": "€15M",
-  "published": "2026-08-27T11:25:13+00:00"
- },
- {
-  "id": "86c6c17aeb8f",
-  "title": "Maresca admits Manchester City want more leaders as he targets Fernández",
-  "player": "Indicates Grealish",
-  "title_ko": "마레스카는 맨체스터 시티가 페르난데스를 노리면서 더 많은 리더를 원한다고 인정했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/enzo-maresca-manchester-city-more-captains-enzo-fernandez-chelsea",
-  "fee": null,
-  "published": "2026-08-27T11:22:42+00:00"
- },
- {
-  "id": "0b1fd83d77eb",
-  "title": "\"Thema endgültig erledigt\": Bremen schiebt Stage-Wechsel einen Riegel vor",
-  "player": "Bremens Sportchef Clemens",
-  "title_ko": "“문제는 마침내 해결되었습니다”: 브레멘은 단계적 변화를 중단했습니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/thema-endgueltig-erledigt-bremen-schiebt-stage-wechsel-einen-riegel-vor-1247191/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-27T11:18:57+00:00"
  }
 ]
