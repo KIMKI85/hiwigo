@@ -13,6 +13,19 @@
   "published": "2026-08-28T17:38:00+00:00"
  },
  {
+  "id": "94ba4fb64c7e",
+  "title": "Done Deal: Theate return to Bologna on loan with €15m option to buy",
+  "player": "Arthur Theate",
+  "title_ko": "거래 완료: 테아테는 €15m 구매 옵션과 함께 볼로냐로 임대 복귀했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-theate-return-to-bologna-loan-e15m/",
+  "fee": "€15M",
+  "published": "2026-08-28T17:35:18+00:00"
+ },
+ {
   "id": "c6d028da2715",
   "title": "Mercato: Morata prêté par Côme en D2 espagnole",
   "player": "Alvaro Morata",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-crise-financiere-mercato-menace-defi-mental-quelles-consequences-apres-l-elimination-en-barrage-de-ligue-des-champions_AV-202608270377.html",
   "fee": null,
   "published": "2026-08-27T10:04:58+00:00"
- },
- {
-  "id": "3e92d646a158",
-  "title": "Man Utd set to sanction double transfer as talks held over moves with clever clauses",
-  "player": null,
-  "title_ko": "맨유는 영리한 조항을 사용한 움직임에 대한 회담이 진행되면서 이중 이적을 제재할 예정이다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-news-latest-37598588",
-  "fee": null,
-  "published": "2026-08-27T10:00:06+00:00"
  }
 ]
