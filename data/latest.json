@@ -1,5 +1,18 @@
 [
  {
+  "id": "2d2c40b78fac",
+  "title": "Mercato: Alvarez tout proche d'Arsenal... mais City entre dans la danse",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Alvarez tout proche d 'Arsenal... mais City entre dans la danse",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-alvarez-tout-proche-d-arsenal-mais-city-entre-dans-la-danse_AV-202608280751.html",
+  "fee": null,
+  "published": "2026-08-28T18:13:42+00:00"
+ },
+ {
   "id": "bc6e4bd86b7f",
   "title": "Villa reach verbal agreement to sign PSG's Mbaye",
   "player": "Ibrahim Mbaye",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/morata-closing-in-2nd-division-leganes/",
   "fee": null,
   "published": "2026-08-27T10:16:45+00:00"
- },
- {
-  "id": "f3c4723976f4",
-  "title": "OL: crise financière, mercato menacé, défi mental... quelles conséquences après l’élimination en barrage de Ligue des champions?",
-  "player": "Groupama Stadium",
-  "title_ko": "OL: 금융 위기, 이적 기회 위협, 정신적 도전... 챔피언스 리그 플레이오프 탈락 후 어떤 결과가 발생했나요?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-crise-financiere-mercato-menace-defi-mental-quelles-consequences-apres-l-elimination-en-barrage-de-ligue-des-champions_AV-202608270377.html",
-  "fee": null,
-  "published": "2026-08-27T10:04:58+00:00"
  }
 ]
