@@ -1,5 +1,18 @@
 [
  {
+  "id": "9fc4df11b343",
+  "title": "DIRECT. Mercato: suivez toutes les informations du vendredi 28 août 2026 en live",
+  "player": null,
+  "title_ko": "직접. Mercato: 2026년 8월 28일 금요일의 모든 정보를 실시간으로 팔로우하세요",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-informations-du-vendredi-28-aout-2026-en-live_LN-202608280108.html",
+  "fee": null,
+  "published": "2026-08-28T05:13:29+00:00"
+ },
+ {
   "id": "bdef3a9ac690",
   "title": "Erling Haaland deserved to be sold by Man City – they've made a huge transfer error",
   "player": "Erling Haaland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-bid-for-manchester-city-winger-with-former-loan-side-everton-still-interested",
   "fee": null,
   "published": "2026-08-26T16:18:00+00:00"
- },
- {
-  "id": "dc52b31d0127",
-  "title": "Chelsea weigh up shock Emi Martinez transfer as Xabi Alonso stance becomes clear",
-  "player": "Emi Martinez",
-  "title_ko": "샤비 알론소 자세가 명확해지면서 첼시가 충격을 가하는 에미 마르티네스 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-emi-martinez-aston-villa-37596532",
-  "fee": null,
-  "published": "2026-08-26T15:56:59+00:00"
  }
 ]
