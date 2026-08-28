@@ -1,10 +1,17 @@
 {
- "updated": "2026-08-28T11:30:59.607005+00:00",
+ "updated": "2026-08-28T22:27:38.170272+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-28",
+     "home": "Crystal Palace",
+     "away": "Man City",
+     "hs": 1,
+     "as": 4
+    },
     {
      "date": "2026-08-24",
      "home": "Fulham",
@@ -53,13 +60,6 @@
      "away": "Leeds United",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Ipswich Town",
-     "away": "Sunderland",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -68,6 +68,18 @@
      "team": "Brighton Hove",
      "goals": 2,
      "assists": 0
+    },
+    {
+     "name": "Erling Haaland",
+     "team": "Man City",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Rayan Cherki",
+     "team": "Man City",
+     "goals": 2,
+     "assists": 2
     },
     {
      "name": "Kai Havertz",
@@ -110,18 +122,6 @@
      "team": "Sunderland",
      "goals": 1,
      "assists": 0
-    },
-    {
-     "name": "Jack Clarke",
-     "team": "Ipswich Town",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Anton Stach",
-     "team": "Leeds United",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,20 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-28",
+     "home": "Alavés",
+     "away": "Villarreal",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-08-28",
+     "home": "Santander",
+     "away": "Elche",
+     "hs": 3,
+     "as": 2
+    },
     {
      "date": "2026-08-27",
      "home": "Barça",
@@ -170,20 +184,6 @@
      "away": "Levante",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Elche",
-     "away": "Barça",
-     "hs": 0,
-     "as": 5
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Getafe",
-     "away": "Santander",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -202,6 +202,12 @@
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Yassir Zabiri",
+     "team": "Santander",
      "goals": 3,
      "assists": 0
     },
@@ -240,12 +246,6 @@
      "team": "Rayo Vallecano",
      "goals": 1,
      "assists": 0
-    },
-    {
-     "name": "Jon Guridi",
-     "team": "Sevilla FC",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-28",
+     "home": "Milan",
+     "away": "Venezia FC",
+     "hs": 2,
+     "as": 0
+    },
     {
      "date": "2026-08-24",
      "home": "Roma",
@@ -301,13 +308,6 @@
      "away": "Cagliari",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Genoa",
-     "away": "Napoli",
-     "hs": 0,
-     "as": 2
     }
    ],
    "scorers": [
@@ -376,13 +376,59 @@
   "BUND": {
    "name": "분데스리가",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-08-28",
+     "home": "Bayern",
+     "away": "Stuttgart",
+     "hs": 5,
+     "as": 1
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Dayot Upamecano",
+     "team": "Bayern",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Josha Vagnoman",
+     "team": "Stuttgart",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Michael Olise",
+     "team": "Bayern",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Aleksandar Pavlović",
+     "team": "Bayern",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Luis Díaz",
+     "team": "Bayern",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   },
   "LIGUE1": {
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-28",
+     "home": "Lille",
+     "away": "PSG",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-08-23",
      "home": "Stade Rennais",
@@ -430,13 +476,6 @@
      "home": "Le Mans",
      "away": "Brest",
      "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-08-22",
-     "home": "RC Lens",
-     "away": "Auxerre",
-     "hs": 5,
      "as": 2
     }
    ],
