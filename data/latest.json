@@ -1,5 +1,18 @@
 [
  {
+  "id": "2e2d60082f37",
+  "title": "El Málaga avanza seriamente en la cesión de Adam Aznou",
+  "player": "El Málaga",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/29/malaga-avanza-seriamente-cesion-adam-aznou.html",
+  "fee": null,
+  "published": "2026-08-29T07:11:51+00:00"
+ },
+ {
   "id": "315bde74e8de",
   "title": "'I joined Man Utd at the wrong time - I wanted Chelsea transfer years before'",
   "player": "Sir Alex Ferguson's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-iraola-37599853",
   "fee": "£120M",
   "published": "2026-08-27T12:45:12+00:00"
- },
- {
-  "id": "a6702777dde8",
-  "title": "Atletico Madrid issue extraordinary Julian Alvarez statement to clear path for Arsenal transfer",
-  "player": "Julian Alvarez",
-  "title_ko": "아틀레티코 마드리드는 아스날 이적의 길을 밝히기 위해 특별한 Julian Alvarez 성명을 발표했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-atletico-37599670",
-  "fee": null,
-  "published": "2026-08-27T12:19:43+00:00"
  }
 ]
