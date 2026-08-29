@@ -13,6 +13,19 @@
   "published": "2026-08-29T20:01:00+00:00"
  },
  {
+  "id": "22aa0bf0ba8a",
+  "title": "Report Hutchinson ready for Milan after verbal agreement with Nottingham Forest",
+  "player": null,
+  "title_ko": "노팅엄 포레스트 (Nottingham Forest) 와의 구두 합의 후 밀라노를 위해 준비된 허친슨 (Hutch",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-hutchinson-read-milan-nottingham-forest/",
+  "fee": null,
+  "published": "2026-08-29T19:26:14+00:00"
+ },
+ {
   "id": "6e1591d9f9cd",
   "title": "Official: Torino sign Perri from Leeds United, sell Pedersen to Olympiacos",
   "player": "Lucas Perri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/emi-martinez-chelsea-aston-villa-37601418",
   "fee": null,
   "published": "2026-08-27T19:27:43+00:00"
- },
- {
-  "id": "5f52dc6fe822",
-  "title": "Matteo Guendouzi continues to shine light on Mikel Arteta's shrewdest Arsenal transfer",
-  "player": "Matteo Guendouzi",
-  "title_ko": "마테오 귀엥두지는 미켈 아르테타의 가장 기민한 아스날 이적에 대해 계속 조명하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/matteo-guendouzi-arsenal-mikel-arteta-37601468",
-  "fee": null,
-  "published": "2026-08-27T18:53:26+00:00"
  }
 ]
