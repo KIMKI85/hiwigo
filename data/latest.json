@@ -1,5 +1,18 @@
 [
  {
+  "id": "c9df402fc179",
+  "title": "Mercato: Un nouveau transfert XXL entre cadors se profile",
+  "player": "Cody Gakpo",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-nouveau-transfert-xxl-entre-cadors-se-profile_AV-202608290416.html",
+  "fee": null,
+  "published": "2026-08-29T21:51:58+00:00"
+ },
+ {
   "id": "1d8c2058e786",
   "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
   "fee": null,
   "published": "2026-08-27T22:35:00+00:00"
- },
- {
-  "id": "25cf9efaaf35",
-  "title": "Muniz and García on target in Fulham’s Carabao Cup cruise past Wimbledon",
-  "player": "Álvaro Arbeloa",
-  "title_ko": "윔블던을 지나 풀럼의 카라바오 컵 크루즈에서 목표를 달성한 무니스와 가르시아",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report",
-  "fee": null,
-  "published": "2026-08-27T21:01:15+00:00"
  }
 ]
