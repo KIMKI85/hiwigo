@@ -1,5 +1,44 @@
 [
  {
+  "id": "0bc71dc0037b",
+  "title": "Leeds latest: Zetterer joins as Perri completes Torino loan",
+  "player": null,
+  "title_ko": "리즈 최신: 페리가 토리노 임대를 완료하면서 Zetterer가 합류",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-29T20:01:00+00:00"
+ },
+ {
+  "id": "6e1591d9f9cd",
+  "title": "Official: Torino sign Perri from Leeds United, sell Pedersen to Olympiacos",
+  "player": "Lucas Perri",
+  "title_ko": "공식: 토리노는 리즈 유나이티드에서 페리를 영입하고 페데르센을 올림피아코스에 판매합니다",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-torino-perri-leeds-united-pedersen/",
+  "fee": null,
+  "published": "2026-08-29T19:13:48+00:00"
+ },
+ {
+  "id": "716cb889ebe7",
+  "title": "Millionensumme für Frankfurt: Zetterer wechselt nach Leeds",
+  "player": "Michael Zetterer",
+  "title_ko": "프랑크푸르트에서 수백만 달러: Zetterer가 리즈로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/millionensumme-fuer-frankfurt-zetterer-wechselt-nach-leeds-1247726/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-29T19:10:03+00:00"
+ },
+ {
   "id": "baaef142e620",
   "title": "Andoni Iraola makes honest admission on Liverpool transfers after Bradley Barcola question",
   "player": "Andoni Iraola",
