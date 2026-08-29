@@ -1,5 +1,18 @@
 [
  {
+  "id": "6da3849483ea",
+  "title": "Arsenal complete Man Utd transfer raid as youngster explains Old Trafford exit",
+  "player": "Old Trafford",
+  "title_ko": "아스날, 맨유 이적 레이드 완료, 어린 선수가 올드 트래포드 퇴장 설명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-transfer-scanlon-37607164",
+  "fee": null,
+  "published": "2026-08-29T16:14:15+00:00"
+ },
+ {
   "id": "9a27f45e2541",
   "title": "Report Juventus seeking Sarr on loan from Tottenham Hotspur",
   "player": "Pape Mata Sarr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-atletico-barcelona-37601071",
   "fee": null,
   "published": "2026-08-27T16:26:06+00:00"
- },
- {
-  "id": "754d1a65647b",
-  "title": "Done Deals: Torino finally secure Perri from Leeds United, sell Pedersen to Olympiacos",
-  "player": "Lucas Perri",
-  "title_ko": "거래 완료: 토리노는 마침내 리즈 유나이티드에서 페리를 확보하고 페데르센을 올림피아코스에 매각했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deals-torino-perri-leeds-united-pedersen/",
-  "fee": null,
-  "published": "2026-08-27T16:19:49+00:00"
  }
 ]
