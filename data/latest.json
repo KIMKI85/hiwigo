@@ -26,6 +26,19 @@
   "published": "2026-08-29T21:23:00+00:00"
  },
  {
+  "id": "88b24c1881bd",
+  "title": "Napoli interested in Woltemade loan - Sunday's gossip",
+  "player": "Nick Woltemade",
+  "title_ko": "나폴리, 울트메이드 대출에 관심 - 일요일 가십",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-29T21:19:11+00:00"
+ },
+ {
   "id": "a78600030371",
   "title": "Cody Gakpo transfer news: Man City open talks to sign Liverpool forward",
   "player": "Cody Gakpo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report",
   "fee": null,
   "published": "2026-08-27T21:01:15+00:00"
- },
- {
-  "id": "6320ba1128b8",
-  "title": "Arsenal target Bahoya on Milan wish list if Rafael Leao sold for €50m",
-  "player": "Rafael Leao",
-  "title_ko": "아스날은 라파엘 레오가 €50m에 팔리면 밀란 위시 리스트에 바호야를 목표로 삼고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/bahoya-on-milan-wish-list-if-rafael-leao-sold/",
-  "fee": "€50M",
-  "published": "2026-08-27T20:47:21+00:00"
  }
 ]
