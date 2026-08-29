@@ -1,5 +1,18 @@
 [
  {
+  "id": "baaef142e620",
+  "title": "Andoni Iraola makes honest admission on Liverpool transfers after Bradley Barcola question",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라 (Andoni Iraola) 는 브래들리 바르콜라 (Bradley Barcola) 질문 후 리버풀 이적에 대해 정직하게 인정합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-bradley-barcola-iraola-37607314",
+  "fee": null,
+  "published": "2026-08-29T17:05:06+00:00"
+ },
+ {
   "id": "bdcafcbeeac0",
   "title": "Official: Ricci joins Como from Milan, loan with option to buy for €23.5m plus bonus",
   "player": "Samuele Ricci",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
   "fee": "£7.5M",
   "published": "2026-08-27T18:19:59+00:00"
- },
- {
-  "id": "c1b55a43bebd",
-  "title": "Carabao Cup: Man City target Fernandez not in Chelsea squad vs Luton LIVE!",
-  "player": null,
-  "title_ko": "카라바오 컵: 맨시티의 목표인 페르난데스는 첼시 선수단 vs 루턴 LIVE에 포함되지 않았습니다!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/chelsea-vs-luton-town/live/577427",
-  "fee": null,
-  "published": "2026-08-27T18:00:00+00:00"
  }
 ]
