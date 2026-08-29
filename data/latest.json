@@ -1,5 +1,18 @@
 [
  {
+  "id": "db0f918a3267",
+  "title": "Official: Sassuolo sign Esposito from Cagliari, total cost up to €12m plus bonus",
+  "player": "Sebastiano Esposito",
+  "title_ko": "공식: Sassuolo가 Cagliari에서 Esposito를 영입했습니다. 총 비용은 최대 €12m + 보너스입니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-sassuolo-sign-esposito-from-cagliari/",
+  "fee": "€12M",
+  "published": "2026-08-29T14:32:14+00:00"
+ },
+ {
   "id": "2c492e278858",
   "title": "Allegri downplays Fabregas tension, says Badiashile ‘a bit behind’ after Chelsea move",
   "player": "Massimiliano Allegri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-27T15:39:49+00:00"
- },
- {
-  "id": "2643b16f626f",
-  "title": "Mikel Arteta hints at second Arsenal transfer exit alongside Gabriel Martinelli",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타는 가브리엘 마르티넬리와 함께 두 번째 아스날 이적을 암시했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arteta-arsenal-transfers-martinelli-jesus-37600832",
-  "fee": null,
-  "published": "2026-08-27T15:34:05+00:00"
  }
 ]
