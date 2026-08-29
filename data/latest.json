@@ -1,5 +1,18 @@
 [
  {
+  "id": "b8704a8b5519",
+  "title": "Done Deal: Gimenez ready for FC Porto in €20m Milan agreement",
+  "player": "Santiago Gimenez",
+  "title_ko": "완료된 거래: 히메네스는 €20m 밀란 계약으로 FC 포르투를 떠날 준비가 되어 있습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-gimenez-ready-for-fc-porto-milan/",
+  "fee": "€20M",
+  "published": "2026-08-29T22:56:40+00:00"
+ },
+ {
   "id": "46ec3ea1cd0c",
   "title": "Hull agree deal with Frankfurt for winger Bahoya",
   "player": "Matteo Bahoya",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-alonso-enzo-fernandez-future-37602042",
   "fee": null,
   "published": "2026-08-28T06:12:22+00:00"
- },
- {
-  "id": "9fc4df11b343",
-  "title": "DIRECT. Mercato: suivez toutes les informations du vendredi 28 août 2026 en live",
-  "player": null,
-  "title_ko": "직접. Mercato: 2026년 8월 28일 금요일의 모든 정보를 실시간으로 팔로우하세요",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-informations-du-vendredi-28-aout-2026-en-live_LN-202608280108.html",
-  "fee": null,
-  "published": "2026-08-28T05:13:29+00:00"
  }
 ]
