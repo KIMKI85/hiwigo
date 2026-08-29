@@ -1,5 +1,18 @@
 [
  {
+  "id": "c9c5b4521f8a",
+  "title": "Steht direkt im Kader: Von der Hitz wechselt per Leihe nach Aachen",
+  "player": "Von der Hitz",
+  "title_ko": "스쿼드에 직접 포함됨: 폰 데어 히츠는 임대로 아헨으로 이적합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/steht-direkt-im-kader-von-der-hitz-wechselt-per-leihe-nach-aachen-1247748/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-29T10:49:06+00:00"
+ },
+ {
   "id": "089f08083d4e",
   "title": "Arsenal given hours to convince Julian Alvarez as Atletico Madrid issue final transfer ultimatum",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-je-me-sais-attendu-wahi-determine-pour-son-nouveau-pret-a-nice_VN-202608270533.html",
   "fee": null,
   "published": "2026-08-27T14:13:45+00:00"
- },
- {
-  "id": "01748d16dfc9",
-  "title": "Real Madrid monitoring Roma’s Kone but transfer only likely on one condition",
-  "player": "Manu Kone",
-  "title_ko": "레알 마드리드는 로마의 코네를 관찰하고 있지만 한 가지 조건에서만 이적 가능성이 있습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/real-madrid-monitoring-roma-kone-one-condition/",
-  "fee": null,
-  "published": "2026-08-27T13:57:09+00:00"
  }
 ]
