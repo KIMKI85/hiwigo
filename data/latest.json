@@ -13,6 +13,19 @@
   "published": "2026-08-29T20:23:00+00:00"
  },
  {
+  "id": "6dc12f53814e",
+  "title": "Liverpool star Cody Gakpo selects next club as talks on to complete late transfer",
+  "player": "Cody Gakpo",
+  "title_ko": "리버풀 스타 코디 가포, 늦은 이적 완료를 위한 강연으로 다음 구단 선정",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-man-city-spurs-transfer-37607561",
+  "fee": null,
+  "published": "2026-08-29T20:12:30+00:00"
+ },
+ {
   "id": "0bc71dc0037b",
   "title": "Leeds latest: Zetterer joins as Perri completes Torino loan",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-reiss-nelson-arteta-37601498",
   "fee": null,
   "published": "2026-08-27T19:55:04+00:00"
- },
- {
-  "id": "9ce82d10051f",
-  "title": "Oosterwolde sent back to Fenerbahce after failed Roma medical",
-  "player": "Jayden Oosterwolde",
-  "title_ko": "우스터볼데는 로마 의료 실패 후 페네르바체로 돌려보냈다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/oosterwolde-fenerbahce-failed-roma-medical/",
-  "fee": null,
-  "published": "2026-08-27T19:50:14+00:00"
  }
 ]
