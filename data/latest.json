@@ -1,5 +1,31 @@
 [
  {
+  "id": "108d9fc29d7a",
+  "title": "Mercato: \"Il lui a dit qu’il ne voulait pas venir\" à Arsenal, l'entretien entre Mikel Arteta et Julian Alvarez qui relance le dossier",
+  "player": "Mikel Arteta",
+  "title_ko": "Mercato: \"Il lui a dit qu 'il ne voulait pas venir\" à Arsenal, l' entretien entre Mikel Arteta et Julian Alvarez qui relance le dossier",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-lui-a-dit-qu-il-ne-voulait-pas-venir-a-arsenal-l-entretien-entre-mikel-arteta-et-julian-alvarez-qui-relance-le-dossier_AV-202608290270.html",
+  "fee": null,
+  "published": "2026-08-29T14:57:44+00:00"
+ },
+ {
+  "id": "11f89c8a732a",
+  "title": "Official: Inter loan Asllani to Al Jazira Club at age 24",
+  "player": "Al Jazira",
+  "title_ko": "공식: 24세에 아슬라니를 알 자지라 클럽에 대여",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-loan-asllani-to-al-jazira-club/",
+  "fee": null,
+  "published": "2026-08-29T14:54:56+00:00"
+ },
+ {
   "id": "db0f918a3267",
   "title": "Official: Sassuolo sign Esposito from Cagliari, total cost up to €12m plus bonus",
   "player": "Sebastiano Esposito",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/wechsel-zu-aston-villa-hat-leon-goretzka-die-richtige-entscheidung-getroffen-1247289/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T15:44:15+00:00"
- },
- {
-  "id": "cb88a0b0d6fc",
-  "title": "Leihe mit Kaufoption: Bayern gibt Zaragoza an Espanyol ab",
-  "player": "Bryan Zaragoza",
-  "title_ko": "구매 옵션이 있는 임대: 바이에른은 사라고사를 에스파뇰에 넘깁니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/leihe-mit-kaufoption-bayern-gibt-zaragoza-an-espanyol-ab-1246368/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-27T15:39:53+00:00"
- },
- {
-  "id": "ea4ca290189d",
-  "title": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
-  "player": "Leon Goretzka",
-  "title_ko": "빌라 사인 고레츠카 - 바이에른에서 무엇이 잘못됐고 그는 무엇을 가져올 것인가?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T15:39:49+00:00"
  }
 ]
