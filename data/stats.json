@@ -1,10 +1,31 @@
 {
- "updated": "2026-08-29T07:10:25.003989+00:00",
+ "updated": "2026-08-29T16:46:52.370611+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-29",
+     "home": "Coventry City",
+     "away": "Hull City",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Bournemouth",
+     "away": "Everton",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Liverpool",
+     "away": "Nottingham",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-08-28",
      "home": "Crystal Palace",
@@ -38,27 +59,6 @@
      "home": "Man City",
      "away": "Bournemouth",
      "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Brentford",
-     "away": "Tottenham",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Everton",
-     "away": "Crystal Palace",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Nottingham",
-     "away": "Leeds United",
-     "hs": 0,
      "as": 1
     }
    ],
@@ -230,20 +230,20 @@
      "assists": 0
     },
     {
+     "name": "Rodrigo Riquelme",
+     "team": "Real Betis",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Brugui",
+     "team": "Levante",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Nahuel Tenaglia",
      "team": "Alavés",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Mikel Rodríguez",
-     "team": "Alavés",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Álvaro García",
-     "team": "Rayo Vallecano",
      "goals": 1,
      "assists": 0
     }
@@ -378,6 +378,41 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-08-29",
+     "home": "1. FC Köln",
+     "away": "Hoffenheim",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Elversberg",
+     "away": "Leverkusen",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Union Berlin",
+     "away": "Frankfurt",
+     "hs": 3,
+     "as": 3
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Mainz",
+     "away": "SC Paderborn",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-08-29",
+     "home": "RB Leipzig",
+     "away": "M'gladbach",
+     "hs": 3,
+     "as": 0
+    },
+    {
      "date": "2026-08-28",
      "home": "Bayern",
      "away": "Stuttgart",
@@ -386,6 +421,18 @@
     }
    ],
    "scorers": [
+    {
+     "name": "Younes Ebnoutalib",
+     "team": "Frankfurt",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Thijs Dallinga",
+     "team": "1. FC Köln",
+     "goals": 2,
+     "assists": 0
+    },
     {
      "name": "Dayot Upamecano",
      "team": "Bayern",
@@ -413,6 +460,24 @@
     {
      "name": "Luis Díaz",
      "team": "Bayern",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Ridle Baku",
+     "team": "RB Leipzig",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Antonio Nusa",
+     "team": "RB Leipzig",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Rocco Reitz",
+     "team": "RB Leipzig",
      "goals": 1,
      "assists": 0
     }
@@ -481,16 +546,16 @@
    ],
    "scorers": [
     {
+     "name": "Florian Thauvin",
+     "team": "RC Lens",
+     "goals": 3,
+     "assists": 1
+    },
+    {
      "name": "Amine Gouiri",
      "team": "Marseille",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Florian Thauvin",
-     "team": "RC Lens",
-     "goals": 2,
-     "assists": 1
     },
     {
      "name": "Ferrán Torres",
@@ -545,126 +610,8 @@
   "UCL": {
    "name": "챔피언스리그",
    "standings": [],
-   "results": [
-    {
-     "date": "2026-05-30",
-     "home": "PSG",
-     "away": "Arsenal",
-     "hs": 5,
-     "as": 4
-    },
-    {
-     "date": "2026-05-06",
-     "home": "Bayern",
-     "away": "PSG",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-05-05",
-     "home": "Arsenal",
-     "away": "Atleti",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-04-29",
-     "home": "Atleti",
-     "away": "Arsenal",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-04-28",
-     "home": "PSG",
-     "away": "Bayern",
-     "hs": 5,
-     "as": 4
-    },
-    {
-     "date": "2026-04-15",
-     "home": "Arsenal",
-     "away": "Sporting CP",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-04-15",
-     "home": "Bayern",
-     "away": "Real Madrid",
-     "hs": 4,
-     "as": 3
-    },
-    {
-     "date": "2026-04-14",
-     "home": "Atleti",
-     "away": "Barça",
-     "hs": 1,
-     "as": 2
-    }
-   ],
-   "scorers": [
-    {
-     "name": "Kylian Mbappé",
-     "team": "Real Madrid",
-     "goals": 15,
-     "assists": 1
-    },
-    {
-     "name": "Harry Kane",
-     "team": "Bayern",
-     "goals": 14,
-     "assists": 2
-    },
-    {
-     "name": "Khvicha Kvaratskhelia",
-     "team": "PSG",
-     "goals": 10,
-     "assists": 6
-    },
-    {
-     "name": "Anthony Gordon",
-     "team": "Newcastle",
-     "goals": 10,
-     "assists": 2
-    },
-    {
-     "name": "Julián Álvarez",
-     "team": "Atleti",
-     "goals": 10,
-     "assists": 3
-    },
-    {
-     "name": "Erling Haaland",
-     "team": "Man City",
-     "goals": 8,
-     "assists": 0
-    },
-    {
-     "name": "Ousmane Dembélé",
-     "team": "PSG",
-     "goals": 8,
-     "assists": 2
-    },
-    {
-     "name": "Victor Osimhen",
-     "team": "Galatasaray",
-     "goals": 7,
-     "assists": 2
-    },
-    {
-     "name": "Luis Díaz",
-     "team": "Bayern",
-     "goals": 7,
-     "assists": 3
-    },
-    {
-     "name": "Martinelli",
-     "team": "Arsenal",
-     "goals": 6,
-     "assists": 2
-    }
-   ]
+   "results": [],
+   "scorers": []
   }
  }
 }
