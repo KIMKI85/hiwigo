@@ -1,5 +1,18 @@
 [
  {
+  "id": "abae5108e6a0",
+  "title": "Man Utd striker on Atletico Madrid radar as Julian Alvarez transfer plan made",
+  "player": "Julian Alvarez",
+  "title_ko": "줄리안 알바레스 이적 계획에 따라 아틀레티코 마드리드 레이더에서 맨유 공격수",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-zirkzee-atletico-alvarez-future-37606400",
+  "fee": null,
+  "published": "2026-08-29T10:58:08+00:00"
+ },
+ {
   "id": "c9c5b4521f8a",
   "title": "Steht direkt im Kader: Von der Hitz wechselt per Leihe nach Aachen",
   "player": "Von der Hitz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577794/emiliano-martinez-transfer-news-chelsea-agree-7-5m-deal-to-sign-aston-villas-world-cup-winning-goalkeeper",
   "fee": null,
   "published": "2026-08-27T14:26:00+00:00"
- },
- {
-  "id": "359927058c86",
-  "title": "\"Je me sais attendu\", Wahi déterminé pour son nouveau prêt à Nice",
-  "player": "Elye Wahi",
-  "title_ko": "\"예상했던 일이라는 걸 알아요\", Wahi는 니스로의 새로운 임대를 결심했습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-je-me-sais-attendu-wahi-determine-pour-son-nouveau-pret-a-nice_VN-202608270533.html",
-  "fee": null,
-  "published": "2026-08-27T14:13:45+00:00"
  }
 ]
