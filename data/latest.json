@@ -1,5 +1,31 @@
 [
  {
+  "id": "46ec3ea1cd0c",
+  "title": "Hull agree deal with Frankfurt for winger Bahoya",
+  "player": "Matteo Bahoya",
+  "title_ko": "헐, 프랑크푸르트와 윙어 바호야 영입 합의",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-29T22:24:56+00:00"
+ },
+ {
+  "id": "92c0ad89b563",
+  "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+  "player": null,
+  "title_ko": "서류: 리버풀은 크리스탈 팰리스의 윙어 사르 영입을 위한 대화를 계속하고 있습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+  "fee": null,
+  "published": "2026-08-29T22:22:00+00:00"
+ },
+ {
   "id": "a900d0158fd3",
   "title": "OM : \"Le mettre au congélateur comme une glace...\" Acherchour ironise sur le mercato",
   "player": "Maxime Chanot",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-informations-du-vendredi-28-aout-2026-en-live_LN-202608280108.html",
   "fee": null,
   "published": "2026-08-28T05:13:29+00:00"
- },
- {
-  "id": "bdef3a9ac690",
-  "title": "Erling Haaland deserved to be sold by Man City – they've made a huge transfer error",
-  "player": "Erling Haaland",
-  "title_ko": "Erling Haaland는 Man City에서 판매될 자격이 있었습니다. 그들은 엄청난 이적 실수를 저질렀습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-alvarez-37588596",
-  "fee": null,
-  "published": "2026-08-28T04:30:00+00:00"
- },
- {
-  "id": "8852872896ea",
-  "title": "Liverpool news: Andoni Iraola confirms transfer plans as Bradley Barcola agreement reached",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라, 브래들리 바르콜라 합의에 따라 이적 계획 확정",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-iraola-37599997",
-  "fee": null,
-  "published": "2026-08-28T04:00:00+00:00"
  }
 ]
