@@ -676,6 +676,19 @@
   "published": "2026-08-28T14:37:45+00:00"
  },
  {
+  "id": "c8b2fb15dd56",
+  "title": "Fulham latest: Talks held to sign Romanian right-back",
+  "player": null,
+  "title_ko": "풀럼 최신 소식: 루마니아 우익수 서명을 위한 회담 개최",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-28T14:30:00+00:00"
+ },
+ {
   "id": "57f5b6cedbf2",
   "title": "Arsenal transfer state of play as Julian Alvarez meeting held and three departures loom",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arteta-arsenal-transfers-martinelli-jesus-37600832",
   "fee": null,
   "published": "2026-08-27T15:34:05+00:00"
- },
- {
-  "id": "93dd93957106",
-  "title": "Mercato: L'Atlético de Madrid jette un nouveau coup de froid sur le Barça concernant Julian Alvarez",
-  "player": "Julian Alvarez",
-  "title_ko": "Mercato: Atlético de Madrid는 Julian Alvarez와 관련하여 Barça에 새로운 냉담함을 던졌습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-de-madrid-jette-un-nouveau-coup-de-froid-sur-le-barca-concernant-julian-alvarez_AV-202608270584.html",
-  "fee": null,
-  "published": "2026-08-27T15:23:31+00:00"
  }
 ]
