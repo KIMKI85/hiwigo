@@ -1,5 +1,18 @@
 [
  {
+  "id": "08560b16a1c9",
+  "title": "Arsenal hand out summer contract after pre-season show impresses Mikel Arteta",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날은 프리시즌 쇼 후 여름 계약을 전달하고 미켈 아르테타에게 깊은 인상을 남겼습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-marli-salmon-professional-contract-37606184",
+  "fee": null,
+  "published": "2026-08-29T09:29:58+00:00"
+ },
+ {
   "id": "56ae2766b2d9",
   "title": "Liverpool agree £123m deal for PSG's Barcola",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/amorim-milan-have-to-thank-allegri/",
   "fee": null,
   "published": "2026-08-27T13:29:13+00:00"
- },
- {
-  "id": "4d88b4b5c6d1",
-  "title": "Bradley Barcola has already told Liverpool one thing he wants as transfer agreement emerges",
-  "player": "Bradley Barcola",
-  "title_ko": "브래들리 바르콜라는 이미 리버풀에게 이적 합의가 나오면서 원하는 한 가지를 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/bradley-barcola-liverpool-transfer-psg-37599665",
-  "fee": null,
-  "published": "2026-08-27T13:27:09+00:00"
  }
 ]
