@@ -1,5 +1,18 @@
 [
  {
+  "id": "44892a0f5c2e",
+  "title": "OM: \"On est dans une situation très périlleuse et très difficile\", Bruno Genesio \"n'imaginait pas\" avoir autant de difficultés sur le mercato",
+  "player": "Bruno Genesio",
+  "title_ko": "OM: “우리는 매우 위험하고 어려운 상황에 처해 있다”, 브루노 제네시오는 이적시장에서 이렇게 많은 어려움을 겪을 것이라고 “상상하지 못했다”",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-est-dans-une-situation-tres-perilleuse-et-tres-difficile-bruno-genesio-n-imaginait-pas-avoir-autant-de-difficultes-sur-le-mercato_AV-202608290216.html",
+  "fee": null,
+  "published": "2026-08-29T11:56:02+00:00"
+ },
+ {
   "id": "5882ed8fcbcd",
   "title": "Forest to bid £40m for Everton teenager Armstrong",
   "player": "Harrison Armstrong",
@@ -11,6 +24,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
   "fee": "£40M",
   "published": "2026-08-29T11:43:43+00:00"
+ },
+ {
+  "id": "1687408be3da",
+  "title": "DIRECT. OM: mercato, potentielle démission... Revivez la conférence de presse de Genesio avant le déplacement à Monac",
+  "player": "Bruno Genesio",
+  "title_ko": "직접. OM: 이적 기간, 사임 가능성… 모나크 원정 전 제네시오 기자회견 재현",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-om-suivez-la-conference-de-presse-de-genesio-avant-le-deplacement-a-monaco-en-live_LN-202608290184.html",
+  "fee": null,
+  "published": "2026-08-29T11:40:09+00:00"
  },
  {
   "id": "2504031aa248",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/report-chelsea-ahanor-atalanta-e48m-inc-bonus/",
   "fee": "€48M",
   "published": "2026-08-27T14:51:39+00:00"
- },
- {
-  "id": "ca896379361e",
-  "title": "Lille: \"Il ne s’entraîne pas avec le groupe jusqu’à la fin du mercato\", Davide Ancelotti écarte Fernandez-Pardo avant le match contre le PSG",
-  "player": "Davide Ancelotti",
-  "title_ko": "릴: \"그는 이적 기간이 끝날 때까지 그룹과 함께 훈련하지 않습니다\", 다비데 안첼로티는 PSG와의 경기 전에 페르난데스-파르도를 해고했습니다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/lille-il-ne-s-entraine-pas-avec-le-groupe-jusqu-a-la-fin-du-mercato-davide-ancelotti-ecarte-fernandez-pardo-avant-le-match-contre-le-psg_AV-202608270556.html",
-  "fee": null,
-  "published": "2026-08-27T14:43:34+00:00"
- },
- {
-  "id": "20cfed36fcbf",
-  "title": "Tottenham sign Man City's Marmoush on loan",
-  "player": "City's Marmoush",
-  "title_ko": "토트넘, 맨시티 마모시 임대 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/clyj50j91xgo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T14:34:14+00:00"
  }
 ]
