@@ -1,5 +1,18 @@
 [
  {
+  "id": "1d8c2058e786",
+  "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
+  "player": null,
+  "title_ko": "포레스트 최신: AC 밀란 대출을 위해 Hutchinson과 합의한 £ 22M Munoz 거래",
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": "£22M",
+  "published": "2026-08-29T21:40:00+00:00"
+ },
+ {
   "id": "a78600030371",
   "title": "Cody Gakpo transfer news: Man City open talks to sign Liverpool forward",
   "player": "Cody Gakpo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/bayer-erfuellt-spielerwunsch-palacios-wechselt-zu-ipswich-town-1247369/artikel#omrss",
   "fee": null,
   "published": "2026-08-27T20:35:49+00:00"
- },
- {
-  "id": "55da94879d13",
-  "title": "Arsenal terminate Reiss Nelson's contract as Mikel Arteta waits for three more exits",
-  "player": "Reiss Nelson's",
-  "title_ko": "아스날은 미켈 아르테타가 세 번의 출구를 더 기다리면서 리스 넬슨의 계약을 종료했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-reiss-nelson-arteta-37601498",
-  "fee": null,
-  "published": "2026-08-27T19:55:04+00:00"
  }
 ]
