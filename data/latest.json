@@ -1,5 +1,18 @@
 [
  {
+  "id": "2504031aa248",
+  "title": "OM : \"Je n'imaginais pas qu'au 29 août, on en soit à avoir 0 recrue\", avoue Genesio",
+  "player": null,
+  "title_ko": "OM: Genesio는 “8월 29일에 모집 인원이 0명일 것이라고는 상상도 못했습니다.”라고 인정했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-je-n-imaginais-pas-qu-au-29-aout-on-en-soit-a-avoir-0-recrue-avoue-genesio_VN-202608290209.html",
+  "fee": null,
+  "published": "2026-08-29T11:24:25+00:00"
+ },
+ {
   "id": "abae5108e6a0",
   "title": "Man Utd striker on Atletico Madrid radar as Julian Alvarez transfer plan made",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-meeting-kessie-agents-2-year-contract/",
   "fee": null,
   "published": "2026-08-27T14:29:37+00:00"
- },
- {
-  "id": "4eb3ebee99bf",
-  "title": "Chelsea agree deal for Villa's Martinez",
-  "player": "Villa's Martinez",
-  "title_ko": "첼시, 빌라의 마르티네즈 영입에 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577794/emiliano-martinez-transfer-news-chelsea-agree-7-5m-deal-to-sign-aston-villas-world-cup-winning-goalkeeper",
-  "fee": null,
-  "published": "2026-08-27T14:26:00+00:00"
  }
 ]
