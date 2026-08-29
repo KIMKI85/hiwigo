@@ -1,5 +1,18 @@
 [
  {
+  "id": "56ae2766b2d9",
+  "title": "Liverpool agree £123m deal for PSG's Barcola",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 PSG의 바르콜라와 £123m 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+  "fee": "£123M",
+  "published": "2026-08-29T08:03:53+00:00"
+ },
+ {
   "id": "cfbfcbf91c04",
   "title": "Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live",
   "player": "Lucy Bronze",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/bradley-barcola-liverpool-transfer-psg-37599665",
   "fee": null,
   "published": "2026-08-27T13:27:09+00:00"
- },
- {
-  "id": "fdb6ea13df8d",
-  "title": "Kim joins Rangers in £8.5m deal",
-  "player": "Minsu Kim",
-  "title_ko": "김, 레인저스에 850만 파운드에 합류",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13576566/rangers-transfer-news-minsu-kim-joins-from-girona160as-ibrox-clubs-12th-summer-signing",
-  "fee": "£8.5M",
-  "published": "2026-08-27T13:00:00+00:00"
  }
 ]
