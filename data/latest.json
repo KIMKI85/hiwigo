@@ -1,5 +1,31 @@
 [
  {
+  "id": "cfbfcbf91c04",
+  "title": "Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live",
+  "player": "Lucy Bronze",
+  "title_ko": "이적 소식, 리버풀 대 노팅엄 포레스트 구축 등 – 매치데이 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
+  "fee": null,
+  "published": "2026-08-29T07:47:59+00:00"
+ },
+ {
+  "id": "4cdd278d7ffd",
+  "title": "Mercato: après l'échec annoncé du dossier Alvarez, le Barça a trouvé son 9 en interne",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Alvarez 파일의 실패가 발표된 후 Barça는 내부적으로 9를 발견했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/mercato-apres-l-echec-annonce-du-dossier-alvarez-le-barca-a-trouve-son-9-en-interne_AV-202608290133.html",
+  "fee": null,
+  "published": "2026-08-29T07:46:44+00:00"
+ },
+ {
   "id": "2e2d60082f37",
   "title": "El Málaga avanza seriamente en la cesión de Adam Aznou",
   "player": "El Málaga",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13576566/rangers-transfer-news-minsu-kim-joins-from-girona160as-ibrox-clubs-12th-summer-signing",
   "fee": "£8.5M",
   "published": "2026-08-27T13:00:00+00:00"
- },
- {
-  "id": "627bae52b602",
-  "title": "Mercato: un beau chèque pour l'OL en cas de transfert de Barcola à Liverpool",
-  "player": "Bradley Barcola",
-  "title_ko": "Mercato: Barcola에서 리버풀로 이적하는 경우 OL에 대한 좋은 확인입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-beau-cheque-pour-l-ol-en-cas-de-transfert-de-barcola-a-liverpool_AV-202608270482.html",
-  "fee": null,
-  "published": "2026-08-27T12:56:47+00:00"
- },
- {
-  "id": "ab14e9587723",
-  "title": "Andoni Iraola breaks silence on Bradley Barcola transfer after Liverpool agree £120m move",
-  "player": "Andoni Iraola",
-  "title_ko": "안도니 이라올라(Andoni Iraola)는 리버풀이 £120m 이적에 동의한 후 브래들리 바르콜라 이적에 대해 침묵을 지켰다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-transfer-iraola-37599853",
-  "fee": "£120M",
-  "published": "2026-08-27T12:45:12+00:00"
  }
 ]
