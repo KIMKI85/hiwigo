@@ -1,5 +1,18 @@
 [
  {
+  "id": "d58403f6fd47",
+  "title": "Vorbote für Doué-Transfer? Bayer verleiht Tape an Levante",
+  "player": "Die Bemühungen",
+  "title_ko": "Doué 이적의 전조? 바이엘, 레반테에 테이프 빌려주다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/vorbote-fuer-doue-transfer-bayer-verleiht-tape-an-levante-1247732/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-29T10:17:16+00:00"
+ },
+ {
   "id": "4ee8f24cb296",
   "title": "Balerdi set for Roma transfer from Marseille",
   "player": "Leonardo Balerdi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-change-oosterwolde-fenerbahce-medical/",
   "fee": null,
   "published": "2026-08-27T13:47:12+00:00"
- },
- {
-  "id": "8477d8aca8d5",
-  "title": "Done Deal: Kean to join Como for €35m plus €5m bonus from Fiorentina",
-  "player": "Moise Kean",
-  "title_ko": "완료된 거래: 킨은 €35m에 피오렌티나로부터 €5m 보너스를 받고 코모에 합류했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-kean-como-e35m-e5m-bonus-fiorentina/",
-  "fee": "€35M",
-  "published": "2026-08-27T13:30:40+00:00"
  }
 ]
