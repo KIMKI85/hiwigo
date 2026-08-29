@@ -1,5 +1,18 @@
 [
  {
+  "id": "a900d0158fd3",
+  "title": "OM : \"Le mettre au congélateur comme une glace...\" Acherchour ironise sur le mercato",
+  "player": "Maxime Chanot",
+  "title_ko": "OM: \"Le mettre au congélateur comme une glace...\" Acherchour ironise sur le mercato",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-le-mettre-au-congelateur-comme-une-glace-acherchour-ironise-sur-le-mercato_VN-202608290424.html",
+  "fee": null,
+  "published": "2026-08-29T22:10:13+00:00"
+ },
+ {
   "id": "c9df402fc179",
   "title": "Mercato: Un nouveau transfert XXL entre cadors se profile",
   "player": "Cody Gakpo",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": "£22M",
   "published": "2026-08-29T21:40:00+00:00"
+ },
+ {
+  "id": "e19c8a76f67e",
+  "title": "Gonzalez \"mit Wumms\", Koopmeiners mit Auge: Spalletti wechselt Juve-Sieg ein",
+  "player": "Aufsteiger Frosinone",
+  "title_ko": "Gonzalez \"MIT Wumms\", Koopmeiners MIT Auge: Spalletti wechselt Juve-Sieg ein",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/gonzalez-mit-wumms-koopmeiners-mit-auge-spalletti-wechselt-juve-sieg-ein-1247990/video#omrss",
+  "fee": null,
+  "published": "2026-08-29T21:33:41+00:00"
  },
  {
   "id": "8b82a3ead8b8",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-transfer-iraola-37599997",
   "fee": null,
   "published": "2026-08-28T04:00:00+00:00"
- },
- {
-  "id": "bbc3ea44b959",
-  "title": "Man Utd news: New striker target named as club 'close in' on forward signing",
-  "player": null,
-  "title_ko": "맨유 뉴스: 클럽의 새로운 스트라이커 타깃이 전진 영입에 '접근'하고 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-joshua-zirkzee-37601154",
-  "fee": null,
-  "published": "2026-08-28T03:30:00+00:00"
- },
- {
-  "id": "c66da224d14f",
-  "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
-  "player": null,
-  "title_ko": "서류: 맨시티는 첼시의 미드필더 페르난데스를 영입할 자신이 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
-  "fee": null,
-  "published": "2026-08-27T22:35:00+00:00"
  }
 ]
