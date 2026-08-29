@@ -1,5 +1,31 @@
 [
  {
+  "id": "1b2bc8be7079",
+  "title": "OM: \"Il n'y a pas d'actualité sur une éventuelle démission\", Genesio clarifie sa situation malgré le mercato difficile",
+  "player": "Bruno Genesio",
+  "title_ko": "OM : \"사임 가능성에 대한 소식은 없다\", Genesio는 어려운 이적 기간에도 불구하고 자신의 상황을 밝힙니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-n-y-a-pas-d-actualite-sur-une-eventuelle-demission-genesio-clarifie-sa-situation-malgre-le-mercato-difficile_AV-202608290223.html",
+  "fee": null,
+  "published": "2026-08-29T12:43:45+00:00"
+ },
+ {
+  "id": "6e0df572b888",
+  "title": "Liverpool given Ismaila Sarr transfer update ahead of Cody Gakpo decision",
+  "player": "Ismaila Sarr",
+  "title_ko": "Cody Gakpo 결정에 앞서 Ismaila Sarr 이적 업데이트를 제공한 리버풀",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-transfer-gakpo-37606607",
+  "fee": null,
+  "published": "2026-08-29T12:29:45+00:00"
+ },
+ {
   "id": "44892a0f5c2e",
   "title": "OM: \"On est dans une situation très périlleuse et très difficile\", Bruno Genesio \"n'imaginait pas\" avoir autant de difficultés sur le mercato",
   "player": "Bruno Genesio",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cj06405yd22o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-27T15:04:59+00:00"
- },
- {
-  "id": "c68229c5b87e",
-  "title": "Tottenham sign Marmoush on loan with obligation to buy",
-  "player": "Omar Marmoush",
-  "title_ko": "토트넘은 구매 의무가 있는 마르무쉬를 임대로 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577796/omar-marmoush-transfer-news-tottenham-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
-  "fee": null,
-  "published": "2026-08-27T15:00:00+00:00"
- },
- {
-  "id": "4607d97a1676",
-  "title": "Report Chelsea agreement for Ahanor, Atalanta sale at €48m including bonus",
-  "player": "Honest Ahanor",
-  "title_ko": "아하노르, 아탈란타 매각에 대한 첼시 계약을 보너스 포함 €48m에 보고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-chelsea-ahanor-atalanta-e48m-inc-bonus/",
-  "fee": "€48M",
-  "published": "2026-08-27T14:51:39+00:00"
  }
 ]
