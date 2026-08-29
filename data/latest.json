@@ -1,5 +1,18 @@
 [
  {
+  "id": "4ee8f24cb296",
+  "title": "Balerdi set for Roma transfer from Marseille",
+  "player": "Leonardo Balerdi",
+  "title_ko": "마르세유에서 로마로 이적한 발레르디",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/balerdi-set-for-roma-transfer-from-marseille/",
+  "fee": null,
+  "published": "2026-08-29T09:55:57+00:00"
+ },
+ {
   "id": "08560b16a1c9",
   "title": "Arsenal hand out summer contract after pre-season show impresses Mikel Arteta",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-kean-como-e35m-e5m-bonus-fiorentina/",
   "fee": "€35M",
   "published": "2026-08-27T13:30:40+00:00"
- },
- {
-  "id": "d9f16d7d691f",
-  "title": "Fiorentina in talks with Man United over Zirkzee loan",
-  "player": "Joshua Zirkzee",
-  "title_ko": "피오렌티나는 지르크지 임대 문제로 맨유와 협상 중이다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwyz9lllx3xo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T13:30:17+00:00"
  }
 ]
