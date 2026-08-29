@@ -1,5 +1,18 @@
 [
  {
+  "id": "2c492e278858",
+  "title": "Allegri downplays Fabregas tension, says Badiashile ‘a bit behind’ after Chelsea move",
+  "player": "Massimiliano Allegri",
+  "title_ko": "Allegri는 Fabregas의 긴장을 경시하며, 첼시가 움직인 후 Badiashile은 ‘약간 뒤쳐졌다’ 고 말합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/allegri-downplays-fabregas-badiashile-chelsea/",
+  "fee": null,
+  "published": "2026-08-29T14:10:19+00:00"
+ },
+ {
   "id": "1b2bc8be7079",
   "title": "OM: \"Il n'y a pas d'actualité sur une éventuelle démission\", Genesio clarifie sa situation malgré le mercato difficile",
   "player": "Bruno Genesio",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-atletico-de-madrid-jette-un-nouveau-coup-de-froid-sur-le-barca-concernant-julian-alvarez_AV-202608270584.html",
   "fee": null,
   "published": "2026-08-27T15:23:31+00:00"
- },
- {
-  "id": "21c35b08c9ad",
-  "title": "Sunderland defender Seelt joins Swansea on loan",
-  "player": "Jensen Seelt",
-  "title_ko": "선덜랜드의 수비수 실트가 스완지 임대로 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj06405yd22o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-27T15:04:59+00:00"
  }
 ]
