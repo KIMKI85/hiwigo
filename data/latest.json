@@ -1,5 +1,18 @@
 [
  {
+  "id": "d71f859a5da9",
+  "title": "'Brighton fans turned on me after I left but Chelsea move didn't turn out how I wanted'",
+  "player": null,
+  "title_ko": "'브라이튼 팬들은 제가 떠난 후 저를 반대했지만 첼시의 이적은 제가 원하는 대로 되지 않았습니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-brighton-graham-potter-sweden-37606477",
+  "fee": null,
+  "published": "2026-08-30T05:00:00+00:00"
+ },
+ {
   "id": "416e477a7670",
   "title": "Liverpool news: Bradley Barcola saving emerges as Reds 'plot' another transfer hijack",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/schnelles-wiedersehen-hoffenheims-geiger-vor-wechsel-nach-nijmegen-1247451/artikel#omrss",
   "fee": null,
   "published": "2026-08-28T07:38:08+00:00"
- },
- {
-  "id": "ebf0081a7600",
-  "title": "Liverpool state of play on Ismaila Sarr deal, Bradley Barcola agreement and Cody Gakpo exit",
-  "player": "Ismaila Sarr",
-  "title_ko": "이스마일라 사르 계약, 브래들리 바르콜라 계약, 코디 각포 퇴장에 대한 리버풀의 경기 상태",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-barcola-gakpo-sarr-latest-37602114",
-  "fee": null,
-  "published": "2026-08-28T07:22:26+00:00"
  }
 ]
