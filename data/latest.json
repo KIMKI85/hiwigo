@@ -1,5 +1,18 @@
 [
  {
+  "id": "43425dfc68ac",
+  "title": "Roma drop El Aynaoui and Vaz, make new Luiz Henrique bid after problems",
+  "player": "El Aynaoui",
+  "title_ko": "로마는 엘 아이나우이와 바즈를 떨어뜨리고, 문제 발생 후 새로운 루이즈 앙리케를 입찰합니다",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-drop-el-aynaoui-vaz-new-luiz-henrique/",
+  "fee": null,
+  "published": "2026-08-30T15:51:15+00:00"
+ },
+ {
   "id": "353fa0dfb810",
   "title": "Ehemaliger Union- und Gladbach-Stürmer: Jordan wechselt nach Fürth",
   "player": "Greuther Fürth",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-morata-prete-par-come-en-d2-espagnole_AV-202608280716.html",
   "fee": null,
   "published": "2026-08-28T17:28:27+00:00"
- },
- {
-  "id": "bef17e4876ad",
-  "title": "Done Deal: Bologna secure Enem in €6.5m agreement",
-  "player": "Crvena Zvezda",
-  "title_ko": "완료된 거래: 볼로냐는 650만 유로 계약으로 Enem을 확보했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-bologna-secure-enem-e6-5m-agreement/",
-  "fee": "€6.5M",
-  "published": "2026-08-28T17:20:59+00:00"
  }
 ]
