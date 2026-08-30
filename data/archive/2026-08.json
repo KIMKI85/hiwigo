@@ -1,5 +1,31 @@
 [
  {
+  "id": "5d14ca5c8547",
+  "title": "Barcelona agree deal to sign Jesus from Arsenal",
+  "player": "Gabriel Jesus",
+  "title_ko": "바르셀로나는 아스날에서 예수를 영입하기로 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
+  "fee": null,
+  "published": "2026-08-30T14:01:00+00:00"
+ },
+ {
+  "id": "635dfc52af05",
+  "title": "Barcelona close to deal for Arsenal's Jesus",
+  "player": "Arsenal's Jesus",
+  "title_ko": "바르셀로나는 아스날의 예수 영입에 가까워졌다",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T13:09:39+00:00"
+ },
+ {
   "id": "1e48071c3fba",
   "title": "Aston Villa and Chelsea relationship as Emi Martinez becomes EIGHTH transfer",
   "player": "Emi Martinez",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "5d14ca5c8547",
+  "title": "Barcelona agree deal to sign Jesus from Arsenal",
+  "player": "Gabriel Jesus",
+  "title_ko": "바르셀로나는 아스날에서 예수를 영입하기로 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
+  "fee": null,
+  "published": "2026-08-30T14:01:00+00:00"
+ },
+ {
+  "id": "635dfc52af05",
+  "title": "Barcelona close to deal for Arsenal's Jesus",
+  "player": "Arsenal's Jesus",
+  "title_ko": "바르셀로나는 아스날의 예수 영입에 가까워졌다",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T13:09:39+00:00"
+ },
+ {
   "id": "1e48071c3fba",
   "title": "Aston Villa and Chelsea relationship as Emi Martinez becomes EIGHTH transfer",
   "player": "Emi Martinez",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-balerdi-serait-tombe-d-accord-avec-l-as-roma_AV-202608280640.html",
   "fee": null,
   "published": "2026-08-28T16:14:27+00:00"
- },
- {
-  "id": "fbf3ec9f7319",
-  "title": "Arsenal could move for Marcus Rashford as Man Utd transfer raised with £50m deal to be confirmed",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유 이적이 £ 50M 계약으로 제기됨에 따라 아스날은 Marcus Rashford로 이적할 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-man-utd-transfer-news-37604753",
-  "fee": "£50M",
-  "published": "2026-08-28T16:14:02+00:00"
- },
- {
-  "id": "16c952c6b000",
-  "title": "Zweitklassig, aber Madrid: Morata wechselt nach Leganes",
-  "player": "Alvaro Morata",
-  "title_ko": "2급이지만 마드리드: 모라타가 레가네스로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/zweitklassig-aber-madrid-morata-wechselt-nach-leganes-1247602/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-28T16:10:36+00:00"
  }
 ]
