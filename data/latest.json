@@ -1,5 +1,31 @@
 [
  {
+  "id": "64d99e37781d",
+  "title": "Official: De Roon joins Roma from Atalanta as squad No. revealed",
+  "player": "De Roon",
+  "title_ko": "공식: De Roon이 아탈란타 출신의 로마 선수단에 스쿼드 번호가 공개됨에 따라 합류합니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-de-roon-joins-roma-from-atalanta-as-squad-no-revealed/",
+  "fee": null,
+  "published": "2026-08-30T21:24:17+00:00"
+ },
+ {
+  "id": "b689cde17a1d",
+  "title": "Liverpool set to complete transfer before deadline with clever clause agreed",
+  "player": "Liverpool's Stefan Bajcetic",
+  "title_ko": "리버풀은 영리한 조항이 합의된 상태에서 마감일 전에 이적을 완료하도록 설정됨",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-stefan-bajetic-37609366",
+  "fee": null,
+  "published": "2026-08-30T21:16:30+00:00"
+ },
+ {
   "id": "8026442c3605",
   "title": "Virgil van Dijk speaks out on Liverpool's transfer strategy that could force out Cody Gakpo",
   "player": "Virgil van Dijk",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-midfield-transfers-baleba-37595050",
   "fee": null,
   "published": "2026-08-29T04:30:00+00:00"
- },
- {
-  "id": "d7e4ba32dbf5",
-  "title": "Man Utd news: Left-back transfer priority switches as Chelsea star offered",
-  "player": null,
-  "title_ko": "맨유 뉴스: 첼시 스타가 제안한 레프트백 이적 우선순위 스위치",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-chelsea-defender-37604099",
-  "fee": null,
-  "published": "2026-08-29T03:30:00+00:00"
- },
- {
-  "id": "5bae7e448096",
-  "title": "Arsenal transfer news: Julian Alvarez 'being persuaded' as departing star's medical booked",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 이적 소식: Julian Alvarez, 출발 스타의 의료 예약으로 '설득 중'",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-alvarez-martinelli-atletico-37603995",
-  "fee": null,
-  "published": "2026-08-29T03:00:00+00:00"
  }
 ]
