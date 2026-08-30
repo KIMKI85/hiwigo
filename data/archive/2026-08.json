@@ -1,5 +1,31 @@
 [
  {
+  "id": "dfbe4cfdcb45",
+  "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
+  "player": "Iliman Ndiaye",
+  "title_ko": "Richarlison이 Everton을 위해 설정한 토트넘은 Ndiaye를 움직이게합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T10:39:54+00:00"
+ },
+ {
+  "id": "ba9f574d24bd",
+  "title": "Official: Roma announce Balerdi signing from Marseille",
+  "player": "Leonardo Balerdi",
+  "title_ko": "공식: 로마, 마르세유에서 발레르디 영입 발표",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-roma-sign-balerdi-from-marseille/",
+  "fee": null,
+  "published": "2026-08-30T10:25:37+00:00"
+ },
+ {
   "id": "043cee409c92",
   "title": "Serie A: l'arrière petit-fils de Mussolini signe ses débuts avec la Lazio et change son nom sur son flocage",
   "player": "Romano Floriani Mussolini",
