@@ -1,5 +1,18 @@
 [
  {
+  "id": "1e48071c3fba",
+  "title": "Aston Villa and Chelsea relationship as Emi Martinez becomes EIGHTH transfer",
+  "player": "Emi Martinez",
+  "title_ko": "Emi Martinez가 여덟 번째 이적이 됨에 따라 Aston Villa와 Chelsea의 관계",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-emi-martinez-villa-37608572",
+  "fee": null,
+  "published": "2026-08-30T12:54:06+00:00"
+ },
+ {
   "id": "462214ea4603",
   "title": "Video: De Roon arrives to complete Roma transfer",
   "player": "De Roon",
@@ -37,6 +50,19 @@
   "url": "https://football-italia.net/palestra-left-out-of-chelsea-squad-again/",
   "fee": "€60M",
   "published": "2026-08-30T12:18:59+00:00"
+ },
+ {
+  "id": "2ed1a77395f1",
+  "title": "Coventry sign Mfuni on loan from Man City",
+  "player": "Stephen Mfuni",
+  "title_ko": "맨시티에서 임대 중인 코번트리 사인 음푸니",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T11:55:34+00:00"
  },
  {
   "id": "28861ea031a3",

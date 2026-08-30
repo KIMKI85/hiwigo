@@ -1,5 +1,18 @@
 [
  {
+  "id": "1e48071c3fba",
+  "title": "Aston Villa and Chelsea relationship as Emi Martinez becomes EIGHTH transfer",
+  "player": "Emi Martinez",
+  "title_ko": "Emi Martinez가 여덟 번째 이적이 됨에 따라 Aston Villa와 Chelsea의 관계",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-emi-martinez-villa-37608572",
+  "fee": null,
+  "published": "2026-08-30T12:54:06+00:00"
+ },
+ {
   "id": "462214ea4603",
   "title": "Video: De Roon arrives to complete Roma transfer",
   "player": "De Roon",
@@ -37,6 +50,19 @@
   "url": "https://football-italia.net/palestra-left-out-of-chelsea-squad-again/",
   "fee": "€60M",
   "published": "2026-08-30T12:18:59+00:00"
+ },
+ {
+  "id": "2ed1a77395f1",
+  "title": "Coventry sign Mfuni on loan from Man City",
+  "player": "Stephen Mfuni",
+  "title_ko": "맨시티에서 임대 중인 코번트리 사인 음푸니",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T11:55:34+00:00"
  },
  {
   "id": "28861ea031a3",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/zweitklassig-aber-madrid-morata-wechselt-nach-leganes-1247602/artikel#omrss",
   "fee": null,
   "published": "2026-08-28T16:10:36+00:00"
- },
- {
-  "id": "598d3c86b5c5",
-  "title": "Offiziell: Hoffenheims Geiger wechselt nach Nijmegen",
-  "player": "Hoffenheims Geiger",
-  "title_ko": "공식: 호펜하임의 가이거가 네이메겐으로 이적합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/offiziell-hoffenheims-geiger-wechselt-nach-nijmegen-1247451/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-28T15:41:21+00:00"
- },
- {
-  "id": "77316a99385d",
-  "title": "Man Utd agree midfielder transfer as Red Devils receive cash boost before deadline",
-  "player": "Red Devils",
-  "title_ko": "맨유는 레드 데블스가 마감일 전에 현금 지원을 받자 미드필더 이적에 동의했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-carrick-collyer-37604741",
-  "fee": null,
-  "published": "2026-08-28T15:35:50+00:00"
  }
 ]
