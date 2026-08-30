@@ -1,5 +1,18 @@
 [
  {
+  "id": "8026442c3605",
+  "title": "Virgil van Dijk speaks out on Liverpool's transfer strategy that could force out Cody Gakpo",
+  "player": "Virgil van Dijk",
+  "title_ko": "버질 반 다이크가 코디 각포를 쫓아낼 수 있는 리버풀의 이적 전략에 대해 언급하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-van-dijk-gakpo-future-37609354",
+  "fee": null,
+  "published": "2026-08-30T19:58:32+00:00"
+ },
+ {
   "id": "f56b3432709c",
   "title": "Rashford's impact on Man Utd transfer deadline day plan as 'new signing' hailed",
   "player": "Marcus Rashford's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-alvarez-martinelli-atletico-37603995",
   "fee": null,
   "published": "2026-08-29T03:00:00+00:00"
- },
- {
-  "id": "273f54bb2072",
-  "title": "Venezia secure Barcelona talent Toni Fernandez in Nico Paz style deal",
-  "player": "Toni Fernandez",
-  "title_ko": "베니스는 니코 파즈 스타일 계약으로 바르셀로나의 재능 있는 토니 페르난데스를 확보했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/venezia-secure-barcelona-talent-toni-fernandez/",
-  "fee": null,
-  "published": "2026-08-28T21:56:32+00:00"
  }
 ]
