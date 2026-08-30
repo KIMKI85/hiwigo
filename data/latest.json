@@ -1,5 +1,18 @@
 [
  {
+  "id": "b4811130f633",
+  "title": "Für \"Kreativität und Spielstärke\": Paderborns Bätzner wechselt nach Essen",
+  "player": "Paderborns Bätzner",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/fuer-kreativitaet-und-spielstaerke-paderborns-baetzner-wechselt-nach-essen-1248114/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-30T11:34:08+00:00"
+ },
+ {
   "id": "bd9714e0d284",
   "title": "El traspaso de Oso al Estrasburgo ya es oficial",
   "player": "Oso al Estrasburgo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-city-enzo-fernandez-transfer-37604426",
   "fee": null,
   "published": "2026-08-28T14:37:45+00:00"
- },
- {
-  "id": "c8b2fb15dd56",
-  "title": "Fulham latest: Talks held to sign Romanian right-back",
-  "player": null,
-  "title_ko": "풀럼 최신 소식: 루마니아 우익수 서명을 위한 회담 개최",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-08-28T14:30:00+00:00"
  }
 ]
