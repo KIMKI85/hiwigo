@@ -13,6 +13,45 @@
   "published": "2026-08-30T14:01:00+00:00"
  },
  {
+  "id": "4bf4b9d8eec5",
+  "title": "Arsenal set to smash transfer record as Gabriel Martinelli closes in on Gunners exit",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날은 가브리엘 마르티넬리가 거너스 퇴장에 가까워지면서 이적 기록을 깨뜨릴 예정이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-set-smash-transfer-record-37608687",
+  "fee": null,
+  "published": "2026-08-30T13:55:35+00:00"
+ },
+ {
+  "id": "5e4178239795",
+  "title": "Leihe von Ajax-Profi Regeer: Werder reagiert auf Stage-Ausfall",
+  "player": "Leihe von Ajax-",
+  "title_ko": "Ajax 프로 Regeer의 임대 : Werder는 무대 실패에 반응합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/leihe-von-ajax-profi-regeer-werder-reagiert-auf-stage-ausfall-1248151/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-30T13:53:40+00:00"
+ },
+ {
+  "id": "270f7b8ca54e",
+  "title": "Julian Alvarez makes Atletico Madrid decision after Arsenal transfer call with Mikel Arteta",
+  "player": "Julian Alvarez",
+  "title_ko": "줄리안 알바레즈는 미켈 아르테타와의 아스날 이적 통화 후 아틀레티코 마드리드 결정을 내렸습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-atletico-madrid-transfer-37608628",
+  "fee": null,
+  "published": "2026-08-30T13:46:04+00:00"
+ },
+ {
   "id": "e36cd6b18401",
   "title": "Arsenal strike Gabriel Jesus transfer agreement with Barcelona as fee revealed",
   "player": "Gabriel Jesus",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/video-om-inquietant-et-dramatique-rothen-affole-par-l-absence-de-recrue_VN-202608280668.html",
   "fee": null,
   "published": "2026-08-28T16:34:33+00:00"
- },
- {
-  "id": "a808c4a89492",
-  "title": "Report Solet targeted by Crystal Palace with €25m bid after Ordonez problem",
-  "player": "Oumar Solet",
-  "title_ko": "Ordonez 문제 후 € 25M 입찰로 Crystal Palace가 타겟팅한 Solet 보고",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-solet-targeted-crystal-palace-ordonez/",
-  "fee": "€25M",
-  "published": "2026-08-28T16:32:16+00:00"
- },
- {
-  "id": "3caf564b5347",
-  "title": "Leihe ohne Kaufoption: Böving verstärkt den FCN",
-  "player": "Ende der Transferphase",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/leihe-ohne-kaufoption-boeving-verstaerkt-den-fcn-1247441/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-28T16:16:39+00:00"
- },
- {
-  "id": "c8768360fdea",
-  "title": "Mercato: Aston Villa en pole position pour accueillir le Parisien Ibrahim Mbaye",
-  "player": "Parisien Ibrahim Mbaye",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/mercato-aston-villa-en-pole-position-pour-accueillir-le-parisien-ibrahim-mbaye_AV-202608280642.html",
-  "fee": null,
-  "published": "2026-08-28T16:15:11+00:00"
  }
 ]
