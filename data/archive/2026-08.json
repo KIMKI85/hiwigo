@@ -1,5 +1,18 @@
 [
  {
+  "id": "28861ea031a3",
+  "title": "West Brom sign Collyer from Manchester United",
+  "player": "Bromwich Albion",
+  "title_ko": "맨체스터 유나이티드 웨스트 브롬 사인 콜리어",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T11:45:59+00:00"
+ },
+ {
   "id": "b4811130f633",
   "title": "Für \"Kreativität und Spielstärke\": Paderborns Bätzner wechselt nach Essen",
   "player": "Paderborns Bätzner",
@@ -180,6 +193,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-30T08:51:08+00:00"
+ },
+ {
+  "id": "0e1887564d53",
+  "title": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
+  "player": "Emiliano Martínez",
+  "title_ko": "Emiliano Martínez는 마침내 첼시로 £ 7.5M 이동하여 빌라 출구를 얻습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
+  "fee": "£7.5M",
+  "published": "2026-08-30T08:44:11+00:00"
  },
  {
   "id": "6d20e47c172b",

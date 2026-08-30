@@ -1,5 +1,18 @@
 [
  {
+  "id": "28861ea031a3",
+  "title": "West Brom sign Collyer from Manchester United",
+  "player": "Bromwich Albion",
+  "title_ko": "맨체스터 유나이티드 웨스트 브롬 사인 콜리어",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T11:45:59+00:00"
+ },
+ {
   "id": "b4811130f633",
   "title": "Für \"Kreativität und Spielstärke\": Paderborns Bätzner wechselt nach Essen",
   "player": "Paderborns Bätzner",
@@ -180,6 +193,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-30T08:51:08+00:00"
+ },
+ {
+  "id": "0e1887564d53",
+  "title": "Emiliano Martínez finally gets his Villa exit with £7.5m move to Chelsea",
+  "player": "Emiliano Martínez",
+  "title_ko": "Emiliano Martínez는 마침내 첼시로 £ 7.5M 이동하여 빌라 출구를 얻습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/30/emiliano-martinez-aston-villa-exit-move-chelsea",
+  "fee": "£7.5M",
+  "published": "2026-08-30T08:44:11+00:00"
  },
  {
   "id": "6d20e47c172b",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/aston-villa-unai-emery-transfers-37604503",
   "fee": null,
   "published": "2026-08-28T14:39:20+00:00"
- },
- {
-  "id": "8f078880c998",
-  "title": "Mercato: Alvarez a encore zappé l'entraînement, mais Simeone ne lui en veut pas",
-  "player": "Julian Alvarez",
-  "title_ko": "메르카토: 알바레스는 또 훈련을 빼먹었지만 시메오네는 그를 비난하지 않았다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-alvarez-a-encore-zappe-l-entrainement-mais-simeone-ne-lui-en-veut-pas_AV-202608280563.html",
-  "fee": null,
-  "published": "2026-08-28T14:38:01+00:00"
- },
- {
-  "id": "983e289f3d11",
-  "title": "Chelsea set Enzo Fernandez price tag with one factor blocking Man City deal",
-  "player": "Enzo Fernandez",
-  "title_ko": "첼시는 맨시티 계약을 막는 한 가지 요인으로 엔조 페르난데스의 가격표를 정했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-city-enzo-fernandez-transfer-37604426",
-  "fee": null,
-  "published": "2026-08-28T14:37:45+00:00"
  }
 ]
