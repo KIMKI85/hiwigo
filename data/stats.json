@@ -1,37 +1,30 @@
 {
- "updated": "2026-08-30T05:31:27.644846+00:00",
+ "updated": "2026-08-30T16:46:55.840691+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
     {
-     "date": "2026-08-29",
-     "home": "Tottenham",
-     "away": "Newcastle",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Coventry City",
-     "away": "Hull City",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Bournemouth",
-     "away": "Everton",
+     "date": "2026-08-30",
+     "home": "Leeds United",
+     "away": "Brentford",
      "hs": 1,
      "as": 1
     },
     {
-     "date": "2026-08-29",
-     "home": "Liverpool",
-     "away": "Nottingham",
-     "hs": 2,
-     "as": 2
+     "date": "2026-08-30",
+     "home": "Chelsea",
+     "away": "Brighton Hove",
+     "hs": 4,
+     "as": 3
+    },
+    {
+     "date": "2026-08-30",
+     "home": "Sunderland",
+     "away": "Fulham",
+     "hs": 1,
+     "as": 0
     },
     {
      "date": "2026-08-28",
@@ -60,6 +53,13 @@
      "away": "Aston Villa",
      "hs": 4,
      "as": 0
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Man City",
+     "away": "Bournemouth",
+     "hs": 2,
+     "as": 1
     }
    ],
    "scorers": [
@@ -74,6 +74,18 @@
      "team": "Newcastle",
      "goals": 2,
      "assists": 0
+    },
+    {
+     "name": "João Pedro",
+     "team": "Chelsea",
+     "goals": 2,
+     "assists": 2
+    },
+    {
+     "name": "Cole Palmer",
+     "team": "Chelsea",
+     "goals": 2,
+     "assists": 1
     },
     {
      "name": "Erling Haaland",
@@ -110,18 +122,6 @@
      "team": "Hull City",
      "goals": 1,
      "assists": 0
-    },
-    {
-     "name": "Nobel Mendy",
-     "team": "Hull City",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Emersonn",
-     "team": "Ipswich Town",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -129,27 +129,6 @@
    "name": "라리가",
    "standings": [],
    "results": [
-    {
-     "date": "2026-08-29",
-     "home": "Sevilla FC",
-     "away": "Atleti",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Real Sociedad",
-     "away": "Espanyol",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Levante",
-     "away": "Real Betis",
-     "hs": 5,
-     "as": 2
-    },
     {
      "date": "2026-08-28",
      "home": "Alavés",
@@ -184,9 +163,36 @@
      "away": "Real Sociedad",
      "hs": 4,
      "as": 1
+    },
+    {
+     "date": "2026-08-25",
+     "home": "Valencia",
+     "away": "Real Betis",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Málaga",
+     "away": "Deportivo",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Osasuna",
+     "away": "Levante",
+     "hs": 0,
+     "as": 0
     }
    ],
    "scorers": [
+    {
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
+     "goals": 4,
+     "assists": 0
+    },
     {
      "name": "Roberto Fernández",
      "team": "Espanyol",
@@ -208,12 +214,6 @@
     {
      "name": "Fermín López",
      "team": "Barça",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Kylian Mbappé",
-     "team": "Real Madrid",
      "goals": 3,
      "assists": 0
     },
@@ -242,10 +242,10 @@
      "assists": 0
     },
     {
-     "name": "Brugui",
-     "team": "Levante",
+     "name": "Jude Bellingham",
+     "team": "Real Madrid",
      "goals": 2,
-     "assists": 0
+     "assists": 2
     }
    ]
   },
@@ -253,34 +253,6 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
-    {
-     "date": "2026-08-29",
-     "home": "Juventus",
-     "away": "Parma",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Fiorentina",
-     "away": "Frosinone",
-     "hs": 0,
-     "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Monza",
-     "away": "Udinese",
-     "hs": 2,
-     "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Sassuolo",
-     "away": "Torino",
-     "hs": 2,
-     "as": 1
-    },
     {
      "date": "2026-08-28",
      "home": "Milan",
@@ -308,6 +280,34 @@
      "away": "Milan",
      "hs": 1,
      "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Atalanta",
+     "away": "Sassuolo",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Venezia FC",
+     "away": "Lecce",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Frosinone",
+     "away": "Juventus",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Parma",
+     "away": "Cagliari",
+     "hs": 0,
+     "as": 1
     }
    ],
    "scorers": [
@@ -378,46 +378,11 @@
    "standings": [],
    "results": [
     {
-     "date": "2026-08-29",
-     "home": "Dortmund",
-     "away": "HSV",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-08-29",
-     "home": "1. FC Köln",
-     "away": "Hoffenheim",
-     "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Elversberg",
-     "away": "Leverkusen",
-     "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Union Berlin",
-     "away": "Frankfurt",
-     "hs": 3,
-     "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Mainz",
-     "away": "SC Paderborn",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-08-29",
-     "home": "RB Leipzig",
-     "away": "M'gladbach",
-     "hs": 3,
-     "as": 0
+     "date": "2026-08-30",
+     "home": "Freiburg",
+     "away": "Bremen",
+     "hs": 4,
+     "as": 1
     },
     {
      "date": "2026-08-28",
@@ -431,6 +396,12 @@
     {
      "name": "Younes Ebnoutalib",
      "team": "Frankfurt",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Yuito Suzuki",
+     "team": "Freiburg",
      "goals": 3,
      "assists": 0
     },
@@ -481,12 +452,6 @@
      "team": "RB Leipzig",
      "goals": 1,
      "assists": 0
-    },
-    {
-     "name": "Rocco Reitz",
-     "team": "RB Leipzig",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -495,39 +460,11 @@
    "standings": [],
    "results": [
     {
-     "date": "2026-08-29",
-     "home": "Brest",
-     "away": "Toulouse",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Auxerre",
-     "away": "Angers SCO",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Olympique Lyon",
-     "away": "Le Havre",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Lorient",
-     "away": "Troyes",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Strasbourg",
-     "away": "RC Lens",
-     "hs": 2,
-     "as": 1
+     "date": "2026-08-30",
+     "home": "Paris FC",
+     "away": "Nice",
+     "hs": 3,
+     "as": 0
     },
     {
      "date": "2026-08-28",
@@ -549,6 +486,34 @@
      "away": "Monaco",
      "hs": 0,
      "as": 1
+    },
+    {
+     "date": "2026-08-23",
+     "home": "Angers SCO",
+     "away": "Lille",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Toulouse",
+     "away": "Olympique Lyon",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Nice",
+     "away": "Lorient",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Troyes",
+     "away": "Paris FC",
+     "hs": 0,
+     "as": 0
     }
    ],
    "scorers": [
@@ -557,6 +522,12 @@
      "team": "RC Lens",
      "goals": 3,
      "assists": 1
+    },
+    {
+     "name": "Louis Mafouta",
+     "team": "Le Mans",
+     "goals": 3,
+     "assists": 0
     },
     {
      "name": "Amine Gouiri",
@@ -569,6 +540,12 @@
      "team": "Brest",
      "goals": 2,
      "assists": 1
+    },
+    {
+     "name": "Esteban Lepaul",
+     "team": "Stade Rennais",
+     "goals": 2,
+     "assists": 0
     },
     {
      "name": "Ferrán Torres",
@@ -597,18 +574,6 @@
     {
      "name": "Franjo Ivanovic",
      "team": "RC Lens",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Saud Abdulhamid",
-     "team": "RC Lens",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Daniel Namaso",
-     "team": "Auxerre",
      "goals": 1,
      "assists": 0
     }
