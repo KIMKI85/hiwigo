@@ -13,6 +13,19 @@
   "published": "2026-08-30T09:10:00+00:00"
  },
  {
+  "id": "b4baba2d2218",
+  "title": "Martinez is eighth Chelsea-Villa deal in four years",
+  "player": "After Emiliano Martinez's",
+  "title_ko": "마르티네스는 4년 만에 8번째 첼시-빌라 딜을 성사시켰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-30T08:51:08+00:00"
+ },
+ {
   "id": "6d20e47c172b",
   "title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-juventus-zhegrova-replace-cancellieri/",
   "fee": null,
   "published": "2026-08-28T10:07:38+00:00"
- },
- {
-  "id": "704630a0bc3a",
-  "title": "Man Utd state of play on Lewis Hall and Marcus Rashford as forward closes on transfer exit",
-  "player": "Lewis Hall",
-  "title_ko": "이적 출구에서 포워드가 닫힐 때 루이스 홀과 마커스 래쉬포드의 맨유 플레이 상태",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-hall-rashford-zirkzee-37602625",
-  "fee": null,
-  "published": "2026-08-28T10:02:05+00:00"
  }
 ]
