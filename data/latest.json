@@ -1,5 +1,18 @@
 [
  {
+  "id": "3e1b55f50915",
+  "title": "Un attaquant supplémentaire, plusieurs départs, l'avenir de Lepaul... quelle fin de mercato pour le Stade rennais?",
+  "player": null,
+  "title_ko": "Un attaquant supplémentaire, plusieurs départs, l 'avenir de Lepaul... quelle fin de mercato pour le Stade rennais?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/un-attaquant-supplementaire-plusieurs-departs-l-avenir-de-lepaul-quelle-fin-de-mercato-pour-le-stade-rennais_AN-202608300460.html",
+  "fee": null,
+  "published": "2026-08-30T22:26:57+00:00"
+ },
+ {
   "id": "dbcef45963bd",
   "title": "OM: \"Ça me semble compliqué\", Bruno Genesio s'attend à boucler le mercato sans aucune recrue",
   "player": "Bruno Genesio",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/balerdi-set-for-roma-transfer-from-marseille/",
   "fee": null,
   "published": "2026-08-29T09:55:57+00:00"
- },
- {
-  "id": "08560b16a1c9",
-  "title": "Arsenal hand out summer contract after pre-season show impresses Mikel Arteta",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날은 프리시즌 쇼 후 여름 계약을 전달하고 미켈 아르테타에게 깊은 인상을 남겼습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-marli-salmon-professional-contract-37606184",
-  "fee": null,
-  "published": "2026-08-29T09:29:58+00:00"
  }
 ]
