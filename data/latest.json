@@ -1,5 +1,18 @@
 [
  {
+  "id": "bd9714e0d284",
+  "title": "El traspaso de Oso al Estrasburgo ya es oficial",
+  "player": "Oso al Estrasburgo",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/08/30/traspaso-oso-estrasburgo-oficial.html",
+  "fee": null,
+  "published": "2026-08-30T11:22:56+00:00"
+ },
+ {
   "id": "9bcbfd8cb22f",
   "title": "Arsenal complete move for record-breaking EFL wonderkid after signing Man Utd starlet",
   "player": null,
@@ -1283,19 +1296,6 @@
   "lv": 4,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-08-28T14:30:00+00:00"
- },
- {
-  "id": "57f5b6cedbf2",
-  "title": "Arsenal transfer state of play as Julian Alvarez meeting held and three departures loom",
-  "player": "Julian Alvarez",
-  "title_ko": "줄리안 알바레스 (Julian Alvarez) 회의가 개최되고 세 번의 출발이 베틀링됨에 따라 아스날 이적 상태",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-alvarez-martinelli-jesus-vieira-37603721",
   "fee": null,
   "published": "2026-08-28T14:30:00+00:00"
  }
