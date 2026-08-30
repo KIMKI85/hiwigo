@@ -1,5 +1,31 @@
 [
  {
+  "id": "deab80428490",
+  "title": "Official: ‘Excited’ Njie joins Fiorentina from Torino",
+  "player": "Alieu Njie",
+  "title_ko": "공식: '신나는' Njie, 토리노에서 피오렌티나로 합류",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-excited-njie-fiorentina-from-torino/",
+  "fee": null,
+  "published": "2026-08-30T16:44:12+00:00"
+ },
+ {
+  "id": "8a4054e758a8",
+  "title": "Nächster Hochkaräter für die SüperLig: Rafael Leao wechselt zu Galatasaray",
+  "player": "Nächster Hochkaräter",
+  "title_ko": "SüperLig의 다음 최고 수준 선수: Rafael Leao가 갈라타사라이로 이적합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/naechster-hochkaraeter-fuer-die-sueperlig-rafael-leao-wechselt-zu-galatasaray-1247608/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-30T16:29:27+00:00"
+ },
+ {
   "id": "52c9e2a74ec3",
   "title": "Man Utd told Victor Osimhen is 'waiting' for transfer as Benjamin Sesko plan tipped",
   "player": "Victor Osimhen",
@@ -37,6 +63,19 @@
   "url": "https://football-italia.net/roma-drop-el-aynaoui-vaz-new-luiz-henrique/",
   "fee": null,
   "published": "2026-08-30T15:51:15+00:00"
+ },
+ {
+  "id": "b9ec55e22a09",
+  "title": "LIVE! Ohne Wechsel geht es weiter - Karius bleibt beschäftigt",
+  "player": "Ohne Wechsel",
+  "title_ko": "살다! 상황은 변함없이 계속된다 - 카리우스는 여전히 바쁘다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-ohne-wechsel-geht-es-weiter-karius-bleibt-beschaeftigt-1247200/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-30T15:50:26+00:00"
  },
  {
   "id": "353fa0dfb810",
