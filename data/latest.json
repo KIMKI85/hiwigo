@@ -1,5 +1,18 @@
 [
  {
+  "id": "52c9e2a74ec3",
+  "title": "Man Utd told Victor Osimhen is 'waiting' for transfer as Benjamin Sesko plan tipped",
+  "player": "Victor Osimhen",
+  "title_ko": "맨유는 벤저민 세스코의 계획이 알려지면서 빅터 오시멘이 이적을 기다리고 있다고 말했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-osimhen-fernandes-transfer-37608945",
+  "fee": null,
+  "published": "2026-08-30T16:18:48+00:00"
+ },
+ {
   "id": "68afa5bb0b77",
   "title": "Mercato: Karim Benzema sur le point de quitter Al-Hilal mais pas pour prendre sa retraite",
   "player": "Karim Benzema",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13578178/ibrahim-mbaye-transfer-news-aston-villa-reach-verbal-agreement-to-sign-psg-and-senegal-forward",
   "fee": null,
   "published": "2026-08-28T17:38:00+00:00"
- },
- {
-  "id": "94ba4fb64c7e",
-  "title": "Done Deal: Theate return to Bologna on loan with €15m option to buy",
-  "player": "Arthur Theate",
-  "title_ko": "거래 완료: 테아테는 €15m 구매 옵션과 함께 볼로냐로 임대 복귀했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-theate-return-to-bologna-loan-e15m/",
-  "fee": "€15M",
-  "published": "2026-08-28T17:35:18+00:00"
  }
 ]
