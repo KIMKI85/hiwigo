@@ -1,5 +1,18 @@
 [
  {
+  "id": "48c0dae38dad",
+  "title": "New Juventus signing Ekhator has suffered a second injury already",
+  "player": "Jeff Ekhator",
+  "title_ko": "에카토르와 계약한 새로운 유벤투스가 이미 두 번째 부상을 입었습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-striker-ekhator-suffers-second-injury/",
+  "fee": null,
+  "published": "2026-08-30T09:41:51+00:00"
+ },
+ {
   "id": "b5aab79b460e",
   "title": "Hertha: Wechsel-Verbot für Mamuzah Lum",
   "player": "Mamuzah Lum",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-28T13:06:40+00:00"
- },
- {
-  "id": "471c33c9eda8",
-  "title": "OM : Garder Paixao, aucune recrue… Lorenzi répond à l'actu mercato",
-  "player": "Garder Paixao",
-  "title_ko": "OM: 파이샤오 유지, 영입 없음… 로렌지, 이적시장 소식에 반응",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/video-om-garder-paixao-aucune-recrue-lorenzi-repond-a-l-actu-mercato_VN-202608280488.html",
-  "fee": null,
-  "published": "2026-08-28T12:48:59+00:00"
  }
 ]
