@@ -1,5 +1,18 @@
 [
  {
+  "id": "7da2c044ce4a",
+  "title": "Mercato: annoncé à l'OM, Jean-Clair Todibo débarque à Lens",
+  "player": "Clair Todibo",
+  "title_ko": "Mercato: OM에서 발표됨, Jean-Clair Todibo가 Lens에 도착",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-annonce-a-l-om-jean-clair-todibo-debarque-a-lens_AV-202608300125.html",
+  "fee": null,
+  "published": "2026-08-30T07:41:06+00:00"
+ },
+ {
   "id": "2605109753d8",
   "title": "Transfer news LIVE: Barcola to Liverpool update, Arsenal's Alvarez pursuit, Rashford latest",
   "player": "Arsenal's Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/spanish-media-anthony-gordon-barcelona-37602761",
   "fee": null,
   "published": "2026-08-28T09:40:38+00:00"
- },
- {
-  "id": "eb921fde6bb2",
-  "title": "Mercato: un ancien flop de l’OM dans le viseur de Manchester City et Arsenal",
-  "player": "Olympique de",
-  "title_ko": "Mercato: 맨체스터 시티와 아스날의 눈에 띈 전 OM 실패작",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-ancien-flop-de-l-om-dans-le-viseur-de-manchester-city-et-arsenal_AV-202608280327.html",
-  "fee": null,
-  "published": "2026-08-28T08:51:53+00:00"
  }
 ]
