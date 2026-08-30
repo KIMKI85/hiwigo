@@ -1,5 +1,18 @@
 [
  {
+  "id": "68afa5bb0b77",
+  "title": "Mercato: Karim Benzema sur le point de quitter Al-Hilal mais pas pour prendre sa retraite",
+  "player": "Karim Benzema",
+  "title_ko": "메르카토: 카림 벤제마가 알힐랄을 떠날 예정이지만 은퇴하지는 않을 것",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-karim-benzema-sur-le-point-de-quitter-al-hilal-mais-pas-pour-prendre-sa-retraite_AV-202608300296.html",
+  "fee": null,
+  "published": "2026-08-30T16:07:34+00:00"
+ },
+ {
   "id": "43425dfc68ac",
   "title": "Roma drop El Aynaoui and Vaz, make new Luiz Henrique bid after problems",
   "player": "El Aynaoui",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/done-deal-theate-return-to-bologna-loan-e15m/",
   "fee": "€15M",
   "published": "2026-08-28T17:35:18+00:00"
- },
- {
-  "id": "c6d028da2715",
-  "title": "Mercato: Morata prêté par Côme en D2 espagnole",
-  "player": "Alvaro Morata",
-  "title_ko": "Mercato: 스페인어 D2에서 Como가 Morata를 임대함",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-morata-prete-par-come-en-d2-espagnole_AV-202608280716.html",
-  "fee": null,
-  "published": "2026-08-28T17:28:27+00:00"
  }
 ]
