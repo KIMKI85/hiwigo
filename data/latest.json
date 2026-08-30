@@ -1,5 +1,18 @@
 [
  {
+  "id": "9bcbfd8cb22f",
+  "title": "Arsenal complete move for record-breaking EFL wonderkid after signing Man Utd starlet",
+  "player": null,
+  "title_ko": "맨유 스타렛과 계약한 후 기록적인 EFL 원더키드를 위한 아스날의 완벽한 무브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-cardiff-axel-donczew-37608291",
+  "fee": null,
+  "published": "2026-08-30T11:01:41+00:00"
+ },
+ {
   "id": "dfbe4cfdcb45",
   "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
   "player": "Iliman Ndiaye",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
   "fee": "£65M",
   "published": "2026-08-28T13:50:40+00:00"
- },
- {
-  "id": "8925fcb8d4bc",
-  "title": "OM: \"Peut-être aucune recrue cet été\", le discours inquiétant de Lorenzi sur le mercato marseillais",
-  "player": "Olympique de",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-peut-etre-aucune-recrue-cet-ete-le-discours-inquietant-de-lorenzi-sur-le-mercato-marseillais_AV-202608280519.html",
-  "fee": null,
-  "published": "2026-08-28T13:31:41+00:00"
  }
 ]
