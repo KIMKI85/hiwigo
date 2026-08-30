@@ -1,5 +1,18 @@
 [
  {
+  "id": "e471963cdb25",
+  "title": "Chelsea sign Martinez from Villa",
+  "player": "Emi Martinez",
+  "title_ko": "빌라에서 첼시 사인 마르티네스까지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
+  "fee": null,
+  "published": "2026-08-30T09:10:00+00:00"
+ },
+ {
   "id": "6d20e47c172b",
   "title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-hall-rashford-zirkzee-37602625",
   "fee": null,
   "published": "2026-08-28T10:02:05+00:00"
- },
- {
-  "id": "d90237e5baae",
-  "title": "Paixao, Olise, Hamdani... Les 5 infos mercato du 28 août à la mi-journée",
-  "player": "Igor Paixao",
-  "title_ko": "파이샤오, 올리세, 함다니... 8월 28일 정오부터 5번의 이적 창구 안내",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/video-paixao-olise-hamdani-les-5-infos-mercato-du-28-aout-a-la-mi-journee_VN-202608280366.html",
-  "fee": null,
-  "published": "2026-08-28T09:44:47+00:00"
  }
 ]
