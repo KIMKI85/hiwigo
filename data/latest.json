@@ -1,5 +1,18 @@
 [
  {
+  "id": "416e477a7670",
+  "title": "Liverpool news: Bradley Barcola saving emerges as Reds 'plot' another transfer hijack",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 구원은 레즈가 또 다른 이적 하이잭을 '음모'하면서 등장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-fernandez-37606555",
+  "fee": null,
+  "published": "2026-08-30T04:00:00+00:00"
+ },
+ {
   "id": "5326f6a677a1",
   "title": "Man Utd news: Marcus Rashford transfer interest emerges as teammate told time at club is 'gone'",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-barcola-gakpo-sarr-latest-37602114",
   "fee": null,
   "published": "2026-08-28T07:22:26+00:00"
- },
- {
-  "id": "518b510d0612",
-  "title": "Donkor zurück bei RWO, Neuzugänge in Rhynern und Fulda: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "Donkor zurück bei RWO, Neuzugänge in Rhynern und Fulda: Die aktuellen 지역알리가에서 전송",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/donkor-zurueck-bei-rwo-neuzugaenge-in-rhynern-und-fulda-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-28T06:57:52+00:00"
  }
 ]
