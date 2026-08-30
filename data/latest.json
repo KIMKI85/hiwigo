@@ -1,5 +1,18 @@
 [
  {
+  "id": "462214ea4603",
+  "title": "Video: De Roon arrives to complete Roma transfer",
+  "player": "De Roon",
+  "title_ko": "비디오: 데 룬이 로마 이적을 완료하기 위해 도착함",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-de-roon-arrives-to-complete-roma-move/",
+  "fee": null,
+  "published": "2026-08-30T12:31:46+00:00"
+ },
+ {
   "id": "60d13d55c203",
   "title": "Tottenham to seal Iliman Ndiaye transfer after Cody Gakpo snub with Richarlison moving to Everton",
   "player": "Iliman Ndiaye",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-carrick-collyer-37604741",
   "fee": null,
   "published": "2026-08-28T15:35:50+00:00"
- },
- {
-  "id": "d0bede58eadf",
-  "title": "'Bomba!' De Zerbi delighted as Spurs transfers create 'great squad'",
-  "player": "De Zerbi",
-  "title_ko": "'봄바!' 드 제르비는 스퍼스 이적이 '위대한 스쿼드' 를 만들면서 기뻐했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13578157/tottenham-roberto-de-zerbi-delighted-with-spurs-transfer-business-after-dramatic-premier-league-survival-last-season",
-  "fee": null,
-  "published": "2026-08-28T15:14:00+00:00"
  }
 ]
