@@ -1,5 +1,18 @@
 [
  {
+  "id": "bb45ea7f5114",
+  "title": "Mercato: après l'échec du dossier Julian Alvarez, le Barça tient son nouveau numéro 9",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: après l 'échec du dossier Julian Alvarez, le Barça tient son nouveau numéro 9",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-apres-l-echec-du-dossier-julian-alvarez-le-barca-tient-son-nouveau-numero-9_AV-202608300274.html",
+  "fee": null,
+  "published": "2026-08-30T14:49:45+00:00"
+ },
+ {
   "id": "5d14ca5c8547",
   "title": "Barcelona agree deal to sign Jesus from Arsenal",
   "player": "Gabriel Jesus",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/leihe-mit-kaufpflicht-benkara-verstaerkt-fuerths-defensive-1247610/artikel#omrss",
   "fee": null,
   "published": "2026-08-28T16:47:00+00:00"
- },
- {
-  "id": "2ccdde205356",
-  "title": "OM : \"Inquiétant et dramatique\" Rothen affolé par l'absence de recrue",
-  "player": "Grégory Lorenzi",
-  "title_ko": "OM: \"Inquiétant et dramatique\" Rothen affolé par l 'absence de recrue",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/video-om-inquietant-et-dramatique-rothen-affole-par-l-absence-de-recrue_VN-202608280668.html",
-  "fee": null,
-  "published": "2026-08-28T16:34:33+00:00"
  }
 ]
