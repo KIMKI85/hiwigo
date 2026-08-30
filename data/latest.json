@@ -1,5 +1,18 @@
 [
  {
+  "id": "b5aab79b460e",
+  "title": "Hertha: Wechsel-Verbot für Mamuzah Lum",
+  "player": "Mamuzah Lum",
+  "title_ko": "헤르타: 마무자 룸의 이동 금지",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/hertha-wechsel-verbot-fuer-mamuzah-lum-1248063/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-30T09:33:06+00:00"
+ },
+ {
   "id": "2ec1bfd79ee9",
   "title": "Teenage Cardiff midfielder Donczew joins Arsenal",
   "player": "Teenage Cardiff",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-om-certains-joueurs-sont-pret-a-faire-des-sacrifices-assure-richard_VN-202608280477.html",
   "fee": null,
   "published": "2026-08-28T12:39:04+00:00"
- },
- {
-  "id": "447df92a590e",
-  "title": "Nottingham Forest increase bid for Fiorentina full-back Dodo",
-  "player": null,
-  "title_ko": "노팅엄 포레스트는 피오렌티나의 풀백 도도에 대한 입찰을 증가시켰습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/nottingham-forest-increase-dodo-bid/",
-  "fee": null,
-  "published": "2026-08-28T11:13:02+00:00"
  }
 ]
