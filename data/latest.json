@@ -13,6 +13,19 @@
   "published": "2026-08-30T09:33:06+00:00"
  },
  {
+  "id": "9fdb6c90392f",
+  "title": "Fulham approach Roma for Soule in final week of summer transfer window",
+  "player": null,
+  "title_ko": "Fulham approach Roma for Soule in the final week of summer transfer window",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fulham-approach-roma-for-soule/",
+  "fee": null,
+  "published": "2026-08-30T09:22:00+00:00"
+ },
+ {
   "id": "2ec1bfd79ee9",
   "title": "Teenage Cardiff midfielder Donczew joins Arsenal",
   "player": "Teenage Cardiff",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/video-om-garder-paixao-aucune-recrue-lorenzi-repond-a-l-actu-mercato_VN-202608280488.html",
   "fee": null,
   "published": "2026-08-28T12:48:59+00:00"
- },
- {
-  "id": "8a8692bc82e8",
-  "title": "OM : \"Certains joueurs sont prêt à faire des sacrifices\", assure Richard",
-  "player": "Stéphane Richard",
-  "title_ko": "OM: \"Certains joueurs sont prêt à faire des sacrifices\", assure Richard",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-om-certains-joueurs-sont-pret-a-faire-des-sacrifices-assure-richard_VN-202608280477.html",
-  "fee": null,
-  "published": "2026-08-28T12:39:04+00:00"
  }
 ]
