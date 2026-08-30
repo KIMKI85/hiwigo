@@ -1,5 +1,18 @@
 [
  {
+  "id": "043cee409c92",
+  "title": "Serie A: l'arrière petit-fils de Mussolini signe ses débuts avec la Lazio et change son nom sur son flocage",
+  "player": "Romano Floriani Mussolini",
+  "title_ko": "Serie A: l 'arrière petit-fils de Mussolini signe ses débuts avec la Lazio et change son nom sur son flocage",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/serie-a/serie-a-l-arriere-petit-fils-de-mussolini-signe-ses-debuts-avec-la-lazio-et-change-son-nom-sur-son-flocage_AV-202608300184.html",
+  "fee": null,
+  "published": "2026-08-30T10:25:24+00:00"
+ },
+ {
   "id": "48c0dae38dad",
   "title": "New Juventus signing Ekhator has suffered a second injury already",
   "player": "Jeff Ekhator",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-as-monaco-c-ets-important-d-avoi-run-transfert-de-plus-affirme-thiago-scuro_VN-202608280518.html",
   "fee": null,
   "published": "2026-08-28T13:22:58+00:00"
- },
- {
-  "id": "37181b1b290e",
-  "title": "Man Utd agree terms to sign Swedish winger Jusu Bah",
-  "player": "Jusu Bah",
-  "title_ko": "맨유는 스웨덴 윙어 주수 바 (Jusu Bah) 와 계약하는 데 동의한다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-28T13:06:40+00:00"
  }
 ]
