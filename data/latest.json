@@ -1,5 +1,18 @@
 [
  {
+  "id": "cb37f752d9d4",
+  "title": "Arsenal primed for chaotic end to window with winger signing and three exits agreed",
+  "player": "Gabriel Martinelli",
+  "title_ko": "윙어 서명과 세 개의 출구가 합의된 혼란스러운 창문 끝을 위해 준비된 아스날",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-window-latest-news-37608827",
+  "fee": null,
+  "published": "2026-08-30T15:08:55+00:00"
+ },
+ {
   "id": "bb45ea7f5114",
   "title": "Mercato: après l'échec du dossier Julian Alvarez, le Barça tient son nouveau numéro 9",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-miretti-besiktas-option-buy-juventus/",
   "fee": "€15.1M",
   "published": "2026-08-28T16:59:15+00:00"
- },
- {
-  "id": "b7c11689c979",
-  "title": "Leihe mit Kaufpflicht: Benkara verstärkt Fürths Defensive",
-  "player": "Fürths Defensive",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/leihe-mit-kaufpflicht-benkara-verstaerkt-fuerths-defensive-1247610/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-28T16:47:00+00:00"
  }
 ]
