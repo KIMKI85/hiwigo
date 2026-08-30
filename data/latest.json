@@ -1,5 +1,18 @@
 [
  {
+  "id": "2029dd28179e",
+  "title": "Xabi Alonso opens the door for Enzo Fernandez to join Man City in double transfer update",
+  "player": "Xabi Alonso",
+  "title_ko": "사비 알론소는 엔조 페르난데스에게 이중 이적 업데이트를 통해 맨시티에 합류할 수 있는 문을 열었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-opens-door-enzo-37609097",
+  "fee": null,
+  "published": "2026-08-30T16:51:03+00:00"
+ },
+ {
   "id": "bfd81c47cb44",
   "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
   "player": "Ollie Watkins",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-lille-psg-suivez-le-match-d-ouverture-de-la-deuxieme-journee-de-ligue-1-entre-le-losc-et-paris-en-live_LS-202608280570.html",
   "fee": null,
   "published": "2026-08-28T20:44:37+00:00"
- },
- {
-  "id": "6588d442dd8e",
-  "title": "Man City 'ready to rival Arsenal' in transfer race for Atletico Madrid star Julian Alvarez",
-  "player": "Julian Alvarez",
-  "title_ko": "아틀레티코 마드리드 스타 줄리안 알바레스의 이적 레이스에서 맨시티가 '아스널과 맞붙을 준비'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-man-city-37605592",
-  "fee": null,
-  "published": "2026-08-28T20:08:04+00:00"
  }
 ]
