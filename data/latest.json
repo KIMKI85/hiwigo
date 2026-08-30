@@ -1,5 +1,31 @@
 [
  {
+  "id": "2605109753d8",
+  "title": "Transfer news LIVE: Barcola to Liverpool update, Arsenal's Alvarez pursuit, Rashford latest",
+  "player": "Arsenal's Alvarez",
+  "title_ko": "이적 뉴스 라이브: 바르콜라에서 리버풀로 업데이트, 아스날의 알바레즈 추격, 래쉬포드 최신",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-barcola-alvarez-37607768",
+  "fee": null,
+  "published": "2026-08-30T07:10:15+00:00"
+ },
+ {
+  "id": "3fec9109c981",
+  "title": "Transfer latest as deadline looms, Premier League buildup and more – matchday live",
+  "player": null,
+  "title_ko": "마감일이 다가옴에 따라 최신 이적, 프리미어 리그 구축 등 – 매치데이 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
+  "fee": null,
+  "published": "2026-08-30T07:00:51+00:00"
+ },
+ {
   "id": "ba6e6b6fa71f",
   "title": "DIRECT. Mercato: City s'active pour Gakpo et Enzo Fernandez, Leipzig tout proche de signer El Aynaoui...",
   "player": "Enzo Fernandez",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-ancien-flop-de-l-om-dans-le-viseur-de-manchester-city-et-arsenal_AV-202608280327.html",
   "fee": null,
   "published": "2026-08-28T08:51:53+00:00"
- },
- {
-  "id": "76daa3ba7970",
-  "title": "Transfer latest, Premier League news, European draws, and more: football – live",
-  "player": null,
-  "title_ko": "최신 이적, 프리미어리그 뉴스, 유럽 대진표 등: 축구 – 라이브",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live",
-  "fee": null,
-  "published": "2026-08-28T08:30:56+00:00"
- },
- {
-  "id": "3ffae40f5557",
-  "title": "Football transfer rumours: Rafael Leão to Aston Villa? Harvey Elliott to Napoli or Lazio?",
-  "player": "Rafael Leão",
-  "title_ko": "축구 이적 루머: 라파엘 레오가 애스턴 빌라로? 하비 엘리엇이 나폴리로 갈 것인가, 아니면 라치오로 갈 것인가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/28/football-transfer-rumours-rafael-leao-to-aston-villa-harvey-elliott-to-napoli-or-lazio",
-  "fee": null,
-  "published": "2026-08-28T08:27:02+00:00"
  }
 ]
