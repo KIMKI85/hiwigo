@@ -1,5 +1,18 @@
 [
  {
+  "id": "dbcef45963bd",
+  "title": "OM: \"Ça me semble compliqué\", Bruno Genesio s'attend à boucler le mercato sans aucune recrue",
+  "player": "Bruno Genesio",
+  "title_ko": "OM: \"Ça me semble compliqué\", Bruno Genesio s 'attend à boucler le mercato sans aucune recrue",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/om-ca-me-semble-complique-bruno-genesio-s-attend-a-boucler-le-mercato-sans-aucune-recrue_AV-202608300449.html",
+  "fee": null,
+  "published": "2026-08-30T22:04:04+00:00"
+ },
+ {
   "id": "7a3f6cabba28",
   "title": "Atalanta defender Ahanor to Chelsea for €48m then Crystal Palace loan agreement",
   "player": "Honest Ahanor",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-marli-salmon-professional-contract-37606184",
   "fee": null,
   "published": "2026-08-29T09:29:58+00:00"
- },
- {
-  "id": "5f90d0ec3def",
-  "title": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀이 윙어와 £123m 계약을 마무리함에 따라 브래들리 바르콜라가 의료 서비스를 받을 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league",
-  "fee": "£123M",
-  "published": "2026-08-29T09:22:47+00:00"
  }
 ]
