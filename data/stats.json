@@ -1,10 +1,17 @@
 {
- "updated": "2026-08-29T16:46:52.370611+00:00",
+ "updated": "2026-08-30T05:31:27.644846+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-29",
+     "home": "Tottenham",
+     "away": "Newcastle",
+     "hs": 0,
+     "as": 2
+    },
     {
      "date": "2026-08-29",
      "home": "Coventry City",
@@ -53,19 +60,18 @@
      "away": "Aston Villa",
      "hs": 4,
      "as": 0
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Man City",
-     "away": "Bournemouth",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
     {
      "name": "Jack Hinshelwood",
      "team": "Brighton Hove",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Anthony Elanga",
+     "team": "Newcastle",
      "goals": 2,
      "assists": 0
     },
@@ -116,12 +122,6 @@
      "team": "Ipswich Town",
      "goals": 1,
      "assists": 0
-    },
-    {
-     "name": "Nilson Angulo",
-     "team": "Sunderland",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,27 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-29",
+     "home": "Sevilla FC",
+     "away": "Atleti",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Real Sociedad",
+     "away": "Espanyol",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Levante",
+     "away": "Real Betis",
+     "hs": 5,
+     "as": 2
+    },
     {
      "date": "2026-08-28",
      "home": "Alavés",
@@ -163,30 +184,21 @@
      "away": "Real Sociedad",
      "hs": 4,
      "as": 1
-    },
-    {
-     "date": "2026-08-25",
-     "home": "Valencia",
-     "away": "Real Betis",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-24",
-     "home": "Málaga",
-     "away": "Deportivo",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-08-24",
-     "home": "Osasuna",
-     "away": "Levante",
-     "hs": 0,
-     "as": 0
     }
    ],
    "scorers": [
+    {
+     "name": "Roberto Fernández",
+     "team": "Espanyol",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Álex Baena",
+     "team": "Atleti",
+     "goals": 3,
+     "assists": 1
+    },
     {
      "name": "Raphinha",
      "team": "Barça",
@@ -218,12 +230,6 @@
      "assists": 2
     },
     {
-     "name": "Roberto Fernández",
-     "team": "Espanyol",
-     "goals": 2,
-     "assists": 0
-    },
-    {
      "name": "Pierre-Emerick Aubameyang",
      "team": "Deportivo",
      "goals": 2,
@@ -240,12 +246,6 @@
      "team": "Levante",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Nahuel Tenaglia",
-     "team": "Alavés",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,34 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-29",
+     "home": "Juventus",
+     "away": "Parma",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Fiorentina",
+     "away": "Frosinone",
+     "hs": 0,
+     "as": 3
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Monza",
+     "away": "Udinese",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Sassuolo",
+     "away": "Torino",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-08-28",
      "home": "Milan",
@@ -280,34 +308,6 @@
      "away": "Milan",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Atalanta",
-     "away": "Sassuolo",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Venezia FC",
-     "away": "Lecce",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Frosinone",
-     "away": "Juventus",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Parma",
-     "away": "Cagliari",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -320,7 +320,19 @@
     {
      "name": "Hassane Kamara",
      "team": "Udinese",
-     "goals": 1,
+     "goals": 2,
+     "assists": 1
+    },
+    {
+     "name": "Gustavo Varela",
+     "team": "Monza",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Antonio Raimondo",
+     "team": "Frosinone",
+     "goals": 2,
      "assists": 0
     },
     {
@@ -332,12 +344,6 @@
     {
      "name": "Hakan Çalhanoğlu",
      "team": "Inter",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Gustavo Varela",
-     "team": "Monza",
      "goals": 1,
      "assists": 0
     },
@@ -364,12 +370,6 @@
      "team": "Napoli",
      "goals": 1,
      "assists": 1
-    },
-    {
-     "name": "Antonio Vergara",
-     "team": "Napoli",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-29",
+     "home": "Dortmund",
+     "away": "HSV",
+     "hs": 2,
+     "as": 0
+    },
     {
      "date": "2026-08-29",
      "home": "1. FC Köln",
@@ -488,6 +495,41 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-08-29",
+     "home": "Brest",
+     "away": "Toulouse",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Auxerre",
+     "away": "Angers SCO",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Olympique Lyon",
+     "away": "Le Havre",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Lorient",
+     "away": "Troyes",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-08-29",
+     "home": "Strasbourg",
+     "away": "RC Lens",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-08-28",
      "home": "Lille",
      "away": "PSG",
@@ -507,41 +549,6 @@
      "away": "Monaco",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-08-23",
-     "home": "Angers SCO",
-     "away": "Lille",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Toulouse",
-     "away": "Olympique Lyon",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Nice",
-     "away": "Lorient",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Troyes",
-     "away": "Paris FC",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-08-22",
-     "home": "Le Mans",
-     "away": "Brest",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -558,8 +565,20 @@
      "assists": 0
     },
     {
+     "name": "Kamory Doumbia",
+     "team": "Brest",
+     "goals": 2,
+     "assists": 1
+    },
+    {
      "name": "Ferrán Torres",
      "team": "PSG",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Gessime Yassine",
+     "team": "Strasbourg",
      "goals": 2,
      "assists": 0
     },
@@ -589,18 +608,6 @@
     },
     {
      "name": "Daniel Namaso",
-     "team": "Auxerre",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Pierre Ganiou",
-     "team": "RC Lens",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Lamine Sy",
      "team": "Auxerre",
      "goals": 1,
      "assists": 0
