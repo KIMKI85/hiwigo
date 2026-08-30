@@ -1,5 +1,18 @@
 [
  {
+  "id": "6d20e47c172b",
+  "title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭은 '시간이 지났다'는 맨유의 대체 선수를 영입하라고 말했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-haw-hall-37607865",
+  "fee": null,
+  "published": "2026-08-30T07:58:55+00:00"
+ },
+ {
   "id": "7da2c044ce4a",
   "title": "Mercato: annoncé à l'OM, Jean-Clair Todibo débarque à Lens",
   "player": "Clair Todibo",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-paixao-olise-hamdani-les-5-infos-mercato-du-28-aout-a-la-mi-journee_VN-202608280366.html",
   "fee": null,
   "published": "2026-08-28T09:44:47+00:00"
- },
- {
-  "id": "421d8a3d0a03",
-  "title": "Spanish press in Anthony Gordon agreement as they point finger at Barcelona teammate",
-  "player": "Anthony Gordon",
-  "title_ko": "스페인 언론이 앤서니 고든과 합의하면서 바르셀로나 팀원을 가리키고 있다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/spanish-media-anthony-gordon-barcelona-37602761",
-  "fee": null,
-  "published": "2026-08-28T09:40:38+00:00"
  }
 ]
