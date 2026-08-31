@@ -13,6 +13,19 @@
   "published": "2026-08-31T19:15:00+00:00"
  },
  {
+  "id": "93d4fc6d5f1f",
+  "title": "Man City agree £65m Ndiaye deal, Spurs turn attention to Mudryk",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨시티는 £ 65M Ndiaye 거래에 동의하고, 스퍼스는 Mudryk에게 관심을 돌립니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+  "fee": "£65M",
+  "published": "2026-08-31T19:15:00+00:00"
+ },
+ {
   "id": "84b3dbc2684c",
   "title": "Man City open talks with Chelsea to sign Fernandez",
   "player": "Enzo Fernandez",
@@ -24,6 +37,32 @@
   "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
   "fee": null,
   "published": "2026-08-31T19:10:00+00:00"
+ },
+ {
+  "id": "b94b0ef2b9cd",
+  "title": "Wende bei Mbangula: Per Leihe mit Kaufoption nach Bologna",
+  "player": "Per Leihe",
+  "title_ko": "음방굴라에서의 턴어라운드: 볼로냐로의 구매 옵션이 있는 임대 중",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wende-bei-mbangula-per-leihe-mit-kaufoption-nach-bologna-1248516/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T18:40:30+00:00"
+ },
+ {
+  "id": "b192e520b0bc",
+  "title": "Aznou, sexto fichaje del Málaga para cerrar el lateral zurdo",
+  "player": null,
+  "title_ko": "아즈누, 말라가의 6번째 영입으로 왼손 측면 마무리",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/31/aznou-sexto-fichaje-malaga-cerrar-lateral-zurdo.html",
+  "fee": null,
+  "published": "2026-08-31T18:33:18+00:00"
  },
  {
   "id": "723a1cbdc61a",

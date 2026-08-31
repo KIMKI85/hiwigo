@@ -1,5 +1,18 @@
 [
  {
+  "id": "93d4fc6d5f1f",
+  "title": "Man City agree £65m Ndiaye deal, Spurs turn attention to Mudryk",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨시티는 £ 65M Ndiaye 거래에 동의하고, 스퍼스는 Mudryk에게 관심을 돌립니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+  "fee": "£65M",
+  "published": "2026-08-31T19:15:00+00:00"
+ },
+ {
   "id": "0b1ce05568b4",
   "title": "Man City advancing on Ndiaye deal, Spurs turn attention to Mudryk",
   "player": "Iliman Ndiaye",
@@ -24,6 +37,32 @@
   "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
   "fee": null,
   "published": "2026-08-31T19:10:00+00:00"
+ },
+ {
+  "id": "b94b0ef2b9cd",
+  "title": "Wende bei Mbangula: Per Leihe mit Kaufoption nach Bologna",
+  "player": "Per Leihe",
+  "title_ko": "음방굴라에서의 턴어라운드: 볼로냐로의 구매 옵션이 있는 임대 중",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wende-bei-mbangula-per-leihe-mit-kaufoption-nach-bologna-1248516/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T18:40:30+00:00"
+ },
+ {
+  "id": "b192e520b0bc",
+  "title": "Aznou, sexto fichaje del Málaga para cerrar el lateral zurdo",
+  "player": null,
+  "title_ko": "아즈누, 말라가의 6번째 영입으로 왼손 측면 마무리",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/08/31/aznou-sexto-fichaje-malaga-cerrar-lateral-zurdo.html",
+  "fee": null,
+  "published": "2026-08-31T18:33:18+00:00"
  },
  {
   "id": "723a1cbdc61a",
@@ -1259,44 +1298,5 @@
   "url": "https://www.kicker.de/naechster-hochkaraeter-fuer-die-sueperlig-rafael-leao-wechselt-zu-galatasaray-1247608/artikel#omrss",
   "fee": null,
   "published": "2026-08-30T16:29:27+00:00"
- },
- {
-  "id": "52c9e2a74ec3",
-  "title": "Man Utd told Victor Osimhen is 'waiting' for transfer as Benjamin Sesko plan tipped",
-  "player": "Victor Osimhen",
-  "title_ko": "맨유는 벤저민 세스코의 계획이 알려지면서 빅터 오시멘이 이적을 기다리고 있다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-osimhen-fernandes-transfer-37608945",
-  "fee": null,
-  "published": "2026-08-30T16:18:48+00:00"
- },
- {
-  "id": "68afa5bb0b77",
-  "title": "Mercato: Karim Benzema sur le point de quitter Al-Hilal mais pas pour prendre sa retraite",
-  "player": "Karim Benzema",
-  "title_ko": "메르카토: 카림 벤제마가 알힐랄을 떠날 예정이지만 은퇴하지는 않을 것",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-karim-benzema-sur-le-point-de-quitter-al-hilal-mais-pas-pour-prendre-sa-retraite_AV-202608300296.html",
-  "fee": null,
-  "published": "2026-08-30T16:07:34+00:00"
- },
- {
-  "id": "43425dfc68ac",
-  "title": "Roma drop El Aynaoui and Vaz, make new Luiz Henrique bid after problems",
-  "player": "El Aynaoui",
-  "title_ko": "로마는 엘 아이나우이와 바즈를 떨어뜨리고, 문제 발생 후 새로운 루이즈 앙리케를 입찰합니다",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-drop-el-aynaoui-vaz-new-luiz-henrique/",
-  "fee": null,
-  "published": "2026-08-30T15:51:15+00:00"
  }
 ]
