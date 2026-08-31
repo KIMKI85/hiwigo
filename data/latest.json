@@ -1,5 +1,18 @@
 [
  {
+  "id": "c794e3707130",
+  "title": "DIRECT. Mercato: l'OM sans recrue, suivez en live toutes les infos à la veille de la fermeture du marché",
+  "player": null,
+  "title_ko": "직접. Mercato: 모집자가 없는 OM, 시장 마감 직전에 모든 뉴스를 실시간으로 확인하세요",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-31-aout-veille-de-la-cloture-du-marche_LN-202608310104.html",
+  "fee": null,
+  "published": "2026-08-31T05:11:15+00:00"
+ },
+ {
   "id": "a60d6515fe8c",
   "title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
   "player": "Michael Carrick's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-zirkzee-atletico-alvarez-future-37606400",
   "fee": null,
   "published": "2026-08-29T10:58:08+00:00"
- },
- {
-  "id": "c9c5b4521f8a",
-  "title": "Steht direkt im Kader: Von der Hitz wechselt per Leihe nach Aachen",
-  "player": "Von der Hitz",
-  "title_ko": "스쿼드에 직접 포함됨: 폰 데어 히츠는 임대로 아헨으로 이적합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/steht-direkt-im-kader-von-der-hitz-wechselt-per-leihe-nach-aachen-1247748/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-29T10:49:06+00:00"
  }
 ]
