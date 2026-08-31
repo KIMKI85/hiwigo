@@ -13,6 +13,45 @@
   "published": "2026-08-31T12:25:00+00:00"
  },
  {
+  "id": "ee74cfba819d",
+  "title": "Lösung im Sturm: Hertha vor Nilsson-Leihe",
+  "player": "Alle Seiten",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/loesung-im-sturm-hertha-vor-nilsson-leihe-1248462/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T12:08:30+00:00"
+ },
+ {
+  "id": "84b50c98c14c",
+  "title": "Football transfer deadline day looms: Manchester City sign Allan, Muñoz joins Forest, and more – live",
+  "player": "Jayce Fitzgerald",
+  "title_ko": "축구 이적 마감일이 다가오고 있습니다: 맨체스터 시티에서 Allan을 영입하고 Muñoz가 Forest에 합류하는 등 – 실시간",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
+  "fee": null,
+  "published": "2026-08-31T12:06:54+00:00"
+ },
+ {
+  "id": "417ce0a45ec6",
+  "title": "Man City sign Palmeiras winger Allan for £34m",
+  "player": "Allan Elias",
+  "title_ko": "맨시티는 팔메이라스의 윙어 앨런을 £34m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
+  "fee": "£34M",
+  "published": "2026-08-31T12:00:06+00:00"
+ },
+ {
   "id": "5616f63053f9",
   "title": "Gary Neville reveals dream end to Man Utd transfer window with two new arrivals",
   "player": "Gary Neville",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/chelsea-brighton-graham-potter-sweden-37606477",
   "fee": null,
   "published": "2026-08-30T05:00:00+00:00"
- },
- {
-  "id": "416e477a7670",
-  "title": "Liverpool news: Bradley Barcola saving emerges as Reds 'plot' another transfer hijack",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 구원은 레즈가 또 다른 이적 하이잭을 '음모'하면서 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-fernandez-37606555",
-  "fee": null,
-  "published": "2026-08-30T04:00:00+00:00"
- },
- {
-  "id": "5326f6a677a1",
-  "title": "Man Utd news: Marcus Rashford transfer interest emerges as teammate told time at club is 'gone'",
-  "player": "Marcus Rashford",
-  "title_ko": "맨체스터 유나이티드 소식: 마커스 래시포드 이적설이 팀원이 클럽에서 '사라졌다' 고 말하면서 나옵니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-rashford-37606768",
-  "fee": null,
-  "published": "2026-08-30T03:30:00+00:00"
- },
- {
-  "id": "aa2177376cc3",
-  "title": "Arsenal news: Julian Alvarez transfer deadline emerges as star signs contract",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 뉴스: 줄리안 알바레즈 이적 마감일이 스타 사인 계약으로 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37606505",
-  "fee": null,
-  "published": "2026-08-30T03:00:00+00:00"
  }
 ]
