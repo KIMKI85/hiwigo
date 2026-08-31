@@ -13,6 +13,32 @@
   "published": "2026-08-31T12:25:00+00:00"
  },
  {
+  "id": "5616f63053f9",
+  "title": "Gary Neville reveals dream end to Man Utd transfer window with two new arrivals",
+  "player": "Gary Neville",
+  "title_ko": "게리 네빌은 두 명의 새로운 도착으로 맨유 이적 기간의 꿈의 끝을 밝힙니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-gary-neville-37610787",
+  "fee": null,
+  "published": "2026-08-31T11:46:03+00:00"
+ },
+ {
+  "id": "6de98d6b861e",
+  "title": "Official: Inter send Massolin to Cagliari in potential €7m deal with buy-back option",
+  "player": "Yanis Massolin",
+  "title_ko": "공식: 인터밀란은 바이백 옵션이 포함된 잠재적인 €7m 거래로 마솔린을 칼리아리로 보냅니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-send-massolin-to-cagliari/",
+  "fee": "€7M",
+  "published": "2026-08-31T11:38:37+00:00"
+ },
+ {
   "id": "f14575957b9e",
   "title": "Swansea agree loan of Manchester City's Monga",
   "player": "City's Monga",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37606505",
   "fee": null,
   "published": "2026-08-30T03:00:00+00:00"
- },
- {
-  "id": "b8704a8b5519",
-  "title": "Done Deal: Gimenez ready for FC Porto in €20m Milan agreement",
-  "player": "Santiago Gimenez",
-  "title_ko": "완료된 거래: 히메네스는 €20m 밀란 계약으로 FC 포르투를 떠날 준비가 되어 있습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-gimenez-ready-for-fc-porto-milan/",
-  "fee": "€20M",
-  "published": "2026-08-29T22:56:40+00:00"
- },
- {
-  "id": "46ec3ea1cd0c",
-  "title": "Hull agree deal with Frankfurt for winger Bahoya",
-  "player": "Matteo Bahoya",
-  "title_ko": "헐, 프랑크푸르트와 윙어 바호야 영입 합의",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-29T22:24:56+00:00"
  }
 ]

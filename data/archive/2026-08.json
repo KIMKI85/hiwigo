@@ -13,6 +13,32 @@
   "published": "2026-08-31T12:25:00+00:00"
  },
  {
+  "id": "5616f63053f9",
+  "title": "Gary Neville reveals dream end to Man Utd transfer window with two new arrivals",
+  "player": "Gary Neville",
+  "title_ko": "게리 네빌은 두 명의 새로운 도착으로 맨유 이적 기간의 꿈의 끝을 밝힙니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-gary-neville-37610787",
+  "fee": null,
+  "published": "2026-08-31T11:46:03+00:00"
+ },
+ {
+  "id": "6de98d6b861e",
+  "title": "Official: Inter send Massolin to Cagliari in potential €7m deal with buy-back option",
+  "player": "Yanis Massolin",
+  "title_ko": "공식: 인터밀란은 바이백 옵션이 포함된 잠재적인 €7m 거래로 마솔린을 칼리아리로 보냅니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-send-massolin-to-cagliari/",
+  "fee": "€7M",
+  "published": "2026-08-31T11:38:37+00:00"
+ },
+ {
   "id": "f14575957b9e",
   "title": "Swansea agree loan of Manchester City's Monga",
   "player": "City's Monga",
