@@ -1,5 +1,44 @@
 [
  {
+  "id": "ae7d76c51a12",
+  "title": "Beto and Gnonto undergoing Fiorentina medical tests from Everton and Leeds United",
+  "player": null,
+  "title_ko": "베토와 그논토는 에버튼과 리즈 유나이티드로부터 피오렌티나 메디컬 테스트를 받고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/beto-gnonto-undergoing-fiorentina-medical-test/",
+  "fee": null,
+  "published": "2026-08-31T21:45:03+00:00"
+ },
+ {
+  "id": "0d0f0b5c2e68",
+  "title": "Arsenal battle to Aston Villa win but question remains ahead of transfer deadline day",
+  "player": "Bukayo Saka's",
+  "title_ko": "Aston Villa와의 아스날 전투에서 승리했지만 이적 마감일을 앞두고 질문이 남아 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/match-reports/arsenal-aston-villa-bukayo-saka-37612809",
+  "fee": null,
+  "published": "2026-08-31T21:31:32+00:00"
+ },
+ {
+  "id": "03558cd04f59",
+  "title": "Hull agree £22m fee for Everton's Iroegbunam",
+  "player": "Everton's Iroegbunam",
+  "title_ko": "Hull은 Everton의 Irogbunam에 대한 £ 22m 수수료에 동의합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss",
+  "fee": "£22M",
+  "published": "2026-08-31T21:29:58+00:00"
+ },
+ {
   "id": "b739a8aa53fa",
   "title": "Report Norton-Cuffy close to Venezia in €14m plus Sagrado agreement",
   "player": "Sky Sport Italia",

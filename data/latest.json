@@ -1,5 +1,44 @@
 [
  {
+  "id": "ae7d76c51a12",
+  "title": "Beto and Gnonto undergoing Fiorentina medical tests from Everton and Leeds United",
+  "player": null,
+  "title_ko": "베토와 그논토는 에버튼과 리즈 유나이티드로부터 피오렌티나 메디컬 테스트를 받고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/beto-gnonto-undergoing-fiorentina-medical-test/",
+  "fee": null,
+  "published": "2026-08-31T21:45:03+00:00"
+ },
+ {
+  "id": "0d0f0b5c2e68",
+  "title": "Arsenal battle to Aston Villa win but question remains ahead of transfer deadline day",
+  "player": "Bukayo Saka's",
+  "title_ko": "Aston Villa와의 아스날 전투에서 승리했지만 이적 마감일을 앞두고 질문이 남아 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/match-reports/arsenal-aston-villa-bukayo-saka-37612809",
+  "fee": null,
+  "published": "2026-08-31T21:31:32+00:00"
+ },
+ {
+  "id": "03558cd04f59",
+  "title": "Hull agree £22m fee for Everton's Iroegbunam",
+  "player": "Everton's Iroegbunam",
+  "title_ko": "Hull은 Everton의 Irogbunam에 대한 £ 22m 수수료에 동의합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss",
+  "fee": "£22M",
+  "published": "2026-08-31T21:29:58+00:00"
+ },
+ {
   "id": "b739a8aa53fa",
   "title": "Report Norton-Cuffy close to Venezia in €14m plus Sagrado agreement",
   "player": "Sky Sport Italia",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37608571",
   "fee": null,
   "published": "2026-08-31T03:00:00+00:00"
- },
- {
-  "id": "f7bed8189e06",
-  "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-  "player": "Unai Emery",
-  "title_ko": "애스턴 빌라와 첼시는 이적 파이프라인에도 불구하고 여전히 적이라고 에메리는 주장했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
-  "fee": null,
-  "published": "2026-08-31T01:00:11+00:00"
- },
- {
-  "id": "3e1b55f50915",
-  "title": "Un attaquant supplémentaire, plusieurs départs, l'avenir de Lepaul... quelle fin de mercato pour le Stade rennais?",
-  "player": null,
-  "title_ko": "Un attaquant supplémentaire, plusieurs départs, l 'avenir de Lepaul... quelle fin de mercato pour le Stade rennais?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/un-attaquant-supplementaire-plusieurs-departs-l-avenir-de-lepaul-quelle-fin-de-mercato-pour-le-stade-rennais_AN-202608300460.html",
-  "fee": null,
-  "published": "2026-08-30T22:26:57+00:00"
- },
- {
-  "id": "dbcef45963bd",
-  "title": "OM: \"Ça me semble compliqué\", Bruno Genesio s'attend à boucler le mercato sans aucune recrue",
-  "player": "Bruno Genesio",
-  "title_ko": "OM: \"Ça me semble compliqué\", Bruno Genesio s 'attend à boucler le mercato sans aucune recrue",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/om-ca-me-semble-complique-bruno-genesio-s-attend-a-boucler-le-mercato-sans-aucune-recrue_AV-202608300449.html",
-  "fee": null,
-  "published": "2026-08-30T22:04:04+00:00"
  }
 ]
