@@ -1,5 +1,44 @@
 [
  {
+  "id": "ce14fec0e16e",
+  "title": "Aperribay: \"Me llegó una oferta sorprendente, pero el jugador se cerró en banda al traspaso\"",
+  "player": null,
+  "title_ko": "아페리바이: \"놀라운 제안을 받았지만 선수가 이적을 거부했다\"",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/08/31/aperribay-me-llego-oferta-sorprendente-jugador-cerro-banda-traspaso.html",
+  "fee": null,
+  "published": "2026-08-31T15:17:03+00:00"
+ },
+ {
+  "id": "518deab4b533",
+  "title": "Everton make bid for Monaco striker Balogun",
+  "player": "Folarin Balogun",
+  "title_ko": "에버턴, 모나코 공격수 발로군에 입찰",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T15:16:28+00:00"
+ },
+ {
+  "id": "8b87bc48d209",
+  "title": "Lazio agreement for Dia to Rennes for €8.5m, request Man from PSV",
+  "player": "Boulaye Dia",
+  "title_ko": "850만 유로에 디아와 렌의 라치오 계약, PSV에 맨을 요청",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-agreement-dia-rennes-e8-5m-request-man/",
+  "fee": "€8.5M",
+  "published": "2026-08-31T15:15:44+00:00"
+ },
+ {
   "id": "81196aacb91a",
   "title": "KSC-Talent Ben Farhat wechselt schon wieder den Berater",
   "player": "Talent Ben Farhat",
