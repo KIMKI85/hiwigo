@@ -1,5 +1,31 @@
 [
  {
+  "id": "9f23afbdd3b8",
+  "title": "Kehrtwende beim Doan-Deal: Der Frankfurter sagt Al-Ittihad ab",
+  "player": "Der Frankfurter",
+  "title_ko": "Doan 거래의 유턴 : The Franker는 Al-Ittihad를 취소합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/kehrtwende-beim-doan-deal-der-frankfurter-sagt-al-ittihad-ab-1248526/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T16:41:54+00:00"
+ },
+ {
+  "id": "6a63645a32a0",
+  "title": "Harvey Elliott, a un paso del Valencia: acuerdo cerrado y revisión médica inminente",
+  "player": "Harvey Elliott",
+  "title_ko": "하비 엘리엇, 발렌시아에서 한 발짝 : 거래 종료 및 의료 검토 임박",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/08/31/harvey-elliott-paso-valencia-acuerdo-cerrado-revision-medica-inminente.html",
+  "fee": null,
+  "published": "2026-08-31T16:27:53+00:00"
+ },
+ {
   "id": "121aacbf0e81",
   "title": "Mercato: Arsenal explore la piste du Lyonnais Malick Fofana",
   "player": "Lyonnais Malick Fofana",
@@ -24,6 +50,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-a-fait-une-premiere-offre-a-chelsea-pour-enzo-fernandez_AV-202608310658.html",
   "fee": null,
   "published": "2026-08-31T15:58:26+00:00"
+ },
+ {
+  "id": "889a231ec20a",
+  "title": "Mercato: Karim Benzema quitte officiellement Al-Hilal et entretient le suspense pour la suite",
+  "player": "Karim Benzema",
+  "title_ko": "Mercato: Karim Benzema는 공식적으로 Al-Hilal을 떠나 미래에 대한 긴장감을 유지합니다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/arabie-saoudite-karim-benzema-quitte-officiellement-al-hilal-et-entretient-le-suspense-pour-la-suite_AV-202608310646.html",
+  "fee": null,
+  "published": "2026-08-31T15:47:05+00:00"
  },
  {
   "id": "33de4143c612",
