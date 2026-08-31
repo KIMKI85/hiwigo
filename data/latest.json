@@ -1,5 +1,18 @@
 [
  {
+  "id": "562ca48bc2db",
+  "title": "Liga: le nouveau but de Pierre-Emerick Aubameyang, en feu depuis son transfert de l'OM à La Corogne",
+  "player": "Emerick Aubameyang",
+  "title_ko": "리가: OM에서 라 코루냐로 이적한 이후 불타오르는 피에르 에메릭 오바메양의 새로운 목표",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/liga-le-nouveau-but-de-pierre-emerick-aubameyang-en-feu-depuis-son-transfert-de-l-om-a-la-corogne_AV-202608310303.html",
+  "fee": null,
+  "published": "2026-08-31T08:10:00+00:00"
+ },
+ {
   "id": "6f07290ee8c1",
   "title": "Man Utd chief addresses Marcus Rashford situation to make transfer stance clear",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-est-dans-une-situation-tres-perilleuse-et-tres-difficile-bruno-genesio-n-imaginait-pas-avoir-autant-de-difficultes-sur-le-mercato_AV-202608290216.html",
   "fee": null,
   "published": "2026-08-29T11:56:02+00:00"
- },
- {
-  "id": "5882ed8fcbcd",
-  "title": "Forest to bid £40m for Everton teenager Armstrong",
-  "player": "Harrison Armstrong",
-  "title_ko": "포레스트는 에버턴의 10대 선수 암스트롱에게 £40m를 제안했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-  "fee": "£40M",
-  "published": "2026-08-29T11:43:43+00:00"
  }
 ]
