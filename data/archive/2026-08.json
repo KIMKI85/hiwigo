@@ -1,5 +1,44 @@
 [
  {
+  "id": "1bc8540eec22",
+  "title": "Mbangula vor Leihe zu Atalanta - Malatinis MLS-Abgang naht",
+  "player": "Samuel Mbangula",
+  "title_ko": "아탈란타로 임대되기 전의 음방굴라 - 말라티니의 MLS 출발이 다가오고 있습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/mbangula-vor-leihe-zu-atalanta-malatinis-mls-abgang-naht-1248440/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:26:57+00:00"
+ },
+ {
+  "id": "0b8c839af072",
+  "title": "Rangers target Kelsy's colourful career - aged just 22",
+  "player": "Kevin Kelsy",
+  "title_ko": "레인저스는 22세인 켈시의 화려한 경력을 목표로 하고 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T10:22:45+00:00"
+ },
+ {
+  "id": "0b34a11d688c",
+  "title": "Un cierre de locura: todo lo que falta por hacerse en el mercado de fichajes",
+  "player": null,
+  "title_ko": "미친 마무리: 이적시장에서 해야 할 모든 일",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/2026/08/31/cierre-locura-falta-hacerse-mercado-fichajes.html",
+  "fee": null,
+  "published": "2026-08-31T10:18:41+00:00"
+ },
+ {
   "id": "cffefbb15671",
   "title": "Man Utd and Arsenal striker transfer plans could set up major Newcastle deal",
   "player": "Nick Woltemade",

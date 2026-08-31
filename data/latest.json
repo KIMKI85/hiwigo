@@ -1,5 +1,44 @@
 [
  {
+  "id": "1bc8540eec22",
+  "title": "Mbangula vor Leihe zu Atalanta - Malatinis MLS-Abgang naht",
+  "player": "Samuel Mbangula",
+  "title_ko": "아탈란타로 임대되기 전의 음방굴라 - 말라티니의 MLS 출발이 다가오고 있습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/mbangula-vor-leihe-zu-atalanta-malatinis-mls-abgang-naht-1248440/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:26:57+00:00"
+ },
+ {
+  "id": "0b8c839af072",
+  "title": "Rangers target Kelsy's colourful career - aged just 22",
+  "player": "Kevin Kelsy",
+  "title_ko": "레인저스는 22세인 켈시의 화려한 경력을 목표로 하고 있습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T10:22:45+00:00"
+ },
+ {
+  "id": "0b34a11d688c",
+  "title": "Un cierre de locura: todo lo que falta por hacerse en el mercado de fichajes",
+  "player": null,
+  "title_ko": "미친 마무리: 이적시장에서 해야 할 모든 일",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/2026/08/31/cierre-locura-falta-hacerse-mercado-fichajes.html",
+  "fee": null,
+  "published": "2026-08-31T10:18:41+00:00"
+ },
+ {
   "id": "cffefbb15671",
   "title": "Man Utd and Arsenal striker transfer plans could set up major Newcastle deal",
   "player": "Nick Woltemade",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-bradley-barcola-iraola-37607314",
   "fee": null,
   "published": "2026-08-29T17:05:06+00:00"
- },
- {
-  "id": "bdcafcbeeac0",
-  "title": "Official: Ricci joins Como from Milan, loan with option to buy for €23.5m plus bonus",
-  "player": "Samuele Ricci",
-  "title_ko": "공식: Ricci, 밀라노에서 Como에 합류, € 23.5M에 보너스 구매 옵션이 있는 대출",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-ricci-joins-como-milan-loan-option/",
-  "fee": "€23.5M",
-  "published": "2026-08-29T16:18:34+00:00"
- },
- {
-  "id": "6da3849483ea",
-  "title": "Arsenal complete Man Utd transfer raid as youngster explains Old Trafford exit",
-  "player": "Old Trafford",
-  "title_ko": "아스날, 맨유 이적 레이드 완료, 어린 선수가 올드 트래포드 퇴장 설명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-transfer-scanlon-37607164",
-  "fee": null,
-  "published": "2026-08-29T16:14:15+00:00"
- },
- {
-  "id": "9a27f45e2541",
-  "title": "Report Juventus seeking Sarr on loan from Tottenham Hotspur",
-  "player": "Pape Mata Sarr",
-  "title_ko": "유벤투스가 토트넘 홋스퍼에서 임대 중인 SARR을 찾고 있다는 신고",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-seek-sarr-loan-from-tottenham-hotspur/",
-  "fee": null,
-  "published": "2026-08-29T15:42:02+00:00"
  }
 ]
