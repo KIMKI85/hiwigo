@@ -1,5 +1,18 @@
 [
  {
+  "id": "75cbeb806574",
+  "title": "Später Transfer-Doppelschlag: Wiesbaden holt Paula und Schultz",
+  "player": "Wehen Wiesbaden",
+  "title_ko": "늦은 이적 이중고: 비스바덴이 파울라와 슐츠를 영입하다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/spaeter-transfer-doppelschlag-wiesbaden-holt-paula-und-schultz-1248543/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T17:34:37+00:00"
+ },
+ {
   "id": "126f26f2d4d3",
   "title": "Man Utd make final Barcelona transfer decision after crunch talks ahead of deadline",
   "player": "Barcelona's Alejandro Balde",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13579055/aberdeen-0-1-rangers-derek-mcinnes-expecting-transfer-business-after-securing-major-first-premiership-win",
   "fee": null,
   "published": "2026-08-30T15:01:00+00:00"
- },
- {
-  "id": "bb45ea7f5114",
-  "title": "Mercato: après l'échec du dossier Julian Alvarez, le Barça tient son nouveau numéro 9",
-  "player": "Julian Alvarez",
-  "title_ko": "Mercato: après l 'échec du dossier Julian Alvarez, le Barça tient son nouveau numéro 9",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-apres-l-echec-du-dossier-julian-alvarez-le-barca-tient-son-nouveau-numero-9_AV-202608300274.html",
-  "fee": null,
-  "published": "2026-08-30T14:49:45+00:00"
  }
 ]
