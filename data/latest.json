@@ -13,6 +13,19 @@
   "published": "2026-08-31T14:50:00+00:00"
  },
  {
+  "id": "321ab41bda29",
+  "title": "Mercato: Sarr va au clash avec Crystal Palace qui a repoussé une nouvelle offre de Liverpool",
+  "player": "Ismaïla Sarr",
+  "title_ko": "메르카토: 사르는 리버풀의 새로운 제안을 거부한 크리스탈 팰리스와 충돌한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-sarr-va-au-clash-avec-crystal-palace-qui-a-repousse-une-nouvelle-offre-de-liverpool_AV-202608310587.html",
+  "fee": null,
+  "published": "2026-08-31T14:25:17+00:00"
+ },
+ {
   "id": "aeb1e869c1b2",
   "title": "Bradley Barcola's first words after Liverpool transfer as shirt number revealed",
   "player": "Bradley Barcola's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-30T10:39:54+00:00"
- },
- {
-  "id": "ba9f574d24bd",
-  "title": "Official: Roma announce Balerdi signing from Marseille",
-  "player": "Leonardo Balerdi",
-  "title_ko": "공식: 로마, 마르세유에서 발레르디 영입 발표",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-roma-sign-balerdi-from-marseille/",
-  "fee": null,
-  "published": "2026-08-30T10:25:37+00:00"
  }
 ]
