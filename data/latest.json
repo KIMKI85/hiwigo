@@ -1,5 +1,18 @@
 [
  {
+  "id": "251ca1636403",
+  "title": "Zurück in der Geburtsstadt: Meyer wechselt zu RWO",
+  "player": "Max Meyer",
+  "title_ko": "고향으로 돌아온 메이어는 RWO로 전환합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/zurueck-in-der-geburtsstadt-meyer-wechselt-zu-rwo-1248296/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T11:01:05+00:00"
+ },
+ {
   "id": "2d0ffd6563a4",
   "title": "Zurück in der Geburtsstadt: Meyer wechselt ablösefrei zu RWO",
   "player": "Max Meyer",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-nouveau-transfert-xxl-entre-cadors-se-profile_AV-202608290416.html",
   "fee": null,
   "published": "2026-08-29T21:51:58+00:00"
- },
- {
-  "id": "1d8c2058e786",
-  "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
-  "player": null,
-  "title_ko": "포레스트 최신: AC 밀란 대출을 위해 Hutchinson과 합의한 £ 22M Munoz 거래",
-  "league": "SERIEA",
-  "status": "herewego",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": "£22M",
-  "published": "2026-08-29T21:40:00+00:00"
  }
 ]
