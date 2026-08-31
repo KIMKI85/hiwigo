@@ -1,5 +1,44 @@
 [
  {
+  "id": "e7d316667463",
+  "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
+  "player": "Der Verkauf",
+  "title_ko": "홈 경기장에서의 도안 체인지: 아인트라흐트의 경우 1700만",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/doan-wechsel-auf-der-zielgeraden-17-millionen-fuer-die-eintracht-1248442/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:54:42+00:00"
+ },
+ {
+  "id": "6e39118f3db3",
+  "title": "Neuer Innenverteidiger für Oberhausen: Die aktuellen Transfers in der Regionalliga",
+  "player": "Neuer Innenverteidiger",
+  "title_ko": "오버하우젠의 새로운 중앙 수비수: 현재 지역 리그의 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neuer-innenverteidiger-fuer-oberhausen-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:49:23+00:00"
+ },
+ {
+  "id": "24e8f4508eb7",
+  "title": "Arsenal trying to lure Julián Alvarez after agreeing deals to sell Martinelli and Jesus",
+  "player": "Julián Alvarez",
+  "title_ko": "아스날은 마르티넬리와 제수스를 판매하기로 합의한 후 훌리안 알바레즈를 유인하려고 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+  "fee": null,
+  "published": "2026-08-31T10:45:18+00:00"
+ },
+ {
   "id": "aa33b75db819",
   "title": "Eines der größten Talente Estlands: Kölns Kristal vor Leihe zum FC Thun",
   "player": "Talente Estlands",
@@ -89,6 +128,19 @@
   "url": "https://www.marca.com/futbol/2026/08/31/cierre-locura-falta-hacerse-mercado-fichajes.html",
   "fee": null,
   "published": "2026-08-31T10:18:41+00:00"
+ },
+ {
+  "id": "a32506b89188",
+  "title": "Celtic secure deal for Parma midfielder Sorensen after Gineitis attempt",
+  "player": null,
+  "title_ko": "Gineitis 시도 후 파르마 미드필더 소렌센에 대한 셀틱의 안전한 계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/celtic-secure-deal-parma-midfielder-sorensen/",
+  "fee": null,
+  "published": "2026-08-31T10:11:51+00:00"
  },
  {
   "id": "cffefbb15671",
@@ -1246,57 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-29T21:19:11+00:00"
- },
- {
-  "id": "a78600030371",
-  "title": "Cody Gakpo transfer news: Man City open talks to sign Liverpool forward",
-  "player": "Cody Gakpo",
-  "title_ko": "코디 각포 이적 소식: 맨시티는 리버풀 포워드 영입을 위한 협상을 시작했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
-  "fee": null,
-  "published": "2026-08-29T20:23:00+00:00"
- },
- {
-  "id": "6dc12f53814e",
-  "title": "Liverpool star Cody Gakpo selects next club as talks on to complete late transfer",
-  "player": "Cody Gakpo",
-  "title_ko": "리버풀 스타 코디 가포, 늦은 이적 완료를 위한 강연으로 다음 구단 선정",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-man-city-spurs-transfer-37607561",
-  "fee": null,
-  "published": "2026-08-29T20:12:30+00:00"
- },
- {
-  "id": "0bc71dc0037b",
-  "title": "Leeds latest: Zetterer joins as Perri completes Torino loan",
-  "player": null,
-  "title_ko": "리즈 최신: 페리가 토리노 임대를 완료하면서 Zetterer가 합류",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-29T20:01:00+00:00"
- },
- {
-  "id": "d93576d5d3df",
-  "title": "Malgré des centaines de millions dépensés au mercato et une nouvelle défaite, De Zerbi et Tottenham ne veulent pas céder à \"la panique\"",
-  "player": "De Zerbi",
-  "title_ko": "이적 기간에 수억 달러를 지출하고 또 다른 패배에도 불구하고 De Zerbi와 Tottenham은 \"패닉\"에 굴복하고 싶지 않습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/malgre-des-centaines-de-millions-depenses-au-mercato-et-une-nouvelle-defaite-de-zerbi-et-tottenham-ne-veulent-pas-ceder-a-la-panique_AN-202608290369.html",
-  "fee": null,
-  "published": "2026-08-29T19:38:26+00:00"
  }
 ]

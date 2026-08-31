@@ -1,5 +1,44 @@
 [
  {
+  "id": "e7d316667463",
+  "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
+  "player": "Der Verkauf",
+  "title_ko": "홈 경기장에서의 도안 체인지: 아인트라흐트의 경우 1700만",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/doan-wechsel-auf-der-zielgeraden-17-millionen-fuer-die-eintracht-1248442/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:54:42+00:00"
+ },
+ {
+  "id": "6e39118f3db3",
+  "title": "Neuer Innenverteidiger für Oberhausen: Die aktuellen Transfers in der Regionalliga",
+  "player": "Neuer Innenverteidiger",
+  "title_ko": "오버하우젠의 새로운 중앙 수비수: 현재 지역 리그의 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neuer-innenverteidiger-fuer-oberhausen-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:49:23+00:00"
+ },
+ {
+  "id": "24e8f4508eb7",
+  "title": "Arsenal trying to lure Julián Alvarez after agreeing deals to sell Martinelli and Jesus",
+  "player": "Julián Alvarez",
+  "title_ko": "아스날은 마르티넬리와 제수스를 판매하기로 합의한 후 훌리안 알바레즈를 유인하려고 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+  "fee": null,
+  "published": "2026-08-31T10:45:18+00:00"
+ },
+ {
   "id": "aa33b75db819",
   "title": "Eines der größten Talente Estlands: Kölns Kristal vor Leihe zum FC Thun",
   "player": "Talente Estlands",
@@ -89,6 +128,19 @@
   "url": "https://www.marca.com/futbol/2026/08/31/cierre-locura-falta-hacerse-mercado-fichajes.html",
   "fee": null,
   "published": "2026-08-31T10:18:41+00:00"
+ },
+ {
+  "id": "a32506b89188",
+  "title": "Celtic secure deal for Parma midfielder Sorensen after Gineitis attempt",
+  "player": null,
+  "title_ko": "Gineitis 시도 후 파르마 미드필더 소렌센에 대한 셀틱의 안전한 계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/celtic-secure-deal-parma-midfielder-sorensen/",
+  "fee": null,
+  "published": "2026-08-31T10:11:51+00:00"
  },
  {
   "id": "cffefbb15671",
