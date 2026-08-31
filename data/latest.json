@@ -1,5 +1,18 @@
 [
  {
+  "id": "f7bed8189e06",
+  "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
+  "player": "Unai Emery",
+  "title_ko": "애스턴 빌라와 첼시는 이적 파이프라인에도 불구하고 여전히 적이라고 에메리는 주장했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
+  "fee": null,
+  "published": "2026-08-31T01:00:11+00:00"
+ },
+ {
   "id": "3e1b55f50915",
   "title": "Un attaquant supplémentaire, plusieurs départs, l'avenir de Lepaul... quelle fin de mercato pour le Stade rennais?",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/vorbote-fuer-doue-transfer-bayer-verleiht-tape-an-levante-1247732/artikel#omrss",
   "fee": null,
   "published": "2026-08-29T10:17:16+00:00"
- },
- {
-  "id": "4ee8f24cb296",
-  "title": "Balerdi set for Roma transfer from Marseille",
-  "player": "Leonardo Balerdi",
-  "title_ko": "마르세유에서 로마로 이적한 발레르디",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/balerdi-set-for-roma-transfer-from-marseille/",
-  "fee": null,
-  "published": "2026-08-29T09:55:57+00:00"
  }
 ]
