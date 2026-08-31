@@ -1,5 +1,31 @@
 [
  {
+  "id": "2d0ffd6563a4",
+  "title": "Zurück in der Geburtsstadt: Meyer wechselt ablösefrei zu RWO",
+  "player": "Max Meyer",
+  "title_ko": "고향으로 돌아온 메이어는 자유계약으로 RWO로 이적했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/zurueck-in-der-geburtsstadt-meyer-wechselt-abloesefrei-zu-rwo-1248296/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T11:01:05+00:00"
+ },
+ {
+  "id": "4d116da9abf8",
+  "title": "Chelsea open talks for Roma’s Kone in final 48 hours of summer transfer window",
+  "player": null,
+  "title_ko": "첼시는 여름 이적 기간 마지막 48시간 동안 로마의 콘에 대한 대화를 공개했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chelsea-open-late-transfer-talks-roma-kone/",
+  "fee": null,
+  "published": "2026-08-31T10:59:38+00:00"
+ },
+ {
   "id": "e7d316667463",
   "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
   "player": "Der Verkauf",
@@ -50,6 +76,19 @@
   "url": "https://www.kicker.de/eines-der-groessten-talente-estlands-koelns-kristal-vor-leihe-zum-fc-thun-1248447/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T10:39:34+00:00"
+ },
+ {
+  "id": "c13a90d0b2ef",
+  "title": "Report Roma have agreement for Stuttgart winger Leweling",
+  "player": "Gian Piero Gasperini",
+  "title_ko": "로마는 슈투트가르트의 윙어 르웰링과 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-roma-agreement-for-stuttgart-leweling/",
+  "fee": null,
+  "published": "2026-08-31T10:39:32+00:00"
  },
  {
   "id": "b1fdb6934ad5",
