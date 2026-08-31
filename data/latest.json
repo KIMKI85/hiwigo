@@ -1,5 +1,31 @@
 [
  {
+  "id": "d854f38ec852",
+  "title": "Official: Milan sign Hutchinson from Nottingham Forest in total €44m deal",
+  "player": "Omari Hutchinson",
+  "title_ko": "공식: 밀란은 총 €44m에 노팅엄 포레스트의 허친슨을 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-milan-hutchinson-nottingham-forest/",
+  "fee": "€44M",
+  "published": "2026-08-31T19:36:13+00:00"
+ },
+ {
+  "id": "f9548700c601",
+  "title": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨체스터 시티는 일리만 은디아예를 두고 스퍼스와 엔초 페르난데스의 계약을 주목하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
+  "fee": null,
+  "published": "2026-08-31T19:32:27+00:00"
+ },
+ {
   "id": "17b5bd2529aa",
   "title": "Herthas Jensen vor Wechsel nach Bielefeld",
   "player": "Herthas Jensen",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-van-dijk-gakpo-future-37609354",
   "fee": null,
   "published": "2026-08-30T19:58:32+00:00"
- },
- {
-  "id": "f56b3432709c",
-  "title": "Rashford's impact on Man Utd transfer deadline day plan as 'new signing' hailed",
-  "player": "Marcus Rashford's",
-  "title_ko": "래시포드가 맨유 이적 마감일 계획에 미치는 영향은 '새로운 영입'으로 환영받았다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-rashford-deadline-day-37609314",
-  "fee": null,
-  "published": "2026-08-30T19:23:15+00:00"
- },
- {
-  "id": "b65a61d193c6",
-  "title": "Fabregas reveals Como ‘learned’ from Milan games, hails ‘underrated’ new signing",
-  "player": "Cesc Fabregas",
-  "title_ko": "파브레가스는 코모가 밀란 경기에서 '배웠다'고 밝히고, '과소평가된' 새 영입을 환영합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fabregas-como-learn-milan-games-underrated/",
-  "fee": null,
-  "published": "2026-08-30T19:22:48+00:00"
  }
 ]

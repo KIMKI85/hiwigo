@@ -1,5 +1,31 @@
 [
  {
+  "id": "d854f38ec852",
+  "title": "Official: Milan sign Hutchinson from Nottingham Forest in total €44m deal",
+  "player": "Omari Hutchinson",
+  "title_ko": "공식: 밀란은 총 €44m에 노팅엄 포레스트의 허친슨을 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-milan-hutchinson-nottingham-forest/",
+  "fee": "€44M",
+  "published": "2026-08-31T19:36:13+00:00"
+ },
+ {
+  "id": "f9548700c601",
+  "title": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨체스터 시티는 일리만 은디아예를 두고 스퍼스와 엔초 페르난데스의 계약을 주목하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
+  "fee": null,
+  "published": "2026-08-31T19:32:27+00:00"
+ },
+ {
   "id": "17b5bd2529aa",
   "title": "Herthas Jensen vor Wechsel nach Bielefeld",
   "player": "Herthas Jensen",
