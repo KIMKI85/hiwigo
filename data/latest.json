@@ -1,5 +1,31 @@
 [
  {
+  "id": "48eb57e9c4fb",
+  "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+  "player": "Christian Pulisic",
+  "title_ko": "축구 이적 루머: 리버풀이 에스테방을 영입할 것인가? 크리스티안 풀리식, 토트넘으로 이적?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs",
+  "fee": null,
+  "published": "2026-08-31T08:22:50+00:00"
+ },
+ {
+  "id": "ec995f9c2f9f",
+  "title": "Man Utd near deal for Mexico's Bernal",
+  "player": "Mexico's Bernal",
+  "title_ko": "맨유, 멕시코 베르날 영입 임박",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T08:21:54+00:00"
+ },
+ {
   "id": "562ca48bc2db",
   "title": "Liga: le nouveau but de Pierre-Emerick Aubameyang, en feu depuis son transfert de l'OM à La Corogne",
   "player": "Emerick Aubameyang",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-n-y-a-pas-d-actualite-sur-une-eventuelle-demission-genesio-clarifie-sa-situation-malgre-le-mercato-difficile_AV-202608290223.html",
   "fee": null,
   "published": "2026-08-29T12:43:45+00:00"
- },
- {
-  "id": "6e0df572b888",
-  "title": "Liverpool given Ismaila Sarr transfer update ahead of Cody Gakpo decision",
-  "player": "Ismaila Sarr",
-  "title_ko": "Cody Gakpo 결정에 앞서 Ismaila Sarr 이적 업데이트를 제공한 리버풀",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-transfer-gakpo-37606607",
-  "fee": null,
-  "published": "2026-08-29T12:29:45+00:00"
- },
- {
-  "id": "44892a0f5c2e",
-  "title": "OM: \"On est dans une situation très périlleuse et très difficile\", Bruno Genesio \"n'imaginait pas\" avoir autant de difficultés sur le mercato",
-  "player": "Bruno Genesio",
-  "title_ko": "OM: “우리는 매우 위험하고 어려운 상황에 처해 있다”, 브루노 제네시오는 이적시장에서 이렇게 많은 어려움을 겪을 것이라고 “상상하지 못했다”",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-est-dans-une-situation-tres-perilleuse-et-tres-difficile-bruno-genesio-n-imaginait-pas-avoir-autant-de-difficultes-sur-le-mercato_AV-202608290216.html",
-  "fee": null,
-  "published": "2026-08-29T11:56:02+00:00"
  }
 ]

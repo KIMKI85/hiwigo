@@ -1,5 +1,31 @@
 [
  {
+  "id": "48eb57e9c4fb",
+  "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+  "player": "Christian Pulisic",
+  "title_ko": "축구 이적 루머: 리버풀이 에스테방을 영입할 것인가? 크리스티안 풀리식, 토트넘으로 이적?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs",
+  "fee": null,
+  "published": "2026-08-31T08:22:50+00:00"
+ },
+ {
+  "id": "ec995f9c2f9f",
+  "title": "Man Utd near deal for Mexico's Bernal",
+  "player": "Mexico's Bernal",
+  "title_ko": "맨유, 멕시코 베르날 영입 임박",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T08:21:54+00:00"
+ },
+ {
   "id": "562ca48bc2db",
   "title": "Liga: le nouveau but de Pierre-Emerick Aubameyang, en feu depuis son transfert de l'OM à La Corogne",
   "player": "Emerick Aubameyang",
