@@ -1,5 +1,31 @@
 [
  {
+  "id": "723a1cbdc61a",
+  "title": "Tottenham in talks to sign winger Mudryk on loan",
+  "player": "Mykhailo Mudryk",
+  "title_ko": "토트넘, 윙어 무드릭 임대 영입 협상 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T18:12:08+00:00"
+ },
+ {
+  "id": "5feb6c66f22a",
+  "title": "Bruno Fernandes in talks over new Man Utd contract to make him club's best-paid star",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스, 클럽 최고 연봉 스타로 만들기 위해 맨유와 새로운 계약 논의 중",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-talks-over-new-37612358",
+  "fee": null,
+  "published": "2026-08-31T17:55:33+00:00"
+ },
+ {
   "id": "75cbeb806574",
   "title": "Später Transfer-Doppelschlag: Wiesbaden holt Paula und Schultz",
   "player": "Wehen Wiesbaden",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/ehemaliger-union-und-gladbach-stuermer-jordan-wechselt-nach-fuerth-1248175/artikel#omrss",
   "fee": null,
   "published": "2026-08-30T15:18:13+00:00"
- },
- {
-  "id": "cb37f752d9d4",
-  "title": "Arsenal primed for chaotic end to window with winger signing and three exits agreed",
-  "player": "Gabriel Martinelli",
-  "title_ko": "윙어 서명과 세 개의 출구가 합의된 혼란스러운 창문 끝을 위해 준비된 아스날",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-window-latest-news-37608827",
-  "fee": null,
-  "published": "2026-08-30T15:08:55+00:00"
- },
- {
-  "id": "9dc168d55f45",
-  "title": "McInnes expecting Rangers transfer activity before window closes after Aberdeen win",
-  "player": "Scottish Premiership",
-  "title_ko": "McInnes는 애버딘 승리 후 창이 닫히기 전에 레인저스 이적 활동을 예상합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579055/aberdeen-0-1-rangers-derek-mcinnes-expecting-transfer-business-after-securing-major-first-premiership-win",
-  "fee": null,
-  "published": "2026-08-30T15:01:00+00:00"
  }
 ]
