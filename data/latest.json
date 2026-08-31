@@ -1,5 +1,18 @@
 [
  {
+  "id": "15dab2fdfde8",
+  "title": "Every Liverpool player's salary and where Andoni Iraola can make transfer deadline day cuts",
+  "player": "Andoni Iraola",
+  "title_ko": "모든 리버풀 선수의 연봉과 안도니 이라올라가 이적 기한을 줄일 수 있는 곳",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-deadline-andoni-iraola-37609927",
+  "fee": null,
+  "published": "2026-08-31T08:24:50+00:00"
+ },
+ {
   "id": "48eb57e9c4fb",
   "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
   "player": "Christian Pulisic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/allegri-downplays-fabregas-badiashile-chelsea/",
   "fee": null,
   "published": "2026-08-29T14:10:19+00:00"
- },
- {
-  "id": "1b2bc8be7079",
-  "title": "OM: \"Il n'y a pas d'actualité sur une éventuelle démission\", Genesio clarifie sa situation malgré le mercato difficile",
-  "player": "Bruno Genesio",
-  "title_ko": "OM : \"사임 가능성에 대한 소식은 없다\", Genesio는 어려운 이적 기간에도 불구하고 자신의 상황을 밝힙니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-n-y-a-pas-d-actualite-sur-une-eventuelle-demission-genesio-clarifie-sa-situation-malgre-le-mercato-difficile_AV-202608290223.html",
-  "fee": null,
-  "published": "2026-08-29T12:43:45+00:00"
  }
 ]
