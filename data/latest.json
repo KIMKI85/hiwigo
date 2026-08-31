@@ -1,5 +1,18 @@
 [
  {
+  "id": "33de4143c612",
+  "title": "Bayers Arthur per Leihe zu Werder",
+  "player": "Bayers Arthur",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/bayers-arthur-per-leihe-zu-werder-1248525/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T15:37:59+00:00"
+ },
+ {
   "id": "ce14fec0e16e",
   "title": "Aperribay: \"Me llegó una oferta sorprendente, pero el jugador se cerró en banda al traspaso\"",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-30T13:09:39+00:00"
- },
- {
-  "id": "1e48071c3fba",
-  "title": "Aston Villa and Chelsea relationship as Emi Martinez becomes EIGHTH transfer",
-  "player": "Emi Martinez",
-  "title_ko": "Emi Martinez가 여덟 번째 이적이 됨에 따라 Aston Villa와 Chelsea의 관계",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-emi-martinez-villa-37608572",
-  "fee": null,
-  "published": "2026-08-30T12:54:06+00:00"
  }
 ]
