@@ -1,10 +1,17 @@
 {
- "updated": "2026-08-31T14:04:26.604798+00:00",
+ "updated": "2026-08-31T22:54:52.663255+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-31",
+     "home": "Aston Villa",
+     "away": "Arsenal",
+     "hs": 0,
+     "as": 1
+    },
     {
      "date": "2026-08-30",
      "home": "Man United",
@@ -53,13 +60,6 @@
      "away": "Everton",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Liverpool",
-     "away": "Nottingham",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -68,6 +68,12 @@
      "team": "Man United",
      "goals": 3,
      "assists": 1
+    },
+    {
+     "name": "Bukayo Saka",
+     "team": "Arsenal",
+     "goals": 2,
+     "assists": 0
     },
     {
      "name": "Jack Hinshelwood",
@@ -112,12 +118,6 @@
      "assists": 0
     },
     {
-     "name": "Bukayo Saka",
-     "team": "Arsenal",
-     "goals": 1,
-     "assists": 0
-    },
-    {
      "name": "Martin Ødegaard",
      "team": "Arsenal",
      "goals": 1,
@@ -129,6 +129,20 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-31",
+     "home": "Barça",
+     "away": "Rayo Vallecano",
+     "hs": 5,
+     "as": 2
+    },
+    {
+     "date": "2026-08-31",
+     "home": "Osasuna",
+     "away": "Getafe",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-08-30",
      "home": "Real Madrid",
@@ -170,23 +184,15 @@
      "away": "Elche",
      "hs": 3,
      "as": 2
-    },
-    {
-     "date": "2026-08-27",
-     "home": "Barça",
-     "away": "Athletic",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-08-27",
-     "home": "Celta",
-     "away": "Osasuna",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
+    {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 5,
+     "assists": 0
+    },
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
@@ -212,8 +218,8 @@
      "assists": 1
     },
     {
-     "name": "Raphinha",
-     "team": "Barça",
+     "name": "Sergio Camello",
+     "team": "Rayo Vallecano",
      "goals": 3,
      "assists": 0
     },
@@ -240,12 +246,6 @@
      "team": "Real Betis",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Jude Bellingham",
-     "team": "Real Madrid",
-     "goals": 2,
-     "assists": 2
     }
    ]
   },
@@ -253,6 +253,20 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-08-31",
+     "home": "Atalanta",
+     "away": "Bologna",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-08-31",
+     "home": "Lecce",
+     "away": "Roma",
+     "hs": 0,
+     "as": 4
+    },
     {
      "date": "2026-08-30",
      "home": "Napoli",
@@ -294,27 +308,13 @@
      "away": "Venezia FC",
      "hs": 2,
      "as": 0
-    },
-    {
-     "date": "2026-08-24",
-     "home": "Roma",
-     "away": "Fiorentina",
-     "hs": 4,
-     "as": 0
-    },
-    {
-     "date": "2026-08-24",
-     "home": "Bologna",
-     "away": "Lazio",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
     {
      "name": "Donyell Malen",
      "team": "Roma",
-     "goals": 3,
+     "goals": 5,
      "assists": 0
     },
     {
