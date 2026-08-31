@@ -1,5 +1,31 @@
 [
  {
+  "id": "271bf42c763a",
+  "title": "Diese Transfers tätigten die Bundesligisten am Deadline Day 2025",
+  "player": "Auch der",
+  "title_ko": "분데스리가 클럽들은 2025년 마감일에 이적을 실시했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/diese-transfers-taetigten-die-bundesligisten-am-deadline-day-2025-1248411/slideshow#omrss",
+  "fee": null,
+  "published": "2026-08-31T22:01:00+00:00"
+ },
+ {
+  "id": "c46e9791b931",
+  "title": "Liverpool complete transfer and reject £30m bid as Reds get busy before deadline",
+  "player": null,
+  "title_ko": "리버풀은 이전을 완료하고 마감일 전에 레즈가 바빠서 £ 30M 입찰을 거부합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bajcetic-trey-nyoni-forest-37612828",
+  "fee": "£30M",
+  "published": "2026-08-31T21:58:00+00:00"
+ },
+ {
   "id": "ae7d76c51a12",
   "title": "Beto and Gnonto undergoing Fiorentina medical tests from Everton and Leeds United",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-31-aout-veille-de-la-cloture-du-marche_LN-202608310104.html",
   "fee": null,
   "published": "2026-08-31T05:11:15+00:00"
- },
- {
-  "id": "a60d6515fe8c",
-  "title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
-  "player": "Michael Carrick's",
-  "title_ko": "맨유 뉴스: 클럽은 스타가 이적 이적에 대해 말할 때 스트라이커가 그들을 기다리고 있다고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-transfers-michael-carrick-37608613",
-  "fee": null,
-  "published": "2026-08-31T03:30:00+00:00"
- },
- {
-  "id": "0115b5faa521",
-  "title": "Arsenal news: Julian Alvarez development as striker set for dream transfer move",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 뉴스: 줄리안 알바레즈가 꿈의 이적을 위한 스트라이커로 발전",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37608571",
-  "fee": null,
-  "published": "2026-08-31T03:00:00+00:00"
  }
 ]
