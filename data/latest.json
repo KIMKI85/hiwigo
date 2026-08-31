@@ -13,6 +13,19 @@
   "published": "2026-08-31T14:00:00+00:00"
  },
  {
+  "id": "937d8ed22aff",
+  "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 31",
+  "player": null,
+  "title_ko": "LIVE Done Deals Tracker: 8월 31일에 확인된 모든 이체",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/",
+  "fee": null,
+  "published": "2026-08-31T13:21:18+00:00"
+ },
+ {
   "id": "0e3e4b7eba24",
   "title": "Juventus full steam ahead for Woltemade after striking David agreement with Atletico",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
   "fee": null,
   "published": "2026-08-30T09:10:00+00:00"
- },
- {
-  "id": "abea06765341",
-  "title": "Wechsel fix: Martinez steht fortan bei Chelsea im Tor",
-  "player": "Weltmeister Emiliano Martinez",
-  "title_ko": "변경 사항 수정: 이제 마르티네즈가 첼시에서 골을 넣을 것입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/wechsel-fix-martinez-steht-fortan-bei-chelsea-im-tor-1248058/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-30T09:03:16+00:00"
  }
 ]
