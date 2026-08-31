@@ -1,5 +1,31 @@
 [
  {
+  "id": "b739a8aa53fa",
+  "title": "Report Norton-Cuffy close to Venezia in €14m plus Sagrado agreement",
+  "player": "Sky Sport Italia",
+  "title_ko": "Norton-Cuffy가 1,400만 유로에 Sagrado 계약을 더해 베네치아에 근접했다고 보고",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-norton-cuffy-close-venezia-e14m-sagrado/",
+  "fee": "€14M",
+  "published": "2026-08-31T21:25:02+00:00"
+ },
+ {
+  "id": "21e5b9efcd7e",
+  "title": "Man City open talks with Chelsea over Fernandez move",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티는 페르난데스 이적을 두고 첼시와 대화를 시작했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T21:20:32+00:00"
+ },
+ {
   "id": "7714ac407c8f",
   "title": "Comment l'OM devrait toucher plusieurs millions d'euros en fin de mercato sans forcément vendre de nouveaux joueurs",
   "player": "Olympique de",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/om-ca-me-semble-complique-bruno-genesio-s-attend-a-boucler-le-mercato-sans-aucune-recrue_AV-202608300449.html",
   "fee": null,
   "published": "2026-08-30T22:04:04+00:00"
- },
- {
-  "id": "7a3f6cabba28",
-  "title": "Atalanta defender Ahanor to Chelsea for €48m then Crystal Palace loan agreement",
-  "player": "Honest Ahanor",
-  "title_ko": "아탈란타 수비수 아하노르를 첼시로 € 48M 후 크리스탈 팰리스 대출 계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/atalanta-ahanor-chelsea-then-crystal-palace/",
-  "fee": "€48M",
-  "published": "2026-08-30T21:52:21+00:00"
- },
- {
-  "id": "bc0de45b38db",
-  "title": "Arsenal transfer talks confirmed as club chief speaks out to ‘reassure fans’",
-  "player": "Fabio Vieira",
-  "title_ko": "구단주가 '팬 안심‘ 을 위해 발언함에 따라 아스널 이적 회담 확정",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-talks-confirmed-club-37609435",
-  "fee": null,
-  "published": "2026-08-30T21:40:16+00:00"
  }
 ]
