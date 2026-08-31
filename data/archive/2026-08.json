@@ -1,5 +1,31 @@
 [
  {
+  "id": "53ce18c23552",
+  "title": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
+  "player": "Nick Woltemade",
+  "title_ko": "최신 이적: 월테메이드 임대 협상 중인 유벤투스, 발로군을 추진하는 에버튼",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+  "fee": null,
+  "published": "2026-08-31T09:38:20+00:00"
+ },
+ {
+  "id": "dcefdc0d6971",
+  "title": "Liverpool transfer state of play as Cody Gakpo holds key ahead of chaotic end to window",
+  "player": "Cody Gakpo",
+  "title_ko": "코디 각포가 혼란스러운 윈도우 종료를 앞두고 열쇠를 쥐고 있는 리버풀의 플레이 상태",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-deadline-day-gakpo-37609947",
+  "fee": null,
+  "published": "2026-08-31T09:23:15+00:00"
+ },
+ {
   "id": "15dab2fdfde8",
   "title": "Every Liverpool player's salary and where Andoni Iraola can make transfer deadline day cuts",
   "player": "Andoni Iraola",
