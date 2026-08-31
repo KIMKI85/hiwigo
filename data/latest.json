@@ -1,5 +1,31 @@
 [
  {
+  "id": "17b5bd2529aa",
+  "title": "Herthas Jensen vor Wechsel nach Bielefeld",
+  "player": "Herthas Jensen",
+  "title_ko": "빌레펠트로 이적하기 전의 헤르타스 옌센",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/herthas-jensen-vor-wechsel-nach-bielefeld-1248570/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T19:22:32+00:00"
+ },
+ {
+  "id": "efc339521051",
+  "title": "Juventus celebrate Sarr arrival and Woltemade agreement with Newcastle United",
+  "player": "Pape Matar Sarr",
+  "title_ko": "유벤투스는 Sarr의 도착을 축하하고 Woltemade가 뉴캐슬 유나이티드와 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-celebrate-sarr-arrival-and-woltemade/",
+  "fee": null,
+  "published": "2026-08-31T19:17:17+00:00"
+ },
+ {
   "id": "93d4fc6d5f1f",
   "title": "Man City agree £65m Ndiaye deal, Spurs turn attention to Mudryk",
   "player": "Iliman Ndiaye",
@@ -24,6 +50,32 @@
   "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-in-advanced-talks-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
   "fee": null,
   "published": "2026-08-31T19:15:00+00:00"
+ },
+ {
+  "id": "99b8dfd69478",
+  "title": "Man City agree £65m deal for Everton's Ndiaye",
+  "player": "Everton's Ndiaye",
+  "title_ko": "맨시티는 에버턴의 은디아예를 £65m에 영입하는데 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-08-31T19:12:15+00:00"
+ },
+ {
+  "id": "bba54b4a0d96",
+  "title": "El Betis cierra la cesión de Gonzalo Petit al Cádiz sin opción de compra",
+  "player": "Gonzalo Petit",
+  "title_ko": "베티스는 구매 옵션 없이 카디스에 대한 곤잘로 프티의 임대를 종료했습니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/08/31/betis-cierra-cesion-gonzalo-petit-cadiz-opcion-compra.html",
+  "fee": null,
+  "published": "2026-08-31T19:11:36+00:00"
  },
  {
   "id": "84b3dbc2684c",
@@ -1246,57 +1298,5 @@
   "url": "https://football-italia.net/fabregas-como-learn-milan-games-underrated/",
   "fee": null,
   "published": "2026-08-30T19:22:48+00:00"
- },
- {
-  "id": "210e8a32d20a",
-  "title": "Video: Hutchinson arrives for Milan transfer from Nottingham Forest",
-  "player": "Omari Hutchinson",
-  "title_ko": "비디오: 허친슨은 노팅엄 포레스트에서 밀란 이적을 위해 도착합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-hutchinson-arrives-milan-transfer-forest/",
-  "fee": null,
-  "published": "2026-08-30T18:39:13+00:00"
- },
- {
-  "id": "2029dd28179e",
-  "title": "Xabi Alonso opens the door for Enzo Fernandez to join Man City in double transfer update",
-  "player": "Xabi Alonso",
-  "title_ko": "사비 알론소는 엔조 페르난데스에게 이중 이적 업데이트를 통해 맨시티에 합류할 수 있는 문을 열었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-opens-door-enzo-37609097",
-  "fee": null,
-  "published": "2026-08-30T16:51:03+00:00"
- },
- {
-  "id": "bfd81c47cb44",
-  "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-  "player": "Ollie Watkins",
-  "title_ko": "이적 요약: 올리 왓킨스가 애스턴 빌라에서 알 힐랄로 이적을 완료했습니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
-  "fee": null,
-  "published": "2026-08-30T16:46:29+00:00"
- },
- {
-  "id": "deab80428490",
-  "title": "Official: ‘Excited’ Njie joins Fiorentina from Torino",
-  "player": "Alieu Njie",
-  "title_ko": "공식: '신나는' Njie, 토리노에서 피오렌티나로 합류",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-excited-njie-fiorentina-from-torino/",
-  "fee": null,
-  "published": "2026-08-30T16:44:12+00:00"
  }
 ]
