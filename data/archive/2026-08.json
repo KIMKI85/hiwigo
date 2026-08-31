@@ -1,5 +1,31 @@
 [
  {
+  "id": "fe2a168bd63f",
+  "title": "Wechsel nach Manchester fix: Auch Wamser verlässt die Bundesliga",
+  "player": "Auch Wamser",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-nach-manchester-fix-auch-wamser-verlaesst-die-bundesliga-1242830/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:31:11+00:00"
+ },
+ {
+  "id": "f9f660bcaee6",
+  "title": "Germany's Wamser completes move to Man City",
+  "player": "Germany's Wamser",
+  "title_ko": "독일의 웜서, 맨시티 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T10:30:12+00:00"
+ },
+ {
   "id": "1bc8540eec22",
   "title": "Mbangula vor Leihe zu Atalanta - Malatinis MLS-Abgang naht",
   "player": "Samuel Mbangula",

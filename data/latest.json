@@ -1,5 +1,31 @@
 [
  {
+  "id": "fe2a168bd63f",
+  "title": "Wechsel nach Manchester fix: Auch Wamser verlässt die Bundesliga",
+  "player": "Auch Wamser",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-nach-manchester-fix-auch-wamser-verlaesst-die-bundesliga-1242830/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:31:11+00:00"
+ },
+ {
+  "id": "f9f660bcaee6",
+  "title": "Germany's Wamser completes move to Man City",
+  "player": "Germany's Wamser",
+  "title_ko": "독일의 웜서, 맨시티 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T10:30:12+00:00"
+ },
+ {
   "id": "1bc8540eec22",
   "title": "Mbangula vor Leihe zu Atalanta - Malatinis MLS-Abgang naht",
   "player": "Samuel Mbangula",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-torino-perri-leeds-united-pedersen/",
   "fee": null,
   "published": "2026-08-29T19:13:48+00:00"
- },
- {
-  "id": "716cb889ebe7",
-  "title": "Millionensumme für Frankfurt: Zetterer wechselt nach Leeds",
-  "player": "Michael Zetterer",
-  "title_ko": "프랑크푸르트에서 수백만 달러: Zetterer가 리즈로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/millionensumme-fuer-frankfurt-zetterer-wechselt-nach-leeds-1247726/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-29T19:10:03+00:00"
- },
- {
-  "id": "baaef142e620",
-  "title": "Andoni Iraola makes honest admission on Liverpool transfers after Bradley Barcola question",
-  "player": "Andoni Iraola",
-  "title_ko": "안도니 이라올라 (Andoni Iraola) 는 브래들리 바르콜라 (Bradley Barcola) 질문 후 리버풀 이적에 대해 정직하게 인정합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-bradley-barcola-iraola-37607314",
-  "fee": null,
-  "published": "2026-08-29T17:05:06+00:00"
  }
 ]
