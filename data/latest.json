@@ -1,5 +1,18 @@
 [
  {
+  "id": "f8375f1cae8a",
+  "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
+  "player": null,
+  "title_ko": "데드라인 데이 페이퍼: 맨체스터 유나이티드, 페르난데스 주장과 공개 계약 협상",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk",
+  "fee": null,
+  "published": "2026-08-31T23:00:00+00:00"
+ },
+ {
   "id": "271bf42c763a",
   "title": "Diese Transfers tätigten die Bundesligisten am Deadline Day 2025",
   "player": "Auch der",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-y-a-beaucoup-de-bruit-mais-c-est-marseille-weah-refuse-de-ceder-a-la-negativite-malgre-le-mercato-complique_AV-202608310132.html",
   "fee": null,
   "published": "2026-08-31T05:33:01+00:00"
- },
- {
-  "id": "c794e3707130",
-  "title": "DIRECT. Mercato: l'OM sans recrue, suivez en live toutes les infos à la veille de la fermeture du marché",
-  "player": null,
-  "title_ko": "직접. Mercato: 모집자가 없는 OM, 시장 마감 직전에 모든 뉴스를 실시간으로 확인하세요",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-31-aout-veille-de-la-cloture-du-marche_LN-202608310104.html",
-  "fee": null,
-  "published": "2026-08-31T05:11:15+00:00"
  }
 ]
