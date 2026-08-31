@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T21:13:39.082875+00:00",
+ "updated": "2026-08-31T05:45:50.268382+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -255,20 +255,6 @@
    "results": [
     {
      "date": "2026-08-30",
-     "home": "Cagliari",
-     "away": "Inter",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Lazio",
-     "away": "Genoa",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-08-30",
      "home": "Napoli",
      "away": "Como 1907",
      "hs": 1,
@@ -308,6 +294,20 @@
      "away": "Venezia FC",
      "hs": 2,
      "as": 0
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Roma",
+     "away": "Fiorentina",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Bologna",
+     "away": "Lazio",
+     "hs": 0,
+     "as": 1
     }
    ],
    "scorers": [
@@ -503,13 +503,6 @@
    "results": [
     {
      "date": "2026-08-30",
-     "home": "Monaco",
-     "away": "Marseille",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-08-30",
      "home": "Stade Rennais",
      "away": "Le Mans",
      "hs": 3,
@@ -556,6 +549,13 @@
      "away": "RC Lens",
      "hs": 2,
      "as": 1
+    },
+    {
+     "date": "2026-08-28",
+     "home": "Lille",
+     "away": "PSG",
+     "hs": 2,
+     "as": 2
     }
    ],
    "scorers": [
