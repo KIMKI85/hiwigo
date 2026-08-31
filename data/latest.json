@@ -13,6 +13,19 @@
   "published": "2026-08-31T12:25:00+00:00"
  },
  {
+  "id": "20c468d75f34",
+  "title": "Liverpool strike £30m transfer agreement - but there's a huge catch ahead of deadline day",
+  "player": "Lucca Brughmans",
+  "title_ko": "리버풀은 £30m 이적 계약을 체결했지만 마감일을 앞두고 큰 문제가 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-lucca-brughmans-mamardashvili-37611022",
+  "fee": "£30M",
+  "published": "2026-08-31T12:22:11+00:00"
+ },
+ {
   "id": "ee74cfba819d",
   "title": "Lösung im Sturm: Hertha vor Nilsson-Leihe",
   "player": "Alle Seiten",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-city-s-active-pour-gakpo-et-enzo-fernandez-leipzig-tout-proche-de-signer-el-ayanoui_LN-202608300091.html",
   "fee": null,
   "published": "2026-08-30T06:27:50+00:00"
- },
- {
-  "id": "d71f859a5da9",
-  "title": "'Brighton fans turned on me after I left but Chelsea move didn't turn out how I wanted'",
-  "player": null,
-  "title_ko": "'브라이튼 팬들은 제가 떠난 후 저를 반대했지만 첼시의 이적은 제가 원하는 대로 되지 않았습니다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-brighton-graham-potter-sweden-37606477",
-  "fee": null,
-  "published": "2026-08-30T05:00:00+00:00"
  }
 ]
