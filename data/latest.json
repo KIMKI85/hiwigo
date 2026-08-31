@@ -1,5 +1,31 @@
 [
  {
+  "id": "cffefbb15671",
+  "title": "Man Utd and Arsenal striker transfer plans could set up major Newcastle deal",
+  "player": "Nick Woltemade",
+  "title_ko": "맨유와 아스널의 스트라이커 이적 계획은 뉴캐슬과의 대규모 계약을 성사시킬 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/woltemade-transfer-man-utd-arsenal-37610310",
+  "fee": null,
+  "published": "2026-08-31T10:02:28+00:00"
+ },
+ {
+  "id": "59c7b0d77ad1",
+  "title": "The early signs showing new Premier League season will be very different to last year",
+  "player": null,
+  "title_ko": "새로운 프리미어 리그 시즌을 보여주는 초기 징후는 작년과 매우 다를 것입니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/early-signs-showing-new-premier-37610336",
+  "fee": null,
+  "published": "2026-08-31T10:02:05+00:00"
+ },
+ {
   "id": "a93fc9705c3a",
   "title": "Mercato: l’OM a un accord avec Tanguy Ndombélé mais…",
   "player": "Tanguy Ndombélé",
@@ -11,6 +37,19 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/mercato-l-om-a-un-accord-avec-tanguy-ndombele-mais_AV-202608310404.html",
   "fee": null,
   "published": "2026-08-31T09:55:59+00:00"
+ },
+ {
+  "id": "dda11da40adf",
+  "title": "Gnonto set for first Serie A experience as Fiorentina agree deal with Leeds",
+  "player": "Wilfried Gnonto",
+  "title_ko": "Fiorentina가 Leeds와 계약을 체결함에 따라 Gnonto는 첫 번째 Serie A 경험을 시작했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-agree-gnonto-deal-with-leeds/",
+  "fee": null,
+  "published": "2026-08-31T09:42:09+00:00"
  },
  {
   "id": "53ce18c23552",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/juventus-seek-sarr-loan-from-tottenham-hotspur/",
   "fee": null,
   "published": "2026-08-29T15:42:02+00:00"
- },
- {
-  "id": "c52c47e25766",
-  "title": "Steven Gerrard sends transfer message to Liverpool over player they 'should have kept'",
-  "player": "Steven Gerrard",
-  "title_ko": "스티븐 제라드가 '지켜야 할' 선수를 통해 리버풀에 이적 메시지를 보냅니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/steven-gerrard-liverpool-transfer-latest-37607135",
-  "fee": null,
-  "published": "2026-08-29T15:37:19+00:00"
- },
- {
-  "id": "e6650c40405e",
-  "title": "Balerdi details as Roma expect Marseille defender today for total €16m deal",
-  "player": "Leonardo Balerdi",
-  "title_ko": "발레르디는 로마가 오늘 마르세유 수비수에게 총 € 16M 거래를 기대하고 있기 때문에 세부 사항",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/balerdi-roma-expect-marseille-defender-today/",
-  "fee": "€16M",
-  "published": "2026-08-29T15:11:52+00:00"
- },
- {
-  "id": "108d9fc29d7a",
-  "title": "Mercato: \"Il lui a dit qu’il ne voulait pas venir\" à Arsenal, l'entretien entre Mikel Arteta et Julian Alvarez qui relance le dossier",
-  "player": "Mikel Arteta",
-  "title_ko": "Mercato: \"Il lui a dit qu 'il ne voulait pas venir\" à Arsenal, l' entretien entre Mikel Arteta et Julian Alvarez qui relance le dossier",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-il-lui-a-dit-qu-il-ne-voulait-pas-venir-a-arsenal-l-entretien-entre-mikel-arteta-et-julian-alvarez-qui-relance-le-dossier_AV-202608290270.html",
-  "fee": null,
-  "published": "2026-08-29T14:57:44+00:00"
  }
 ]
