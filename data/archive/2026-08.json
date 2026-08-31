@@ -1,5 +1,31 @@
 [
  {
+  "id": "2320eef80690",
+  "title": "Man City open talks to sign Fernandez - Tuesday gossip",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티, 페르난데스 영입 협상 공개 - 화요일 가십",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T20:10:58+00:00"
+ },
+ {
+  "id": "b2cfbdac29b1",
+  "title": "Arsenal launch last-minute £50m transfer push as Mikel Arteta races against deadline",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 마감 기한을 앞두고 아스날은 마지막 순간에 £50m 이적 추진을 시작했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-malick-fofana-transfer-lyon-37612603",
+  "fee": "£50M",
+  "published": "2026-08-31T19:59:02+00:00"
+ },
+ {
   "id": "af86754d53ac",
   "title": "Forest forward Hutchinson joins AC Milan on loan",
   "player": "Omari Hutchinson",

@@ -1,5 +1,31 @@
 [
  {
+  "id": "2320eef80690",
+  "title": "Man City open talks to sign Fernandez - Tuesday gossip",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티, 페르난데스 영입 협상 공개 - 화요일 가십",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T20:10:58+00:00"
+ },
+ {
+  "id": "b2cfbdac29b1",
+  "title": "Arsenal launch last-minute £50m transfer push as Mikel Arteta races against deadline",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 마감 기한을 앞두고 아스날은 마지막 순간에 £50m 이적 추진을 시작했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-malick-fofana-transfer-lyon-37612603",
+  "fee": "£50M",
+  "published": "2026-08-31T19:59:02+00:00"
+ },
+ {
   "id": "af86754d53ac",
   "title": "Forest forward Hutchinson joins AC Milan on loan",
   "player": "Omari Hutchinson",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-monaco-2-0-om-il-n-y-aura-pas-de-recrue-se-resigne-genesio_VN-202608300438.html",
   "fee": null,
   "published": "2026-08-30T21:30:35+00:00"
- },
- {
-  "id": "64d99e37781d",
-  "title": "Official: De Roon joins Roma from Atalanta as squad No. revealed",
-  "player": "De Roon",
-  "title_ko": "공식: De Roon이 아탈란타 출신의 로마 선수단에 스쿼드 번호가 공개됨에 따라 합류합니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-de-roon-joins-roma-from-atalanta-as-squad-no-revealed/",
-  "fee": null,
-  "published": "2026-08-30T21:24:17+00:00"
- },
- {
-  "id": "b689cde17a1d",
-  "title": "Liverpool set to complete transfer before deadline with clever clause agreed",
-  "player": "Liverpool's Stefan Bajcetic",
-  "title_ko": "리버풀은 영리한 조항이 합의된 상태에서 마감일 전에 이적을 완료하도록 설정됨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-stefan-bajetic-37609366",
-  "fee": null,
-  "published": "2026-08-30T21:16:30+00:00"
  }
 ]
