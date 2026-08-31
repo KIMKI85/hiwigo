@@ -1,5 +1,31 @@
 [
  {
+  "id": "81196aacb91a",
+  "title": "KSC-Talent Ben Farhat wechselt schon wieder den Berater",
+  "player": "Talent Ben Farhat",
+  "title_ko": "KSC 인재 Ben Farhat이 다시 고문을 바꾸고 있습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ksc-talent-ben-farhat-wechselt-schon-wieder-den-berater-1248513/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T15:06:13+00:00"
+ },
+ {
+  "id": "bddbfdc04b7b",
+  "title": "Rowe agreement for Atalanta at total €40m, Mbangula coming to Bologna",
+  "player": "Jonathan Rowe",
+  "title_ko": "로웨는 아탈란타와 총 €40m의 계약을 맺었고 음방굴라는 볼로냐로 이적합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/rowe-agreement-atalanta-e40m-mbangula-bologna/",
+  "fee": "€40M",
+  "published": "2026-08-31T15:04:39+00:00"
+ },
+ {
   "id": "083d9cbfa999",
   "title": "Newcastle closing in on deal to sign Lille's Fernandez-Pardo",
   "player": "Lille's Fernandez-",
@@ -11,6 +37,19 @@
   "url": "https://www.skysports.com/football/news/12040/13579415/matias-fernandez-pardo-transfer-news-newcastle-closing-in-on-deal-to-sign-lille-forward-ahead-of-transfer-deadline",
   "fee": null,
   "published": "2026-08-31T14:50:00+00:00"
+ },
+ {
+  "id": "6412de0aeff5",
+  "title": "Everton forced to move EFL Cup tie at short notice",
+  "player": null,
+  "title_ko": "Everton은 짧은 시간에 EFL 컵 타이를 옮겨야했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T14:46:10+00:00"
  },
  {
   "id": "c64eed139442",
@@ -167,6 +206,19 @@
   "url": "https://football-italia.net/juventus-full-steam-ahead-for-woltemade/",
   "fee": null,
   "published": "2026-08-31T13:06:38+00:00"
+ },
+ {
+  "id": "faf2463184a1",
+  "title": "Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal",
+  "player": "Bradley Barcola",
+  "title_ko": "Bradley Barcola는 리버풀에 £ 123M 딜로 합류한 후 프리미어 리그의 영광을 노립니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
+  "fee": "£123M",
+  "published": "2026-08-31T13:02:48+00:00"
  },
  {
   "id": "bbf49dd4c085",
