@@ -13,6 +13,32 @@
   "published": "2026-08-31T14:50:00+00:00"
  },
  {
+  "id": "aeb1e869c1b2",
+  "title": "Bradley Barcola's first words after Liverpool transfer as shirt number revealed",
+  "player": "Bradley Barcola's",
+  "title_ko": "리버풀 이적 후 브래들리 바르콜라의 첫 마디, 셔츠 등번호 공개",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-psg-37611597",
+  "fee": null,
+  "published": "2026-08-31T14:13:25+00:00"
+ },
+ {
+  "id": "74d10829ae76",
+  "title": "Insiders speak out on Man City transfers and reveal how flops like Savinho sell for profit",
+  "player": null,
+  "title_ko": "내부자들은 Man City 이적에 대해 이야기하고 Savinho와 같은 실패작이 어떻게 이익을 위해 판매되는지 공개합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-city-transfers-sales-explained-37596003",
+  "fee": null,
+  "published": "2026-08-31T14:08:17+00:00"
+ },
+ {
   "id": "18b1c395f4fc",
   "title": "Liverpool complete Barcola signing from PSG",
   "player": "Bradley Barcola",
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
   "fee": null,
   "published": "2026-08-31T14:00:00+00:00"
+ },
+ {
+  "id": "58e37bbdbc2b",
+  "title": "7 left-backs Man Utd can sign to replace Luke Shaw immediately",
+  "player": "Luke Shaw",
+  "title_ko": "7명의 레프트백 맨유는 루크 쇼를 대체하기 위해 즉시 계약할 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfers-luke-shaw-37611179",
+  "fee": null,
+  "published": "2026-08-31T13:57:01+00:00"
  },
  {
   "id": "4350a58732f5",

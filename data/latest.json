@@ -13,6 +13,32 @@
   "published": "2026-08-31T14:50:00+00:00"
  },
  {
+  "id": "aeb1e869c1b2",
+  "title": "Bradley Barcola's first words after Liverpool transfer as shirt number revealed",
+  "player": "Bradley Barcola's",
+  "title_ko": "리버풀 이적 후 브래들리 바르콜라의 첫 마디, 셔츠 등번호 공개",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-psg-37611597",
+  "fee": null,
+  "published": "2026-08-31T14:13:25+00:00"
+ },
+ {
+  "id": "74d10829ae76",
+  "title": "Insiders speak out on Man City transfers and reveal how flops like Savinho sell for profit",
+  "player": null,
+  "title_ko": "내부자들은 Man City 이적에 대해 이야기하고 Savinho와 같은 실패작이 어떻게 이익을 위해 판매되는지 공개합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-city-transfers-sales-explained-37596003",
+  "fee": null,
+  "published": "2026-08-31T14:08:17+00:00"
+ },
+ {
   "id": "18b1c395f4fc",
   "title": "Liverpool complete Barcola signing from PSG",
   "player": "Bradley Barcola",
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
   "fee": null,
   "published": "2026-08-31T14:00:00+00:00"
+ },
+ {
+  "id": "58e37bbdbc2b",
+  "title": "7 left-backs Man Utd can sign to replace Luke Shaw immediately",
+  "player": "Luke Shaw",
+  "title_ko": "7명의 레프트백 맨유는 루크 쇼를 대체하기 위해 즉시 계약할 수 있다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfers-luke-shaw-37611179",
+  "fee": null,
+  "published": "2026-08-31T13:57:01+00:00"
  },
  {
   "id": "4350a58732f5",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/official-roma-sign-balerdi-from-marseille/",
   "fee": null,
   "published": "2026-08-30T10:25:37+00:00"
- },
- {
-  "id": "043cee409c92",
-  "title": "Serie A: l'arrière petit-fils de Mussolini signe ses débuts avec la Lazio et change son nom sur son flocage",
-  "player": "Romano Floriani Mussolini",
-  "title_ko": "Serie A: l 'arrière petit-fils de Mussolini signe ses débuts avec la Lazio et change son nom sur son flocage",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/serie-a/serie-a-l-arriere-petit-fils-de-mussolini-signe-ses-debuts-avec-la-lazio-et-change-son-nom-sur-son-flocage_AV-202608300184.html",
-  "fee": null,
-  "published": "2026-08-30T10:25:24+00:00"
- },
- {
-  "id": "48c0dae38dad",
-  "title": "New Juventus signing Ekhator has suffered a second injury already",
-  "player": "Jeff Ekhator",
-  "title_ko": "에카토르와 계약한 새로운 유벤투스가 이미 두 번째 부상을 입었습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-striker-ekhator-suffers-second-injury/",
-  "fee": null,
-  "published": "2026-08-30T09:41:51+00:00"
- },
- {
-  "id": "b5aab79b460e",
-  "title": "Hertha: Wechsel-Verbot für Mamuzah Lum",
-  "player": "Mamuzah Lum",
-  "title_ko": "헤르타: 마무자 룸의 이동 금지",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/hertha-wechsel-verbot-fuer-mamuzah-lum-1248063/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-30T09:33:06+00:00"
  }
 ]
