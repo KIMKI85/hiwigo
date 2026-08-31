@@ -1,5 +1,18 @@
 [
  {
+  "id": "0115b5faa521",
+  "title": "Arsenal news: Julian Alvarez development as striker set for dream transfer move",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날 뉴스: 줄리안 알바레즈가 꿈의 이적을 위한 스트라이커로 발전",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37608571",
+  "fee": null,
+  "published": "2026-08-31T03:00:00+00:00"
+ },
+ {
   "id": "f7bed8189e06",
   "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
   "player": "Unai Emery",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-julian-alvarez-37606247",
   "fee": null,
   "published": "2026-08-29T10:32:19+00:00"
- },
- {
-  "id": "d58403f6fd47",
-  "title": "Vorbote für Doué-Transfer? Bayer verleiht Tape an Levante",
-  "player": "Die Bemühungen",
-  "title_ko": "Doué 이적의 전조? 바이엘, 레반테에 테이프 빌려주다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/vorbote-fuer-doue-transfer-bayer-verleiht-tape-an-levante-1247732/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-29T10:17:16+00:00"
  }
 ]
