@@ -1,5 +1,44 @@
 [
  {
+  "id": "1972c69d3aa9",
+  "title": "Hull latest: Tigers agree deal with Stuttgart for Vagnoman",
+  "player": null,
+  "title_ko": "Hull 최신: Tigers, Vagnoman을 위해 슈투트가르트와 계약 체결",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-31T12:25:00+00:00"
+ },
+ {
+  "id": "f14575957b9e",
+  "title": "Swansea agree loan of Manchester City's Monga",
+  "player": "City's Monga",
+  "title_ko": "스완지는 맨체스터 시티의 몬가 임대에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T11:21:05+00:00"
+ },
+ {
+  "id": "da1ecce42abf",
+  "title": "Official: Monza sign Ziolkowski from Roma with €18m buy option",
+  "player": "Newly-promoted Monza",
+  "title_ko": "공식: Monza는 €18m 구매 옵션으로 Roma의 Ziolkowski를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-monza-sign-ziolkowski-from-roma/",
+  "fee": "€18M",
+  "published": "2026-08-31T11:16:04+00:00"
+ },
+ {
   "id": "251ca1636403",
   "title": "Zurück in der Geburtsstadt: Meyer wechselt zu RWO",
   "player": "Max Meyer",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-29T22:24:56+00:00"
- },
- {
-  "id": "92c0ad89b563",
-  "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
-  "player": null,
-  "title_ko": "서류: 리버풀은 크리스탈 팰리스의 윙어 사르 영입을 위한 대화를 계속하고 있습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-  "fee": null,
-  "published": "2026-08-29T22:22:00+00:00"
- },
- {
-  "id": "a900d0158fd3",
-  "title": "OM : \"Le mettre au congélateur comme une glace...\" Acherchour ironise sur le mercato",
-  "player": "Maxime Chanot",
-  "title_ko": "OM: \"Le mettre au congélateur comme une glace...\" Acherchour ironise sur le mercato",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/video-om-le-mettre-au-congelateur-comme-une-glace-acherchour-ironise-sur-le-mercato_VN-202608290424.html",
-  "fee": null,
-  "published": "2026-08-29T22:10:13+00:00"
- },
- {
-  "id": "c9df402fc179",
-  "title": "Mercato: Un nouveau transfert XXL entre cadors se profile",
-  "player": "Cody Gakpo",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-un-nouveau-transfert-xxl-entre-cadors-se-profile_AV-202608290416.html",
-  "fee": null,
-  "published": "2026-08-29T21:51:58+00:00"
  }
 ]

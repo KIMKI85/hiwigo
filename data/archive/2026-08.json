@@ -1,5 +1,44 @@
 [
  {
+  "id": "1972c69d3aa9",
+  "title": "Hull latest: Tigers agree deal with Stuttgart for Vagnoman",
+  "player": null,
+  "title_ko": "Hull 최신: Tigers, Vagnoman을 위해 슈투트가르트와 계약 체결",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-08-31T12:25:00+00:00"
+ },
+ {
+  "id": "f14575957b9e",
+  "title": "Swansea agree loan of Manchester City's Monga",
+  "player": "City's Monga",
+  "title_ko": "스완지는 맨체스터 시티의 몬가 임대에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T11:21:05+00:00"
+ },
+ {
+  "id": "da1ecce42abf",
+  "title": "Official: Monza sign Ziolkowski from Roma with €18m buy option",
+  "player": "Newly-promoted Monza",
+  "title_ko": "공식: Monza는 €18m 구매 옵션으로 Roma의 Ziolkowski를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-monza-sign-ziolkowski-from-roma/",
+  "fee": "€18M",
+  "published": "2026-08-31T11:16:04+00:00"
+ },
+ {
   "id": "2d0ffd6563a4",
   "title": "Zurück in der Geburtsstadt: Meyer wechselt ablösefrei zu RWO",
   "player": "Max Meyer",
