@@ -1,5 +1,31 @@
 [
  {
+  "id": "aa33b75db819",
+  "title": "Eines der größten Talente Estlands: Kölns Kristal vor Leihe zum FC Thun",
+  "player": "Talente Estlands",
+  "title_ko": "에스토니아의 가장 뛰어난 재능 중 하나: FC 툰으로 임대되기 전 쾰른의 크리스탈",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/eines-der-groessten-talente-estlands-koelns-kristal-vor-leihe-zum-fc-thun-1248447/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:39:34+00:00"
+ },
+ {
+  "id": "b1fdb6934ad5",
+  "title": "Fofana, Balogun, Doué… les 5 infos mercato du 31 août à midi",
+  "player": "Ismaila Sarr",
+  "title_ko": "포파나, 발로군, 두에…8월 31일 정오부터 5번 이적 창구 정보",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-fofana-balogun-doue-les-5-infos-mercato-du-31-aout-a-midi_VN-202608310436.html",
+  "fee": null,
+  "published": "2026-08-31T10:34:29+00:00"
+ },
+ {
   "id": "fe2a168bd63f",
   "title": "Wechsel nach Manchester fix: Auch Wamser verlässt die Bundesliga",
   "player": "Auch Wamser",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/premier-league/malgre-des-centaines-de-millions-depenses-au-mercato-et-une-nouvelle-defaite-de-zerbi-et-tottenham-ne-veulent-pas-ceder-a-la-panique_AN-202608290369.html",
   "fee": null,
   "published": "2026-08-29T19:38:26+00:00"
- },
- {
-  "id": "22aa0bf0ba8a",
-  "title": "Report Hutchinson ready for Milan after verbal agreement with Nottingham Forest",
-  "player": null,
-  "title_ko": "노팅엄 포레스트 (Nottingham Forest) 와의 구두 합의 후 밀라노를 위해 준비된 허친슨 (Hutch",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-hutchinson-read-milan-nottingham-forest/",
-  "fee": null,
-  "published": "2026-08-29T19:26:14+00:00"
- },
- {
-  "id": "6e1591d9f9cd",
-  "title": "Official: Torino sign Perri from Leeds United, sell Pedersen to Olympiacos",
-  "player": "Lucas Perri",
-  "title_ko": "공식: 토리노는 리즈 유나이티드에서 페리를 영입하고 페데르센을 올림피아코스에 판매합니다",
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-torino-perri-leeds-united-pedersen/",
-  "fee": null,
-  "published": "2026-08-29T19:13:48+00:00"
  }
 ]
