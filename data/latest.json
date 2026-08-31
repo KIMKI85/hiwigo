@@ -1,5 +1,18 @@
 [
  {
+  "id": "a60d6515fe8c",
+  "title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
+  "player": "Michael Carrick's",
+  "title_ko": "맨유 뉴스: 클럽은 스타가 이적 이적에 대해 말할 때 스트라이커가 그들을 기다리고 있다고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-transfers-michael-carrick-37608613",
+  "fee": null,
+  "published": "2026-08-31T03:30:00+00:00"
+ },
+ {
   "id": "0115b5faa521",
   "title": "Arsenal news: Julian Alvarez development as striker set for dream transfer move",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/steht-direkt-im-kader-von-der-hitz-wechselt-per-leihe-nach-aachen-1247748/artikel#omrss",
   "fee": null,
   "published": "2026-08-29T10:49:06+00:00"
- },
- {
-  "id": "089f08083d4e",
-  "title": "Arsenal given hours to convince Julian Alvarez as Atletico Madrid issue final transfer ultimatum",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 아틀레티코 마드리드가 최종 이적 최후 통첩을 발표함에 따라 줄리안 알바레스를 설득하기 위해 몇 시간을 보냈습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-julian-alvarez-37606247",
-  "fee": null,
-  "published": "2026-08-29T10:32:19+00:00"
  }
 ]
