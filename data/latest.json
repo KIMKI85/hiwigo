@@ -156,6 +156,19 @@
   "published": "2026-08-31T10:59:38+00:00"
  },
  {
+  "id": "88cea767f5dc",
+  "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen Euro für die Eintracht",
+  "player": "Millionen Euro",
+  "title_ko": "홈경기에서 도안 변경: 아인트라흐트에 1700만 유로",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/doan-wechsel-auf-der-zielgeraden-17-millionen-euro-fuer-die-eintracht-1248442/artikel#omrss",
+  "fee": null,
+  "published": "2026-08-31T10:54:42+00:00"
+ },
+ {
   "id": "e7d316667463",
   "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
   "player": "Der Verkauf",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
   "fee": null,
   "published": "2026-08-30T07:00:51+00:00"
- },
- {
-  "id": "ba6e6b6fa71f",
-  "title": "DIRECT. Mercato: City s'active pour Gakpo et Enzo Fernandez, Leipzig tout proche de signer El Aynaoui...",
-  "player": "Enzo Fernandez",
-  "title_ko": "직접. 메르카토: 도시 s 'active pour Gakpo et Enzo Fernandez, Leipzig tout proche de signer El Aynaoui...",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-city-s-active-pour-gakpo-et-enzo-fernandez-leipzig-tout-proche-de-signer-el-ayanoui_LN-202608300091.html",
-  "fee": null,
-  "published": "2026-08-30T06:27:50+00:00"
  }
 ]
