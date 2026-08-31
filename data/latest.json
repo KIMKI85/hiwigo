@@ -1,5 +1,18 @@
 [
  {
+  "id": "aa03c39f0b0a",
+  "title": "Juventus and Atletico Madrid strike David agreement for potential €25m fee",
+  "player": null,
+  "title_ko": "유벤투스와 아틀레티코 마드리드는 다비드에게 €25m의 이적료에 합의했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-atletico-madrid-hit-david-agreement/",
+  "fee": "€25M",
+  "published": "2026-08-31T12:42:23+00:00"
+ },
+ {
   "id": "1972c69d3aa9",
   "title": "Hull latest: Tigers agree deal with Stuttgart for Vagnoman",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-barcola-alvarez-37607768",
   "fee": null,
   "published": "2026-08-30T07:10:15+00:00"
- },
- {
-  "id": "3fec9109c981",
-  "title": "Transfer latest as deadline looms, Premier League buildup and more – matchday live",
-  "player": null,
-  "title_ko": "마감일이 다가옴에 따라 최신 이적, 프리미어 리그 구축 등 – 매치데이 라이브",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-  "fee": null,
-  "published": "2026-08-30T07:00:51+00:00"
  }
 ]
