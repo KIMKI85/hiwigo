@@ -1,5 +1,18 @@
 [
  {
+  "id": "126f26f2d4d3",
+  "title": "Man Utd make final Barcelona transfer decision after crunch talks ahead of deadline",
+  "player": "Barcelona's Alejandro Balde",
+  "title_ko": "맨유는 마감일을 앞두고 위기 논의 끝에 최종 바르셀로나 이적 결정을 내렸습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-balde-man-utd-barcelona-37612268",
+  "fee": null,
+  "published": "2026-08-31T17:08:30+00:00"
+ },
+ {
   "id": "f14d198af280",
   "title": "Man City's £80m move for Gakpo close to collapse",
   "player": "Cody Gakpo",
@@ -1870,6 +1883,19 @@
   "url": "https://www.kicker.de/fazit-nach-bvb-sieg-gegen-den-hsv-neue-spielfreude-und-offene-transfer-baustellen-1247983/video#omrss",
   "fee": null,
   "published": "2026-08-29T21:23:00+00:00"
+ },
+ {
+  "id": "75707ad1de8f",
+  "title": "Man City consider options after bumper Gakpo bid rejected",
+  "player": "Cody Gakpo",
+  "title_ko": "맨시티는 범퍼 각포 입찰이 거부된 후 옵션을 고려합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
+  "fee": null,
+  "published": "2026-08-29T21:20:00+00:00"
  },
  {
   "id": "88b24c1881bd",
