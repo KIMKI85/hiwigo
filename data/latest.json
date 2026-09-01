@@ -1,5 +1,18 @@
 [
  {
+  "id": "e30ef12f93de",
+  "title": "Stassin será el primer fichaje del Sevilla en la traca final del mercado",
+  "player": null,
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/01/stassin-sera-primer-fichaje-sevilla-traca-final-mercado.html",
+  "fee": null,
+  "published": "2026-09-01T06:56:46+00:00"
+ },
+ {
   "id": "c86814dbc752",
   "title": "Mercato: \"Plus personne ne décidera de mon avenir à ma place\", le message cinglant de Richarlison sur sa situation à Tottenham",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/mbangula-vor-leihe-zu-atalanta-malatinis-mls-abgang-naht-1248440/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T10:26:57+00:00"
- },
- {
-  "id": "0b8c839af072",
-  "title": "Rangers target Kelsy's colourful career - aged just 22",
-  "player": "Kevin Kelsy",
-  "title_ko": "레인저스는 22세인 켈시의 화려한 경력을 목표로 하고 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckgw93e4938o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T10:22:45+00:00"
  }
 ]
