@@ -1,5 +1,18 @@
 [
  {
+  "id": "681484bb13a9",
+  "title": "Arsenal allow Ethan Nwaneri loan exit but REJECT clause Borussia Dortmund requested",
+  "player": "Ethan Nwaneri",
+  "title_ko": "아스날은 Ethan Nwaneri의 임대 종료를 허용했지만 REJECT 조항 Borussia Dortmund는 요청했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/nwaneri-future-arsenal-loan-dortmund-37613304",
+  "fee": null,
+  "published": "2026-09-01T07:52:04+00:00"
+ },
+ {
   "id": "0b3e1437def9",
   "title": "Video: Which players do Serie A clubs need to sign on transfer deadline day?",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/which-players-serie-a-clubs-sign-deadline-day/",
   "fee": null,
   "published": "2026-09-01T07:44:27+00:00"
+ },
+ {
+  "id": "59ed87b38e6c",
+  "title": "Man Utd striker 'target' breaks silence on potential deadline day transfer",
+  "player": null,
+  "title_ko": "맨유의 스트라이커 '타겟'이 이적 마감일에 대한 침묵을 깨다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-striker-transfer-news-37613312",
+  "fee": null,
+  "published": "2026-09-01T07:44:20+00:00"
  },
  {
   "id": "ac8b752529a1",
@@ -50,6 +76,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T07:34:09+00:00"
+ },
+ {
+  "id": "e96c50151f5c",
+  "title": "Die spektakulärsten Deadline-Day-Transfers in diesem Jahrhundert",
+  "player": null,
+  "title_ko": "금세기의 가장 멋진 마감일 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-spektakulaersten-deadline-day-transfers-in-diesem-jahrhundert-870001/slideshow#omrss",
+  "fee": null,
+  "published": "2026-09-01T07:27:29+00:00"
  },
  {
   "id": "c6a9fc6c48e0",
@@ -258,6 +297,19 @@
   "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
   "fee": "£40M",
   "published": "2026-08-31T22:47:37+00:00"
+ },
+ {
+  "id": "24e8f4508eb7",
+  "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+  "player": "Julián Álvarez",
+  "title_ko": "아스날은 마르티넬리와 제수스를 판매하기로 합의한 후 훌리안 알바레즈를 유인하려고 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+  "fee": null,
+  "published": "2026-08-31T22:36:50+00:00"
  },
  {
   "id": "271bf42c763a",
@@ -1246,57 +1298,5 @@
   "url": "https://www.kicker.de/zurueck-in-der-geburtsstadt-meyer-wechselt-abloesefrei-zu-rwo-1248296/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T11:01:05+00:00"
- },
- {
-  "id": "4d116da9abf8",
-  "title": "Chelsea open talks for Roma’s Kone in final 48 hours of summer transfer window",
-  "player": null,
-  "title_ko": "첼시는 여름 이적 기간 마지막 48시간 동안 로마의 콘에 대한 대화를 공개했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/chelsea-open-late-transfer-talks-roma-kone/",
-  "fee": null,
-  "published": "2026-08-31T10:59:38+00:00"
- },
- {
-  "id": "88cea767f5dc",
-  "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen Euro für die Eintracht",
-  "player": "Millionen Euro",
-  "title_ko": "홈경기에서 도안 변경: 아인트라흐트에 1700만 유로",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/doan-wechsel-auf-der-zielgeraden-17-millionen-euro-fuer-die-eintracht-1248442/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T10:54:42+00:00"
- },
- {
-  "id": "e7d316667463",
-  "title": "Doan-Wechsel auf der Zielgeraden: 17 Millionen für die Eintracht",
-  "player": "Der Verkauf",
-  "title_ko": "홈 경기장에서의 도안 체인지: 아인트라흐트의 경우 1700만",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/doan-wechsel-auf-der-zielgeraden-17-millionen-fuer-die-eintracht-1248442/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T10:54:42+00:00"
- },
- {
-  "id": "6e39118f3db3",
-  "title": "Neuer Innenverteidiger für Oberhausen: Die aktuellen Transfers in der Regionalliga",
-  "player": "Neuer Innenverteidiger",
-  "title_ko": "오버하우젠의 새로운 중앙 수비수: 현재 지역 리그의 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/neuer-innenverteidiger-fuer-oberhausen-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T10:49:23+00:00"
  }
 ]

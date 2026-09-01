@@ -1,5 +1,18 @@
 [
  {
+  "id": "681484bb13a9",
+  "title": "Arsenal allow Ethan Nwaneri loan exit but REJECT clause Borussia Dortmund requested",
+  "player": "Ethan Nwaneri",
+  "title_ko": "아스날은 Ethan Nwaneri의 임대 종료를 허용했지만 REJECT 조항 Borussia Dortmund는 요청했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/nwaneri-future-arsenal-loan-dortmund-37613304",
+  "fee": null,
+  "published": "2026-09-01T07:52:04+00:00"
+ },
+ {
   "id": "0b3e1437def9",
   "title": "Video: Which players do Serie A clubs need to sign on transfer deadline day?",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/which-players-serie-a-clubs-sign-deadline-day/",
   "fee": null,
   "published": "2026-09-01T07:44:27+00:00"
+ },
+ {
+  "id": "59ed87b38e6c",
+  "title": "Man Utd striker 'target' breaks silence on potential deadline day transfer",
+  "player": null,
+  "title_ko": "맨유의 스트라이커 '타겟'이 이적 마감일에 대한 침묵을 깨다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-striker-transfer-news-37613312",
+  "fee": null,
+  "published": "2026-09-01T07:44:20+00:00"
  },
  {
   "id": "ac8b752529a1",
@@ -61,6 +87,19 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/die-spektakulaersten-deadline-day-transfers-der-letzten-20-jahre-870001/slideshow#omrss",
+  "fee": null,
+  "published": "2026-09-01T07:27:29+00:00"
+ },
+ {
+  "id": "e96c50151f5c",
+  "title": "Die spektakulärsten Deadline-Day-Transfers in diesem Jahrhundert",
+  "player": null,
+  "title_ko": "금세기의 가장 멋진 마감일 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-spektakulaersten-deadline-day-transfers-in-diesem-jahrhundert-870001/slideshow#omrss",
   "fee": null,
   "published": "2026-09-01T07:27:29+00:00"
  },
