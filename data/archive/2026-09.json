@@ -1,5 +1,18 @@
 [
  {
+  "id": "8988431a5c99",
+  "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
+  "player": "Lamine Camara",
+  "title_ko": "거래해! 모나코, 페르난데스 교체 카마라 첼시에 매각 철회",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
+  "fee": null,
+  "published": "2026-09-01T23:15:00+00:00"
+ },
+ {
   "id": "a847fc0ca9f4",
   "title": "Official: Milan loan Fofana to Sevilla without purchase option",
   "player": "Youssouf Fofana",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/official-milan-loan-fofana-sevilla-no-option/",
   "fee": null,
   "published": "2026-09-01T22:12:19+00:00"
+ },
+ {
+  "id": "444269556e00",
+  "title": "El Sevilla anuncia sobre la bocina el fichaje de Youssouf Fofana",
+  "player": "Youssouf Fofana",
+  "title_ko": "세비야는 유수프 포파나(Youssouf Fofana)의 영입을 발표했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/02/sevilla-anuncia-sobre-bocina-fichaje-youssouf-fofana.html",
+  "fee": null,
+  "published": "2026-09-01T22:10:49+00:00"
  },
  {
   "id": "31c2dfcf78f1",
