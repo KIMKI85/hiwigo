@@ -1,5 +1,57 @@
 [
  {
+  "id": "a847fc0ca9f4",
+  "title": "Official: Milan loan Fofana to Sevilla without purchase option",
+  "player": "Youssouf Fofana",
+  "title_ko": "공식: 밀란은 구매 옵션 없이 포파나를 세비야로 임대했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-milan-loan-fofana-sevilla-no-option/",
+  "fee": null,
+  "published": "2026-09-01T22:12:19+00:00"
+ },
+ {
+  "id": "31c2dfcf78f1",
+  "title": "Mercato: Arabie saoudite, Turquie... Ces marchés où les clubs français peuvent encore vendre des joueurs",
+  "player": null,
+  "title_ko": "Mercato: 사우디아라비아, 터키... 프랑스 클럽이 여전히 선수를 판매할 수 있는 시장",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arabie-saoudite-turquie-ces-marches-ou-les-clubs-francais-peuvent-encore-vendre-des-joueurs_AV-202609010940.html",
+  "fee": null,
+  "published": "2026-09-01T22:04:27+00:00"
+ },
+ {
+  "id": "7b051ae71195",
+  "title": "Liverpool tried to sign Gusto - Wednesday's gossip",
+  "player": "Malo Gusto",
+  "title_ko": "리버풀은 구스토 영입을 시도했다 - 수요일의 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T22:03:03+00:00"
+ },
+ {
+  "id": "85c9c355ff09",
+  "title": "Enzo Fernandez reveals Chelsea truth in emotional statement on Man City transfer",
+  "player": "Enzo Fernandez",
+  "title_ko": "엔조 페르난데스는 맨시티 이적에 대한 감정적 성명에서 첼시의 진실을 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/enzo-fernandez-man-city-chelsea-37616973",
+  "fee": null,
+  "published": "2026-09-01T21:55:18+00:00"
+ },
+ {
   "id": "6b5849c15a35",
   "title": "Everton sign Grealish as Zirkzee stays at Man Utd",
   "player": "Jack Grealish",
@@ -1246,57 +1298,5 @@
   "url": "https://www.kicker.de/warten-auf-transfers-jovanovic-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T11:15:11+00:00"
- },
- {
-  "id": "fcc5fb780793",
-  "title": "Lazio reach Gudmundsson agreement with Fiorentina",
-  "player": "Albert Gudmundsson",
-  "title_ko": "라치오, 피오렌티나와 구드문드손 계약 체결",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-gudmundsson-agreement-with-fiorentina/",
-  "fee": null,
-  "published": "2026-09-01T11:08:43+00:00"
- },
- {
-  "id": "247ad68b191a",
-  "title": "Man Utd’s private Lewis Hall transfer plan as Newcastle confirm price tag",
-  "player": "Lewis Hall",
-  "title_ko": "뉴캐슬이 가격표를 확인함에 따라 맨유의 개인 루이스 홀 이적 계획",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-lewis-hall-37614343",
-  "fee": null,
-  "published": "2026-09-01T11:04:00+00:00"
- },
- {
-  "id": "c8b2fb15dd56",
-  "title": "Fulham latest: Real Madrid midfielder deal completed with two more to join",
-  "player": null,
-  "title_ko": "풀럼 최근: 레알 마드리드 미드필더 계약 완료, 두 명 더 합류",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-  "fee": null,
-  "published": "2026-09-01T11:00:00+00:00"
- },
- {
-  "id": "3587833074da",
-  "title": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
-  "player": null,
-  "title_ko": "축구 이적 마감일: 페르난데스의 맨체스터 시티 이적, 빌라의 음바예 영입 등 - 라이브",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-  "fee": null,
-  "published": "2026-09-01T10:50:30+00:00"
  }
 ]
