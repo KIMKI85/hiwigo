@@ -1,5 +1,18 @@
 [
  {
+  "id": "b6bd2add401c",
+  "title": "Ahanor to join Chelsea next season after Palace loan",
+  "player": "Honest Ahanor",
+  "title_ko": "아하노르, 팰리스 임대 후 다음 시즌 첼시에 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T11:50:30+00:00"
+ },
+ {
   "id": "8ce2c573299e",
   "title": "Video: Woltemade lands in Turin for Juventus transfer from Newcastle",
   "player": "Nick Woltemade",
@@ -61,6 +74,19 @@
   "lv": 3,
   "src": "kicker Bundesliga (DE)",
   "url": "https://www.kicker.de/warten-auf-transfers-jovanovic-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:15:11+00:00"
+ },
+ {
+  "id": "1034870088dd",
+  "title": "Warten auf Transfers: Catovic und Vagnoman im VfB-Training",
+  "player": "Die Uhr",
+  "title_ko": "이적 대기 중: VfB 훈련 중인 Catovic 및 Vagnoman",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/warten-auf-transfers-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T11:15:11+00:00"
  },

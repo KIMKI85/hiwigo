@@ -1,5 +1,18 @@
 [
  {
+  "id": "b6bd2add401c",
+  "title": "Ahanor to join Chelsea next season after Palace loan",
+  "player": "Honest Ahanor",
+  "title_ko": "아하노르, 팰리스 임대 후 다음 시즌 첼시에 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T11:50:30+00:00"
+ },
+ {
   "id": "8ce2c573299e",
   "title": "Video: Woltemade lands in Turin for Juventus transfer from Newcastle",
   "player": "Nick Woltemade",
@@ -50,6 +63,19 @@
   "url": "https://www.kicker.de/wird-sich-schnell-bei-uns-einleben-imeri-wechselt-zu-union-1248148/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T11:18:00+00:00"
+ },
+ {
+  "id": "1034870088dd",
+  "title": "Warten auf Transfers: Catovic und Vagnoman im VfB-Training",
+  "player": "Die Uhr",
+  "title_ko": "이적 대기 중: VfB 훈련 중인 Catovic 및 Vagnoman",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/warten-auf-transfers-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:15:11+00:00"
  },
  {
   "id": "08674f81c887",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/spaeter-transfer-doppelschlag-wiesbaden-holt-paula-und-schultz-1248543/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T17:34:37+00:00"
- },
- {
-  "id": "126f26f2d4d3",
-  "title": "Man Utd make final Barcelona transfer decision after crunch talks ahead of deadline",
-  "player": "Barcelona's Alejandro Balde",
-  "title_ko": "맨유는 마감일을 앞두고 위기 논의 끝에 최종 바르셀로나 이적 결정을 내렸습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-balde-man-utd-barcelona-37612268",
-  "fee": null,
-  "published": "2026-08-31T17:08:30+00:00"
- },
- {
-  "id": "f14d198af280",
-  "title": "Man City's £80m move for Gakpo close to collapse",
-  "player": "Cody Gakpo",
-  "title_ko": "맨시티의 각포 이적료 8천만 파운드는 거의 무산될 뻔",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
-  "fee": "£80M",
-  "published": "2026-08-31T16:53:46+00:00"
  }
 ]
