@@ -13,6 +13,32 @@
   "published": "2026-09-01T18:41:00+00:00"
  },
  {
+  "id": "8218e14b7ca4",
+  "title": "Mercato: le chambrage de Lens envers l'OM dans la vidéo d'annonce pour Todibo",
+  "player": "Clair Todibo",
+  "title_ko": "Mercato: Todibo 발표 영상에서 Lens의 OM에 대한 거부감",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-chambrage-de-lens-envers-l-om-dans-la-video-d-annonce-pour-todibo_AV-202609010814.html",
+  "fee": null,
+  "published": "2026-09-01T18:03:30+00:00"
+ },
+ {
+  "id": "d86acaa664bc",
+  "title": "Brughmans joins Liverpool in deal worth up to £30m",
+  "player": "Lucca Brughmans",
+  "title_ko": "Brughmans는 £ 30m 상당의 거래로 리버풀에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-09-01T18:01:04+00:00"
+ },
+ {
   "id": "68cf0c6cf302",
   "title": "El Sevilla anuncia el acuerdo con el Lille para la cesión de Félix Correia",
   "player": "Félix Correia",
@@ -167,6 +193,19 @@
   "url": "https://football-italia.net/fiorentina-receive-final-gnonto-go-ahead/",
   "fee": null,
   "published": "2026-09-01T17:10:21+00:00"
+ },
+ {
+  "id": "108b6e2397c9",
+  "title": "Liverpool latest: Goalkeeper joins from Genk as Carra questions strategy",
+  "player": null,
+  "title_ko": "리버풀 최신: 카라가 전략에 의문을 제기하자 골키퍼는 겐크에서 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T17:00:00+00:00"
  },
  {
   "id": "82e2651b46aa",
