@@ -1,5 +1,44 @@
 [
  {
+  "id": "eb9b7c135b47",
+  "title": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
+  "player": "Yukinari Sugawara",
+  "title_ko": "공식: 칼리아리가 사우샘프턴의 수가와라를 550만 유로의 구매 옵션으로 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
+  "fee": "€5.5M",
+  "published": "2026-09-01T17:42:04+00:00"
+ },
+ {
+  "id": "64bf7ddbebd5",
+  "title": "Official: Fiorentina sign Beto from Everton in €18m deal",
+  "player": null,
+  "title_ko": "공식: 피오렌티나는 에버튼의 베투를 €18m에 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-fiorentina-sign-beto-from-everton/",
+  "fee": "€18M",
+  "published": "2026-09-01T17:30:48+00:00"
+ },
+ {
+  "id": "924e1dd38281",
+  "title": "El Betis descarta el fichaje de un pivote y se centra en Ceballos",
+  "player": null,
+  "title_ko": "베티스는 피벗 영입을 배제하고 세바요스에게 집중한다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/09/01/betis-descarta-fichaje-pivote-centra-ceballos.html",
+  "fee": null,
+  "published": "2026-09-01T17:25:50+00:00"
+ },
+ {
   "id": "025a1b90e84e",
   "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
   "player": "Guela Doué",

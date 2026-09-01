@@ -1,5 +1,44 @@
 [
  {
+  "id": "eb9b7c135b47",
+  "title": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
+  "player": "Yukinari Sugawara",
+  "title_ko": "공식: 칼리아리가 사우샘프턴의 수가와라를 550만 유로의 구매 옵션으로 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
+  "fee": "€5.5M",
+  "published": "2026-09-01T17:42:04+00:00"
+ },
+ {
+  "id": "64bf7ddbebd5",
+  "title": "Official: Fiorentina sign Beto from Everton in €18m deal",
+  "player": null,
+  "title_ko": "공식: 피오렌티나는 에버튼의 베투를 €18m에 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-fiorentina-sign-beto-from-everton/",
+  "fee": "€18M",
+  "published": "2026-09-01T17:30:48+00:00"
+ },
+ {
+  "id": "924e1dd38281",
+  "title": "El Betis descarta el fichaje de un pivote y se centra en Ceballos",
+  "player": null,
+  "title_ko": "베티스는 피벗 영입을 배제하고 세바요스에게 집중한다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/betis/2026/09/01/betis-descarta-fichaje-pivote-centra-ceballos.html",
+  "fee": null,
+  "published": "2026-09-01T17:25:50+00:00"
+ },
+ {
   "id": "025a1b90e84e",
   "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
   "player": "Guela Doué",
@@ -1259,44 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-plus-personne-ne-decidera-de-mon-avenir-a-ma-place-le-message-cinglant-de-richarlison-sur-sa-situation-a-tottenham_AV-202609010230.html",
   "fee": null,
   "published": "2026-09-01T06:32:21+00:00"
- },
- {
-  "id": "fc99366af0b0",
-  "title": "Man Utd's dream starting XI after transfer deadline day as problem area finally solved",
-  "player": null,
-  "title_ko": "문제가 마침내 해결되면서 이적 마감일 이후 XI를 시작하는 맨유의 꿈",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfer-deadline-day-37612262",
-  "fee": null,
-  "published": "2026-09-01T06:30:00+00:00"
- },
- {
-  "id": "211af2d4d2ba",
-  "title": "Transfer deadline day LIVE: Julian Alvarez latest, Man Utd double deal, Liverpool launch new bid",
-  "player": "Julian Alvarez",
-  "title_ko": "이적 마감일: 줄리안 알바레즈 (Julian Alvarez) 최신, 맨유 더블 딜, 리버풀 출시 신규 입찰",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-deadline-day-37611830",
-  "fee": null,
-  "published": "2026-09-01T06:09:38+00:00"
- },
- {
-  "id": "79616c101c6f",
-  "title": "Arsenal's stunning line-up as big names leave and £328m spent in dream summer transfer window",
-  "player": "Mikel Arteta",
-  "title_ko": "거물들이 떠나고 꿈의 여름 이적 기간에 £328m를 지출한 아스날의 놀라운 라인업",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-deadline-day-news-37610989",
-  "fee": "£328M",
-  "published": "2026-09-01T06:00:00+00:00"
  }
 ]
