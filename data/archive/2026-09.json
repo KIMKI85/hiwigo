@@ -1,5 +1,31 @@
 [
  {
+  "id": "211af2d4d2ba",
+  "title": "Transfer deadline day LIVE: Julian Alvarez latest, Man Utd double deal, Liverpool launch new bid",
+  "player": "Julian Alvarez",
+  "title_ko": "이적 마감일: 줄리안 알바레즈 (Julian Alvarez) 최신, 맨유 더블 딜, 리버풀 출시 신규 입찰",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-deadline-day-37611830",
+  "fee": null,
+  "published": "2026-09-01T06:09:38+00:00"
+ },
+ {
+  "id": "79616c101c6f",
+  "title": "Arsenal's stunning line-up as big names leave and £328m spent in dream summer transfer window",
+  "player": "Mikel Arteta",
+  "title_ko": "거물들이 떠나고 꿈의 여름 이적 기간에 £328m를 지출한 아스날의 놀라운 라인업",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-deadline-day-news-37610989",
+  "fee": "£328M",
+  "published": "2026-09-01T06:00:00+00:00"
+ },
+ {
   "id": "a516e3acc38b",
   "title": "Les principales dates de fermeture de mercato en Europe et dans le monde",
   "player": null,

@@ -1,5 +1,31 @@
 [
  {
+  "id": "211af2d4d2ba",
+  "title": "Transfer deadline day LIVE: Julian Alvarez latest, Man Utd double deal, Liverpool launch new bid",
+  "player": "Julian Alvarez",
+  "title_ko": "이적 마감일: 줄리안 알바레즈 (Julian Alvarez) 최신, 맨유 더블 딜, 리버풀 출시 신규 입찰",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-deadline-day-37611830",
+  "fee": null,
+  "published": "2026-09-01T06:09:38+00:00"
+ },
+ {
+  "id": "79616c101c6f",
+  "title": "Arsenal's stunning line-up as big names leave and £328m spent in dream summer transfer window",
+  "player": "Mikel Arteta",
+  "title_ko": "거물들이 떠나고 꿈의 여름 이적 기간에 £328m를 지출한 아스날의 놀라운 라인업",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-deadline-day-news-37610989",
+  "fee": "£328M",
+  "published": "2026-09-01T06:00:00+00:00"
+ },
+ {
   "id": "a516e3acc38b",
   "title": "Les principales dates de fermeture de mercato en Europe et dans le monde",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/celtic-secure-deal-parma-midfielder-sorensen/",
   "fee": null,
   "published": "2026-08-31T10:11:51+00:00"
- },
- {
-  "id": "cffefbb15671",
-  "title": "Man Utd and Arsenal striker transfer plans could set up major Newcastle deal",
-  "player": "Nick Woltemade",
-  "title_ko": "맨유와 아스널의 스트라이커 이적 계획은 뉴캐슬과의 대규모 계약을 성사시킬 수 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/woltemade-transfer-man-utd-arsenal-37610310",
-  "fee": null,
-  "published": "2026-08-31T10:02:28+00:00"
- },
- {
-  "id": "59c7b0d77ad1",
-  "title": "The early signs showing new Premier League season will be very different to last year",
-  "player": null,
-  "title_ko": "새로운 프리미어 리그 시즌을 보여주는 초기 징후는 작년과 매우 다를 것입니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/early-signs-showing-new-premier-37610336",
-  "fee": null,
-  "published": "2026-08-31T10:02:05+00:00"
  }
 ]
