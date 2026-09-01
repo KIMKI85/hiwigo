@@ -13,6 +13,32 @@
   "published": "2026-09-01T21:30:00+00:00"
  },
  {
+  "id": "04595a70beac",
+  "title": "El delantero Petar Ratkov, undécimo fichaje del Levante",
+  "player": "Petar Ratkov",
+  "title_ko": "레반테의 11번째 영입 선수인 스트라이커 페타르 라트코프",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/levante/2026/09/01/delantero-petar-ratkov-undecimo-fichaje-levante.html",
+  "fee": null,
+  "published": "2026-09-01T21:28:41+00:00"
+ },
+ {
+  "id": "6badfa63dfe1",
+  "title": "Man Utd issue instant response as Everton make deadline day bid for striker",
+  "player": "Joshua Zirkzee",
+  "title_ko": "맨유는 에버턴이 스트라이커에게 입찰 마감일을 정하자 즉각적인 대응을 내놨다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-everton-37616888",
+  "fee": null,
+  "published": "2026-09-01T21:27:04+00:00"
+ },
+ {
   "id": "9211f9257df4",
   "title": "Tottenham sign Chelsea's Mudryk on loan",
   "player": "Chelsea's Mudryk",

@@ -13,6 +13,32 @@
   "published": "2026-09-01T21:30:00+00:00"
  },
  {
+  "id": "04595a70beac",
+  "title": "El delantero Petar Ratkov, undécimo fichaje del Levante",
+  "player": "Petar Ratkov",
+  "title_ko": "레반테의 11번째 영입 선수인 스트라이커 페타르 라트코프",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/levante/2026/09/01/delantero-petar-ratkov-undecimo-fichaje-levante.html",
+  "fee": null,
+  "published": "2026-09-01T21:28:41+00:00"
+ },
+ {
+  "id": "6badfa63dfe1",
+  "title": "Man Utd issue instant response as Everton make deadline day bid for striker",
+  "player": "Joshua Zirkzee",
+  "title_ko": "맨유는 에버턴이 스트라이커에게 입찰 마감일을 정하자 즉각적인 대응을 내놨다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-everton-37616888",
+  "fee": null,
+  "published": "2026-09-01T21:27:04+00:00"
+ },
+ {
   "id": "9211f9257df4",
   "title": "Tottenham sign Chelsea's Mudryk on loan",
   "player": "Chelsea's Mudryk",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-destination-surprise-pour-malick-fofana-qui-va-quitter-l-ol-pour-sunderland_AV-202609010482.html",
   "fee": null,
   "published": "2026-09-01T10:37:49+00:00"
- },
- {
-  "id": "8ba3779c0e9b",
-  "title": "Arsenal dealt huge transfer blow as Malick Fofana agrees to join Premier League rivals",
-  "player": "Malick Fofana",
-  "title_ko": "아스날은 Malick Fofana가 프리미어 리그 라이벌에 합류하기로 동의함에 따라 엄청난 이적 타격을 입었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-sunderland-malick-fofana-latest-37614051",
-  "fee": null,
-  "published": "2026-09-01T10:37:41+00:00"
- },
- {
-  "id": "42ec3dd4c013",
-  "title": "Lyon winger Fofana set for £30m Sunderland move",
-  "player": "Malick Fofana",
-  "title_ko": "£ 30M 선덜랜드 무브를 위한 리옹 윙어 포파나 세트",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-09-01T10:27:43+00:00"
  }
 ]
