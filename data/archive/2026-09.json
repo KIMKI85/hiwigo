@@ -1,5 +1,18 @@
 [
  {
+  "id": "237785874713",
+  "title": "Official: Juventus loan David to Atletico Madrid with €25m option to buy",
+  "player": "Jonathan David",
+  "title_ko": "공식: 유벤투스가 다비드를 아틀레티코 마드리드에 €25m 구매 옵션으로 임대",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-juventus-loan-david-atletico-madrid/",
+  "fee": "€25M",
+  "published": "2026-09-01T18:43:58+00:00"
+ },
+ {
   "id": "e3883795387d",
   "title": "Newcastle latest: Juventus sign Woltemade on loan",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-09-01T18:41:00+00:00"
+ },
+ {
+  "id": "708c91ec7a13",
+  "title": "Raskin 'as good as gold' amid Rangers transfer wait - McInnes",
+  "player": "Nicolas Raskin",
+  "title_ko": "레인저스 이적 대기 중 Raskin은 '금만큼 좋다'-McInnes",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T18:29:04+00:00"
  },
  {
   "id": "171178051974",

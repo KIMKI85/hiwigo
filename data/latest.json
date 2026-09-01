@@ -1,5 +1,18 @@
 [
  {
+  "id": "237785874713",
+  "title": "Official: Juventus loan David to Atletico Madrid with €25m option to buy",
+  "player": "Jonathan David",
+  "title_ko": "공식: 유벤투스가 다비드를 아틀레티코 마드리드에 €25m 구매 옵션으로 임대",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-juventus-loan-david-atletico-madrid/",
+  "fee": "€25M",
+  "published": "2026-09-01T18:43:58+00:00"
+ },
+ {
   "id": "e3883795387d",
   "title": "Newcastle latest: Juventus sign Woltemade on loan",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-09-01T18:41:00+00:00"
+ },
+ {
+  "id": "708c91ec7a13",
+  "title": "Raskin 'as good as gold' amid Rangers transfer wait - McInnes",
+  "player": "Nicolas Raskin",
+  "title_ko": "레인저스 이적 대기 중 Raskin은 '금만큼 좋다'-McInnes",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T18:29:04+00:00"
  },
  {
   "id": "171178051974",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/which-players-serie-a-clubs-sign-deadline-day/",
   "fee": null,
   "published": "2026-09-01T07:44:27+00:00"
- },
- {
-  "id": "59ed87b38e6c",
-  "title": "Man Utd striker 'target' breaks silence on potential deadline day transfer",
-  "player": null,
-  "title_ko": "맨유의 스트라이커 '타겟'이 이적 마감일에 대한 침묵을 깨다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-striker-transfer-news-37613312",
-  "fee": null,
-  "published": "2026-09-01T07:44:20+00:00"
- },
- {
-  "id": "ac8b752529a1",
-  "title": "Everton agree deal to re-sign Grealish on loan from Man City",
-  "player": "Jack Grealish",
-  "title_ko": "에버턴은 맨시티로부터 그릴리쉬를 임대로 재영입하기로 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T07:35:59+00:00"
  }
 ]
