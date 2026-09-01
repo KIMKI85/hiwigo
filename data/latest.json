@@ -1,5 +1,44 @@
 [
  {
+  "id": "e3883795387d",
+  "title": "Newcastle latest: Juventus sign Woltemade on loan",
+  "player": null,
+  "title_ko": "뉴캐슬 최신: 유벤투스가 월테메이드를 임대로 영입했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T18:41:00+00:00"
+ },
+ {
+  "id": "68cf0c6cf302",
+  "title": "El Sevilla anuncia el acuerdo con el Lille para la cesión de Félix Correia",
+  "player": "Félix Correia",
+  "title_ko": "세비야는 릴과 펠릭스 코레이아 임대 계약을 발표했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/01/sevilla-anuncia-acuerdo-lille-cesion-felix-correia.html",
+  "fee": null,
+  "published": "2026-09-01T17:47:50+00:00"
+ },
+ {
+  "id": "e9a7990312f3",
+  "title": "Official: Juventus sign Woltemade from Newcastle United in €2.8m deal",
+  "player": "Nick Woltemade",
+  "title_ko": "공식: 유벤투스는 뉴캐슬 유나이티드의 Woltemade를 280만 유로에 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-sign-woltemade-from-newcastle/",
+  "fee": "€2.8M",
+  "published": "2026-09-01T17:46:45+00:00"
+ },
+ {
   "id": "eb9b7c135b47",
   "title": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
   "player": "Yukinari Sugawara",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/todays-papers-juventus-woltemade-roma/",
   "fee": null,
   "published": "2026-09-01T07:23:47+00:00"
- },
- {
-  "id": "dca5c0dee3ff",
-  "title": "10 big deals that could go through in the Premier League on deadline day",
-  "player": null,
-  "title_ko": "프리미어리그 마감일에 성사될 수 있는 10가지 빅딜",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfers-premier-league-deadline-day-37613135",
-  "fee": null,
-  "published": "2026-09-01T06:57:39+00:00"
- },
- {
-  "id": "e30ef12f93de",
-  "title": "Stassin será el primer fichaje del Sevilla en la traca final del mercado",
-  "player": null,
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/09/01/stassin-sera-primer-fichaje-sevilla-traca-final-mercado.html",
-  "fee": null,
-  "published": "2026-09-01T06:56:46+00:00"
- },
- {
-  "id": "c86814dbc752",
-  "title": "Mercato: \"Plus personne ne décidera de mon avenir à ma place\", le message cinglant de Richarlison sur sa situation à Tottenham",
-  "player": null,
-  "title_ko": "메르카토: \"더 이상 누구도 내 미래를 결정하지 않을 것이다\", 토트넘에서의 상황에 대한 히샬리송의 신랄한 메시지",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-plus-personne-ne-decidera-de-mon-avenir-a-ma-place-le-message-cinglant-de-richarlison-sur-sa-situation-a-tottenham_AV-202609010230.html",
-  "fee": null,
-  "published": "2026-09-01T06:32:21+00:00"
  }
 ]
