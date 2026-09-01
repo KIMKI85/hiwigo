@@ -13,6 +13,19 @@
   "published": "2026-09-01T09:55:00+00:00"
  },
  {
+  "id": "7a60df339868",
+  "title": "Koné: Roma put Chelsea talks on hold as Gasperini opposes transfer",
+  "player": "Manu Koné",
+  "title_ko": "코네: 가스페리니가 이적을 반대함에 따라 로마는 첼시 협상을 보류했다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/kone-roma-put-chelsea-talks-on-hold-as-gasperini-opposes-transfer/",
+  "fee": null,
+  "published": "2026-09-01T09:27:49+00:00"
+ },
+ {
   "id": "5bb41ddcfaf2",
   "title": "Torino confirm Belghali move and reach agreement with Everton for Patterson",
   "player": "Rafik Belghali",
@@ -871,6 +884,19 @@
   "published": "2026-08-31T18:12:08+00:00"
  },
  {
+  "id": "ed56993410a3",
+  "title": "Elliott expected to join Valencia on loan",
+  "player": "Harvey Elliott",
+  "title_ko": "엘리엇은 임대로 발렌시아에 합류할 것으로 예상됩니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-08-31T17:58:36+00:00"
+ },
+ {
   "id": "5feb6c66f22a",
   "title": "Bruno Fernandes in talks over new Man Utd contract to make him club's best-paid star",
   "player": "Bruno Fernandes",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
   "fee": "£123M",
   "published": "2026-08-31T13:02:48+00:00"
- },
- {
-  "id": "bbf49dd4c085",
-  "title": "Barcola joins Liverpool from PSG in £123m move",
-  "player": "Bradley Barcola",
-  "title_ko": "바르콜라는 £123m 이적료로 PSG에서 리버풀로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
-  "fee": "£123M",
-  "published": "2026-08-31T13:01:22+00:00"
- },
- {
-  "id": "e17fa6fc891e",
-  "title": "Liverpool complete blockbuster Bradley Barcola transfer in huge coup for Andoni Iraola",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 안도니 이라올라의 엄청난 쿠데타로 블록버스터 브래들리 바르콜라 이적을 완료했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-liverpool-signing-announcement-37610405",
-  "fee": null,
-  "published": "2026-08-31T13:00:05+00:00"
  }
 ]
