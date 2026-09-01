@@ -13,6 +13,58 @@
   "published": "2026-09-01T09:55:00+00:00"
  },
  {
+  "id": "ad63853980a9",
+  "title": "Rekordverkauf fix: Unions Ansah wechselt zu Hull City",
+  "player": "Unions Ansah",
+  "title_ko": "음반 판매 수정: Unions Ansah가 Hull City로 이전",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/rekordverkauf-fix-unions-ansah-wechselt-zu-hull-city-1246845/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T09:36:25+00:00"
+ },
+ {
+  "id": "ddfdb052c003",
+  "title": "Man Utd tease two transfers as squad decisions made ahead of deadline",
+  "player": null,
+  "title_ko": "맨유는 마감일보다 앞서 팀 결정이 내려지면서 두 번의 이적을 예고했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-deadline-37613834",
+  "fee": null,
+  "published": "2026-09-01T09:32:54+00:00"
+ },
+ {
+  "id": "8e9224644f26",
+  "title": "Mercato: Fernandez, Koné, Camara, Gittens… Chelsea sur tous les fronts dans le sprint final",
+  "player": "Si Manu Koné",
+  "title_ko": "Mercato: Fernandez, Koné, Camara, Gittens… 최종 스프린트에서 모든 면에서 첼시",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-fernandez-kone-camara-gittens-chelsea-sur-tous-les-fronts-dans-le-sprint-final_AV-202609010419.html",
+  "fee": null,
+  "published": "2026-09-01T09:32:47+00:00"
+ },
+ {
+  "id": "a52cf57d1379",
+  "title": "Überblick: Die Transfers am Deadline Day",
+  "player": "Welche Spieler",
+  "title_ko": "개요: 마감일 이체",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/ueberblick-die-transfers-am-deadline-day-935443/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T09:30:17+00:00"
+ },
+ {
   "id": "7a60df339868",
   "title": "Koné: Roma put Chelsea talks on hold as Gasperini opposes transfer",
   "player": "Manu Koné",
