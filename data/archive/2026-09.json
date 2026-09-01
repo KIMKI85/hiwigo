@@ -1,5 +1,44 @@
 [
  {
+  "id": "7b18d4b63812",
+  "title": "Newcastle sign Fernandez-Pardo from Lille",
+  "player": "Matias Fernandez-",
+  "title_ko": "뉴캐슬, 릴에서 페르난데스-파르도 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-51m",
+  "fee": null,
+  "published": "2026-09-01T15:00:00+00:00"
+ },
+ {
+  "id": "73e3fd9d8cf2",
+  "title": "Fulham agree to sign midfielders Angel and Larsson",
+  "player": "Manuel Angel",
+  "title_ko": "풀럼은 미드필더 앙헬과 라르손 영입에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T14:03:20+00:00"
+ },
+ {
+  "id": "408423d609b7",
+  "title": "Newcastle sign Fernandez-Pardo from Lille for £51m",
+  "player": "Matias Fernandez-",
+  "title_ko": "릴에서 뉴캐슬 페르난데스-파르도 사인 £ 51M",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
+  "fee": "£51M",
+  "published": "2026-09-01T14:01:47+00:00"
+ },
+ {
   "id": "64e41be8a09b",
   "title": "Brighton agree £15m deal for Millwall winger Azeez",
   "player": "Femi Azeez",
