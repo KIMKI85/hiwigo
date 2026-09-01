@@ -1,5 +1,18 @@
 [
  {
+  "id": "8ce2c573299e",
+  "title": "Video: Woltemade lands in Turin for Juventus transfer from Newcastle",
+  "player": "Nick Woltemade",
+  "title_ko": "비디오: 볼테마데는 뉴캐슬에서 유벤투스로 이적하기 위해 토리노로 이적했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-woltemade-lands-in-turin-for-juventus-transfer-from-newcastle/",
+  "fee": null,
+  "published": "2026-09-01T11:37:13+00:00"
+ },
+ {
   "id": "e0a408201ad3",
   "title": "Villa confirm signing of PSG winger Mbaye",
   "player": "Ibrahim Mbaye",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
   "fee": "£80M",
   "published": "2026-08-31T16:53:46+00:00"
- },
- {
-  "id": "9f23afbdd3b8",
-  "title": "Kehrtwende beim Doan-Deal: Der Frankfurter sagt Al-Ittihad ab",
-  "player": "Der Frankfurter",
-  "title_ko": "Doan 거래의 유턴 : The Franker는 Al-Ittihad를 취소합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/kehrtwende-beim-doan-deal-der-frankfurter-sagt-al-ittihad-ab-1248526/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T16:41:54+00:00"
  }
 ]
