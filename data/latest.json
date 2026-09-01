@@ -13,6 +13,19 @@
   "published": "2026-08-31T23:00:00+00:00"
  },
  {
+  "id": "c794e3707130",
+  "title": "DIRECT. Mercato: les clubs anglais font marcher la planche à billets",
+  "player": null,
+  "title_ko": "직접. Mercato: 잉글랜드 클럽이 돈을 인쇄하다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-31-aout-veille-de-la-cloture-du-marche_LN-202608310104.html",
+  "fee": null,
+  "published": "2026-08-31T22:52:15+00:00"
+ },
+ {
   "id": "271bf42c763a",
   "title": "Diese Transfers tätigten die Bundesligisten am Deadline Day 2025",
   "player": "Auch der",
@@ -37,6 +50,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bajcetic-trey-nyoni-forest-37612828",
   "fee": "£30M",
   "published": "2026-08-31T21:58:00+00:00"
+ },
+ {
+  "id": "2605109753d8",
+  "title": "Transfer news LIVE: Arsenal make late £50m move, Mudryk to Tottenham, Man Utd deal",
+  "player": null,
+  "title_ko": "이적 뉴스 라이브: 아스날은 £50m 늦게 이적했고, 머드릭은 토트넘으로, 맨유는 거래했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-barcola-alvarez-37607768",
+  "fee": "£50M",
+  "published": "2026-08-31T21:56:18+00:00"
  },
  {
   "id": "ae7d76c51a12",
@@ -141,6 +167,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crl63ylw12yo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-31T21:07:46+00:00"
+ },
+ {
+  "id": "47e30cd06922",
+  "title": "Everton latest: Toffees agree £40m Balogun deal",
+  "player": null,
+  "title_ko": "Everton 최신: Toffees는 £40m Balogun 거래에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": "£40M",
+  "published": "2026-08-31T20:32:00+00:00"
  },
  {
   "id": "0d58cab530b1",
@@ -310,6 +349,19 @@
   "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
   "fee": null,
   "published": "2026-08-31T19:10:00+00:00"
+ },
+ {
+  "id": "d536aa44b544",
+  "title": "Sunderland latest: Agreement in principle reached with Spurs to sign Danso",
+  "player": null,
+  "title_ko": "선덜랜드 최신: 원칙적으로 스퍼스와 단소 서명 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-31T19:04:00+00:00"
  },
  {
   "id": "b7e155e16f48",
@@ -609,6 +661,19 @@
   "url": "https://football-italia.net/sugawara-set-cagliari-e5-5m-option-southampton/",
   "fee": "€5.5M",
   "published": "2026-08-31T14:43:46+00:00"
+ },
+ {
+  "id": "a009c8e6d326",
+  "title": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
+  "player": null,
+  "title_ko": "첼시 최신: 스퍼스는 토신과 무드릭의 이중 이동에 가까워졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-08-31T14:34:00+00:00"
  },
  {
   "id": "408423d609b7",
@@ -1233,70 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs",
   "fee": null,
   "published": "2026-08-31T08:22:50+00:00"
- },
- {
-  "id": "ec995f9c2f9f",
-  "title": "Man Utd near deal for Mexico's Bernal",
-  "player": "Mexico's Bernal",
-  "title_ko": "맨유, 멕시코 베르날 영입 임박",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T08:21:54+00:00"
- },
- {
-  "id": "562ca48bc2db",
-  "title": "Liga: le nouveau but de Pierre-Emerick Aubameyang, en feu depuis son transfert de l'OM à La Corogne",
-  "player": "Emerick Aubameyang",
-  "title_ko": "리가: OM에서 라 코루냐로 이적한 이후 불타오르는 피에르 에메릭 오바메양의 새로운 목표",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/liga-le-nouveau-but-de-pierre-emerick-aubameyang-en-feu-depuis-son-transfert-de-l-om-a-la-corogne_AV-202608310303.html",
-  "fee": null,
-  "published": "2026-08-31T08:10:00+00:00"
- },
- {
-  "id": "6f07290ee8c1",
-  "title": "Man Utd chief addresses Marcus Rashford situation to make transfer stance clear",
-  "player": "Marcus Rashford",
-  "title_ko": "맨체스터 유나이티드 수석이 이적 입장을 명확히 하기 위해 마커스 래시포드 상황을 언급했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-utd-transfer-37609830",
-  "fee": null,
-  "published": "2026-08-31T07:52:44+00:00"
- },
- {
-  "id": "6ceffabee435",
-  "title": "Man Utd transfer state of play with five deals possible after Michael Carrick admission",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭 입단 후 5번의 딜이 가능한 맨유 이적 상태",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-deadline-day-37609671",
-  "fee": null,
-  "published": "2026-08-31T07:43:15+00:00"
- },
- {
-  "id": "f633bc8361b3",
-  "title": "OM: \"Il y a beaucoup de bruit mais c'est Marseille\", Weah refuse de céder à la négativité malgré le mercato compliqué",
-  "player": "Olympique de",
-  "title_ko": "OM: “시끄러운 게 많지만 마르세유다”, 웨아는 복잡한 이적 기간에도 불구하고 부정적인 입장을 거부했다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-y-a-beaucoup-de-bruit-mais-c-est-marseille-weah-refuse-de-ceder-a-la-negativite-malgre-le-mercato-complique_AV-202608310132.html",
-  "fee": null,
-  "published": "2026-08-31T05:33:01+00:00"
  }
 ]
