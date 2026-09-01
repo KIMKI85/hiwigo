@@ -1,5 +1,18 @@
 [
  {
+  "id": "658effe0f529",
+  "title": "Arsenal news: Late Julian Alvarez transfer twist as deadline day talks emerge",
+  "player": "Late Julian Alvarez",
+  "title_ko": "아스날 뉴스: 마감일 회담이 등장함에 따라 늦은 줄리안 알바레즈 이적 트위스트",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37611637",
+  "fee": null,
+  "published": "2026-09-01T03:00:00+00:00"
+ },
+ {
   "id": "f8375f1cae8a",
   "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-deadline-andoni-iraola-37609927",
   "fee": null,
   "published": "2026-08-31T08:24:50+00:00"
- },
- {
-  "id": "48eb57e9c4fb",
-  "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
-  "player": "Christian Pulisic",
-  "title_ko": "축구 이적 루머: 리버풀이 에스테방을 영입할 것인가? 크리스티안 풀리식, 토트넘으로 이적?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs",
-  "fee": null,
-  "published": "2026-08-31T08:22:50+00:00"
  }
 ]
