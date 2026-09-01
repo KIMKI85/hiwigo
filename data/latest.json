@@ -1,5 +1,31 @@
 [
  {
+  "id": "a1845ba01599",
+  "title": "DIRECT. Mercato: le marché ferme ses portes ce mardi, suivez en live toutes les infos",
+  "player": null,
+  "title_ko": "직접. Mercato: 이번 주 화요일에 시장이 문을 닫습니다. 모든 정보를 실시간으로 확인하세요.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-de-ce-mardi-1er-septembre-jour-de-fermeture-du-marche_LN-202609010079.html",
+  "fee": null,
+  "published": "2026-09-01T04:02:31+00:00"
+ },
+ {
+  "id": "982413eaaade",
+  "title": "Liverpool news: Ismaila Sarr transfer update as winger gives green light to move",
+  "player": "Ismaila Sarr",
+  "title_ko": "리버풀 뉴스: 이스마일라 사르 이적 업데이트, 윙어로 이적 허가 승인",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-ismaila-sarr-palace-37611184",
+  "fee": null,
+  "published": "2026-09-01T04:00:00+00:00"
+ },
+ {
   "id": "1a70fcfead45",
   "title": "Man Utd transfer news: Marcus Rashford stance clear and fresh Barcelona talks emerge",
   "player": "Marcus Rashford",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/fiorentina-agree-gnonto-deal-with-leeds/",
   "fee": null,
   "published": "2026-08-31T09:42:09+00:00"
- },
- {
-  "id": "53ce18c23552",
-  "title": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
-  "player": "Nick Woltemade",
-  "title_ko": "최신 이적: 월테메이드 임대 협상 중인 유벤투스, 발로군을 추진하는 에버튼",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
-  "fee": null,
-  "published": "2026-08-31T09:38:20+00:00"
- },
- {
-  "id": "dcefdc0d6971",
-  "title": "Liverpool transfer state of play as Cody Gakpo holds key ahead of chaotic end to window",
-  "player": "Cody Gakpo",
-  "title_ko": "코디 각포가 혼란스러운 윈도우 종료를 앞두고 열쇠를 쥐고 있는 리버풀의 플레이 상태",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-deadline-day-gakpo-37609947",
-  "fee": null,
-  "published": "2026-08-31T09:23:15+00:00"
  }
 ]
