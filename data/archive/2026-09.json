@@ -1,5 +1,18 @@
 [
  {
+  "id": "6b5849c15a35",
+  "title": "Everton sign Grealish as Zirkzee stays at Man Utd",
+  "player": "Jack Grealish",
+  "title_ko": "Zirkzee가 맨체스터 유나이티드에 머무는 동안 Everton이 Grealish에 서명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T21:54:30+00:00"
+ },
+ {
   "id": "34049ea567fd",
   "title": "Chelsea agree £47m deal to sign Monaco's Camara",
   "player": "Monaco's Camara",
@@ -37,6 +50,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-everton-37616888",
   "fee": null,
   "published": "2026-09-01T21:27:04+00:00"
+ },
+ {
+  "id": "c37a529b5a17",
+  "title": "‘A great feeling’: Mykhailo Mudryk seals loan move from Chelsea to Tottenham",
+  "player": "Mykhailo Mudryk",
+  "title_ko": "‘좋은 느낌’: Mykhailo Mudryk 씰 대출이 첼시에서 토트넘으로 이동합니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykhailo-mudryk-seals-loan-move-from-chelsea-to-tottenham",
+  "fee": null,
+  "published": "2026-09-01T21:24:04+00:00"
  },
  {
   "id": "9211f9257df4",
