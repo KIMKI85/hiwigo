@@ -1,5 +1,31 @@
 [
  {
+  "id": "f4a62e2706f6",
+  "title": "Palace latest: Talks progressing over deal for Marseille's Timber",
+  "player": "Marseille's Timber",
+  "title_ko": "Palace 최신: 마르세유 목재 거래를 위한 협상 진행 중",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-09-01T20:32:00+00:00"
+ },
+ {
+  "id": "90eaddb6c525",
+  "title": "Official: Dia joins Rennes from Lazio, but formula changes for €11m deal",
+  "player": "Boulaye Dia",
+  "title_ko": "공식: 디아는 라치오에서 렌으로 합류했지만 €11m 거래에 대한 공식이 변경되었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-dia-joins-rennes-lazio-formula-change/",
+  "fee": "€11M",
+  "published": "2026-09-01T19:41:50+00:00"
+ },
+ {
   "id": "7b3419b09418",
   "title": "Official: El Aynaoui joins RB Leipzig on loan with option to buy from Roma",
   "player": "El Aynaoui",
@@ -206,6 +232,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss",
   "fee": "£30M",
   "published": "2026-09-01T18:01:04+00:00"
+ },
+ {
+  "id": "638d6581ec18",
+  "title": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
+  "player": "Gabriel Jesus",
+  "title_ko": "Aston Villa는 Mbaye와 Harwood-Bellis를 영입하고 Newcastle은 Fernandez-Pardo를 얻습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
+  "fee": null,
+  "published": "2026-09-01T17:58:47+00:00"
  },
  {
   "id": "68cf0c6cf302",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c99dydkky1eo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T09:00:24+00:00"
- },
- {
-  "id": "d05c72b1757d",
-  "title": "El Valencia y el Racing acuerdan la cesión de André Almeida",
-  "player": "André Almeida",
-  "title_ko": "발렌시아와 라싱은 안드레 알메이다의 임대에 동의했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-racing-acuerdan-cesion-andre-almeida.html",
-  "fee": null,
-  "published": "2026-09-01T08:59:58+00:00"
- },
- {
-  "id": "84c1057186d8",
-  "title": "Arsenal's Julian Alvarez Plan B emerges in transfer deadline day rush",
-  "player": "Arsenal's Julian Alvarez",
-  "title_ko": "아스날의 줄리안 알바레즈 플랜 B가 이적 마감일에 등장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alvarez-arsenal-transfer-deadline-day-37613630",
-  "fee": null,
-  "published": "2026-09-01T08:59:50+00:00"
- },
- {
-  "id": "ff068b027eb7",
-  "title": "Leihe mit Kaufoption vor Abschluss: Werder holt auch noch Ndiaye",
-  "player": "Tag der Transferperdiode",
-  "title_ko": "완료 전 구매 옵션이 있는 대출: Werder는 Ndiaye도 데려옴",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/leihe-mit-kaufoption-vor-abschluss-werder-holt-auch-noch-ndiaye-1248682/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T08:55:49+00:00"
  }
 ]
