@@ -13,6 +13,19 @@
   "published": "2026-09-01T13:45:00+00:00"
  },
  {
+  "id": "42429ad6f2a8",
+  "title": "Arsenal set for timely transfer boost as two Premier League deals agreed",
+  "player": "Emirates Stadium",
+  "title_ko": "두 개의 프리미어 리그 거래가 합의됨에 따라 아스날은 적시에 이적을 추진할 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-mikel-arteta-balogun-37614818",
+  "fee": null,
+  "published": "2026-09-01T13:23:08+00:00"
+ },
+ {
   "id": "63f2bc7cb396",
   "title": "Barcelona complete signing of Arsenal striker Jesus",
   "player": "Gabriel Jesus",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/betis/2026/08/31/betis-cierra-cesion-gonzalo-petit-cadiz-opcion-compra.html",
   "fee": null,
   "published": "2026-08-31T19:11:36+00:00"
- },
- {
-  "id": "84b3dbc2684c",
-  "title": "Man City open talks with Chelsea to sign Fernandez",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티는 페르난데스 영입을 위해 첼시와 협상을 시작했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
-  "fee": null,
-  "published": "2026-08-31T19:10:00+00:00"
  }
 ]
