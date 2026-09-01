@@ -39,6 +39,45 @@
   "published": "2026-09-01T16:58:00+00:00"
  },
  {
+  "id": "7b924c94b150",
+  "title": "Fiorentina deal for Gnonto on standby as Leeds seek last-minute replacement",
+  "player": "Wilfried Gnonto",
+  "title_ko": "리즈가 막판 교체를 모색함에 따라 대기 중인 곤토의 피오렌티나 계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-deal-for-gnonto-on-standby/",
+  "fee": null,
+  "published": "2026-09-01T16:57:20+00:00"
+ },
+ {
+  "id": "1e2b96152eae",
+  "title": "Official: Mbangula joins Bologna from Werder Bremen for total €14m agreement",
+  "player": "Samuel Mbangula",
+  "title_ko": "공식: Mbangula는 Werder Bremen에서 볼로냐에 합류하여 총 € 14m 계약을 맺었습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-mbangula-joins-bologna-werder-bremen/",
+  "fee": "€14M",
+  "published": "2026-09-01T16:49:50+00:00"
+ },
+ {
+  "id": "c00154c378a0",
+  "title": "Enzo Fernandez set for awkward Erling Haaland reunion after Chelsea transfer to Man City",
+  "player": "Enzo Fernandez",
+  "title_ko": "엔조 페르난데스는 첼시가 맨시티로 이적한 후 어색한 엘링 홀란드 재결합을 준비하고 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/enzo-fernandez-man-city-haaland-37616293",
+  "fee": null,
+  "published": "2026-09-01T16:45:52+00:00"
+ },
+ {
   "id": "4b5e24cdbbae",
   "title": "El Málaga libera una ficha y cede a Arriaza al Estepona",
   "player": "El Málaga",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-rashford-barcelona-37611181",
   "fee": null,
   "published": "2026-09-01T03:30:00+00:00"
- },
- {
-  "id": "658effe0f529",
-  "title": "Arsenal news: Late Julian Alvarez transfer twist as deadline day talks emerge",
-  "player": "Late Julian Alvarez",
-  "title_ko": "아스날 뉴스: 마감일 회담이 등장함에 따라 늦은 줄리안 알바레즈 이적 트위스트",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37611637",
-  "fee": null,
-  "published": "2026-09-01T03:00:00+00:00"
- },
- {
-  "id": "f8375f1cae8a",
-  "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
-  "player": null,
-  "title_ko": "데드라인 데이 페이퍼: 맨체스터 유나이티드, 페르난데스 주장과 공개 계약 협상",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk",
-  "fee": null,
-  "published": "2026-08-31T23:00:00+00:00"
- },
- {
-  "id": "c794e3707130",
-  "title": "DIRECT. Mercato: les clubs anglais font marcher la planche à billets",
-  "player": null,
-  "title_ko": "직접. Mercato: 잉글랜드 클럽이 돈을 인쇄하다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-31-aout-veille-de-la-cloture-du-marche_LN-202608310104.html",
-  "fee": null,
-  "published": "2026-08-31T22:52:15+00:00"
  }
 ]
