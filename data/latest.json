@@ -1,5 +1,18 @@
 [
  {
+  "id": "3463a1b583a6",
+  "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
+  "player": "Folarin Balogun",
+  "title_ko": "Balogun은 Everton 계약에서 물러나고 Camara는 Chelsea로 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
+  "fee": null,
+  "published": "2026-09-02T00:21:00+00:00"
+ },
+ {
   "id": "d15486074680",
   "title": "Sunderland complete Fofana signing after dramatic saga",
   "player": "Malick Fofana",
@@ -50,6 +63,19 @@
   "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
   "fee": null,
   "published": "2026-09-01T23:15:00+00:00"
+ },
+ {
+  "id": "eafee6972f44",
+  "title": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
+  "player": "Enzo Fernández",
+  "title_ko": "페르난데스는 첼시에서 맨체스터 시티로 이적료 1억 2500만 파운드에 달하는 이적료를 완료했습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+  "fee": "£125M",
+  "published": "2026-09-01T23:12:28+00:00"
  },
  {
   "id": "02314fff464e",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/pio-esposito-inter-extension-new-salary-italy/",
   "fee": null,
   "published": "2026-09-01T13:06:19+00:00"
- },
- {
-  "id": "0bc71dc0037b",
-  "title": "Leeds latest: Talks begin to sign Bundesliga's fastest player",
-  "player": null,
-  "title_ko": "리즈 최신: 분데스리가에서 가장 빠른 선수와 계약하기 위한 회담 시작",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-01T13:00:00+00:00"
- },
- {
-  "id": "96e67c93b179",
-  "title": "Alvarez-Transfer endgültig geplatzt - Viel Bewegung in Leipzig - Woltemade in Turin gelandet",
-  "player": "Viel Bewegung",
-  "title_ko": "알바레즈 이적은 결국 결렬됐다 - 라이프치히에서 많은 움직임이 있었다 - 볼테마데가 토리노에 상륙했다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T12:40:03+00:00"
  }
 ]
