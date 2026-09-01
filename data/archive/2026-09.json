@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd29026198c2",
+  "title": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
+  "player": "Pedro Goncalves",
+  "title_ko": "공식: 피오렌티나는 스포팅과 리즈 유나이티드에서 페드로 곤칼베스와 곤토를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
+  "fee": null,
+  "published": "2026-09-01T18:57:44+00:00"
+ },
+ {
   "id": "237785874713",
   "title": "Official: Juventus loan David to Atletico Madrid with €25m option to buy",
   "player": "Jonathan David",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/official-juventus-loan-david-atletico-madrid/",
   "fee": "€25M",
   "published": "2026-09-01T18:43:58+00:00"
+ },
+ {
+  "id": "3a5ef6dabde9",
+  "title": "Linksfuß für die Innenverteidigung: KSC verpflichtet Brasilianer Heliton",
+  "player": "Brasilianer Heliton",
+  "title_ko": "중앙 수비를 위한 왼발잡이: KSC, 브라질 헬리톤 영입",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/linksfuss-fuer-die-innenverteidigung-ksc-verpflichtet-brasilianer-heliton-1248846/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T18:42:32+00:00"
  },
  {
   "id": "e3883795387d",
