@@ -26,6 +26,32 @@
   "published": "2026-09-01T17:12:00+00:00"
  },
  {
+  "id": "61ea974460e3",
+  "title": "Transfer-Dreierpack perfekt: HSV holt auch WM-Fahrer Wolfe",
+  "player": "Fahrer Wolfe",
+  "title_ko": "완벽한 이적 해트트릭: HSV는 월드컵 드라이버 Wolfe도 영입합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transfer-dreierpack-perfekt-hsv-holt-auch-wm-fahrer-wolfe-1248446/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T17:11:18+00:00"
+ },
+ {
+  "id": "e5bf9a029768",
+  "title": "Fiorentina receive final approval from Leeds United for Gnonto transfer",
+  "player": null,
+  "title_ko": "피오렌티나는 리즈 유나이티드로부터 곤토 이적에 대한 최종 승인을 받았습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fiorentina-receive-final-gnonto-go-ahead/",
+  "fee": null,
+  "published": "2026-09-01T17:10:21+00:00"
+ },
+ {
   "id": "82e2651b46aa",
   "title": "Man City agree £125m deal to sign Chelsea's Fernandez",
   "player": "Chelsea's Fernandez",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-de-ce-mardi-1er-septembre-jour-de-fermeture-du-marche_LN-202609010079.html",
   "fee": null,
   "published": "2026-09-01T04:02:31+00:00"
- },
- {
-  "id": "982413eaaade",
-  "title": "Liverpool news: Ismaila Sarr transfer update as winger gives green light to move",
-  "player": "Ismaila Sarr",
-  "title_ko": "리버풀 뉴스: 이스마일라 사르 이적 업데이트, 윙어로 이적 허가 승인",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-ismaila-sarr-palace-37611184",
-  "fee": null,
-  "published": "2026-09-01T04:00:00+00:00"
- },
- {
-  "id": "1a70fcfead45",
-  "title": "Man Utd transfer news: Marcus Rashford stance clear and fresh Barcelona talks emerge",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유 이적 소식: 마커스 래쉬포드의 입장이 명확하고 바르셀로나와의 새로운 대화가 등장",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-rashford-barcelona-37611181",
-  "fee": null,
-  "published": "2026-09-01T03:30:00+00:00"
  }
 ]
