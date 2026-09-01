@@ -1,5 +1,18 @@
 [
  {
+  "id": "64e41be8a09b",
+  "title": "Brighton agree £15m deal for Millwall winger Azeez",
+  "player": "Femi Azeez",
+  "title_ko": "브라이튼, 밀월 윙어 Azeez에 대한 £ 15M 계약 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+  "fee": "£15M",
+  "published": "2026-09-01T13:53:32+00:00"
+ },
+ {
   "id": "642ae4b45dee",
   "title": "Jesus joins Barcelona from Arsenal",
   "player": "Gabriel Jesus",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-in-advanced-talks-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
   "fee": null,
   "published": "2026-08-31T19:15:00+00:00"
- },
- {
-  "id": "99b8dfd69478",
-  "title": "Man City agree £65m deal for Everton's Ndiaye",
-  "player": "Everton's Ndiaye",
-  "title_ko": "맨시티는 에버턴의 은디아예를 £65m에 영입하는데 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
-  "fee": "£65M",
-  "published": "2026-08-31T19:12:15+00:00"
  }
 ]
