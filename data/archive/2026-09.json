@@ -1,5 +1,18 @@
 [
  {
+  "id": "091298c83d94",
+  "title": "Man City confirm £65m Ndiaye signing",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨시티는 6500만 파운드에 은디아예 영입을 확정했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579669/iliman-ndiaye-transfer-news-man-city-complete-65m-deal-for-everton-winger-as-cody-gakpo-alternative",
+  "fee": "£65M",
+  "published": "2026-09-01T21:00:00+00:00"
+ },
+ {
   "id": "f4a62e2706f6",
   "title": "Palace latest: Talks progressing over deal for Marseille's Timber",
   "player": "Marseille's Timber",
@@ -11,6 +24,71 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-09-01T20:32:00+00:00"
+ },
+ {
+  "id": "a3cae9a7d936",
+  "title": "Top 10 most expensive Serie A signings of 2026 summer transfer window",
+  "player": "Goncalo Ramos",
+  "title_ko": "2026년 여름 이적 시장에서 가장 비싼 세리에 A 영입 TOP 10",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/top-10-most-expensive-serie-a-signings-2026/",
+  "fee": null,
+  "published": "2026-09-01T20:15:00+00:00"
+ },
+ {
+  "id": "50d02a07c3d2",
+  "title": "Man City sign Ndiaye from Everton for £65m",
+  "player": "Iliman Ndiaye",
+  "title_ko": "맨시티는 에버턴에서 은디아예를 £65m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
+  "fee": "£65M",
+  "published": "2026-09-01T20:09:07+00:00"
+ },
+ {
+  "id": "193546c9bec2",
+  "title": "Chelsea reject Liverpool's deadline day offer for Malo Gusto with clear transfer stance",
+  "player": "Malo Gusto",
+  "title_ko": "첼시는 명확한 이적 입장으로 말로 구스토에 대한 리버풀의 마감일 제안을 거부했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-malo-gusto-liverpool-37616742",
+  "fee": null,
+  "published": "2026-09-01T20:08:42+00:00"
+ },
+ {
+  "id": "32a4f2b750aa",
+  "title": "Tomori welcomed back to Milan fold after failure to guarantee transfer",
+  "player": "Fikayo Tomori",
+  "title_ko": "토모리는 이적 보장 실패 후 밀란 폴드로 돌아온 것을 환영했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tomori-welcomed-back-milan-failure-transfer/",
+  "fee": null,
+  "published": "2026-09-01T20:05:15+00:00"
+ },
+ {
+  "id": "9a6a06f9c09a",
+  "title": "Official: Como sign Robert Sanchez from Chelsea on deadline day",
+  "player": "Robert Sanchez",
+  "title_ko": "공식: 코모는 마감일에 첼시의 로버트 산체스를 영입했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
+  "fee": null,
+  "published": "2026-09-01T19:57:30+00:00"
  },
  {
   "id": "d1e4495bbf38",
@@ -1051,6 +1129,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-lewis-hall-37614343",
   "fee": null,
   "published": "2026-09-01T11:04:00+00:00"
+ },
+ {
+  "id": "c8b2fb15dd56",
+  "title": "Fulham latest: Real Madrid midfielder deal completed with two more to join",
+  "player": null,
+  "title_ko": "풀럼 최근: 레알 마드리드 미드필더 계약 완료, 두 명 더 합류",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-09-01T11:00:00+00:00"
  },
  {
   "id": "3587833074da",
