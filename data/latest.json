@@ -1,5 +1,31 @@
 [
  {
+  "id": "b26fcdc5912a",
+  "title": "Arsenal agree terms to sign De Almeida from PSG",
+  "player": "De Almeida",
+  "title_ko": "Arsenal은 PSG의 De Almeida와 계약하는 데 동의합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T09:59:20+00:00"
+ },
+ {
+  "id": "6d94a977c4a0",
+  "title": "Hull sign German forward Ansah from Union Berlin",
+  "player": "Ilyas Ansah",
+  "title_ko": "유니언 베를린에서 선체 표지판 독일 전진 안사",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T09:57:22+00:00"
+ },
+ {
   "id": "fe4176e39100",
   "title": "Chelsea close to agreeing deal for Roma's Kone",
   "player": "Roma's Kone",
@@ -11,6 +37,32 @@
   "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
   "fee": null,
   "published": "2026-09-01T09:55:00+00:00"
+ },
+ {
+  "id": "78b0b2f8e5e9",
+  "title": "Video: English winger Rowe arrives for Atalanta medical",
+  "player": "Jonathan Rowe",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-english-winger-rowe-atalanta-medical/",
+  "fee": null,
+  "published": "2026-09-01T09:53:10+00:00"
+ },
+ {
+  "id": "7ed31c1a63e2",
+  "title": "Aachener Transfer-Doppelpack: Leonard kommt auf Leihbasis, Oehmichen fix",
+  "player": "Die Kaiserstädter",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/aachener-transfer-doppelpack-leonard-kommt-auf-leihbasis-oehmichen-fix-1248687/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T09:50:15+00:00"
  },
  {
   "id": "ad63853980a9",
@@ -206,6 +258,19 @@
   "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
   "fee": null,
   "published": "2026-09-01T08:23:59+00:00"
+ },
+ {
+  "id": "937d8ed22aff",
+  "title": "LIVE Done Deals Tracker: Every confirmed transfer on deadline day",
+  "player": null,
+  "title_ko": "LIVE 완료 거래 추적기: 마감일에 확인된 모든 이체",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/",
+  "fee": null,
+  "published": "2026-09-01T08:10:00+00:00"
  },
  {
   "id": "b47b2f3cab82",
@@ -1014,6 +1079,19 @@
   "published": "2026-08-31T16:41:54+00:00"
  },
  {
+  "id": "faf2463184a1",
+  "title": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 £123m 계약으로 바르콜라를 영입했고, 시티가 £80m 제안을 한 후에도 각포는 남을 것으로 예상합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
+  "fee": "£123M",
+  "published": "2026-08-31T16:38:50+00:00"
+ },
+ {
   "id": "6a63645a32a0",
   "title": "Harvey Elliott, a un paso del Valencia: acuerdo cerrado y revisión médica inminente",
   "player": "Harvey Elliott",
@@ -1220,83 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
   "fee": "£55M",
   "published": "2026-08-31T14:29:13+00:00"
- },
- {
-  "id": "321ab41bda29",
-  "title": "Mercato: Sarr va au clash avec Crystal Palace qui a repoussé une nouvelle offre de Liverpool",
-  "player": "Ismaïla Sarr",
-  "title_ko": "메르카토: 사르는 리버풀의 새로운 제안을 거부한 크리스탈 팰리스와 충돌한다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-sarr-va-au-clash-avec-crystal-palace-qui-a-repousse-une-nouvelle-offre-de-liverpool_AV-202608310587.html",
-  "fee": null,
-  "published": "2026-08-31T14:25:17+00:00"
- },
- {
-  "id": "aeb1e869c1b2",
-  "title": "Bradley Barcola's first words after Liverpool transfer as shirt number revealed",
-  "player": "Bradley Barcola's",
-  "title_ko": "리버풀 이적 후 브래들리 바르콜라의 첫 마디, 셔츠 등번호 공개",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bradley-barcola-transfer-psg-37611597",
-  "fee": null,
-  "published": "2026-08-31T14:13:25+00:00"
- },
- {
-  "id": "74d10829ae76",
-  "title": "Insiders speak out on Man City transfers and reveal how flops like Savinho sell for profit",
-  "player": null,
-  "title_ko": "내부자들은 Man City 이적에 대해 이야기하고 Savinho와 같은 실패작이 어떻게 이익을 위해 판매되는지 공개합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-city-transfers-sales-explained-37596003",
-  "fee": null,
-  "published": "2026-08-31T14:08:17+00:00"
- },
- {
-  "id": "18b1c395f4fc",
-  "title": "Liverpool complete Barcola signing from PSG",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀, PSG로부터 바르콜라 영입 완료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
-  "fee": null,
-  "published": "2026-08-31T14:00:00+00:00"
- },
- {
-  "id": "58e37bbdbc2b",
-  "title": "7 left-backs Man Utd can sign to replace Luke Shaw immediately",
-  "player": "Luke Shaw",
-  "title_ko": "7명의 레프트백 맨유는 루크 쇼를 대체하기 위해 즉시 계약할 수 있다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfers-luke-shaw-37611179",
-  "fee": null,
-  "published": "2026-08-31T13:57:01+00:00"
- },
- {
-  "id": "4350a58732f5",
-  "title": "Mercato: \"Cela a pris du temps mais je suis vraiment heureux\", Bradley Barcola est officiellement un joueur de Liverpool",
-  "player": "Bradley Barcola",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/transferts/mercato-cela-a-pris-du-temps-mais-je-suis-vraiment-heureux-bradley-barcola-est-officiellement-un-joueur-de-liverpool_AV-202608310559.html",
-  "fee": null,
-  "published": "2026-08-31T13:39:58+00:00"
  }
 ]

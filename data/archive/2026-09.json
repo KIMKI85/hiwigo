@@ -1,5 +1,31 @@
 [
  {
+  "id": "b26fcdc5912a",
+  "title": "Arsenal agree terms to sign De Almeida from PSG",
+  "player": "De Almeida",
+  "title_ko": "Arsenal은 PSG의 De Almeida와 계약하는 데 동의합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T09:59:20+00:00"
+ },
+ {
+  "id": "6d94a977c4a0",
+  "title": "Hull sign German forward Ansah from Union Berlin",
+  "player": "Ilyas Ansah",
+  "title_ko": "유니언 베를린에서 선체 표지판 독일 전진 안사",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T09:57:22+00:00"
+ },
+ {
   "id": "fe4176e39100",
   "title": "Chelsea close to agreeing deal for Roma's Kone",
   "player": "Roma's Kone",
@@ -11,6 +37,32 @@
   "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
   "fee": null,
   "published": "2026-09-01T09:55:00+00:00"
+ },
+ {
+  "id": "78b0b2f8e5e9",
+  "title": "Video: English winger Rowe arrives for Atalanta medical",
+  "player": "Jonathan Rowe",
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-english-winger-rowe-atalanta-medical/",
+  "fee": null,
+  "published": "2026-09-01T09:53:10+00:00"
+ },
+ {
+  "id": "7ed31c1a63e2",
+  "title": "Aachener Transfer-Doppelpack: Leonard kommt auf Leihbasis, Oehmichen fix",
+  "player": "Die Kaiserstädter",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/aachener-transfer-doppelpack-leonard-kommt-auf-leihbasis-oehmichen-fix-1248687/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T09:50:15+00:00"
  },
  {
   "id": "ad63853980a9",
@@ -206,6 +258,19 @@
   "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
   "fee": null,
   "published": "2026-09-01T08:23:59+00:00"
+ },
+ {
+  "id": "937d8ed22aff",
+  "title": "LIVE Done Deals Tracker: Every confirmed transfer on deadline day",
+  "player": null,
+  "title_ko": "LIVE 완료 거래 추적기: 마감일에 확인된 모든 이체",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/",
+  "fee": null,
+  "published": "2026-09-01T08:10:00+00:00"
  },
  {
   "id": "b47b2f3cab82",
