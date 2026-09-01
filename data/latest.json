@@ -1,5 +1,18 @@
 [
  {
+  "id": "b47b2f3cab82",
+  "title": "Juventus agree to sign Woltemade on loan from Newcastle",
+  "player": "Nick Woltemade",
+  "title_ko": "유벤투스는 뉴캐슬로부터 임대된 월테메이드와 계약하기로 합의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T08:03:16+00:00"
+ },
+ {
   "id": "681484bb13a9",
   "title": "Arsenal allow Ethan Nwaneri loan exit but REJECT clause Borussia Dortmund requested",
   "player": "Ethan Nwaneri",
@@ -570,6 +583,19 @@
   "url": "https://football-italia.net/juventus-celebrate-sarr-arrival-and-woltemade/",
   "fee": null,
   "published": "2026-08-31T19:17:17+00:00"
+ },
+ {
+  "id": "8ab58782e6ba",
+  "title": "Wie läuft ein Transfer eigentlich genau ab?",
+  "player": "Spieler den Verein",
+  "title_ko": "전송은 실제로 어떻게 이루어지나요?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wie-laeuft-ein-transfer-eigentlich-genau-ab-1248575/video#omrss",
+  "fee": null,
+  "published": "2026-08-31T19:15:58+00:00"
  },
  {
   "id": "93d4fc6d5f1f",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-monza-sign-ziolkowski-from-roma/",
   "fee": "€18M",
   "published": "2026-08-31T11:16:04+00:00"
- },
- {
-  "id": "251ca1636403",
-  "title": "Zurück in der Geburtsstadt: Meyer wechselt zu RWO",
-  "player": "Max Meyer",
-  "title_ko": "고향으로 돌아온 메이어는 RWO로 전환합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/zurueck-in-der-geburtsstadt-meyer-wechselt-zu-rwo-1248296/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T11:01:05+00:00"
- },
- {
-  "id": "2d0ffd6563a4",
-  "title": "Zurück in der Geburtsstadt: Meyer wechselt ablösefrei zu RWO",
-  "player": "Max Meyer",
-  "title_ko": "고향으로 돌아온 메이어는 자유계약으로 RWO로 이적했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/zurueck-in-der-geburtsstadt-meyer-wechselt-abloesefrei-zu-rwo-1248296/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T11:01:05+00:00"
  }
 ]
