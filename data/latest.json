@@ -1,5 +1,18 @@
 [
  {
+  "id": "d15486074680",
+  "title": "Sunderland complete Fofana signing after dramatic saga",
+  "player": "Malick Fofana",
+  "title_ko": "선덜랜드, 극적인 사가 이후 포파나 영입 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
+  "fee": null,
+  "published": "2026-09-02T00:15:00+00:00"
+ },
+ {
   "id": "8cd76c65cb59",
   "title": "Man City sign Fernandez in British-record-equalling deal",
   "player": "Enzo Fernandez",
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
   "fee": null,
   "published": "2026-09-01T23:30:00+00:00"
+ },
+ {
+  "id": "937074352c6a",
+  "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티가 페르난데스 계약을 위해 마레스카를 되찾은 마감일, 신랄함, 그리고 기록",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T23:16:59+00:00"
  },
  {
   "id": "8988431a5c99",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T12:40:03+00:00"
- },
- {
-  "id": "2215d6a99b30",
-  "title": "UEFA rules block Arsenal from Champions League clause as deadline day deal nears",
-  "player": null,
-  "title_ko": "UEFA 규정은 거래 마감일이 다가옴에 따라 아스날의 챔피언스 리그 조항을 차단합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-nwaneri-champions-league-37614867",
-  "fee": null,
-  "published": "2026-09-01T12:29:01+00:00"
- },
- {
-  "id": "6a7ca019cbb8",
-  "title": "Atletico Madrid open Tagliafico talks to hijack Juventus move",
-  "player": "Nicolás Tagliafico",
-  "title_ko": "아틀레티코 마드리드, 탈리아피코와 유벤투스 이적 가로채기 협상 시작",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/atletico-madrid-tagliafico-hijack-juventus/",
-  "fee": null,
-  "published": "2026-09-01T12:17:47+00:00"
  }
 ]
