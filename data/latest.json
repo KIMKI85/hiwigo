@@ -1,5 +1,31 @@
 [
  {
+  "id": "6a7ca019cbb8",
+  "title": "Atletico Madrid open Tagliafico talks to hijack Juventus move",
+  "player": "Nicolás Tagliafico",
+  "title_ko": "아틀레티코 마드리드, 탈리아피코와 유벤투스 이적 가로채기 협상 시작",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/atletico-madrid-tagliafico-hijack-juventus/",
+  "fee": null,
+  "published": "2026-09-01T12:17:47+00:00"
+ },
+ {
+  "id": "ff5dc3305655",
+  "title": "Man Utd hours away from failing to meet three transfer objectives in summer window",
+  "player": null,
+  "title_ko": "맨유는 여름 이적시장에서 세 가지 이적 목표를 달성하지 못할 날이 몇 시간 남았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-targets-exits-latest-37614727",
+  "fee": null,
+  "published": "2026-09-01T12:10:32+00:00"
+ },
+ {
   "id": "b6bd2add401c",
   "title": "Ahanor to join Chelsea next season after Palace loan",
   "player": "Honest Ahanor",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-31T18:12:08+00:00"
- },
- {
-  "id": "ed56993410a3",
-  "title": "Elliott expected to join Valencia on loan",
-  "player": "Harvey Elliott",
-  "title_ko": "엘리엇은 임대로 발렌시아에 합류할 것으로 예상됩니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T17:58:36+00:00"
- },
- {
-  "id": "5feb6c66f22a",
-  "title": "Bruno Fernandes in talks over new Man Utd contract to make him club's best-paid star",
-  "player": "Bruno Fernandes",
-  "title_ko": "브루노 페르난데스, 클럽 최고 연봉 스타로 만들기 위해 맨유와 새로운 계약 논의 중",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-talks-over-new-37612358",
-  "fee": null,
-  "published": "2026-08-31T17:55:33+00:00"
  }
 ]
