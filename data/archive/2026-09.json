@@ -1,5 +1,31 @@
 [
  {
+  "id": "aef236b933a5",
+  "title": "Aston Villa complete £47m Mbaye signing",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "Aston Villa, £ 47M Mbaye 서명 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£47M",
+  "published": "2026-09-01T10:42:45+00:00"
+ },
+ {
+  "id": "648a02c715dc",
+  "title": "Mercato: destination surprise pour Malick Fofana, qui va quitter l'OL pour Sunderland",
+  "player": "Malick Fofana",
+  "title_ko": "Mercato: destination surprise pour Malick Fofana, qui va quitter l 'ol pour Sunderland",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-destination-surprise-pour-malick-fofana-qui-va-quitter-l-ol-pour-sunderland_AV-202609010482.html",
+  "fee": null,
+  "published": "2026-09-01T10:37:49+00:00"
+ },
+ {
   "id": "42ec3dd4c013",
   "title": "Lyon winger Fofana set for £30m Sunderland move",
   "player": "Malick Fofana",
@@ -11,6 +37,32 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
   "fee": "£30M",
   "published": "2026-09-01T10:27:43+00:00"
+ },
+ {
+  "id": "9f596a8a47d9",
+  "title": "Chelsea’s late Alex Scott transfer calls with Premier League giants on red alert",
+  "player": "Alex Scott",
+  "title_ko": "첼시의 고 알렉스 스콧 이적은 프리미어리그 거물들에게 적색경보를 요청했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelseas-late-alex-scott-transfer-37614229",
+  "fee": null,
+  "published": "2026-09-01T10:25:33+00:00"
+ },
+ {
+  "id": "516f10994bba",
+  "title": "Fofana, Fernandez, Ndiaye… retrouvez les 5 infos mercato du 1er septembre à midi",
+  "player": "Enzo Fernandez",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-fofana-fernandez-ndiaye-retrouvez-les-5-infos-mercato-du-1er-septembre-a-midi_VN-202609010477.html",
+  "fee": null,
+  "published": "2026-09-01T10:25:01+00:00"
  },
  {
   "id": "d145f6b5d59e",

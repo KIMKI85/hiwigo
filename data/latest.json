@@ -1,5 +1,31 @@
 [
  {
+  "id": "aef236b933a5",
+  "title": "Aston Villa complete £47m Mbaye signing",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "Aston Villa, £ 47M Mbaye 서명 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
+  "fee": "£47M",
+  "published": "2026-09-01T10:42:45+00:00"
+ },
+ {
+  "id": "648a02c715dc",
+  "title": "Mercato: destination surprise pour Malick Fofana, qui va quitter l'OL pour Sunderland",
+  "player": "Malick Fofana",
+  "title_ko": "Mercato: destination surprise pour Malick Fofana, qui va quitter l 'ol pour Sunderland",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-destination-surprise-pour-malick-fofana-qui-va-quitter-l-ol-pour-sunderland_AV-202609010482.html",
+  "fee": null,
+  "published": "2026-09-01T10:37:49+00:00"
+ },
+ {
   "id": "42ec3dd4c013",
   "title": "Lyon winger Fofana set for £30m Sunderland move",
   "player": "Malick Fofana",
@@ -11,6 +37,32 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
   "fee": "£30M",
   "published": "2026-09-01T10:27:43+00:00"
+ },
+ {
+  "id": "9f596a8a47d9",
+  "title": "Chelsea’s late Alex Scott transfer calls with Premier League giants on red alert",
+  "player": "Alex Scott",
+  "title_ko": "첼시의 고 알렉스 스콧 이적은 프리미어리그 거물들에게 적색경보를 요청했다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelseas-late-alex-scott-transfer-37614229",
+  "fee": null,
+  "published": "2026-09-01T10:25:33+00:00"
+ },
+ {
+  "id": "516f10994bba",
+  "title": "Fofana, Fernandez, Ndiaye… retrouvez les 5 infos mercato du 1er septembre à midi",
+  "player": "Enzo Fernandez",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-fofana-fernandez-ndiaye-retrouvez-les-5-infos-mercato-du-1er-septembre-a-midi_VN-202609010477.html",
+  "fee": null,
+  "published": "2026-09-01T10:25:01+00:00"
  },
  {
   "id": "d145f6b5d59e",
@@ -1246,57 +1298,5 @@
   "url": "https://www.kicker.de/ksc-talent-ben-farhat-wechselt-schon-wieder-den-berater-1248513/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T15:06:13+00:00"
- },
- {
-  "id": "bddbfdc04b7b",
-  "title": "Rowe agreement for Atalanta at total €40m, Mbangula coming to Bologna",
-  "player": "Jonathan Rowe",
-  "title_ko": "로웨는 아탈란타와 총 €40m의 계약을 맺었고 음방굴라는 볼로냐로 이적합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/rowe-agreement-atalanta-e40m-mbangula-bologna/",
-  "fee": "€40M",
-  "published": "2026-08-31T15:04:39+00:00"
- },
- {
-  "id": "083d9cbfa999",
-  "title": "Newcastle closing in on deal to sign Lille's Fernandez-Pardo",
-  "player": "Lille's Fernandez-",
-  "title_ko": "뉴캐슬, 릴의 페르난데스-파르도 영입 협상 마무리",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579415/matias-fernandez-pardo-transfer-news-newcastle-closing-in-on-deal-to-sign-lille-forward-ahead-of-transfer-deadline",
-  "fee": null,
-  "published": "2026-08-31T14:50:00+00:00"
- },
- {
-  "id": "6412de0aeff5",
-  "title": "Everton forced to move EFL Cup tie at short notice",
-  "player": null,
-  "title_ko": "Everton은 짧은 시간에 EFL 컵 타이를 옮겨야했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zq97w28eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T14:46:10+00:00"
- },
- {
-  "id": "c64eed139442",
-  "title": "Puertas Doppel-Wechsel: Bayer 04 winken 8,5 Millionen Euro",
-  "player": "Puertas Doppel-",
-  "title_ko": "푸에르타의 이중 변화: 바이엘 04는 850만 유로를 받게 됩니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/puertas-doppel-wechsel-bayer-04-winken-8-5-millionen-euro-1248504/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T14:45:37+00:00"
  }
 ]
