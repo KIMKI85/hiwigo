@@ -13,6 +13,45 @@
   "published": "2026-09-01T11:28:00+00:00"
  },
  {
+  "id": "ed531364d5e3",
+  "title": "Official – Chelsea sign Ahanor from Atalanta: ‘Joining in 2027’",
+  "player": "Honest Ahanor",
+  "title_ko": "공식 - 첼시가 아탈란타에서 아하노르를 영입했습니다: '2027년에 합류'",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
+  "fee": null,
+  "published": "2026-09-01T11:22:00+00:00"
+ },
+ {
+  "id": "7a835bfab604",
+  "title": "\"Wird sich schnell bei uns einleben\": Imeri wechselt zu Union",
+  "player": "Die Eisernen",
+  "title_ko": "“우리와 함께 빨리 적응할 것입니다”: Imeri는 Union으로 이사합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wird-sich-schnell-bei-uns-einleben-imeri-wechselt-zu-union-1248148/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:18:00+00:00"
+ },
+ {
+  "id": "08674f81c887",
+  "title": "Warten auf Transfers: Jovanovic, Catovic und Vagnoman im VfB-Training",
+  "player": "Die Uhr",
+  "title_ko": "이적 대기 중: VfB 훈련 중인 Jovanovic, Catovic 및 Vagnoman",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/warten-auf-transfers-jovanovic-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:15:11+00:00"
+ },
+ {
   "id": "fcc5fb780793",
   "title": "Lazio reach Gudmundsson agreement with Fiorentina",
   "player": "Albert Gudmundsson",
@@ -440,6 +479,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T08:03:16+00:00"
+ },
+ {
+  "id": "a009c8e6d326",
+  "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
+  "player": null,
+  "title_ko": "첼시 최신: 블루스의 눈 페르난데스 교체로 카마라 입찰이 거부됨",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T08:00:00+00:00"
  },
  {
   "id": "681484bb13a9",
@@ -1246,57 +1298,5 @@
   "url": "https://www.kicker.de/kehrtwende-beim-doan-deal-der-frankfurter-sagt-al-ittihad-ab-1248526/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T16:41:54+00:00"
- },
- {
-  "id": "faf2463184a1",
-  "title": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 £123m 계약으로 바르콜라를 영입했고, 시티가 £80m 제안을 한 후에도 각포는 남을 것으로 예상합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
-  "fee": "£123M",
-  "published": "2026-08-31T16:38:50+00:00"
- },
- {
-  "id": "6a63645a32a0",
-  "title": "Harvey Elliott, a un paso del Valencia: acuerdo cerrado y revisión médica inminente",
-  "player": "Harvey Elliott",
-  "title_ko": "하비 엘리엇, 발렌시아에서 한 발짝 : 거래 종료 및 의료 검토 임박",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/08/31/harvey-elliott-paso-valencia-acuerdo-cerrado-revision-medica-inminente.html",
-  "fee": null,
-  "published": "2026-08-31T16:27:53+00:00"
- },
- {
-  "id": "121aacbf0e81",
-  "title": "Mercato: Arsenal explore la piste du Lyonnais Malick Fofana",
-  "player": "Lyonnais Malick Fofana",
-  "title_ko": "메르카토: 아스날은 리옹 말릭 포파나의 길을 탐색합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arsenal-explore-la-piste-du-lyonnais-malick-fofana_AV-202608310675.html",
-  "fee": null,
-  "published": "2026-08-31T16:12:36+00:00"
- },
- {
-  "id": "334bed7c09d2",
-  "title": "Mercato: Manchester City a fait une première offre à Chelsea pour Enzo Fernandez",
-  "player": "Enzo Fernandez",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-city-a-fait-une-premiere-offre-a-chelsea-pour-enzo-fernandez_AV-202608310658.html",
-  "fee": null,
-  "published": "2026-08-31T15:58:26+00:00"
  }
 ]

@@ -13,6 +13,45 @@
   "published": "2026-09-01T11:28:00+00:00"
  },
  {
+  "id": "ed531364d5e3",
+  "title": "Official – Chelsea sign Ahanor from Atalanta: ‘Joining in 2027’",
+  "player": "Honest Ahanor",
+  "title_ko": "공식 - 첼시가 아탈란타에서 아하노르를 영입했습니다: '2027년에 합류'",
+  "league": "EPL",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
+  "fee": null,
+  "published": "2026-09-01T11:22:00+00:00"
+ },
+ {
+  "id": "7a835bfab604",
+  "title": "\"Wird sich schnell bei uns einleben\": Imeri wechselt zu Union",
+  "player": "Die Eisernen",
+  "title_ko": "“우리와 함께 빨리 적응할 것입니다”: Imeri는 Union으로 이사합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wird-sich-schnell-bei-uns-einleben-imeri-wechselt-zu-union-1248148/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:18:00+00:00"
+ },
+ {
+  "id": "08674f81c887",
+  "title": "Warten auf Transfers: Jovanovic, Catovic und Vagnoman im VfB-Training",
+  "player": "Die Uhr",
+  "title_ko": "이적 대기 중: VfB 훈련 중인 Jovanovic, Catovic 및 Vagnoman",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/warten-auf-transfers-jovanovic-catovic-und-vagnoman-im-vfb-training-1248720/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T11:15:11+00:00"
+ },
+ {
   "id": "fcc5fb780793",
   "title": "Lazio reach Gudmundsson agreement with Fiorentina",
   "player": "Albert Gudmundsson",
@@ -440,6 +479,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T08:03:16+00:00"
+ },
+ {
+  "id": "a009c8e6d326",
+  "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
+  "player": null,
+  "title_ko": "첼시 최신: 블루스의 눈 페르난데스 교체로 카마라 입찰이 거부됨",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T08:00:00+00:00"
  },
  {
   "id": "681484bb13a9",
