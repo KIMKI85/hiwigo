@@ -1,5 +1,18 @@
 [
  {
+  "id": "9080a8369eec",
+  "title": "Diese internationalen Top-Transfers könnte der Deadline Day bringen",
+  "player": null,
+  "title_ko": "마감일에는 이러한 최고의 국제 이체를 가져올 수 있습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/diese-internationalen-top-transfers-koennte-der-deadline-day-bringen-1248659/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T08:37:49+00:00"
+ },
+ {
   "id": "ad46d4c1763b",
   "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
   "player": "Supermarket Sweep-style",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-inter-send-massolin-to-cagliari/",
   "fee": "€7M",
   "published": "2026-08-31T11:38:37+00:00"
- },
- {
-  "id": "f14575957b9e",
-  "title": "Swansea agree loan of Manchester City's Monga",
-  "player": "City's Monga",
-  "title_ko": "스완지는 맨체스터 시티의 몬가 임대에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T11:21:05+00:00"
  }
 ]
