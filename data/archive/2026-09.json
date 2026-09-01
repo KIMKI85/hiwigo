@@ -1,5 +1,31 @@
 [
  {
+  "id": "42ec3dd4c013",
+  "title": "Lyon winger Fofana set for £30m Sunderland move",
+  "player": "Malick Fofana",
+  "title_ko": "£ 30M 선덜랜드 무브를 위한 리옹 윙어 포파나 세트",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-09-01T10:27:43+00:00"
+ },
+ {
+  "id": "d145f6b5d59e",
+  "title": "Nächster Defensiv-Abgang: Belocian vor Leihe zu Racing Santander",
+  "player": "Nächster Defensiv-",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/naechster-defensiv-abgang-belocian-vor-leihe-zu-racing-santander-1248717/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T10:21:46+00:00"
+ },
+ {
   "id": "ac8c79773c9c",
   "title": "Roma push for Gittens and Leweling after blocking Koné’s Chelsea move",
   "player": "Sky Sport Italia",

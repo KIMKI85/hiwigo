@@ -1,5 +1,31 @@
 [
  {
+  "id": "42ec3dd4c013",
+  "title": "Lyon winger Fofana set for £30m Sunderland move",
+  "player": "Malick Fofana",
+  "title_ko": "£ 30M 선덜랜드 무브를 위한 리옹 윙어 포파나 세트",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+  "fee": "£30M",
+  "published": "2026-09-01T10:27:43+00:00"
+ },
+ {
+  "id": "d145f6b5d59e",
+  "title": "Nächster Defensiv-Abgang: Belocian vor Leihe zu Racing Santander",
+  "player": "Nächster Defensiv-",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/naechster-defensiv-abgang-belocian-vor-leihe-zu-racing-santander-1248717/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T10:21:46+00:00"
+ },
+ {
   "id": "ac8c79773c9c",
   "title": "Roma push for Gittens and Leweling after blocking Koné’s Chelsea move",
   "player": "Sky Sport Italia",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/puertas-doppel-wechsel-bayer-04-winken-8-5-millionen-euro-1248504/artikel#omrss",
   "fee": null,
   "published": "2026-08-31T14:45:37+00:00"
- },
- {
-  "id": "5cfc3679e37e",
-  "title": "Sugawara set for Cagliari on loan with €5.5m option to buy from Southampton",
-  "player": "Yukinari Sugawara",
-  "title_ko": "Sugawara는 Southampton에서 구입할 수 있는 € 5.5M 옵션으로 Cagliari에 대출을 설정했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/sugawara-set-cagliari-e5-5m-option-southampton/",
-  "fee": "€5.5M",
-  "published": "2026-08-31T14:43:46+00:00"
- },
- {
-  "id": "a009c8e6d326",
-  "title": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
-  "player": null,
-  "title_ko": "첼시 최신: 스퍼스는 토신과 무드릭의 이중 이동에 가까워졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-31T14:34:00+00:00"
  }
 ]
