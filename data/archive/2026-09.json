@@ -13,6 +13,32 @@
   "published": "2026-09-01T20:32:00+00:00"
  },
  {
+  "id": "d1e4495bbf38",
+  "title": "Sunderland sign Spurs defender Danso on loan",
+  "player": "Kevin Danso",
+  "title_ko": "선덜랜드, 스퍼스 수비수 단소 임대 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T19:50:58+00:00"
+ },
+ {
+  "id": "c1bcabb19854",
+  "title": "Chelsea goalkeeper Sanchez joins Como on loan",
+  "player": "Robert Sanchez",
+  "title_ko": "첼시 골키퍼 산체스, 코모와 임대 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yww04ro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T19:50:05+00:00"
+ },
+ {
   "id": "90eaddb6c525",
   "title": "Official: Dia joins Rennes from Lazio, but formula changes for €11m deal",
   "player": "Boulaye Dia",
@@ -24,6 +50,32 @@
   "url": "https://football-italia.net/official-dia-joins-rennes-lazio-formula-change/",
   "fee": "€11M",
   "published": "2026-09-01T19:41:50+00:00"
+ },
+ {
+  "id": "14fe695d3bb1",
+  "title": "Die große Deadline-Day-Show: Woltemades wegweisender Wechsel und HSV-Hype",
+  "player": "der Bundesligisten",
+  "title_ko": "데드라인 데이 쇼: Woltemade의 획기적인 변화와 HSV 과대광고",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/die-grosse-deadline-day-show-woltemades-wegweisender-wechsel-und-hsv-hype-1248870/video#omrss",
+  "fee": null,
+  "published": "2026-09-01T19:40:02+00:00"
+ },
+ {
+  "id": "f61a37303940",
+  "title": "Leihe mit Kaufpflicht: Danso wechselt innerhalb der Premier League",
+  "player": "Kevin Danso",
+  "title_ko": "구매 의무가 있는 대출: 단소는 프리미어 리그 내에서 이동합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-mit-kaufpflicht-danso-wechselt-innerhalb-der-premier-league-1248766/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T19:30:01+00:00"
  },
  {
   "id": "7b3419b09418",

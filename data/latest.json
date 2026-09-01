@@ -13,6 +13,32 @@
   "published": "2026-09-01T20:32:00+00:00"
  },
  {
+  "id": "d1e4495bbf38",
+  "title": "Sunderland sign Spurs defender Danso on loan",
+  "player": "Kevin Danso",
+  "title_ko": "선덜랜드, 스퍼스 수비수 단소 임대 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T19:50:58+00:00"
+ },
+ {
+  "id": "c1bcabb19854",
+  "title": "Chelsea goalkeeper Sanchez joins Como on loan",
+  "player": "Robert Sanchez",
+  "title_ko": "첼시 골키퍼 산체스, 코모와 임대 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yww04ro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T19:50:05+00:00"
+ },
+ {
   "id": "90eaddb6c525",
   "title": "Official: Dia joins Rennes from Lazio, but formula changes for €11m deal",
   "player": "Boulaye Dia",
@@ -24,6 +50,32 @@
   "url": "https://football-italia.net/official-dia-joins-rennes-lazio-formula-change/",
   "fee": "€11M",
   "published": "2026-09-01T19:41:50+00:00"
+ },
+ {
+  "id": "14fe695d3bb1",
+  "title": "Die große Deadline-Day-Show: Woltemades wegweisender Wechsel und HSV-Hype",
+  "player": "der Bundesligisten",
+  "title_ko": "데드라인 데이 쇼: Woltemade의 획기적인 변화와 HSV 과대광고",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/die-grosse-deadline-day-show-woltemades-wegweisender-wechsel-und-hsv-hype-1248870/video#omrss",
+  "fee": null,
+  "published": "2026-09-01T19:40:02+00:00"
+ },
+ {
+  "id": "f61a37303940",
+  "title": "Leihe mit Kaufpflicht: Danso wechselt innerhalb der Premier League",
+  "player": "Kevin Danso",
+  "title_ko": "구매 의무가 있는 대출: 단소는 프리미어 리그 내에서 이동합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/leihe-mit-kaufpflicht-danso-wechselt-innerhalb-der-premier-league-1248766/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T19:30:01+00:00"
  },
  {
   "id": "7b3419b09418",
@@ -1246,57 +1298,5 @@
   "url": "https://www.kicker.de/ueberblick-die-transfers-am-deadline-day-935443/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T09:30:17+00:00"
- },
- {
-  "id": "7a60df339868",
-  "title": "Koné: Roma put Chelsea talks on hold as Gasperini opposes transfer",
-  "player": "Manu Koné",
-  "title_ko": "코네: 가스페리니가 이적을 반대함에 따라 로마는 첼시 협상을 보류했다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/kone-roma-put-chelsea-talks-on-hold-as-gasperini-opposes-transfer/",
-  "fee": null,
-  "published": "2026-09-01T09:27:49+00:00"
- },
- {
-  "id": "5bb41ddcfaf2",
-  "title": "Torino confirm Belghali move and reach agreement with Everton for Patterson",
-  "player": "Rafik Belghali",
-  "title_ko": "토리노는 벨갈리의 이적을 확정하고 에버턴과 패터슨의 이적에 합의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/patterson-torino-transfer-everton-belghali/",
-  "fee": null,
-  "published": "2026-09-01T09:11:12+00:00"
- },
- {
-  "id": "e65edb3d2ad4",
-  "title": "Après avoir tenté un dernier coup offensif, le mercato du PSG est terminé dans le sens des arrivées",
-  "player": null,
-  "title_ko": "마지막 공격 움직임을 시도한 후 PSG 이적 기간은 도착 방향으로 끝났습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/apres-avoir-tente-un-dernier-coup-offensif-le-mercato-du-psg-est-termine-dans-le-sens-des-arrivees_AV-202609010395.html",
-  "fee": null,
-  "published": "2026-09-01T09:01:09+00:00"
- },
- {
-  "id": "eb2b3a291ab4",
-  "title": "Wrexham sign Burnley defender Worrall",
-  "player": "Joe Worrall",
-  "title_ko": "렉섬은 번리의 수비수 워럴을 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c99dydkky1eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T09:00:24+00:00"
  }
 ]
