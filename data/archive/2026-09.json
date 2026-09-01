@@ -13,6 +13,32 @@
   "published": "2026-09-01T21:30:00+00:00"
  },
  {
+  "id": "9211f9257df4",
+  "title": "Tottenham sign Chelsea's Mudryk on loan",
+  "player": "Chelsea's Mudryk",
+  "title_ko": "토트넘은 첼시의 머드릭을 임대로 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T21:14:28+00:00"
+ },
+ {
+  "id": "3de7bb4f4851",
+  "title": "Man Utd suffer late transfer deadline day blow as Man City reject approach for star",
+  "player": "Rayan Ait-",
+  "title_ko": "맨시티가 스타에 대한 접근을 거부하면서 맨유는 늦은 이적 마감일 타격을 입었다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-man-city-deadline-37616855",
+  "fee": null,
+  "published": "2026-09-01T21:07:29+00:00"
+ },
+ {
   "id": "091298c83d94",
   "title": "Man City confirm £65m Ndiaye signing",
   "player": "Iliman Ndiaye",
@@ -24,6 +50,19 @@
   "url": "https://www.skysports.com/football/news/12040/13579669/iliman-ndiaye-transfer-news-man-city-complete-65m-deal-for-everton-winger-as-cody-gakpo-alternative",
   "fee": "£65M",
   "published": "2026-09-01T21:00:00+00:00"
+ },
+ {
+  "id": "d7cf88fa0853",
+  "title": "Von Wirtz bis Kane: Die fünf teuersten Transfers der Bundesliga",
+  "player": "Von Wirtz",
+  "title_ko": "비르츠에서 케인까지: 분데스리가에서 가장 비싼 이적 5개",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/von-wirtz-bis-kane-die-fuenf-teuersten-transfers-der-bundesliga-1248884/video#omrss",
+  "fee": null,
+  "published": "2026-09-01T20:49:33+00:00"
  },
  {
   "id": "f4a62e2706f6",
