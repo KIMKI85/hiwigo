@@ -13,6 +13,32 @@
   "published": "2026-09-01T18:41:00+00:00"
  },
  {
+  "id": "171178051974",
+  "title": "Milan fury at Fofana failure of Lyon €12m deal, hope for Besiktas",
+  "player": "Olympique Lyonnais",
+  "title_ko": "리옹의 포파나 실패에 대한 밀라노의 분노 € 1,200만 거래, 베식타스의 희망",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-fury-fofana-failure-lyon-e12m-besiktas/",
+  "fee": "€12M",
+  "published": "2026-09-01T18:22:32+00:00"
+ },
+ {
+  "id": "8a7085b41e6d",
+  "title": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
+  "player": "Albert Gudmundsson",
+  "title_ko": "공식: Lazio, Fiorentina의 Gudmundsson과 € 1,300만 패키지 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
+  "fee": "€13M",
+  "published": "2026-09-01T18:16:10+00:00"
+ },
+ {
   "id": "8218e14b7ca4",
   "title": "Mercato: le chambrage de Lens envers l'OM dans la vidéo d'annonce pour Todibo",
   "player": "Clair Todibo",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T07:35:59+00:00"
- },
- {
-  "id": "0f7e7da3bc11",
-  "title": "Sezer stürmt für Kassel: Die aktuellen Transfers in der Regionalliga",
-  "player": "Die Personalplanungen",
-  "title_ko": "카셀의 세제르 폭풍: 지역 리그의 현재 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/sezer-stuermt-fuer-kassel-die-aktuellen-transfers-in-der-regionalliga-1213018/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T07:35:44+00:00"
- },
- {
-  "id": "626757dddf6b",
-  "title": "Dortmund agree loan move for Arsenal's Nwaneri",
-  "player": "Arsenal's Nwaneri",
-  "title_ko": "도르트문트는 아스날의 은와네리 임대 이적에 동의했습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T07:34:09+00:00"
  }
 ]
