@@ -1,5 +1,57 @@
 [
  {
+  "id": "642ae4b45dee",
+  "title": "Jesus joins Barcelona from Arsenal",
+  "player": "Gabriel Jesus",
+  "title_ko": "예수는 아스날에서 바르셀로나로 이적했다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day",
+  "fee": null,
+  "published": "2026-09-01T13:45:00+00:00"
+ },
+ {
+  "id": "63f2bc7cb396",
+  "title": "Barcelona complete signing of Arsenal striker Jesus",
+  "player": "Gabriel Jesus",
+  "title_ko": "바르셀로나는 아스날의 스트라이커 예수의 영입을 완료했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T13:08:49+00:00"
+ },
+ {
+  "id": "3d1b53acbca0",
+  "title": "Pio Esposito to sign Inter extension as new salary revealed",
+  "player": "Pio Esposito",
+  "title_ko": "피오 에스포지토, 새 연봉 공개로 인테르 연장 계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pio-esposito-inter-extension-new-salary-italy/",
+  "fee": null,
+  "published": "2026-09-01T13:06:19+00:00"
+ },
+ {
+  "id": "96e67c93b179",
+  "title": "Alvarez-Transfer endgültig geplatzt - Viel Bewegung in Leipzig - Woltemade in Turin gelandet",
+  "player": "Viel Bewegung",
+  "title_ko": "알바레즈 이적은 결국 결렬됐다 - 라이프치히에서 많은 움직임이 있었다 - 볼테마데가 토리노에 상륙했다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T12:40:03+00:00"
+ },
+ {
   "id": "2215d6a99b30",
   "title": "UEFA rules block Arsenal from Champions League clause as deadline day deal nears",
   "player": null,
@@ -1246,57 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13577767/enzo-fernandez-transfer-news-man-city-open-talks-with-chelsea-to-sign-argentina-midfielder",
   "fee": null,
   "published": "2026-08-31T19:10:00+00:00"
- },
- {
-  "id": "d536aa44b544",
-  "title": "Sunderland latest: Agreement in principle reached with Spurs to sign Danso",
-  "player": null,
-  "title_ko": "선덜랜드 최신: 원칙적으로 스퍼스와 단소 서명 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-31T19:04:00+00:00"
- },
- {
-  "id": "b7e155e16f48",
-  "title": "Official: Milan loan Gimenez to FC Porto with €18m option to buy",
-  "player": "Santiago Gimenez",
-  "title_ko": "공식: 밀란은 히메네스를 FC 포르투에 €18m 구매 옵션으로 임대했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-milan-loan-gimenez-porto-e18m-option/",
-  "fee": "€18M",
-  "published": "2026-08-31T18:55:55+00:00"
- },
- {
-  "id": "b94b0ef2b9cd",
-  "title": "Wende bei Mbangula: Per Leihe mit Kaufoption nach Bologna",
-  "player": "Per Leihe",
-  "title_ko": "음방굴라에서의 턴어라운드: 볼로냐로의 구매 옵션이 있는 임대 중",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/wende-bei-mbangula-per-leihe-mit-kaufoption-nach-bologna-1248516/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T18:40:30+00:00"
- },
- {
-  "id": "b192e520b0bc",
-  "title": "Aznou, sexto fichaje del Málaga para cerrar el lateral zurdo",
-  "player": null,
-  "title_ko": "아즈누, 말라가의 6번째 영입으로 왼손 측면 마무리",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/08/31/aznou-sexto-fichaje-malaga-cerrar-lateral-zurdo.html",
-  "fee": null,
-  "published": "2026-08-31T18:33:18+00:00"
  }
 ]
