@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad46d4c1763b",
+  "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+  "player": "Supermarket Sweep-style",
+  "title_ko": "축구 이적 루머: 맨체스터 유나이티드와 리버풀이 크루피를 주목하고 있나요? 바디에서 렉섬으로?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
+  "fee": null,
+  "published": "2026-09-01T08:23:59+00:00"
+ },
+ {
   "id": "b47b2f3cab82",
   "title": "Juventus agree to sign Woltemade on loan from Newcastle",
   "player": "Nick Woltemade",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-31T11:21:05+00:00"
- },
- {
-  "id": "da1ecce42abf",
-  "title": "Official: Monza sign Ziolkowski from Roma with €18m buy option",
-  "player": "Newly-promoted Monza",
-  "title_ko": "공식: Monza는 €18m 구매 옵션으로 Roma의 Ziolkowski를 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-monza-sign-ziolkowski-from-roma/",
-  "fee": "€18M",
-  "published": "2026-08-31T11:16:04+00:00"
  }
 ]
