@@ -13,6 +13,32 @@
   "published": "2026-09-01T11:28:00+00:00"
  },
  {
+  "id": "fcc5fb780793",
+  "title": "Lazio reach Gudmundsson agreement with Fiorentina",
+  "player": "Albert Gudmundsson",
+  "title_ko": "라치오, 피오렌티나와 구드문드손 계약 체결",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-gudmundsson-agreement-with-fiorentina/",
+  "fee": null,
+  "published": "2026-09-01T11:08:43+00:00"
+ },
+ {
+  "id": "247ad68b191a",
+  "title": "Man Utd’s private Lewis Hall transfer plan as Newcastle confirm price tag",
+  "player": "Lewis Hall",
+  "title_ko": "뉴캐슬이 가격표를 확인함에 따라 맨유의 개인 루이스 홀 이적 계획",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-lewis-hall-37614343",
+  "fee": null,
+  "published": "2026-09-01T11:04:00+00:00"
+ },
+ {
   "id": "3587833074da",
   "title": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
   "player": null,
