@@ -1092,6 +1092,19 @@
   "published": "2026-08-31T19:32:27+00:00"
  },
  {
+  "id": "f14d198af280",
+  "title": "Man City's £80m move for Gakpo close to collapse",
+  "player": "Cody Gakpo",
+  "title_ko": "맨시티의 각포 이적료 8천만 파운드는 거의 무산될 뻔",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss",
+  "fee": "£80M",
+  "published": "2026-08-31T19:30:01+00:00"
+ },
+ {
   "id": "17b5bd2529aa",
   "title": "Herthas Jensen vor Wechsel nach Bielefeld",
   "player": "Herthas Jensen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-talks-over-new-37612358",
   "fee": null,
   "published": "2026-08-31T17:55:33+00:00"
- },
- {
-  "id": "75cbeb806574",
-  "title": "Später Transfer-Doppelschlag: Wiesbaden holt Paula und Schultz",
-  "player": "Wehen Wiesbaden",
-  "title_ko": "늦은 이적 이중고: 비스바덴이 파울라와 슐츠를 영입하다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/spaeter-transfer-doppelschlag-wiesbaden-holt-paula-und-schultz-1248543/artikel#omrss",
-  "fee": null,
-  "published": "2026-08-31T17:34:37+00:00"
  }
 ]
