@@ -1,5 +1,18 @@
 [
  {
+  "id": "34049ea567fd",
+  "title": "Chelsea agree £47m deal to sign Monaco's Camara",
+  "player": "Monaco's Camara",
+  "title_ko": "첼시는 모나코의 카마라 영입을 위해 £47m 계약에 합의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579974/lamine-camara-chelsea-agree-deal-to-sign-monaco-midfielder-as-enzo-fernandez-replacement",
+  "fee": "£47M",
+  "published": "2026-09-01T21:30:00+00:00"
+ },
+ {
   "id": "091298c83d94",
   "title": "Man City confirm £65m Ndiaye signing",
   "player": "Iliman Ndiaye",
@@ -24,6 +37,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-09-01T20:32:00+00:00"
+ },
+ {
+  "id": "e60c363c9842",
+  "title": "Chelsea agree £47.1m move for Monaco's Camara",
+  "player": "Monaco's Camara",
+  "title_ko": "첼시는 모나코의 카마라를 £47.1m에 이적하는데 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+  "fee": "£47.1M",
+  "published": "2026-09-01T20:30:51+00:00"
  },
  {
   "id": "74c047be0403",
