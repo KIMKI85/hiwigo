@@ -1014,6 +1014,19 @@
   "published": "2026-09-01T05:48:30+00:00"
  },
  {
+  "id": "2320eef80690",
+  "title": "Arsenal explore late move for Alvarez - Tuesday gossip",
+  "player": "Julian Alvarez",
+  "title_ko": "알바레즈로 떠나는 아스날 여행 - 화요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T05:43:23+00:00"
+ },
+ {
   "id": "a1845ba01599",
   "title": "DIRECT. Mercato: le marché ferme ses portes ce mardi, suivez en live toutes les infos",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/gasperini-malen-roma-title-hope-kone-chelsea/",
   "fee": null,
   "published": "2026-08-31T20:29:34+00:00"
- },
- {
-  "id": "518deab4b533",
-  "title": "Everton agree £40m fee for Monaco striker Balogun",
-  "player": "Folarin Balogun",
-  "title_ko": "에버턴은 모나코의 스트라이커 발로군에게 £40m의 이적료에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
-  "fee": "£40M",
-  "published": "2026-08-31T20:21:22+00:00"
  }
 ]
