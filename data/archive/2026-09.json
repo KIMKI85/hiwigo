@@ -1,5 +1,31 @@
 [
  {
+  "id": "025a1b90e84e",
+  "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
+  "player": "Guela Doué",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/wunschspieler-kommt-doue-wechselt-unters-bayer-kreuz-1247985/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T17:24:11+00:00"
+ },
+ {
+  "id": "e84a23a4142c",
+  "title": "Official: Atalanta sign Rowe from Bologna in total €40m package agreement",
+  "player": "Jonathan Rowe",
+  "title_ko": "공식: Atalanta, Bologna의 Rowe와 총 € 40M 패키지 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-atalanta-sign-rowe-from-bologna-e40m/",
+  "fee": "€40M",
+  "published": "2026-09-01T17:23:08+00:00"
+ },
+ {
   "id": "07767bf6b9d9",
   "title": "West Ham latest: Todibo joins Lens on loan",
   "player": null,
@@ -11,6 +37,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
   "fee": null,
   "published": "2026-09-01T17:17:00+00:00"
+ },
+ {
+  "id": "6a98b6249177",
+  "title": "Official: Como sign Italy international Kean in €40m deal from Como on deadline day",
+  "player": "Moise Kean",
+  "title_ko": "공식: 마감일에 COMO에서 € 40M 거래로 COMO SIGN ITALY INTERNATIONAL KEAN",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-como-sign-kean-from-fiorentina/",
+  "fee": "€40M",
+  "published": "2026-09-01T17:12:41+00:00"
  },
  {
   "id": "907342716889",
