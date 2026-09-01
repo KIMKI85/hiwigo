@@ -13,6 +13,45 @@
   "published": "2026-09-01T16:58:00+00:00"
  },
  {
+  "id": "dfa56db1fac2",
+  "title": "El Valencia hace oficial la cesión de Harvey Elliott hasta final de temporada",
+  "player": "Harvey Elliott",
+  "title_ko": "발렌시아는 시즌이 끝날 때까지 하비 엘리엇의 임대를 공식화했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-oficial-cesion-harvey-elliott-final-temporada.html",
+  "fee": null,
+  "published": "2026-09-01T16:05:42+00:00"
+ },
+ {
+  "id": "cb16ed711677",
+  "title": "Eberechi Eze singles out two Arsenal stars who can make difference in title bid",
+  "player": "Eberechi Eze",
+  "title_ko": "Eberechi Eze는 타이틀 입찰에서 차이를 만들 수 있는 두 명의 아스날 스타를 선택했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-eberechi-eze-chelsea-title-37615281",
+  "fee": null,
+  "published": "2026-09-01T16:00:00+00:00"
+ },
+ {
+  "id": "6a844127b1ba",
+  "title": "Man City agree £125m fee for Chelsea's Fernandez",
+  "player": "Chelsea's Fernandez",
+  "title_ko": "맨시티는 첼시의 페르난데스에게 £125m의 이적료에 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+  "fee": "£125M",
+  "published": "2026-09-01T15:55:10+00:00"
+ },
+ {
   "id": "e2c0da29a1b6",
   "title": "Juventus surrender Tagliafico, as Cabal move to Atalanta collapsed",
   "player": "Nicolas Tagliafico",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/report-norton-cuffy-close-venezia-e14m-sagrado/",
   "fee": "€14M",
   "published": "2026-08-31T21:25:02+00:00"
- },
- {
-  "id": "21e5b9efcd7e",
-  "title": "Man City open talks with Chelsea over Fernandez move",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티는 페르난데스 이적을 두고 첼시와 대화를 시작했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-31T21:20:32+00:00"
- },
- {
-  "id": "7714ac407c8f",
-  "title": "Comment l'OM devrait toucher plusieurs millions d'euros en fin de mercato sans forcément vendre de nouveaux joueurs",
-  "player": "Olympique de",
-  "title_ko": "OM이 이적 기간이 끝날 때 반드시 새로운 선수를 판매하지 않고도 수백만 유로를 받아야 하는 방법",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/comment-l-om-devrait-toucher-plusieurs-millions-d-euros-en-fin-de-mercato-sans-forcement-vendre-de-nouveaux-joueurs_AV-202608310900.html",
-  "fee": null,
-  "published": "2026-08-31T21:13:28+00:00"
- },
- {
-  "id": "1abf1a72f467",
-  "title": "Como agreement for Sanchez on loan from Chelsea",
-  "player": "Robert Sanchez",
-  "title_ko": "첼시로부터 산체스 임대 코모 계약",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-agreement-for-sanchez-loan-from-chelsea/",
-  "fee": null,
-  "published": "2026-08-31T21:12:30+00:00"
  }
 ]
