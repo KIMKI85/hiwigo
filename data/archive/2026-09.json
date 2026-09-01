@@ -13,6 +13,45 @@
   "published": "2026-09-01T15:00:00+00:00"
  },
  {
+  "id": "be279d46c43c",
+  "title": "Mercato: l'OL met la main sur Youssouf Fofana",
+  "player": "Youssouf Fofana",
+  "title_ko": "Mercato: l 'ol met la main sur Youssouf Fofana",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-met-la-main-sur-youssouf-fofana_AV-202609010625.html",
+  "fee": null,
+  "published": "2026-09-01T14:23:39+00:00"
+ },
+ {
+  "id": "07681625bb35",
+  "title": "Done Deal: Fofana ready for Olympique Lyonnais, loan with total €14m option from Milan",
+  "player": "Olympique Lyonnais",
+  "title_ko": "거래 완료: 포파나는 올림피크 리옹으로 이적할 준비가 되어 있고, 밀란에서 총 €14m 옵션으로 임대를 떠났습니다.",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-fofana-olympique-lyonnais-loan-milan/",
+  "fee": "€14M",
+  "published": "2026-09-01T14:23:00+00:00"
+ },
+ {
+  "id": "fe4a30a20b63",
+  "title": "Eine Etage höher: Alemannia-Eigengewächs Ademi wechselt nach Fürth",
+  "player": "Eine Etage",
+  "title_ko": "한 층 위: Alemannia의 Ademi가 Fürth로 이전합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/eine-etage-hoeher-alemannia-eigengewaechs-ademi-wechselt-nach-fuerth-1248473/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T14:20:16+00:00"
+ },
+ {
   "id": "73e3fd9d8cf2",
   "title": "Fulham agree to sign midfielders Angel and Larsson",
   "player": "Manuel Angel",
