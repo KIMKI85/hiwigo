@@ -52,6 +52,19 @@
   "published": "2026-09-01T22:32:17+00:00"
  },
  {
+  "id": "5c9302225517",
+  "title": "Die teuersten Transfers der Welt: Wo reihen sich Diomande und Fernandez ein?",
+  "player": "der Welt",
+  "title_ko": "세계에서 가장 비싼 이적료: Diomande와 Fernandez의 순위는 어디입니까?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/die-teuersten-transfers-der-welt-wo-reihen-sich-diomande-und-fernandez-ein-867614/slideshow#omrss",
+  "fee": null,
+  "published": "2026-09-01T22:30:00+00:00"
+ },
+ {
   "id": "668e601560f3",
   "title": "Ipswich sign Burnley forward Flemming for £20m",
   "player": "Zian Flemming",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-targets-exits-latest-37614727",
   "fee": null,
   "published": "2026-09-01T12:10:32+00:00"
- },
- {
-  "id": "b6bd2add401c",
-  "title": "Ahanor to join Chelsea next season after Palace loan",
-  "player": "Honest Ahanor",
-  "title_ko": "아하노르, 팰리스 임대 후 다음 시즌 첼시에 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T11:50:30+00:00"
  }
 ]
