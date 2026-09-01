@@ -13,6 +13,19 @@
   "published": "2026-09-01T13:45:00+00:00"
  },
  {
+  "id": "ecabf6a40001",
+  "title": "Leihe offiziell: Werder holt auch noch Ndiaye",
+  "player": "Tag der Transferperdiode",
+  "title_ko": "공식 임대 : Werder는 Ndiaye도 데려옵니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/leihe-offiziell-werder-holt-auch-noch-ndiaye-1248682/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T13:40:50+00:00"
+ },
+ {
   "id": "42429ad6f2a8",
   "title": "Arsenal set for timely transfer boost as two Premier League deals agreed",
   "player": "Emirates Stadium",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
   "fee": "£65M",
   "published": "2026-08-31T19:12:15+00:00"
- },
- {
-  "id": "bba54b4a0d96",
-  "title": "El Betis cierra la cesión de Gonzalo Petit al Cádiz sin opción de compra",
-  "player": "Gonzalo Petit",
-  "title_ko": "베티스는 구매 옵션 없이 카디스에 대한 곤잘로 프티의 임대를 종료했습니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/betis/2026/08/31/betis-cierra-cesion-gonzalo-petit-cadiz-opcion-compra.html",
-  "fee": null,
-  "published": "2026-08-31T19:11:36+00:00"
  }
 ]
