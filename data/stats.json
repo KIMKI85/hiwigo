@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T22:54:52.663255+00:00",
+ "updated": "2026-09-01T05:19:00.428108+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -145,6 +145,20 @@
     },
     {
      "date": "2026-08-30",
+     "home": "Celta",
+     "away": "Athletic",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-08-30",
+     "home": "Deportivo",
+     "away": "Valencia",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-08-30",
      "home": "Real Madrid",
      "away": "Málaga",
      "hs": 4,
@@ -169,20 +183,6 @@
      "home": "Levante",
      "away": "Real Betis",
      "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-08-28",
-     "home": "Alavés",
-     "away": "Villarreal",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-08-28",
-     "home": "Santander",
-     "away": "Elche",
-     "hs": 3,
      "as": 2
     }
    ],
@@ -269,6 +269,20 @@
     },
     {
      "date": "2026-08-30",
+     "home": "Cagliari",
+     "away": "Inter",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-08-30",
+     "home": "Lazio",
+     "away": "Genoa",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-08-30",
      "home": "Napoli",
      "away": "Como 1907",
      "hs": 1,
@@ -294,20 +308,6 @@
      "away": "Udinese",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Sassuolo",
-     "away": "Torino",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-08-28",
-     "home": "Milan",
-     "away": "Venezia FC",
-     "hs": 2,
-     "as": 0
     }
    ],
    "scorers": [
@@ -503,6 +503,13 @@
    "results": [
     {
      "date": "2026-08-30",
+     "home": "Monaco",
+     "away": "Marseille",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-08-30",
      "home": "Stade Rennais",
      "away": "Le Mans",
      "hs": 3,
@@ -549,13 +556,6 @@
      "away": "RC Lens",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-08-28",
-     "home": "Lille",
-     "away": "PSG",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
