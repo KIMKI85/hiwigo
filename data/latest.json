@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a70fcfead45",
+  "title": "Man Utd transfer news: Marcus Rashford stance clear and fresh Barcelona talks emerge",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유 이적 소식: 마커스 래쉬포드의 입장이 명확하고 바르셀로나와의 새로운 대화가 등장",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-rashford-barcelona-37611181",
+  "fee": null,
+  "published": "2026-09-01T03:30:00+00:00"
+ },
+ {
   "id": "658effe0f529",
   "title": "Arsenal news: Late Julian Alvarez transfer twist as deadline day talks emerge",
   "player": "Late Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-deadline-day-gakpo-37609947",
   "fee": null,
   "published": "2026-08-31T09:23:15+00:00"
- },
- {
-  "id": "15dab2fdfde8",
-  "title": "Every Liverpool player's salary and where Andoni Iraola can make transfer deadline day cuts",
-  "player": "Andoni Iraola",
-  "title_ko": "모든 리버풀 선수의 연봉과 안도니 이라올라가 이적 기한을 줄일 수 있는 곳",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-deadline-andoni-iraola-37609927",
-  "fee": null,
-  "published": "2026-08-31T08:24:50+00:00"
  }
 ]
