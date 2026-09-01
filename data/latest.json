@@ -1,5 +1,18 @@
 [
  {
+  "id": "ac8c79773c9c",
+  "title": "Roma push for Gittens and Leweling after blocking Koné’s Chelsea move",
+  "player": "Sky Sport Italia",
+  "title_ko": "코네의 첼시 무브를 막은 후 기튼과 르웰링을 향한 로마의 압박",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-push-gittens-leweling-block-kone-chelsea/",
+  "fee": null,
+  "published": "2026-09-01T10:11:34+00:00"
+ },
+ {
   "id": "b26fcdc5912a",
   "title": "Arsenal agree terms to sign De Almeida from PSG",
   "player": "De Almeida",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-08-31T14:34:00+00:00"
- },
- {
-  "id": "408423d609b7",
-  "title": "Newcastle close in on £55m deal for Fernandez-Pardo",
-  "player": "Matias Fernandez-",
-  "title_ko": "뉴캐슬, 페르난데스-파르도 영입에 £55m 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-  "fee": "£55M",
-  "published": "2026-08-31T14:29:13+00:00"
  }
 ]
