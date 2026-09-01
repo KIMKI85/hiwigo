@@ -1,5 +1,31 @@
 [
  {
+  "id": "e0a408201ad3",
+  "title": "Villa confirm signing of PSG winger Mbaye",
+  "player": "Ibrahim Mbaye",
+  "title_ko": "빌라, PSG 윙어 음바예 영입 확정",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
+  "fee": null,
+  "published": "2026-09-01T11:28:00+00:00"
+ },
+ {
+  "id": "3587833074da",
+  "title": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
+  "player": null,
+  "title_ko": "축구 이적 마감일: 페르난데스의 맨체스터 시티 이적, 빌라의 음바예 영입 등 - 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+  "fee": null,
+  "published": "2026-09-01T10:50:30+00:00"
+ },
+ {
   "id": "aef236b933a5",
   "title": "Aston Villa complete £47m Mbaye signing",
   "player": "Ibrahim Mbaye",
@@ -24,6 +50,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-destination-surprise-pour-malick-fofana-qui-va-quitter-l-ol-pour-sunderland_AV-202609010482.html",
   "fee": null,
   "published": "2026-09-01T10:37:49+00:00"
+ },
+ {
+  "id": "8ba3779c0e9b",
+  "title": "Arsenal dealt huge transfer blow as Malick Fofana agrees to join Premier League rivals",
+  "player": "Malick Fofana",
+  "title_ko": "아스날은 Malick Fofana가 프리미어 리그 라이벌에 합류하기로 동의함에 따라 엄청난 이적 타격을 입었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-sunderland-malick-fofana-latest-37614051",
+  "fee": null,
+  "published": "2026-09-01T10:37:41+00:00"
  },
  {
   "id": "42ec3dd4c013",
