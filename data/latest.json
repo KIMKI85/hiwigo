@@ -26,6 +26,32 @@
   "published": "2026-09-01T20:32:00+00:00"
  },
  {
+  "id": "74c047be0403",
+  "title": "Torino sign Mandragora, Braganca and Patterson, but Celtic waiting for Gineitis",
+  "player": "Rolando Mandragora",
+  "title_ko": "토리노는 만드라고라, 브라간카, 패터슨을 영입했지만 셀틱은 기네티스를 기다리고 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/torino-mandragora-braganca-patterson-gineitis/",
+  "fee": null,
+  "published": "2026-09-01T20:23:22+00:00"
+ },
+ {
+  "id": "87283689e725",
+  "title": "Premier League breaks transfer record for second straight summer",
+  "player": null,
+  "title_ko": "프리미어리그, 2연속 여름 이적 기록 경신",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T20:17:17+00:00"
+ },
+ {
   "id": "a3cae9a7d936",
   "title": "Top 10 most expensive Serie A signings of 2026 summer transfer window",
   "player": "Goncalo Ramos",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T09:59:20+00:00"
- },
- {
-  "id": "6d94a977c4a0",
-  "title": "Hull sign German forward Ansah from Union Berlin",
-  "player": "Ilyas Ansah",
-  "title_ko": "유니언 베를린에서 선체 표지판 독일 전진 안사",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T09:57:22+00:00"
- },
- {
-  "id": "ec7f1a20f7c5",
-  "title": "Man Utd latest: Zirkzee key to left-back move as talks continue for Page",
-  "player": null,
-  "title_ko": "맨유 최신: 페이지에 대한 대화가 계속되면서 Zirkzee가 왼쪽 수비수 이동에 핵심",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-01T09:55:00+00:00"
  }
 ]
