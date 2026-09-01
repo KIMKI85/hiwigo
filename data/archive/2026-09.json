@@ -1,5 +1,18 @@
 [
  {
+  "id": "07767bf6b9d9",
+  "title": "West Ham latest: Todibo joins Lens on loan",
+  "player": null,
+  "title_ko": "웨스트햄 최신: 토디보, 렌스 임대 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+  "fee": null,
+  "published": "2026-09-01T17:17:00+00:00"
+ },
+ {
   "id": "907342716889",
   "title": "'Only team that can challenge Arsenal' | Carra explains impact Enzo signing for Man City",
   "player": "Sky Sports' Jamie",
@@ -24,6 +37,32 @@
   "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
   "fee": "£125M",
   "published": "2026-09-01T16:58:00+00:00"
+ },
+ {
+  "id": "4b5e24cdbbae",
+  "title": "El Málaga libera una ficha y cede a Arriaza al Estepona",
+  "player": "El Málaga",
+  "title_ko": "말라가는 칩을 출시하고 Arriaza를 Estepona로 이적했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/malaga/2026/09/01/malaga-libera-ficha-cede-arriaza-estepona.html",
+  "fee": null,
+  "published": "2026-09-01T16:39:20+00:00"
+ },
+ {
+  "id": "33eb808d938c",
+  "title": "Esposito leaves Inter HQ after signing new contract until 2032",
+  "player": "Francesco Pio Esposito",
+  "title_ko": "에스포지토, 2032년까지 재계약 후 인터HQ 떠난다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/esposito-leaves-after-signing-inter-contract/",
+  "fee": null,
+  "published": "2026-09-01T16:32:01+00:00"
  },
  {
   "id": "dbe10ada639d",
