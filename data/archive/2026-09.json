@@ -1,5 +1,18 @@
 [
  {
+  "id": "907342716889",
+  "title": "'Only team that can challenge Arsenal' | Carra explains impact Enzo signing for Man City",
+  "player": "Sky Sports' Jamie",
+  "title_ko": "'아스날에 도전할 수 있는 유일한 팀' | Carra는 Enzo가 Man City에 영입하는 데 영향을 미쳤다고 설명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13579949/manchester-city-agree-deal-for-enzo-fernandez-jamie-carragher-explains-impact-of-big-money-signing",
+  "fee": null,
+  "published": "2026-09-01T17:12:00+00:00"
+ },
+ {
   "id": "82e2651b46aa",
   "title": "Man City agree £125m deal to sign Chelsea's Fernandez",
   "player": "Chelsea's Fernandez",
@@ -11,6 +24,45 @@
   "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
   "fee": "£125M",
   "published": "2026-09-01T16:58:00+00:00"
+ },
+ {
+  "id": "dbe10ada639d",
+  "title": "Valencia sign Liverpool's Elliott on loan",
+  "player": "Liverpool's Elliott",
+  "title_ko": "발렌시아, 리버풀의 엘리엇과 임대 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T16:23:52+00:00"
+ },
+ {
+  "id": "e285eb5de5a8",
+  "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
+  "player": "Parma's Sorensen",
+  "title_ko": "마감일 전에 더 많은 켈트족이 파르마의 소렌센에 서명합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T16:15:49+00:00"
+ },
+ {
+  "id": "9ba0ba23698c",
+  "title": "Man Utd in talks to sign ANOTHER midfielder before the transfer deadline",
+  "player": null,
+  "title_ko": "맨유는 이적 마감일 전에 또 다른 미드필더 영입을 논의 중이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-deadline-day-37616174",
+  "fee": null,
+  "published": "2026-09-01T16:12:37+00:00"
  },
  {
   "id": "dfa56db1fac2",
@@ -35,6 +87,19 @@
   "lv": 2,
   "src": "Mirror Football",
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-eberechi-eze-chelsea-title-37615281",
+  "fee": null,
+  "published": "2026-09-01T16:00:00+00:00"
+ },
+ {
+  "id": "265b67898d99",
+  "title": "Fofana tug-of-war! Sunderland and Palace agree deals but where will he end up?",
+  "player": "Malick Fofana",
+  "title_ko": "포파나 줄다리기! 선더랜드와 팰리스는 계약에 동의했지만 결국 그는 어디로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
   "fee": null,
   "published": "2026-09-01T16:00:00+00:00"
  },
@@ -284,6 +349,19 @@
   "url": "https://football-italia.net/pio-esposito-inter-extension-new-salary-italy/",
   "fee": null,
   "published": "2026-09-01T13:06:19+00:00"
+ },
+ {
+  "id": "0bc71dc0037b",
+  "title": "Leeds latest: Talks begin to sign Bundesliga's fastest player",
+  "player": null,
+  "title_ko": "리즈 최신: 분데스리가에서 가장 빠른 선수와 계약하기 위한 회담 시작",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T13:00:00+00:00"
  },
  {
   "id": "96e67c93b179",

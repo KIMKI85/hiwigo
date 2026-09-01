@@ -1,5 +1,18 @@
 [
  {
+  "id": "907342716889",
+  "title": "'Only team that can challenge Arsenal' | Carra explains impact Enzo signing for Man City",
+  "player": "Sky Sports' Jamie",
+  "title_ko": "'아스날에 도전할 수 있는 유일한 팀' | Carra는 Enzo가 Man City에 영입하는 데 영향을 미쳤다고 설명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13579949/manchester-city-agree-deal-for-enzo-fernandez-jamie-carragher-explains-impact-of-big-money-signing",
+  "fee": null,
+  "published": "2026-09-01T17:12:00+00:00"
+ },
+ {
   "id": "82e2651b46aa",
   "title": "Man City agree £125m deal to sign Chelsea's Fernandez",
   "player": "Chelsea's Fernandez",
@@ -13,6 +26,45 @@
   "published": "2026-09-01T16:58:00+00:00"
  },
  {
+  "id": "dbe10ada639d",
+  "title": "Valencia sign Liverpool's Elliott on loan",
+  "player": "Liverpool's Elliott",
+  "title_ko": "발렌시아, 리버풀의 엘리엇과 임대 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T16:23:52+00:00"
+ },
+ {
+  "id": "e285eb5de5a8",
+  "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
+  "player": "Parma's Sorensen",
+  "title_ko": "마감일 전에 더 많은 켈트족이 파르마의 소렌센에 서명합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-01T16:15:49+00:00"
+ },
+ {
+  "id": "9ba0ba23698c",
+  "title": "Man Utd in talks to sign ANOTHER midfielder before the transfer deadline",
+  "player": null,
+  "title_ko": "맨유는 이적 마감일 전에 또 다른 미드필더 영입을 논의 중이다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-deadline-day-37616174",
+  "fee": null,
+  "published": "2026-09-01T16:12:37+00:00"
+ },
+ {
   "id": "dfa56db1fac2",
   "title": "El Valencia hace oficial la cesión de Harvey Elliott hasta final de temporada",
   "player": "Harvey Elliott",
@@ -24,6 +76,19 @@
   "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-oficial-cesion-harvey-elliott-final-temporada.html",
   "fee": null,
   "published": "2026-09-01T16:05:42+00:00"
+ },
+ {
+  "id": "265b67898d99",
+  "title": "Fofana tug-of-war! Sunderland and Palace agree deals but where will he end up?",
+  "player": "Malick Fofana",
+  "title_ko": "포파나 줄다리기! 선더랜드와 팰리스는 계약에 동의했지만 결국 그는 어디로 갈 것인가?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
+  "fee": null,
+  "published": "2026-09-01T16:00:00+00:00"
  },
  {
   "id": "cb16ed711677",
@@ -284,6 +349,19 @@
   "url": "https://football-italia.net/pio-esposito-inter-extension-new-salary-italy/",
   "fee": null,
   "published": "2026-09-01T13:06:19+00:00"
+ },
+ {
+  "id": "0bc71dc0037b",
+  "title": "Leeds latest: Talks begin to sign Bundesliga's fastest player",
+  "player": null,
+  "title_ko": "리즈 최신: 분데스리가에서 가장 빠른 선수와 계약하기 위한 회담 시작",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-01T13:00:00+00:00"
  },
  {
   "id": "96e67c93b179",
@@ -1220,83 +1298,5 @@
   "url": "https://www.kicker.de/diese-transfers-taetigten-die-bundesligisten-am-deadline-day-2025-1248411/slideshow#omrss",
   "fee": null,
   "published": "2026-08-31T22:01:00+00:00"
- },
- {
-  "id": "c46e9791b931",
-  "title": "Liverpool complete transfer and reject £30m bid as Reds get busy before deadline",
-  "player": null,
-  "title_ko": "리버풀은 이전을 완료하고 마감일 전에 레즈가 바빠서 £ 30M 입찰을 거부합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-bajcetic-trey-nyoni-forest-37612828",
-  "fee": "£30M",
-  "published": "2026-08-31T21:58:00+00:00"
- },
- {
-  "id": "2605109753d8",
-  "title": "Transfer news LIVE: Arsenal make late £50m move, Mudryk to Tottenham, Man Utd deal",
-  "player": null,
-  "title_ko": "이적 뉴스 라이브: 아스날은 £50m 늦게 이적했고, 머드릭은 토트넘으로, 맨유는 거래했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/transfer-news-live-barcola-alvarez-37607768",
-  "fee": "£50M",
-  "published": "2026-08-31T21:56:18+00:00"
- },
- {
-  "id": "ae7d76c51a12",
-  "title": "Beto and Gnonto undergoing Fiorentina medical tests from Everton and Leeds United",
-  "player": null,
-  "title_ko": "베토와 그논토는 에버튼과 리즈 유나이티드로부터 피오렌티나 메디컬 테스트를 받고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/beto-gnonto-undergoing-fiorentina-medical-test/",
-  "fee": null,
-  "published": "2026-08-31T21:45:03+00:00"
- },
- {
-  "id": "0d0f0b5c2e68",
-  "title": "Arsenal battle to Aston Villa win but question remains ahead of transfer deadline day",
-  "player": "Bukayo Saka's",
-  "title_ko": "Aston Villa와의 아스날 전투에서 승리했지만 이적 마감일을 앞두고 질문이 남아 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/match-reports/arsenal-aston-villa-bukayo-saka-37612809",
-  "fee": null,
-  "published": "2026-08-31T21:31:32+00:00"
- },
- {
-  "id": "03558cd04f59",
-  "title": "Hull agree £22m fee for Everton's Iroegbunam",
-  "player": "Everton's Iroegbunam",
-  "title_ko": "Hull은 Everton의 Irogbunam에 대한 £ 22m 수수료에 동의합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss",
-  "fee": "£22M",
-  "published": "2026-08-31T21:29:58+00:00"
- },
- {
-  "id": "b739a8aa53fa",
-  "title": "Report Norton-Cuffy close to Venezia in €14m plus Sagrado agreement",
-  "player": "Sky Sport Italia",
-  "title_ko": "Norton-Cuffy가 1,400만 유로에 Sagrado 계약을 더해 베네치아에 근접했다고 보고",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-norton-cuffy-close-venezia-e14m-sagrado/",
-  "fee": "€14M",
-  "published": "2026-08-31T21:25:02+00:00"
  }
 ]
