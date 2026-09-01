@@ -1,5 +1,31 @@
 [
  {
+  "id": "fb4cdb7802ec",
+  "title": "Official: Venezia sign Toni Fernandez, 18-year-old Barcelona talent",
+  "player": "Toni Fernandez",
+  "title_ko": "공식: 베네치아는 바르셀로나의 18세 유망주 토니 페르난데스를 영입했습니다.",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-venezia-sign-toni-fernandez-barcelona/",
+  "fee": null,
+  "published": "2026-09-01T19:12:39+00:00"
+ },
+ {
+  "id": "07c24e9eedf1",
+  "title": "Des mouvements, une balance positive et des postes doublés: le gros bilan mercato du Stade rennais",
+  "player": "Stade Rennais",
+  "title_ko": "움직임, 긍정적인 균형 및 두 배의 포지션: 스타드 렌의 큰 이적 창구",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/des-mouvements-une-balance-positive-et-des-postes-doubles-le-gros-bilan-mercato-du-stade-rennais_AV-202609010861.html",
+  "fee": null,
+  "published": "2026-09-01T19:11:36+00:00"
+ },
+ {
   "id": "dd29026198c2",
   "title": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
   "player": "Pedro Goncalves",

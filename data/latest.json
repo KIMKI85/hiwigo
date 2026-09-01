@@ -1,5 +1,31 @@
 [
  {
+  "id": "fb4cdb7802ec",
+  "title": "Official: Venezia sign Toni Fernandez, 18-year-old Barcelona talent",
+  "player": "Toni Fernandez",
+  "title_ko": "공식: 베네치아는 바르셀로나의 18세 유망주 토니 페르난데스를 영입했습니다.",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-venezia-sign-toni-fernandez-barcelona/",
+  "fee": null,
+  "published": "2026-09-01T19:12:39+00:00"
+ },
+ {
+  "id": "07c24e9eedf1",
+  "title": "Des mouvements, une balance positive et des postes doublés: le gros bilan mercato du Stade rennais",
+  "player": "Stade Rennais",
+  "title_ko": "움직임, 긍정적인 균형 및 두 배의 포지션: 스타드 렌의 큰 이적 창구",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/des-mouvements-une-balance-positive-et-des-postes-doubles-le-gros-bilan-mercato-du-stade-rennais_AV-202609010861.html",
+  "fee": null,
+  "published": "2026-09-01T19:11:36+00:00"
+ },
+ {
   "id": "dd29026198c2",
   "title": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
   "player": "Pedro Goncalves",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/",
   "fee": null,
   "published": "2026-09-01T08:10:00+00:00"
- },
- {
-  "id": "b47b2f3cab82",
-  "title": "Juventus agree to sign Woltemade on loan from Newcastle",
-  "player": "Nick Woltemade",
-  "title_ko": "유벤투스는 뉴캐슬로부터 임대된 월테메이드와 계약하기로 합의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T08:03:16+00:00"
- },
- {
-  "id": "a009c8e6d326",
-  "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
-  "player": null,
-  "title_ko": "첼시 최신: 블루스의 눈 페르난데스 교체로 카마라 입찰이 거부됨",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-01T08:00:00+00:00"
  }
 ]
