@@ -1,5 +1,18 @@
 [
  {
+  "id": "8cd76c65cb59",
+  "title": "Man City sign Fernandez in British-record-equalling deal",
+  "player": "Enzo Fernandez",
+  "title_ko": "맨시티, 영국 기록과 동률 계약으로 페르난데스 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
+  "fee": null,
+  "published": "2026-09-01T23:30:00+00:00"
+ },
+ {
   "id": "8988431a5c99",
   "title": "Deal off! Monaco pull out of selling Fernandez replacement Camara to Chelsea",
   "player": "Lamine Camara",
@@ -11,6 +24,45 @@
   "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
   "fee": null,
   "published": "2026-09-01T23:15:00+00:00"
+ },
+ {
+  "id": "3e859e755920",
+  "title": "Für über 20 Millionen Euro: Chema wechselt zu Brighton",
+  "player": "Millionen Euro",
+  "title_ko": "Für über 2,000만 유로: Chema wechselt zu Brighton",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/fuer-ueber-20-millionen-euro-chema-wechselt-zu-brighton-1248831/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T22:43:30+00:00"
+ },
+ {
+  "id": "30240d74e0e9",
+  "title": "Englischer Transferrekord eingestellt: Fernandez wechselt von Chelsea zu ManCity",
+  "player": "Englischer Transferrekord",
+  "title_ko": "잉글랜드 이적 기록: 페르난데스가 첼시에서 맨시티로 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/englischer-transferrekord-eingestellt-fernandez-wechselt-von-chelsea-zu-mancity-1248765/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-01T22:32:17+00:00"
+ },
+ {
+  "id": "668e601560f3",
+  "title": "Ipswich sign Burnley forward Flemming for £20m",
+  "player": "Zian Flemming",
+  "title_ko": "입스위치는 번리의 포워드 플레밍을 £20m에 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c8e37d6w6w0o?at_medium=RSS&at_campaign=rss",
+  "fee": "£20M",
+  "published": "2026-09-01T22:28:54+00:00"
  },
  {
   "id": "a847fc0ca9f4",
@@ -1246,57 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T11:50:30+00:00"
- },
- {
-  "id": "8ce2c573299e",
-  "title": "Video: Woltemade lands in Turin for Juventus transfer from Newcastle",
-  "player": "Nick Woltemade",
-  "title_ko": "비디오: 볼테마데는 뉴캐슬에서 유벤투스로 이적하기 위해 토리노로 이적했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-woltemade-lands-in-turin-for-juventus-transfer-from-newcastle/",
-  "fee": null,
-  "published": "2026-09-01T11:37:13+00:00"
- },
- {
-  "id": "e0a408201ad3",
-  "title": "Villa confirm signing of PSG winger Mbaye",
-  "player": "Ibrahim Mbaye",
-  "title_ko": "빌라, PSG 윙어 음바예 영입 확정",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
-  "fee": null,
-  "published": "2026-09-01T11:28:00+00:00"
- },
- {
-  "id": "ed531364d5e3",
-  "title": "Official – Chelsea sign Ahanor from Atalanta: ‘Joining in 2027’",
-  "player": "Honest Ahanor",
-  "title_ko": "공식 - 첼시가 아탈란타에서 아하노르를 영입했습니다: '2027년에 합류'",
-  "league": "EPL",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
-  "fee": null,
-  "published": "2026-09-01T11:22:00+00:00"
- },
- {
-  "id": "7a835bfab604",
-  "title": "\"Wird sich schnell bei uns einleben\": Imeri wechselt zu Union",
-  "player": "Die Eisernen",
-  "title_ko": "“우리와 함께 빨리 적응할 것입니다”: Imeri는 Union으로 이사합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/wird-sich-schnell-bei-uns-einleben-imeri-wechselt-zu-union-1248148/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T11:18:00+00:00"
  }
 ]
