@@ -1,5 +1,31 @@
 [
  {
+  "id": "bb87d3ae5227",
+  "title": "Mercato: Chelsea remonté contre Monaco après l'annulation du transfert de Lamine Camara",
+  "player": "Lamine Camara",
+  "title_ko": "메르카토: 첼시는 라미네 카마라의 이적이 취소된 후 모나코를 상대로 복귀한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-remonte-contre-monaco-apres-l-annulation-du-transfert-de-lamine-camara_AV-202609020533.html",
+  "fee": null,
+  "published": "2026-09-02T11:39:41+00:00"
+ },
+ {
+  "id": "ae1eca0cfce5",
+  "title": "Celtic take goalkeeper Johnstone on loan from Wolves",
+  "player": "Former England",
+  "title_ko": "셀틱은 울브스로부터 골키퍼 존스톤을 임대 영입했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T11:30:49+00:00"
+ },
+ {
   "id": "748d23d04b08",
   "title": "Milan called Scalvini on deadline day, but ‘only’ one Amorim target not signed",
   "player": "Giorgio Scalvini",
