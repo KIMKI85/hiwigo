@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c2dd637646b",
+  "title": "Raskin starts after Rangers reject bid, Celtic arrivals on bench LIVE!",
+  "player": null,
+  "title_ko": "레인저스가 입찰을 거부한 후 Raskin이 시작하고 Celtic이 벤치에 라이브로 도착합니다!",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/falkirk-vs-rangers/live/558359",
+  "fee": null,
+  "published": "2026-09-02T18:30:00+00:00"
+ },
+ {
   "id": "278a4ebbeb72",
   "title": "OM: le mercato, Genesio, la DNCG... les réponses du président Stéphane Richard chez \"Rothen s'enflamme\"",
   "player": "Stéphane Richard",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T18:29:04+00:00"
- },
- {
-  "id": "171178051974",
-  "title": "Milan fury at Fofana failure of Lyon €12m deal, hope for Besiktas",
-  "player": "Olympique Lyonnais",
-  "title_ko": "리옹의 포파나 실패에 대한 밀라노의 분노 € 1,200만 거래, 베식타스의 희망",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-fury-fofana-failure-lyon-e12m-besiktas/",
-  "fee": "€12M",
-  "published": "2026-09-01T18:22:32+00:00"
  }
 ]
