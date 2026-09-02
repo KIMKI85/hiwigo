@@ -1,5 +1,31 @@
 [
  {
+  "id": "2fce88886a68",
+  "title": "Everton's amateurish transfer window was a SHAMBLES - it's no wonder Balogun did a runner",
+  "player": "Folarin Balogun",
+  "title_ko": "Everton의 아마추어 이적 기간은 엉망이었습니다. Balogun이 주자를 낸 것은 놀라운 일이 아닙니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/evertons-amateurish-transfer-window-shambles-37617755",
+  "fee": null,
+  "published": "2026-09-02T10:49:31+00:00"
+ },
+ {
+  "id": "857f4d33b172",
+  "title": "Liverpool made Monaco call to make plan clear as Chelsea's Lamine Camara transfer collapsed",
+  "player": "Chelsea's Lamine Camara",
+  "title_ko": "리버풀은 첼시의 라미네 카마라 이적이 무산되자 계획을 명확히 하라고 모나코에 전화했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-monaco-lamine-camara-37618310",
+  "fee": null,
+  "published": "2026-09-02T10:39:49+00:00"
+ },
+ {
   "id": "6f0f24d7dba4",
   "title": "Kessié’s agent blames Juventus for collapsed summer transfer",
   "player": "George Atangana",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T16:15:49+00:00"
- },
- {
-  "id": "9ba0ba23698c",
-  "title": "Man Utd in talks to sign ANOTHER midfielder before the transfer deadline",
-  "player": null,
-  "title_ko": "맨유는 이적 마감일 전에 또 다른 미드필더 영입을 논의 중이다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-deadline-day-37616174",
-  "fee": null,
-  "published": "2026-09-01T16:12:37+00:00"
- },
- {
-  "id": "dfa56db1fac2",
-  "title": "El Valencia hace oficial la cesión de Harvey Elliott hasta final de temporada",
-  "player": "Harvey Elliott",
-  "title_ko": "발렌시아는 시즌이 끝날 때까지 하비 엘리엇의 임대를 공식화했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-oficial-cesion-harvey-elliott-final-temporada.html",
-  "fee": null,
-  "published": "2026-09-01T16:05:42+00:00"
  }
 ]
