@@ -1,5 +1,18 @@
 [
  {
+  "id": "41e6291ad088",
+  "title": "Plus de 4 milliards d'euros dépensés, un milieu à 400 millions pour City... Les nouveaux records fous du mercato de la Premier League",
+  "player": null,
+  "title_ko": "40억 유로 이상 지출, 시티 4억 중반…프리미어리그 이적 시장의 미친 신기록",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/plus-de-4-milliards-d-euros-depenses-un-milieu-a-400-millions-pour-city-les-nouveaux-records-fous-du-mercato-de-la-premier-league_AV-202609020230.html",
+  "fee": null,
+  "published": "2026-09-02T06:30:48+00:00"
+ },
+ {
   "id": "216f995e365b",
   "title": "Have Arsenal's rivals done enough in transfer window to challenge?",
   "player": "Have Arsenal's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T14:03:20+00:00"
- },
- {
-  "id": "408423d609b7",
-  "title": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-  "player": "Matias Fernandez-",
-  "title_ko": "릴에서 뉴캐슬 페르난데스-파르도 사인 £ 51M",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-  "fee": "£51M",
-  "published": "2026-09-01T14:01:47+00:00"
  }
 ]
