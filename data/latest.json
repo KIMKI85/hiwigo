@@ -1,5 +1,31 @@
 [
  {
+  "id": "c3b1506ad6a7",
+  "title": "Ricardo Rodriguez set for Torino return after collapsed deadline day move to West Ham",
+  "player": "Ricardo Rodriguez",
+  "title_ko": "리카르도 로드리게스는 마감일에 웨스트햄으로 이적한 후 토리노로 복귀할 예정입니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/rodriguez-set-for-torino-return-west-ham-off/",
+  "fee": null,
+  "published": "2026-09-02T14:52:17+00:00"
+ },
+ {
+  "id": "c9df65393823",
+  "title": "Late-night transfer fallout sparks Chelsea-Monaco row",
+  "player": "Nizaar Kinsella",
+  "title_ko": "심야 이적 여파로 첼시-모나코 대결 촉발",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T14:48:09+00:00"
+ },
+ {
   "id": "9e134549a94b",
   "title": "Mercato: la grosse mise au point de Scuro sur les transferts avortés de Balogun et Camara",
   "player": "Filipe Luis",
@@ -11,6 +37,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-grosse-mise-au-point-de-scuro-sur-les-transferts-avortes-de-balogun-et-camara_AD-202609020629.html",
   "fee": null,
   "published": "2026-09-02T14:43:11+00:00"
+ },
+ {
+  "id": "264d0cb6353f",
+  "title": "Top 10 most expensive Italy players of the 2026 summer transfer window revealed",
+  "player": "Sandro Tonali",
+  "title_ko": "2026년 여름 이적 시장에서 가장 몸값이 비싼 이탈리아 선수 TOP 10이 공개되었습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/most-expensive-italy-transfers-summer-2026/",
+  "fee": null,
+  "published": "2026-09-02T14:32:48+00:00"
  },
  {
   "id": "18b5dbbc510b",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/juventus-sign-woltemade-from-newcastle/",
   "fee": "€2.8M",
   "published": "2026-09-01T17:46:45+00:00"
- },
- {
-  "id": "eb9b7c135b47",
-  "title": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
-  "player": "Yukinari Sugawara",
-  "title_ko": "공식: 칼리아리가 사우샘프턴의 수가와라를 550만 유로의 구매 옵션으로 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
-  "fee": "€5.5M",
-  "published": "2026-09-01T17:42:04+00:00"
- },
- {
-  "id": "64bf7ddbebd5",
-  "title": "Official: Fiorentina sign Beto from Everton in €18m deal",
-  "player": null,
-  "title_ko": "공식: 피오렌티나는 에버튼의 베투를 €18m에 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-fiorentina-sign-beto-from-everton/",
-  "fee": "€18M",
-  "published": "2026-09-01T17:30:48+00:00"
- },
- {
-  "id": "924e1dd38281",
-  "title": "El Betis descarta el fichaje de un pivote y se centra en Ceballos",
-  "player": null,
-  "title_ko": "베티스는 피벗 영입을 배제하고 세바요스에게 집중한다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/betis/2026/09/01/betis-descarta-fichaje-pivote-centra-ceballos.html",
-  "fee": null,
-  "published": "2026-09-01T17:25:50+00:00"
  }
 ]
