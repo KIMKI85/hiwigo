@@ -1,5 +1,18 @@
 [
  {
+  "id": "4392d02e3a29",
+  "title": "Sarr opens up after Juventus move from Tottenham: Pogba is the ‘role model’",
+  "player": "Pape Matar Sarr",
+  "title_ko": "유벤투스가 토트넘에서 이적한 후 사르가 열린다: 포그바는 ‘롤 모델’ 이다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sarr-juventus-interview-tottenham-pogba-model/",
+  "fee": null,
+  "published": "2026-09-02T11:59:23+00:00"
+ },
+ {
   "id": "bb87d3ae5227",
   "title": "Mercato: Chelsea remonté contre Monaco après l'annulation du transfert de Lamine Camara",
   "player": "Lamine Camara",
@@ -11,6 +24,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-remonte-contre-monaco-apres-l-annulation-du-transfert-de-lamine-camara_AV-202609020533.html",
   "fee": null,
   "published": "2026-09-02T11:39:41+00:00"
+ },
+ {
+  "id": "a54a3f526324",
+  "title": "Neun Neue, ein Kuriosum und Hahns Wechsel: Die Kapitäne der 3. Liga",
+  "player": "Neun Neue",
+  "title_ko": "9명의 신인, 호기심과 한의 변화: 3부리그 주장",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neun-neue-ein-kuriosum-und-hahns-wechsel-die-kapitaene-der-3-liga-1242045/slideshow#omrss",
+  "fee": null,
+  "published": "2026-09-02T11:38:52+00:00"
  },
  {
   "id": "ae1eca0cfce5",

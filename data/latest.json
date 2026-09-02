@@ -1,5 +1,18 @@
 [
  {
+  "id": "4392d02e3a29",
+  "title": "Sarr opens up after Juventus move from Tottenham: Pogba is the ‘role model’",
+  "player": "Pape Matar Sarr",
+  "title_ko": "유벤투스가 토트넘에서 이적한 후 사르가 열린다: 포그바는 ‘롤 모델’ 이다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sarr-juventus-interview-tottenham-pogba-model/",
+  "fee": null,
+  "published": "2026-09-02T11:59:23+00:00"
+ },
+ {
   "id": "bb87d3ae5227",
   "title": "Mercato: Chelsea remonté contre Monaco après l'annulation du transfert de Lamine Camara",
   "player": "Lamine Camara",
@@ -11,6 +24,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-remonte-contre-monaco-apres-l-annulation-du-transfert-de-lamine-camara_AV-202609020533.html",
   "fee": null,
   "published": "2026-09-02T11:39:41+00:00"
+ },
+ {
+  "id": "a54a3f526324",
+  "title": "Neun Neue, ein Kuriosum und Hahns Wechsel: Die Kapitäne der 3. Liga",
+  "player": "Neun Neue",
+  "title_ko": "9명의 신인, 호기심과 한의 변화: 3부리그 주장",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/neun-neue-ein-kuriosum-und-hahns-wechsel-die-kapitaene-der-3-liga-1242045/slideshow#omrss",
+  "fee": null,
+  "published": "2026-09-02T11:38:52+00:00"
  },
  {
   "id": "ae1eca0cfce5",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-mbangula-joins-bologna-werder-bremen/",
   "fee": "€14M",
   "published": "2026-09-01T16:49:50+00:00"
- },
- {
-  "id": "c00154c378a0",
-  "title": "Enzo Fernandez set for awkward Erling Haaland reunion after Chelsea transfer to Man City",
-  "player": "Enzo Fernandez",
-  "title_ko": "엔조 페르난데스는 첼시가 맨시티로 이적한 후 어색한 엘링 홀란드 재결합을 준비하고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/enzo-fernandez-man-city-haaland-37616293",
-  "fee": null,
-  "published": "2026-09-01T16:45:52+00:00"
- },
- {
-  "id": "4b5e24cdbbae",
-  "title": "El Málaga libera una ficha y cede a Arriaza al Estepona",
-  "player": "El Málaga",
-  "title_ko": "말라가는 칩을 출시하고 Arriaza를 Estepona로 이적했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/09/01/malaga-libera-ficha-cede-arriaza-estepona.html",
-  "fee": null,
-  "published": "2026-09-01T16:39:20+00:00"
  }
 ]
