@@ -1,5 +1,18 @@
 [
  {
+  "id": "02f167d1217b",
+  "title": "Richarlison agrees Tottenham exit with eye-watering deal to triple his salary",
+  "player": null,
+  "title_ko": "히찰리송은 연봉을 3배로 늘리는 놀라운 계약으로 토트넘을 떠나는 데 동의했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/richarlison-agrees-tottenham-exit-eye-37621182",
+  "fee": null,
+  "published": "2026-09-02T20:14:38+00:00"
+ },
+ {
   "id": "ec995f9c2f9f",
   "title": "Man Utd sign Bernal from Washington Spirit",
   "player": "Washington Spirit",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-venezia-sign-toni-fernandez-barcelona/",
   "fee": null,
   "published": "2026-09-01T19:12:39+00:00"
- },
- {
-  "id": "07c24e9eedf1",
-  "title": "Des mouvements, une balance positive et des postes doublés: le gros bilan mercato du Stade rennais",
-  "player": "Stade Rennais",
-  "title_ko": "움직임, 긍정적인 균형 및 두 배의 포지션: 스타드 렌의 큰 이적 창구",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/des-mouvements-une-balance-positive-et-des-postes-doubles-le-gros-bilan-mercato-du-stade-rennais_AV-202609010861.html",
-  "fee": null,
-  "published": "2026-09-01T19:11:36+00:00"
  }
 ]
