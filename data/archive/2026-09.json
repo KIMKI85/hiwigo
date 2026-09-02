@@ -1,5 +1,18 @@
 [
  {
+  "id": "216f995e365b",
+  "title": "Have Arsenal's rivals done enough in transfer window to challenge?",
+  "player": "Have Arsenal's",
+  "title_ko": "아스날의 라이벌들이 이적 시장에서 도전할 만큼 충분히 해냈나요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T06:12:02+00:00"
+ },
+ {
   "id": "57f2ed4f20f9",
   "title": "OL: un mercato dans les clous mais contrarié dans les dernières heures",
   "player": "Malick Fofana",
@@ -35,6 +48,19 @@
   "lv": 3,
   "src": "kicker Bundesliga (DE)",
   "url": "https://www.kicker.de/mit-grossen-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-02T04:29:36+00:00"
+ },
+ {
+  "id": "05c79412086e",
+  "title": "Mit großem Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
+  "player": "Matteo Bahoya",
+  "title_ko": "프랑크푸르트의 큰 승리: 바호야가 리즈 유나이티드로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/mit-grossem-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
   "fee": null,
   "published": "2026-09-02T04:29:36+00:00"
  },

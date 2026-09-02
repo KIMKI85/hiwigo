@@ -1,5 +1,18 @@
 [
  {
+  "id": "216f995e365b",
+  "title": "Have Arsenal's rivals done enough in transfer window to challenge?",
+  "player": "Have Arsenal's",
+  "title_ko": "아스날의 라이벌들이 이적 시장에서 도전할 만큼 충분히 해냈나요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T06:12:02+00:00"
+ },
+ {
   "id": "57f2ed4f20f9",
   "title": "OL: un mercato dans les clous mais contrarié dans les dernières heures",
   "player": "Malick Fofana",
@@ -24,6 +37,19 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/transfert-avorte-de-balogun-apres-avoir-annule-celui-de-camara-l-invraisemblable-fin-de-mercato-de-monaco_AV-202609020098.html",
   "fee": null,
   "published": "2026-09-02T04:35:58+00:00"
+ },
+ {
+  "id": "05c79412086e",
+  "title": "Mit großem Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
+  "player": "Matteo Bahoya",
+  "title_ko": "프랑크푸르트의 큰 승리: 바호야가 리즈 유나이티드로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/mit-grossem-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-02T04:29:36+00:00"
  },
  {
   "id": "a98acbe598c6",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
   "fee": "£51M",
   "published": "2026-09-01T14:01:47+00:00"
- },
- {
-  "id": "64e41be8a09b",
-  "title": "Brighton agree £15m deal for Millwall winger Azeez",
-  "player": "Femi Azeez",
-  "title_ko": "브라이튼, 밀월 윙어 Azeez에 대한 £ 15M 계약 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
-  "fee": "£15M",
-  "published": "2026-09-01T13:53:32+00:00"
- },
- {
-  "id": "642ae4b45dee",
-  "title": "Jesus joins Barcelona from Arsenal",
-  "player": "Gabriel Jesus",
-  "title_ko": "예수는 아스날에서 바르셀로나로 이적했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day",
-  "fee": null,
-  "published": "2026-09-01T13:45:00+00:00"
  }
 ]
