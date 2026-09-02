@@ -26,6 +26,19 @@
   "published": "2026-09-02T00:15:00+00:00"
  },
  {
+  "id": "585eb889d51f",
+  "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+  "player": "Folarin Balogun",
+  "title_ko": "마감일 늦게 Balogun 거래가 결렬된 후 Everton은 공격수 한 명만 남겨두고 떠났습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
+  "fee": null,
+  "published": "2026-09-01T23:46:05+00:00"
+ },
+ {
   "id": "8cd76c65cb59",
   "title": "Man City sign Fernandez in British-record-equalling deal",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T13:08:49+00:00"
- },
- {
-  "id": "3d1b53acbca0",
-  "title": "Pio Esposito to sign Inter extension as new salary revealed",
-  "player": "Pio Esposito",
-  "title_ko": "피오 에스포지토, 새 연봉 공개로 인테르 연장 계약",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/pio-esposito-inter-extension-new-salary-italy/",
-  "fee": null,
-  "published": "2026-09-01T13:06:19+00:00"
  }
 ]
