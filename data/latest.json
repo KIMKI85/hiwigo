@@ -1,5 +1,31 @@
 [
  {
+  "id": "ba4ed6f742cf",
+  "title": "OM: \"On n’a pas atteint les objectifs\", le président Stéphane Richard dresse un premier bilan après un mercato sans recrue",
+  "player": "Stéphane Richard",
+  "title_ko": "OM: “우리는 목표를 달성하지 못했습니다.” 스테판 리차드(Stéphane Richard) 회장은 신병 없이 이적 기간이 끝난 후 초기 평가를 작성합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-n-a-pas-atteint-les-objectifs-le-president-stephane-richard-dresse-un-premier-bilan-apres-un-mercato-sans-recrue_AV-202609020723.html",
+  "fee": null,
+  "published": "2026-09-02T16:52:24+00:00"
+ },
+ {
+  "id": "41d3192b3892",
+  "title": "Official: Napoli captain Di Lorenzo pens new long-term contract extension",
+  "player": "Di Lorenzo",
+  "title_ko": "공식: 나폴리의 주장 디 로렌조가 새로운 장기 계약 연장을 계획했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/di-lorenzo-new-long-term-napoli-contract/",
+  "fee": null,
+  "published": "2026-09-02T16:48:28+00:00"
+ },
+ {
   "id": "eec57e9e3691",
   "title": "Aasgaard set for Anderlecht switch as Rangers reject Raskin bid",
   "player": "Thelo Aasgaard",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-chambrage-de-lens-envers-l-om-dans-la-video-d-annonce-pour-todibo_AV-202609010814.html",
   "fee": null,
   "published": "2026-09-01T18:03:30+00:00"
- },
- {
-  "id": "d86acaa664bc",
-  "title": "Brughmans joins Liverpool in deal worth up to £30m",
-  "player": "Lucca Brughmans",
-  "title_ko": "Brughmans는 £ 30m 상당의 거래로 리버풀에 합류했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c86xp9epl83o?at_medium=RSS&at_campaign=rss",
-  "fee": "£30M",
-  "published": "2026-09-01T18:01:04+00:00"
- },
- {
-  "id": "638d6581ec18",
-  "title": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
-  "player": "Gabriel Jesus",
-  "title_ko": "Aston Villa는 Mbaye와 Harwood-Bellis를 영입하고 Newcastle은 Fernandez-Pardo를 얻습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
-  "fee": null,
-  "published": "2026-09-01T17:58:47+00:00"
  }
 ]
