@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a5ba20338d6",
+  "title": "Every Premier League club's transfer window graded as Man Utd, Liverpool and Arsenal shown up",
+  "player": null,
+  "title_ko": "맨유, 리버풀, 아스널로 등급이 매겨진 모든 프리미어리그 클럽의 이적 기간이 표시됩니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfer-window-graded-37617739",
+  "fee": null,
+  "published": "2026-09-02T12:12:59+00:00"
+ },
+ {
   "id": "4392d02e3a29",
   "title": "Sarr opens up after Juventus move from Tottenham: Pogba is the ‘role model’",
   "player": "Pape Matar Sarr",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/fiorentina-deal-for-gnonto-on-standby/",
   "fee": null,
   "published": "2026-09-01T16:57:20+00:00"
- },
- {
-  "id": "1e2b96152eae",
-  "title": "Official: Mbangula joins Bologna from Werder Bremen for total €14m agreement",
-  "player": "Samuel Mbangula",
-  "title_ko": "공식: Mbangula는 Werder Bremen에서 볼로냐에 합류하여 총 € 14m 계약을 맺었습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-mbangula-joins-bologna-werder-bremen/",
-  "fee": "€14M",
-  "published": "2026-09-01T16:49:50+00:00"
  }
 ]
