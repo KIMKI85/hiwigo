@@ -1,5 +1,18 @@
 [
  {
+  "id": "9e134549a94b",
+  "title": "Mercato: la grosse mise au point de Scuro sur les transferts avortés de Balogun et Camara",
+  "player": "Filipe Luis",
+  "title_ko": "Mercato: Balogun 및 Camara의 중단된 이적에 대한 Scuro의 대규모 업데이트",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-grosse-mise-au-point-de-scuro-sur-les-transferts-avortes-de-balogun-et-camara_AD-202609020629.html",
+  "fee": null,
+  "published": "2026-09-02T14:43:11+00:00"
+ },
+ {
   "id": "18b5dbbc510b",
   "title": "EA FC 27 Premier League top ratings confirmed after transfer window slams shut",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/betis/2026/09/01/betis-descarta-fichaje-pivote-centra-ceballos.html",
   "fee": null,
   "published": "2026-09-01T17:25:50+00:00"
- },
- {
-  "id": "025a1b90e84e",
-  "title": "Wunschspieler kommt: Doué wechselt unters Bayer-Kreuz",
-  "player": "Guela Doué",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/wunschspieler-kommt-doue-wechselt-unters-bayer-kreuz-1247985/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T17:24:11+00:00"
  }
 ]
