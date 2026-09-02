@@ -1,5 +1,18 @@
 [
  {
+  "id": "8b5472533e7d",
+  "title": "Premier League transfers rated and slated after record-breaking summer of spending",
+  "player": null,
+  "title_ko": "기록적인 여름 지출 이후 프리미어 리그 이적 평가 및 예정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-best-worst-37620493",
+  "fee": null,
+  "published": "2026-09-02T16:08:32+00:00"
+ },
+ {
   "id": "c3b1506ad6a7",
   "title": "Ricardo Rodriguez set for Torino return after collapsed deadline day move to West Ham",
   "player": "Ricardo Rodriguez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/09/01/sevilla-anuncia-acuerdo-lille-cesion-felix-correia.html",
   "fee": null,
   "published": "2026-09-01T17:47:50+00:00"
- },
- {
-  "id": "e9a7990312f3",
-  "title": "Official: Juventus sign Woltemade from Newcastle United in €2.8m deal",
-  "player": "Nick Woltemade",
-  "title_ko": "공식: 유벤투스는 뉴캐슬 유나이티드의 Woltemade를 280만 유로에 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-sign-woltemade-from-newcastle/",
-  "fee": "€2.8M",
-  "published": "2026-09-01T17:46:45+00:00"
  }
 ]
