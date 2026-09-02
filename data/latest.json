@@ -1,5 +1,18 @@
 [
  {
+  "id": "ec995f9c2f9f",
+  "title": "Man Utd sign Bernal from Washington Spirit",
+  "player": "Washington Spirit",
+  "title_ko": "맨유, 워싱턴 스피릿에서 베르날 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T19:47:24+00:00"
+ },
+ {
   "id": "61de9e5094d5",
   "title": "Atletico Madrid slammed for Julian Alvarez treatment after failed Arsenal move",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/des-mouvements-une-balance-positive-et-des-postes-doubles-le-gros-bilan-mercato-du-stade-rennais_AV-202609010861.html",
   "fee": null,
   "published": "2026-09-01T19:11:36+00:00"
- },
- {
-  "id": "dd29026198c2",
-  "title": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
-  "player": "Pedro Goncalves",
-  "title_ko": "공식: 피오렌티나는 스포팅과 리즈 유나이티드에서 페드로 곤칼베스와 곤토를 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
-  "fee": null,
-  "published": "2026-09-01T18:57:44+00:00"
  }
 ]
