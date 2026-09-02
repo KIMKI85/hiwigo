@@ -1,5 +1,18 @@
 [
  {
+  "id": "278a4ebbeb72",
+  "title": "OM: le mercato, Genesio, la DNCG... les réponses du président Stéphane Richard chez \"Rothen s'enflamme\"",
+  "player": "Stéphane Richard",
+  "title_ko": "OM: 이적 창구, Genesio, DNCG... \"Rothen is on fire\"에서 Stéphane Richard 회장의 답변",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-le-president-stephane-richard-invite-exceptionnel-de-rothen-s-enflamme_LN-202609020606.html",
+  "fee": null,
+  "published": "2026-09-02T17:11:10+00:00"
+ },
+ {
   "id": "ba4ed6f742cf",
   "title": "OM: \"On n’a pas atteint les objectifs\", le président Stéphane Richard dresse un premier bilan après un mercato sans recrue",
   "player": "Stéphane Richard",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
   "fee": "€13M",
   "published": "2026-09-01T18:16:10+00:00"
- },
- {
-  "id": "8218e14b7ca4",
-  "title": "Mercato: le chambrage de Lens envers l'OM dans la vidéo d'annonce pour Todibo",
-  "player": "Clair Todibo",
-  "title_ko": "Mercato: Todibo 발표 영상에서 Lens의 OM에 대한 거부감",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-chambrage-de-lens-envers-l-om-dans-la-video-d-annonce-pour-todibo_AV-202609010814.html",
-  "fee": null,
-  "published": "2026-09-01T18:03:30+00:00"
  }
 ]
