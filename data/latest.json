@@ -1,5 +1,18 @@
 [
  {
+  "id": "8d281bfd519f",
+  "title": "Matarazzo: \"Estoy contento con los fichajes de Fort y Sarr y el equipo que tengo\"",
+  "player": null,
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/real-sociedad/2026/09/02/matarazzo-contento-fichajes-fort-sarr-equipo.html",
+  "fee": null,
+  "published": "2026-09-02T12:46:33+00:00"
+ },
+ {
   "id": "60697f6d953b",
   "title": "5 Liverpool transfers can still happen this month as Euros winner linked with move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-09-01T17:00:00+00:00"
- },
- {
-  "id": "82e2651b46aa",
-  "title": "Man City agree £125m deal to sign Chelsea's Fernandez",
-  "player": "Chelsea's Fernandez",
-  "title_ko": "맨시티는 첼시의 페르난데스 영입을 위해 £125m 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
-  "fee": "£125M",
-  "published": "2026-09-01T16:58:00+00:00"
  }
 ]
