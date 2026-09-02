@@ -13,6 +13,19 @@
   "published": "2026-09-02T17:11:10+00:00"
  },
  {
+  "id": "812bcd977582",
+  "title": "Richarlison could still leave Tottenham as Trabzonspor weigh up bid for striker",
+  "player": "Roberto De Zerbi",
+  "title_ko": "Trabzonspor가 스트라이커에 대한 입찰을 고려함에 따라 Richarlison은 여전히 ​​​​토트넘을 떠날 수 있습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker",
+  "fee": null,
+  "published": "2026-09-02T17:11:00+00:00"
+ },
+ {
   "id": "ba4ed6f742cf",
   "title": "OM: \"On n’a pas atteint les objectifs\", le président Stéphane Richard dresse un premier bilan après un mercato sans recrue",
   "player": "Stéphane Richard",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-fury-fofana-failure-lyon-e12m-besiktas/",
   "fee": "€12M",
   "published": "2026-09-01T18:22:32+00:00"
- },
- {
-  "id": "8a7085b41e6d",
-  "title": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
-  "player": "Albert Gudmundsson",
-  "title_ko": "공식: Lazio, Fiorentina의 Gudmundsson과 € 1,300만 패키지 계약 체결",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
-  "fee": "€13M",
-  "published": "2026-09-01T18:16:10+00:00"
  }
 ]
