@@ -1,5 +1,18 @@
 [
  {
+  "id": "a105681836b3",
+  "title": "Liverpool considered 8 wingers in summer transfer window before landing Bradley Barcola",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀은 브래들리 바르콜라를 영입하기 전 여름 이적시장에서 윙어 8명을 고려했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-bradley-barcola-gordon-37621324",
+  "fee": null,
+  "published": "2026-09-02T20:54:28+00:00"
+ },
+ {
   "id": "02f167d1217b",
   "title": "Richarlison agrees Tottenham exit with eye-watering deal to triple his salary",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-done-deals-deadline-37613560",
   "fee": null,
   "published": "2026-09-01T19:12:40+00:00"
- },
- {
-  "id": "fb4cdb7802ec",
-  "title": "Official: Venezia sign Toni Fernandez, 18-year-old Barcelona talent",
-  "player": "Toni Fernandez",
-  "title_ko": "공식: 베네치아는 바르셀로나의 18세 유망주 토니 페르난데스를 영입했습니다.",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-venezia-sign-toni-fernandez-barcelona/",
-  "fee": null,
-  "published": "2026-09-01T19:12:39+00:00"
  }
 ]
