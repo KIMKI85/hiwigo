@@ -1,5 +1,31 @@
 [
  {
+  "id": "e5d0545ecd16",
+  "title": "Robinho Jr: Why new Genoa signing is eligible to play for Italy",
+  "player": "Robinho Jr",
+  "title_ko": "호비뉴 주니어: 새로운 제노아 영입이 이탈리아 국가대표로 뛸 수 있는 이유",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/robinho-jr-why-genoa-signing-eligible-italy/",
+  "fee": null,
+  "published": "2026-09-02T09:55:59+00:00"
+ },
+ {
+  "id": "d78a79609c46",
+  "title": "Arsenal, Man Utd and Liverpool facing new deadline after late summer transfers completed",
+  "player": null,
+  "title_ko": "아스날, 맨유, 리버풀은 늦은 여름 이적시장 완료 후 새로운 마감일을 앞두고 있다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-man-united-liverpool-deadline-37618092",
+  "fee": null,
+  "published": "2026-09-02T09:42:53+00:00"
+ },
+ {
   "id": "d9e654b0a994",
   "title": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-eberechi-eze-chelsea-title-37615281",
   "fee": null,
   "published": "2026-09-01T16:00:00+00:00"
- },
- {
-  "id": "6a844127b1ba",
-  "title": "Man City agree £125m fee for Chelsea's Fernandez",
-  "player": "Chelsea's Fernandez",
-  "title_ko": "맨시티는 첼시의 페르난데스에게 £125m의 이적료에 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
-  "fee": "£125M",
-  "published": "2026-09-01T15:55:10+00:00"
- },
- {
-  "id": "e2c0da29a1b6",
-  "title": "Juventus surrender Tagliafico, as Cabal move to Atalanta collapsed",
-  "player": "Nicolas Tagliafico",
-  "title_ko": "유벤투스는 탈리아피코를 항복시켰고, 카발의 아탈란타 이적은 무산됐다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-surrender-tagliafico-cabal-atalanta/",
-  "fee": null,
-  "published": "2026-09-01T15:52:58+00:00"
  }
 ]
