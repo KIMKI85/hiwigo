@@ -1,5 +1,44 @@
 [
  {
+  "id": "64d99a59aa21",
+  "title": "All 20 Premier League club's biggest problems despite record-breaking transfer window",
+  "player": null,
+  "title_ko": "기록적인 이적 기간에도 불구하고 프리미어 리그 20개 클럽의 가장 큰 문제",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/20-premier-league-clubs-biggest-37616704",
+  "fee": null,
+  "published": "2026-09-02T07:56:24+00:00"
+ },
+ {
+  "id": "5b7418f22ef9",
+  "title": "Enzo Fernandez mega deal shows Man City will keep on spending - but Blues remain vulnerable",
+  "player": "Enzo Fernandez",
+  "title_ko": "Enzo Fernandez의 대규모 거래는 Man City가 계속 지출할 것이라는 것을 보여 주지만 Blues는 여전히 취약합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-transfer-window-fernandez-37617381",
+  "fee": null,
+  "published": "2026-09-02T07:48:09+00:00"
+ },
+ {
+  "id": "7135d5f2affa",
+  "title": "Enzo Fernandez completes record Man City transfer continuing Premier League trend",
+  "player": "Enzo Fernandez",
+  "title_ko": "엔조 페르난데스, 프리미어리그 추세를 이어가는 기록적인 맨시티 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-transfer-37616497",
+  "fee": null,
+  "published": "2026-09-02T07:38:10+00:00"
+ },
+ {
   "id": "3af7930d2100",
   "title": "DIRECT. Mercato: un joker est attendu à Lyon ce mercredi, suivez en live toutes les informations",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/official-juventus-sign-sarr-from-tottenham/",
   "fee": "€30M",
   "published": "2026-09-01T14:39:27+00:00"
- },
- {
-  "id": "be279d46c43c",
-  "title": "Mercato: l'OL met la main sur Youssouf Fofana",
-  "player": "Youssouf Fofana",
-  "title_ko": "Mercato: l 'ol met la main sur Youssouf Fofana",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-met-la-main-sur-youssouf-fofana_AV-202609010625.html",
-  "fee": null,
-  "published": "2026-09-01T14:23:39+00:00"
- },
- {
-  "id": "07681625bb35",
-  "title": "Done Deal: Fofana ready for Olympique Lyonnais, loan with total €14m option from Milan",
-  "player": "Olympique Lyonnais",
-  "title_ko": "거래 완료: 포파나는 올림피크 리옹으로 이적할 준비가 되어 있고, 밀란에서 총 €14m 옵션으로 임대를 떠났습니다.",
-  "league": "LIGUE1",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-fofana-olympique-lyonnais-loan-milan/",
-  "fee": "€14M",
-  "published": "2026-09-01T14:23:00+00:00"
- },
- {
-  "id": "fe4a30a20b63",
-  "title": "Eine Etage höher: Alemannia-Eigengewächs Ademi wechselt nach Fürth",
-  "player": "Eine Etage",
-  "title_ko": "한 층 위: Alemannia의 Ademi가 Fürth로 이전합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/eine-etage-hoeher-alemannia-eigengewaechs-ademi-wechselt-nach-fuerth-1248473/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T14:20:16+00:00"
  }
 ]

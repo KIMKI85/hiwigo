@@ -1,5 +1,44 @@
 [
  {
+  "id": "64d99a59aa21",
+  "title": "All 20 Premier League club's biggest problems despite record-breaking transfer window",
+  "player": null,
+  "title_ko": "기록적인 이적 기간에도 불구하고 프리미어 리그 20개 클럽의 가장 큰 문제",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/20-premier-league-clubs-biggest-37616704",
+  "fee": null,
+  "published": "2026-09-02T07:56:24+00:00"
+ },
+ {
+  "id": "5b7418f22ef9",
+  "title": "Enzo Fernandez mega deal shows Man City will keep on spending - but Blues remain vulnerable",
+  "player": "Enzo Fernandez",
+  "title_ko": "Enzo Fernandez의 대규모 거래는 Man City가 계속 지출할 것이라는 것을 보여 주지만 Blues는 여전히 취약합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-transfer-window-fernandez-37617381",
+  "fee": null,
+  "published": "2026-09-02T07:48:09+00:00"
+ },
+ {
+  "id": "7135d5f2affa",
+  "title": "Enzo Fernandez completes record Man City transfer continuing Premier League trend",
+  "player": "Enzo Fernandez",
+  "title_ko": "엔조 페르난데스, 프리미어리그 추세를 이어가는 기록적인 맨시티 이적 완료",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-transfer-37616497",
+  "fee": null,
+  "published": "2026-09-02T07:38:10+00:00"
+ },
+ {
   "id": "3af7930d2100",
   "title": "DIRECT. Mercato: un joker est attendu à Lyon ce mercredi, suivez en live toutes les informations",
   "player": null,
