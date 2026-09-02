@@ -1,5 +1,18 @@
 [
  {
+  "id": "60697f6d953b",
+  "title": "5 Liverpool transfers can still happen this month as Euros winner linked with move",
+  "player": null,
+  "title_ko": "5 리버풀 이적은 이번 달에도 이적과 연계된 유로 승자로 진행될 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-deadline-chiesa-37618997",
+  "fee": null,
+  "published": "2026-09-02T12:40:49+00:00"
+ },
+ {
   "id": "4a5ba20338d6",
   "title": "Every Premier League club's transfer window graded as Man Utd, Liverpool and Arsenal shown up",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
   "fee": "£125M",
   "published": "2026-09-01T16:58:00+00:00"
- },
- {
-  "id": "7b924c94b150",
-  "title": "Fiorentina deal for Gnonto on standby as Leeds seek last-minute replacement",
-  "player": "Wilfried Gnonto",
-  "title_ko": "리즈가 막판 교체를 모색함에 따라 대기 중인 곤토의 피오렌티나 계약",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fiorentina-deal-for-gnonto-on-standby/",
-  "fee": null,
-  "published": "2026-09-01T16:57:20+00:00"
  }
 ]
