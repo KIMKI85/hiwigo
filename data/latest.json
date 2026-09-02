@@ -13,6 +13,19 @@
   "published": "2026-09-02T18:30:00+00:00"
  },
  {
+  "id": "802bc2a4db81",
+  "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
+  "player": "Thiago Scuro",
+  "title_ko": "Balogun은 Everton에서 자신의 의료 처리를 맡겼다고 Monaco는 주장했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
+  "fee": null,
+  "published": "2026-09-02T17:46:40+00:00"
+ },
+ {
   "id": "278a4ebbeb72",
   "title": "OM: le mercato, Genesio, la DNCG... les réponses du président Stéphane Richard chez \"Rothen s'enflamme\"",
   "player": "Stéphane Richard",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-09-01T18:41:00+00:00"
- },
- {
-  "id": "708c91ec7a13",
-  "title": "Raskin 'as good as gold' amid Rangers transfer wait - McInnes",
-  "player": "Nicolas Raskin",
-  "title_ko": "레인저스 이적 대기 중 Raskin은 '금만큼 좋다'-McInnes",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yzgwp2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T18:29:04+00:00"
  }
 ]
