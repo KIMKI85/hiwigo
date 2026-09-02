@@ -1,5 +1,44 @@
 [
  {
+  "id": "3bd59bbde352",
+  "title": "Le drama de la fin de mercato en Espagne: en larmes avec sa mère, Pablo Garcia forcé de quitter le Real Betis après le transfert de Dani Ceballos",
+  "player": "Pablo Garcia",
+  "title_ko": "스페인 이적 기간 종료의 드라마: 어머니와 눈물을 흘리는 파블로 가르시아는 다니 세바요스 이적 후 레알 베티스를 떠나야 했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/le-drama-de-la-fin-de-mercato-en-espagne-en-larmes-avec-sa-mere-pablo-garcia-force-de-quitter-le-real-betis-apres-le-transfert-de-dani-ceballos_AV-202609020387.html",
+  "fee": null,
+  "published": "2026-09-02T08:50:09+00:00"
+ },
+ {
+  "id": "25f41cc0b1ef",
+  "title": "Full confirmed list of Liverpool ins and outs as five join and six leave after deadline day",
+  "player": "Bradley Barcola",
+  "title_ko": "마감일 이후 5명이 합류하고 6명이 떠날 때 리버풀의 인 앤 아웃 전체 확정 목록",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-deadline-barcola-37617402",
+  "fee": null,
+  "published": "2026-09-02T08:50:04+00:00"
+ },
+ {
+  "id": "366269fb3227",
+  "title": "Les plus gros transferts de l'été 2026, Barcola transfert record d'un Français",
+  "player": null,
+  "title_ko": "2026년 여름 최대 이적, 바르콜라의 프랑스인 이적 기록",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/video-les-plus-gros-transferts-de-l-ete-2026-barcola-transfert-record-d-un-francais_VN-202609020385.html",
+  "fee": null,
+  "published": "2026-09-02T08:44:22+00:00"
+ },
+ {
   "id": "64d99a59aa21",
   "title": "All 20 Premier League club's biggest problems despite record-breaking transfer window",
   "player": null,
