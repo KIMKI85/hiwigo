@@ -1,5 +1,18 @@
 [
  {
+  "id": "6f0f24d7dba4",
+  "title": "Kessié’s agent blames Juventus for collapsed summer transfer",
+  "player": "George Atangana",
+  "title_ko": "케시에의 에이전트는 여름 이적 실패에 대해 유벤투스를 비난했다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/kessie-blames-juventus-summer-transfer-off/",
+  "fee": null,
+  "published": "2026-09-02T10:15:46+00:00"
+ },
+ {
   "id": "02adffe40e06",
   "title": "Woltemade move underlines summer of change at Newcastle",
   "player": "Nick Woltemade",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-oficial-cesion-harvey-elliott-final-temporada.html",
   "fee": null,
   "published": "2026-09-01T16:05:42+00:00"
- },
- {
-  "id": "265b67898d99",
-  "title": "Fofana tug-of-war! Sunderland and Palace agree deals but where will he end up?",
-  "player": "Malick Fofana",
-  "title_ko": "포파나 줄다리기! 선더랜드와 팰리스는 계약에 동의했지만 결국 그는 어디로 갈 것인가?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
-  "fee": null,
-  "published": "2026-09-01T16:00:00+00:00"
  }
 ]
