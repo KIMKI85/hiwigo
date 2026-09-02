@@ -1,5 +1,44 @@
 [
  {
+  "id": "d9e654b0a994",
+  "title": "Feared in attack, light at the back - why Liverpool's transfer window leaves questions",
+  "player": null,
+  "title_ko": "공격에 대한 두려움, 후방의 빛 - 리버풀의 이적 시장이 의문을 남기는 이유",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-02T09:10:32+00:00"
+ },
+ {
+  "id": "95f6fb1c1f82",
+  "title": "Full list of Man Utd ins and outs as 7 join and 24 leave after deadline day",
+  "player": null,
+  "title_ko": "마감일 이후 7명이 합류하고 24명이 떠나는 맨유의 인과아웃 전체 목록",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-all-transfers-confirmed-37617297",
+  "fee": null,
+  "published": "2026-09-02T08:59:36+00:00"
+ },
+ {
+  "id": "2faa89c5d8ac",
+  "title": "Deutsches Trio komplett: Auch Kehrer wechselt zu Ajax",
+  "player": "Deutsches Trio",
+  "title_ko": "독일 트리오 완성: 케러도 아약스로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/deutsches-trio-komplett-auch-kehrer-wechselt-zu-ajax-1248907/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-02T08:59:31+00:00"
+ },
+ {
   "id": "3bd59bbde352",
   "title": "Le drama de la fin de mercato en Espagne: en larmes avec sa mère, Pablo Garcia forcé de quitter le Real Betis après le transfert de Dani Ceballos",
   "player": "Pablo Garcia",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/juventus-surrender-tagliafico-cabal-atalanta/",
   "fee": null,
   "published": "2026-09-01T15:52:58+00:00"
- },
- {
-  "id": "d95769769b58",
-  "title": "Beim HSV zuletzt außen vor: Sahiti wechselt fest zu Hannover 96",
-  "player": null,
-  "title_ko": "최근 HSV에서 탈락: 사히티는 하노버 96으로 영구적으로 이적합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/beim-hsv-zuletzt-aussen-vor-sahiti-wechselt-fest-zu-hannover-96-1248674/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T15:48:07+00:00"
- },
- {
-  "id": "9c88e56f0773",
-  "title": "Official: Sassuolo buy Caleta-Car, loan Sulemana with €7m option",
-  "player": "Duje Caleta-",
-  "title_ko": "공식: Sassuolo가 Caleta-Car를 인수하고 Sulemana를 €7m 옵션으로 임대",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-sassuolo-buy-caleta-car-loan-sulemana/",
-  "fee": "€7M",
-  "published": "2026-09-01T15:14:08+00:00"
- },
- {
-  "id": "ea18fc6c9eb4",
-  "title": "El Valencia libera la ficha de Diego López y gana margen para intentar reforzarse en el cierre del mercado",
-  "player": "Diego López",
-  "title_ko": "발렌시아는 디에고 로페스의 영입을 발표하고 시장이 끝날 때 자신을 강화하기 위해 마진을 얻습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/09/01/valencia-libera-ficha-diego-lopez-gana-margen-intentar-reforzarse-cierre-mercado.html",
-  "fee": null,
-  "published": "2026-09-01T15:07:13+00:00"
  }
 ]
