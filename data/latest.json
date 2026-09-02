@@ -1,5 +1,18 @@
 [
  {
+  "id": "748d23d04b08",
+  "title": "Milan called Scalvini on deadline day, but ‘only’ one Amorim target not signed",
+  "player": "Giorgio Scalvini",
+  "title_ko": "밀란은 마감일에 스칼비니에게 전화했지만 '오직' 아모림 타깃 한 명만 계약하지 않았다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-called-scalvini-deadline-day-amorim/",
+  "fee": null,
+  "published": "2026-09-02T11:21:45+00:00"
+ },
+ {
   "id": "2fce88886a68",
   "title": "Everton's amateurish transfer window was a SHAMBLES - it's no wonder Balogun did a runner",
   "player": "Folarin Balogun",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T16:23:52+00:00"
- },
- {
-  "id": "e285eb5de5a8",
-  "title": "Celtic sign Parma's Sorensen, with more to come before deadline",
-  "player": "Parma's Sorensen",
-  "title_ko": "마감일 전에 더 많은 켈트족이 파르마의 소렌센에 서명합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T16:15:49+00:00"
  }
 ]
