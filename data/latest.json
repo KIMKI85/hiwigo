@@ -13,6 +13,19 @@
   "published": "2026-09-02T18:30:00+00:00"
  },
  {
+  "id": "d19a37202b65",
+  "title": "Man Utd had 'very big' offer rejected in final hours of summer transfer window",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드는 여름 이적 기간의 마지막 시간에 '매우 큰' 오퍼가 거부되었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-louis-page-transfer-37620936",
+  "fee": null,
+  "published": "2026-09-02T18:14:48+00:00"
+ },
+ {
   "id": "802bc2a4db81",
   "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
   "player": "Thiago Scuro",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/linksfuss-fuer-die-innenverteidigung-ksc-verpflichtet-brasilianer-heliton-1248846/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T18:42:32+00:00"
- },
- {
-  "id": "e3883795387d",
-  "title": "Newcastle latest: Juventus sign Woltemade on loan",
-  "player": null,
-  "title_ko": "뉴캐슬 최신: 유벤투스가 월테메이드를 임대로 영입했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-01T18:41:00+00:00"
  }
 ]
