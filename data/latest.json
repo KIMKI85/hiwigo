@@ -1,5 +1,18 @@
 [
  {
+  "id": "abe6bb785caf",
+  "title": "Man Utd loan out Chido Obi as youngster risks following concerning Old Trafford pattern",
+  "player": "Chido Obi",
+  "title_ko": "맨유는 올드 트래포드 패턴에 따른 위험을 감수하면서 치도 오비를 어린 선수로 임대했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chido-obi-loan-37622159",
+  "fee": null,
+  "published": "2026-09-03T10:01:18+00:00"
+ },
+ {
   "id": "24ec604415af",
   "title": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
   "player": "Élisa De Almeida",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T20:17:17+00:00"
- },
- {
-  "id": "a3cae9a7d936",
-  "title": "Top 10 most expensive Serie A signings of 2026 summer transfer window",
-  "player": "Goncalo Ramos",
-  "title_ko": "2026년 여름 이적 시장에서 가장 비싼 세리에 A 영입 TOP 10",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/top-10-most-expensive-serie-a-signings-2026/",
-  "fee": null,
-  "published": "2026-09-01T20:15:00+00:00"
  }
 ]
