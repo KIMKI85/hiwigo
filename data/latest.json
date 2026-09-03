@@ -1,5 +1,18 @@
 [
  {
+  "id": "2c4d87eaffad",
+  "title": "La intrahistoria del fichaje de Fofana",
+  "player": "Carlos Álvarez",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/03/intrahistoria-fichaje-fofana.html",
+  "fee": null,
+  "published": "2026-09-03T13:07:55+00:00"
+ },
+ {
   "id": "73dba071cf30",
   "title": "Ligue 1: grosse tuile pour le RC Lens, la recrue Nawrocki victime d'une rupture du ligament croisé",
   "player": "Maik Nawrocki",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-everton-37616888",
   "fee": null,
   "published": "2026-09-01T21:27:04+00:00"
- },
- {
-  "id": "c37a529b5a17",
-  "title": "‘A great feeling’: Mykhailo Mudryk seals loan move from Chelsea to Tottenham",
-  "player": "Mykhailo Mudryk",
-  "title_ko": "‘좋은 느낌’: Mykhailo Mudryk 씰 대출이 첼시에서 토트넘으로 이동합니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykhailo-mudryk-seals-loan-move-from-chelsea-to-tottenham",
-  "fee": null,
-  "published": "2026-09-01T21:24:04+00:00"
  }
 ]
