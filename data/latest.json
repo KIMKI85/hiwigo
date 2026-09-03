@@ -1,5 +1,31 @@
 [
  {
+  "id": "df48ccdacdb3",
+  "title": "Sarr needs time to process collapse of Liverpool move",
+  "player": "Ismaila Sarr",
+  "title_ko": "사르는 리버풀 이적 무산을 처리하는 데 시간이 필요하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-03T15:05:22+00:00"
+ },
+ {
+  "id": "051cd1f6be00",
+  "title": "Keine Angst vor Bayern: Schalke zwischen Transfer-Wahnsinn und hohen Zielen",
+  "player": "Keine Angst",
+  "title_ko": "바이에른을 두려워하지 마세요: 이적 광기와 높은 목표 사이의 샬케",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/keine-angst-vor-bayern-schalke-zwischen-transfer-wahnsinn-und-hohen-zielen-1249477/video#omrss",
+  "fee": null,
+  "published": "2026-09-03T14:43:31+00:00"
+ },
+ {
   "id": "aec09e44a2f0",
   "title": "Arsenal deal for Bruno Guimaraes rated one out of 10 in brutal transfer ranking",
   "player": "Bruno Guimaraes",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arabie-saoudite-turquie-ces-marches-ou-les-clubs-francais-peuvent-encore-vendre-des-joueurs_AV-202609010940.html",
   "fee": null,
   "published": "2026-09-01T22:04:27+00:00"
- },
- {
-  "id": "7b051ae71195",
-  "title": "Liverpool tried to sign Gusto - Wednesday's gossip",
-  "player": "Malo Gusto",
-  "title_ko": "리버풀은 구스토 영입을 시도했다 - 수요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9qr4vw9eqgo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T22:03:03+00:00"
- },
- {
-  "id": "85c9c355ff09",
-  "title": "Enzo Fernandez reveals Chelsea truth in emotional statement on Man City transfer",
-  "player": "Enzo Fernandez",
-  "title_ko": "엔조 페르난데스는 맨시티 이적에 대한 감정적 성명에서 첼시의 진실을 밝혔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/enzo-fernandez-man-city-chelsea-37616973",
-  "fee": null,
-  "published": "2026-09-01T21:55:18+00:00"
  }
 ]
