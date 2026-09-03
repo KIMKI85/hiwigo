@@ -1,5 +1,18 @@
 [
  {
+  "id": "905e1709593b",
+  "title": "All completed Serie A deals after the summer transfer deadline",
+  "player": null,
+  "title_ko": "여름 이적 마감일 이후 완료된 모든 세리에 A 거래",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/all-serie-a-deals-after-2026-summer-deadline/",
+  "fee": null,
+  "published": "2026-09-03T18:57:04+00:00"
+ },
+ {
   "id": "08ffa98883a0",
   "title": "Hutchinson names three Milan idols and reveals what Amorim told him before signing",
   "player": "Omari Hutchinson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13580106/malick-fofana-sunderland-finally-complete-signing-of-lyon-winger-after-deadline-day-drama-with-crystal-palace",
   "fee": null,
   "published": "2026-09-02T00:15:00+00:00"
- },
- {
-  "id": "585eb889d51f",
-  "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
-  "player": "Folarin Balogun",
-  "title_ko": "마감일 늦게 Balogun 거래가 결렬된 후 Everton은 공격수 한 명만 남겨두고 떠났습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
-  "fee": null,
-  "published": "2026-09-01T23:46:05+00:00"
  }
 ]
