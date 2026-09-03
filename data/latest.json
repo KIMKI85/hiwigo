@@ -1,5 +1,18 @@
 [
  {
+  "id": "2dbd2e1e54e4",
+  "title": "Papers: Everton eye shock Vardy move to solve striker problem",
+  "player": null,
+  "title_ko": "논문: Everton의 눈 충격 Vardy가 공격수 문제를 해결하기 위해 움직임",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13581025/everton-transfer-news-toffees-eye-shock-move-for-free-agent-jamie-vardy-after-folarin-balogun-deal-falls-through-paper-talk",
+  "fee": null,
+  "published": "2026-09-03T22:30:00+00:00"
+ },
+ {
   "id": "84f923cea0eb",
   "title": "Ligue 1: la nouvelle recrue Ueda délivre Lille face Toulouse pour lancer la troisième journée",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/transfert-avorte-de-balogun-apres-avoir-annule-celui-de-camara-l-invraisemblable-fin-de-mercato-de-monaco_AV-202609020098.html",
   "fee": null,
   "published": "2026-09-02T04:35:58+00:00"
- },
- {
-  "id": "05c79412086e",
-  "title": "Mit großem Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
-  "player": "Matteo Bahoya",
-  "title_ko": "프랑크푸르트의 큰 승리: 바호야가 리즈 유나이티드로 이적",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/mit-grossem-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-02T04:29:36+00:00"
  }
 ]
