@@ -1,5 +1,18 @@
 [
  {
+  "id": "f81109a5d1c4",
+  "title": "Deal done for Kelsy to join Rangers - gossip",
+  "player": null,
+  "title_ko": "Kelsy가 레인저스에 합류하기 위한 거래 완료 - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c3d78dkepngo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-03T07:04:54+00:00"
+ },
+ {
   "id": "f50bfa73d897",
   "title": "Ranking the most game-changing transfers in Premier League history",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yww04ro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T19:50:05+00:00"
- },
- {
-  "id": "90eaddb6c525",
-  "title": "Official: Dia joins Rennes from Lazio, but formula changes for €11m deal",
-  "player": "Boulaye Dia",
-  "title_ko": "공식: 디아는 라치오에서 렌으로 합류했지만 €11m 거래에 대한 공식이 변경되었습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-dia-joins-rennes-lazio-formula-change/",
-  "fee": "€11M",
-  "published": "2026-09-01T19:41:50+00:00"
  }
 ]
