@@ -1,5 +1,31 @@
 [
  {
+  "id": "0ca1ee5d3aa7",
+  "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라는 이적 전략을 옹호하고 리버풀이 옵션을 거절했다고 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
+  "fee": null,
+  "published": "2026-09-03T12:07:34+00:00"
+ },
+ {
+  "id": "fdd8a139a020",
+  "title": "Loan stars: Premier League youngsters to watch in the EFL",
+  "player": "From Maynor Figueroa",
+  "title_ko": "임대 스타: EFL에서 지켜봐야 할 프리미어리그 유소년들",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
+  "fee": null,
+  "published": "2026-09-03T12:00:27+00:00"
+ },
+ {
   "id": "e9f902ec27ea",
   "title": "Lucumi reveals Cuadrado advice on Juventus move: ‘He told me I had to come here’",
   "player": "Jhon Lucumi",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-man-city-deadline-37616855",
   "fee": null,
   "published": "2026-09-01T21:07:29+00:00"
- },
- {
-  "id": "091298c83d94",
-  "title": "Man City confirm £65m Ndiaye signing",
-  "player": "Iliman Ndiaye",
-  "title_ko": "맨시티는 6500만 파운드에 은디아예 영입을 확정했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579669/iliman-ndiaye-transfer-news-man-city-complete-65m-deal-for-everton-winger-as-cody-gakpo-alternative",
-  "fee": "£65M",
-  "published": "2026-09-01T21:00:00+00:00"
- },
- {
-  "id": "d7cf88fa0853",
-  "title": "Von Wirtz bis Kane: Die fünf teuersten Transfers der Bundesliga",
-  "player": "Von Wirtz",
-  "title_ko": "비르츠에서 케인까지: 분데스리가에서 가장 비싼 이적 5개",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/von-wirtz-bis-kane-die-fuenf-teuersten-transfers-der-bundesliga-1248884/video#omrss",
-  "fee": null,
-  "published": "2026-09-01T20:49:33+00:00"
  }
 ]

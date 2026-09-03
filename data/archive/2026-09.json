@@ -1,5 +1,31 @@
 [
  {
+  "id": "0ca1ee5d3aa7",
+  "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
+  "player": "Andoni Iraola",
+  "title_ko": "안도니 이라올라는 이적 전략을 옹호하고 리버풀이 옵션을 거절했다고 밝혔습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
+  "fee": null,
+  "published": "2026-09-03T12:07:34+00:00"
+ },
+ {
+  "id": "fdd8a139a020",
+  "title": "Loan stars: Premier League youngsters to watch in the EFL",
+  "player": "From Maynor Figueroa",
+  "title_ko": "임대 스타: EFL에서 지켜봐야 할 프리미어리그 유소년들",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
+  "fee": null,
+  "published": "2026-09-03T12:00:27+00:00"
+ },
+ {
   "id": "e9f902ec27ea",
   "title": "Lucumi reveals Cuadrado advice on Juventus move: ‘He told me I had to come here’",
   "player": "Jhon Lucumi",
