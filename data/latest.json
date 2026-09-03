@@ -1,5 +1,18 @@
 [
  {
+  "id": "10f6196e71db",
+  "title": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
+  "player": null,
+  "title_ko": "Azeez에서 Andrés까지: 똑똑해 보이는 프리미어 리그 마감일 특가 상품 7가지",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
+  "fee": null,
+  "published": "2026-09-03T09:00:49+00:00"
+ },
+ {
   "id": "7deafbc44aec",
   "title": "Chelsea plot move for another ex-Liverpool star despite transfer window closing",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
   "fee": null,
   "published": "2026-09-01T19:57:30+00:00"
- },
- {
-  "id": "d1e4495bbf38",
-  "title": "Sunderland sign Spurs defender Danso on loan",
-  "player": "Kevin Danso",
-  "title_ko": "선덜랜드, 스퍼스 수비수 단소 임대 계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T19:50:58+00:00"
  }
 ]
