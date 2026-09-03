@@ -1,5 +1,18 @@
 [
  {
+  "id": "6e0f7842267a",
+  "title": "Transfer news LIVE: Late Arsenal deal completed, Jadon Sancho bombshell, Man Utd's £150m plan",
+  "player": "Jadon Sancho",
+  "title_ko": "이적 뉴스 라이브: 아스날 후반 계약 완료, Jadon Sancho 폭탄, Man Utd의 £150m 계획",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-arsenal-liverpool-37621750",
+  "fee": "£150M",
+  "published": "2026-09-03T05:37:16+00:00"
+ },
+ {
   "id": "a80b47035c71",
   "title": "\"Le PSG ne s'est pas forcément renforcé\", Kevin Diaz un peu sceptique sur le mercato parisien",
   "player": "Kevin Diaz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/leihe-mit-kaufpflicht-danso-wechselt-innerhalb-der-premier-league-1248766/artikel#omrss",
   "fee": null,
   "published": "2026-09-01T19:30:01+00:00"
- },
- {
-  "id": "7b3419b09418",
-  "title": "Official: El Aynaoui joins RB Leipzig on loan with option to buy from Roma",
-  "player": "El Aynaoui",
-  "title_ko": "공식: 엘 아이나우이는 로마에서 구매할 수 있는 옵션과 함께 임대로 RB 라이프치히에 합류했습니다.",
-  "league": "BUND",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-el-aynaoui-joins-rb-leipzig-roma/",
-  "fee": null,
-  "published": "2026-09-01T19:29:43+00:00"
  }
 ]
