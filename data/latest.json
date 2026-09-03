@@ -1,5 +1,31 @@
 [
  {
+  "id": "a80b47035c71",
+  "title": "\"Le PSG ne s'est pas forcément renforcé\", Kevin Diaz un peu sceptique sur le mercato parisien",
+  "player": "Kevin Diaz",
+  "title_ko": "“PSG는 반드시 강해진 것은 아니다”, 케빈 디아즈, 파리 이적시장에 대해 다소 회의적",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/le-psg-ne-s-est-pas-forcement-renforce-kevin-diaz-un-peu-sceptique-sur-le-mercato-parisien_AV-202609030137.html",
+  "fee": null,
+  "published": "2026-09-03T05:04:03+00:00"
+ },
+ {
+  "id": "a6dc81725c14",
+  "title": "Harvey Elliott says Liverpool teammate helped influence his Valencia loan move",
+  "player": "Harvey Elliott",
+  "title_ko": "하비 엘리엇은 리버풀 동료가 발렌시아 임대 이적에 영향을 미쳤다고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-valencia-harvey-elliott-37621433",
+  "fee": null,
+  "published": "2026-09-03T05:00:00+00:00"
+ },
+ {
   "id": "145c3e1ef5c8",
   "title": "Liverpool news: Huge Minteh transfer hint dropped with new man 'waiting' to move",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-el-aynaoui-joins-rb-leipzig-roma/",
   "fee": null,
   "published": "2026-09-01T19:29:43+00:00"
- },
- {
-  "id": "80cc89702892",
-  "title": "Neues Kapitel in der SüperLig: Moukoko wechselt zu Aufsteiger Corum",
-  "player": "Neues Kapitel",
-  "title_ko": "SüperLig의 새로운 장: Moukoko가 새롭게 승격된 Corum으로 이전",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/neues-kapitel-in-der-sueperlig-moukoko-wechselt-zu-aufsteiger-corum-1248691/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T19:25:28+00:00"
- },
- {
-  "id": "429480d63835",
-  "title": "Man Utd fail in bid to sign Leicester midfielder Page",
-  "player": "Louis Page",
-  "title_ko": "맨유는 레스터 미드필더 페이지 영입에 실패했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T19:23:09+00:00"
  }
 ]
