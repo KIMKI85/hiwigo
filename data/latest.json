@@ -1,5 +1,18 @@
 [
  {
+  "id": "c2f009ded2b8",
+  "title": "Spalletti praises Juventus transfer work: ‘The perfect market doesn’t exist any more’",
+  "player": "Luciano Spalletti",
+  "title_ko": "Spalletti는 유벤투스 이적 작업을 칭찬합니다: '완벽한 시장은 더 이상 존재하지 않습니다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spalletti-on-juventus-transfer-market/",
+  "fee": null,
+  "published": "2026-09-03T11:25:00+00:00"
+ },
+ {
   "id": "265db78806e8",
   "title": "Arsenal bank on continuity after big names elude them late in transfer window",
   "player": "Vinícius Júnior",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
   "fee": "£47.1M",
   "published": "2026-09-01T20:30:51+00:00"
- },
- {
-  "id": "74c047be0403",
-  "title": "Torino sign Mandragora, Braganca and Patterson, but Celtic waiting for Gineitis",
-  "player": "Rolando Mandragora",
-  "title_ko": "토리노는 만드라고라, 브라간카, 패터슨을 영입했지만 셀틱은 기네티스를 기다리고 있다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/torino-mandragora-braganca-patterson-gineitis/",
-  "fee": null,
-  "published": "2026-09-01T20:23:22+00:00"
  }
 ]
