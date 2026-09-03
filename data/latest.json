@@ -1,5 +1,18 @@
 [
  {
+  "id": "37a5be1890dc",
+  "title": "Rangers buy Portland's Kelsy and take Stuttgart's Bouanani on loan",
+  "player": "Portland's Kelsy",
+  "title_ko": "레인저들은 포틀랜드의 켈시를 사들여 슈투트가르트의 부아나니를 빌려준다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-03T16:05:13+00:00"
+ },
+ {
   "id": "1b6297bf0dab",
   "title": "Ismaila Sarr dream transfer amid Liverpool interest as stance perfectly clear",
   "player": "Ismaila Sarr",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-milan-loan-fofana-sevilla-no-option/",
   "fee": null,
   "published": "2026-09-01T22:12:19+00:00"
- },
- {
-  "id": "444269556e00",
-  "title": "El Sevilla anuncia sobre la bocina el fichaje de Youssouf Fofana",
-  "player": "Youssouf Fofana",
-  "title_ko": "세비야는 유수프 포파나(Youssouf Fofana)의 영입을 발표했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/09/02/sevilla-anuncia-sobre-bocina-fichaje-youssouf-fofana.html",
-  "fee": null,
-  "published": "2026-09-01T22:10:49+00:00"
  }
 ]
