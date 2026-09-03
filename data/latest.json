@@ -13,6 +13,19 @@
   "published": "2026-09-03T17:30:00+00:00"
  },
  {
+  "id": "da1c1e6a9108",
+  "title": "Rangers sign Kelsy and Bouanani on deadline day",
+  "player": "Kevin Kelsy",
+  "title_ko": "레인저스, 마감일에 켈시와 부아나니와 계약",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579735/rangers-transfer-news-kevin-kelsy-and-badredine-bouanani-join-on-deadline-day-as-nico-raskin-bid-rejected",
+  "fee": null,
+  "published": "2026-09-03T17:00:00+00:00"
+ },
+ {
   "id": "59b3623de658",
   "title": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal",
   "player": "Gabriel Martinelli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
   "fee": "£125M",
   "published": "2026-09-01T23:12:28+00:00"
- },
- {
-  "id": "02314fff464e",
-  "title": "Crystal Palace re-sign Chilwell on permanent deal",
-  "player": "Ben Chilwell",
-  "title_ko": "크리스탈팰리스, 칠웰과 완전계약 재계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crr4d0x0175o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T23:11:02+00:00"
  }
 ]
