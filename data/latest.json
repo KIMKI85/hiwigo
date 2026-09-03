@@ -1,5 +1,44 @@
 [
  {
+  "id": "b926d390a004",
+  "title": "Nach Hausickes Wechsel: Ulbrich übernimmt die Binde bei Werder",
+  "player": "Nach Hausickes Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/nach-hausickes-wechsel-ulbrich-uebernimmt-die-binde-bei-werder-1249348/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-03T09:20:01+00:00"
+ },
+ {
+  "id": "7cdb5e883da7",
+  "title": "Modric: ‘When you join Milan, you can feel the club’s history’",
+  "player": "Luka Modric",
+  "title_ko": "모드리치: ‘밀라노에 가입하면 클럽의 역사를 느낄 수 있습니다’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/modric-when-you-arrive-at-milan/",
+  "fee": null,
+  "published": "2026-09-03T09:20:00+00:00"
+ },
+ {
+  "id": "3408156a6cf2",
+  "title": "\"Tout cela va s'effondrer\", pourquoi le mercato anglais à 4 milliards fait craindre le pire à la Premier League",
+  "player": null,
+  "title_ko": "\"Tout cela va s 'effondrer\", pourquoi le mercato anglais à 4 milliards fait craindre le pire à la Premier League",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/tout-cela-va-s-effondrer-pourquoi-le-mercato-anglais-a-4-milliards-fait-craindre-le-pire-a-la-premier-league_AV-202609030399.html",
+  "fee": null,
+  "published": "2026-09-03T09:19:00+00:00"
+ },
+ {
   "id": "10f6196e71db",
   "title": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
   "player": null,
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
   "fee": "£65M",
   "published": "2026-09-01T20:09:07+00:00"
- },
- {
-  "id": "193546c9bec2",
-  "title": "Chelsea reject Liverpool's deadline day offer for Malo Gusto with clear transfer stance",
-  "player": "Malo Gusto",
-  "title_ko": "첼시는 명확한 이적 입장으로 말로 구스토에 대한 리버풀의 마감일 제안을 거부했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-malo-gusto-liverpool-37616742",
-  "fee": null,
-  "published": "2026-09-01T20:08:42+00:00"
- },
- {
-  "id": "32a4f2b750aa",
-  "title": "Tomori welcomed back to Milan fold after failure to guarantee transfer",
-  "player": "Fikayo Tomori",
-  "title_ko": "토모리는 이적 보장 실패 후 밀란 폴드로 돌아온 것을 환영했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tomori-welcomed-back-milan-failure-transfer/",
-  "fee": null,
-  "published": "2026-09-01T20:05:15+00:00"
- },
- {
-  "id": "9a6a06f9c09a",
-  "title": "Official: Como sign Robert Sanchez from Chelsea on deadline day",
-  "player": "Robert Sanchez",
-  "title_ko": "공식: 코모는 마감일에 첼시의 로버트 산체스를 영입했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
-  "fee": null,
-  "published": "2026-09-01T19:57:30+00:00"
  }
 ]
