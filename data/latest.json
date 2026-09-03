@@ -1,5 +1,18 @@
 [
  {
+  "id": "3772dd047f55",
+  "title": "PSG-Monaco: \"On a fait un mercato exceptionnel\", revivez la conférence de presse de Luis Enrique avant le choc de la 3e journée de Ligue 1",
+  "player": "Luis Enrique",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-psg-monaco-suivez-la-conference-de-presse-de-luis-enrique-avant-le-choc-de-la-3e-journee-de-ligue-1_LN-202609030476.html",
+  "fee": null,
+  "published": "2026-09-03T11:29:28+00:00"
+ },
+ {
   "id": "c2f009ded2b8",
   "title": "Spalletti praises Juventus transfer work: ‘The perfect market doesn’t exist any more’",
   "player": "Luciano Spalletti",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-09-01T20:32:00+00:00"
- },
- {
-  "id": "e60c363c9842",
-  "title": "Chelsea agree £47.1m move for Monaco's Camara",
-  "player": "Monaco's Camara",
-  "title_ko": "첼시는 모나코의 카마라를 £47.1m에 이적하는데 동의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
-  "fee": "£47.1M",
-  "published": "2026-09-01T20:30:51+00:00"
  }
 ]
