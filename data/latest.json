@@ -1,5 +1,18 @@
 [
  {
+  "id": "7deafbc44aec",
+  "title": "Chelsea plot move for another ex-Liverpool star despite transfer window closing",
+  "player": "Enzo Fernandez",
+  "title_ko": "첼시는 이적시장 마감에도 불구하고 또 다른 전 리버풀 스타 영입 계획을 세웠다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-wijnaldum-future-free-agent-37621802",
+  "fee": null,
+  "published": "2026-09-03T07:15:25+00:00"
+ },
+ {
   "id": "f81109a5d1c4",
   "title": "Deal done for Kelsy to join Rangers - gossip",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T19:50:58+00:00"
- },
- {
-  "id": "c1bcabb19854",
-  "title": "Chelsea goalkeeper Sanchez joins Como on loan",
-  "player": "Robert Sanchez",
-  "title_ko": "첼시 골키퍼 산체스, 코모와 임대 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce3r0yww04ro?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T19:50:05+00:00"
  }
 ]
