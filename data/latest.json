@@ -26,6 +26,19 @@
   "published": "2026-09-03T17:00:00+00:00"
  },
  {
+  "id": "b64892f821d9",
+  "title": "An historic transfer window for Juventus with zero players sold",
+  "player": null,
+  "title_ko": "선수가 한 명도 팔리지 않은 유벤투스의 역사적인 이적 기간",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/historic-juventus-window-no-players-sold/",
+  "fee": null,
+  "published": "2026-09-03T16:49:09+00:00"
+ },
+ {
   "id": "59b3623de658",
   "title": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal",
   "player": "Gabriel Martinelli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement",
   "fee": null,
   "published": "2026-09-01T23:15:00+00:00"
- },
- {
-  "id": "eafee6972f44",
-  "title": "Fernández completes record-equalling £125m move from Chelsea to Manchester City",
-  "player": "Enzo Fernández",
-  "title_ko": "페르난데스는 첼시에서 맨체스터 시티로 이적료 1억 2500만 파운드에 달하는 이적료를 완료했습니다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 5,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
-  "fee": "£125M",
-  "published": "2026-09-01T23:12:28+00:00"
  }
 ]
