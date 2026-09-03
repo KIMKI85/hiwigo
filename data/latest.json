@@ -1,5 +1,18 @@
 [
  {
+  "id": "10a80c5f1d25",
+  "title": "Jadon Sancho sent Dubai transfer offer as ex-Man Utd ace told 'there's a place for you'",
+  "player": "Jadon Sancho",
+  "title_ko": "제이든 산초는 전 맨유 에이스가 '너를 위한 자리가 있다'고 말하자 두바이 이적 제안을 보냈다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jadon-sancho-transfer-37621449",
+  "fee": null,
+  "published": "2026-09-03T06:00:00+00:00"
+ },
+ {
   "id": "6e0f7842267a",
   "title": "Transfer news LIVE: Late Arsenal deal completed, Jadon Sancho bombshell, Man Utd's £150m plan",
   "player": "Jadon Sancho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/die-grosse-deadline-day-show-woltemades-wegweisender-wechsel-und-hsv-hype-1248870/video#omrss",
   "fee": null,
   "published": "2026-09-01T19:40:02+00:00"
- },
- {
-  "id": "f61a37303940",
-  "title": "Leihe mit Kaufpflicht: Danso wechselt innerhalb der Premier League",
-  "player": "Kevin Danso",
-  "title_ko": "구매 의무가 있는 대출: 단소는 프리미어 리그 내에서 이동합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/leihe-mit-kaufpflicht-danso-wechselt-innerhalb-der-premier-league-1248766/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-01T19:30:01+00:00"
  }
 ]
