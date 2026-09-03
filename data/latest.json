@@ -1,5 +1,18 @@
 [
  {
+  "id": "327bfaf96fef",
+  "title": "Arsenal to avoid same looming transfer concern as Liverpool and Man Utd",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날은 리버풀과 맨유처럼 다가오는 이적 문제를 피하기 위해",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-liverpool-man-utd-transfers-37624851",
+  "fee": null,
+  "published": "2026-09-03T18:08:43+00:00"
+ },
+ {
   "id": "0b445fd19712",
   "title": "Arsenals neuer Rekordverkauf: Gabriel Martinelli wechselt zu Al-Hilal",
   "player": "Gabriel Martinelli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
   "fee": null,
   "published": "2026-09-01T23:30:00+00:00"
- },
- {
-  "id": "937074352c6a",
-  "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티가 페르난데스 계약을 위해 마레스카를 되찾은 마감일, 신랄함, 그리고 기록",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T23:16:59+00:00"
  }
 ]
