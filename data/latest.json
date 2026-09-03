@@ -1,5 +1,18 @@
 [
  {
+  "id": "08ffa98883a0",
+  "title": "Hutchinson names three Milan idols and reveals what Amorim told him before signing",
+  "player": "Omari Hutchinson",
+  "title_ko": "허친슨은 세 명의 밀란 아이돌을 지명하고 아모림이 계약 전 그에게 했던 말을 공개합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/hutchinson-milan-idols-what-amorim-told-him/",
+  "fee": null,
+  "published": "2026-09-03T18:26:08+00:00"
+ },
+ {
   "id": "327bfaf96fef",
   "title": "Arsenal to avoid same looming transfer concern as Liverpool and Man Utd",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales",
   "fee": null,
   "published": "2026-09-01T23:46:05+00:00"
- },
- {
-  "id": "8cd76c65cb59",
-  "title": "Man City sign Fernandez in British-record-equalling deal",
-  "player": "Enzo Fernandez",
-  "title_ko": "맨시티, 영국 기록과 동률 계약으로 페르난데스 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal",
-  "fee": null,
-  "published": "2026-09-01T23:30:00+00:00"
  }
 ]
