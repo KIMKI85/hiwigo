@@ -1,5 +1,18 @@
 [
  {
+  "id": "2312a17bb075",
+  "title": "Alexander Isak and £35m goal machine will have Man Utd excited after last-minute deal",
+  "player": "Alexander Isak",
+  "title_ko": "알렉산더 이삭과 £35m의 골 머신이 맨유를 막판 딜로 흥분하게 만들 것이다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chido-obi-isak-man-utd-37623554",
+  "fee": "£35M",
+  "published": "2026-09-03T13:16:09+00:00"
+ },
+ {
   "id": "2c4d87eaffad",
   "title": "La intrahistoria del fichaje de Fofana",
   "player": "Carlos Álvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/levante/2026/09/01/delantero-petar-ratkov-undecimo-fichaje-levante.html",
   "fee": null,
   "published": "2026-09-01T21:28:41+00:00"
- },
- {
-  "id": "6badfa63dfe1",
-  "title": "Man Utd issue instant response as Everton make deadline day bid for striker",
-  "player": "Joshua Zirkzee",
-  "title_ko": "맨유는 에버턴이 스트라이커에게 입찰 마감일을 정하자 즉각적인 대응을 내놨다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-zirkzee-everton-37616888",
-  "fee": null,
-  "published": "2026-09-01T21:27:04+00:00"
  }
 ]
