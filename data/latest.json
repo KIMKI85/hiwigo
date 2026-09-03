@@ -1,5 +1,31 @@
 [
  {
+  "id": "84f923cea0eb",
+  "title": "Ligue 1: la nouvelle recrue Ueda délivre Lille face Toulouse pour lancer la troisième journée",
+  "player": null,
+  "title_ko": "리그 1: 새로운 영입 우에다가 툴루즈를 상대로 릴을 데려와 셋째 날 출발",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-lille-suivez-le-match-d-ouverture-de-la-3e-journee-de-ligue-1-en-live_LS-202609030631.html",
+  "fee": null,
+  "published": "2026-09-03T20:41:50+00:00"
+ },
+ {
+  "id": "6b95229fb49d",
+  "title": "Man City sign England goalkeeper Moorhouse on loan",
+  "player": "Anna Moorhouse",
+  "title_ko": "맨시티, 잉글랜드 골키퍼 무어하우스 임대 영입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-03T20:30:19+00:00"
+ },
+ {
   "id": "24dff66fea1e",
   "title": "Richarlison AXED from Tottenham's Premier League squad after botched Everton move",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/mit-grossem-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
   "fee": null,
   "published": "2026-09-02T04:29:36+00:00"
- },
- {
-  "id": "a98acbe598c6",
-  "title": "Mit großen Gewinn für Frankfurt: Bahoya wechselt zu Leeds United",
-  "player": "Matteo Bahoya",
-  "title_ko": "MIT großen Gewinn für Frankfurt: Bahoya wechselt zu 리즈 유나이티드",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/mit-grossen-gewinn-fuer-frankfurt-bahoya-wechselt-zu-leeds-united-1248837/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-02T04:29:36+00:00"
- },
- {
-  "id": "3463a1b583a6",
-  "title": "Balogun walks away from Everton deal - after move scuppered Camara to Chelsea",
-  "player": "Folarin Balogun",
-  "title_ko": "Balogun은 Everton 계약에서 물러나고 Camara는 Chelsea로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
-  "fee": null,
-  "published": "2026-09-02T00:21:00+00:00"
  }
 ]
