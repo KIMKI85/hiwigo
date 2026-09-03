@@ -1,5 +1,31 @@
 [
  {
+  "id": "73dba071cf30",
+  "title": "Ligue 1: grosse tuile pour le RC Lens, la recrue Nawrocki victime d'une rupture du ligament croisé",
+  "player": "Maik Nawrocki",
+  "title_ko": "리그 1: 십자인대 파열로 부상당한 신인 Nawrocki RC Lens의 큰 문제",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/ligue-1-grosse-tuile-pour-le-rc-lens-la-recrue-nawrocki-victime-d-une-rupture-du-ligament-croise_AV-202609030563.html",
+  "fee": null,
+  "published": "2026-09-03T12:38:21+00:00"
+ },
+ {
+  "id": "4491450269eb",
+  "title": "Nächster Ex-Ulmer für Wörle: Münster verpflichtet Maier",
+  "player": "Nächster Ex-",
+  "title_ko": "Wörle의 다음 전 Ulmer : Münster가 Maier와 계약",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/naechster-ex-ulmer-fuer-woerle-muenster-verpflichtet-maier-1249418/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-03T12:30:10+00:00"
+ },
+ {
   "id": "0ca1ee5d3aa7",
   "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
   "player": "Andoni Iraola",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/01/a-great-feeling-mykhailo-mudryk-seals-loan-move-from-chelsea-to-tottenham",
   "fee": null,
   "published": "2026-09-01T21:24:04+00:00"
- },
- {
-  "id": "9211f9257df4",
-  "title": "Tottenham sign Chelsea's Mudryk on loan",
-  "player": "Chelsea's Mudryk",
-  "title_ko": "토트넘은 첼시의 머드릭을 임대로 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-01T21:14:28+00:00"
- },
- {
-  "id": "3de7bb4f4851",
-  "title": "Man Utd suffer late transfer deadline day blow as Man City reject approach for star",
-  "player": "Rayan Ait-",
-  "title_ko": "맨시티가 스타에 대한 접근을 거부하면서 맨유는 늦은 이적 마감일 타격을 입었다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-man-city-deadline-37616855",
-  "fee": null,
-  "published": "2026-09-01T21:07:29+00:00"
  }
 ]

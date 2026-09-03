@@ -1,5 +1,31 @@
 [
  {
+  "id": "73dba071cf30",
+  "title": "Ligue 1: grosse tuile pour le RC Lens, la recrue Nawrocki victime d'une rupture du ligament croisé",
+  "player": "Maik Nawrocki",
+  "title_ko": "리그 1: 십자인대 파열로 부상당한 신인 Nawrocki RC Lens의 큰 문제",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/ligue-1-grosse-tuile-pour-le-rc-lens-la-recrue-nawrocki-victime-d-une-rupture-du-ligament-croise_AV-202609030563.html",
+  "fee": null,
+  "published": "2026-09-03T12:38:21+00:00"
+ },
+ {
+  "id": "4491450269eb",
+  "title": "Nächster Ex-Ulmer für Wörle: Münster verpflichtet Maier",
+  "player": "Nächster Ex-",
+  "title_ko": "Wörle의 다음 전 Ulmer : Münster가 Maier와 계약",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/naechster-ex-ulmer-fuer-woerle-muenster-verpflichtet-maier-1249418/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-03T12:30:10+00:00"
+ },
+ {
   "id": "0ca1ee5d3aa7",
   "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
   "player": "Andoni Iraola",
