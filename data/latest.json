@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b6297bf0dab",
+  "title": "Ismaila Sarr dream transfer amid Liverpool interest as stance perfectly clear",
+  "player": "Ismaila Sarr",
+  "title_ko": "리버풀의 관심 속에서 이스마일라 사르의 꿈 이적은 입장이 완벽하게 명확함",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/ismaila-sarr-liverpool-palace-transfer-37624114",
+  "fee": null,
+  "published": "2026-09-03T15:37:36+00:00"
+ },
+ {
   "id": "df48ccdacdb3",
   "title": "Sarr needs time to process collapse of Liverpool move",
   "player": "Ismaila Sarr",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/09/02/sevilla-anuncia-sobre-bocina-fichaje-youssouf-fofana.html",
   "fee": null,
   "published": "2026-09-01T22:10:49+00:00"
- },
- {
-  "id": "31c2dfcf78f1",
-  "title": "Mercato: Arabie saoudite, Turquie... Ces marchés où les clubs français peuvent encore vendre des joueurs",
-  "player": null,
-  "title_ko": "Mercato: 사우디아라비아, 터키... 프랑스 클럽이 여전히 선수를 판매할 수 있는 시장",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-arabie-saoudite-turquie-ces-marches-ou-les-clubs-francais-peuvent-encore-vendre-des-joueurs_AV-202609010940.html",
-  "fee": null,
-  "published": "2026-09-01T22:04:27+00:00"
  }
 ]
