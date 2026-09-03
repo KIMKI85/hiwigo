@@ -1,5 +1,18 @@
 [
  {
+  "id": "24ec604415af",
+  "title": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
+  "player": "Élisa De Almeida",
+  "title_ko": "아스널은 WSL 이적 마감일에 PSG의 엘리사 데 알메이다를 착륙시킬 태세였다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
+  "fee": null,
+  "published": "2026-09-03T09:28:56+00:00"
+ },
+ {
   "id": "b926d390a004",
   "title": "Nach Hausickes Wechsel: Ulbrich übernimmt die Binde bei Werder",
   "player": "Nach Hausickes Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/top-10-most-expensive-serie-a-signings-2026/",
   "fee": null,
   "published": "2026-09-01T20:15:00+00:00"
- },
- {
-  "id": "50d02a07c3d2",
-  "title": "Man City sign Ndiaye from Everton for £65m",
-  "player": "Iliman Ndiaye",
-  "title_ko": "맨시티는 에버턴에서 은디아예를 £65m에 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-  "fee": "£65M",
-  "published": "2026-09-01T20:09:07+00:00"
  }
 ]
