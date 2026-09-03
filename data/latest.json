@@ -1,5 +1,31 @@
 [
  {
+  "id": "aec09e44a2f0",
+  "title": "Arsenal deal for Bruno Guimaraes rated one out of 10 in brutal transfer ranking",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스의 아스날 거래는 잔인한 이적 순위에서 10점 만점에 1점을 받았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-guimaraes-arsenal-newcastle-transfer-37623697",
+  "fee": null,
+  "published": "2026-09-03T13:51:38+00:00"
+ },
+ {
+  "id": "f6eb6182ba73",
+  "title": "Todibo, un tempérament difficile? \"Un bon signe quand un joueur baisse son salaire\", Toppmöller se réjouit de son arrivée à Lens",
+  "player": "Clair Todibo",
+  "title_ko": "토디보, 까다로운 기질? \"선수가 연봉을 낮추면 좋은 징조입니다.\" Toppmöller는 Lens에 합류한 것을 기쁘게 생각합니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/todibo-un-temperament-difficile-un-bon-signe-quand-un-joueur-baisse-son-salaire-toppmoller-se-rejouit-de-son-arrivee-a-lens_AV-202609030607.html",
+  "fee": null,
+  "published": "2026-09-03T13:47:52+00:00"
+ },
+ {
   "id": "2312a17bb075",
   "title": "Alexander Isak and £35m goal machine will have Man Utd excited after last-minute deal",
   "player": "Alexander Isak",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-01T21:54:30+00:00"
- },
- {
-  "id": "34049ea567fd",
-  "title": "Chelsea agree £47m deal to sign Monaco's Camara",
-  "player": "Monaco's Camara",
-  "title_ko": "첼시는 모나코의 카마라 영입을 위해 £47m 계약에 합의했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579974/lamine-camara-chelsea-agree-deal-to-sign-monaco-midfielder-as-enzo-fernandez-replacement",
-  "fee": "£47M",
-  "published": "2026-09-01T21:30:00+00:00"
- },
- {
-  "id": "04595a70beac",
-  "title": "El delantero Petar Ratkov, undécimo fichaje del Levante",
-  "player": "Petar Ratkov",
-  "title_ko": "레반테의 11번째 영입 선수인 스트라이커 페타르 라트코프",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/levante/2026/09/01/delantero-petar-ratkov-undecimo-fichaje-levante.html",
-  "fee": null,
-  "published": "2026-09-01T21:28:41+00:00"
  }
 ]
