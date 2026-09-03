@@ -1,5 +1,18 @@
 [
  {
+  "id": "2bd186b2b599",
+  "title": "Arsenal medical underway with third Gunners signing already lined up for 2027",
+  "player": "Andria Bartishvili",
+  "title_ko": "2027년을 위해 이미 세 번째 거너 영입이 예정된 아스날 메디컬 진행 중",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-latest-andria-bartishvili-37624879",
+  "fee": null,
+  "published": "2026-09-03T16:14:37+00:00"
+ },
+ {
   "id": "37a5be1890dc",
   "title": "Rangers buy Portland's Kelsy and take Stuttgart's Bouanani on loan",
   "player": "Portland's Kelsy",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c8e37d6w6w0o?at_medium=RSS&at_campaign=rss",
   "fee": "£20M",
   "published": "2026-09-01T22:28:54+00:00"
- },
- {
-  "id": "a847fc0ca9f4",
-  "title": "Official: Milan loan Fofana to Sevilla without purchase option",
-  "player": "Youssouf Fofana",
-  "title_ko": "공식: 밀란은 구매 옵션 없이 포파나를 세비야로 임대했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-milan-loan-fofana-sevilla-no-option/",
-  "fee": null,
-  "published": "2026-09-01T22:12:19+00:00"
  }
 ]
