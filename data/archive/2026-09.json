@@ -1,5 +1,57 @@
 [
  {
+  "id": "92a0e861592d",
+  "title": "Martinelli joins Al Hilal in Arsenal club-record sale",
+  "player": "Al Hilal",
+  "title_ko": "마르티넬리, 아스날 클럽 음반 판매에 알 힐랄 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
+  "fee": null,
+  "published": "2026-09-03T17:30:00+00:00"
+ },
+ {
+  "id": "59b3623de658",
+  "title": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal",
+  "player": "Gabriel Martinelli",
+  "title_ko": "아스날은 기록적인 거래로 스타가 퇴장함에 따라 £ 60m Gabriel Martinelli 이적을 확인했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-gabriel-martinelli-transfer-saudi-37624997",
+  "fee": "£60M",
+  "published": "2026-09-03T16:30:45+00:00"
+ },
+ {
+  "id": "0237934ac965",
+  "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+  "player": "Arsenal's Martinelli",
+  "title_ko": "아스날의 마르티넬리는 6000만 파운드에 알힐랄에 합류했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+  "fee": "£60M",
+  "published": "2026-09-03T16:30:43+00:00"
+ },
+ {
+  "id": "61946e961184",
+  "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+  "player": "Gabriel Martinelli",
+  "title_ko": "가브리엘 마르티넬리(Gabriel Martinelli)는 £60m에 아스날을 떠나 사우디아라비아의 알힐랄로 이적했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
+  "fee": "£60M",
+  "published": "2026-09-03T16:30:08+00:00"
+ },
+ {
   "id": "2bd186b2b599",
   "title": "Arsenal medical underway with third Gunners signing already lined up for 2027",
   "player": "Andria Bartishvili",
