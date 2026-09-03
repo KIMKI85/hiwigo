@@ -1,5 +1,18 @@
 [
  {
+  "id": "f50bfa73d897",
+  "title": "Ranking the most game-changing transfers in Premier League history",
+  "player": null,
+  "title_ko": "프리미어리그 역사상 가장 판도를 바꾸는 이적 순위",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-03T06:17:38+00:00"
+ },
+ {
   "id": "10a80c5f1d25",
   "title": "Jadon Sancho sent Dubai transfer offer as ex-Man Utd ace told 'there's a place for you'",
   "player": "Jadon Sancho",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-dia-joins-rennes-lazio-formula-change/",
   "fee": "€11M",
   "published": "2026-09-01T19:41:50+00:00"
- },
- {
-  "id": "14fe695d3bb1",
-  "title": "Die große Deadline-Day-Show: Woltemades wegweisender Wechsel und HSV-Hype",
-  "player": "der Bundesligisten",
-  "title_ko": "데드라인 데이 쇼: Woltemade의 획기적인 변화와 HSV 과대광고",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/die-grosse-deadline-day-show-woltemades-wegweisender-wechsel-und-hsv-hype-1248870/video#omrss",
-  "fee": null,
-  "published": "2026-09-01T19:40:02+00:00"
  }
 ]
