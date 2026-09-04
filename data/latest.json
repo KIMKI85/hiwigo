@@ -1,5 +1,18 @@
 [
  {
+  "id": "af364c1c94a3",
+  "title": "Liverpool target Minteh can still get dream move - Hurzeler",
+  "player": "Fabian Hurzeler",
+  "title_ko": "리버풀 타겟 민테는 여전히 꿈의 움직임을 가질 수 있다 - 허젤러",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-04T10:44:37+00:00"
+ },
+ {
   "id": "e0b525282fc5",
   "title": "PSG-Monaco: comment Lamine Camara a digéré son départ avorté à Chelsea dans les dernières heures du mercato",
   "player": "Lamine Camara",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/kessie-blames-juventus-summer-transfer-off/",
   "fee": null,
   "published": "2026-09-02T10:15:46+00:00"
- },
- {
-  "id": "02adffe40e06",
-  "title": "Woltemade move underlines summer of change at Newcastle",
-  "player": "Nick Woltemade",
-  "title_ko": "월테메이드의 움직임은 뉴캐슬의 여름 변화를 강조합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-02T10:01:36+00:00"
  }
 ]
