@@ -1,5 +1,18 @@
 [
  {
+  "id": "a64304964403",
+  "title": "Xabi Alonso rubs salt in Arsenal wounds over Morgan Rogers transfer ahead of clash",
+  "player": "Xabi Alonso",
+  "title_ko": "사비 알론소는 충돌을 앞두고 모건 로저스 이적에 대한 아스날의 상처에 소금을 뿌렸다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/morgan-rogers-arsenal-chelsea-transfers-37629471",
+  "fee": null,
+  "published": "2026-09-04T18:52:36+00:00"
+ },
+ {
   "id": "96f9768b3924",
   "title": "Zeballos on unexpected Monza move and ‘idol’ Maradona",
   "player": "Exequiel Zeballos",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/gaming/ea-fc-27-premier-league-37619467",
   "fee": null,
   "published": "2026-09-02T14:28:33+00:00"
- },
- {
-  "id": "41d8d88f9e76",
-  "title": "Un total de ventes à 1,3 milliard d'euros, peu d’arrivées: le récapitulatif complet club par club du mercato de Ligue 1",
-  "player": null,
-  "title_ko": "총 매출 13억 유로, 소수의 도착: 리그 1 이적 기간에 대한 클럽별 전체 요약",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/un-total-de-ventes-a-1-3-milliard-d-euros-peu-d-arrivees-le-recapitulatif-complet-club-par-club-du-mercato-de-ligue-1_AV-202609020624.html",
-  "fee": null,
-  "published": "2026-09-02T14:27:53+00:00"
  }
 ]
