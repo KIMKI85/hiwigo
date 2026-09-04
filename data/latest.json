@@ -13,6 +13,19 @@
   "published": "2026-09-04T22:18:00+00:00"
  },
  {
+  "id": "0e7694f22f11",
+  "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+  "player": "Roberto De Zerbi",
+  "title_ko": "프리미어리그 소식: 리차리슨은 새 계약을 거절했고, 알론소는 미드필드에서 제임스를 지지했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+  "fee": null,
+  "published": "2026-09-04T21:30:00+00:00"
+ },
+ {
   "id": "0b7e1b83e64a",
   "title": "Schroers über geplatzten Wechsel: \"War ein kleiner Rückschlag\"",
   "player": "Dass Aachens Mika",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-02T16:21:25+00:00"
- },
- {
-  "id": "8b5472533e7d",
-  "title": "Premier League transfers rated and slated after record-breaking summer of spending",
-  "player": null,
-  "title_ko": "기록적인 여름 지출 이후 프리미어 리그 이적 평가 및 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-best-worst-37620493",
-  "fee": null,
-  "published": "2026-09-02T16:08:32+00:00"
  }
 ]
