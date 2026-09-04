@@ -1,5 +1,18 @@
 [
  {
+  "id": "c8c52dfce916",
+  "title": "Kompany lacht über Transfergerücht: \"Zum Glück haben wir euch\"",
+  "player": "Zum Glück",
+  "title_ko": "콤파니, 이적 루머에 웃었다: \"다행히 당신이 있다\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/kompany-lacht-ueber-transfergeruecht-zum-glueck-haben-wir-euch-1249630/video#omrss",
+  "fee": null,
+  "published": "2026-09-04T08:46:57+00:00"
+ },
+ {
   "id": "aba55872c375",
   "title": "\"Des insultes odieuses\": l'ancien attaquant de l'OM Robinio Vaz ciblé par une vague de haine raciste après son transfert à Hull City",
   "player": "Robinio Vaz",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/le-drama-de-la-fin-de-mercato-en-espagne-en-larmes-avec-sa-mere-pablo-garcia-force-de-quitter-le-real-betis-apres-le-transfert-de-dani-ceballos_AV-202609020387.html",
   "fee": null,
   "published": "2026-09-02T08:50:09+00:00"
- },
- {
-  "id": "25f41cc0b1ef",
-  "title": "Full confirmed list of Liverpool ins and outs as five join and six leave after deadline day",
-  "player": "Bradley Barcola",
-  "title_ko": "마감일 이후 5명이 합류하고 6명이 떠날 때 리버풀의 인 앤 아웃 전체 확정 목록",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-deadline-barcola-37617402",
-  "fee": null,
-  "published": "2026-09-02T08:50:04+00:00"
  }
 ]
