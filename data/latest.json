@@ -1,5 +1,18 @@
 [
  {
+  "id": "e0b525282fc5",
+  "title": "PSG-Monaco: comment Lamine Camara a digéré son départ avorté à Chelsea dans les dernières heures du mercato",
+  "player": "Lamine Camara",
+  "title_ko": "PSG-모나코: 이적 기간의 마지막 시간에 라민 카마라가 중단된 첼시로의 출발을 어떻게 소화했는지",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/psg-monaco-comment-lamine-camara-a-digere-son-depart-avorte-a-chelsea-dans-les-dernieres-heures-du-mercato_AV-202609040453.html",
+  "fee": null,
+  "published": "2026-09-04T09:44:46+00:00"
+ },
+ {
   "id": "5d3a5de86acc",
   "title": "Après une fin de mercato de catastrophique et l'échec Balogun, Everton envisage de rectuter Jamie Vardy",
   "player": "Jamie Vardy",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-02T10:01:36+00:00"
- },
- {
-  "id": "e5d0545ecd16",
-  "title": "Robinho Jr: Why new Genoa signing is eligible to play for Italy",
-  "player": "Robinho Jr",
-  "title_ko": "호비뉴 주니어: 새로운 제노아 영입이 이탈리아 국가대표로 뛸 수 있는 이유",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/robinho-jr-why-genoa-signing-eligible-italy/",
-  "fee": null,
-  "published": "2026-09-02T09:55:59+00:00"
  }
 ]
