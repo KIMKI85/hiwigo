@@ -13,6 +13,19 @@
   "published": "2026-09-04T19:43:26+00:00"
  },
  {
+  "id": "dc4366588c98",
+  "title": "Man Utd striker transfer confirmed despite summer window closing",
+  "player": "Louie Bradbury",
+  "title_ko": "여름 창문 닫힘에도 맨유 스트라이커 이적 확정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-bradbury-stoke-37629671",
+  "fee": null,
+  "published": "2026-09-04T19:37:41+00:00"
+ },
+ {
   "id": "a64304964403",
   "title": "Xabi Alonso rubs salt in Arsenal wounds over Morgan Rogers transfer ahead of clash",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-grosse-mise-au-point-de-scuro-sur-les-transferts-avortes-de-balogun-et-camara_AD-202609020629.html",
   "fee": null,
   "published": "2026-09-02T14:43:11+00:00"
- },
- {
-  "id": "264d0cb6353f",
-  "title": "Top 10 most expensive Italy players of the 2026 summer transfer window revealed",
-  "player": "Sandro Tonali",
-  "title_ko": "2026년 여름 이적 시장에서 가장 몸값이 비싼 이탈리아 선수 TOP 10이 공개되었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/most-expensive-italy-transfers-summer-2026/",
-  "fee": null,
-  "published": "2026-09-02T14:32:48+00:00"
  }
 ]
