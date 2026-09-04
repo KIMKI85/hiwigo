@@ -1,5 +1,18 @@
 [
  {
+  "id": "818a898dac9c",
+  "title": "Man Utd news: Lewis Hall update issued as £120million summer transfer mistake called out",
+  "player": "Lewis Hall",
+  "title_ko": "맨유 뉴스: 여름 이적료 £120m 실수로 루이스 홀 업데이트 발표",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-hall-37624501",
+  "fee": "£120M",
+  "published": "2026-09-04T03:30:00+00:00"
+ },
+ {
   "id": "2dbd2e1e54e4",
   "title": "Papers: Everton eye shock Vardy move to solve striker problem",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-un-mercato-dans-les-clous-mais-contrarie-dans-les-dernieres-heures_AV-202609020132.html",
   "fee": null,
   "published": "2026-09-02T05:07:15+00:00"
- },
- {
-  "id": "1c6d0ce94624",
-  "title": "Transfert avorté de Balogun après avoir annulé celui de Camara... l'invraisemblable fin de mercato de Monaco",
-  "player": "Folarin Bolagun",
-  "title_ko": "Transfert avorté de Balogun après avoir annulé celui de Camara... l 'invraisemblable fin de mercato de Monaco",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/transfert-avorte-de-balogun-apres-avoir-annule-celui-de-camara-l-invraisemblable-fin-de-mercato-de-monaco_AV-202609020098.html",
-  "fee": null,
-  "published": "2026-09-02T04:35:58+00:00"
  }
 ]
