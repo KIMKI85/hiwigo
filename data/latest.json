@@ -104,6 +104,19 @@
   "published": "2026-09-03T22:30:00+00:00"
  },
  {
+  "id": "674692f96816",
+  "title": "London City claim sponsor deal is record and bigger than some in Premier League",
+  "player": "Michele Kang",
+  "title_ko": "런던 시티의 스폰서 계약은 기록적이며 프리미어 리그의 일부 계약보다 더 큽니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/03/nike-deal-breaks-new-ground-london-city-lionesses-wsl",
+  "fee": null,
+  "published": "2026-09-03T21:33:17+00:00"
+ },
+ {
   "id": "84f923cea0eb",
   "title": "Ligue 1: la nouvelle recrue Ueda délivre Lille face Toulouse pour lancer la troisième journée",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-les-plus-gros-transferts-de-l-ete-2026-barcola-transfert-record-d-un-francais_VN-202609020385.html",
   "fee": null,
   "published": "2026-09-02T08:44:22+00:00"
- },
- {
-  "id": "64d99a59aa21",
-  "title": "All 20 Premier League club's biggest problems despite record-breaking transfer window",
-  "player": null,
-  "title_ko": "기록적인 이적 기간에도 불구하고 프리미어 리그 20개 클럽의 가장 큰 문제",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/20-premier-league-clubs-biggest-37616704",
-  "fee": null,
-  "published": "2026-09-02T07:56:24+00:00"
  }
 ]
