@@ -1,5 +1,18 @@
 [
  {
+  "id": "04873ed4d80e",
+  "title": "\"Long et difficile\": Bruno Genesio lâche ses vérités sur le mercato marseillais",
+  "player": "Bruno Genesio",
+  "title_ko": "“길고 어려웠다”: 브루노 제네시오가 마르세유 이적 기간에 대한 자신의 진실을 밝힙니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/long-et-difficile-bruno-genesio-lache-ses-verites-sur-le-mercato-marseillais_AV-202609040574.html",
+  "fee": null,
+  "published": "2026-09-04T12:18:28+00:00"
+ },
+ {
   "id": "6aa9de1d922a",
   "title": "Chaotic Crystal Palace transfer window left Pierre Sage to run the gamut of emotions",
   "player": "Pierre Sage",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-remonte-contre-monaco-apres-l-annulation-du-transfert-de-lamine-camara_AV-202609020533.html",
   "fee": null,
   "published": "2026-09-02T11:39:41+00:00"
- },
- {
-  "id": "a54a3f526324",
-  "title": "Neun Neue, ein Kuriosum und Hahns Wechsel: Die Kapitäne der 3. Liga",
-  "player": "Neun Neue",
-  "title_ko": "9명의 신인, 호기심과 한의 변화: 3부리그 주장",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/neun-neue-ein-kuriosum-und-hahns-wechsel-die-kapitaene-der-3-liga-1242045/slideshow#omrss",
-  "fee": null,
-  "published": "2026-09-02T11:38:52+00:00"
  }
 ]
