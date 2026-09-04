@@ -1,5 +1,18 @@
 [
  {
+  "id": "3f03cee26bc3",
+  "title": "Luis Enrique signs new deal to extend PSG stay",
+  "player": "Luis Enrique",
+  "title_ko": "루이스 엔리케, PSG 투숙 기간 연장을 위한 새로운 계약 체결",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c36l79n02r8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-04T19:43:26+00:00"
+ },
+ {
   "id": "a64304964403",
   "title": "Xabi Alonso rubs salt in Arsenal wounds over Morgan Rogers transfer ahead of clash",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/most-expensive-italy-transfers-summer-2026/",
   "fee": null,
   "published": "2026-09-02T14:32:48+00:00"
- },
- {
-  "id": "18b5dbbc510b",
-  "title": "EA FC 27 Premier League top ratings confirmed after transfer window slams shut",
-  "player": null,
-  "title_ko": "EA FC 27 프리미어 리그 최고 등급은 이적 기간이 종료된 후 확인되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/gaming/ea-fc-27-premier-league-37619467",
-  "fee": null,
-  "published": "2026-09-02T14:28:33+00:00"
  }
 ]
