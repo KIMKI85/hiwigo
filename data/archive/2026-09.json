@@ -1,5 +1,44 @@
 [
  {
+  "id": "2b2ac34da390",
+  "title": "Liverpool seal new signing days after window shut ahead of January arrival",
+  "player": null,
+  "title_ko": "리버풀은 1월 도착을 앞두고 이적시장이 닫힌 지 며칠 만에 새로운 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-new-signing-premier-league-37626406",
+  "fee": null,
+  "published": "2026-09-04T09:03:24+00:00"
+ },
+ {
+  "id": "162ee09ea0bf",
+  "title": "Agent: Ahanor to Chelsea shows Italy ‘have talent’; Tonali ‘deserved’ record fee",
+  "player": "Sandro Tonali",
+  "title_ko": "에이전트: Ahanor는 Chelsea에게 이탈리아의 '재능'을 보여줍니다. Tonali의 '당당한' 기록 수수료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/agent-ahanor-chelsea-italy-talent-tonali-fee/",
+  "fee": null,
+  "published": "2026-09-04T09:02:37+00:00"
+ },
+ {
+  "id": "740e7597bdb4",
+  "title": "Liverpool, Chelsea and Man City's statement transfers rated and if they're worth FPL price",
+  "player": null,
+  "title_ko": "리버풀, 첼시, 맨시티의 이적은 평가되었으며 FPL 가격만큼 가치가 있는지 여부",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/fantasy-premier-league-transfers-price-37625928",
+  "fee": null,
+  "published": "2026-09-04T08:57:35+00:00"
+ },
+ {
   "id": "c8c52dfce916",
   "title": "Kompany lacht über Transfergerücht: \"Zum Glück haben wir euch\"",
   "player": "Zum Glück",
@@ -9,6 +48,19 @@
   "lv": 3,
   "src": "kicker Bundesliga (DE)",
   "url": "https://www.kicker.de/kompany-lacht-ueber-transfergeruecht-zum-glueck-haben-wir-euch-1249630/video#omrss",
+  "fee": null,
+  "published": "2026-09-04T08:46:57+00:00"
+ },
+ {
+  "id": "7837d005a0b5",
+  "title": "Kompany lacht über Transfergerücht",
+  "player": "Vincent Kompany",
+  "title_ko": "콤파니, 이적설에 웃었다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/kompany-lacht-ueber-transfergeruecht-1249630/video#omrss",
   "fee": null,
   "published": "2026-09-04T08:46:57+00:00"
  },
