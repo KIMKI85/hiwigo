@@ -1,5 +1,18 @@
 [
  {
+  "id": "f4b8bf0f3539",
+  "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
+  "player": null,
+  "title_ko": "서류: 첼시는 페르난데스의 대체자로 비소마를 영입할 기회를 제공했습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
+  "fee": null,
+  "published": "2026-09-04T22:18:00+00:00"
+ },
+ {
   "id": "0b7e1b83e64a",
   "title": "Schroers über geplatzten Wechsel: \"War ein kleiner Rückschlag\"",
   "player": "Dass Aachens Mika",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfers-best-worst-37620493",
   "fee": null,
   "published": "2026-09-02T16:08:32+00:00"
- },
- {
-  "id": "c3b1506ad6a7",
-  "title": "Ricardo Rodriguez set for Torino return after collapsed deadline day move to West Ham",
-  "player": "Ricardo Rodriguez",
-  "title_ko": "리카르도 로드리게스는 마감일에 웨스트햄으로 이적한 후 토리노로 복귀할 예정입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/rodriguez-set-for-torino-return-west-ham-off/",
-  "fee": null,
-  "published": "2026-09-02T14:52:17+00:00"
  }
 ]
