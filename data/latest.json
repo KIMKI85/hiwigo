@@ -1,5 +1,18 @@
 [
  {
+  "id": "6aa9de1d922a",
+  "title": "Chaotic Crystal Palace transfer window left Pierre Sage to run the gamut of emotions",
+  "player": "Pierre Sage",
+  "title_ko": "혼돈의 크리스탈 팰리스 전송 창이 Pierre Sage를 떠나 감정의 영역을 실행했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
+  "fee": null,
+  "published": "2026-09-04T11:58:29+00:00"
+ },
+ {
   "id": "a79e778d4339",
   "title": "DIRECT. OM: \"soulagé\" de voir le mercato terminé, Genesio ne veut pas s'enflammer sur les objectifs marseillais",
   "player": "Bruno Genesio",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/neun-neue-ein-kuriosum-und-hahns-wechsel-die-kapitaene-der-3-liga-1242045/slideshow#omrss",
   "fee": null,
   "published": "2026-09-02T11:38:52+00:00"
- },
- {
-  "id": "ae1eca0cfce5",
-  "title": "Celtic take goalkeeper Johnstone on loan from Wolves",
-  "player": "Former England",
-  "title_ko": "셀틱은 울브스로부터 골키퍼 존스톤을 임대 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-02T11:30:49+00:00"
  }
 ]
