@@ -1,5 +1,31 @@
 [
  {
+  "id": "a79e778d4339",
+  "title": "DIRECT. OM: \"soulagé\" de voir le mercato terminé, Genesio ne veut pas s'enflammer sur les objectifs marseillais",
+  "player": "Bruno Genesio",
+  "title_ko": "직접. OM: \"soulagé\" de voir le mercato terminé, Genesio ne veut pas s 'enflammer sur les objectifs marseillais",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-suivez-la-conference-de-presse-de-bruno-genesio-en-live-avant-le-match-face-au-paris-fc_LN-202609040448.html",
+  "fee": null,
+  "published": "2026-09-04T11:57:43+00:00"
+ },
+ {
+  "id": "db4aae698673",
+  "title": "OM : “Soulagé que le mercato soit terminé parce que ça a été très long et difficile”, explique Genesio",
+  "player": "Olympique de",
+  "title_ko": "OM: “Soulagé que le mercato soit terminé parce que ça a été très long et difficile”, explique Genesio",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/video-om-soulage-que-le-mercato-soit-termine-parce-que-ca-a-ete-tres-long-et-difficile-explique-genesio_VN-202609040559.html",
+  "fee": null,
+  "published": "2026-09-04T11:53:03+00:00"
+ },
+ {
   "id": "15ff58687730",
   "title": "Frattesi explains Lazio move and heaps praise on Gattuso: ‘I’d go to war for him’",
   "player": "Davide Frattesi",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-02T11:30:49+00:00"
- },
- {
-  "id": "748d23d04b08",
-  "title": "Milan called Scalvini on deadline day, but ‘only’ one Amorim target not signed",
-  "player": "Giorgio Scalvini",
-  "title_ko": "밀란은 마감일에 스칼비니에게 전화했지만 '오직' 아모림 타깃 한 명만 계약하지 않았다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-called-scalvini-deadline-day-amorim/",
-  "fee": null,
-  "published": "2026-09-02T11:21:45+00:00"
- },
- {
-  "id": "2fce88886a68",
-  "title": "Everton's amateurish transfer window was a SHAMBLES - it's no wonder Balogun did a runner",
-  "player": "Folarin Balogun",
-  "title_ko": "Everton의 아마추어 이적 기간은 엉망이었습니다. Balogun이 주자를 낸 것은 놀라운 일이 아닙니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/evertons-amateurish-transfer-window-shambles-37617755",
-  "fee": null,
-  "published": "2026-09-02T10:49:31+00:00"
  }
 ]
