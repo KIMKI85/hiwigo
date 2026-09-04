@@ -1,5 +1,18 @@
 [
  {
+  "id": "028408ea4450",
+  "title": "Liverpool news: Cody Gakpo's future clear as star issues statement after late transfer drama",
+  "player": "Cody Gakpo's",
+  "title_ko": "리버풀 뉴스: 늦은 이적 드라마 이후 코디 가포의 미래 명확한 스타 이슈 성명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-cody-gakpo-transfer-future-37623924",
+  "fee": null,
+  "published": "2026-09-04T04:00:00+00:00"
+ },
+ {
   "id": "02d38566388b",
   "title": "Arsenal could sign Barcelona star, wonderkid striker and free agent in transfers next year",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/plus-de-4-milliards-d-euros-depenses-un-milieu-a-400-millions-pour-city-les-nouveaux-records-fous-du-mercato-de-la-premier-league_AV-202609020230.html",
   "fee": null,
   "published": "2026-09-02T06:30:48+00:00"
- },
- {
-  "id": "216f995e365b",
-  "title": "Have Arsenal's rivals done enough in transfer window to challenge?",
-  "player": "Have Arsenal's",
-  "title_ko": "아스날의 라이벌들이 이적 시장에서 도전할 만큼 충분히 해냈나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-02T06:12:02+00:00"
  }
 ]
