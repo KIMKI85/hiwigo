@@ -1,5 +1,18 @@
 [
  {
+  "id": "c4c321aa4c7d",
+  "title": "Official: Torino transfers for Paleari and Anjorin, Cagliari send Borrelli to Turkiye",
+  "player": "Alberto Paleari",
+  "title_ko": "공식: Paleari와 Anjorin을 위한 Turin 이적, Cagliari는 Borrelli를 Turkiye로 보냅니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-torino-paleari-anjorin-cagliari/",
+  "fee": null,
+  "published": "2026-09-04T20:06:01+00:00"
+ },
+ {
   "id": "3f03cee26bc3",
   "title": "Luis Enrique signs new deal to extend PSG stay",
   "player": "Luis Enrique",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-02T14:48:09+00:00"
- },
- {
-  "id": "9e134549a94b",
-  "title": "Mercato: la grosse mise au point de Scuro sur les transferts avortés de Balogun et Camara",
-  "player": "Filipe Luis",
-  "title_ko": "Mercato: Balogun 및 Camara의 중단된 이적에 대한 Scuro의 대규모 업데이트",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-grosse-mise-au-point-de-scuro-sur-les-transferts-avortes-de-balogun-et-camara_AD-202609020629.html",
-  "fee": null,
-  "published": "2026-09-02T14:43:11+00:00"
  }
 ]
