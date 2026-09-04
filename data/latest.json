@@ -1,5 +1,31 @@
 [
  {
+  "id": "2bc737e17bb2",
+  "title": "Atlético de Madrid: le message de Diego Simeone à Julian Alvarez, retenu durant le mercato contre son gré",
+  "player": "Diego Simeone",
+  "title_ko": "아틀레티코 데 마드리드: le message de Diego Simeone à Julian Alvarez, retenu durant le mercato contre son gré",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/atletico-de-madrid-le-message-de-diego-simeone-a-julian-alvarez-retenu-durant-le-mercato-contre-son-gre_AV-202609040655.html",
+  "fee": null,
+  "published": "2026-09-04T14:13:44+00:00"
+ },
+ {
+  "id": "171ab5b14c10",
+  "title": "Julian Alvarez transfer saga in fresh twist as Man City 'made £129m bid' to hijack Arsenal",
+  "player": "Julian Alvarez",
+  "title_ko": "맨시티가 아스날을 탈취하기 위해 '£ 129M 입찰' 을 함에 따라 Julian Alvarez가 사가를 새롭게 변신시켰습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-man-city-37627728",
+  "fee": "£129M",
+  "published": "2026-09-04T14:01:51+00:00"
+ },
+ {
   "id": "11d0b68aaad1",
   "title": "Vor Duell mit Atletico: Terzic über Transfer-Wirrwarr um Alvarez",
   "player": "Vor Duell",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-as-monaco-ce-n-est-pas-la-fin-du-monde-thiago-scuro-explique-la-folle-soiree-monegasque-sur-les-deals-avortes-de-balogun-et-camara_VN-202609020605.html",
   "fee": null,
   "published": "2026-09-02T13:08:36+00:00"
- },
- {
-  "id": "3798e4639d57",
-  "title": "Top 10 most profitable Serie A sales of 2026 summer transfer window",
-  "player": "Marco Palestra",
-  "title_ko": "2026년 여름 이적 기간 세리에 A 매출 상위 10위",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/top-10-expensive-serie-a-sales-summer-2026/",
-  "fee": null,
-  "published": "2026-09-02T12:50:06+00:00"
- },
- {
-  "id": "8d281bfd519f",
-  "title": "Matarazzo: \"Estoy contento con los fichajes de Fort y Sarr y el equipo que tengo\"",
-  "player": null,
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/real-sociedad/2026/09/02/matarazzo-contento-fichajes-fort-sarr-equipo.html",
-  "fee": null,
-  "published": "2026-09-02T12:46:33+00:00"
  }
 ]
