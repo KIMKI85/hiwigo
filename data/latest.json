@@ -1,5 +1,18 @@
 [
  {
+  "id": "73f11b47613b",
+  "title": "García Plaza: \"Felicito al club por el fichaje de Fofana\"",
+  "player": "García Plaza",
+  "title_ko": "가르시아 플라자: \"포파나 영입을 축하합니다\"",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/04/garcia-plaza-felicito-club-fichaje-fofana.html",
+  "fee": null,
+  "published": "2026-09-04T11:06:15+00:00"
+ },
+ {
   "id": "af364c1c94a3",
   "title": "Liverpool target Minteh can still get dream move - Hurzeler",
   "player": "Fabian Hurzeler",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-liverpool-monaco-lamine-camara-37618310",
   "fee": null,
   "published": "2026-09-02T10:39:49+00:00"
- },
- {
-  "id": "6f0f24d7dba4",
-  "title": "Kessié’s agent blames Juventus for collapsed summer transfer",
-  "player": "George Atangana",
-  "title_ko": "케시에의 에이전트는 여름 이적 실패에 대해 유벤투스를 비난했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/kessie-blames-juventus-summer-transfer-off/",
-  "fee": null,
-  "published": "2026-09-02T10:15:46+00:00"
  }
 ]
