@@ -1,5 +1,18 @@
 [
  {
+  "id": "1109d4712d68",
+  "title": "Coventry sign winger Gboho - cousin of PSG's Doue",
+  "player": "Yann Gboho",
+  "title_ko": "코번트리 사인 윙어 Gboho - PSG의 Doue 사촌",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvgypzg4y75o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-04T14:32:38+00:00"
+ },
+ {
   "id": "2bc737e17bb2",
   "title": "Atlético de Madrid: le message de Diego Simeone à Julian Alvarez, retenu durant le mercato contre son gré",
   "player": "Diego Simeone",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/ismaila-sarr-agent-liverpool-crystalpalace-37619276",
   "fee": null,
   "published": "2026-09-02T13:09:10+00:00"
- },
- {
-  "id": "71ee02c65300",
-  "title": "AS Monaco : \"Ce n'est pas la fin du monde\", Thiago Scuro explique la folle soirée monégasque sur les deals avortés de Balogun et Camara",
-  "player": "Thiago Scuro",
-  "title_ko": "AS 모나코: “세상의 종말은 아니다”, Thiago Scuro는 Balogun과 Camara의 중단된 거래에 대한 Monegasque의 저녁에 대해 설명합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-as-monaco-ce-n-est-pas-la-fin-du-monde-thiago-scuro-explique-la-folle-soiree-monegasque-sur-les-deals-avortes-de-balogun-et-camara_VN-202609020605.html",
-  "fee": null,
-  "published": "2026-09-02T13:08:36+00:00"
  }
 ]
