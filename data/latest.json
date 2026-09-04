@@ -1,5 +1,18 @@
 [
  {
+  "id": "5f1a06520671",
+  "title": "Torino agreement for Anjorin to Goztepe, but Celtic never got Gineitis",
+  "player": "Tino Anjorin",
+  "title_ko": "안조린과 괴즈테페의 토리노 계약, 그러나 셀틱은 결코 Gineitis를 얻지 못했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/torino-agree-anjorin-goztepe-celtic-gineitis/",
+  "fee": null,
+  "published": "2026-09-04T15:26:11+00:00"
+ },
+ {
   "id": "1109d4712d68",
   "title": "Coventry sign winger Gboho - cousin of PSG's Doue",
   "player": "Yann Gboho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/folarin-balogun-everton-transfer-monaco-37619656",
   "fee": null,
   "published": "2026-09-02T13:13:42+00:00"
- },
- {
-  "id": "cb42b9e76785",
-  "title": "Ismaila Sarr's agent slams failed Liverpool transfer in furious statement",
-  "player": "Ismaila Sarr's",
-  "title_ko": "이스마일라 사르의 에이전트는 분노한 성명으로 리버풀 이적 실패를 비난했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ismaila-sarr-agent-liverpool-crystalpalace-37619276",
-  "fee": null,
-  "published": "2026-09-02T13:09:10+00:00"
  }
 ]
