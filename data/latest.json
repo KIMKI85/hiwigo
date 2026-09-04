@@ -1,5 +1,31 @@
 [
  {
+  "id": "a7d882d724fe",
+  "title": "1 Million Euro fest und dafür 19 an Boni? Lyons skurriler Nakamura-Deal",
+  "player": "Million Euro",
+  "title_ko": "고정 100만 유로에 보너스 19유로? 리옹의 기괴한 나카무라 거래",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/1-million-euro-fest-und-dafuer-19-an-boni-lyons-skurriler-nakamura-deal-1249686/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-04T13:08:06+00:00"
+ },
+ {
+  "id": "25229ccd4eb4",
+  "title": "Michael Carrick hints Man Utd fell short in transfer window and opens up on budget",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭은 맨유가 이적 기간이 부족하고 예산이 부족하다고 암시했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-everton-carrick-transfers-37626422",
+  "fee": null,
+  "published": "2026-09-04T12:56:26+00:00"
+ },
+ {
   "id": "04873ed4d80e",
   "title": "\"Long et difficile\": Bruno Genesio lâche ses vérités sur le mercato marseillais",
   "player": "Bruno Genesio",
@@ -388,6 +414,19 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-liverpool-man-utd-transfers-37624851",
   "fee": null,
   "published": "2026-09-03T18:08:43+00:00"
+ },
+ {
+  "id": "9e05e3dcb4e4",
+  "title": "Spurs latest: De Zerbi on Mudryk availability and Richarlison transfer",
+  "player": "De Zerbi",
+  "title_ko": "스퍼스 최신: Mudryk 가용성 및 Richarlison 이적에 대한 De Zerbi",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-03T18:00:00+00:00"
  },
  {
   "id": "0b445fd19712",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-deadline-chiesa-37618997",
   "fee": null,
   "published": "2026-09-02T12:40:49+00:00"
- },
- {
-  "id": "4a5ba20338d6",
-  "title": "Every Premier League club's transfer window graded as Man Utd, Liverpool and Arsenal shown up",
-  "player": null,
-  "title_ko": "맨유, 리버풀, 아스널로 등급이 매겨진 모든 프리미어리그 클럽의 이적 기간이 표시됩니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfer-window-graded-37617739",
-  "fee": null,
-  "published": "2026-09-02T12:12:59+00:00"
- },
- {
-  "id": "4392d02e3a29",
-  "title": "Sarr opens up after Juventus move from Tottenham: Pogba is the ‘role model’",
-  "player": "Pape Matar Sarr",
-  "title_ko": "유벤투스가 토트넘에서 이적한 후 사르가 열린다: 포그바는 ‘롤 모델’ 이다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/sarr-juventus-interview-tottenham-pogba-model/",
-  "fee": null,
-  "published": "2026-09-02T11:59:23+00:00"
- },
- {
-  "id": "bb87d3ae5227",
-  "title": "Mercato: Chelsea remonté contre Monaco après l'annulation du transfert de Lamine Camara",
-  "player": "Lamine Camara",
-  "title_ko": "메르카토: 첼시는 라미네 카마라의 이적이 취소된 후 모나코를 상대로 복귀한다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-chelsea-remonte-contre-monaco-apres-l-annulation-du-transfert-de-lamine-camara_AV-202609020533.html",
-  "fee": null,
-  "published": "2026-09-02T11:39:41+00:00"
  }
 ]
