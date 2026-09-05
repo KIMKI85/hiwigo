@@ -1,5 +1,18 @@
 [
  {
+  "id": "b7f97adbe8e3",
+  "title": "Ligue 3: quand un joueur du SC Bastia signe un plat du pied parfait... contre son camp",
+  "player": "Noah Zilliox",
+  "title_ko": "리그 3: quand un joueur du SC Bastia signe un plat du pied parfait... contre son camp",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/national/ligue-3-quand-un-joueur-du-sc-bastia-signe-un-plat-du-pied-parfait-contre-son-camp_AV-202609050364.html",
+  "fee": null,
+  "published": "2026-09-05T18:57:41+00:00"
+ },
+ {
   "id": "509495eba29c",
   "title": "D’Amico: ‘Roma happy Kone stayed with us’ despite late Chelsea bid",
   "player": "Manu Koné",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jadon-sancho-transfer-37621449",
   "fee": null,
   "published": "2026-09-03T06:00:00+00:00"
- },
- {
-  "id": "6e0f7842267a",
-  "title": "Transfer news LIVE: Late Arsenal deal completed, Jadon Sancho bombshell, Man Utd's £150m plan",
-  "player": "Jadon Sancho",
-  "title_ko": "이적 뉴스 라이브: 아스날 후반 계약 완료, Jadon Sancho 폭탄, Man Utd의 £150m 계획",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-arsenal-liverpool-37621750",
-  "fee": "£150M",
-  "published": "2026-09-03T05:37:16+00:00"
  }
 ]
