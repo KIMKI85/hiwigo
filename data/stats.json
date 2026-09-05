@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-05T10:44:02.152290+00:00",
+ "updated": "2026-09-05T15:20:11.268573+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-05",
+     "home": "Newcastle",
+     "away": "Bournemouth",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-09-04",
      "home": "Ipswich Town",
@@ -53,16 +60,15 @@
      "away": "Newcastle",
      "hs": 0,
      "as": 2
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Coventry City",
-     "away": "Hull City",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
+    {
+     "name": "Erling Haaland",
+     "team": "Man City",
+     "goals": 3,
+     "assists": 0
+    },
     {
      "name": "Alexander Isak",
      "team": "Liverpool",
@@ -78,6 +84,12 @@
     {
      "name": "Bukayo Saka",
      "team": "Arsenal",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Marcus Tavernier",
+     "team": "Bournemouth",
      "goals": 2,
      "assists": 0
     },
@@ -100,28 +112,16 @@
      "assists": 2
     },
     {
+     "name": "Joshua King",
+     "team": "Fulham",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Cole Palmer",
      "team": "Chelsea",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Erling Haaland",
-     "team": "Man City",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Rayan Cherki",
-     "team": "Man City",
-     "goals": 2,
-     "assists": 2
-    },
-    {
-     "name": "Kai Havertz",
-     "team": "Arsenal",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -254,6 +254,13 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-05",
+     "home": "Fiorentina",
+     "away": "Torino",
+     "hs": 1,
+     "as": 2
+    },
+    {
      "date": "2026-09-04",
      "home": "Genoa",
      "away": "Como 1907",
@@ -301,13 +308,6 @@
      "away": "Parma",
      "hs": 2,
      "as": 0
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Fiorentina",
-     "away": "Frosinone",
-     "hs": 0,
-     "as": 3
     }
    ],
    "scorers": [
@@ -342,6 +342,12 @@
      "assists": 0
     },
     {
+     "name": "Che Adams",
+     "team": "Torino",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Davide Frattesi",
      "team": "Lazio",
      "goals": 2,
@@ -364,12 +370,6 @@
      "team": "Como 1907",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Piotr Zieliński",
-     "team": "Inter",
-     "goals": 1,
-     "assists": 0
     }
    ]
   },
@@ -454,8 +454,32 @@
      "assists": 1
     },
     {
+     "name": "David Mokwa Ntusu",
+     "team": "Elversberg",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Patrik Schick",
+     "team": "Leverkusen",
+     "goals": 2,
+     "assists": 1
+    },
+    {
      "name": "Thijs Dallinga",
      "team": "1. FC Köln",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Sehrou Guirassy",
+     "team": "Dortmund",
+     "goals": 2,
+     "assists": 1
+    },
+    {
+     "name": "Hugo Bolin",
+     "team": "M'gladbach",
      "goals": 2,
      "assists": 0
     },
@@ -468,30 +492,6 @@
     {
      "name": "Michael Olise",
      "team": "Bayern",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Aleksandar Pavlović",
-     "team": "Bayern",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Luis Díaz",
-     "team": "Bayern",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Ridle Baku",
-     "team": "RB Leipzig",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Antonio Nusa",
-     "team": "RB Leipzig",
      "goals": 1,
      "assists": 0
     }
