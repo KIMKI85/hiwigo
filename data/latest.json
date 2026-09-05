@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd247cd7178b",
+  "title": "Malick Fofana speaks out after Mikel Arteta blocked deadline day Arsenal transfer",
+  "player": "Malick Fofana",
+  "title_ko": "Malick Fofana는 Mikel Arteta가 마감일을 막은 후 아스날 이적을 언급합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/malick-fofana-arsenal-transfer-sunderland-37630192",
+  "fee": null,
+  "published": "2026-09-05T09:17:41+00:00"
+ },
+ {
   "id": "112b70945c5e",
   "title": "Rangers failed to pursue Ferguson despite agreement - gossip",
   "player": "Lewis Ferguson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/falkirk-vs-rangers/live/558359",
   "fee": null,
   "published": "2026-09-02T18:30:00+00:00"
- },
- {
-  "id": "d19a37202b65",
-  "title": "Man Utd had 'very big' offer rejected in final hours of summer transfer window",
-  "player": null,
-  "title_ko": "맨체스터 유나이티드는 여름 이적 기간의 마지막 시간에 '매우 큰' 오퍼가 거부되었습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-louis-page-transfer-37620936",
-  "fee": null,
-  "published": "2026-09-02T18:14:48+00:00"
  }
 ]
