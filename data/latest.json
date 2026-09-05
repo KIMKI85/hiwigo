@@ -13,6 +13,19 @@
   "published": "2026-09-05T12:19:34+00:00"
  },
  {
+  "id": "f109894dc9bd",
+  "title": "Spurs yet to have a shot on target at Forest LIVE!",
+  "player": null,
+  "title_ko": "아직 목표를 향해 박차를 가하지 않은 포레스트 라이브를 향해 박차를 가하세요!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/nottingham-forest-vs-tottenham-hotspur/live/559473",
+  "fee": null,
+  "published": "2026-09-05T12:00:00+00:00"
+ },
+ {
   "id": "4106da2dfeb5",
   "title": "Liverpool confirm departure of Richard Hughes days after difficult transfer window ends",
   "player": "Richard Hughes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-02T19:47:24+00:00"
- },
- {
-  "id": "61de9e5094d5",
-  "title": "Atletico Madrid slammed for Julian Alvarez treatment after failed Arsenal move",
-  "player": "Julian Alvarez",
-  "title_ko": "아틀레티코 마드리드는 아스날 이적 실패로 줄리안 알바레스 치료를 비난받았다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-transfer-barcelona-arsenal-37621089",
-  "fee": null,
-  "published": "2026-09-02T18:48:56+00:00"
  }
 ]
