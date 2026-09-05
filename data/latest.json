@@ -1,5 +1,18 @@
 [
  {
+  "id": "6286c8b45453",
+  "title": "Man Utd news: Michael Carrick misses out on ‘real deal’ signing as striker seals transfer",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 뉴스: 마이클 캐릭이 스트라이커 이적으로 이적하면서 '진짜 거래' 계약을 놓쳤습니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37627939",
+  "fee": null,
+  "published": "2026-09-05T03:30:00+00:00"
+ },
+ {
   "id": "f0bf93195713",
   "title": "Arsenal news: New Julian Alvarez transfer offer emerges as Mikel Arteta snubbed by star",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-n-a-pas-atteint-les-objectifs-le-president-stephane-richard-dresse-un-premier-bilan-apres-un-mercato-sans-recrue_AV-202609020723.html",
   "fee": null,
   "published": "2026-09-02T16:52:24+00:00"
- },
- {
-  "id": "41d3192b3892",
-  "title": "Official: Napoli captain Di Lorenzo pens new long-term contract extension",
-  "player": "Di Lorenzo",
-  "title_ko": "공식: 나폴리의 주장 디 로렌조가 새로운 장기 계약 연장을 계획했습니다.",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/di-lorenzo-new-long-term-napoli-contract/",
-  "fee": null,
-  "published": "2026-09-02T16:48:28+00:00"
  }
 ]
