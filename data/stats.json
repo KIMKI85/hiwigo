@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-04T20:50:12.079390+00:00",
+ "updated": "2026-09-05T04:38:17.241398+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-04",
+     "home": "Ipswich Town",
+     "away": "Liverpool",
+     "hs": 0,
+     "as": 2
+    },
     {
      "date": "2026-08-31",
      "home": "Aston Villa",
@@ -52,13 +59,6 @@
      "home": "Coventry City",
      "away": "Hull City",
      "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Bournemouth",
-     "away": "Everton",
-     "hs": 1,
      "as": 1
     }
    ],
@@ -130,6 +130,20 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-04",
+     "home": "Real Betis",
+     "away": "Real Madrid",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-09-03",
+     "home": "Real Sociedad",
+     "away": "Celta",
+     "hs": 0,
+     "as": 0
+    },
+    {
      "date": "2026-08-31",
      "home": "Barça",
      "away": "Rayo Vallecano",
@@ -170,20 +184,6 @@
      "away": "Atleti",
      "hs": 1,
      "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Real Sociedad",
-     "away": "Espanyol",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Levante",
-     "away": "Real Betis",
-     "hs": 5,
-     "as": 2
     }
    ],
    "scorers": [
@@ -503,6 +503,13 @@
    "results": [
     {
      "date": "2026-09-04",
+     "home": "PSG",
+     "away": "Monaco",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-04",
      "home": "Olympique Lyon",
      "away": "Auxerre",
      "hs": 3,
@@ -549,13 +556,6 @@
      "away": "Angers SCO",
      "hs": 1,
      "as": 3
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Olympique Lyon",
-     "away": "Le Havre",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
