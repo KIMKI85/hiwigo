@@ -1,5 +1,31 @@
 [
  {
+  "id": "27d54248fd86",
+  "title": "LIVE! Zwei Wechsel auf beiden Seiten: Wer holt den zweiten Saisonsieg?",
+  "player": "Zwei Wechsel",
+  "title_ko": "살다! 양쪽 모두에 두 가지 변화가 있습니다. 시즌 두 번째 승리는 누가 차지하게 될까요?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-zwei-wechsel-auf-beiden-seiten-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-05T18:14:11+00:00"
+ },
+ {
+  "id": "9cceb98ffa72",
+  "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+  "player": "Enzo Maresca",
+  "title_ko": "페르난데스와 은디아예는 맨시티 데뷔전에서 유망한 모습을 보여주고 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-05T18:04:38+00:00"
+ },
+ {
   "id": "a585ef62266d",
   "title": "Lazio weigh up surprise move for former Inter midfielder Brozovic",
   "player": null,
