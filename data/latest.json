@@ -1,5 +1,18 @@
 [
  {
+  "id": "a585ef62266d",
+  "title": "Lazio weigh up surprise move for former Inter midfielder Brozovic",
+  "player": null,
+  "title_ko": "라치오, 전 인터밀란 미드필더 브로조비치의 깜짝 이적 검토 중",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-weigh-up-surprise-move-inter-brozovic/",
+  "fee": null,
+  "published": "2026-09-05T17:30:00+00:00"
+ },
+ {
   "id": "7f7998a72250",
   "title": "Le Fee penalty rescues draw for Sunderland at Brentford",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-bartishvili-martinelli-37619789",
   "fee": "£60M",
   "published": "2026-09-03T03:00:00+00:00"
- },
- {
-  "id": "a105681836b3",
-  "title": "Liverpool considered 8 wingers in summer transfer window before landing Bradley Barcola",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀은 브래들리 바르콜라를 영입하기 전 여름 이적시장에서 윙어 8명을 고려했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-bradley-barcola-gordon-37621324",
-  "fee": null,
-  "published": "2026-09-02T20:54:28+00:00"
  }
 ]
