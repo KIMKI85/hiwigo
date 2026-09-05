@@ -1,5 +1,18 @@
 [
  {
+  "id": "4cbdf034ed76",
+  "title": "Liverpool news: Andoni Iraola gets new transfer hope as signing announced after deadline",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀 뉴스: 안도니 이라올라는 마감일 이후 발표된 계약으로 새로운 이적 희망을 얻습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-andoni-iraola-signing-37629105",
+  "fee": null,
+  "published": "2026-09-05T04:00:00+00:00"
+ },
+ {
   "id": "6286c8b45453",
   "title": "Man Utd news: Michael Carrick misses out on ‘real deal’ signing as striker seals transfer",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker",
   "fee": null,
   "published": "2026-09-02T17:11:00+00:00"
- },
- {
-  "id": "ba4ed6f742cf",
-  "title": "OM: \"On n’a pas atteint les objectifs\", le président Stéphane Richard dresse un premier bilan après un mercato sans recrue",
-  "player": "Stéphane Richard",
-  "title_ko": "OM: “우리는 목표를 달성하지 못했습니다.” 스테판 리차드(Stéphane Richard) 회장은 신병 없이 이적 기간이 끝난 후 초기 평가를 작성합니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-on-n-a-pas-atteint-les-objectifs-le-president-stephane-richard-dresse-un-premier-bilan-apres-un-mercato-sans-recrue_AV-202609020723.html",
-  "fee": null,
-  "published": "2026-09-02T16:52:24+00:00"
  }
 ]
