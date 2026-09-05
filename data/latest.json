@@ -1,5 +1,18 @@
 [
  {
+  "id": "ee6749af81c5",
+  "title": "Eight players to miss Everton vs Man Utd Premier League clash including £70m signing",
+  "player": null,
+  "title_ko": "£70m 계약을 포함해 Everton 대 Man Utd 프리미어리그 경기를 놓칠 선수 8명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/everton-man-utd-premier-league-37630069",
+  "fee": "£70M",
+  "published": "2026-09-05T08:10:28+00:00"
+ },
+ {
   "id": "ac10525c8aa5",
   "title": "Frank Lampard upset John Terry with Man City transfer before really rubbing it in",
   "player": "Frank Lampard",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
   "fee": null,
   "published": "2026-09-02T17:46:40+00:00"
- },
- {
-  "id": "278a4ebbeb72",
-  "title": "OM: le mercato, Genesio, la DNCG... les réponses du président Stéphane Richard chez \"Rothen s'enflamme\"",
-  "player": "Stéphane Richard",
-  "title_ko": "OM: 이적 창구, Genesio, DNCG... \"Rothen is on fire\"에서 Stéphane Richard 회장의 답변",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-le-president-stephane-richard-invite-exceptionnel-de-rothen-s-enflamme_LN-202609020606.html",
-  "fee": null,
-  "published": "2026-09-02T17:11:10+00:00"
  }
 ]
