@@ -1,5 +1,18 @@
 [
  {
+  "id": "509495eba29c",
+  "title": "D’Amico: ‘Roma happy Kone stayed with us’ despite late Chelsea bid",
+  "player": "Manu Koné",
+  "title_ko": "D’Amico: 늦은 첼시 입찰에도 불구하고 ‘Roma happy Kone이 우리와 함께 머물렀습니다'",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/damico-roma-happy-kone-stayed-with-us-chelsea/",
+  "fee": null,
+  "published": "2026-09-05T18:24:49+00:00"
+ },
+ {
   "id": "27d54248fd86",
   "title": "LIVE! Zwei Wechsel auf beiden Seiten: Wer holt den zweiten Saisonsieg?",
   "player": "Zwei Wechsel",
@@ -9,6 +22,19 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/live-zwei-wechsel-auf-beiden-seiten-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-05T18:14:11+00:00"
+ },
+ {
+  "id": "7dfa99feaeed",
+  "title": "LIVE! Drei Wechsel bei Dynamo: Wer holt den zweiten Saisonsieg?",
+  "player": "Drei Wechsel",
+  "title_ko": "라이브! Drei Wechsel bei Dynamo: Wer holt den zweiten Saisonsieg?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-drei-wechsel-bei-dynamo-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
   "fee": null,
   "published": "2026-09-05T18:14:11+00:00"
  },
