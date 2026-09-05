@@ -1,5 +1,18 @@
 [
  {
+  "id": "f0bf93195713",
+  "title": "Arsenal news: New Julian Alvarez transfer offer emerges as Mikel Arteta snubbed by star",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날 뉴스: 미켈 아르테타가 별에 휩쓸리면서 새로운 줄리안 알바레즈 이적 제안이 등장합니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-martinelli-37628184",
+  "fee": null,
+  "published": "2026-09-05T03:00:00+00:00"
+ },
+ {
   "id": "f4b8bf0f3539",
   "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/di-lorenzo-new-long-term-napoli-contract/",
   "fee": null,
   "published": "2026-09-02T16:48:28+00:00"
- },
- {
-  "id": "eec57e9e3691",
-  "title": "Aasgaard set for Anderlecht switch as Rangers reject Raskin bid",
-  "player": "Thelo Aasgaard",
-  "title_ko": "레인저스가 Raskin 입찰을 거부함에 따라 Anderlecht 스위치에 대한 Aasgaard 세트",
-  "league": "LIGUE1",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c624z0q5y5jo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-02T16:21:25+00:00"
  }
 ]
