@@ -1,5 +1,44 @@
 [
  {
+  "id": "bfd6672e60a5",
+  "title": "Official: Inter lock Pio Esposito down to new contract until June 2032",
+  "player": "Pio Esposito",
+  "title_ko": "공식: 2032년 6월까지 Pio Esposito를 신규 계약으로 전환",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-inter-pio-esposito-new-contract-2032/",
+  "fee": null,
+  "published": "2026-09-06T14:12:53+00:00"
+ },
+ {
+  "id": "deccd7476864",
+  "title": "'I found out I wasn't in Man Utd squad on social media after deadline day move was blocked'",
+  "player": null,
+  "title_ko": "'마감일 이동이 차단된 후 소셜 미디어에서 맨유 선수단에 없다는 것을 알게 되었습니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-romero-37632819",
+  "fee": null,
+  "published": "2026-09-06T14:00:45+00:00"
+ },
+ {
+  "id": "96da62a79609",
+  "title": "Ein stärkeres Argument als Geld: Hofmann wechselt nicht nach Saudi-Arabien",
+  "player": "Jonas Hofmann",
+  "title_ko": "돈보다 더 강력한 주장: 호프만은 사우디아라비아로 이적하지 않는다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/ein-staerkeres-argument-als-geld-hofmann-wechselt-nicht-nach-saudi-arabien-1250233/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-06T13:57:01+00:00"
+ },
+ {
   "id": "b57f46f8fdcf",
   "title": "Ex-Leicester striker Vardy joins Burnley",
   "player": "Former Leicester",
@@ -1259,44 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/09/03/intrahistoria-fichaje-fofana.html",
   "fee": null,
   "published": "2026-09-03T13:07:55+00:00"
- },
- {
-  "id": "73dba071cf30",
-  "title": "Ligue 1: grosse tuile pour le RC Lens, la recrue Nawrocki victime d'une rupture du ligament croisé",
-  "player": "Maik Nawrocki",
-  "title_ko": "리그 1: 십자인대 파열로 부상당한 신인 Nawrocki RC Lens의 큰 문제",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/ligue-1-grosse-tuile-pour-le-rc-lens-la-recrue-nawrocki-victime-d-une-rupture-du-ligament-croise_AV-202609030563.html",
-  "fee": null,
-  "published": "2026-09-03T12:38:21+00:00"
- },
- {
-  "id": "4491450269eb",
-  "title": "Nächster Ex-Ulmer für Wörle: Münster verpflichtet Maier",
-  "player": "Nächster Ex-",
-  "title_ko": "Wörle의 다음 전 Ulmer : Münster가 Maier와 계약",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/naechster-ex-ulmer-fuer-woerle-muenster-verpflichtet-maier-1249418/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-03T12:30:10+00:00"
- },
- {
-  "id": "0ca1ee5d3aa7",
-  "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
-  "player": "Andoni Iraola",
-  "title_ko": "안도니 이라올라는 이적 전략을 옹호하고 리버풀이 옵션을 거절했다고 밝혔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
-  "fee": null,
-  "published": "2026-09-03T12:07:34+00:00"
  }
 ]
