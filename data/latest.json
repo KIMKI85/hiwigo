@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c8767216f35",
+  "title": "Kylian Mbappe made Chelsea transfer recommendation in Xabi Alonso call",
+  "player": "Kylian Mbappe",
+  "title_ko": "킬리안 음바페는 사비 알론소와의 통화에서 첼시 이적을 추천했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-mbappe-alonso-kone-37632995",
+  "fee": null,
+  "published": "2026-09-06T14:17:23+00:00"
+ },
+ {
   "id": "bfd6672e60a5",
   "title": "Official: Inter lock Pio Esposito down to new contract until June 2032",
   "player": "Pio Esposito",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/chido-obi-isak-man-utd-37623554",
   "fee": "£35M",
   "published": "2026-09-03T13:16:09+00:00"
- },
- {
-  "id": "2c4d87eaffad",
-  "title": "La intrahistoria del fichaje de Fofana",
-  "player": "Carlos Álvarez",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/09/03/intrahistoria-fichaje-fofana.html",
-  "fee": null,
-  "published": "2026-09-03T13:07:55+00:00"
  }
 ]
