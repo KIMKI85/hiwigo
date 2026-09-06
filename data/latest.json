@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a2f96de1811",
+  "title": "Ex-Liverpool and Newcastle ace vindicated after wife refused to move for transfer",
+  "player": "Loris Karius",
+  "title_ko": "전 리버풀과 뉴캐슬 에이스는 아내가 이적하기를 거부 한 후 옹호했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/loris-karius-bayern-wife-leotta-37633213",
+  "fee": null,
+  "published": "2026-09-06T16:29:33+00:00"
+ },
+ {
   "id": "daba16d2f840",
   "title": "Pio Esposito opens up on ’emotional’ Inter extension as he signs until 2032",
   "player": "Pio Esposito",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-03T15:05:22+00:00"
- },
- {
-  "id": "051cd1f6be00",
-  "title": "Keine Angst vor Bayern: Schalke zwischen Transfer-Wahnsinn und hohen Zielen",
-  "player": "Keine Angst",
-  "title_ko": "바이에른을 두려워하지 마세요: 이적 광기와 높은 목표 사이의 샬케",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/keine-angst-vor-bayern-schalke-zwischen-transfer-wahnsinn-und-hohen-zielen-1249477/video#omrss",
-  "fee": null,
-  "published": "2026-09-03T14:43:31+00:00"
  }
 ]
