@@ -1,5 +1,18 @@
 [
  {
+  "id": "b8cfdc24d07c",
+  "title": "Frosinone warning: ‘Ghedjemis must win back his place’ after transfer dispute",
+  "player": "Massimiliano Alvini",
+  "title_ko": "Frosinone 경고: 이전 분쟁 후 ’Ghedjemis는 자신의 자리를 되찾아야합니다'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frosinone-warning-ghedjemis-win-back-place/",
+  "fee": null,
+  "published": "2026-09-06T17:30:02+00:00"
+ },
+ {
   "id": "8a2f96de1811",
   "title": "Ex-Liverpool and Newcastle ace vindicated after wife refused to move for transfer",
   "player": "Loris Karius",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/ismaila-sarr-liverpool-palace-transfer-37624114",
   "fee": null,
   "published": "2026-09-03T15:37:36+00:00"
- },
- {
-  "id": "df48ccdacdb3",
-  "title": "Sarr needs time to process collapse of Liverpool move",
-  "player": "Ismaila Sarr",
-  "title_ko": "사르는 리버풀 이적 무산을 처리하는 데 시간이 필요하다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-03T15:05:22+00:00"
  }
 ]
