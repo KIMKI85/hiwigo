@@ -1,5 +1,18 @@
 [
  {
+  "id": "b57f46f8fdcf",
+  "title": "Ex-Leicester striker Vardy joins Burnley",
+  "player": "Former Leicester",
+  "title_ko": "전 레스터 스트라이커 Vardy, Burnley 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-06T13:41:36+00:00"
+ },
+ {
   "id": "488fee44bec4",
   "title": "Video: Diogo Leite arrives in Rome ahead of Lazio move",
   "player": "Diogo Leite",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
   "fee": null,
   "published": "2026-09-03T12:07:34+00:00"
- },
- {
-  "id": "fdd8a139a020",
-  "title": "Loan stars: Premier League youngsters to watch in the EFL",
-  "player": "From Maynor Figueroa",
-  "title_ko": "임대 스타: EFL에서 지켜봐야 할 프리미어리그 유소년들",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
-  "fee": null,
-  "published": "2026-09-03T12:00:27+00:00"
  }
 ]
