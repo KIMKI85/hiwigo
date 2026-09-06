@@ -1,5 +1,18 @@
 [
  {
+  "id": "3e79f4ecf012",
+  "title": "Arsenal 21-man transfer shortlist as Man City, Chelsea and Liverpool beat them to signings",
+  "player": null,
+  "title_ko": "맨시티, 첼시, 리버풀이 아스널을 제치고 영입하면서 아스날 이적 후보 21명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-shortlist-chelsea-liverpool-37632629",
+  "fee": null,
+  "published": "2026-09-06T12:25:55+00:00"
+ },
+ {
   "id": "f4b9262f2e7a",
   "title": "Arsenal missed out on two transfer targets 'due to Andrea Berta's approach'",
   "player": "Andrea Berta's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lucumi-reveals-cuadrado-advice-juventus-move/",
   "fee": null,
   "published": "2026-09-03T11:50:00+00:00"
- },
- {
-  "id": "3772dd047f55",
-  "title": "PSG-Monaco: \"On a fait un mercato exceptionnel\", revivez la conférence de presse de Luis Enrique avant le choc de la 3e journée de Ligue 1",
-  "player": "Luis Enrique",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-psg-monaco-suivez-la-conference-de-presse-de-luis-enrique-avant-le-choc-de-la-3e-journee-de-ligue-1_LN-202609030476.html",
-  "fee": null,
-  "published": "2026-09-03T11:29:28+00:00"
  }
 ]
