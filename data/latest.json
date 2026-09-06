@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c0c6f3bbe9b",
+  "title": "After transfer worries, Everton have an unlikely new hero",
+  "player": "Ainsley Maitland-",
+  "title_ko": "이적 걱정 후, 에버턴은 가능성이 희박한 새로운 영웅을 갖게 됩니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-06T19:09:59+00:00"
+ },
+ {
   "id": "b8cfdc24d07c",
   "title": "Frosinone warning: ‘Ghedjemis must win back his place’ after transfer dispute",
   "player": "Massimiliano Alvini",
@@ -76,6 +89,19 @@
   "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
   "fee": null,
   "published": "2026-09-06T15:16:08+00:00"
+ },
+ {
+  "id": "5faf9ddc8c0a",
+  "title": "No blockbuster signing but Arsenal's attack still finding another level",
+  "player": "Emirates Stadium",
+  "title_ko": "블록버스터 서명은 없지만 아스널의 공격은 여전히 다른 레벨을 찾습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
+  "fee": null,
+  "published": "2026-09-06T14:41:00+00:00"
  },
  {
   "id": "5c8767216f35",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
   "fee": "£60M",
   "published": "2026-09-03T16:30:08+00:00"
- },
- {
-  "id": "2bd186b2b599",
-  "title": "Arsenal medical underway with third Gunners signing already lined up for 2027",
-  "player": "Andria Bartishvili",
-  "title_ko": "2027년을 위해 이미 세 번째 거너 영입이 예정된 아스날 메디컬 진행 중",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-latest-andria-bartishvili-37624879",
-  "fee": null,
-  "published": "2026-09-03T16:14:37+00:00"
- },
- {
-  "id": "37a5be1890dc",
-  "title": "Rangers buy Portland's Kelsy and take Stuttgart's Bouanani on loan",
-  "player": "Portland's Kelsy",
-  "title_ko": "레인저들은 포틀랜드의 켈시를 사들여 슈투트가르트의 부아나니를 빌려준다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-03T16:05:13+00:00"
  }
 ]
