@@ -1,5 +1,31 @@
 [
  {
+  "id": "daba16d2f840",
+  "title": "Pio Esposito opens up on ’emotional’ Inter extension as he signs until 2032",
+  "player": "Pio Esposito",
+  "title_ko": "피오 에스포지토 (Pio Esposito) 는 2032년까지 서명하면서 ’감성적인’ 인터 익스텐션을 엽니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pio-esposito-opens-emotional-inter-extension/",
+  "fee": null,
+  "published": "2026-09-06T16:29:22+00:00"
+ },
+ {
+  "id": "800930232c6a",
+  "title": "Schock nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
+  "player": "Reporter Sebastian Wolff",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/schock-nach-transfer-hype-vieira-allein-kann-diesem-hsv-nicht-helfen-1250298/video#omrss",
+  "fee": null,
+  "published": "2026-09-06T16:10:12+00:00"
+ },
+ {
   "id": "41e638c41626",
   "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
   "player": "Jamie Vardy",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/keine-angst-vor-bayern-schalke-zwischen-transfer-wahnsinn-und-hohen-zielen-1249477/video#omrss",
   "fee": null,
   "published": "2026-09-03T14:43:31+00:00"
- },
- {
-  "id": "aec09e44a2f0",
-  "title": "Arsenal deal for Bruno Guimaraes rated one out of 10 in brutal transfer ranking",
-  "player": "Bruno Guimaraes",
-  "title_ko": "브루노 기마랑스의 아스날 거래는 잔인한 이적 순위에서 10점 만점에 1점을 받았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-guimaraes-arsenal-newcastle-transfer-37623697",
-  "fee": null,
-  "published": "2026-09-03T13:51:38+00:00"
- },
- {
-  "id": "502010437094",
-  "title": "\"34 Sekunden waren noch auf der Uhr\": So knapp war Hwangs Schalke-Wechsel",
-  "player": "Hwangs Schalke-",
-  "title_ko": "“시간 34초 남았다”: 황의조의 샬케 이적은 그만큼 아슬아슬했다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/34-sekunden-waren-noch-auf-der-uhr-so-knapp-war-hwangs-schalke-wechsel-1249459/video#omrss",
-  "fee": null,
-  "published": "2026-09-03T13:51:31+00:00"
  }
 ]
