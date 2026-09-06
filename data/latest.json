@@ -1,5 +1,18 @@
 [
  {
+  "id": "3cedcd19b4b7",
+  "title": "The Friedkin Group must back David Moyes after Everton's disastrous transfer window",
+  "player": "Friedkin Group",
+  "title_ko": "프리드킨 그룹은 에버튼의 비참한 이적 기간 이후 데이비드 모예스를 지원해야 합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/everton-owners-friedkin-david-moyes-37630608",
+  "fee": null,
+  "published": "2026-09-06T08:29:27+00:00"
+ },
+ {
   "id": "1e0688c2d9ff",
   "title": "Aberdeen could move for former Rangers midfielder - gossip",
   "player": "Greg Doherty",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window",
   "fee": null,
   "published": "2026-09-03T10:51:46+00:00"
- },
- {
-  "id": "abe6bb785caf",
-  "title": "Man Utd loan out Chido Obi as youngster risks following concerning Old Trafford pattern",
-  "player": "Chido Obi",
-  "title_ko": "맨유는 올드 트래포드 패턴에 따른 위험을 감수하면서 치도 오비를 어린 선수로 임대했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chido-obi-loan-37622159",
-  "fee": null,
-  "published": "2026-09-03T10:01:18+00:00"
  }
 ]
