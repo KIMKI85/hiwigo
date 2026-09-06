@@ -1,5 +1,18 @@
 [
  {
+  "id": "41e638c41626",
+  "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
+  "player": "Jamie Vardy",
+  "title_ko": "제이미 바디(Jamie Vardy)는 챔피언십 투쟁자들과 계약을 체결한 후 번리에서 파티를 열었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
+  "fee": null,
+  "published": "2026-09-06T15:16:08+00:00"
+ },
+ {
   "id": "5c8767216f35",
   "title": "Kylian Mbappe made Chelsea transfer recommendation in Xabi Alonso call",
   "player": "Kylian Mbappe",
@@ -37,6 +50,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-romero-37632819",
   "fee": null,
   "published": "2026-09-06T14:00:45+00:00"
+ },
+ {
+  "id": "3acdf3b86ece",
+  "title": "WSL: New signing Baum shines for Arsenal as Man City start defence with win",
+  "player": "Sky Sports",
+  "title_ko": "WSL: 맨시티가 승리로 수비를 시작하면서 새로운 영입 바움이 아스날에 빛을 발한다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13581388/womens-super-league-round-up-lisa-baum-shines-on-arsenal-debut-to-beat-brighton-and-tottenham-dominate-west-ham",
+  "fee": null,
+  "published": "2026-09-06T14:00:00+00:00"
  },
  {
   "id": "96da62a79609",
