@@ -39,6 +39,19 @@
   "published": "2026-09-06T16:29:22+00:00"
  },
  {
+  "id": "1a113c5e9e4d",
+  "title": "Ernüchterung nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
+  "player": "Reporter Sebastian Wolff",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/ernuechterung-nach-transfer-hype-vieira-allein-kann-diesem-hsv-nicht-helfen-1250298/video#omrss",
+  "fee": null,
+  "published": "2026-09-06T16:10:12+00:00"
+ },
+ {
   "id": "800930232c6a",
   "title": "Schock nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
   "player": "Reporter Sebastian Wolff",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-03T16:05:13+00:00"
- },
- {
-  "id": "1b6297bf0dab",
-  "title": "Ismaila Sarr dream transfer amid Liverpool interest as stance perfectly clear",
-  "player": "Ismaila Sarr",
-  "title_ko": "리버풀의 관심 속에서 이스마일라 사르의 꿈 이적은 입장이 완벽하게 명확함",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/ismaila-sarr-liverpool-palace-transfer-37624114",
-  "fee": null,
-  "published": "2026-09-03T15:37:36+00:00"
  }
 ]
