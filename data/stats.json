@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T20:28:21.211306+00:00",
+ "updated": "2026-09-06T04:48:56.072798+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -131,6 +131,13 @@
    "results": [
     {
      "date": "2026-09-05",
+     "home": "Villarreal",
+     "away": "Deportivo",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-05",
      "home": "Rayo Vallecano",
      "away": "Santander",
      "hs": 3,
@@ -177,13 +184,6 @@
      "away": "Athletic",
      "hs": 0,
      "as": 2
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Deportivo",
-     "away": "Valencia",
-     "hs": 3,
-     "as": 1
     }
    ],
    "scorers": [
@@ -200,6 +200,12 @@
      "assists": 0
     },
     {
+     "name": "Pierre-Emerick Aubameyang",
+     "team": "Deportivo",
+     "goals": 4,
+     "assists": 2
+    },
+    {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
      "goals": 4,
@@ -210,12 +216,6 @@
      "team": "Espanyol",
      "goals": 3,
      "assists": 0
-    },
-    {
-     "name": "Pierre-Emerick Aubameyang",
-     "team": "Deportivo",
-     "goals": 3,
-     "assists": 1
     },
     {
      "name": "Álex Baena",
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-05",
+     "home": "Roma",
+     "away": "Atalanta",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-05",
      "home": "Inter",
@@ -301,13 +308,6 @@
      "away": "Genoa",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Napoli",
-     "away": "Como 1907",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
@@ -503,6 +503,20 @@
    "results": [
     {
      "date": "2026-09-05",
+     "home": "Nice",
+     "away": "Le Mans",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-05",
+     "home": "Le Havre",
+     "away": "Brest",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-05",
      "home": "RC Lens",
      "away": "Lorient",
      "hs": 0,
@@ -541,20 +555,6 @@
      "home": "Stade Rennais",
      "away": "Le Mans",
      "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Paris FC",
-     "away": "Nice",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-08-29",
-     "home": "Brest",
-     "away": "Toulouse",
-     "hs": 2,
      "as": 2
     }
    ],
