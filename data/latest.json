@@ -1,5 +1,18 @@
 [
  {
+  "id": "ba58bae8ab3a",
+  "title": "Buffon sees Juventus ‘advantage’ against Milan, reveals advice to Vicario after move from Tottenham",
+  "player": "Gianluigi Buffon",
+  "title_ko": "부폰은 밀란을 상대로 유벤투스의 '이점'을 보고 토트넘에서 이적한 후 비카리오에게 조언을 전했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/buffon-juventus-advantage-milan-vicario-advice/",
+  "fee": null,
+  "published": "2026-09-06T08:47:25+00:00"
+ },
+ {
   "id": "3cedcd19b4b7",
   "title": "The Friedkin Group must back David Moyes after Everton's disastrous transfer window",
   "player": "Friedkin Group",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/spalletti-on-juventus-transfer-market/",
   "fee": null,
   "published": "2026-09-03T11:25:00+00:00"
- },
- {
-  "id": "265db78806e8",
-  "title": "Arsenal bank on continuity after big names elude them late in transfer window",
-  "player": "Vinícius Júnior",
-  "title_ko": "거물들이 이적 기간에 늦게 그들을 피한 후 연속성을 유지하는 아스날 은행",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window",
-  "fee": null,
-  "published": "2026-09-03T10:51:46+00:00"
  }
 ]
