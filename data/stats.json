@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-06T11:05:23.910703+00:00",
+ "updated": "2026-09-06T15:32:50.227359+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Everton",
+     "away": "Man United",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-09-05",
      "home": "Hull City",
@@ -52,13 +59,6 @@
      "home": "Newcastle",
      "away": "Bournemouth",
      "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-09-04",
-     "home": "Ipswich Town",
-     "away": "Liverpool",
-     "hs": 0,
      "as": 2
     }
    ],
@@ -188,20 +188,26 @@
    ],
    "scorers": [
     {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 6,
+     "assists": 0
+    },
+    {
      "name": "Sergio Camello",
      "team": "Rayo Vallecano",
      "goals": 5,
      "assists": 1
     },
     {
-     "name": "Raphinha",
-     "team": "Barça",
-     "goals": 5,
-     "assists": 0
-    },
-    {
      "name": "Pierre-Emerick Aubameyang",
      "team": "Deportivo",
+     "goals": 4,
+     "assists": 2
+    },
+    {
+     "name": "Fermín López",
+     "team": "Barça",
      "goals": 4,
      "assists": 2
     },
@@ -224,14 +230,14 @@
      "assists": 1
     },
     {
-     "name": "Fermín López",
-     "team": "Barça",
+     "name": "Yassir Zabiri",
+     "team": "Santander",
      "goals": 3,
      "assists": 0
     },
     {
-     "name": "Yassir Zabiri",
-     "team": "Santander",
+     "name": "Lamine Yamal",
+     "team": "Barça",
      "goals": 3,
      "assists": 0
     },
@@ -240,12 +246,6 @@
      "team": "Alavés",
      "goals": 2,
      "assists": 2
-    },
-    {
-     "name": "Nicolas Pépé",
-     "team": "Villarreal",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,20 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Frosinone",
+     "away": "Venezia FC",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-09-06",
+     "home": "Parma",
+     "away": "Monza",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-05",
      "home": "Roma",
@@ -294,20 +308,6 @@
      "away": "Roma",
      "hs": 0,
      "as": 4
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Cagliari",
-     "away": "Inter",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Lazio",
-     "away": "Genoa",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -315,6 +315,12 @@
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 5,
+     "assists": 0
+    },
+    {
+     "name": "Antonio Raimondo",
+     "team": "Frosinone",
+     "goals": 4,
      "assists": 0
     },
     {
@@ -354,12 +360,6 @@
      "assists": 0
     },
     {
-     "name": "Antonio Raimondo",
-     "team": "Frosinone",
-     "goals": 2,
-     "assists": 0
-    },
-    {
      "name": "Martin Baturina",
      "team": "Como 1907",
      "goals": 2,
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "HSV",
+     "away": "Mainz",
+     "hs": 0,
+     "as": 5
+    },
     {
      "date": "2026-09-05",
      "home": "Schalke",
@@ -425,13 +432,6 @@
      "away": "1. FC Köln",
      "hs": 4,
      "as": 1
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Augsburg",
-     "away": "Schalke",
-     "hs": 3,
-     "as": 0
     }
    ],
    "scorers": [
@@ -502,6 +502,13 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-06",
+     "home": "Troyes",
+     "away": "Strasbourg",
+     "hs": 2,
+     "as": 6
+    },
+    {
      "date": "2026-09-05",
      "home": "Nice",
      "away": "Le Mans",
@@ -549,13 +556,6 @@
      "away": "Marseille",
      "hs": 2,
      "as": 0
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Stade Rennais",
-     "away": "Le Mans",
-     "hs": 3,
-     "as": 2
     }
    ],
    "scorers": [
@@ -605,7 +605,7 @@
      "name": "Gessime Yassine",
      "team": "Strasbourg",
      "goals": 2,
-     "assists": 0
+     "assists": 1
     },
     {
      "name": "Paris Brunner",
@@ -614,9 +614,9 @@
      "assists": 0
     },
     {
-     "name": "Keyliane Abdallah",
-     "team": "Marseille",
-     "goals": 1,
+     "name": "Samuel Amo-Ameyaw",
+     "team": "Strasbourg",
+     "goals": 2,
      "assists": 0
     }
    ]
