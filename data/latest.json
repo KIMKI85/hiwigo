@@ -13,6 +13,19 @@
   "published": "2026-09-06T19:09:59+00:00"
  },
  {
+  "id": "6908ef89f33e",
+  "title": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+  "player": "David Moyes",
+  "title_ko": "‘변명 금지’: 모이스는 맨유의 무승부 이후 이적 문제가 에버턴을 해치지 않을 것이라고 말합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
+  "fee": null,
+  "published": "2026-09-06T18:49:39+00:00"
+ },
+ {
   "id": "b8cfdc24d07c",
   "title": "Frosinone warning: ‘Ghedjemis must win back his place’ after transfer dispute",
   "player": "Massimiliano Alvini",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
   "fee": "£60M",
   "published": "2026-09-03T16:30:43+00:00"
- },
- {
-  "id": "61946e961184",
-  "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-  "player": "Gabriel Martinelli",
-  "title_ko": "가브리엘 마르티넬리(Gabriel Martinelli)는 £60m에 아스날을 떠나 사우디아라비아의 알힐랄로 이적했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-  "fee": "£60M",
-  "published": "2026-09-03T16:30:08+00:00"
  }
 ]
