@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-06T15:32:50.227359+00:00",
+ "updated": "2026-09-06T20:29:42.870926+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Arsenal",
+     "away": "Chelsea",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-06",
      "home": "Everton",
@@ -53,13 +60,6 @@
      "away": "Tottenham",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Newcastle",
-     "away": "Bournemouth",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -82,7 +82,19 @@
      "assists": 1
     },
     {
+     "name": "Kai Havertz",
+     "team": "Arsenal",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Bukayo Saka",
+     "team": "Arsenal",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Martin Ødegaard",
      "team": "Arsenal",
      "goals": 2,
      "assists": 0
@@ -110,18 +122,6 @@
      "team": "Newcastle",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "João Pedro",
-     "team": "Chelsea",
-     "goals": 2,
-     "assists": 2
-    },
-    {
-     "name": "Joshua King",
-     "team": "Fulham",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,27 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Málaga",
+     "away": "Levante",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-06",
+     "home": "Alavés",
+     "away": "Osasuna",
+     "hs": 5,
+     "as": 2
+    },
+    {
+     "date": "2026-09-06",
+     "home": "Valencia",
+     "away": "Barça",
+     "hs": 0,
+     "as": 5
+    },
     {
      "date": "2026-09-05",
      "home": "Villarreal",
@@ -163,27 +184,6 @@
      "away": "Celta",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-08-31",
-     "home": "Barça",
-     "away": "Rayo Vallecano",
-     "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-08-31",
-     "home": "Osasuna",
-     "away": "Getafe",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Celta",
-     "away": "Athletic",
-     "hs": 0,
-     "as": 2
     }
    ],
    "scorers": [
@@ -218,34 +218,34 @@
      "assists": 0
     },
     {
-     "name": "Roberto Fernández",
-     "team": "Espanyol",
-     "goals": 3,
+     "name": "Ante Budimir",
+     "team": "Osasuna",
+     "goals": 4,
      "assists": 0
     },
     {
-     "name": "Álex Baena",
-     "team": "Atleti",
-     "goals": 3,
-     "assists": 1
-    },
-    {
-     "name": "Yassir Zabiri",
-     "team": "Santander",
-     "goals": 3,
+     "name": "Lucas Boyé",
+     "team": "Alavés",
+     "goals": 4,
      "assists": 0
     },
     {
      "name": "Lamine Yamal",
      "team": "Barça",
-     "goals": 3,
+     "goals": 4,
      "assists": 0
     },
     {
      "name": "Mariano Díaz",
      "team": "Alavés",
-     "goals": 2,
-     "assists": 2
+     "goals": 3,
+     "assists": 3
+    },
+    {
+     "name": "Roberto Fernández",
+     "team": "Espanyol",
+     "goals": 3,
+     "assists": 0
     }
    ]
   },
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Bologna",
+     "away": "Sassuolo",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-09-06",
      "home": "Frosinone",
@@ -301,13 +308,6 @@
      "away": "Bologna",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-08-31",
-     "home": "Lecce",
-     "away": "Roma",
-     "hs": 0,
-     "as": 4
     }
    ],
    "scorers": [
@@ -348,6 +348,12 @@
      "assists": 0
     },
     {
+     "name": "Alphadjo Cisse",
+     "team": "Milan",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Che Adams",
      "team": "Torino",
      "goals": 2,
@@ -364,12 +370,6 @@
      "team": "Como 1907",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Rasmus Højlund",
-     "team": "Napoli",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-06",
+     "home": "Frankfurt",
+     "away": "Augsburg",
+     "hs": 1,
+     "as": 4
+    },
     {
      "date": "2026-09-06",
      "home": "HSV",
@@ -425,13 +432,6 @@
      "away": "RB Leipzig",
      "hs": 3,
      "as": 1
-    },
-    {
-     "date": "2026-09-04",
-     "home": "Stuttgart",
-     "away": "1. FC Köln",
-     "hs": 4,
-     "as": 1
     }
    ],
    "scorers": [
@@ -439,7 +439,7 @@
      "name": "Younes Ebnoutalib",
      "team": "Frankfurt",
      "goals": 3,
-     "assists": 0
+     "assists": 1
     },
     {
      "name": "Yuito Suzuki",
@@ -503,6 +503,13 @@
    "results": [
     {
      "date": "2026-09-06",
+     "home": "Angers SCO",
+     "away": "Stade Rennais",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-06",
      "home": "Troyes",
      "away": "Strasbourg",
      "hs": 2,
@@ -549,21 +556,26 @@
      "away": "Lille",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-08-30",
-     "home": "Monaco",
-     "away": "Marseille",
-     "hs": 2,
-     "as": 0
     }
    ],
    "scorers": [
+    {
+     "name": "Amine Gouiri",
+     "team": "Marseille",
+     "goals": 4,
+     "assists": 0
+    },
     {
      "name": "Kamory Doumbia",
      "team": "Brest",
      "goals": 4,
      "assists": 1
+    },
+    {
+     "name": "Lassine Sinayoko",
+     "team": "Paris FC",
+     "goals": 4,
+     "assists": 0
     },
     {
      "name": "Florian Thauvin",
@@ -581,12 +593,6 @@
      "name": "Esteban Lepaul",
      "team": "Stade Rennais",
      "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Amine Gouiri",
-     "team": "Marseille",
-     "goals": 2,
      "assists": 0
     },
     {
@@ -610,12 +616,6 @@
     {
      "name": "Paris Brunner",
      "team": "Monaco",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Samuel Amo-Ameyaw",
-     "team": "Strasbourg",
      "goals": 2,
      "assists": 0
     }
