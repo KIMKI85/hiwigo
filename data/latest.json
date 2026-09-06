@@ -1,5 +1,18 @@
 [
  {
+  "id": "488fee44bec4",
+  "title": "Video: Diogo Leite arrives in Rome ahead of Lazio move",
+  "player": "Diogo Leite",
+  "title_ko": "비디오: 디오구 레이테, 라치오 이적에 앞서 로마에 도착",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
+  "fee": null,
+  "published": "2026-09-06T12:52:07+00:00"
+ },
+ {
   "id": "3e79f4ecf012",
   "title": "Arsenal 21-man transfer shortlist as Man City, Chelsea and Liverpool beat them to signings",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
   "fee": null,
   "published": "2026-09-03T12:00:27+00:00"
- },
- {
-  "id": "e9f902ec27ea",
-  "title": "Lucumi reveals Cuadrado advice on Juventus move: ‘He told me I had to come here’",
-  "player": "Jhon Lucumi",
-  "title_ko": "루쿠미는 유벤투스 이적에 대한 콰드라도의 조언을 밝혔습니다: '그는 내가 여기로 와야 한다고 말했어요'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lucumi-reveals-cuadrado-advice-juventus-move/",
-  "fee": null,
-  "published": "2026-09-03T11:50:00+00:00"
  }
 ]
