@@ -1,5 +1,18 @@
 [
  {
+  "id": "1e0688c2d9ff",
+  "title": "Aberdeen could move for former Rangers midfielder - gossip",
+  "player": "Greg Doherty",
+  "title_ko": "애버딘은 전 레인저스 미드필더로 이적할 수도 있다 - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwyzj20rxe3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-06T07:50:27+00:00"
+ },
+ {
   "id": "789dcb03307f",
   "title": "Liverpool star signed for £11.5m gets new life in music after retiring aged 37",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chido-obi-loan-37622159",
   "fee": null,
   "published": "2026-09-03T10:01:18+00:00"
- },
- {
-  "id": "24ec604415af",
-  "title": "Arsenal poised to land PSG’s Élisa De Almeida on WSL transfer deadline day",
-  "player": "Élisa De Almeida",
-  "title_ko": "아스널은 WSL 이적 마감일에 PSG의 엘리사 데 알메이다를 착륙시킬 태세였다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg",
-  "fee": null,
-  "published": "2026-09-03T09:28:56+00:00"
  }
 ]
