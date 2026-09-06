@@ -1,5 +1,18 @@
 [
  {
+  "id": "f4b9262f2e7a",
+  "title": "Arsenal missed out on two transfer targets 'due to Andrea Berta's approach'",
+  "player": "Andrea Berta's",
+  "title_ko": "아스널은 '안드레아 베르타의 접근으로 인해' 두 개의 이적 대상을 놓쳤다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-leicester-city-berta-37632475",
+  "fee": null,
+  "published": "2026-09-06T10:25:23+00:00"
+ },
+ {
   "id": "ba58bae8ab3a",
   "title": "Buffon sees Juventus ‘advantage’ against Milan, reveals advice to Vicario after move from Tottenham",
   "player": "Gianluigi Buffon",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-psg-monaco-suivez-la-conference-de-presse-de-luis-enrique-avant-le-choc-de-la-3e-journee-de-ligue-1_LN-202609030476.html",
   "fee": null,
   "published": "2026-09-03T11:29:28+00:00"
- },
- {
-  "id": "c2f009ded2b8",
-  "title": "Spalletti praises Juventus transfer work: ‘The perfect market doesn’t exist any more’",
-  "player": "Luciano Spalletti",
-  "title_ko": "Spalletti는 유벤투스 이적 작업을 칭찬합니다: '완벽한 시장은 더 이상 존재하지 않습니다'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/spalletti-on-juventus-transfer-market/",
-  "fee": null,
-  "published": "2026-09-03T11:25:00+00:00"
  }
 ]
