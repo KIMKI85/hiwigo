@@ -1,5 +1,31 @@
 [
  {
+  "id": "0f2c6e7d6c5b",
+  "title": "Juventus schedule medical tests for captain Locatelli after 1-1 Milan draw",
+  "player": "Manuel Locatelli",
+  "title_ko": "유벤투스는 밀라노 1-1 무승부 후 로카텔리 선장의 메디컬 테스트 일정을 잡았다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-schedule-medical-tests-for-locatelli/",
+  "fee": null,
+  "published": "2026-09-07T15:02:18+00:00"
+ },
+ {
+  "id": "a1cb9ee1cc17",
+  "title": "Man Utd signing 'isn't the answer' as Michael Carrick treatment sums up problem",
+  "player": "Michael Carrick",
+  "title_ko": "맨체스터 유나이티드, 마이클 캐릭 치료로 '답이 아니다' 서명 문제 정리",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sesko-37636415",
+  "fee": null,
+  "published": "2026-09-07T15:00:04+00:00"
+ },
+ {
   "id": "4e4bae43ab16",
   "title": "Unseen moment between Andrea Berta and Chelsea star in tunnel sparks Arsenal transfer frenzy",
   "player": "Andrea Berta",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13581025/everton-transfer-news-toffees-eye-shock-move-for-free-agent-jamie-vardy-after-folarin-balogun-deal-falls-through-paper-talk",
   "fee": null,
   "published": "2026-09-03T22:30:00+00:00"
- },
- {
-  "id": "674692f96816",
-  "title": "London City claim sponsor deal is record and bigger than some in Premier League",
-  "player": "Michele Kang",
-  "title_ko": "런던 시티의 스폰서 계약은 기록적이며 프리미어 리그의 일부 계약보다 더 큽니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/03/nike-deal-breaks-new-ground-london-city-lionesses-wsl",
-  "fee": null,
-  "published": "2026-09-03T21:33:17+00:00"
- },
- {
-  "id": "84f923cea0eb",
-  "title": "Ligue 1: la nouvelle recrue Ueda délivre Lille face Toulouse pour lancer la troisième journée",
-  "player": null,
-  "title_ko": "리그 1: 새로운 영입 우에다가 툴루즈를 상대로 릴을 데려와 셋째 날 출발",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-lille-suivez-le-match-d-ouverture-de-la-3e-journee-de-ligue-1-en-live_LS-202609030631.html",
-  "fee": null,
-  "published": "2026-09-03T20:41:50+00:00"
  }
 ]
