@@ -1,5 +1,18 @@
 [
  {
+  "id": "601e0ac1e069",
+  "title": "Chelsea explored move for Fulham midfielder Berge",
+  "player": "Fulham's Sander Berge",
+  "title_ko": "첼시는 풀럼의 미드필더 베르게의 이적을 모색했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-07T16:03:52+00:00"
+ },
+ {
   "id": "0f2c6e7d6c5b",
   "title": "Juventus schedule medical tests for captain Locatelli after 1-1 Milan draw",
   "player": "Manuel Locatelli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-hall-37624501",
   "fee": "£120M",
   "published": "2026-09-04T03:30:00+00:00"
- },
- {
-  "id": "2dbd2e1e54e4",
-  "title": "Papers: Everton eye shock Vardy move to solve striker problem",
-  "player": null,
-  "title_ko": "논문: Everton의 눈 충격 Vardy가 공격수 문제를 해결하기 위해 움직임",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13581025/everton-transfer-news-toffees-eye-shock-move-for-free-agent-jamie-vardy-after-folarin-balogun-deal-falls-through-paper-talk",
-  "fee": null,
-  "published": "2026-09-03T22:30:00+00:00"
  }
 ]
