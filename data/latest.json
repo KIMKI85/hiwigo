@@ -1,5 +1,44 @@
 [
  {
+  "id": "8081d8a32152",
+  "title": "Arsenal profit as Chelsea called out for transfer blunder - 'It’s got to stop happening'",
+  "player": "Emirates Stadium",
+  "title_ko": "첼시가 이적 실수를 주장한 아스널의 이익 - '그런 일은 그만둬야 한다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-chelsea-kai-havertz-transfer-37634443",
+  "fee": null,
+  "published": "2026-09-07T09:05:48+00:00"
+ },
+ {
+  "id": "96f292e43854",
+  "title": "\"Deswegen haben wir ihn verpflichtet\": Veerman stabilisiert den BVB",
+  "player": "Quäntchen Glück",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/deswegen-haben-wir-ihn-verpflichtet-veerman-stabilisiert-den-bvb-1250151/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-07T09:03:36+00:00"
+ },
+ {
+  "id": "6da4b5999d94",
+  "title": "Vanoli set for Fiorentina return as verbal agreement reached",
+  "player": "Paolo Vanoli",
+  "title_ko": "구두 합의에 따라 피오렌티나 반환을 위한 바놀리 세트",
+  "league": "SERIEA",
+  "status": "herewego",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/vanoli-set-fiorentina-return-verbal-agreement/",
+  "fee": null,
+  "published": "2026-09-07T09:00:45+00:00"
+ },
+ {
   "id": "3218c18f6736",
   "title": "\"On n'est pas encore à l'objectif\", le mercato à zéro recrue de l'OM ne suffit pas encore prévient Richard",
   "player": "Stéphane Richard",
@@ -1259,44 +1298,5 @@
   "url": "https://football-italia.net/hutchinson-milan-idols-what-amorim-told-him/",
   "fee": null,
   "published": "2026-09-03T18:26:08+00:00"
- },
- {
-  "id": "327bfaf96fef",
-  "title": "Arsenal to avoid same looming transfer concern as Liverpool and Man Utd",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날은 리버풀과 맨유처럼 다가오는 이적 문제를 피하기 위해",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-liverpool-man-utd-transfers-37624851",
-  "fee": null,
-  "published": "2026-09-03T18:08:43+00:00"
- },
- {
-  "id": "9e05e3dcb4e4",
-  "title": "Spurs latest: De Zerbi on Mudryk availability and Richarlison transfer",
-  "player": "De Zerbi",
-  "title_ko": "스퍼스 최신: Mudryk 가용성 및 Richarlison 이적에 대한 De Zerbi",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-03T18:00:00+00:00"
- },
- {
-  "id": "0b445fd19712",
-  "title": "Arsenals neuer Rekordverkauf: Gabriel Martinelli wechselt zu Al-Hilal",
-  "player": "Gabriel Martinelli",
-  "title_ko": "아스날의 새로운 음반 판매: 가브리엘 마르티넬리가 알 힐랄로 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/arsenals-neuer-rekordverkauf-gabriel-martinelli-wechselt-zu-al-hilal-1249513/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-03T17:42:19+00:00"
  }
 ]
