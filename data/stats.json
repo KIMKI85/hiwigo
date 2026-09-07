@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T20:29:42.870926+00:00",
+ "updated": "2026-09-07T04:53:28.636334+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -131,6 +131,13 @@
    "results": [
     {
      "date": "2026-09-06",
+     "home": "Espanyol",
+     "away": "Sevilla FC",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-06",
      "home": "Málaga",
      "away": "Levante",
      "hs": 0,
@@ -176,13 +183,6 @@
      "home": "Real Betis",
      "away": "Real Madrid",
      "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-03",
-     "home": "Real Sociedad",
-     "away": "Celta",
-     "hs": 0,
      "as": 0
     }
    ],
@@ -255,6 +255,13 @@
    "results": [
     {
      "date": "2026-09-06",
+     "home": "Juventus",
+     "away": "Milan",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-06",
      "home": "Bologna",
      "away": "Sassuolo",
      "hs": 2,
@@ -301,13 +308,6 @@
      "away": "Como 1907",
      "hs": 1,
      "as": 4
-    },
-    {
-     "date": "2026-08-31",
-     "home": "Atalanta",
-     "away": "Bologna",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -503,6 +503,13 @@
    "results": [
     {
      "date": "2026-09-06",
+     "home": "Marseille",
+     "away": "Paris FC",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-06",
      "home": "Angers SCO",
      "away": "Stade Rennais",
      "hs": 1,
@@ -548,13 +555,6 @@
      "home": "Olympique Lyon",
      "away": "Auxerre",
      "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-09-03",
-     "home": "Toulouse",
-     "away": "Lille",
-     "hs": 0,
      "as": 1
     }
    ],
