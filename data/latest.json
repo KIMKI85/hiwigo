@@ -1,5 +1,18 @@
 [
  {
+  "id": "de5e739c0127",
+  "title": "Elversberg und das Draufgängertum: Glücksgriffe nicht nur bei Transfers",
+  "player": "Borussia Mönchengladbach",
+  "title_ko": "Elversberg와 bravado: 이적뿐만 아니라 행운이 찾아왔습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/elversberg-und-das-draufgaengertum-gluecksgriffe-nicht-nur-bei-transfers-1250248/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-07T12:43:14+00:00"
+ },
+ {
   "id": "56f73a0b041e",
   "title": "Merse: I worry about De Zerbi criticising Spurs forwards and medical staff",
   "player": "De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/tottenham-richarlison-transfer-everton-turkey-37625285",
   "fee": null,
   "published": "2026-09-03T19:23:12+00:00"
- },
- {
-  "id": "905e1709593b",
-  "title": "All completed Serie A deals after the summer transfer deadline",
-  "player": null,
-  "title_ko": "여름 이적 마감일 이후 완료된 모든 세리에 A 거래",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/all-serie-a-deals-after-2026-summer-deadline/",
-  "fee": null,
-  "published": "2026-09-03T18:57:04+00:00"
  }
 ]
