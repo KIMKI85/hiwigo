@@ -1,5 +1,18 @@
 [
  {
+  "id": "56f73a0b041e",
+  "title": "Merse: I worry about De Zerbi criticising Spurs forwards and medical staff",
+  "player": "De Zerbi",
+  "title_ko": "Merse: De Zerbi가 Spurs 포워드와 의료진을 비판하는 것에 대해 걱정합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson",
+  "fee": null,
+  "published": "2026-09-07T11:32:00+00:00"
+ },
+ {
   "id": "8081d8a32152",
   "title": "Arsenal profit as Chelsea called out for transfer blunder - 'It’s got to stop happening'",
   "player": "Emirates Stadium",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/all-serie-a-deals-after-2026-summer-deadline/",
   "fee": null,
   "published": "2026-09-03T18:57:04+00:00"
- },
- {
-  "id": "08ffa98883a0",
-  "title": "Hutchinson names three Milan idols and reveals what Amorim told him before signing",
-  "player": "Omari Hutchinson",
-  "title_ko": "허친슨은 세 명의 밀란 아이돌을 지명하고 아모림이 계약 전 그에게 했던 말을 공개합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/hutchinson-milan-idols-what-amorim-told-him/",
-  "fee": null,
-  "published": "2026-09-03T18:26:08+00:00"
  }
 ]
