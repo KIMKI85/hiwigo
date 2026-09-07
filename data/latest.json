@@ -1,5 +1,18 @@
 [
  {
+  "id": "4e4bae43ab16",
+  "title": "Unseen moment between Andrea Berta and Chelsea star in tunnel sparks Arsenal transfer frenzy",
+  "player": "Andrea Berta",
+  "title_ko": "터널에서 안드레아 베르타와 첼시 스타 사이의 보이지 않는 순간이 아스날 이적 열풍을 촉발시켰습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-joao-pedro-andrea-berta-37636293",
+  "fee": null,
+  "published": "2026-09-07T14:51:05+00:00"
+ },
+ {
   "id": "313452ba1f60",
   "title": "Mercato: l'OL reconnaît des contacts avec Benzema mais \"c'était infaisable\", assure Louis-Jean",
   "player": "Karim Benzema",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-1/direct-toulouse-lille-suivez-le-match-d-ouverture-de-la-3e-journee-de-ligue-1-en-live_LS-202609030631.html",
   "fee": null,
   "published": "2026-09-03T20:41:50+00:00"
- },
- {
-  "id": "6b95229fb49d",
-  "title": "Man City sign England goalkeeper Moorhouse on loan",
-  "player": "Anna Moorhouse",
-  "title_ko": "맨시티, 잉글랜드 골키퍼 무어하우스 임대 영입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5yep5d6qnno?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-03T20:30:19+00:00"
  }
 ]
