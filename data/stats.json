@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T12:45:05.739788+00:00",
+ "updated": "2026-09-07T21:35:21.776069+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -130,6 +130,20 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-07",
+     "home": "Elche",
+     "away": "Real Sociedad",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-07",
+     "home": "Getafe",
+     "away": "Celta",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-09-06",
      "home": "Espanyol",
      "away": "Sevilla FC",
@@ -170,20 +184,6 @@
      "away": "Santander",
      "hs": 3,
      "as": 2
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Athletic",
-     "away": "Atleti",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-09-04",
-     "home": "Real Betis",
-     "away": "Real Madrid",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -254,6 +254,20 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-07",
+     "home": "Udinese",
+     "away": "Lazio",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-07",
+     "home": "Cagliari",
+     "away": "Lecce",
+     "hs": 1,
+     "as": 0
+    },
+    {
      "date": "2026-09-06",
      "home": "Juventus",
      "away": "Milan",
@@ -294,20 +308,6 @@
      "away": "Napoli",
      "hs": 3,
      "as": 2
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Fiorentina",
-     "away": "Torino",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-09-04",
-     "home": "Genoa",
-     "away": "Como 1907",
-     "hs": 1,
-     "as": 4
     }
    ],
    "scorers": [
@@ -321,6 +321,12 @@
      "name": "Antonio Raimondo",
      "team": "Frosinone",
      "goals": 4,
+     "assists": 0
+    },
+    {
+     "name": "Davide Frattesi",
+     "team": "Lazio",
+     "goals": 3,
      "assists": 0
     },
     {
@@ -356,12 +362,6 @@
     {
      "name": "Che Adams",
      "team": "Torino",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Davide Frattesi",
-     "team": "Lazio",
      "goals": 2,
      "assists": 0
     },
