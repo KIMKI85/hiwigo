@@ -1,5 +1,18 @@
 [
  {
+  "id": "740a7b11d6c4",
+  "title": "Mercato: direction le Brésil pour Ziyech après son départ du Wydad Casablanca",
+  "player": "Wydad Casablanca",
+  "title_ko": "Mercato: Wydad Casablanca에서 출발한 후 Ziyech로 브라질 방향",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-direction-le-bresil-pour-ziyech-apres-son-depart-du-wydad-casablanca_AV-202609070234.html",
+  "fee": null,
+  "published": "2026-09-07T06:56:09+00:00"
+ },
+ {
   "id": "d01430cd1735",
   "title": "DIRECT. Mercato: suivez en live toutes les infos et les rumeurs du lundi 7 septembre 2026",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
   "fee": null,
   "published": "2026-09-03T17:30:00+00:00"
- },
- {
-  "id": "da1c1e6a9108",
-  "title": "Rangers sign Kelsy and Bouanani on deadline day",
-  "player": "Kevin Kelsy",
-  "title_ko": "레인저스, 마감일에 켈시와 부아나니와 계약",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579735/rangers-transfer-news-kevin-kelsy-and-badredine-bouanani-join-on-deadline-day-as-nico-raskin-bid-rejected",
-  "fee": null,
-  "published": "2026-09-03T17:00:00+00:00"
  }
 ]
