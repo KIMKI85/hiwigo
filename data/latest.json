@@ -1,5 +1,18 @@
 [
  {
+  "id": "91bb769b8fbc",
+  "title": "Ederson gives fresh take on Man Utd medical after £35m transfer fell through",
+  "player": null,
+  "title_ko": "Ederson은 £ 35M의 이체가 완료된 후 맨체스터 유나이티드의 의료 서비스를 새롭게 받아들입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/ederson-man-utd-transfer-ederson-37637111",
+  "fee": "£35M",
+  "published": "2026-09-07T19:01:47+00:00"
+ },
+ {
   "id": "601e0ac1e069",
   "title": "Chelsea explored move for Fulham midfielder Berge",
   "player": "Fulham's Sander Berge",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-targets-next-year-37625066",
   "fee": null,
   "published": "2026-09-04T03:45:00+00:00"
- },
- {
-  "id": "818a898dac9c",
-  "title": "Man Utd news: Lewis Hall update issued as £120million summer transfer mistake called out",
-  "player": "Lewis Hall",
-  "title_ko": "맨유 뉴스: 여름 이적료 £120m 실수로 루이스 홀 업데이트 발표",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-hall-37624501",
-  "fee": "£120M",
-  "published": "2026-09-04T03:30:00+00:00"
  }
 ]
