@@ -1,5 +1,18 @@
 [
  {
+  "id": "3218c18f6736",
+  "title": "\"On n'est pas encore à l'objectif\", le mercato à zéro recrue de l'OM ne suffit pas encore prévient Richard",
+  "player": "Stéphane Richard",
+  "title_ko": "\"On n 'est pas encore à l' objectif\", le mercato à zéro recrue de l 'OM ne suffit pas encore prévient Richard",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/on-n-est-pas-encore-a-l-objectif-le-mercato-a-zero-recrue-de-l-om-ne-suffit-pas-encore-previent-richard_AV-202609070343.html",
+  "fee": null,
+  "published": "2026-09-07T08:28:31+00:00"
+ },
+ {
   "id": "740a7b11d6c4",
   "title": "Mercato: direction le Brésil pour Ziyech après son départ du Wydad Casablanca",
   "player": "Wydad Casablanca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/arsenals-neuer-rekordverkauf-gabriel-martinelli-wechselt-zu-al-hilal-1249513/artikel#omrss",
   "fee": null,
   "published": "2026-09-03T17:42:19+00:00"
- },
- {
-  "id": "92a0e861592d",
-  "title": "Martinelli joins Al Hilal in Arsenal club-record sale",
-  "player": "Al Hilal",
-  "title_ko": "마르티넬리, 아스날 클럽 음반 판매에 알 힐랄 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
-  "fee": null,
-  "published": "2026-09-03T17:30:00+00:00"
  }
 ]
