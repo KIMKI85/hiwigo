@@ -13,6 +13,19 @@
   "published": "2026-09-08T13:27:00+00:00"
  },
  {
+  "id": "e011ac5a6c3f",
+  "title": "Mac Allister 'sad' at no Liverpool contract offer",
+  "player": "Mac Allister",
+  "title_ko": "맥 알리스터, 리버풀 계약 제의 없어 '슬프다'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-08T13:01:12+00:00"
+ },
+ {
   "id": "8d296f6c1f32",
   "title": "Alexis Mac Allister left 'very sad' by Liverpool contract snub as Reds star speaks out",
   "player": "Alexis Mac Allister",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
   "fee": null,
   "published": "2026-09-04T11:58:29+00:00"
- },
- {
-  "id": "a79e778d4339",
-  "title": "DIRECT. OM: \"soulagé\" de voir le mercato terminé, Genesio ne veut pas s'enflammer sur les objectifs marseillais",
-  "player": "Bruno Genesio",
-  "title_ko": "직접. OM: \"soulagé\" de voir le mercato terminé, Genesio ne veut pas s 'enflammer sur les objectifs marseillais",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-suivez-la-conference-de-presse-de-bruno-genesio-en-live-avant-le-match-face-au-paris-fc_LN-202609040448.html",
-  "fee": null,
-  "published": "2026-09-04T11:57:43+00:00"
  }
 ]
