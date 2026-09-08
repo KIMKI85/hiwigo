@@ -1,5 +1,18 @@
 [
  {
+  "id": "bbc90b93d5ed",
+  "title": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
+  "player": "Turkish Airlines",
+  "title_ko": "리버풀, 터키항공과 연간 £60m 셔츠 스폰서십 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
+  "fee": "£60M",
+  "published": "2026-09-08T09:41:41+00:00"
+ },
+ {
   "id": "7874d2d8a46b",
   "title": "Manchester United reach new agreement as cash injection confirmed",
   "player": null,
