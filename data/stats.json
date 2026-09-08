@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T16:43:04.635507+00:00",
+ "updated": "2026-09-08T21:14:55.068693+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -624,8 +624,112 @@
   "UCL": {
    "name": "챔피언스리그",
    "standings": [],
-   "results": [],
-   "scorers": []
+   "results": [
+    {
+     "date": "2026-09-08",
+     "home": "Lille",
+     "away": "Real Betis",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-08",
+     "home": "Dortmund",
+     "away": "Villarreal",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-09-08",
+     "home": "Porto",
+     "away": "Man City",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-09-08",
+     "home": "Real Madrid",
+     "away": "Inter",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-08",
+     "home": "PAE AEK",
+     "away": "LASK",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-09-08",
+     "home": "Club Brugge",
+     "away": "Aston Villa",
+     "hs": 2,
+     "as": 3
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Erling Haaland",
+     "team": "Man City",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Sehrou Guirassy",
+     "team": "Dortmund",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Bartra",
+     "team": "Real Betis",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "John McGinn",
+     "team": "Aston Villa",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Hugo Vetlesen",
+     "team": "Club Brugge",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Emiliano Buendía",
+     "team": "Aston Villa",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Nicolas Jackson",
+     "team": "Aston Villa",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Nicolo Tresoldi",
+     "team": "Club Brugge",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Răzvan Marin",
+     "team": "PAE AEK",
+     "goals": 1,
+     "assists": 0
+    },
+    {
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
+     "goals": 1,
+     "assists": 0
+    }
+   ]
   }
  }
 }
