@@ -1,5 +1,31 @@
 [
  {
+  "id": "2b349ce24e5b",
+  "title": "Serie A side immediately extend player's contract after cancer diagnosis revealed",
+  "player": null,
+  "title_ko": "세리에A, 암 진단 후 선수와 즉시 계약 연장",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/italy-serie-a-breast-cancer-37638608",
+  "fee": null,
+  "published": "2026-09-08T10:08:17+00:00"
+ },
+ {
+  "id": "1654c3424755",
+  "title": "Como extend contract of women’s team star Picchi after breast cancer diagnosis",
+  "player": "Roberta Picchi",
+  "title_ko": "코모, 유방암 진단 후 여자팀 스타 피치와 계약 연장",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/como-extent-picchi-contract-breast-cancer/",
+  "fee": null,
+  "published": "2026-09-08T10:02:56+00:00"
+ },
+ {
   "id": "bbc90b93d5ed",
   "title": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
   "player": "Turkish Airlines",
