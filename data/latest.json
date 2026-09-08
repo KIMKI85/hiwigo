@@ -1,5 +1,18 @@
 [
  {
+  "id": "cb09236ac587",
+  "title": "Arsenal can try again for eight transfers from their '21-man summer wishlist'",
+  "player": "Mikel Arteta",
+  "title_ko": "아스널은 '21인 여름 위시리스트'에서 8번의 이적을 다시 시도할 수 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-wishlist-mikel-arteta-37635457",
+  "fee": null,
+  "published": "2026-09-08T05:00:00+00:00"
+ },
+ {
   "id": "462c27407345",
   "title": "Liverpool news: Concern over summer transfer already as two more exits confirmed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-january-2027-37625840",
   "fee": null,
   "published": "2026-09-04T06:44:05+00:00"
- },
- {
-  "id": "c7ffcde65ed0",
-  "title": "'I cried when Man Utd transfer fell through – I wanted to stay at Real Madrid'",
-  "player": "Old Trafford",
-  "title_ko": "'맨유 이적이 무산됐을 때 울었다. 레알 마드리드에 남고 싶었다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-real-madrid-transfer-37622336",
-  "fee": null,
-  "published": "2026-09-04T06:00:00+00:00"
  }
 ]
