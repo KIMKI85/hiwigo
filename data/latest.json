@@ -1,5 +1,18 @@
 [
  {
+  "id": "259d9e4e9054",
+  "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
+  "player": null,
+  "title_ko": "레알 마드리드가 인터 밀란을 이길 때 음바페와 발베르데의 목표",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+  "fee": null,
+  "published": "2026-09-08T22:42:00+00:00"
+ },
+ {
   "id": "4bde8225d4c7",
   "title": "Man Utd REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
   "player": "Kylian Mbappe",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/dimarco-targeted-by-barcelona-inter-contract/",
   "fee": null,
   "published": "2026-09-04T15:44:35+00:00"
- },
- {
-  "id": "5f1a06520671",
-  "title": "Torino agreement for Anjorin to Goztepe, but Celtic never got Gineitis",
-  "player": "Tino Anjorin",
-  "title_ko": "안조린과 괴즈테페의 토리노 계약, 그러나 셀틱은 결코 Gineitis를 얻지 못했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/torino-agree-anjorin-goztepe-celtic-gineitis/",
-  "fee": null,
-  "published": "2026-09-04T15:26:11+00:00"
  }
 ]
