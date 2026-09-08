@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e7c354fc90d",
+  "title": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
+  "player": "Alexis Mac Allister",
+  "title_ko": "알렉시스 맥 앨리스터 (Alexis Mac Allister) ‘매우 슬픈’ 리버풀은 그에게 새로운 계약을 제안하지 않았다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
+  "fee": null,
+  "published": "2026-09-08T14:04:24+00:00"
+ },
+ {
   "id": "0bc28c7d8ad3",
   "title": "Mac Allister 'very sad' over no new Liverpool deal",
   "player": "Mac Allister",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/long-et-difficile-bruno-genesio-lache-ses-verites-sur-le-mercato-marseillais_AV-202609040574.html",
   "fee": null,
   "published": "2026-09-04T12:18:28+00:00"
- },
- {
-  "id": "6aa9de1d922a",
-  "title": "Chaotic Crystal Palace transfer window left Pierre Sage to run the gamut of emotions",
-  "player": "Pierre Sage",
-  "title_ko": "혼돈의 크리스탈 팰리스 전송 창이 Pierre Sage를 떠나 감정의 영역을 실행했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/04/pierre-sage-crystal-palace-transfer-window",
-  "fee": null,
-  "published": "2026-09-04T11:58:29+00:00"
  }
 ]
