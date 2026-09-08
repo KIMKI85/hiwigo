@@ -1,5 +1,31 @@
 [
  {
+  "id": "0bc28c7d8ad3",
+  "title": "Mac Allister 'very sad' over no new Liverpool deal",
+  "player": "Mac Allister",
+  "title_ko": "맥 앨리스터, 새로운 리버풀 거래 없음에 대해 '매우 슬프다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer",
+  "fee": null,
+  "published": "2026-09-08T13:27:00+00:00"
+ },
+ {
+  "id": "e8c5ef115e2b",
+  "title": "James Rodriguez tipped for surprise move to join Alessandro Nesta in Serie B",
+  "player": "James Rodriguez",
+  "title_ko": "제임스 로드리게스는 세리에 B에서 알레산드로 네스타와 합류하기 위해 깜짝 움직임을 위해 팁을 주었다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/james-rodriguez-tipped-surprise-serie-b-move/",
+  "fee": null,
+  "published": "2026-09-08T12:30:07+00:00"
+ },
+ {
   "id": "7102a69ed8be",
   "title": "Official: Lazio sign Diogo Leite after flying start to 2026-27 Serie A season",
   "player": "Diogo Leite",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/video-om-soulage-que-le-mercato-soit-termine-parce-que-ca-a-ete-tres-long-et-difficile-explique-genesio_VN-202609040559.html",
   "fee": null,
   "published": "2026-09-04T11:53:03+00:00"
- },
- {
-  "id": "15ff58687730",
-  "title": "Frattesi explains Lazio move and heaps praise on Gattuso: ‘I’d go to war for him’",
-  "player": "Davide Frattesi",
-  "title_ko": "Frattesi는 Lazio의 움직임에 대해 설명하고 Gattuso에 대한 찬사를 보냅니다: ‘나는 그를 위해 전쟁에 나갈 것입니다’",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/frattesi-reflects-on-lazio-move-gattuso/",
-  "fee": null,
-  "published": "2026-09-04T11:45:00+00:00"
- },
- {
-  "id": "73f11b47613b",
-  "title": "García Plaza: \"Felicito al club por el fichaje de Fofana\"",
-  "player": "García Plaza",
-  "title_ko": "가르시아 플라자: \"포파나 영입을 축하합니다\"",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/sevilla/2026/09/04/garcia-plaza-felicito-club-fichaje-fofana.html",
-  "fee": null,
-  "published": "2026-09-04T11:06:15+00:00"
  }
 ]

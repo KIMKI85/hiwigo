@@ -1,5 +1,31 @@
 [
  {
+  "id": "0bc28c7d8ad3",
+  "title": "Mac Allister 'very sad' over no new Liverpool deal",
+  "player": "Mac Allister",
+  "title_ko": "맥 앨리스터, 새로운 리버풀 거래 없음에 대해 '매우 슬프다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer",
+  "fee": null,
+  "published": "2026-09-08T13:27:00+00:00"
+ },
+ {
+  "id": "e8c5ef115e2b",
+  "title": "James Rodriguez tipped for surprise move to join Alessandro Nesta in Serie B",
+  "player": "James Rodriguez",
+  "title_ko": "제임스 로드리게스는 세리에 B에서 알레산드로 네스타와 합류하기 위해 깜짝 움직임을 위해 팁을 주었다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/james-rodriguez-tipped-surprise-serie-b-move/",
+  "fee": null,
+  "published": "2026-09-08T12:30:07+00:00"
+ },
+ {
   "id": "7102a69ed8be",
   "title": "Official: Lazio sign Diogo Leite after flying start to 2026-27 Serie A season",
   "player": "Diogo Leite",
