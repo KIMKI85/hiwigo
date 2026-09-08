@@ -1,5 +1,18 @@
 [
  {
+  "id": "ea28178df968",
+  "title": "Wolfsburg findet Abnehmer: Jenz wechselt fest nach Bern",
+  "player": "Eine Woche",
+  "title_ko": "볼프스부르크는 구매자를 찾았습니다: Jenz는 Bern으로 영구적으로 이사합니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wolfsburg-findet-abnehmer-jenz-wechselt-fest-nach-bern-1250868/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-08T15:12:49+00:00"
+ },
+ {
   "id": "9292fd9bd4a9",
   "title": "Report Juventus prefer academy product over new signing amid injury crisis",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/1-million-euro-fest-und-dafuer-19-an-boni-lyons-skurriler-nakamura-deal-1249686/artikel#omrss",
   "fee": null,
   "published": "2026-09-04T13:08:06+00:00"
- },
- {
-  "id": "25229ccd4eb4",
-  "title": "Michael Carrick hints Man Utd fell short in transfer window and opens up on budget",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 맨유가 이적 기간이 부족하고 예산이 부족하다고 암시했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-everton-carrick-transfers-37626422",
-  "fee": null,
-  "published": "2026-09-04T12:56:26+00:00"
  }
 ]
