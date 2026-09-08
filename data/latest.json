@@ -1,5 +1,18 @@
 [
  {
+  "id": "462c27407345",
+  "title": "Liverpool news: Concern over summer transfer already as two more exits confirmed",
+  "player": null,
+  "title_ko": "리버풀 뉴스: 두 명의 추가 이적이 확정되면서 이미 여름 이적에 대한 우려",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-exit-concerns-hughes-37635985",
+  "fee": null,
+  "published": "2026-09-08T04:00:00+00:00"
+ },
+ {
   "id": "be14ed6f3c92",
   "title": "Man Utd strike deal to land Liverpool wonderkid in major transfer coup",
   "player": "Isaac Konde",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-real-madrid-transfer-37622336",
   "fee": null,
   "published": "2026-09-04T06:00:00+00:00"
- },
- {
-  "id": "3ed5e5818648",
-  "title": "'I joined Liverpool despite Real Madrid wanting me - but I regret how things panned out'",
-  "player": null,
-  "title_ko": "'레알 마드리드가 나를 원했음에도 불구하고 리버풀에 합류했지만 상황이 어떻게 흘러갔는지 후회된다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-real-madrid-free-transfer-37622157",
-  "fee": null,
-  "published": "2026-09-04T05:00:00+00:00"
  }
 ]
