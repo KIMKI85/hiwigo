@@ -1,5 +1,18 @@
 [
  {
+  "id": "83def1522129",
+  "title": "Papers: Hammer blow for Man Utd as target agrees new contract",
+  "player": null,
+  "title_ko": "서류: 타겟이 새로운 계약에 동의함에 따라 맨유에 해머 블로우가 발생했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
+  "fee": null,
+  "published": "2026-09-08T23:15:00+00:00"
+ },
+ {
   "id": "259d9e4e9054",
   "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/morgan-rogers-arsenal-chelsea-transfers-37629471",
   "fee": null,
   "published": "2026-09-04T18:52:36+00:00"
- },
- {
-  "id": "96f9768b3924",
-  "title": "Zeballos on unexpected Monza move and ‘idol’ Maradona",
-  "player": "Exequiel Zeballos",
-  "title_ko": "예상치 못한 몬차의 움직임에 제바요스와 '아이돌' 마라도나",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zeballos-on-unexpected-monza-move-maradona/",
-  "fee": null,
-  "published": "2026-09-04T17:25:42+00:00"
  }
 ]
