@@ -1,5 +1,18 @@
 [
  {
+  "id": "d7ddb2a3f943",
+  "title": "Del Nido Carrasco y el fichaje de Fofana: \"Nos faltó hablar con el Papa\"",
+  "player": "Del Nido Carrasco",
+  "title_ko": "델 니도 카라스코와 포파나 영입: \"우리는 교황과의 대화를 놓쳤습니다\"",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/sevilla/2026/09/08/nido-carrasco-fichaje-fofana-falto-hablar-papa.html",
+  "fee": null,
+  "published": "2026-09-08T11:05:58+00:00"
+ },
+ {
   "id": "2b349ce24e5b",
   "title": "Serie A side immediately extend player's contract after cancer diagnosis revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-04T10:44:37+00:00"
- },
- {
-  "id": "e0b525282fc5",
-  "title": "PSG-Monaco: comment Lamine Camara a digéré son départ avorté à Chelsea dans les dernières heures du mercato",
-  "player": "Lamine Camara",
-  "title_ko": "PSG-모나코: 이적 기간의 마지막 시간에 라민 카마라가 중단된 첼시로의 출발을 어떻게 소화했는지",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/psg-monaco-comment-lamine-camara-a-digere-son-depart-avorte-a-chelsea-dans-les-dernieres-heures-du-mercato_AV-202609040453.html",
-  "fee": null,
-  "published": "2026-09-04T09:44:46+00:00"
  }
 ]
