@@ -1,5 +1,18 @@
 [
  {
+  "id": "765ea450e42b",
+  "title": "Como renew striker's contract after cancer diagnosis",
+  "player": "Roberta Picchi",
+  "title_ko": "코모, 암 진단 후 공격수와 재계약",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-08T06:43:20+00:00"
+ },
+ {
   "id": "cb09236ac587",
   "title": "Arsenal can try again for eight transfers from their '21-man summer wishlist'",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/europa-conference-league/apres-son-transfert-avorte-a-everton-monaco-n-a-pas-inscrit-balogun-pour-la-ligue-conference_AV-202609040297.html",
   "fee": null,
   "published": "2026-09-04T06:55:03+00:00"
- },
- {
-  "id": "e582ea268909",
-  "title": "8 transfers Liverpool can make nex year from Chelsea star to Alexander-Arnold reunion",
-  "player": null,
-  "title_ko": "리버풀은 내년에 첼시 스타에서 알렉산더-아놀드 재결합으로 8번의 이적을 할 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-window-january-2027-37625840",
-  "fee": null,
-  "published": "2026-09-04T06:44:05+00:00"
  }
 ]
