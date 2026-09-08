@@ -13,6 +13,19 @@
   "published": "2026-09-08T13:27:00+00:00"
  },
  {
+  "id": "8d296f6c1f32",
+  "title": "Alexis Mac Allister left 'very sad' by Liverpool contract snub as Reds star speaks out",
+  "player": "Alexis Mac Allister",
+  "title_ko": "Alexis Mac Allister는 Reds 스타가 말하는 동안 리버풀 계약 거부로 '매우 슬프다'고 떠났습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/alexis-macallister-liverpool-contract-future-37639564",
+  "fee": null,
+  "published": "2026-09-08T12:42:16+00:00"
+ },
+ {
   "id": "e8c5ef115e2b",
   "title": "James Rodriguez tipped for surprise move to join Alessandro Nesta in Serie B",
   "player": "James Rodriguez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-suivez-la-conference-de-presse-de-bruno-genesio-en-live-avant-le-match-face-au-paris-fc_LN-202609040448.html",
   "fee": null,
   "published": "2026-09-04T11:57:43+00:00"
- },
- {
-  "id": "db4aae698673",
-  "title": "OM : “Soulagé que le mercato soit terminé parce que ça a été très long et difficile”, explique Genesio",
-  "player": "Olympique de",
-  "title_ko": "OM: “Soulagé que le mercato soit terminé parce que ça a été très long et difficile”, explique Genesio",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/video-om-soulage-que-le-mercato-soit-termine-parce-que-ca-a-ete-tres-long-et-difficile-explique-genesio_VN-202609040559.html",
-  "fee": null,
-  "published": "2026-09-04T11:53:03+00:00"
  }
 ]
