@@ -13,6 +13,19 @@
   "published": "2026-09-08T22:42:00+00:00"
  },
  {
+  "id": "80e6dd4282c9",
+  "title": "Report Fiorentina could sue Grosso to terminate contract",
+  "player": "Fabio Grosso",
+  "title_ko": "피오렌티나는 그로소를 상대로 계약 해지 소송을 제기할 수도 있다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-fiorentina-grosso-terminate-contract/",
+  "fee": null,
+  "published": "2026-09-08T22:01:03+00:00"
+ },
+ {
   "id": "4bde8225d4c7",
   "title": "Man Utd REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
   "player": "Kylian Mbappe",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/zeballos-on-unexpected-monza-move-maradona/",
   "fee": null,
   "published": "2026-09-04T17:25:42+00:00"
- },
- {
-  "id": "989b6d8ac6a9",
-  "title": "Dimarco targeted by Barcelona after Inter stall new contract talks",
-  "player": "Federico Dimarco",
-  "title_ko": "인테르와 재계약 협상 중단, 바르셀로나의 타겟 디마르코",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/dimarco-targeted-by-barcelona-inter-contract/",
-  "fee": null,
-  "published": "2026-09-04T15:44:35+00:00"
  }
 ]
