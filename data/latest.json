@@ -1,5 +1,18 @@
 [
  {
+  "id": "7102a69ed8be",
+  "title": "Official: Lazio sign Diogo Leite after flying start to 2026-27 Serie A season",
+  "player": "Diogo Leite",
+  "title_ko": "공식: 라치오는 2026-27 세리에 A 시즌을 성공적으로 시작한 후 Diogo Leite와 계약했습니다.",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-lazio-sign-diogo-leite-free-transfer/",
+  "fee": null,
+  "published": "2026-09-08T12:12:19+00:00"
+ },
+ {
   "id": "d7ddb2a3f943",
   "title": "Del Nido Carrasco y el fichaje de Fofana: \"Nos faltó hablar con el Papa\"",
   "player": "Del Nido Carrasco",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/sevilla/2026/09/04/garcia-plaza-felicito-club-fichaje-fofana.html",
   "fee": null,
   "published": "2026-09-04T11:06:15+00:00"
- },
- {
-  "id": "af364c1c94a3",
-  "title": "Liverpool target Minteh can still get dream move - Hurzeler",
-  "player": "Fabian Hurzeler",
-  "title_ko": "리버풀 타겟 민테는 여전히 꿈의 움직임을 가질 수 있다 - 허젤러",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-04T10:44:37+00:00"
  }
 ]
