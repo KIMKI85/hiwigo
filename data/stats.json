@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T16:44:43.294659+00:00",
+ "updated": "2026-09-09T20:59:47.890982+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -626,6 +626,41 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-09",
+     "home": "Napoli",
+     "away": "Arsenal",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-09-09",
+     "home": "PSG",
+     "away": "Sl. Bratislava",
+     "hs": 6,
+     "as": 1
+    },
+    {
+     "date": "2026-09-09",
+     "home": "Liverpool",
+     "away": "Atleti",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-09",
+     "home": "Stuttgart",
+     "away": "Viking",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-09-09",
+     "home": "Barça",
+     "away": "Feyenoord",
+     "hs": 5,
+     "as": 1
+    },
+    {
      "date": "2026-09-08",
      "home": "Lille",
      "away": "Real Betis",
@@ -645,30 +680,21 @@
      "away": "Man City",
      "hs": 0,
      "as": 2
-    },
-    {
-     "date": "2026-09-08",
-     "home": "Real Madrid",
-     "away": "Inter",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-08",
-     "home": "PAE AEK",
-     "away": "LASK",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-08",
-     "home": "Club Brugge",
-     "away": "Aston Villa",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
+    {
+     "name": "Ermedin Demirovic",
+     "team": "Stuttgart",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Ferrán Torres",
+     "team": "PSG",
+     "goals": 3,
+     "assists": 0
+    },
     {
      "name": "Erling Haaland",
      "team": "Man City",
@@ -688,6 +714,18 @@
      "assists": 0
     },
     {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Ousmane Dembélé",
+     "team": "PSG",
+     "goals": 2,
+     "assists": 2
+    },
+    {
      "name": "John McGinn",
      "team": "Aston Villa",
      "goals": 1,
@@ -702,30 +740,6 @@
     {
      "name": "Emiliano Buendía",
      "team": "Aston Villa",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Nicolas Jackson",
-     "team": "Aston Villa",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Nicolo Tresoldi",
-     "team": "Club Brugge",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Răzvan Marin",
-     "team": "PAE AEK",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Kylian Mbappé",
-     "team": "Real Madrid",
      "goals": 1,
      "assists": 0
     }
