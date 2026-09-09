@@ -1,5 +1,18 @@
 [
  {
+  "id": "d5a6967bbf98",
+  "title": "Pep Guardiola named Man Utd player he desperately wanted Man City to sign",
+  "player": "Pep Guardiola",
+  "title_ko": "펩 과르디올라, 맨시티가 영입하길 간절히 원했던 맨유 선수 지명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-man-utd-rashford-37641823",
+  "fee": null,
+  "published": "2026-09-09T06:11:11+00:00"
+ },
+ {
   "id": "6e7709a0db62",
   "title": "Man Utd news: 'New signing' dubbed 'dangerous' as Red Devils land record-breaking deal",
   "player": "Red Devils",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c36l79n02r8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-04T19:43:26+00:00"
- },
- {
-  "id": "dc4366588c98",
-  "title": "Man Utd striker transfer confirmed despite summer window closing",
-  "player": "Louie Bradbury",
-  "title_ko": "여름 창문 닫힘에도 맨유 스트라이커 이적 확정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-bradbury-stoke-37629671",
-  "fee": null,
-  "published": "2026-09-04T19:37:41+00:00"
  }
 ]
