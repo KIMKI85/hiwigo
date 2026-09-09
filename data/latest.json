@@ -1,5 +1,18 @@
 [
  {
+  "id": "3b8620405c14",
+  "title": "Declan Rice's transfer wish was again granted by Mikel Arteta after Arsenal act",
+  "player": "Declan Rice's",
+  "title_ko": "데클란 라이스의 이적 희망은 아스날 이적 이후 미켈 아르테타에 의해 다시 승인되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/declan-rices-transfer-wish-again-37642415",
+  "fee": null,
+  "published": "2026-09-09T09:48:31+00:00"
+ },
+ {
   "id": "17fceadd201e",
   "title": "Tardelli: Injuries ‘a real blow’ for Juventus, the transfer market ‘hasn’t helped’ Spalletti",
   "player": "Marco Tardelli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
   "fee": null,
   "published": "2026-09-04T21:30:00+00:00"
- },
- {
-  "id": "0b7e1b83e64a",
-  "title": "Schroers über geplatzten Wechsel: \"War ein kleiner Rückschlag\"",
-  "player": "Dass Aachens Mika",
-  "title_ko": "실패한 변화에 대한 슈로어스: “작은 좌절이었다”",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/schroers-ueber-geplatzten-wechsel-war-ein-kleiner-rueckschlag-1249795/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-04T20:17:23+00:00"
  }
 ]
