@@ -1,5 +1,18 @@
 [
  {
+  "id": "4c8b462ac079",
+  "title": "Julian Alvarez 'suffering' after failed Arsenal transfer as statement made before Liverpool",
+  "player": "Julian Alvarez",
+  "title_ko": "줄리안 알바레즈, 리버풀 전 성명서로 아스날 이적 실패 후 '고통'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-atletico-37645229",
+  "fee": null,
+  "published": "2026-09-09T16:53:00+00:00"
+ },
+ {
   "id": "c5e64cc475c8",
   "title": "Michael Carrick explains why Luke Shaw missed Man Utd training with transfer failure clear",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/malick-fofana-arsenal-transfer-sunderland-37630192",
   "fee": null,
   "published": "2026-09-05T09:17:41+00:00"
- },
- {
-  "id": "112b70945c5e",
-  "title": "Rangers failed to pursue Ferguson despite agreement - gossip",
-  "player": "Lewis Ferguson",
-  "title_ko": "레인저스는 합의에도 불구하고 퍼거슨을 추격하지 못했습니다 - 험담",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj07vkyno?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-05T08:25:11+00:00"
  }
 ]
