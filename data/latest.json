@@ -1,5 +1,18 @@
 [
  {
+  "id": "6e9b9e3b4e4d",
+  "title": "Merson: Arsenal didn't make X factor signing to win Champions League",
+  "player": null,
+  "title_ko": "머슨: 아스날은 챔피언스 리그 우승을 위해 X 팩터 계약을 체결하지 않았습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
+  "fee": null,
+  "published": "2026-09-09T12:43:00+00:00"
+ },
+ {
   "id": "c52cd54a5699",
   "title": "Ethan Nwaneri suffers ultimate humiliation as Dortmund boss moves to set record straight",
   "player": "Ethan Nwaneri",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-martinelli-37628184",
   "fee": null,
   "published": "2026-09-05T03:00:00+00:00"
- },
- {
-  "id": "f4b8bf0f3539",
-  "title": "Papers: Chelsea offered chance to sign Bissouma as Fernandez replacement",
-  "player": null,
-  "title_ko": "서류: 첼시는 페르난데스의 대체자로 비소마를 영입할 기회를 제공했습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
-  "fee": null,
-  "published": "2026-09-04T22:18:00+00:00"
  }
 ]
