@@ -1,5 +1,18 @@
 [
  {
+  "id": "c5e64cc475c8",
+  "title": "Michael Carrick explains why Luke Shaw missed Man Utd training with transfer failure clear",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭 (Michael Carrick) 이 루크 쇼 (Luke Shaw) 가 이적 실패가 분명한 맨유 훈련을 놓친 이유를 설명",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injuries-luke-shaw-37644598",
+  "fee": null,
+  "published": "2026-09-09T15:08:13+00:00"
+ },
+ {
   "id": "7710ef25c625",
   "title": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
   "player": "Mac Allister",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj07vkyno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-05T08:25:11+00:00"
- },
- {
-  "id": "ee6749af81c5",
-  "title": "Eight players to miss Everton vs Man Utd Premier League clash including £70m signing",
-  "player": null,
-  "title_ko": "£70m 계약을 포함해 Everton 대 Man Utd 프리미어리그 경기를 놓칠 선수 8명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/everton-man-utd-premier-league-37630069",
-  "fee": "£70M",
-  "published": "2026-09-05T08:10:28+00:00"
  }
 ]
