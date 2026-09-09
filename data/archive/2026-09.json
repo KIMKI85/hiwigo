@@ -1,5 +1,18 @@
 [
  {
+  "id": "897afd598b2a",
+  "title": "Declan Rice reaches Premier League title agreement with young Arsenal fan",
+  "player": "Declan Rice",
+  "title_ko": "데클란 라이스(Declan Rice)는 젊은 아스날 팬과 프리미어리그 타이틀 계약을 맺었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/declan-rice-premier-league-arsenal-37645434",
+  "fee": null,
+  "published": "2026-09-09T18:37:19+00:00"
+ },
+ {
   "id": "4c8b462ac079",
   "title": "Julian Alvarez 'suffering' after failed Arsenal transfer as statement made before Liverpool",
   "player": "Julian Alvarez",
@@ -583,6 +596,19 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-07T16:03:52+00:00"
+ },
+ {
+  "id": "47e30cd06922",
+  "title": "Everton latest: Short in key positions? The cost of the transfer window assessed",
+  "player": null,
+  "title_ko": "Everton 최신: 주요 위치가 부족합니까? 평가된 이적 기간 비용",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-09-07T15:15:00+00:00"
  },
  {
   "id": "0f2c6e7d6c5b",
