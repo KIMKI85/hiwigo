@@ -1,5 +1,18 @@
 [
  {
+  "id": "7561f734a7d1",
+  "title": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
+  "player": null,
+  "title_ko": "서류: 리버풀은 1월에 첼시와 맨유의 미드필더 목표를 급습할 것으로 보입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
+  "fee": null,
+  "published": "2026-09-09T23:00:00+00:00"
+ },
+ {
   "id": "56d630c4e82d",
   "title": "Raphinha on target again as Barcelona put five past Feyenoord",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/brentford-vs-sunderland/report/559465",
   "fee": null,
   "published": "2026-09-05T17:00:00+00:00"
- },
- {
-  "id": "3f2d131d96a3",
-  "title": "Le Fee penalty draws Sunderland level against Brentford LIVE!",
-  "player": null,
-  "title_ko": "Le Fee 페널티로 Brentford LIVE를 상대로 Sunderland 레벨이 결정되었습니다!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/brentford-vs-sunderland/live/559465",
-  "fee": null,
-  "published": "2026-09-05T13:08:00+00:00"
  }
 ]
