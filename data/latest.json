@@ -1,5 +1,18 @@
 [
  {
+  "id": "c52cd54a5699",
+  "title": "Ethan Nwaneri suffers ultimate humiliation as Dortmund boss moves to set record straight",
+  "player": "Ethan Nwaneri",
+  "title_ko": "에단 은와네리는 도르트문트의 감독이 기록을 바로잡기 위해 움직이면서 궁극적인 굴욕을 당했다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/ethan-nwaneri-arsenal-borussia-dortmund-37643018",
+  "fee": null,
+  "published": "2026-09-09T11:15:31+00:00"
+ },
+ {
   "id": "3b8620405c14",
   "title": "Declan Rice's transfer wish was again granted by Mikel Arteta after Arsenal act",
   "player": "Declan Rice's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13581538/chelsea-transfer-news-blues-offered-chance-to-sign-former-tottenham-midfielder-yves-bissouma-paper-talk",
   "fee": null,
   "published": "2026-09-04T22:18:00+00:00"
- },
- {
-  "id": "0e7694f22f11",
-  "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
-  "player": "Roberto De Zerbi",
-  "title_ko": "프리미어리그 소식: 리차리슨은 새 계약을 거절했고, 알론소는 미드필드에서 제임스를 지지했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
-  "fee": null,
-  "published": "2026-09-04T21:30:00+00:00"
  }
 ]
