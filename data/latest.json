@@ -1,5 +1,18 @@
 [
  {
+  "id": "fdebde9e6c3c",
+  "title": "Sevilla to pay just 8% of Fofana’s Milan salary during loan spell",
+  "player": "Youssof Fofana",
+  "title_ko": "세비야, 대출 주문 중 Fofana의 밀라노 급여의 8% 만 지불",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/sevilla-pay-8-fofana-milan-salary-loan/",
+  "fee": null,
+  "published": "2026-09-09T14:11:56+00:00"
+ },
+ {
   "id": "58ba861a722a",
   "title": "DIRECT. Mercato: suivez en live toutes les infos et rumeurs du mercredi 9 septembre",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/coventry-chelsea-lampard-terry-city-37623792",
   "fee": null,
   "published": "2026-09-05T05:00:00+00:00"
- },
- {
-  "id": "4cbdf034ed76",
-  "title": "Liverpool news: Andoni Iraola gets new transfer hope as signing announced after deadline",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라는 마감일 이후 발표된 계약으로 새로운 이적 희망을 얻습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-andoni-iraola-signing-37629105",
-  "fee": null,
-  "published": "2026-09-05T04:00:00+00:00"
  }
 ]
