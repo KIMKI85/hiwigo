@@ -1,5 +1,18 @@
 [
  {
+  "id": "52b7718f092b",
+  "title": "Rangers target Ferguson would cost £15m in January - gossip",
+  "player": "Lewis Ferguson",
+  "title_ko": "레인저스의 목표인 퍼거슨은 1월에 £15m의 비용을 지불하게 될 것입니다 - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c24jzrm6qldo?at_medium=RSS&at_campaign=rss",
+  "fee": "£15M",
+  "published": "2026-09-09T06:57:47+00:00"
+ },
+ {
   "id": "d5a6967bbf98",
   "title": "Pep Guardiola named Man Utd player he desperately wanted Man City to sign",
   "player": "Pep Guardiola",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-torino-paleari-anjorin-cagliari/",
   "fee": null,
   "published": "2026-09-04T20:06:01+00:00"
- },
- {
-  "id": "3f03cee26bc3",
-  "title": "Luis Enrique signs new deal to extend PSG stay",
-  "player": "Luis Enrique",
-  "title_ko": "루이스 엔리케, PSG 투숙 기간 연장을 위한 새로운 계약 체결",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c36l79n02r8o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-04T19:43:26+00:00"
  }
 ]
