@@ -1,5 +1,18 @@
 [
  {
+  "id": "f41cad9c23a1",
+  "title": "Arsenal close to finalising new contract for Arteta",
+  "player": "Mikel Arteta",
+  "title_ko": "아스날, 아르테타와 재계약 마무리 임박",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-10T14:16:06+00:00"
+ },
+ {
   "id": "9f800b31d298",
   "title": "Milan and Toulouse look to build upon Odogu deal with sister club relationship",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-signing-injury-crisis-37630477",
   "fee": "£25M",
   "published": "2026-09-06T03:30:00+00:00"
- },
- {
-  "id": "d55c23594568",
-  "title": "Arsenal news: Morgan Rogers remark rubs salt in wounds as target speaks out after blocked move",
-  "player": "Morgan Rogers",
-  "title_ko": "아스날 뉴스: 모건 로저스의 발언은 막힌 무브 후 타깃이 말하자 상처에 소금을 바르는 발언",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-morgan-rogers-malick-fofana-37630672",
-  "fee": null,
-  "published": "2026-09-06T03:00:00+00:00"
  }
 ]
