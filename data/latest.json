@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e3997bf6899",
+  "title": "Mauricio Pochettino calls for Chelsea to be STRIPPED of title over transfer breaches",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노는 첼시에게 이적 위반으로 타이틀 박탈을 요구했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-chelsea-tottenham-ban-37644638",
+  "fee": null,
+  "published": "2026-09-10T06:00:00+00:00"
+ },
+ {
   "id": "a8ce757a9179",
   "title": "Liverpool news: £130million transfer opportunity as top replacement option emerges",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-05T18:04:38+00:00"
- },
- {
-  "id": "a585ef62266d",
-  "title": "Lazio weigh up surprise move for former Inter midfielder Brozovic",
-  "player": null,
-  "title_ko": "라치오, 전 인터밀란 미드필더 브로조비치의 깜짝 이적 검토 중",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lazio-weigh-up-surprise-move-inter-brozovic/",
-  "fee": null,
-  "published": "2026-09-05T17:30:00+00:00"
  }
 ]
