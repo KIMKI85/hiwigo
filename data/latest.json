@@ -1,5 +1,31 @@
 [
  {
+  "id": "b523a2b6e349",
+  "title": "Jamie Carragher sticks to his guns on Alexis Mac Allister after Liverpool contract dig",
+  "player": "Jamie Carragher",
+  "title_ko": "Jamie Carragher는 리버풀 계약 발굴 후 Alexis Mac Allister에서 총을 고수합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-carragher-alexis-macallister-future-37647950",
+  "fee": null,
+  "published": "2026-09-10T12:40:14+00:00"
+ },
+ {
+  "id": "27f4def318e4",
+  "title": "Bayern Munich chief comes clean on Bradley Barcola transfer with Luis Diaz dig at Liverpool",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀에서 루이스 디아즈와 함께 브래들리 바르콜라를 타고 깨끗하게 청소하는 바이에른 뮌헨의 참모",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-diaz-liverpool-bayern-37647977",
+  "fee": null,
+  "published": "2026-09-10T12:38:30+00:00"
+ },
+ {
   "id": "b3a4d98540cd",
   "title": "Juventus evaluate contract u-turn for Gonzalez",
   "player": "Nico González",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-05T20:24:26+00:00"
- },
- {
-  "id": "1aded84846a6",
-  "title": "Le Fee penalty saves point for Sunderland at Brentford",
-  "player": null,
-  "title_ko": "Le Fee 패널티로 선덜랜드 앳 브렌트포드 포인트 절약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c4g70vn2r9eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-05T19:31:31+00:00"
- },
- {
-  "id": "600e4a351eb7",
-  "title": "Los cuatro fichajes del Racing del último día de mercado debutan ante el Rayo",
-  "player": "Pablo García",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/racing-santander/2026/09/05/cuatro-fichajes-racing-ultimo-dia-mercado-debutan-rayo.html",
-  "fee": null,
-  "published": "2026-09-05T19:19:55+00:00"
  }
 ]
