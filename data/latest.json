@@ -1,5 +1,18 @@
 [
  {
+  "id": "a8ce757a9179",
+  "title": "Liverpool news: £130million transfer opportunity as top replacement option emerges",
+  "player": null,
+  "title_ko": "리버풀 뉴스: 최고의 교체 옵션 등장으로 £130m 이적 기회",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-richards-hughes-replacement-37643732",
+  "fee": "£130M",
+  "published": "2026-09-10T04:00:00+00:00"
+ },
+ {
   "id": "7561f734a7d1",
   "title": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lazio-weigh-up-surprise-move-inter-brozovic/",
   "fee": null,
   "published": "2026-09-05T17:30:00+00:00"
- },
- {
-  "id": "7f7998a72250",
-  "title": "Le Fee penalty rescues draw for Sunderland at Brentford",
-  "player": null,
-  "title_ko": "Le Fee 페널티킥, 브렌트포드에서 선덜랜드의 무승부 기록",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/brentford-vs-sunderland/report/559465",
-  "fee": null,
-  "published": "2026-09-05T17:00:00+00:00"
  }
 ]
