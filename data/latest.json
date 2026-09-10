@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f800b31d298",
+  "title": "Milan and Toulouse look to build upon Odogu deal with sister club relationship",
+  "player": null,
+  "title_ko": "밀라노와 툴루즈는 자매 클럽과의 관계를 통해 오도구와의 거래를 구축하고자 합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-and-toulouse-look-build-upon-odogu-deal/",
+  "fee": null,
+  "published": "2026-09-10T14:00:00+00:00"
+ },
+ {
   "id": "b523a2b6e349",
   "title": "Jamie Carragher sticks to his guns on Alexis Mac Allister after Liverpool contract dig",
   "player": "Jamie Carragher",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-morgan-rogers-malick-fofana-37630672",
   "fee": null,
   "published": "2026-09-06T03:00:00+00:00"
- },
- {
-  "id": "78be276ff9ce",
-  "title": "Liverpool may make January move for Sarr - Sunday's gossip",
-  "player": "Ismaila Sarr",
-  "title_ko": "리버풀은 1월에 사르를 영입할 수도 있습니다 - 일요일의 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-05T20:24:26+00:00"
  }
 ]
