@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T16:31:05.733176+00:00",
+ "updated": "2026-09-10T20:57:17.814305+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -626,6 +626,27 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-10",
+     "home": "Man United",
+     "away": "Sabah FK",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-09-10",
+     "home": "PSV",
+     "away": "Shaktar",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-10",
+     "home": "Fenerbahçe",
+     "away": "Roma",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-09-09",
      "home": "Sporting CP",
      "away": "Galatasaray",
@@ -659,27 +680,6 @@
      "away": "Viking",
      "hs": 3,
      "as": 1
-    },
-    {
-     "date": "2026-09-09",
-     "home": "Barça",
-     "away": "Feyenoord",
-     "hs": 5,
-     "as": 1
-    },
-    {
-     "date": "2026-09-08",
-     "home": "Lille",
-     "away": "Real Betis",
-     "hs": 2,
-     "as": 3
-    },
-    {
-     "date": "2026-09-08",
-     "home": "Dortmund",
-     "away": "Villarreal",
-     "hs": 3,
-     "as": 2
     }
    ],
    "scorers": [
@@ -726,19 +726,19 @@
      "assists": 2
     },
     {
+     "name": "Michael Olise",
+     "team": "Bayern",
+     "goals": 2,
+     "assists": 1
+    },
+    {
+     "name": "Danijel Sturm",
+     "team": "Slavia Praha",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "John McGinn",
-     "team": "Aston Villa",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Hugo Vetlesen",
-     "team": "Club Brugge",
-     "goals": 1,
-     "assists": 0
-    },
-    {
-     "name": "Emiliano Buendía",
      "team": "Aston Villa",
      "goals": 1,
      "assists": 0
