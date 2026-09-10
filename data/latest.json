@@ -1,5 +1,18 @@
 [
  {
+  "id": "c6d5084d6acf",
+  "title": "Spurs and Richarlison in dispute over contract",
+  "player": null,
+  "title_ko": "스퍼스와 히찰리송이 계약 문제로 분쟁 중이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-10T18:48:12+00:00"
+ },
+ {
   "id": "35bcb508bbe4",
   "title": "Premier League star admits he would CYCLE to Man Utd after transfer collapse",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/everton-owners-friedkin-david-moyes-37630608",
   "fee": null,
   "published": "2026-09-06T08:29:27+00:00"
- },
- {
-  "id": "1e0688c2d9ff",
-  "title": "Aberdeen could move for former Rangers midfielder - gossip",
-  "player": "Greg Doherty",
-  "title_ko": "애버딘은 전 레인저스 미드필더로 이적할 수도 있다 - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwyzj20rxe3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-06T07:50:27+00:00"
  }
 ]
