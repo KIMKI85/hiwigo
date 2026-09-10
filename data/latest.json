@@ -1,5 +1,18 @@
 [
  {
+  "id": "5e787e64861f",
+  "title": "Richarlison goes to war with Tottenham as furious striker 'tries to rip up his contract'",
+  "player": null,
+  "title_ko": "Richarlison은 분노한 스트라이커가 '그의 계약을 찢으려고' 토트넘과 전쟁을 벌입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/richarlison-tottenham-contract-rip-up-37647752",
+  "fee": null,
+  "published": "2026-09-10T11:16:30+00:00"
+ },
+ {
   "id": "247d4dead6e8",
   "title": "Arsenal icon calls out supporters and hints at Mikel Arteta transfer mistake",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/national/ligue-3-quand-un-joueur-du-sc-bastia-signe-un-plat-du-pied-parfait-contre-son-camp_AV-202609050364.html",
   "fee": null,
   "published": "2026-09-05T18:57:41+00:00"
- },
- {
-  "id": "509495eba29c",
-  "title": "D’Amico: ‘Roma happy Kone stayed with us’ despite late Chelsea bid",
-  "player": "Manu Koné",
-  "title_ko": "D’Amico: 늦은 첼시 입찰에도 불구하고 ‘Roma happy Kone이 우리와 함께 머물렀습니다'",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/damico-roma-happy-kone-stayed-with-us-chelsea/",
-  "fee": null,
-  "published": "2026-09-05T18:24:49+00:00"
  }
 ]
