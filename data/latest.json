@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd6cd12831c2",
+  "title": "Gary Lineker claims Premier League transfer could cost Arsenal Champions League",
+  "player": "Gary Lineker",
+  "title_ko": "게리 리네커는 프리미어리그 이적이 아스널 챔피언스리그에 비용을 초래할 수 있다고 주장했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/lineker-arsenal-barcelona-champions-league-37646159",
+  "fee": null,
+  "published": "2026-09-10T07:05:54+00:00"
+ },
+ {
   "id": "8e3997bf6899",
   "title": "Mauricio Pochettino calls for Chelsea to be STRIPPED of title over transfer breaches",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-zwei-wechsel-auf-beiden-seiten-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
   "fee": null,
   "published": "2026-09-05T18:14:11+00:00"
- },
- {
-  "id": "9cceb98ffa72",
-  "title": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-  "player": "Enzo Maresca",
-  "title_ko": "페르난데스와 은디아예는 맨시티 데뷔전에서 유망한 모습을 보여주고 있다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-05T18:04:38+00:00"
  }
 ]
