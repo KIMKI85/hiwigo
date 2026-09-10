@@ -1,5 +1,18 @@
 [
  {
+  "id": "7d47cff09992",
+  "title": "Mason Mount’s true feelings on Man Utd signing THREE new midfielders this summer",
+  "player": "Mason Mount",
+  "title_ko": "올 여름 맨유가 3명의 새로운 미드필더를 영입한 것에 대한 메이슨 마운트의 솔직한 감정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mason-mount-man-utd-midfielders-37646776",
+  "fee": null,
+  "published": "2026-09-10T09:57:27+00:00"
+ },
+ {
   "id": "dd6cd12831c2",
   "title": "Gary Lineker claims Premier League transfer could cost Arsenal Champions League",
   "player": "Gary Lineker",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/live-drei-wechsel-bei-dynamo-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-05T18:14:11+00:00"
- },
- {
-  "id": "27d54248fd86",
-  "title": "LIVE! Zwei Wechsel auf beiden Seiten: Wer holt den zweiten Saisonsieg?",
-  "player": "Zwei Wechsel",
-  "title_ko": "살다! 양쪽 모두에 두 가지 변화가 있습니다. 시즌 두 번째 승리는 누가 차지하게 될까요?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-zwei-wechsel-auf-beiden-seiten-wer-holt-den-zweiten-saisonsieg-1249101/artikel#omrss",
   "fee": null,
   "published": "2026-09-05T18:14:11+00:00"
  }
