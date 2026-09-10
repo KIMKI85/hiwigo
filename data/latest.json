@@ -1,5 +1,31 @@
 [
  {
+  "id": "35bcb508bbe4",
+  "title": "Premier League star admits he would CYCLE to Man Utd after transfer collapse",
+  "player": "Old Trafford",
+  "title_ko": "프리미어 리그 스타는 이적 실패 후 맨유로 순환할 것이라고 인정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-sunderland-meunier-37649647",
+  "fee": null,
+  "published": "2026-09-10T18:28:44+00:00"
+ },
+ {
+  "id": "3c2fb578ef42",
+  "title": "James Rodriguez unlikely for Avellino following Atletico Nacional agreement",
+  "player": "James Rodriguez",
+  "title_ko": "아틀레티코 나시오날과의 합의에 따라 하메스 로드리게스는 아벨리노에 합류할 가능성이 낮습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/james-rodriguez-unlikely-for-avellino/",
+  "fee": null,
+  "published": "2026-09-10T18:22:12+00:00"
+ },
+ {
   "id": "f8926499ef71",
   "title": "Man Utd receive explanation from Barcelona for Marcus Rashford transfer snub",
   "player": "Marcus Rashford",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cwyzj20rxe3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-06T07:50:27+00:00"
- },
- {
-  "id": "789dcb03307f",
-  "title": "Liverpool star signed for £11.5m gets new life in music after retiring aged 37",
-  "player": null,
-  "title_ko": "£ 11.5M에 계약한 리버풀 스타는 37세의 나이로 은퇴한 후 음악에 새로운 생명을 불어넣습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-ryan-babel-career-now-37623510",
-  "fee": "£11.5M",
-  "published": "2026-09-06T07:00:00+00:00"
- },
- {
-  "id": "1908b7c6076a",
-  "title": "'I forced my way out of Man Utd against the manager's wishes to secure Everton transfer'",
-  "player": "Old Trafford",
-  "title_ko": "'나는 에버턴 이적을 확보하려는 감독의 의지에 반해 맨유에서 강제로 빠져나왔다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-everton-premier-league-37627327",
-  "fee": null,
-  "published": "2026-09-06T07:00:00+00:00"
  }
 ]
