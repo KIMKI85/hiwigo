@@ -1,5 +1,18 @@
 [
  {
+  "id": "e110d9cd1c7f",
+  "title": "Scalvini agrees new Atalanta contract following Newcastle summer pursuit",
+  "player": "Giorgio Scalvini",
+  "title_ko": "스칼비니는 뉴캐슬의 여름 이적 이후 새로운 아탈란타 계약에 동의했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/scalvini-agrees-new-atalanta-contract/",
+  "fee": null,
+  "published": "2026-09-10T14:31:05+00:00"
+ },
+ {
   "id": "f41cad9c23a1",
   "title": "Arsenal close to finalising new contract for Arteta",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-andoni-iraola-37630538",
   "fee": null,
   "published": "2026-09-06T04:00:00+00:00"
- },
- {
-  "id": "024bf99c0530",
-  "title": "Man Utd news: £25m 'new signing' set for fresh role as club deal with injury crisis",
-  "player": null,
-  "title_ko": "맨유 소식: 부상 위기에 대처하는 클럽의 새로운 역할에 대한 £ 25M '새로운 계약' 설정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-signing-injury-crisis-37630477",
-  "fee": "£25M",
-  "published": "2026-09-06T03:30:00+00:00"
  }
 ]
