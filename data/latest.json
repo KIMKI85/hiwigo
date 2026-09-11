@@ -1,5 +1,18 @@
 [
  {
+  "id": "1789545a770e",
+  "title": "Ex-West Ham striker Antonio joins Watford",
+  "player": "Michail Antonio",
+  "title_ko": "전 웨스트햄 공격수 안토니오, 왓포드에 합류",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-11T15:04:49+00:00"
+ },
+ {
   "id": "84719262f3cb",
   "title": "Zola: ‘Not easy’ to join Chelsea, Maradona ‘named me as his successor’",
   "player": "Gianfranco Zola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/schock-nach-transfer-hype-vieira-allein-kann-diesem-hsv-nicht-helfen-1250298/video#omrss",
   "fee": null,
   "published": "2026-09-06T16:10:12+00:00"
- },
- {
-  "id": "41e638c41626",
-  "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
-  "player": "Jamie Vardy",
-  "title_ko": "제이미 바디(Jamie Vardy)는 챔피언십 투쟁자들과 계약을 체결한 후 번리에서 파티를 열었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
-  "fee": null,
-  "published": "2026-09-06T15:16:08+00:00"
  }
 ]
