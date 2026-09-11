@@ -1,5 +1,18 @@
 [
  {
+  "id": "b86426c1002a",
+  "title": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+  "player": "Pedro Neto",
+  "title_ko": "맨체스터 시티를 거부한 첼시 핸드 페드로 네토의 새로운 거래",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+  "fee": null,
+  "published": "2026-09-11T12:55:05+00:00"
+ },
+ {
   "id": "42fd182cedcb",
   "title": "Bergvall signs Tottenham deal after saying he wanted to leave",
   "player": "Lucas Bergvall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfer-mbappe-alonso-kone-37632995",
   "fee": null,
   "published": "2026-09-06T14:17:23+00:00"
- },
- {
-  "id": "bfd6672e60a5",
-  "title": "Official: Inter lock Pio Esposito down to new contract until June 2032",
-  "player": "Pio Esposito",
-  "title_ko": "공식: 2032년 6월까지 Pio Esposito를 신규 계약으로 전환",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-inter-pio-esposito-new-contract-2032/",
-  "fee": null,
-  "published": "2026-09-06T14:12:53+00:00"
  }
 ]
