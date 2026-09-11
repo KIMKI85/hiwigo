@@ -1,5 +1,31 @@
 [
  {
+  "id": "a1ca5245dbdb",
+  "title": "Hall signs new deal at Newcastle after Man Utd interest",
+  "player": "Lewis Hall",
+  "title_ko": "홀, 맨체스터 유나이티드 이자 후 뉴캐슬에서 새로운 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
+  "fee": null,
+  "published": "2026-09-11T09:00:00+00:00"
+ },
+ {
+  "id": "c6af8e4a4a33",
+  "title": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
+  "player": "Lewis Hall",
+  "title_ko": "루이스 홀, 뉴캐슬 장기 계약 합의, 첼시 바이아웃 종결: 축구 뉴스 – LIVE",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+  "fee": null,
+  "published": "2026-09-11T08:22:15+00:00"
+ },
+ {
   "id": "1f2f0f74151a",
   "title": "Hall signs new contract with Newcastle until 2031",
   "player": "Lewis Hall",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/ein-staerkeres-argument-als-geld-hofmann-wechselt-nicht-nach-saudi-arabien-1250233/artikel#omrss",
   "fee": null,
   "published": "2026-09-06T13:57:01+00:00"
- },
- {
-  "id": "b57f46f8fdcf",
-  "title": "Ex-Leicester striker Vardy joins Burnley",
-  "player": "Former Leicester",
-  "title_ko": "전 레스터 스트라이커 Vardy, Burnley 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-06T13:41:36+00:00"
- },
- {
-  "id": "488fee44bec4",
-  "title": "Video: Diogo Leite arrives in Rome ahead of Lazio move",
-  "player": "Diogo Leite",
-  "title_ko": "비디오: 디오구 레이테, 라치오 이적에 앞서 로마에 도착",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
-  "fee": null,
-  "published": "2026-09-06T12:52:07+00:00"
  }
 ]

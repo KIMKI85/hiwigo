@@ -1,5 +1,31 @@
 [
  {
+  "id": "a1ca5245dbdb",
+  "title": "Hall signs new deal at Newcastle after Man Utd interest",
+  "player": "Lewis Hall",
+  "title_ko": "홀, 맨체스터 유나이티드 이자 후 뉴캐슬에서 새로운 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
+  "fee": null,
+  "published": "2026-09-11T09:00:00+00:00"
+ },
+ {
+  "id": "c6af8e4a4a33",
+  "title": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
+  "player": "Lewis Hall",
+  "title_ko": "루이스 홀, 뉴캐슬 장기 계약 합의, 첼시 바이아웃 종결: 축구 뉴스 – LIVE",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+  "fee": null,
+  "published": "2026-09-11T08:22:15+00:00"
+ },
+ {
   "id": "1f2f0f74151a",
   "title": "Hall signs new contract with Newcastle until 2031",
   "player": "Lewis Hall",
