@@ -1,5 +1,31 @@
 [
  {
+  "id": "a5f80dd49aaf",
+  "title": "Mikel Arteta fires back at Gabriel Jesus as row over bitter Arsenal transfer exit escalates",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 가브리엘 제수스에게 반격을 가해 아스널 이적 시장을 둘러싼 갈등이 격화되고 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-gabriel-jesus-37650988",
+  "fee": null,
+  "published": "2026-09-11T09:23:01+00:00"
+ },
+ {
+  "id": "3a75ee5a2f3c",
+  "title": "Como enjoy Baturina strong start after rejecing Aston Villa’s 55m bid",
+  "player": "Martin Baturina",
+  "title_ko": "Como는 Aston Villa의 55m 입찰을 거부한 후 Baturina의 강력한 출발을 즐기고 있습니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/como-baturina-strong-start-aston-villa-55m/",
+  "fee": null,
+  "published": "2026-09-11T09:16:00+00:00"
+ },
+ {
   "id": "a1ca5245dbdb",
   "title": "Hall signs new deal at Newcastle after Man Utd interest",
   "player": "Lewis Hall",
