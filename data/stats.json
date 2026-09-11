@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T16:35:13.769126+00:00",
+ "updated": "2026-09-11T21:02:49.085471+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -254,6 +254,13 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-11",
+     "home": "Venezia FC",
+     "away": "Fiorentina",
+     "hs": 2,
+     "as": 4
+    },
+    {
      "date": "2026-09-07",
      "home": "Udinese",
      "away": "Lazio",
@@ -301,13 +308,6 @@
      "away": "Atalanta",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Inter",
-     "away": "Napoli",
-     "hs": 3,
-     "as": 2
     }
    ],
    "scorers": [
@@ -326,6 +326,12 @@
     {
      "name": "Davide Frattesi",
      "team": "Lazio",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Franco Mastantuono",
+     "team": "Fiorentina",
      "goals": 3,
      "assists": 0
     },
@@ -364,12 +370,6 @@
      "team": "Torino",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Martin Baturina",
-     "team": "Como 1907",
-     "goals": 2,
-     "assists": 1
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-11",
+     "home": "Union Berlin",
+     "away": "Schalke",
+     "hs": 1,
+     "as": 3
+    },
     {
      "date": "2026-09-06",
      "home": "Frankfurt",
@@ -425,13 +432,6 @@
      "away": "Dortmund",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Bremen",
-     "away": "RB Leipzig",
-     "hs": 3,
-     "as": 1
     }
    ],
    "scorers": [
@@ -456,6 +456,12 @@
     {
      "name": "Ridle Baku",
      "team": "RB Leipzig",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Tim Skarke",
+     "team": "Union Berlin",
      "goals": 2,
      "assists": 0
     },
@@ -488,12 +494,6 @@
      "team": "M'gladbach",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Maurice Krattenmacher",
-     "team": "Elversberg",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -501,6 +501,13 @@
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-11",
+     "home": "Stade Rennais",
+     "away": "Marseille",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-09-06",
      "home": "Marseille",
@@ -549,13 +556,6 @@
      "away": "Monaco",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-04",
-     "home": "Olympique Lyon",
-     "away": "Auxerre",
-     "hs": 3,
-     "as": 1
     }
    ],
    "scorers": [
