@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T20:57:17.814305+00:00",
+ "updated": "2026-09-11T04:49:40.690835+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -627,9 +627,30 @@
    "results": [
     {
      "date": "2026-09-10",
+     "home": "Slavia Praha",
+     "away": "RC Lens",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-10",
+     "home": "Como 1907",
+     "away": "RB Leipzig",
+     "hs": 4,
+     "as": 1
+    },
+    {
+     "date": "2026-09-10",
      "home": "Man United",
      "away": "Sabah FK",
      "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-09-10",
+     "home": "Bayern",
+     "away": "Bodø/Glimt",
+     "hs": 5,
      "as": 0
     },
     {
@@ -658,27 +679,6 @@
      "home": "Napoli",
      "away": "Arsenal",
      "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-09-09",
-     "home": "PSG",
-     "away": "Sl. Bratislava",
-     "hs": 6,
-     "as": 1
-    },
-    {
-     "date": "2026-09-09",
-     "home": "Liverpool",
-     "away": "Atleti",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-09",
-     "home": "Stuttgart",
-     "away": "Viking",
-     "hs": 3,
      "as": 1
     }
    ],
