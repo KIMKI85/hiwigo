@@ -1,5 +1,18 @@
 [
  {
+  "id": "1f2f0f74151a",
+  "title": "Hall signs new contract with Newcastle until 2031",
+  "player": "Lewis Hall",
+  "title_ko": "홀, 2031년까지 뉴캐슬과 신규 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-11T08:00:07+00:00"
+ },
+ {
   "id": "6172f6330448",
   "title": "Mikel Arteta 'close to signing' new Arsenal contract despite one move interesting him",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
   "fee": null,
   "published": "2026-09-06T12:52:07+00:00"
- },
- {
-  "id": "3e79f4ecf012",
-  "title": "Arsenal 21-man transfer shortlist as Man City, Chelsea and Liverpool beat them to signings",
-  "player": null,
-  "title_ko": "맨시티, 첼시, 리버풀이 아스널을 제치고 영입하면서 아스날 이적 후보 21명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-shortlist-chelsea-liverpool-37632629",
-  "fee": null,
-  "published": "2026-09-06T12:25:55+00:00"
  }
 ]
