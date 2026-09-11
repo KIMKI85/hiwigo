@@ -1,5 +1,18 @@
 [
  {
+  "id": "0bb1723dd46e",
+  "title": "Mikel Arteta sends warning to Arsenal's Premier League title rivals as secret target set",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타가 비밀 표적 세트로 아스널의 프리미어 리그 타이틀 라이벌에게 경고를 보냅니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-premier-league-37652979",
+  "fee": null,
+  "published": "2026-09-11T21:30:00+00:00"
+ },
+ {
   "id": "39f0eb28d487",
   "title": "LIVE! Nach Schiedsrichter-Wechsel: Karius rettet S04 die Null - Adamu lässt das 3:0 liegen",
   "player": "Nach Schiedsrichter-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-06T19:09:59+00:00"
- },
- {
-  "id": "6908ef89f33e",
-  "title": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
-  "player": "David Moyes",
-  "title_ko": "‘변명 금지’: 모이스는 맨유의 무승부 이후 이적 문제가 에버턴을 해치지 않을 것이라고 말합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
-  "fee": null,
-  "published": "2026-09-06T18:49:39+00:00"
  }
 ]
