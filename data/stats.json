@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T11:31:57.999634+00:00",
+ "updated": "2026-09-11T16:35:13.769126+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -130,60 +130,60 @@
    "standings": [],
    "results": [
     {
-     "date": "2026-09-07",
-     "home": "Elche",
-     "away": "Real Sociedad",
-     "hs": 2,
-     "as": 3
-    },
-    {
-     "date": "2026-09-07",
-     "home": "Getafe",
-     "away": "Celta",
-     "hs": 1,
+     "date": "2026-08-25",
+     "home": "Valencia",
+     "away": "Real Betis",
+     "hs": 0,
      "as": 1
     },
     {
-     "date": "2026-09-06",
-     "home": "Espanyol",
-     "away": "Sevilla FC",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-06",
+     "date": "2026-08-24",
      "home": "Málaga",
+     "away": "Deportivo",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-08-24",
+     "home": "Osasuna",
      "away": "Levante",
      "hs": 0,
      "as": 0
     },
     {
-     "date": "2026-09-06",
-     "home": "Alavés",
-     "away": "Osasuna",
-     "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Valencia",
+     "date": "2026-08-23",
+     "home": "Elche",
      "away": "Barça",
      "hs": 0,
      "as": 5
     },
     {
-     "date": "2026-09-05",
-     "home": "Villarreal",
-     "away": "Deportivo",
-     "hs": 2,
-     "as": 3
+     "date": "2026-08-23",
+     "home": "Getafe",
+     "away": "Santander",
+     "hs": 1,
+     "as": 0
     },
     {
-     "date": "2026-09-05",
-     "home": "Rayo Vallecano",
-     "away": "Santander",
-     "hs": 3,
+     "date": "2026-08-23",
+     "home": "Atleti",
+     "away": "Villarreal",
+     "hs": 2,
      "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Espanyol",
+     "away": "Real Madrid",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-08-22",
+     "home": "Valencia",
+     "away": "Celta",
+     "hs": 0,
+     "as": 0
     }
    ],
    "scorers": [
