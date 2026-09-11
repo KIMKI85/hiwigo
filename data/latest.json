@@ -13,6 +13,19 @@
   "published": "2026-09-11T16:28:41+00:00"
  },
  {
+  "id": "dd4c9ae636c1",
+  "title": "LIVE! Rudelbildung im Mittelkreis - Hansa wechselt dreimal nach der Pause",
+  "player": "Kölner Viktoria",
+  "title_ko": "라이브! Rudelbildung im Mittelkreis - Hansa wechselt dreimal nach der Pause",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/vikt-koeln-gegen-rostock-2026-liga-5233256/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-09-11T16:00:28+00:00"
+ },
+ {
   "id": "0afb38bc31e0",
   "title": "Chelsea transfer target Lamine Camara speaks out on failed deadline day move",
   "player": "Lamine Camara",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/frosinone-warning-ghedjemis-win-back-place/",
   "fee": null,
   "published": "2026-09-06T17:30:02+00:00"
- },
- {
-  "id": "8a2f96de1811",
-  "title": "Ex-Liverpool and Newcastle ace vindicated after wife refused to move for transfer",
-  "player": "Loris Karius",
-  "title_ko": "전 리버풀과 뉴캐슬 에이스는 아내가 이적하기를 거부 한 후 옹호했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/loris-karius-bayern-wife-leotta-37633213",
-  "fee": null,
-  "published": "2026-09-06T16:29:33+00:00"
  }
 ]
