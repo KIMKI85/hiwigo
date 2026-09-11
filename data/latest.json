@@ -1,5 +1,18 @@
 [
  {
+  "id": "8113a8d5553d",
+  "title": "Canal + y LaLiga firman un acuerdo histórico para combatir la piratería de contenidos deportivos",
+  "player": "África Subsahariana",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/primera-division/2026/09/11/canal-laliga-firman-acuerdo-historico-combatir-pirateria-contenidos-deportivos.html",
+  "fee": null,
+  "published": "2026-09-11T16:28:41+00:00"
+ },
+ {
   "id": "0afb38bc31e0",
   "title": "Chelsea transfer target Lamine Camara speaks out on failed deadline day move",
   "player": "Lamine Camara",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/loris-karius-bayern-wife-leotta-37633213",
   "fee": null,
   "published": "2026-09-06T16:29:33+00:00"
- },
- {
-  "id": "daba16d2f840",
-  "title": "Pio Esposito opens up on ’emotional’ Inter extension as he signs until 2032",
-  "player": "Pio Esposito",
-  "title_ko": "피오 에스포지토 (Pio Esposito) 는 2032년까지 서명하면서 ’감성적인’ 인터 익스텐션을 엽니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/pio-esposito-opens-emotional-inter-extension/",
-  "fee": null,
-  "published": "2026-09-06T16:29:22+00:00"
  }
 ]
