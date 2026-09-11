@@ -1,5 +1,18 @@
 [
  {
+  "id": "bf052818d9a8",
+  "title": "Liverpool unveil memorials for former manager Beard",
+  "player": "Matt Beard",
+  "title_ko": "리버풀, 전 감독 비어드 추모식 공개",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-11T15:32:08+00:00"
+ },
+ {
   "id": "1789545a770e",
   "title": "Ex-West Ham striker Antonio joins Watford",
   "player": "Michail Antonio",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Bundesliga (DE)",
   "url": "https://www.kicker.de/ernuechterung-nach-transfer-hype-vieira-allein-kann-diesem-hsv-nicht-helfen-1250298/video#omrss",
-  "fee": null,
-  "published": "2026-09-06T16:10:12+00:00"
- },
- {
-  "id": "800930232c6a",
-  "title": "Schock nach Transfer-Hype: \"Vieira allein kann diesem HSV nicht helfen\"",
-  "player": "Reporter Sebastian Wolff",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/schock-nach-transfer-hype-vieira-allein-kann-diesem-hsv-nicht-helfen-1250298/video#omrss",
   "fee": null,
   "published": "2026-09-06T16:10:12+00:00"
  }
