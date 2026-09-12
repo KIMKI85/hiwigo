@@ -1,5 +1,18 @@
 [
  {
+  "id": "877fb02b9e6d",
+  "title": "De Zerbi insists he’s not under pressure over Tottenham transfer spending",
+  "player": "De Zerbi",
+  "title_ko": "데 제르비는 토트넘 이적료 지출에 대해 압박을 받고 있지 않다고 주장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/de-zerbi-not-pressure-tottenham-transfer-spend/",
+  "fee": null,
+  "published": "2026-09-12T10:47:45+00:00"
+ },
+ {
   "id": "8a150674068e",
   "title": "'I've turned the page' - Camara on Chelsea deal collapse",
   "player": "Lamine Camara",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13582716/tottenham-roberto-de-zerbis-criticism-of-spurs-forwards-and-medical-staff-worrying-says-paul-merson",
   "fee": null,
   "published": "2026-09-07T11:32:00+00:00"
- },
- {
-  "id": "8081d8a32152",
-  "title": "Arsenal profit as Chelsea called out for transfer blunder - 'It’s got to stop happening'",
-  "player": "Emirates Stadium",
-  "title_ko": "첼시가 이적 실수를 주장한 아스널의 이익 - '그런 일은 그만둬야 한다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-chelsea-kai-havertz-transfer-37634443",
-  "fee": null,
-  "published": "2026-09-07T09:05:48+00:00"
  }
 ]
