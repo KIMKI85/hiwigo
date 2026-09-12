@@ -1,5 +1,18 @@
 [
  {
+  "id": "8f57f2a7dce2",
+  "title": "LIVE! Fünf Wechsel bei St. Pauli - Cleiton feiert Wolfsburg-Debüt",
+  "player": "Fünf Wechsel",
+  "title_ko": "살다! 장크트 파울리의 다섯 가지 변화 - 볼프스부르크 데뷔를 축하하는 클레이튼",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5227150/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-09-12T17:41:18+00:00"
+ },
+ {
   "id": "b30a45234f1c",
   "title": "'Man Utd star wouldn't shake my hand after I joined Man City - here's what I think of him'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-joao-pedro-andrea-berta-37636293",
   "fee": null,
   "published": "2026-09-07T14:51:05+00:00"
- },
- {
-  "id": "313452ba1f60",
-  "title": "Mercato: l'OL reconnaît des contacts avec Benzema mais \"c'était infaisable\", assure Louis-Jean",
-  "player": "Karim Benzema",
-  "title_ko": "메르카토: OL은 벤제마와의 접촉을 인정했지만 \"그것은 불가능했다\"고 루이장은 확신했다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/mercato-l-ol-reconnait-des-contacts-avec-benzema-mais-c-etait-infaisable-assure-louis-jean_AV-202609070585.html",
-  "fee": null,
-  "published": "2026-09-07T13:56:28+00:00"
  }
 ]
