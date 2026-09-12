@@ -1,5 +1,18 @@
 [
  {
+  "id": "b30a45234f1c",
+  "title": "'Man Utd star wouldn't shake my hand after I joined Man City - here's what I think of him'",
+  "player": null,
+  "title_ko": "'맨시티에 합류한 후 맨유 스타가 악수하지 않을 텐데, 내가 생각하는 맨유의 모습은 이렇다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/neville-man-utd-city-schmeichel-37652700",
+  "fee": null,
+  "published": "2026-09-12T17:00:00+00:00"
+ },
+ {
   "id": "86774159cfac",
   "title": "Unai Emery confirms Alejandro Garnacho transfer stance after slow start at Aston Villa",
   "player": "Unai Emery",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/mercato-l-ol-reconnait-des-contacts-avec-benzema-mais-c-etait-infaisable-assure-louis-jean_AV-202609070585.html",
   "fee": null,
   "published": "2026-09-07T13:56:28+00:00"
- },
- {
-  "id": "de5e739c0127",
-  "title": "Elversberg und das Draufgängertum: Glücksgriffe nicht nur bei Transfers",
-  "player": "Borussia Mönchengladbach",
-  "title_ko": "Elversberg와 bravado: 이적뿐만 아니라 행운이 찾아왔습니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/elversberg-und-das-draufgaengertum-gluecksgriffe-nicht-nur-bei-transfers-1250248/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-07T12:43:14+00:00"
  }
 ]
