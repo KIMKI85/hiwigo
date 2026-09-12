@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T10:56:09.929320+00:00",
+ "updated": "2026-09-12T15:36:50.305886+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -64,6 +64,24 @@
    ],
    "scorers": [
     {
+     "name": "Marcus Tavernier",
+     "team": "Bournemouth",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "João Pedro",
+     "team": "Chelsea",
+     "goals": 3,
+     "assists": 3
+    },
+    {
+     "name": "Morgan Rogers",
+     "team": "Chelsea",
+     "goals": 3,
+     "assists": 1
+    },
+    {
      "name": "Erling Haaland",
      "team": "Man City",
      "goals": 3,
@@ -72,6 +90,12 @@
     {
      "name": "Alexander Isak",
      "team": "Liverpool",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Kevin Schade",
+     "team": "Brentford",
      "goals": 3,
      "assists": 0
     },
@@ -98,30 +122,6 @@
      "team": "Arsenal",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Vitaly Janelt",
-     "team": "Brentford",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Marcus Tavernier",
-     "team": "Bournemouth",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Jack Hinshelwood",
-     "team": "Brighton Hove",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Anthony Elanga",
-     "team": "Newcastle",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,13 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Santander",
+     "away": "Alavés",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-11",
      "home": "Sevilla FC",
@@ -177,13 +184,6 @@
      "away": "Barça",
      "hs": 0,
      "as": 5
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Villarreal",
-     "away": "Deportivo",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -194,10 +194,22 @@
      "assists": 0
     },
     {
+     "name": "Roberto Fernández",
+     "team": "Espanyol",
+     "goals": 5,
+     "assists": 0
+    },
+    {
      "name": "Sergio Camello",
      "team": "Rayo Vallecano",
      "goals": 5,
      "assists": 1
+    },
+    {
+     "name": "Yassir Zabiri",
+     "team": "Santander",
+     "goals": 5,
+     "assists": 0
     },
     {
      "name": "Pierre-Emerick Aubameyang",
@@ -234,18 +246,6 @@
      "team": "Barça",
      "goals": 4,
      "assists": 0
-    },
-    {
-     "name": "Mariano Díaz",
-     "team": "Alavés",
-     "goals": 3,
-     "assists": 3
-    },
-    {
-     "name": "Roberto Fernández",
-     "team": "Espanyol",
-     "goals": 3,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Genoa",
+     "away": "Frosinone",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-11",
      "home": "Venezia FC",
@@ -300,13 +307,6 @@
      "home": "Parma",
      "away": "Monza",
      "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Roma",
-     "away": "Atalanta",
-     "hs": 2,
      "as": 1
     }
    ],
@@ -378,6 +378,41 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-12",
+     "home": "Freiburg",
+     "away": "M'gladbach",
+     "hs": 5,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Mainz",
+     "away": "Frankfurt",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Augsburg",
+     "away": "Leverkusen",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Dortmund",
+     "away": "SC Paderborn",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Hoffenheim",
+     "away": "Stuttgart",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-09-11",
      "home": "Union Berlin",
      "away": "Schalke",
@@ -397,41 +432,6 @@
      "away": "Mainz",
      "hs": 0,
      "as": 5
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Schalke",
-     "away": "Bayern",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-09-05",
-     "home": "SC Paderborn",
-     "away": "Freiburg",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "M'gladbach",
-     "away": "Elversberg",
-     "hs": 3,
-     "as": 4
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Leverkusen",
-     "away": "Union Berlin",
-     "hs": 4,
-     "as": 0
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Hoffenheim",
-     "away": "Dortmund",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -442,8 +442,32 @@
      "assists": 1
     },
     {
+     "name": "Patrik Schick",
+     "team": "Leverkusen",
+     "goals": 3,
+     "assists": 1
+    },
+    {
      "name": "Yuito Suzuki",
      "team": "Freiburg",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Igor Matanovic",
+     "team": "Freiburg",
+     "goals": 3,
+     "assists": 1
+    },
+    {
+     "name": "Michael Gregoritsch",
+     "team": "Augsburg",
+     "goals": 3,
+     "assists": 0
+    },
+    {
+     "name": "Phillip Tietz",
+     "team": "Mainz",
      "goals": 3,
      "assists": 0
     },
@@ -468,30 +492,6 @@
     {
      "name": "David Mokwa Ntusu",
      "team": "Elversberg",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Patrik Schick",
-     "team": "Leverkusen",
-     "goals": 2,
-     "assists": 1
-    },
-    {
-     "name": "Thijs Dallinga",
-     "team": "1. FC Köln",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Sehrou Guirassy",
-     "team": "Dortmund",
-     "goals": 2,
-     "assists": 1
-    },
-    {
-     "name": "Hugo Bolin",
-     "team": "M'gladbach",
      "goals": 2,
      "assists": 0
     }
