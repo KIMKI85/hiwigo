@@ -1,5 +1,18 @@
 [
  {
+  "id": "b7517a0f7d5e",
+  "title": "Arsenal told they ‘dodged a bullet’ by NOT signing Vinicius Jr after transfer saga",
+  "player": "Vinicius Jr",
+  "title_ko": "아스날은 이적 사가 후 비니시우스 주니어와 계약하지 않음으로써 ‘총알을 피했다' 고 말했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-vinicius-jr-madrid-37654733",
+  "fee": null,
+  "published": "2026-09-12T07:21:14+00:00"
+ },
+ {
   "id": "d19711e15c1a",
   "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
   "player": "Anthony Gordon's",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-direction-le-bresil-pour-ziyech-apres-son-depart-du-wydad-casablanca_AV-202609070234.html",
   "fee": null,
   "published": "2026-09-07T06:56:09+00:00"
- },
- {
-  "id": "d01430cd1735",
-  "title": "DIRECT. Mercato: suivez en live toutes les infos et les rumeurs du lundi 7 septembre 2026",
-  "player": null,
-  "title_ko": "직접. Mercato: 2026년 9월 7일 월요일부터 모든 뉴스와 소문을 실시간으로 팔로우하세요.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-les-rumeurs-du-lundi-7-septembre-2026_LN-202609070165.html",
-  "fee": null,
-  "published": "2026-09-07T06:02:06+00:00"
  }
 ]
