@@ -1,10 +1,52 @@
 {
- "updated": "2026-09-12T15:36:50.305886+00:00",
+ "updated": "2026-09-12T20:39:19.252335+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Tottenham",
+     "away": "Everton",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Chelsea",
+     "away": "Hull City",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Bournemouth",
+     "away": "Brentford",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Aston Villa",
+     "away": "Nottingham",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Liverpool",
+     "away": "Fulham",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Crystal Palace",
+     "away": "Ipswich Town",
+     "hs": 2,
+     "as": 3
+    },
     {
      "date": "2026-09-06",
      "home": "Arsenal",
@@ -18,48 +60,6 @@
      "away": "Man United",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Hull City",
-     "away": "Aston Villa",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Fulham",
-     "away": "Crystal Palace",
-     "hs": 2,
-     "as": 3
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Brentford",
-     "away": "Sunderland",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Brighton Hove",
-     "away": "Leeds United",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Man City",
-     "away": "Coventry City",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Nottingham",
-     "away": "Tottenham",
-     "hs": 0,
-     "as": 0
     }
    ],
    "scorers": [
@@ -131,6 +131,20 @@
    "results": [
     {
      "date": "2026-09-12",
+     "home": "Athletic",
+     "away": "Elche",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Osasuna",
+     "away": "Espanyol",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
      "home": "Santander",
      "away": "Alavés",
      "hs": 2,
@@ -170,23 +184,15 @@
      "away": "Levante",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Alavés",
-     "away": "Osasuna",
-     "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Valencia",
-     "away": "Barça",
-     "hs": 0,
-     "as": 5
     }
    ],
    "scorers": [
+    {
+     "name": "Sergio Camello",
+     "team": "Rayo Vallecano",
+     "goals": 6,
+     "assists": 1
+    },
     {
      "name": "Raphinha",
      "team": "Barça",
@@ -200,8 +206,8 @@
      "assists": 0
     },
     {
-     "name": "Sergio Camello",
-     "team": "Rayo Vallecano",
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
      "goals": 5,
      "assists": 1
     },
@@ -222,12 +228,6 @@
      "team": "Barça",
      "goals": 4,
      "assists": 2
-    },
-    {
-     "name": "Kylian Mbappé",
-     "team": "Real Madrid",
-     "goals": 4,
-     "assists": 0
     },
     {
      "name": "Ante Budimir",
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Lazio",
+     "away": "Milan",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-09-12",
      "home": "Genoa",
@@ -301,13 +308,6 @@
      "away": "Venezia FC",
      "hs": 3,
      "as": 2
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Parma",
-     "away": "Monza",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -379,6 +379,13 @@
    "results": [
     {
      "date": "2026-09-12",
+     "home": "1. FC Köln",
+     "away": "Bremen",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-12",
      "home": "Freiburg",
      "away": "M'gladbach",
      "hs": 5,
@@ -425,13 +432,6 @@
      "away": "Augsburg",
      "hs": 1,
      "as": 4
-    },
-    {
-     "date": "2026-09-06",
-     "home": "HSV",
-     "away": "Mainz",
-     "hs": 0,
-     "as": 5
     }
    ],
    "scorers": [
@@ -502,6 +502,13 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-12",
+     "home": "Strasbourg",
+     "away": "Monaco",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-09-11",
      "home": "Stade Rennais",
      "away": "Marseille",
@@ -549,13 +556,6 @@
      "away": "Lorient",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-09-04",
-     "home": "PSG",
-     "away": "Monaco",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
@@ -596,6 +596,12 @@
      "assists": 0
     },
     {
+     "name": "Paris Brunner",
+     "team": "Monaco",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Ferrán Torres",
      "team": "PSG",
      "goals": 2,
@@ -612,12 +618,6 @@
      "team": "Strasbourg",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Paris Brunner",
-     "team": "Monaco",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
