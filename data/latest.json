@@ -1,5 +1,18 @@
 [
  {
+  "id": "9f8aeaea11fa",
+  "title": "Celtic's Nygren reveals summer transfer interest",
+  "player": "Celtic's Nygren",
+  "title_ko": "Celtic's Nygren, 여름 이적 관심사 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c770z8dmemzo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-12T07:47:25+00:00"
+ },
+ {
   "id": "b7517a0f7d5e",
   "title": "Arsenal told they ‘dodged a bullet’ by NOT signing Vinicius Jr after transfer saga",
   "player": "Vinicius Jr",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/on-n-est-pas-encore-a-l-objectif-le-mercato-a-zero-recrue-de-l-om-ne-suffit-pas-encore-previent-richard_AV-202609070343.html",
   "fee": null,
   "published": "2026-09-07T08:28:31+00:00"
- },
- {
-  "id": "740a7b11d6c4",
-  "title": "Mercato: direction le Brésil pour Ziyech après son départ du Wydad Casablanca",
-  "player": "Wydad Casablanca",
-  "title_ko": "Mercato: Wydad Casablanca에서 출발한 후 Ziyech로 브라질 방향",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-direction-le-bresil-pour-ziyech-apres-son-depart-du-wydad-casablanca_AV-202609070234.html",
-  "fee": null,
-  "published": "2026-09-07T06:56:09+00:00"
  }
 ]
