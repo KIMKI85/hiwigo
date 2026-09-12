@@ -1,5 +1,18 @@
 [
  {
+  "id": "dd1601ba542f",
+  "title": "Woltemade reveals Tonali’s one-word reaction to his Juventus transfer",
+  "player": "Nick Woltemade",
+  "title_ko": "울트메이드, 유벤투스 이적에 대한 토날리의 한 마디 반응 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/woltemade-tonali-1-word-reaction-juventus/",
+  "fee": null,
+  "published": "2026-09-12T08:19:42+00:00"
+ },
+ {
   "id": "9f8aeaea11fa",
   "title": "Celtic's Nygren reveals summer transfer interest",
   "player": "Celtic's Nygren",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/vanoli-set-fiorentina-return-verbal-agreement/",
   "fee": null,
   "published": "2026-09-07T09:00:45+00:00"
- },
- {
-  "id": "3218c18f6736",
-  "title": "\"On n'est pas encore à l'objectif\", le mercato à zéro recrue de l'OM ne suffit pas encore prévient Richard",
-  "player": "Stéphane Richard",
-  "title_ko": "\"On n 'est pas encore à l' objectif\", le mercato à zéro recrue de l 'OM ne suffit pas encore prévient Richard",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/on-n-est-pas-encore-a-l-objectif-le-mercato-a-zero-recrue-de-l-om-ne-suffit-pas-encore-previent-richard_AV-202609070343.html",
-  "fee": null,
-  "published": "2026-09-07T08:28:31+00:00"
  }
 ]
