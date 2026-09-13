@@ -1,5 +1,18 @@
 [
  {
+  "id": "969ef05d0d02",
+  "title": "LIVE! Viele Wechsel auf beiden Seiten: HSV zu Gast in Leipzig",
+  "player": "Viele Wechsel",
+  "title_ko": "LIVE! Viele Wechsel auf beiden Seiten: HSV zu 라이프치히의 감스트",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-viele-wechsel-auf-beiden-seiten-hsv-zu-gast-in-leipzig-1251366/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-13T12:54:53+00:00"
+ },
+ {
   "id": "71fb47e0f988",
   "title": "Borussia Dortmund chief issues Jadon Sancho transfer statement as decision made",
   "player": "Jadon Sancho",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-wishlist-mikel-arteta-37635457",
   "fee": null,
   "published": "2026-09-08T05:00:00+00:00"
- },
- {
-  "id": "462c27407345",
-  "title": "Liverpool news: Concern over summer transfer already as two more exits confirmed",
-  "player": null,
-  "title_ko": "리버풀 뉴스: 두 명의 추가 이적이 확정되면서 이미 여름 이적에 대한 우려",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-exit-concerns-hughes-37635985",
-  "fee": null,
-  "published": "2026-09-08T04:00:00+00:00"
  }
 ]
