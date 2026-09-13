@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-13T16:26:30.642010+00:00",
+ "updated": "2026-09-13T20:55:53.290122+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Man United",
+     "away": "Man City",
+     "hs": 0,
+     "as": 1
+    },
     {
      "date": "2026-09-13",
      "home": "Coventry City",
@@ -53,16 +60,15 @@
      "away": "Fulham",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Crystal Palace",
-     "away": "Ipswich Town",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
+    {
+     "name": "Erling Haaland",
+     "team": "Man City",
+     "goals": 4,
+     "assists": 0
+    },
     {
      "name": "Bukayo Saka",
      "team": "Arsenal",
@@ -86,12 +92,6 @@
      "team": "Chelsea",
      "goals": 3,
      "assists": 1
-    },
-    {
-     "name": "Erling Haaland",
-     "team": "Man City",
-     "goals": 3,
-     "assists": 0
     },
     {
      "name": "Alexander Isak",
@@ -129,6 +129,13 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Getafe",
+     "away": "Deportivo",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-13",
      "home": "Levante",
@@ -177,13 +184,6 @@
      "away": "Valencia",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-09-07",
-     "home": "Elche",
-     "away": "Real Sociedad",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -218,16 +218,16 @@
      "assists": 0
     },
     {
+     "name": "Pierre-Emerick Aubameyang",
+     "team": "Deportivo",
+     "goals": 5,
+     "assists": 2
+    },
+    {
      "name": "Yassir Zabiri",
      "team": "Santander",
      "goals": 5,
      "assists": 0
-    },
-    {
-     "name": "Pierre-Emerick Aubameyang",
-     "team": "Deportivo",
-     "goals": 4,
-     "assists": 2
     },
     {
      "name": "Fermín López",
@@ -253,6 +253,20 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Sassuolo",
+     "away": "Juventus",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-09-13",
+     "home": "Napoli",
+     "away": "Bologna",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-09-13",
      "home": "Lecce",
@@ -294,20 +308,6 @@
      "away": "Lazio",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-07",
-     "home": "Cagliari",
-     "away": "Lecce",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Juventus",
-     "away": "Milan",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -379,6 +379,13 @@
    "results": [
     {
      "date": "2026-09-13",
+     "home": "Elversberg",
+     "away": "Bayern",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-13",
      "home": "RB Leipzig",
      "away": "HSV",
      "hs": 5,
@@ -425,13 +432,6 @@
      "away": "Stuttgart",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-11",
-     "home": "Union Berlin",
-     "away": "Schalke",
-     "hs": 1,
-     "as": 3
     }
    ],
    "scorers": [
@@ -466,6 +466,12 @@
      "assists": 0
     },
     {
+     "name": "Maurice Krattenmacher",
+     "team": "Elversberg",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Phillip Tietz",
      "team": "Mainz",
      "goals": 3,
@@ -488,12 +494,6 @@
      "team": "RB Leipzig",
      "goals": 2,
      "assists": 2
-    },
-    {
-     "name": "Tim Skarke",
-     "team": "Union Berlin",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -501,6 +501,20 @@
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Brest",
+     "away": "PSG",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-09-13",
+     "home": "Le Mans",
+     "away": "RC Lens",
+     "hs": 2,
+     "as": 2
+    },
     {
      "date": "2026-09-13",
      "home": "Lille",
@@ -542,20 +556,6 @@
      "away": "Monaco",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-11",
-     "home": "Stade Rennais",
-     "away": "Marseille",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Marseille",
-     "away": "Paris FC",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -596,6 +596,12 @@
      "assists": 0
     },
     {
+     "name": "Ferrán Torres",
+     "team": "PSG",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Paris Brunner",
      "team": "Monaco",
      "goals": 3,
@@ -610,12 +616,6 @@
     {
      "name": "Tiago Santos",
      "team": "Lille",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Ferrán Torres",
-     "team": "PSG",
      "goals": 2,
      "assists": 0
     }
