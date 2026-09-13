@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-13T12:01:42.425869+00:00",
+ "updated": "2026-09-13T16:26:30.642010+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Coventry City",
+     "away": "Brighton Hove",
+     "hs": 0,
+     "as": 5
+    },
     {
      "date": "2026-09-12",
      "home": "Sunderland",
@@ -53,13 +60,6 @@
      "away": "Ipswich Town",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Arsenal",
-     "away": "Chelsea",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -130,6 +130,20 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-13",
+     "home": "Levante",
+     "away": "Barça",
+     "hs": 2,
+     "as": 4
+    },
+    {
+     "date": "2026-09-13",
+     "home": "Celta",
+     "away": "Málaga",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-09-12",
      "home": "Real Madrid",
      "away": "Rayo Vallecano",
@@ -170,20 +184,6 @@
      "away": "Real Sociedad",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-07",
-     "home": "Getafe",
-     "away": "Celta",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Espanyol",
-     "away": "Sevilla FC",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -197,13 +197,19 @@
      "name": "Raphinha",
      "team": "Barça",
      "goals": 6,
-     "assists": 0
+     "assists": 2
     },
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
      "goals": 6,
      "assists": 1
+    },
+    {
+     "name": "Lamine Yamal",
+     "team": "Barça",
+     "goals": 6,
+     "assists": 0
     },
     {
      "name": "Roberto Fernández",
@@ -240,12 +246,6 @@
      "team": "Alavés",
      "goals": 4,
      "assists": 0
-    },
-    {
-     "name": "Lamine Yamal",
-     "team": "Barça",
-     "goals": 4,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Lecce",
+     "away": "Monza",
+     "hs": 3,
+     "as": 2
+    },
     {
      "date": "2026-09-12",
      "home": "Atalanta",
@@ -301,13 +308,6 @@
      "away": "Milan",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Bologna",
-     "away": "Sassuolo",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -360,14 +360,14 @@
      "assists": 0
     },
     {
-     "name": "Alphadjo Cisse",
-     "team": "Milan",
+     "name": "Tiago Gabriel",
+     "team": "Lecce",
      "goals": 2,
      "assists": 0
     },
     {
-     "name": "Che Adams",
-     "team": "Torino",
+     "name": "Alphadjo Cisse",
+     "team": "Milan",
      "goals": 2,
      "assists": 0
     }
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "RB Leipzig",
+     "away": "HSV",
+     "hs": 5,
+     "as": 0
+    },
     {
      "date": "2026-09-12",
      "home": "1. FC Köln",
@@ -425,13 +432,6 @@
      "away": "Schalke",
      "hs": 1,
      "as": 3
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Frankfurt",
-     "away": "Augsburg",
-     "hs": 1,
-     "as": 4
     }
    ],
    "scorers": [
@@ -484,14 +484,14 @@
      "assists": 0
     },
     {
-     "name": "Tim Skarke",
-     "team": "Union Berlin",
+     "name": "Antonio Nusa",
+     "team": "RB Leipzig",
      "goals": 2,
-     "assists": 0
+     "assists": 2
     },
     {
-     "name": "David Mokwa Ntusu",
-     "team": "Elversberg",
+     "name": "Tim Skarke",
+     "team": "Union Berlin",
      "goals": 2,
      "assists": 0
     }
@@ -501,6 +501,13 @@
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-13",
+     "home": "Lille",
+     "away": "Troyes",
+     "hs": 2,
+     "as": 0
+    },
     {
      "date": "2026-09-12",
      "home": "Paris FC",
@@ -549,13 +556,6 @@
      "away": "Paris FC",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Angers SCO",
-     "away": "Stade Rennais",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
@@ -581,7 +581,7 @@
      "name": "Florian Thauvin",
      "team": "RC Lens",
      "goals": 3,
-     "assists": 1
+     "assists": 2
     },
     {
      "name": "Louis Mafouta",
@@ -602,22 +602,22 @@
      "assists": 0
     },
     {
+     "name": "Franjo Ivanovic",
+     "team": "RC Lens",
+     "goals": 2,
+     "assists": 0
+    },
+    {
+     "name": "Tiago Santos",
+     "team": "Lille",
+     "goals": 2,
+     "assists": 0
+    },
+    {
      "name": "Ferrán Torres",
      "team": "PSG",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Marquinhos",
-     "team": "PSG",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Gessime Yassine",
-     "team": "Strasbourg",
-     "goals": 2,
-     "assists": 1
     }
    ]
   },
