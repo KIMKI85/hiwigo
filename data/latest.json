@@ -1,5 +1,18 @@
 [
  {
+  "id": "71fb47e0f988",
+  "title": "Borussia Dortmund chief issues Jadon Sancho transfer statement as decision made",
+  "player": "Jadon Sancho",
+  "title_ko": "보루시아 도르트문트 수석이 결정에 따라 Jadon Sancho 이적 진술서를 발행",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-transfer-borussia-dortmund-37657575",
+  "fee": null,
+  "published": "2026-09-13T12:36:24+00:00"
+ },
+ {
   "id": "6d5cbb367595",
   "title": "LIVE! Ein Wechsel in der Startelf: Absteiger Münster zu Gast beim VfB II",
   "player": "Ein Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-exit-concerns-hughes-37635985",
   "fee": null,
   "published": "2026-09-08T04:00:00+00:00"
- },
- {
-  "id": "be14ed6f3c92",
-  "title": "Man Utd strike deal to land Liverpool wonderkid in major transfer coup",
-  "player": "Isaac Konde",
-  "title_ko": "맨유는 대규모 이적 쿠데타로 리버풀 원더키드를 영입하기 위한 파업 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-strike-deal-land-37637283",
-  "fee": null,
-  "published": "2026-09-07T20:42:02+00:00"
  }
 ]
