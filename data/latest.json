@@ -1,5 +1,18 @@
 [
  {
+  "id": "67e51cc10301",
+  "title": "Liverpool news: Harvey Elliott faces new Valencia nightmare as star drops fresh transfer hint",
+  "player": "Harvey Elliott",
+  "title_ko": "리버풀 뉴스: 하비 엘리엇 (Harvey Elliott) 은 스타가 신선한 전송 힌트를 떨어 뜨리면서 새로운 발렌시아 악몽에 직면했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-harvey-elliott-transfer-hint-37655597",
+  "fee": null,
+  "published": "2026-09-13T04:00:00+00:00"
+ },
+ {
   "id": "e44a1bb25f9a",
   "title": "Alan Shearer deals Man United reality check before Manchester derby",
   "player": "Alan Shearer",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/ederson-man-utd-transfer-ederson-37637111",
   "fee": "£35M",
   "published": "2026-09-07T19:01:47+00:00"
- },
- {
-  "id": "601e0ac1e069",
-  "title": "Chelsea explored move for Fulham midfielder Berge",
-  "player": "Fulham's Sander Berge",
-  "title_ko": "첼시는 풀럼의 미드필더 베르게의 이적을 모색했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-07T16:03:52+00:00"
  }
 ]
