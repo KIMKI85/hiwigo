@@ -1,5 +1,18 @@
 [
  {
+  "id": "6d5cbb367595",
+  "title": "LIVE! Ein Wechsel in der Startelf: Absteiger Münster zu Gast beim VfB II",
+  "player": "Ein Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/vfb-ii-gegen-muenster-2026-liga-5233257/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-09-13T10:56:19+00:00"
+ },
+ {
   "id": "d290f6073342",
   "title": "Eight Man Utd players Sir Jim Ratcliffe was 'willing to offload' to sign £100m Man City star",
   "player": "Sir Jim Ratcliffe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-strike-deal-land-37637283",
   "fee": null,
   "published": "2026-09-07T20:42:02+00:00"
- },
- {
-  "id": "632344608e2d",
-  "title": "Ex-Torino and Italy forward Belotti joins Serie B side Modena",
-  "player": "Andrea Belotti",
-  "title_ko": "전 토리노와 이탈리아의 포워드 벨로티가 세리에 B의 모데나에 합류했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ex-torino-and-italy-forward-belotti-modena/",
-  "fee": null,
-  "published": "2026-09-07T19:35:00+00:00"
  }
 ]
