@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-12T20:39:19.252335+00:00",
+ "updated": "2026-09-13T04:57:03.742181+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Sunderland",
+     "away": "Arsenal",
+     "hs": 0,
+     "as": 2
+    },
     {
      "date": "2026-09-12",
      "home": "Tottenham",
@@ -53,16 +60,15 @@
      "away": "Chelsea",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Everton",
-     "away": "Man United",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
+    {
+     "name": "Bukayo Saka",
+     "team": "Arsenal",
+     "goals": 3,
+     "assists": 0
+    },
     {
      "name": "Marcus Tavernier",
      "team": "Bournemouth",
@@ -112,12 +118,6 @@
      "assists": 0
     },
     {
-     "name": "Bukayo Saka",
-     "team": "Arsenal",
-     "goals": 2,
-     "assists": 0
-    },
-    {
      "name": "Martin Ødegaard",
      "team": "Arsenal",
      "goals": 2,
@@ -129,6 +129,13 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Real Madrid",
+     "away": "Rayo Vallecano",
+     "hs": 4,
+     "as": 1
+    },
     {
      "date": "2026-09-12",
      "home": "Athletic",
@@ -177,13 +184,6 @@
      "away": "Sevilla FC",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Málaga",
-     "away": "Levante",
-     "hs": 0,
-     "as": 0
     }
    ],
    "scorers": [
@@ -200,16 +200,16 @@
      "assists": 0
     },
     {
+     "name": "Kylian Mbappé",
+     "team": "Real Madrid",
+     "goals": 6,
+     "assists": 1
+    },
+    {
      "name": "Roberto Fernández",
      "team": "Espanyol",
      "goals": 5,
      "assists": 0
-    },
-    {
-     "name": "Kylian Mbappé",
-     "team": "Real Madrid",
-     "goals": 5,
-     "assists": 1
     },
     {
      "name": "Yassir Zabiri",
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-12",
+     "home": "Atalanta",
+     "away": "Cagliari",
+     "hs": 1,
+     "as": 2
+    },
     {
      "date": "2026-09-12",
      "home": "Lazio",
@@ -300,13 +307,6 @@
      "home": "Bologna",
      "away": "Sassuolo",
      "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Frosinone",
-     "away": "Venezia FC",
-     "hs": 3,
      "as": 2
     }
    ],
@@ -503,6 +503,34 @@
    "results": [
     {
      "date": "2026-09-12",
+     "home": "Paris FC",
+     "away": "Olympique Lyon",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Le Havre",
+     "away": "Angers SCO",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Auxerre",
+     "away": "Nice",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-09-12",
+     "home": "Lorient",
+     "away": "Toulouse",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-12",
      "home": "Strasbourg",
      "away": "Monaco",
      "hs": 1,
@@ -528,34 +556,6 @@
      "away": "Stade Rennais",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-06",
-     "home": "Troyes",
-     "away": "Strasbourg",
-     "hs": 2,
-     "as": 6
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Nice",
-     "away": "Le Mans",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-05",
-     "home": "Le Havre",
-     "away": "Brest",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-09-05",
-     "home": "RC Lens",
-     "away": "Lorient",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
