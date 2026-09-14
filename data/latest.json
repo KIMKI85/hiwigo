@@ -1,5 +1,18 @@
 [
  {
+  "id": "53659ac77589",
+  "title": "Man Utd news: Alex Scott transfer stance emerges as plan for star prospect made clear",
+  "player": "Alex Scott",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-alex-scott-37657890",
+  "fee": null,
+  "published": "2026-09-14T03:30:00+00:00"
+ },
+ {
   "id": "2de40728a230",
   "title": "Wagner nach Bayern-Wechsel baff: \"Habe mich kaputtgelacht\"",
   "player": "Rekordmeister Spieler",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-land-record-breaking-300m-37638283",
   "fee": "£300M",
   "published": "2026-09-08T09:11:52+00:00"
- },
- {
-  "id": "105f40fffa26",
-  "title": "Ex-Tottenham defender Serge Aurier to drop down to SEVENTH tier with shock move",
-  "player": "Serge Aurier",
-  "title_ko": "전 토트넘 수비수 세르주 오리에(Serge Aurier)가 충격적인 움직임으로 7위로 내려갈 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/serge-aurier-new-club-tottenham-37637977",
-  "fee": null,
-  "published": "2026-09-08T08:42:07+00:00"
  }
 ]
