@@ -1,5 +1,18 @@
 [
  {
+  "id": "af3e7eb8dab4",
+  "title": "European football: Inter roar back to beat Udinese and join Roma at the top",
+  "player": null,
+  "title_ko": "유럽 축구: 우디네세를 이기고 정상에서 로마에 합류하기 위해 인터 포효",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+  "fee": null,
+  "published": "2026-09-14T22:08:01+00:00"
+ },
+ {
   "id": "189903dd891d",
   "title": "Gary Neville picks between Arsenal and Man City after summer transfer moves",
   "player": "Gary Neville",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/como-extent-picchi-contract-breast-cancer/",
   "fee": null,
   "published": "2026-09-08T10:02:56+00:00"
- },
- {
-  "id": "bbc90b93d5ed",
-  "title": "Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
-  "player": "Turkish Airlines",
-  "title_ko": "리버풀, 터키항공과 연간 £60m 셔츠 스폰서십 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
-  "fee": "£60M",
-  "published": "2026-09-08T09:41:41+00:00"
  }
 ]
