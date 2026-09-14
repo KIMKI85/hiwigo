@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-14T13:00:19.426251+00:00",
+ "updated": "2026-09-14T21:53:53.027705+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-14",
+     "home": "Leeds United",
+     "away": "Newcastle",
+     "hs": 4,
+     "as": 1
+    },
     {
      "date": "2026-09-13",
      "home": "Man United",
@@ -53,13 +60,6 @@
      "away": "Nottingham",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Liverpool",
-     "away": "Fulham",
-     "hs": 0,
-     "as": 0
     }
    ],
    "scorers": [
@@ -130,6 +130,13 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-14",
+     "home": "Villarreal",
+     "away": "Real Betis",
+     "hs": 1,
+     "as": 2
+    },
+    {
      "date": "2026-09-13",
      "home": "Real Sociedad",
      "away": "Atleti",
@@ -177,13 +184,6 @@
      "away": "Espanyol",
      "hs": 0,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Santander",
-     "away": "Alavés",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -254,6 +254,27 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-14",
+     "home": "Inter",
+     "away": "Udinese",
+     "hs": 5,
+     "as": 3
+    },
+    {
+     "date": "2026-09-14",
+     "home": "Torino",
+     "away": "Roma",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-09-14",
+     "home": "Como 1907",
+     "away": "Parma",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-09-13",
      "home": "Sassuolo",
      "away": "Juventus",
@@ -287,34 +308,13 @@
      "away": "Milan",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Genoa",
-     "away": "Frosinone",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-11",
-     "home": "Venezia FC",
-     "away": "Fiorentina",
-     "hs": 2,
-     "as": 4
-    },
-    {
-     "date": "2026-09-07",
-     "home": "Udinese",
-     "away": "Lazio",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
     {
      "name": "Donyell Malen",
      "team": "Roma",
-     "goals": 5,
+     "goals": 6,
      "assists": 0
     },
     {
@@ -360,14 +360,14 @@
      "assists": 0
     },
     {
-     "name": "Tiago Gabriel",
-     "team": "Lecce",
+     "name": "Francesco Esposito",
+     "team": "Inter",
      "goals": 2,
-     "assists": 0
+     "assists": 1
     },
     {
-     "name": "Alphadjo Cisse",
-     "team": "Milan",
+     "name": "Tiago Gabriel",
+     "team": "Lecce",
      "goals": 2,
      "assists": 0
     }
