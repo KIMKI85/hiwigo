@@ -1,5 +1,18 @@
 [
  {
+  "id": "7ebdaa27c7e6",
+  "title": "JJ Gabriel drops immediate transfer hint after requesting shock Man Utd exit",
+  "player": "Old Trafford",
+  "title_ko": "JJ 가브리엘이 쇼크 맨유 퇴장 요청 후 즉시 이적 힌트를 떨어뜨림",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-manchester-united-madrid-37666530",
+  "fee": null,
+  "published": "2026-09-15T17:31:18+00:00"
+ },
+ {
   "id": "3ba6ed72777b",
   "title": "LIVE! Fünf Wechsel beim MSV - Boujellab vergibt den Blitzstart gegen F95 - Heikes Lauf hält an",
   "player": "Fünf Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/one-week-after-transfer-window-37638901",
   "fee": null,
   "published": "2026-09-08T16:00:00+00:00"
- },
- {
-  "id": "ea28178df968",
-  "title": "Wolfsburg findet Abnehmer: Jenz wechselt fest nach Bern",
-  "player": "Eine Woche",
-  "title_ko": "볼프스부르크는 구매자를 찾았습니다: Jenz는 Bern으로 영구적으로 이사합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/wolfsburg-findet-abnehmer-jenz-wechselt-fest-nach-bern-1250868/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-08T15:12:49+00:00"
  }
 ]
