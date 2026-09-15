@@ -1,5 +1,18 @@
 [
  {
+  "id": "2cca22660e73",
+  "title": "\"Il y avait des choses plus graves dans la vie\", quand Eric Roy mettait Pierre Lees-Melou dans la confidence de sa maladie après son transfert avorté à Rennes",
+  "player": "Eric Roy",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/il-y-avait-des-choses-plus-graves-dans-la-vie-quand-eric-roy-mettait-pierre-lees-melou-dans-la-confidence-de-sa-maladie-apres-son-transfert-avorte-a-rennes_AV-202609150090.html",
+  "fee": null,
+  "published": "2026-09-15T04:31:43+00:00"
+ },
+ {
   "id": "af3e7eb8dab4",
   "title": "European football: Inter roar back to beat Udinese and join Roma at the top",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/italy-serie-a-breast-cancer-37638608",
   "fee": null,
   "published": "2026-09-08T10:08:17+00:00"
- },
- {
-  "id": "1654c3424755",
-  "title": "Como extend contract of women’s team star Picchi after breast cancer diagnosis",
-  "player": "Roberta Picchi",
-  "title_ko": "코모, 유방암 진단 후 여자팀 스타 피치와 계약 연장",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-extent-picchi-contract-breast-cancer/",
-  "fee": null,
-  "published": "2026-09-08T10:02:56+00:00"
  }
 ]
