@@ -1,5 +1,18 @@
 [
  {
+  "id": "66feb083263b",
+  "title": "Kurz vor Europa-League-Auftakt: Leverkusens Gegner Celje wechselt Trainer",
+  "player": "Leverkusens Gegner Celje",
+  "title_ko": "Kurz vor Europa-League-Auftakt: Leverkusens Gegner Celje wechselt 트레이너",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/kurz-vor-europa-league-auftakt-leverkusens-gegner-celje-wechselt-trainer-1252870/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-15T11:10:52+00:00"
+ },
+ {
   "id": "69858d0b0364",
   "title": "Ausilio closing in on agreement with Tottenham after 28 years with Inter",
   "player": "Piero Ausilio",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/alexis-macallister-liverpool-contract-future-37639564",
   "fee": null,
   "published": "2026-09-08T12:42:16+00:00"
- },
- {
-  "id": "e8c5ef115e2b",
-  "title": "James Rodriguez tipped for surprise move to join Alessandro Nesta in Serie B",
-  "player": "James Rodriguez",
-  "title_ko": "제임스 로드리게스는 세리에 B에서 알레산드로 네스타와 합류하기 위해 깜짝 움직임을 위해 팁을 주었다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/james-rodriguez-tipped-surprise-serie-b-move/",
-  "fee": null,
-  "published": "2026-09-08T12:30:07+00:00"
  }
 ]
