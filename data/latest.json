@@ -1,5 +1,18 @@
 [
  {
+  "id": "78849f53206b",
+  "title": "LIVE! Fünf Wechsel beim MSV - F95 startet mit Ex-Jahn-Stürmer Hottmann",
+  "player": "Fünf Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-fuenf-wechsel-beim-msv-f95-startet-mit-ex-jahn-stuermer-hottmann-1252591/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-15T16:43:43+00:00"
+ },
+ {
   "id": "e6ab30aa7c6a",
   "title": "Dugarry slams De Zerbi’s Tottenham contract: ‘A robbery without a mask’",
   "player": "De Zerbi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-academy-product-new-signing-injury/",
   "fee": null,
   "published": "2026-09-08T15:00:27+00:00"
- },
- {
-  "id": "8e7c354fc90d",
-  "title": "Alexis Mac Allister ‘very sad’ Liverpool did not offer him a new contract",
-  "player": "Alexis Mac Allister",
-  "title_ko": "알렉시스 맥 앨리스터 (Alexis Mac Allister) ‘매우 슬픈’ 리버풀은 그에게 새로운 계약을 제안하지 않았다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
-  "fee": null,
-  "published": "2026-09-08T14:04:24+00:00"
  }
 ]
