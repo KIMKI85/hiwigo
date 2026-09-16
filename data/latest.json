@@ -1,5 +1,18 @@
 [
  {
+  "id": "a8742cf69571",
+  "title": "Monaco: \"On va voir des joueurs partir cet hiver\", les annonces de Scuro après un mercato estival chaotique",
+  "player": "Dans Rothen",
+  "title_ko": "모나코: \"On va voir des joueurs partir cet hiver\", les annonces de Scuro après un mercato estival chaotique",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/monaco-on-va-voir-des-joueurs-partir-cet-hiver-les-annonces-de-scuro-apres-un-mercato-estival-chaotique_AV-202609160786.html",
+  "fee": null,
+  "published": "2026-09-16T17:20:14+00:00"
+ },
+ {
   "id": "562d160dcfe9",
   "title": "Club verpflichtet Portugiesin Barboz mit klarem Auftrag",
   "player": "Portugiesin Barboz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-schmeichel-marcus-rashford-37639630",
   "fee": null,
   "published": "2026-09-09T03:30:00+00:00"
- },
- {
-  "id": "83def1522129",
-  "title": "Papers: Hammer blow for Man Utd as target agrees new contract",
-  "player": null,
-  "title_ko": "서류: 타겟이 새로운 계약에 동의함에 따라 맨유에 해머 블로우가 발생했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-  "fee": null,
-  "published": "2026-09-08T23:15:00+00:00"
  }
 ]
