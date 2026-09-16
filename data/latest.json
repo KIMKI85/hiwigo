@@ -1,5 +1,18 @@
 [
  {
+  "id": "01e5c1ddb86a",
+  "title": "Sietan entschuldigt sich fürs Tor - und spricht nebulös über seinen RWE-Wechsel",
+  "player": "Klub Waldhof Mannheim",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/sietan-entschuldigt-sich-fuers-tor-und-spricht-nebuloes-ueber-seinen-rwe-wechsel-1253343/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-16T20:48:55+00:00"
+ },
+ {
   "id": "22ddf628b831",
   "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
   "player": "Max Dowman",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/ethan-nwaneri-arsenal-borussia-dortmund-37643018",
   "fee": null,
   "published": "2026-09-09T11:15:31+00:00"
- },
- {
-  "id": "3b8620405c14",
-  "title": "Declan Rice's transfer wish was again granted by Mikel Arteta after Arsenal act",
-  "player": "Declan Rice's",
-  "title_ko": "데클란 라이스의 이적 희망은 아스날 이적 이후 미켈 아르테타에 의해 다시 승인되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/declan-rices-transfer-wish-again-37642415",
-  "fee": null,
-  "published": "2026-09-09T09:48:31+00:00"
  }
 ]
