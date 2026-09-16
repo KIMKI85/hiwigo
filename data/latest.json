@@ -1,5 +1,18 @@
 [
  {
+  "id": "bade454fa4a4",
+  "title": "Carabao Cup draw LIVE: TV info & time as Man Utd look to join Liverpool and Arsenal in round four",
+  "player": null,
+  "title_ko": "카라바오 컵 추첨 생중계: 맨유가 4라운드에서 리버풀과 아스널에 합류할 것으로 예상되는 TV 정보 및 시간",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/carabaocup-round-four-draw-live-37670067",
+  "fee": null,
+  "published": "2026-09-16T19:10:40+00:00"
+ },
+ {
   "id": "a8742cf69571",
   "title": "Monaco: \"On va voir des joueurs partir cet hiver\", les annonces de Scuro après un mercato estival chaotique",
   "player": "Dans Rothen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-man-utd-rashford-37641823",
   "fee": null,
   "published": "2026-09-09T06:11:11+00:00"
- },
- {
-  "id": "6e7709a0db62",
-  "title": "Man Utd news: 'New signing' dubbed 'dangerous' as Red Devils land record-breaking deal",
-  "player": "Red Devils",
-  "title_ko": "맨체스터 유나이티드 뉴스: 레드 데블스 (Red Devils) 가 기록적인 거래를 성사시키면서 '위험한' 이라는 별명을 얻은 '새로운 계약'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-schmeichel-marcus-rashford-37639630",
-  "fee": null,
-  "published": "2026-09-09T03:30:00+00:00"
  }
 ]
