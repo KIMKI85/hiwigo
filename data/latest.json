@@ -1,5 +1,18 @@
 [
  {
+  "id": "83bc4d01a10f",
+  "title": "Hürzeler wechselt den Sieg ein: Brighton dreht 0:2 bei ManUnited",
+  "player": "Hove Albion",
+  "title_ko": "Hürzeler wechselt den Sieg ein: Brighton dreht 0: 2 bei ManUnited",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/manunited-gegen-brighton-2026-league-cup-5262770/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-09-16T21:19:16+00:00"
+ },
+ {
   "id": "01e5c1ddb86a",
   "title": "Sietan entschuldigt sich fürs Tor - und spricht nebulös über seinen RWE-Wechsel",
   "player": "Klub Waldhof Mannheim",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
   "fee": null,
   "published": "2026-09-09T12:43:00+00:00"
- },
- {
-  "id": "c52cd54a5699",
-  "title": "Ethan Nwaneri suffers ultimate humiliation as Dortmund boss moves to set record straight",
-  "player": "Ethan Nwaneri",
-  "title_ko": "에단 은와네리는 도르트문트의 감독이 기록을 바로잡기 위해 움직이면서 궁극적인 굴욕을 당했다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/ethan-nwaneri-arsenal-borussia-dortmund-37643018",
-  "fee": null,
-  "published": "2026-09-09T11:15:31+00:00"
  }
 ]
