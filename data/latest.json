@@ -1,5 +1,31 @@
 [
  {
+  "id": "f94fd7fe67b1",
+  "title": "Man Utd could lose millions on JJ Gabriel as favourites to sign youngster emerge",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드는 JJ 가브리엘에게 수백만 달러를 잃을 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-united-jj-gabriel-transfer-37669447",
+  "fee": null,
+  "published": "2026-09-16T14:29:24+00:00"
+ },
+ {
+  "id": "07aefe325561",
+  "title": "Alejandro Garnacho already in Aston Villa desperation with 'easy' £43m transfer conditions",
+  "player": "Alejandro Garnacho",
+  "title_ko": "Alejandro Garnacho는 이미 Aston Villa에서 '쉬운' £ 43M 환승 조건으로 필사적입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-villa-transfer-chelsea-37669674",
+  "fee": "£43M",
+  "published": "2026-09-16T14:26:35+00:00"
+ },
+ {
   "id": "a695de466e4d",
   "title": "El administrador del Málaga lo deja claro: \"Dinero hay para hacer un fichaje ahora o en enero\"",
   "player": "Loren Juarros",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/report-fiorentina-grosso-terminate-contract/",
   "fee": null,
   "published": "2026-09-08T22:01:03+00:00"
- },
- {
-  "id": "4bde8225d4c7",
-  "title": "Man Utd REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
-  "player": "Kylian Mbappe",
-  "title_ko": "맨유는 라이언 긱스 스카우트 미션 이후 카일리언 음바페와 계약할 기회를 거부했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-giggs-ferdinand-mbappe-37641344",
-  "fee": null,
-  "published": "2026-09-08T21:30:00+00:00"
- },
- {
-  "id": "cf26cf6f0a23",
-  "title": "LIVE! Villarreal wechselt zur Pause - Kein Elfmeter für Nmecha",
-  "player": "Kein Elfmeter",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-villarreal-wechselt-zur-pause-kein-elfmeter-fuer-nmecha-1250508/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-08T17:52:38+00:00"
  }
 ]
