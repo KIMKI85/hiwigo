@@ -1,5 +1,18 @@
 [
  {
+  "id": "5ccfe6c7cf79",
+  "title": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
+  "player": null,
+  "title_ko": "논문: 쇼는 내년 여름 맨유를 떠날지도 모른다. 새로운 거래는 눈에 띄지 않는다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
+  "fee": null,
+  "published": "2026-09-16T23:20:00+00:00"
+ },
+ {
   "id": "83bc4d01a10f",
   "title": "Hürzeler wechselt den Sieg ein: Brighton dreht 0:2 bei ManUnited",
   "player": "Hove Albion",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-christos-tzolis-club-brugge-37643810",
   "fee": null,
   "published": "2026-09-09T13:00:40+00:00"
- },
- {
-  "id": "6e9b9e3b4e4d",
-  "title": "Merson: Arsenal didn't make X factor signing to win Champions League",
-  "player": null,
-  "title_ko": "머슨: 아스날은 챔피언스 리그 우승을 위해 X 팩터 계약을 체결하지 않았습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
-  "fee": null,
-  "published": "2026-09-09T12:43:00+00:00"
  }
 ]
