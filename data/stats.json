@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T17:06:48.392018+00:00",
+ "updated": "2026-09-16T21:24:09.196326+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -130,6 +130,20 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-16",
+     "home": "Atleti",
+     "away": "Osasuna",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-09-16",
+     "home": "Deportivo",
+     "away": "Sevilla FC",
+     "hs": 0,
+     "as": 1
+    },
+    {
      "date": "2026-09-15",
      "home": "Elche",
      "away": "Real Madrid",
@@ -170,23 +184,15 @@
      "away": "Deportivo",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Levante",
-     "away": "Barça",
-     "hs": 2,
-     "as": 4
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Celta",
-     "away": "Málaga",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
+    {
+     "name": "Raphinha",
+     "team": "Barça",
+     "goals": 9,
+     "assists": 2
+    },
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
@@ -206,16 +212,16 @@
      "assists": 1
     },
     {
-     "name": "Raphinha",
-     "team": "Barça",
+     "name": "Yassir Zabiri",
+     "team": "Santander",
      "goals": 6,
-     "assists": 2
+     "assists": 0
     },
     {
      "name": "Lamine Yamal",
      "team": "Barça",
      "goals": 6,
-     "assists": 0
+     "assists": 2
     },
     {
      "name": "Pierre-Emerick Aubameyang",
@@ -224,10 +230,10 @@
      "assists": 2
     },
     {
-     "name": "Yassir Zabiri",
-     "team": "Santander",
-     "goals": 5,
-     "assists": 0
+     "name": "Álex Baena",
+     "team": "Atleti",
+     "goals": 4,
+     "assists": 1
     },
     {
      "name": "Fermín López",
@@ -238,12 +244,6 @@
     {
      "name": "Ante Budimir",
      "team": "Osasuna",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Lucas Boyé",
-     "team": "Alavés",
      "goals": 4,
      "assists": 0
     }
