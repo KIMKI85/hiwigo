@@ -1,5 +1,18 @@
 [
  {
+  "id": "757e9e130b99",
+  "title": "Video: David scored 2 goals in just 3 games for Atletico Madrid since Juventus loan",
+  "player": "Jonathan David",
+  "title_ko": "동영상: 데이비드는 유벤투스 임대 이후 아틀레티코 마드리드에서 단 3경기 만에 2골을 기록했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/david-scored-atletico-madrid-juventus-loan/",
+  "fee": null,
+  "published": "2026-09-16T19:22:55+00:00"
+ },
+ {
   "id": "bade454fa4a4",
   "title": "Carabao Cup draw LIVE: TV info & time as Man Utd look to join Liverpool and Arsenal in round four",
   "player": null,
@@ -76,6 +89,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-villa-transfer-chelsea-37669674",
   "fee": "£43M",
   "published": "2026-09-16T14:26:35+00:00"
+ },
+ {
+  "id": "927b25ab0c15",
+  "title": "Le Fee hits the post as Sunderland make Euro return vs AZ LIVE!",
+  "player": null,
+  "title_ko": "Le Fee는 선덜랜드가 유로화 복귀와 AZ 생중계를 앞두고 있습니다!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
+  "fee": null,
+  "published": "2026-09-16T14:13:00+00:00"
  },
  {
   "id": "a695de466e4d",

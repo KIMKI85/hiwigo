@@ -1,5 +1,18 @@
 [
  {
+  "id": "757e9e130b99",
+  "title": "Video: David scored 2 goals in just 3 games for Atletico Madrid since Juventus loan",
+  "player": "Jonathan David",
+  "title_ko": "동영상: 데이비드는 유벤투스 임대 이후 아틀레티코 마드리드에서 단 3경기 만에 2골을 기록했습니다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/david-scored-atletico-madrid-juventus-loan/",
+  "fee": null,
+  "published": "2026-09-16T19:22:55+00:00"
+ },
+ {
   "id": "bade454fa4a4",
   "title": "Carabao Cup draw LIVE: TV info & time as Man Utd look to join Liverpool and Arsenal in round four",
   "player": null,
@@ -76,6 +89,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-villa-transfer-chelsea-37669674",
   "fee": "£43M",
   "published": "2026-09-16T14:26:35+00:00"
+ },
+ {
+  "id": "927b25ab0c15",
+  "title": "Le Fee hits the post as Sunderland make Euro return vs AZ LIVE!",
+  "player": null,
+  "title_ko": "Le Fee는 선덜랜드가 유로화 복귀와 AZ 생중계를 앞두고 있습니다!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
+  "fee": null,
+  "published": "2026-09-16T14:13:00+00:00"
  },
  {
   "id": "a695de466e4d",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/tardelli-injuries-real-blow-juventus-spalletti/",
   "fee": null,
   "published": "2026-09-09T09:43:31+00:00"
- },
- {
-  "id": "52b7718f092b",
-  "title": "Rangers target Ferguson would cost £15m in January - gossip",
-  "player": "Lewis Ferguson",
-  "title_ko": "레인저스의 목표인 퍼거슨은 1월에 £15m의 비용을 지불하게 될 것입니다 - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c24jzrm6qldo?at_medium=RSS&at_campaign=rss",
-  "fee": "£15M",
-  "published": "2026-09-09T06:57:47+00:00"
- },
- {
-  "id": "d5a6967bbf98",
-  "title": "Pep Guardiola named Man Utd player he desperately wanted Man City to sign",
-  "player": "Pep Guardiola",
-  "title_ko": "펩 과르디올라, 맨시티가 영입하길 간절히 원했던 맨유 선수 지명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-man-utd-rashford-37641823",
-  "fee": null,
-  "published": "2026-09-09T06:11:11+00:00"
  }
 ]
