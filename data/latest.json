@@ -1,5 +1,18 @@
 [
  {
+  "id": "95ad6243d10d",
+  "title": "Liverpool told they already have £100m transfer solution as Andoni Iraola message sent",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀은 안도니 이라올라 (Andoni Iraola) 메시지가 전송됨에 따라 이미 £ 100M 이적 솔루션을 보유하고 있다고 말했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-tottenham-trey-nyoni-37667167",
+  "fee": "£100M",
+  "published": "2026-09-16T05:41:12+00:00"
+ },
+ {
   "id": "2924eb8f6740",
   "title": "Madueke on fringes at Arsenal as Juventus monitor January loan move",
   "player": "Noni Madueke",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-hall-newcastle-37640829",
   "fee": null,
   "published": "2026-09-08T16:50:26+00:00"
- },
- {
-  "id": "e253bb379cbc",
-  "title": "Peter Schmeichel snubs Man Utd stars as he names signing of the season",
-  "player": "Peter Schmeichel",
-  "title_ko": "피터 슈마이켈 (Peter Schmeichel) 이 맨체스터 유나이티드 (Man Utd) 의 스타들을 저격하며 시즌 시그니",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/peter-schmeichel-chelsea-transfer-martinez-37640647",
-  "fee": null,
-  "published": "2026-09-08T16:19:04+00:00"
  }
 ]
