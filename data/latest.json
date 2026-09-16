@@ -1,5 +1,18 @@
 [
  {
+  "id": "562d160dcfe9",
+  "title": "Club verpflichtet Portugiesin Barboz mit klarem Auftrag",
+  "player": "Portugiesin Barboz",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/club-verpflichtet-portugiesin-barboz-mit-klarem-auftrag-1253304/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-16T16:56:04+00:00"
+ },
+ {
   "id": "1ad8777562ac",
   "title": "Report Douvikas agrees new and improved Como contract",
   "player": "Moise Kean",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
   "fee": null,
   "published": "2026-09-08T23:15:00+00:00"
- },
- {
-  "id": "259d9e4e9054",
-  "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
-  "player": null,
-  "title_ko": "레알 마드리드가 인터 밀란을 이길 때 음바페와 발베르데의 목표",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-  "fee": null,
-  "published": "2026-09-08T22:42:00+00:00"
  }
 ]
