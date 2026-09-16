@@ -1,5 +1,18 @@
 [
  {
+  "id": "22ddf628b831",
+  "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+  "player": "Max Dowman",
+  "title_ko": "아스널이 다우먼 대출 제안을 거절함 - 목요일 가십",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-16T19:53:12+00:00"
+ },
+ {
   "id": "757e9e130b99",
   "title": "Video: David scored 2 goals in just 3 games for Atletico Madrid since Juventus loan",
   "player": "Jonathan David",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/declan-rices-transfer-wish-again-37642415",
   "fee": null,
   "published": "2026-09-09T09:48:31+00:00"
- },
- {
-  "id": "17fceadd201e",
-  "title": "Tardelli: Injuries ‘a real blow’ for Juventus, the transfer market ‘hasn’t helped’ Spalletti",
-  "player": "Marco Tardelli",
-  "title_ko": "타르델리: 부상은 유벤투스에 '실질적인 타격', 이적 시장은 '도움이 되지 않았다' Spalletti",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tardelli-injuries-real-blow-juventus-spalletti/",
-  "fee": null,
-  "published": "2026-09-09T09:43:31+00:00"
  }
 ]
