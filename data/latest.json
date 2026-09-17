@@ -1,5 +1,18 @@
 [
  {
+  "id": "53e26080c952",
+  "title": "Alexis Mac Allister's dad delivers honest truth about Liverpool exit talk as Real Madrid eye deal",
+  "player": "Alexis Mac Allister's",
+  "title_ko": "알렉시스 맥 앨리스터 (Alexis Mac Allister) 의 아빠가 레알 마드리드 아이 딜로 리버풀 퇴장 강연에 대한 솔직한 진실을 전합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-mac-allister-real-madrid-37672563",
+  "fee": null,
+  "published": "2026-09-17T11:53:03+00:00"
+ },
+ {
   "id": "bf04a8473493",
   "title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/ryan-giggs-man-utd-anderson-37645472",
   "fee": null,
   "published": "2026-09-09T18:59:10+00:00"
- },
- {
-  "id": "897afd598b2a",
-  "title": "Declan Rice reaches Premier League title agreement with young Arsenal fan",
-  "player": "Declan Rice",
-  "title_ko": "데클란 라이스(Declan Rice)는 젊은 아스날 팬과 프리미어리그 타이틀 계약을 맺었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/declan-rice-premier-league-arsenal-37645434",
-  "fee": null,
-  "published": "2026-09-09T18:37:19+00:00"
  }
 ]
