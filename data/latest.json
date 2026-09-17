@@ -1,5 +1,18 @@
 [
  {
+  "id": "bf04a8473493",
+  "title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드 소속 JJ 가브리엘과 계약하기 위한 레알 마드리드 선두 레이스",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+  "fee": null,
+  "published": "2026-09-17T11:02:18+00:00"
+ },
+ {
   "id": "3329fd0619f7",
   "title": "Roma and Inter transfer spending compared as big Serie A clash looms",
   "player": "Gian Piero Gasperini",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/declan-rice-premier-league-arsenal-37645434",
   "fee": null,
   "published": "2026-09-09T18:37:19+00:00"
- },
- {
-  "id": "4c8b462ac079",
-  "title": "Julian Alvarez 'suffering' after failed Arsenal transfer as statement made before Liverpool",
-  "player": "Julian Alvarez",
-  "title_ko": "줄리안 알바레즈, 리버풀 전 성명서로 아스날 이적 실패 후 '고통'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-arsenal-transfer-atletico-37645229",
-  "fee": null,
-  "published": "2026-09-09T16:53:00+00:00"
  }
 ]
