@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T21:24:09.196326+00:00",
+ "updated": "2026-09-17T05:00:04.969181+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -131,6 +131,13 @@
    "results": [
     {
      "date": "2026-09-16",
+     "home": "Barça",
+     "away": "Santander",
+     "hs": 7,
+     "as": 2
+    },
+    {
+     "date": "2026-09-16",
      "home": "Atleti",
      "away": "Osasuna",
      "hs": 4,
@@ -177,13 +184,6 @@
      "away": "Atleti",
      "hs": 0,
      "as": 3
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Getafe",
-     "away": "Deportivo",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -196,6 +196,12 @@
     {
      "name": "Kylian Mbappé",
      "team": "Real Madrid",
+     "goals": 7,
+     "assists": 2
+    },
+    {
+     "name": "Lamine Yamal",
+     "team": "Barça",
      "goals": 7,
      "assists": 2
     },
@@ -216,12 +222,6 @@
      "team": "Santander",
      "goals": 6,
      "assists": 0
-    },
-    {
-     "name": "Lamine Yamal",
-     "team": "Barça",
-     "goals": 6,
-     "assists": 2
     },
     {
      "name": "Pierre-Emerick Aubameyang",
