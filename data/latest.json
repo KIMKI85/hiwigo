@@ -1,5 +1,18 @@
 [
  {
+  "id": "6e89d33b929b",
+  "title": "'Rangers agree £800,000 potential fee for Penrice' - gossip",
+  "player": "James Penrice",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwzdz84346g8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-17T07:28:42+00:00"
+ },
+ {
   "id": "5abdf5c4fc5b",
   "title": "DIRECT. Mercato: Michael Carrick sous pression après le camouflet de Manchester United",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-09T15:07:17+00:00"
- },
- {
-  "id": "fdebde9e6c3c",
-  "title": "Sevilla to pay just 8% of Fofana’s Milan salary during loan spell",
-  "player": "Youssof Fofana",
-  "title_ko": "세비야, 대출 주문 중 Fofana의 밀라노 급여의 8% 만 지불",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/sevilla-pay-8-fofana-milan-salary-loan/",
-  "fee": null,
-  "published": "2026-09-09T14:11:56+00:00"
  }
 ]
