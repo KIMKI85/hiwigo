@@ -1,5 +1,18 @@
 [
  {
+  "id": "fcd998056640",
+  "title": "Man Utd news: JJ Gabriel exit fear as four transfer options emerge",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘, 네 가지 이적 옵션 등장으로 두려움 퇴장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-transfer-37669748",
+  "fee": null,
+  "published": "2026-09-17T03:30:00+00:00"
+ },
+ {
   "id": "5ccfe6c7cf79",
   "title": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-mercredi-9-septembre_LN-202609090545.html",
   "fee": null,
   "published": "2026-09-09T13:17:09+00:00"
- },
- {
-  "id": "803394ba7c8c",
-  "title": "Arsenal bosses make contact with selling club after early impressions of new signing",
-  "player": "Christos Tzolis",
-  "title_ko": "아스날 감독, 새 영입에 대한 초기 인상 후 판매 클럽과 접촉",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-christos-tzolis-club-brugge-37643810",
-  "fee": null,
-  "published": "2026-09-09T13:00:40+00:00"
  }
 ]
