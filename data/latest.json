@@ -1,5 +1,18 @@
 [
  {
+  "id": "50601c05be66",
+  "title": "Todd Boehly’s Chelsea era ends after disastrous transfers and more managers than trophies",
+  "player": "Todd Boehly",
+  "title_ko": "토드 볼리의 첼시 시대는 비참한 이적과 트로피보다 더 많은 매니저를 거쳐 끝납니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-todd-boehly-exit-takeover-37653413",
+  "fee": null,
+  "published": "2026-09-17T08:43:29+00:00"
+ },
+ {
   "id": "6e89d33b929b",
   "title": "'Rangers agree £800,000 potential fee for Penrice' - gossip",
   "player": "James Penrice",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injuries-luke-shaw-37644598",
   "fee": null,
   "published": "2026-09-09T15:08:13+00:00"
- },
- {
-  "id": "7710ef25c625",
-  "title": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
-  "player": "Mac Allister",
-  "title_ko": "'훌륭하게 말했지만' 맥 알리스터 계약 논평에 리버풀 팬들은 갈가리 찢어졌다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-09T15:07:17+00:00"
  }
 ]
