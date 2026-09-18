@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T16:31:59.247492+00:00",
+ "updated": "2026-09-18T20:58:56.177655+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -230,6 +230,12 @@
      "assists": 2
     },
     {
+     "name": "Fer Niño",
+     "team": "Elche",
+     "goals": 5,
+     "assists": 0
+    },
+    {
      "name": "Álex Baena",
      "team": "Atleti",
      "goals": 4,
@@ -240,12 +246,6 @@
      "team": "Barça",
      "goals": 4,
      "assists": 2
-    },
-    {
-     "name": "Ante Budimir",
-     "team": "Osasuna",
-     "goals": 4,
-     "assists": 0
     }
    ]
   },
@@ -253,6 +253,13 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-18",
+     "home": "Monza",
+     "away": "Sassuolo",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-14",
      "home": "Inter",
@@ -301,13 +308,6 @@
      "away": "Cagliari",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Lazio",
-     "away": "Milan",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -315,6 +315,12 @@
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 6,
+     "assists": 0
+    },
+    {
+     "name": "Gustavo Varela",
+     "team": "Monza",
+     "goals": 4,
      "assists": 0
     },
     {
@@ -328,6 +334,12 @@
      "team": "Lazio",
      "goals": 3,
      "assists": 0
+    },
+    {
+     "name": "Vasilije Adzic",
+     "team": "Sassuolo",
+     "goals": 3,
+     "assists": 1
     },
     {
      "name": "Franco Mastantuono",
@@ -354,22 +366,10 @@
      "assists": 0
     },
     {
-     "name": "Gustavo Varela",
-     "team": "Monza",
-     "goals": 2,
-     "assists": 0
-    },
-    {
      "name": "Francesco Esposito",
      "team": "Inter",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Tiago Gabriel",
-     "team": "Lecce",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-18",
+     "home": "Bayern",
+     "away": "Union Berlin",
+     "hs": 7,
+     "as": 0
+    },
     {
      "date": "2026-09-13",
      "home": "Elversberg",
@@ -425,16 +432,15 @@
      "away": "SC Paderborn",
      "hs": 3,
      "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Hoffenheim",
-     "away": "Stuttgart",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
+    {
+     "name": "Michael Olise",
+     "team": "Bayern",
+     "goals": 4,
+     "assists": 1
+    },
     {
      "name": "Younes Ebnoutalib",
      "team": "Frankfurt",
@@ -478,22 +484,16 @@
      "assists": 0
     },
     {
+     "name": "Harry Kane",
+     "team": "Bayern",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Josha Vagnoman",
      "team": "Stuttgart",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Ridle Baku",
-     "team": "RB Leipzig",
-     "goals": 2,
-     "assists": 0
-    },
-    {
-     "name": "Antonio Nusa",
-     "team": "RB Leipzig",
-     "goals": 2,
-     "assists": 2
     }
    ]
   },
@@ -501,6 +501,13 @@
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-18",
+     "home": "Monaco",
+     "away": "RC Lens",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-13",
      "home": "Brest",
@@ -549,13 +556,6 @@
      "away": "Toulouse",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Strasbourg",
-     "away": "Monaco",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -578,10 +578,16 @@
      "assists": 0
     },
     {
+     "name": "Paris Brunner",
+     "team": "Monaco",
+     "goals": 4,
+     "assists": 0
+    },
+    {
      "name": "Florian Thauvin",
      "team": "RC Lens",
      "goals": 3,
-     "assists": 2
+     "assists": 3
     },
     {
      "name": "Louis Mafouta",
@@ -598,12 +604,6 @@
     {
      "name": "Ferrán Torres",
      "team": "PSG",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Paris Brunner",
-     "team": "Monaco",
      "goals": 3,
      "assists": 0
     },
