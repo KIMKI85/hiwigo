@@ -117,6 +117,19 @@
   "published": "2026-09-18T11:34:16+00:00"
  },
  {
+  "id": "fded7c41adfd",
+  "title": "Papers: Mudryk preferred Arsenal before Chelsea move",
+  "player": null,
+  "title_ko": "논문: 첼시가 이동하기 전에 머드릭이 선호하는 무기고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
+  "fee": null,
+  "published": "2026-09-18T07:00:00+00:00"
+ },
+ {
   "id": "202c2bf66b46",
   "title": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 millions d'euros",
   "player": "Kylian Mbappé",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-and-toulouse-look-build-upon-odogu-deal/",
   "fee": null,
   "published": "2026-09-10T14:00:00+00:00"
- },
- {
-  "id": "b523a2b6e349",
-  "title": "Jamie Carragher sticks to his guns on Alexis Mac Allister after Liverpool contract dig",
-  "player": "Jamie Carragher",
-  "title_ko": "Jamie Carragher는 리버풀 계약 발굴 후 Alexis Mac Allister에서 총을 고수합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-carragher-alexis-macallister-future-37647950",
-  "fee": null,
-  "published": "2026-09-10T12:40:14+00:00"
  }
 ]
