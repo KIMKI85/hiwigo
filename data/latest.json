@@ -1,5 +1,18 @@
 [
  {
+  "id": "f463c93e00a1",
+  "title": "Gattuso explains why Lazio won’t sign Icardi as a free agent",
+  "player": "Gennaro Gattuso",
+  "title_ko": "가투소가 라치오가 이카르디와 자유 계약 선수로 계약하지 않는 이유를 설명합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gattuso-why-lazio-not-sign-icardi-free-agent/",
+  "fee": null,
+  "published": "2026-09-18T11:34:16+00:00"
+ },
+ {
   "id": "202c2bf66b46",
   "title": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 millions d'euros",
   "player": "Kylian Mbappé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-richards-hughes-replacement-37643732",
   "fee": "£130M",
   "published": "2026-09-10T04:00:00+00:00"
- },
- {
-  "id": "7561f734a7d1",
-  "title": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
-  "player": null,
-  "title_ko": "서류: 리버풀은 1월에 첼시와 맨유의 미드필더 목표를 급습할 것으로 보입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
-  "fee": null,
-  "published": "2026-09-09T23:00:00+00:00"
  }
 ]
