@@ -1,5 +1,18 @@
 [
  {
+  "id": "202c2bf66b46",
+  "title": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 millions d'euros",
+  "player": "Kylian Mbappé",
+  "title_ko": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 million d 'euros",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/la-qualite-est-la-kylian-mbappe-au-soutien-de-yan-diomande-critique-apres-son-transfert-a-125-millions-d-euros_AV-202609180072.html",
+  "fee": null,
+  "published": "2026-09-18T04:07:27+00:00"
+ },
+ {
   "id": "1bf4eade344d",
   "title": "Amorim appears to change stance on Milan transfers after Benfica defeat",
   "player": "Ruben Amorim",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
   "fee": null,
   "published": "2026-09-09T23:00:00+00:00"
- },
- {
-  "id": "56d630c4e82d",
-  "title": "Raphinha on target again as Barcelona put five past Feyenoord",
-  "player": null,
-  "title_ko": "바르셀로나가 페예노르드를 지나 다섯 명을 투입함에 따라 라피냐가 다시 표적에 올랐다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cwyznkd209xo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-09T20:59:56+00:00"
  }
 ]
