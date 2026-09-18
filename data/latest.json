@@ -1,5 +1,31 @@
 [
  {
+  "id": "b8cb050f4d0e",
+  "title": "Martinez wechselt die Perspektive: \"So werden wir viele Spiele gewinnen\"",
+  "player": "Am Mittwoch",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/martinez-wechselt-die-perspektive-so-werden-wir-viele-spiele-gewinnen-1253935/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-18T13:43:19+00:00"
+ },
+ {
+  "id": "118f99361bed",
+  "title": "Openda: Juventus move ‘not a mistake’, Vlahovic ‘kept the ball to himself’",
+  "player": "Lois Openda",
+  "title_ko": "Openda: 유벤투스의 움직임은 ‘실수가 아니다’, 블라호비치는 ‘혼자 공을 지켰다’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/openda-juventus-no-mistake-vlahovic-ball-him/",
+  "fee": null,
+  "published": "2026-09-18T13:36:46+00:00"
+ },
+ {
   "id": "5f7b48f2ed60",
   "title": "Petite révolution chez les équipementiers, Kylian Mbappé quitte Nike et signe avec la marque suisse On",
   "player": "Kylian Mbappé",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/mason-mount-man-utd-midfielders-37646776",
   "fee": null,
   "published": "2026-09-10T09:57:27+00:00"
- },
- {
-  "id": "dd6cd12831c2",
-  "title": "Gary Lineker claims Premier League transfer could cost Arsenal Champions League",
-  "player": "Gary Lineker",
-  "title_ko": "게리 리네커는 프리미어리그 이적이 아스널 챔피언스리그에 비용을 초래할 수 있다고 주장했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/lineker-arsenal-barcelona-champions-league-37646159",
-  "fee": null,
-  "published": "2026-09-10T07:05:54+00:00"
- },
- {
-  "id": "8e3997bf6899",
-  "title": "Mauricio Pochettino calls for Chelsea to be STRIPPED of title over transfer breaches",
-  "player": "Mauricio Pochettino",
-  "title_ko": "마우리시오 포체티노는 첼시에게 이적 위반으로 타이틀 박탈을 요구했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-chelsea-tottenham-ban-37644638",
-  "fee": null,
-  "published": "2026-09-10T06:00:00+00:00"
  }
 ]
