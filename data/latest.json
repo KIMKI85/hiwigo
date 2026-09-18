@@ -1,5 +1,18 @@
 [
  {
+  "id": "b4250b4821fb",
+  "title": "Bergstrom and Endemann on target as Liverpool come from behind to lead Man City",
+  "player": "Alice Bergstrom",
+  "title_ko": "리버풀이 맨시티를 이끌기 위해 뒤에서 오는 동안 목표물에 버그스트롬과 엔데만",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13589441/wsl-alice-bergstrom-and-vivien-endemann-on-target-as-liverpool-come-from-behind-to-lead-manchester-city",
+  "fee": null,
+  "published": "2026-09-18T19:33:00+00:00"
+ },
+ {
   "id": "fc1fe64a6696",
   "title": "Erik ten Hag's first signing at Man Utd finally joins new club after leaving for nothing",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/bradley-barcola-diaz-liverpool-bayern-37647977",
   "fee": null,
   "published": "2026-09-10T12:38:30+00:00"
- },
- {
-  "id": "b3a4d98540cd",
-  "title": "Juventus evaluate contract u-turn for Gonzalez",
-  "player": "Nico González",
-  "title_ko": "유벤투스, 곤잘레스 계약 u턴 평가",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-evaluate-contract-u-turn-for-gonzalez/",
-  "fee": null,
-  "published": "2026-09-10T11:30:34+00:00"
  }
 ]
