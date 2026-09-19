@@ -1,5 +1,18 @@
 [
  {
+  "id": "8db14776d744",
+  "title": "Hannover macht Wagner-Deal offiziell: \"Außergewöhnlich gut vorbereitet\"",
+  "player": "Geschäftsführer Sport Jonas",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/hannover-macht-wagner-deal-offiziell-aussergewoehnlich-gut-vorbereitet-1254292/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-19T18:27:29+00:00"
+ },
+ {
   "id": "101bc3a89389",
   "title": "The free agent goalkeepers Juventus could sign after Grabara blow",
   "player": "Kamil Grabara",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/como-baturina-strong-start-aston-villa-55m/",
   "fee": null,
   "published": "2026-09-11T09:16:00+00:00"
- },
- {
-  "id": "a1ca5245dbdb",
-  "title": "Hall signs new deal at Newcastle after Man Utd interest",
-  "player": "Lewis Hall",
-  "title_ko": "홀, 맨체스터 유나이티드 이자 후 뉴캐슬에서 새로운 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
-  "fee": null,
-  "published": "2026-09-11T09:00:00+00:00"
  }
 ]
