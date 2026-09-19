@@ -1,5 +1,18 @@
 [
  {
+  "id": "1d4378413e52",
+  "title": "'Millwall had the toughest firm I faced with West Ham - but I knew who I needed to target'",
+  "player": null,
+  "title_ko": "'밀월은 웨스트 햄과 마주한 회사 중 가장 힘든 회사였지만, 내가 누구를 타겟으로 삼아야 하는지 알았습니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/west-ham-hooligan-millwall-firm-37665635",
+  "fee": null,
+  "published": "2026-09-19T03:00:00+00:00"
+ },
+ {
   "id": "cdf68fb27942",
   "title": "Arsenal open to Dowman loan in right circumstances",
   "player": "Max Dowman",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-10T14:16:06+00:00"
- },
- {
-  "id": "9f800b31d298",
-  "title": "Milan and Toulouse look to build upon Odogu deal with sister club relationship",
-  "player": null,
-  "title_ko": "밀라노와 툴루즈는 자매 클럽과의 관계를 통해 오도구와의 거래를 구축하고자 합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-and-toulouse-look-build-upon-odogu-deal/",
-  "fee": null,
-  "published": "2026-09-10T14:00:00+00:00"
  }
 ]
