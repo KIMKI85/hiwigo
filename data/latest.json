@@ -1,5 +1,18 @@
 [
  {
+  "id": "101bc3a89389",
+  "title": "The free agent goalkeepers Juventus could sign after Grabara blow",
+  "player": "Kamil Grabara",
+  "title_ko": "프리 에이전트 골키퍼 유벤투스는 그라바라 타격 후 계약할 수 있었다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/the-free-agent-goalkeepers-juventus-could-sign/",
+  "fee": null,
+  "published": "2026-09-19T17:45:21+00:00"
+ },
+ {
   "id": "d6d06ec5e3cd",
   "title": "Willock and Hall on target as Newcastle end Hull's unbeaten start",
   "player": "Joe Willock",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
   "fee": null,
   "published": "2026-09-11T09:00:00+00:00"
- },
- {
-  "id": "c6af8e4a4a33",
-  "title": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-  "player": "Lewis Hall",
-  "title_ko": "루이스 홀, 뉴캐슬 장기 계약 합의, 첼시 바이아웃 종결: 축구 뉴스 – LIVE",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-  "fee": null,
-  "published": "2026-09-11T08:22:15+00:00"
  }
 ]
