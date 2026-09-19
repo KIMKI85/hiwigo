@@ -1,5 +1,31 @@
 [
  {
+  "id": "baf328b51b14",
+  "title": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
+  "player": null,
+  "title_ko": "논문: I 'm A Celebrity에 가입하기 위해 설정된 맨유의 전설",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
+  "fee": null,
+  "published": "2026-09-19T22:30:00+00:00"
+ },
+ {
+  "id": "530b98ad09ed",
+  "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+  "player": null,
+  "title_ko": "1월에 엔드릭을 위해 무기고를 옮길 수도 있습니다 - 일요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-19T21:39:38+00:00"
+ },
+ {
   "id": "10d74dc52509",
   "title": "Noni Madueke eyed for surprise Arsenal transfer with Mikel Arteta feelings clear",
   "player": "Noni Madueke",
