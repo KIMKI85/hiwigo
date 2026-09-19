@@ -1,5 +1,18 @@
 [
  {
+  "id": "ce6d097cdbef",
+  "title": "LIVE! Ungeschlagener FCN ohne Wechsel - Vier Neue beim FCK - Kiel unter Druck",
+  "player": "Vier Neue",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-ungeschlagener-fcn-ohne-wechsel-vier-neue-beim-fck-kiel-unter-druck-1253482/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-19T10:01:25+00:00"
+ },
+ {
   "id": "4ce1c4839be2",
   "title": "Acuerdo tácito entre Valencia y Javier Aguirre: faltan detalles... y la firma",
   "player": "Javier Aguirre",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/james-rodriguez-unlikely-for-avellino/",
   "fee": null,
   "published": "2026-09-10T18:22:12+00:00"
- },
- {
-  "id": "f8926499ef71",
-  "title": "Man Utd receive explanation from Barcelona for Marcus Rashford transfer snub",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유는 마커스 래쉬포드의 이적 거부에 대해 바르셀로나로부터 해명을 받았다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/rashford-gordon-barcelona-man-utd-37648990",
-  "fee": null,
-  "published": "2026-09-10T17:01:31+00:00"
  }
 ]
