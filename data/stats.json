@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-19T11:10:19.247232+00:00",
+ "updated": "2026-09-19T15:57:12.320755+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Tottenham",
+     "away": "Aston Villa",
+     "hs": 2,
+     "as": 3
+    },
     {
      "date": "2026-09-18",
      "home": "Brentford",
@@ -53,13 +60,6 @@
      "away": "Hull City",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Bournemouth",
-     "away": "Brentford",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -100,6 +100,12 @@
      "assists": 0
     },
     {
+     "name": "Pascal Groß",
+     "team": "Brighton Hove",
+     "goals": 3,
+     "assists": 3
+    },
+    {
      "name": "Kevin Schade",
      "team": "Brentford",
      "goals": 3,
@@ -116,12 +122,6 @@
      "team": "Arsenal",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Martin Ødegaard",
-     "team": "Arsenal",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,13 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Osasuna",
+     "away": "Rayo Vallecano",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-18",
      "home": "Espanyol",
@@ -177,13 +184,6 @@
      "away": "Real Madrid",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-15",
-     "home": "Alavés",
-     "away": "Valencia",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -192,6 +192,12 @@
      "team": "Barça",
      "goals": 9,
      "assists": 2
+    },
+    {
+     "name": "Sergio Camello",
+     "team": "Rayo Vallecano",
+     "goals": 7,
+     "assists": 1
     },
     {
      "name": "Kylian Mbappé",
@@ -212,12 +218,6 @@
      "assists": 0
     },
     {
-     "name": "Sergio Camello",
-     "team": "Rayo Vallecano",
-     "goals": 6,
-     "assists": 1
-    },
-    {
      "name": "Yassir Zabiri",
      "team": "Santander",
      "goals": 6,
@@ -230,6 +230,12 @@
      "assists": 2
     },
     {
+     "name": "Ante Budimir",
+     "team": "Osasuna",
+     "goals": 5,
+     "assists": 0
+    },
+    {
      "name": "Fer Niño",
      "team": "Elche",
      "goals": 5,
@@ -240,12 +246,6 @@
      "team": "Atleti",
      "goals": 4,
      "assists": 1
-    },
-    {
-     "name": "Fermín López",
-     "team": "Barça",
-     "goals": 4,
-     "assists": 2
     }
    ]
   },
@@ -253,6 +253,20 @@
    "name": "세리에 A",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Udinese",
+     "away": "Cagliari",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Bologna",
+     "away": "Torino",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-18",
      "home": "Monza",
@@ -294,20 +308,6 @@
      "away": "Bologna",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Lecce",
-     "away": "Monza",
-     "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Atalanta",
-     "away": "Cagliari",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
@@ -342,6 +342,12 @@
      "assists": 1
     },
     {
+     "name": "Daniel Maldini",
+     "team": "Cagliari",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Franco Mastantuono",
      "team": "Fiorentina",
      "goals": 3,
@@ -364,12 +370,6 @@
      "team": "Inter",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Francesco Esposito",
-     "team": "Inter",
-     "goals": 2,
-     "assists": 1
     }
    ]
   },
@@ -377,6 +377,34 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Frankfurt",
+     "away": "Freiburg",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Bremen",
+     "away": "Augsburg",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-09-19",
+     "home": "M'gladbach",
+     "away": "Mainz",
+     "hs": 3,
+     "as": 4
+    },
+    {
+     "date": "2026-09-19",
+     "home": "HSV",
+     "away": "1. FC Köln",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-18",
      "home": "Bayern",
@@ -404,34 +432,6 @@
      "away": "Bremen",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Freiburg",
-     "away": "M'gladbach",
-     "hs": 5,
-     "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Mainz",
-     "away": "Frankfurt",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Augsburg",
-     "away": "Leverkusen",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Dortmund",
-     "away": "SC Paderborn",
-     "hs": 3,
-     "as": 0
     }
    ],
    "scorers": [
@@ -444,20 +444,26 @@
     {
      "name": "Younes Ebnoutalib",
      "team": "Frankfurt",
-     "goals": 3,
+     "goals": 4,
      "assists": 1
+    },
+    {
+     "name": "Yuito Suzuki",
+     "team": "Freiburg",
+     "goals": 4,
+     "assists": 0
+    },
+    {
+     "name": "Phillip Tietz",
+     "team": "Mainz",
+     "goals": 4,
+     "assists": 0
     },
     {
      "name": "Patrik Schick",
      "team": "Leverkusen",
      "goals": 3,
      "assists": 1
-    },
-    {
-     "name": "Yuito Suzuki",
-     "team": "Freiburg",
-     "goals": 3,
-     "assists": 0
     },
     {
      "name": "Igor Matanovic",
@@ -472,27 +478,21 @@
      "assists": 0
     },
     {
+     "name": "Niclas Füllkrug",
+     "team": "Bremen",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Maurice Krattenmacher",
      "team": "Elversberg",
      "goals": 3,
      "assists": 0
     },
     {
-     "name": "Phillip Tietz",
-     "team": "Mainz",
+     "name": "Jonathan Burkardt",
+     "team": "Frankfurt",
      "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Harry Kane",
-     "team": "Bayern",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Josha Vagnoman",
-     "team": "Stuttgart",
-     "goals": 2,
      "assists": 1
     }
    ]
@@ -575,7 +575,7 @@
      "name": "Lassine Sinayoko",
      "team": "Paris FC",
      "goals": 4,
-     "assists": 0
+     "assists": 1
     },
     {
      "name": "Paris Brunner",
