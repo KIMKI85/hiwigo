@@ -1,5 +1,18 @@
 [
  {
+  "id": "4ce1c4839be2",
+  "title": "Acuerdo tácito entre Valencia y Javier Aguirre: faltan detalles... y la firma",
+  "player": "Javier Aguirre",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/09/19/acuerdo-tacito-valencia-javier-aguirre-faltan-detalles-firma.html",
+  "fee": null,
+  "published": "2026-09-19T07:35:22+00:00"
+ },
+ {
   "id": "d773025a645e",
   "title": "Liverpool news: Reds told to stump up £130m as club left 'surprised' by transfer development",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/rashford-gordon-barcelona-man-utd-37648990",
   "fee": null,
   "published": "2026-09-10T17:01:31+00:00"
- },
- {
-  "id": "e110d9cd1c7f",
-  "title": "Scalvini agrees new Atalanta contract following Newcastle summer pursuit",
-  "player": "Giorgio Scalvini",
-  "title_ko": "스칼비니는 뉴캐슬의 여름 이적 이후 새로운 아탈란타 계약에 동의했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/scalvini-agrees-new-atalanta-contract/",
-  "fee": null,
-  "published": "2026-09-10T14:31:05+00:00"
  }
 ]
