@@ -1,5 +1,18 @@
 [
  {
+  "id": "d6d06ec5e3cd",
+  "title": "Willock and Hall on target as Newcastle end Hull's unbeaten start",
+  "player": "Joe Willock",
+  "title_ko": "뉴캐슬이 헐의 무패 출발을 끝내면서 목표물에 윌록과 홀",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/report/559491",
+  "fee": null,
+  "published": "2026-09-19T17:25:00+00:00"
+ },
+ {
   "id": "90aedcc071b4",
   "title": "Potter and Malard on target as Chelsea see off Birmingham",
   "player": "Women's Super",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
   "fee": null,
   "published": "2026-09-11T08:22:15+00:00"
- },
- {
-  "id": "1f2f0f74151a",
-  "title": "Hall signs new contract with Newcastle until 2031",
-  "player": "Lewis Hall",
-  "title_ko": "홀, 2031년까지 뉴캐슬과 신규 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-11T08:00:07+00:00"
  }
 ]
