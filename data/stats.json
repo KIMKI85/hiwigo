@@ -1,10 +1,38 @@
 {
- "updated": "2026-09-19T15:57:12.320755+00:00",
+ "updated": "2026-09-19T20:49:12.058197+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Nottingham",
+     "away": "Coventry City",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Newcastle",
+     "away": "Hull City",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Brighton Hove",
+     "away": "Arsenal",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Everton",
+     "away": "Ipswich Town",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-09-19",
      "home": "Tottenham",
@@ -32,34 +60,6 @@
      "away": "Man City",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Coventry City",
-     "away": "Brighton Hove",
-     "hs": 0,
-     "as": 5
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Sunderland",
-     "away": "Arsenal",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Tottenham",
-     "away": "Everton",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Chelsea",
-     "away": "Hull City",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -131,6 +131,20 @@
    "results": [
     {
      "date": "2026-09-19",
+     "home": "Celta",
+     "away": "Santander",
+     "hs": 5,
+     "as": 0
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Athletic",
+     "away": "Alavés",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-19",
      "home": "Osasuna",
      "away": "Rayo Vallecano",
      "hs": 1,
@@ -170,27 +184,13 @@
      "away": "Osasuna",
      "hs": 4,
      "as": 0
-    },
-    {
-     "date": "2026-09-16",
-     "home": "Deportivo",
-     "away": "Sevilla FC",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-09-15",
-     "home": "Elche",
-     "away": "Real Madrid",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
     {
      "name": "Raphinha",
      "team": "Barça",
-     "goals": 9,
+     "goals": 12,
      "assists": 2
     },
     {
@@ -209,7 +209,7 @@
      "name": "Lamine Yamal",
      "team": "Barça",
      "goals": 7,
-     "assists": 2
+     "assists": 4
     },
     {
      "name": "Roberto Fernández",
@@ -255,6 +255,20 @@
    "results": [
     {
      "date": "2026-09-19",
+     "home": "Venezia FC",
+     "away": "Lazio",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Roma",
+     "away": "Inter",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-09-19",
      "home": "Udinese",
      "away": "Cagliari",
      "hs": 0,
@@ -294,20 +308,6 @@
      "away": "Parma",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Sassuolo",
-     "away": "Juventus",
-     "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Napoli",
-     "away": "Bologna",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -326,6 +326,12 @@
     {
      "name": "Antonio Raimondo",
      "team": "Frosinone",
+     "goals": 4,
+     "assists": 0
+    },
+    {
+     "name": "Lautaro Martínez",
+     "team": "Inter",
      "goals": 4,
      "assists": 0
     },
@@ -364,12 +370,6 @@
      "team": "Como 1907",
      "goals": 2,
      "assists": 0
-    },
-    {
-     "name": "Hakan Çalhanoğlu",
-     "team": "Inter",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-19",
+     "home": "Stuttgart",
+     "away": "Dortmund",
+     "hs": 0,
+     "as": 1
+    },
     {
      "date": "2026-09-19",
      "home": "Frankfurt",
@@ -425,13 +432,6 @@
      "away": "HSV",
      "hs": 5,
      "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "1. FC Köln",
-     "away": "Bremen",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -502,6 +502,34 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-19",
+     "home": "Angers SCO",
+     "away": "Troyes",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Toulouse",
+     "away": "Le Havre",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Le Mans",
+     "away": "Lorient",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-19",
+     "home": "Paris FC",
+     "away": "Strasbourg",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-09-18",
      "home": "Monaco",
      "away": "RC Lens",
@@ -528,34 +556,6 @@
      "away": "Troyes",
      "hs": 2,
      "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Paris FC",
-     "away": "Olympique Lyon",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Le Havre",
-     "away": "Angers SCO",
-     "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Auxerre",
-     "away": "Nice",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-09-12",
-     "home": "Lorient",
-     "away": "Toulouse",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -608,16 +608,16 @@
      "assists": 0
     },
     {
-     "name": "Franjo Ivanovic",
-     "team": "RC Lens",
-     "goals": 2,
-     "assists": 0
+     "name": "Ernest Nuamah",
+     "team": "Olympique Lyon",
+     "goals": 3,
+     "assists": 1
     },
     {
-     "name": "Tiago Santos",
-     "team": "Lille",
-     "goals": 2,
-     "assists": 0
+     "name": "Adil Bourabaa",
+     "team": "Le Mans",
+     "goals": 3,
+     "assists": 2
     }
    ]
   },
