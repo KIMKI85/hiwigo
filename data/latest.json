@@ -1,5 +1,31 @@
 [
  {
+  "id": "e958b7736d7c",
+  "title": "Premier League propose big Carabao Cup change in £1.8bn 'new deal for football'",
+  "player": "English Football",
+  "title_ko": "프리미어 리그는 £ 18억 '축구를 위한 새로운 거래' 에서 큰 카라바오 컵 변화를 제안합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-carabao-cup-efl-37682014",
+  "fee": "£1.8BN",
+  "published": "2026-09-20T18:37:26+00:00"
+ },
+ {
+  "id": "dd07c2286b8e",
+  "title": "JJ Gabriel 'chooses Chelsea' transfer after Man Utd exit bombshell",
+  "player": null,
+  "title_ko": "맨유 퇴장 폭탄테러 이후 JJ 가브리엘 '첼시 선택' 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-chelsea-37682711",
+  "fee": null,
+  "published": "2026-09-20T18:30:00+00:00"
+ },
+ {
   "id": "b4d662e3f372",
   "title": "Jamie Carragher talks up two Liverpool transfers who could follow Andoni Iraola",
   "player": "Jamie Carragher",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/paul-merson-man-utd-transfers-37654462",
   "fee": null,
   "published": "2026-09-12T06:00:00+00:00"
- },
- {
-  "id": "a76ea6ae2242",
-  "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
-  "player": "Vasco da Gama",
-  "title_ko": "논문: Richarlison은 Vasco da Gama 이동 실패 후 Spurs를 목표로 삼습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
-  "fee": null,
-  "published": "2026-09-11T23:16:00+00:00"
- },
- {
-  "id": "8d6734b98644",
-  "title": "Chelsea transfer admission made after dramatic £47m deal collapse",
-  "player": "Enzo Fernandez",
-  "title_ko": "극적인 £ 47M 거래 붕괴 후 첼시 이적 입장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-as-monaco-lamine-camara-37654402",
-  "fee": "£47M",
-  "published": "2026-09-11T21:52:37+00:00"
  }
 ]
