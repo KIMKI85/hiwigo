@@ -1,10 +1,17 @@
 {
- "updated": "2026-09-20T16:14:46.372714+00:00",
+ "updated": "2026-09-20T20:54:57.748762+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "Fulham",
+     "away": "Man United",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-09-20",
      "home": "Man City",
@@ -53,13 +60,6 @@
      "away": "Ipswich Town",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Tottenham",
-     "away": "Aston Villa",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -131,6 +131,27 @@
    "results": [
     {
      "date": "2026-09-20",
+     "home": "Villarreal",
+     "away": "Levante",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Deportivo",
+     "away": "Real Betis",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Atleti",
+     "away": "Real Madrid",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
      "home": "Getafe",
      "away": "Málaga",
      "hs": 1,
@@ -163,27 +184,6 @@
      "away": "Rayo Vallecano",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-09-18",
-     "home": "Espanyol",
-     "away": "Elche",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-09-17",
-     "home": "Málaga",
-     "away": "Villarreal",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-09-17",
-     "home": "Real Betis",
-     "away": "Getafe",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -255,6 +255,20 @@
    "results": [
     {
      "date": "2026-09-20",
+     "home": "Milan",
+     "away": "Lecce",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Juventus",
+     "away": "Atalanta",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-09-20",
      "home": "Parma",
      "away": "Genoa",
      "hs": 2,
@@ -293,20 +307,6 @@
      "home": "Udinese",
      "away": "Cagliari",
      "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Bologna",
-     "away": "Torino",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-18",
-     "home": "Monza",
-     "away": "Sassuolo",
-     "hs": 2,
      "as": 1
     }
    ],
@@ -366,10 +366,10 @@
      "assists": 0
     },
     {
-     "name": "Hassane Kamara",
-     "team": "Udinese",
-     "goals": 2,
-     "assists": 1
+     "name": "Diego Moreira",
+     "team": "Milan",
+     "goals": 3,
+     "assists": 0
     }
    ]
   },
@@ -377,6 +377,20 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "SC Paderborn",
+     "away": "Hoffenheim",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Schalke",
+     "away": "Elversberg",
+     "hs": 0,
+     "as": 0
+    },
     {
      "date": "2026-09-20",
      "home": "Leverkusen",
@@ -418,20 +432,6 @@
      "away": "1. FC Köln",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-18",
-     "home": "Bayern",
-     "away": "Union Berlin",
-     "hs": 7,
-     "as": 0
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Elversberg",
-     "away": "Bayern",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
@@ -503,6 +503,20 @@
    "results": [
     {
      "date": "2026-09-20",
+     "home": "Marseille",
+     "away": "PSG",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Nice",
+     "away": "Lille",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
      "home": "Auxerre",
      "away": "Brest",
      "hs": 2,
@@ -542,20 +556,6 @@
      "away": "Strasbourg",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-09-18",
-     "home": "Monaco",
-     "away": "RC Lens",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Brest",
-     "away": "PSG",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -563,13 +563,19 @@
      "name": "Amine Gouiri",
      "team": "Marseille",
      "goals": 4,
-     "assists": 0
+     "assists": 1
     },
     {
      "name": "Kamory Doumbia",
      "team": "Brest",
      "goals": 4,
      "assists": 1
+    },
+    {
+     "name": "Ferrán Torres",
+     "team": "PSG",
+     "goals": 4,
+     "assists": 0
     },
     {
      "name": "Lassine Sinayoko",
@@ -602,7 +608,7 @@
      "assists": 0
     },
     {
-     "name": "Ferrán Torres",
+     "name": "Marquinhos",
      "team": "PSG",
      "goals": 3,
      "assists": 0
@@ -612,12 +618,6 @@
      "team": "Auxerre",
      "goals": 3,
      "assists": 0
-    },
-    {
-     "name": "Ernest Nuamah",
-     "team": "Olympique Lyon",
-     "goals": 3,
-     "assists": 1
     }
    ]
   },
