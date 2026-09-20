@@ -1,10 +1,31 @@
 {
- "updated": "2026-09-20T11:34:47.853435+00:00",
+ "updated": "2026-09-20T16:14:46.372714+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "Man City",
+     "away": "Sunderland",
+     "hs": 5,
+     "as": 3
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Leeds United",
+     "away": "Crystal Palace",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Bournemouth",
+     "away": "Liverpool",
+     "hs": 0,
+     "as": 1
+    },
     {
      "date": "2026-09-19",
      "home": "Nottingham",
@@ -39,33 +60,18 @@
      "away": "Aston Villa",
      "hs": 2,
      "as": 3
-    },
-    {
-     "date": "2026-09-18",
-     "home": "Brentford",
-     "away": "Chelsea",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-09-14",
-     "home": "Leeds United",
-     "away": "Newcastle",
-     "hs": 4,
-     "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Man United",
-     "away": "Man City",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
     {
      "name": "Erling Haaland",
      "team": "Man City",
+     "goals": 5,
+     "assists": 0
+    },
+    {
+     "name": "Alexander Isak",
+     "team": "Liverpool",
      "goals": 4,
      "assists": 0
     },
@@ -94,10 +100,10 @@
      "assists": 1
     },
     {
-     "name": "Alexander Isak",
-     "team": "Liverpool",
+     "name": "Rayan Cherki",
+     "team": "Man City",
      "goals": 3,
-     "assists": 0
+     "assists": 2
     },
     {
      "name": "Pascal Groß",
@@ -116,12 +122,6 @@
      "team": "Man United",
      "goals": 3,
      "assists": 1
-    },
-    {
-     "name": "Kai Havertz",
-     "team": "Arsenal",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -129,6 +129,13 @@
    "name": "라리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "Getafe",
+     "away": "Málaga",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-09-19",
      "home": "Sevilla FC",
@@ -177,13 +184,6 @@
      "away": "Getafe",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-09-16",
-     "home": "Barça",
-     "away": "Santander",
-     "hs": 7,
-     "as": 2
     }
    ],
    "scorers": [
@@ -254,6 +254,27 @@
    "standings": [],
    "results": [
     {
+     "date": "2026-09-20",
+     "home": "Parma",
+     "away": "Genoa",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Frosinone",
+     "away": "Como 1907",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Fiorentina",
+     "away": "Napoli",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-09-19",
      "home": "Venezia FC",
      "away": "Lazio",
@@ -285,27 +306,6 @@
      "date": "2026-09-18",
      "home": "Monza",
      "away": "Sassuolo",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-14",
-     "home": "Inter",
-     "away": "Udinese",
-     "hs": 5,
-     "as": 3
-    },
-    {
-     "date": "2026-09-14",
-     "home": "Torino",
-     "away": "Roma",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-09-14",
-     "home": "Como 1907",
-     "away": "Parma",
      "hs": 2,
      "as": 1
     }
@@ -342,6 +342,12 @@
      "assists": 0
     },
     {
+     "name": "Giorgi Kvernadze",
+     "team": "Frosinone",
+     "goals": 3,
+     "assists": 1
+    },
+    {
      "name": "Vasilije Adzic",
      "team": "Sassuolo",
      "goals": 3,
@@ -364,12 +370,6 @@
      "team": "Udinese",
      "goals": 2,
      "assists": 1
-    },
-    {
-     "name": "Anastasios Douvikas",
-     "team": "Como 1907",
-     "goals": 2,
-     "assists": 0
     }
    ]
   },
@@ -377,6 +377,13 @@
    "name": "분데스리가",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "Leverkusen",
+     "away": "RB Leipzig",
+     "hs": 2,
+     "as": 0
+    },
     {
      "date": "2026-09-19",
      "home": "Stuttgart",
@@ -425,13 +432,6 @@
      "away": "Bayern",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-09-13",
-     "home": "RB Leipzig",
-     "away": "HSV",
-     "hs": 5,
-     "as": 0
     }
    ],
    "scorers": [
@@ -448,6 +448,12 @@
      "assists": 1
     },
     {
+     "name": "Patrik Schick",
+     "team": "Leverkusen",
+     "goals": 4,
+     "assists": 1
+    },
+    {
      "name": "Yuito Suzuki",
      "team": "Freiburg",
      "goals": 4,
@@ -458,12 +464,6 @@
      "team": "Mainz",
      "goals": 4,
      "assists": 0
-    },
-    {
-     "name": "Patrik Schick",
-     "team": "Leverkusen",
-     "goals": 3,
-     "assists": 1
     },
     {
      "name": "Igor Matanovic",
@@ -501,6 +501,13 @@
    "name": "리그 1",
    "standings": [],
    "results": [
+    {
+     "date": "2026-09-20",
+     "home": "Auxerre",
+     "away": "Brest",
+     "hs": 2,
+     "as": 1
+    },
     {
      "date": "2026-09-19",
      "home": "Olympique Lyon",
@@ -549,13 +556,6 @@
      "away": "PSG",
      "hs": 0,
      "as": 1
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Le Mans",
-     "away": "RC Lens",
-     "hs": 2,
-     "as": 2
     }
    ],
    "scorers": [
@@ -608,16 +608,16 @@
      "assists": 0
     },
     {
+     "name": "Cameron Archer",
+     "team": "Auxerre",
+     "goals": 3,
+     "assists": 0
+    },
+    {
      "name": "Ernest Nuamah",
      "team": "Olympique Lyon",
      "goals": 3,
      "assists": 1
-    },
-    {
-     "name": "Adil Bourabaa",
-     "team": "Le Mans",
-     "goals": 3,
-     "assists": 2
     }
    ]
   },
