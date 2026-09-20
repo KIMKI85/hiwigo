@@ -1,5 +1,18 @@
 [
  {
+  "id": "e28dd3010ffd",
+  "title": "Spurs eye £125m move for Gibbs-White - Monday's gossip",
+  "player": "Morgan Gibbs",
+  "title_ko": "Gibbs-White를 위한 £ 125M 무브 스퍼스 아이 - 월요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&at_campaign=rss",
+  "fee": "£125M",
+  "published": "2026-09-20T20:04:52+00:00"
+ },
+ {
   "id": "e958b7736d7c",
   "title": "Premier League propose big Carabao Cup change in £1.8bn 'new deal for football'",
   "player": "English Football",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-12T06:14:51+00:00"
- },
- {
-  "id": "11fb150b0a2f",
-  "title": "Man Utd told squad 'nowhere near enough' in brutal review of transfer window",
-  "player": "Paul Merson",
-  "title_ko": "맨체스터 유나이티드는 이적 기간에 대한 잔인한 검토에서 스쿼드에게 '어디에도 충분하지 않다' 고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/paul-merson-man-utd-transfers-37654462",
-  "fee": null,
-  "published": "2026-09-12T06:00:00+00:00"
  }
 ]
