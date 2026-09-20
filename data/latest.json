@@ -1,5 +1,18 @@
 [
  {
+  "id": "b4d662e3f372",
+  "title": "Jamie Carragher talks up two Liverpool transfers who could follow Andoni Iraola",
+  "player": "Jamie Carragher",
+  "title_ko": "제이미 캐러거 (Jamie Carragher) 는 안도니 이라올라 (Andoni Iraola) 를 따라갈 수있는 두 명의 리버풀 이적에 대해 이야기합니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-jamie-carragher-iraola-37682376",
+  "fee": null,
+  "published": "2026-09-20T15:01:55+00:00"
+ },
+ {
   "id": "d5be0b001b81",
   "title": "Man City beat Sunderland in eight-goal thriller to move three points clear at top",
   "player": "Brian Brobbey",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/chelsea-as-monaco-lamine-camara-37654402",
   "fee": "£47M",
   "published": "2026-09-11T21:52:37+00:00"
- },
- {
-  "id": "0bb1723dd46e",
-  "title": "Mikel Arteta sends warning to Arsenal's Premier League title rivals as secret target set",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타가 비밀 표적 세트로 아스널의 프리미어 리그 타이틀 라이벌에게 경고를 보냅니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-premier-league-37652979",
-  "fee": null,
-  "published": "2026-09-11T21:30:00+00:00"
  }
 ]
