@@ -1,5 +1,18 @@
 [
  {
+  "id": "acfede41fb4d",
+  "title": "I came close to joining Liverpool and Man Utd – it took me six years to finally make the move",
+  "player": null,
+  "title_ko": "리버풀과 맨유에 입단하기 직전이었습니다. 마침내 이적하기까지 6년이 걸렸습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-transfer-fulham-37669420",
+  "fee": null,
+  "published": "2026-09-20T03:45:00+00:00"
+ },
+ {
   "id": "b9aa153b054c",
   "title": "Arsenal news: Max Dowman could leave on loan as manager speaks out about wonderkid",
   "player": "Max Dowman",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-11T15:04:49+00:00"
- },
- {
-  "id": "84719262f3cb",
-  "title": "Zola: ‘Not easy’ to join Chelsea, Maradona ‘named me as his successor’",
-  "player": "Gianfranco Zola",
-  "title_ko": "졸라: 첼시에 합류하기 ’쉽지 않다', 마라도나는 ‘나를 후계자로 지명했다’",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zola-not-easy-join-chelsea-maradona-successor/",
-  "fee": null,
-  "published": "2026-09-11T14:16:37+00:00"
  }
 ]
