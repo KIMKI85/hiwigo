@@ -1,5 +1,18 @@
 [
  {
+  "id": "c3d83fd94267",
+  "title": "Victor Munoz speaks out about Liverpool team-mates as he admits being shocked after move",
+  "player": "Victor Munoz",
+  "title_ko": "빅터 무노즈 (Victor Munoz) 가 리버풀 팀 동료에 대해 이야기하며 이사 후 충격을 받았다고 인정합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-victor-munoz-barcola-anfield-37681597",
+  "fee": null,
+  "published": "2026-09-20T08:42:06+00:00"
+ },
+ {
   "id": "acfede41fb4d",
   "title": "I came close to joining Liverpool and Man Utd – it took me six years to finally make the move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-11T15:32:08+00:00"
- },
- {
-  "id": "1789545a770e",
-  "title": "Ex-West Ham striker Antonio joins Watford",
-  "player": "Michail Antonio",
-  "title_ko": "전 웨스트햄 공격수 안토니오, 왓포드에 합류",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-11T15:04:49+00:00"
  }
 ]
