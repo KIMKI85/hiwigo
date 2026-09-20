@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T20:49:12.058197+00:00",
+ "updated": "2026-09-20T05:00:40.352936+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -131,6 +131,13 @@
    "results": [
     {
      "date": "2026-09-19",
+     "home": "Sevilla FC",
+     "away": "Barça",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-09-19",
      "home": "Celta",
      "away": "Santander",
      "hs": 5,
@@ -177,13 +184,6 @@
      "away": "Santander",
      "hs": 7,
      "as": 2
-    },
-    {
-     "date": "2026-09-16",
-     "home": "Atleti",
-     "away": "Osasuna",
-     "hs": 4,
-     "as": 0
     }
    ],
    "scorers": [
@@ -503,6 +503,13 @@
    "results": [
     {
      "date": "2026-09-19",
+     "home": "Olympique Lyon",
+     "away": "Stade Rennais",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-09-19",
      "home": "Angers SCO",
      "away": "Troyes",
      "hs": 2,
@@ -549,13 +556,6 @@
      "away": "RC Lens",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-09-13",
-     "home": "Lille",
-     "away": "Troyes",
-     "hs": 2,
-     "as": 0
     }
    ],
    "scorers": [
