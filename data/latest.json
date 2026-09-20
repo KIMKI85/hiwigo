@@ -1,5 +1,18 @@
 [
  {
+  "id": "d34664d9c93a",
+  "title": "Arsenal sent JJ Gabriel transfer warning after Man Utd exit demand",
+  "player": null,
+  "title_ko": "맨유 퇴출 요구 이후 아스널이 JJ 가브리엘 이적 경고를 보냈다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-man-utd-future-37682283",
+  "fee": null,
+  "published": "2026-09-20T14:26:03+00:00"
+ },
+ {
   "id": "8a78b02f21a5",
   "title": "LIVE! Fünf Wechsel bei Bayer, RB ohne Lukeba",
   "player": "Fünf Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-nach-schiedsrichter-wechsel-karius-rettet-s04-die-null-adamu-laesst-das-3-0-liegen-1251358/artikel#omrss",
   "fee": null,
   "published": "2026-09-11T20:08:58+00:00"
- },
- {
-  "id": "8113a8d5553d",
-  "title": "Canal + y LaLiga firman un acuerdo histórico para combatir la piratería de contenidos deportivos",
-  "player": "África Subsahariana",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/primera-division/2026/09/11/canal-laliga-firman-acuerdo-historico-combatir-pirateria-contenidos-deportivos.html",
-  "fee": null,
-  "published": "2026-09-11T16:28:41+00:00"
  }
 ]
