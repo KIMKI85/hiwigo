@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T20:54:57.748762+00:00",
+ "updated": "2026-09-21T05:06:52.402408+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -131,6 +131,13 @@
    "results": [
     {
      "date": "2026-09-20",
+     "home": "Valencia",
+     "away": "Real Sociedad",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-20",
      "home": "Villarreal",
      "away": "Levante",
      "hs": 3,
@@ -177,13 +184,6 @@
      "away": "Alavés",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Osasuna",
-     "away": "Rayo Vallecano",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
