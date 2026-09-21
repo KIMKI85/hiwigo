@@ -1,5 +1,18 @@
 [
  {
+  "id": "3cf643a8d331",
+  "title": "Frosinone’s win over Como seen as ‘good sign for Italian football’",
+  "player": "Mike Grella",
+  "title_ko": "'이탈리아 축구의 좋은 징조‘ 로 여겨지는 코모에 대한 프로시노네의 승리",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frosinone-2-0-como-good-sign-italian-football/",
+  "fee": null,
+  "published": "2026-09-21T09:44:56+00:00"
+ },
+ {
   "id": "e0c059943461",
   "title": "DIRECT. Mercato: suivez les infos et rumeurs sur le marché des transferts du 21 septembre 2026 en live",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/woltemade-tonali-1-word-reaction-juventus/",
   "fee": null,
   "published": "2026-09-12T08:19:42+00:00"
- },
- {
-  "id": "9f8aeaea11fa",
-  "title": "Celtic's Nygren reveals summer transfer interest",
-  "player": "Celtic's Nygren",
-  "title_ko": "Celtic's Nygren, 여름 이적 관심사 공개",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c770z8dmemzo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-12T07:47:25+00:00"
  }
 ]
