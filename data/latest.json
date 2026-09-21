@@ -1,5 +1,18 @@
 [
  {
+  "id": "318da2fb1a43",
+  "title": "Atletico Madrid star hands Arsenal update on Julian Alvarez transfer",
+  "player": "Julian Alvarez",
+  "title_ko": "아틀레티코 마드리드 스타, 줄리안 알바레스 이적 관련 아스널 업데이트 진행",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-arsenal-transfer-barcelona-37685001",
+  "fee": null,
+  "published": "2026-09-21T12:20:07+00:00"
+ },
+ {
   "id": "3cf643a8d331",
   "title": "Frosinone’s win over Como seen as ‘good sign for Italian football’",
   "player": "Mike Grella",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/richarlison-tottenham-transfer-vasco-dagama-37655071",
   "fee": null,
   "published": "2026-09-12T09:43:48+00:00"
- },
- {
-  "id": "dd1601ba542f",
-  "title": "Woltemade reveals Tonali’s one-word reaction to his Juventus transfer",
-  "player": "Nick Woltemade",
-  "title_ko": "울트메이드, 유벤투스 이적에 대한 토날리의 한 마디 반응 공개",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/woltemade-tonali-1-word-reaction-juventus/",
-  "fee": null,
-  "published": "2026-09-12T08:19:42+00:00"
  }
 ]
