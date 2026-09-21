@@ -1,5 +1,18 @@
 [
  {
+  "id": "e0c059943461",
+  "title": "DIRECT. Mercato: suivez les infos et rumeurs sur le marché des transferts du 21 septembre 2026 en live",
+  "player": null,
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-21-septembre-2026-en-live_LN-202609210280.html",
+  "fee": null,
+  "published": "2026-09-21T07:23:53+00:00"
+ },
+ {
   "id": "7cacefa2a380",
   "title": "Liverpool news: Victor Munoz reveals surprise as Reds star told to show he deserves new deal",
   "player": "Victor Munoz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c770z8dmemzo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-12T07:47:25+00:00"
- },
- {
-  "id": "b7517a0f7d5e",
-  "title": "Arsenal told they ‘dodged a bullet’ by NOT signing Vinicius Jr after transfer saga",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날은 이적 사가 후 비니시우스 주니어와 계약하지 않음으로써 ‘총알을 피했다' 고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-vinicius-jr-madrid-37654733",
-  "fee": null,
-  "published": "2026-09-12T07:21:14+00:00"
  }
 ]
