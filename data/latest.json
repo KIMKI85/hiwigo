@@ -1,5 +1,18 @@
 [
  {
+  "id": "a6c14381eff5",
+  "title": "Ex-Man Utd star in talks over Russia move after rejecting crazy offer from Libya",
+  "player": null,
+  "title_ko": "리비아의 미친 제안을 거부 한 후 러시아를 둘러싼 회담에서 전 맨유 스타가 움직입니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/united-man-utd-anthony-martial-37687002",
+  "fee": null,
+  "published": "2026-09-21T20:06:19+00:00"
+ },
+ {
   "id": "cdcb30ab3a7f",
   "title": "Michael Owen singles out Man Utd star as 'weak link' after summer transfer blow",
   "player": "Michael Owen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-alejandro-garnacho-chelsea-37655478",
   "fee": null,
   "published": "2026-09-12T11:58:52+00:00"
- },
- {
-  "id": "877fb02b9e6d",
-  "title": "De Zerbi insists he’s not under pressure over Tottenham transfer spending",
-  "player": "De Zerbi",
-  "title_ko": "데 제르비는 토트넘 이적료 지출에 대해 압박을 받고 있지 않다고 주장",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/de-zerbi-not-pressure-tottenham-transfer-spend/",
-  "fee": null,
-  "published": "2026-09-12T10:47:45+00:00"
  }
 ]
