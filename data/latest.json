@@ -1,5 +1,18 @@
 [
  {
+  "id": "cdcb30ab3a7f",
+  "title": "Michael Owen singles out Man Utd star as 'weak link' after summer transfer blow",
+  "player": "Michael Owen",
+  "title_ko": "마이클 오웬, 여름 이적 후 '약한 고리' 로 맨유 스타 선정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/michael-owen-man-utd-rashford-37686803",
+  "fee": null,
+  "published": "2026-09-21T18:42:40+00:00"
+ },
+ {
   "id": "c77c32317916",
   "title": "Palmisani rewarded with new Frosinone contract to 2031 after Como heroics",
   "player": "Italy Under-",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/de-zerbi-not-pressure-tottenham-transfer-spend/",
   "fee": null,
   "published": "2026-09-12T10:47:45+00:00"
- },
- {
-  "id": "8a150674068e",
-  "title": "'I've turned the page' - Camara on Chelsea deal collapse",
-  "player": "Lamine Camara",
-  "title_ko": "'페이지를 넘겼습니다' - Camara on Chelsea 특가 붕괴",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-12T10:07:36+00:00"
  }
 ]
