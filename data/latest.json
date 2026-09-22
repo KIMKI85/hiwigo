@@ -1,5 +1,18 @@
 [
  {
+  "id": "26afddc20f8a",
+  "title": "'He's so obsessed with his club' | Arteta set to sign new Arsenal deal",
+  "player": "Sky Sports' Kaveh",
+  "title_ko": "'그는 클럽에 너무 집착해요' | 아르테타, 새로운 아스널 계약 체결 예정",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13590801/premier-league-mikel-arteta-close-to-agreeing-new-arsenal-contract",
+  "fee": null,
+  "published": "2026-09-22T19:02:00+00:00"
+ },
+ {
   "id": "cc52793b7216",
   "title": "Arteta agrees new Arsenal contract",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-nuno-tavares-lazio-madrid-37659765",
   "fee": null,
   "published": "2026-09-14T09:24:54+00:00"
- },
- {
-  "id": "0c7fdd731e16",
-  "title": "DIRECT. Mercato: suivez toutes les infos et rumeurs sur le marché des transferts du 14 septembre 2026 en live",
-  "player": null,
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-14-septembre-2026-en-live_LN-202609140218.html",
-  "fee": null,
-  "published": "2026-09-14T06:41:50+00:00"
  }
 ]
