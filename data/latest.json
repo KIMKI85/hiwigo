@@ -1,5 +1,18 @@
 [
  {
+  "id": "c4f4106b9db2",
+  "title": "Wayne Rooney makes Man Utd transfer claim on JJ Gabriel's next club decision",
+  "player": "Wayne Rooney",
+  "title_ko": "웨인 루니는 JJ 가브리엘의 다음 클럽 결정에 대한 맨유의 이적 청구를 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/rooney-jj-gabriel-man-united-37690803",
+  "fee": null,
+  "published": "2026-09-22T17:04:27+00:00"
+ },
+ {
   "id": "8281e8608b9f",
   "title": "Mercato: le joueur le plus \"riche\" du monde se retrouve sans club",
   "player": "Faiq Bolkiah",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/wagner-nach-bayern-wechsel-baff-habe-mich-kaputtgelacht-1252444/video#omrss",
   "fee": null,
   "published": "2026-09-13T20:16:04+00:00"
- },
- {
-  "id": "a34fa41c88f7",
-  "title": "Julian Alvarez left 'out' of Atletico Madrid squad as statement released on Arsenal transfer target",
-  "player": "Julian Alvarez",
-  "title_ko": "줄리안 알바레스 (Julian Alvarez) 는 아스날 이적 목표에 대한 성명서에서 아틀레티코 마드리드 선수단을 '탈퇴' 했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/julian-alvarez-atletico-madrid-arsenal-37657984",
-  "fee": null,
-  "published": "2026-09-13T16:09:17+00:00"
  }
 ]
