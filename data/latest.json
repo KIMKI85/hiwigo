@@ -1,5 +1,18 @@
 [
  {
+  "id": "eb2cdfa66b59",
+  "title": "Barça: jusqu'à 2,6 milliards de dette après un prêt, vers un nouveau départ du Camp Nou",
+  "player": "Camp Nou",
+  "title_ko": "바르사: jusqu 'a 2,6 milliards de dette après un prêt, vers un nouveau départ du Camp Nou",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/barca-jusqu-a-2-6-milliards-de-dette-apres-un-pret-vers-un-nouveau-depart-du-camp-nou_AV-202609220913.html",
+  "fee": null,
+  "published": "2026-09-22T20:50:58+00:00"
+ },
+ {
   "id": "26afddc20f8a",
   "title": "'He's so obsessed with his club' | Arteta set to sign new Arsenal deal",
   "player": "Sky Sports' Kaveh",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
   "fee": null,
   "published": "2026-09-14T22:08:01+00:00"
- },
- {
-  "id": "189903dd891d",
-  "title": "Gary Neville picks between Arsenal and Man City after summer transfer moves",
-  "player": "Gary Neville",
-  "title_ko": "게리 네빌은 여름 이적 후 아스널과 맨시티를 오간다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-arsenal-man-city-37662405",
-  "fee": null,
-  "published": "2026-09-14T18:01:11+00:00"
  }
 ]
