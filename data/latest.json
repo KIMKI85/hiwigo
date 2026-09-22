@@ -1,5 +1,18 @@
 [
  {
+  "id": "155f1ab89d06",
+  "title": "Mikel Arteta 'receives bumper pay rise' as Arsenal boss reaches new contract agreement",
+  "player": "Mikel Arteta",
+  "title_ko": "Mikel Arteta는 Arsenal 보스가 새로운 계약 계약에 도달함에 따라 '범퍼 페이 상승' 을받습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-new-arsenal-contract-37689248",
+  "fee": null,
+  "published": "2026-09-22T11:55:29+00:00"
+ },
+ {
   "id": "73ea6f5151ac",
   "title": "Arteta agrees new deal with champions Arsenal",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-transfer-borussia-dortmund-37657575",
   "fee": null,
   "published": "2026-09-13T12:36:24+00:00"
- },
- {
-  "id": "6d5cbb367595",
-  "title": "LIVE! Ein Wechsel in der Startelf: Absteiger Münster zu Gast beim VfB II",
-  "player": "Ein Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/vfb-ii-gegen-muenster-2026-liga-5233257/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-09-13T10:56:19+00:00"
  }
 ]
