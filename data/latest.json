@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c678749c838",
+  "title": "Lewis Hall says it was a 'no-brainer' to snub Man Utd despite transfer interest",
+  "player": "Lewis Hall",
+  "title_ko": "루이스 홀 (Lewis Hall) 은 이적 이자에도 불구하고 맨유를 기웃거리는 것은 '생각할 필요 없는 일' 이라고 말한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-hall-newcastle-37689149",
+  "fee": null,
+  "published": "2026-09-22T12:40:22+00:00"
+ },
+ {
   "id": "1560df27999d",
   "title": "JJ Gabriel 'reaches first major agreement' as Man Utd star tells four clubs his preference",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fans-protest-glazers-37658055",
   "fee": null,
   "published": "2026-09-13T14:55:33+00:00"
- },
- {
-  "id": "969ef05d0d02",
-  "title": "LIVE! Viele Wechsel auf beiden Seiten: HSV zu Gast in Leipzig",
-  "player": "Viele Wechsel",
-  "title_ko": "LIVE! Viele Wechsel auf beiden Seiten: HSV zu 라이프치히의 감스트",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-viele-wechsel-auf-beiden-seiten-hsv-zu-gast-in-leipzig-1251366/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-13T12:54:53+00:00"
  }
 ]
