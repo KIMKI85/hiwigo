@@ -1,5 +1,18 @@
 [
  {
+  "id": "6690edb710b3",
+  "title": "Torino push for Adams renewal with contract entering final year",
+  "player": "Che Adams",
+  "title_ko": "토리노, 애덤스 리뉴얼 추진 (마지막 해에 계약 체결)",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/torino-prioritise-che-adams-renewal/",
+  "fee": null,
+  "published": "2026-09-22T11:45:00+00:00"
+ },
+ {
   "id": "6bd989cd3af5",
   "title": "Totti reveals the two Serie A clubs that wanted to sign him after retirement",
   "player": "Francesco Totti",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-harvey-elliott-transfer-hint-37655597",
   "fee": null,
   "published": "2026-09-13T04:00:00+00:00"
- },
- {
-  "id": "e44a1bb25f9a",
-  "title": "Alan Shearer deals Man United reality check before Manchester derby",
-  "player": "Alan Shearer",
-  "title_ko": "맨체스터 더비 전 앨런 시어러 딜 맨유 리얼리티 체크",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/alan-shearer-man-united-city-37656609",
-  "fee": null,
-  "published": "2026-09-12T20:17:05+00:00"
  }
 ]
