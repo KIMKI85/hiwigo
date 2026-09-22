@@ -1,5 +1,18 @@
 [
  {
+  "id": "1560df27999d",
+  "title": "JJ Gabriel 'reaches first major agreement' as Man Utd star tells four clubs his preference",
+  "player": "Old Trafford",
+  "title_ko": "JJ 가브리엘은 맨유 스타가 4개의 클럽에 자신의 선호도를 말하면서 '첫 번째 주요 합의에 도달' 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-jj-gabriel-37689052",
+  "fee": null,
+  "published": "2026-09-22T12:18:00+00:00"
+ },
+ {
   "id": "155f1ab89d06",
   "title": "Mikel Arteta 'receives bumper pay rise' as Arsenal boss reaches new contract agreement",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-viele-wechsel-auf-beiden-seiten-hsv-zu-gast-in-leipzig-1251366/artikel#omrss",
   "fee": null,
   "published": "2026-09-13T12:54:53+00:00"
- },
- {
-  "id": "71fb47e0f988",
-  "title": "Borussia Dortmund chief issues Jadon Sancho transfer statement as decision made",
-  "player": "Jadon Sancho",
-  "title_ko": "보루시아 도르트문트 수석이 결정에 따라 Jadon Sancho 이적 진술서를 발행",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-transfer-borussia-dortmund-37657575",
-  "fee": null,
-  "published": "2026-09-13T12:36:24+00:00"
  }
 ]
