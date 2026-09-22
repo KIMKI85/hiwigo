@@ -1,5 +1,31 @@
 [
  {
+  "id": "6bd989cd3af5",
+  "title": "Totti reveals the two Serie A clubs that wanted to sign him after retirement",
+  "player": "Francesco Totti",
+  "title_ko": "토티가 은퇴 후 그를 영입하고 싶었던 두 세리에 A 구단을 공개하다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/totti-2-serie-a-clubs-sign-after-retirement/",
+  "fee": null,
+  "published": "2026-09-22T08:42:36+00:00"
+ },
+ {
+  "id": "0036b818e107",
+  "title": "Alexis Mac Allister casts doubt on Liverpool future again after contract admission",
+  "player": "Alexis Mac Allister",
+  "title_ko": "알렉시스 맥 앨리스터 (Alexis Mac Allister) 는 계약 승인 후 리버풀의 미래에 대해 다시 의문을 제기합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-alexis-mac-allister-contract-37687779",
+  "fee": null,
+  "published": "2026-09-22T08:34:52+00:00"
+ },
+ {
   "id": "2e61e0634625",
   "title": "Inter ready to welcome Spence back after Tottenham move",
   "player": "Djed Spence",
