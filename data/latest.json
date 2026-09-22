@@ -1,5 +1,18 @@
 [
  {
+  "id": "73ea6f5151ac",
+  "title": "Arteta agrees new deal with champions Arsenal",
+  "player": "Mikel Arteta",
+  "title_ko": "아르테타, 챔피언 아스날과 새로운 거래 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-22T11:48:23+00:00"
+ },
+ {
   "id": "6690edb710b3",
   "title": "Torino push for Adams renewal with contract entering final year",
   "player": "Che Adams",
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/torino-prioritise-che-adams-renewal/",
   "fee": null,
   "published": "2026-09-22T11:45:00+00:00"
+ },
+ {
+  "id": "5313dc5aa5fe",
+  "title": "Do £100m transfers work? Liverpool hit major hurdle as record deals come under fire",
+  "player": "Florian Wirtz's",
+  "title_ko": "£ 100M 이체가 가능한가요? 기록적인 거래가 성사되면서 리버풀은 큰 걸림돌을 맞았습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-florian-wirtz-100m-transfers-37688669",
+  "fee": "£100M",
+  "published": "2026-09-22T11:41:07+00:00"
  },
  {
   "id": "6bd989cd3af5",
@@ -1272,31 +1298,5 @@
   "url": "https://www.kicker.de/vfb-ii-gegen-muenster-2026-liga-5233257/spielbericht#omrss",
   "fee": null,
   "published": "2026-09-13T10:56:19+00:00"
- },
- {
-  "id": "d290f6073342",
-  "title": "Eight Man Utd players Sir Jim Ratcliffe was 'willing to offload' to sign £100m Man City star",
-  "player": "Sir Jim Ratcliffe",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jim-ratcliffe-city-37650909",
-  "fee": "£100M",
-  "published": "2026-09-13T06:30:00+00:00"
- },
- {
-  "id": "67e51cc10301",
-  "title": "Liverpool news: Harvey Elliott faces new Valencia nightmare as star drops fresh transfer hint",
-  "player": "Harvey Elliott",
-  "title_ko": "리버풀 뉴스: 하비 엘리엇 (Harvey Elliott) 은 스타가 신선한 전송 힌트를 떨어 뜨리면서 새로운 발렌시아 악몽에 직면했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-harvey-elliott-transfer-hint-37655597",
-  "fee": null,
-  "published": "2026-09-13T04:00:00+00:00"
  }
 ]
