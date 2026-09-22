@@ -1,5 +1,18 @@
 [
  {
+  "id": "2e61e0634625",
+  "title": "Inter ready to welcome Spence back after Tottenham move",
+  "player": "Djed Spence",
+  "title_ko": "인테르는 토트넘 이주 후 스펜스를 다시 맞이할 준비가 되었습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-ready-to-welcome-spence-back-after-tottenham-move/",
+  "fee": null,
+  "published": "2026-09-22T08:02:12+00:00"
+ },
+ {
   "id": "d6b6e02bd131",
   "title": "Liverpool news: Two Andoni Iraola transfer reunions proposed as Bradley Barcola sent message",
   "player": "Two Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5227150/spielbericht#omrss",
   "fee": null,
   "published": "2026-09-12T17:41:18+00:00"
- },
- {
-  "id": "b30a45234f1c",
-  "title": "'Man Utd star wouldn't shake my hand after I joined Man City - here's what I think of him'",
-  "player": null,
-  "title_ko": "'맨시티에 합류한 후 맨유 스타가 악수하지 않을 텐데, 내가 생각하는 맨유의 모습은 이렇다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/neville-man-utd-city-schmeichel-37652700",
-  "fee": null,
-  "published": "2026-09-12T17:00:00+00:00"
  }
 ]
