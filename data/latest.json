@@ -1,5 +1,31 @@
 [
  {
+  "id": "5b72f18b4ddd",
+  "title": "Arsenal latest: YOUR VIEWS on new Arteta deal - and where does he rank?",
+  "player": null,
+  "title_ko": "아스날 최신: 새로운 Arteta 거래에 대한 귀하의 견해 - 그리고 그는 어디에서 순위를 매기나요?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-09-23T09:45:00+00:00"
+ },
+ {
+  "id": "1be187a12316",
+  "title": "Picture: Udinese drop Alaba transfer hint after agreement with ex-Real Madrid star",
+  "player": "David Alaba",
+  "title_ko": "사진: 레알 마드리드 스타와의 계약 후 우디네세 드롭 알라바 이적 힌트",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/picture-udinese-alaba-transfer-hint-agreement/",
+  "fee": null,
+  "published": "2026-09-23T09:02:00+00:00"
+ },
+ {
   "id": "20648747da71",
   "title": "Alaba: Ex-Real Madrid defender reaches surprise agreement with Udinese",
   "player": "Fabrizio Romano",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/dugarry-de-zerbi-robbed-tottenham/",
   "fee": null,
   "published": "2026-09-15T16:40:00+00:00"
- },
- {
-  "id": "386dd648fd99",
-  "title": "Mercato: comme si le Barça perdait Messi, la pépite JJ Gabriel a demandé à quitter Manchester United",
-  "player": "Red Devils",
-  "title_ko": "Mercato: comme si le Barça perdait Messi, la pépite JJ Gabriel a demandé à quitter 맨체스터 유나이티드",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-comme-si-le-barca-perdait-messi-la-pepite-jj-gabriel-a-demande-a-quitter-manchester-united_AV-202609150581.html",
-  "fee": null,
-  "published": "2026-09-15T14:40:56+00:00"
- },
- {
-  "id": "d06976977e7f",
-  "title": "Ex-Tottenham midfielder Bissouma set to join Ajax",
-  "player": "Yves Bissouma",
-  "title_ko": "전 토트넘 미드필더 비수마가 아약스에 합류했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-15T12:16:29+00:00"
  }
 ]
