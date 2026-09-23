@@ -1,5 +1,18 @@
 [
  {
+  "id": "182a7095dd12",
+  "title": "Alan Shearer admits he got it wrong on Tottenham in damning U-turn on transfers",
+  "player": "Alan Shearer",
+  "title_ko": "앨런 시어러 (Alan Shearer) 는 토트넘 (Tottenham) 에서 유턴 이적 (U-turn on transfers) 을 잘못했다고 인정합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/tottenham-spending-prediction-alan-shearer-37691711",
+  "fee": null,
+  "published": "2026-09-23T07:03:06+00:00"
+ },
+ {
   "id": "19736dece894",
   "title": "Liverpool news: Kylian Mbappe makes transfer admission as Andoni Iraola striker plan emerges",
   "player": "Kylian Mbappe",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/ex-inter-ausilio-closing-in-spurs-agreement/",
   "fee": null,
   "published": "2026-09-15T10:04:19+00:00"
- },
- {
-  "id": "11711c6bd099",
-  "title": "Mercato: \"Quel est le problème?\", Coutinho assume son choix de rejoindre Neymar à Santos malgré les critiques",
-  "player": "Vasco de Gama",
-  "title_ko": "메르카토: \"Quel est le problème?\", Coutinho assume son choix de rejoindre Neymar à Santos malgré les critiques",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-quel-est-le-probleme-coutinho-assume-son-choix-de-rejoindre-neymar-a-santos-malgre-les-critiques_AV-202609150299.html",
-  "fee": null,
-  "published": "2026-09-15T07:38:02+00:00"
  }
 ]
