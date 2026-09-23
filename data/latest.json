@@ -1,5 +1,18 @@
 [
  {
+  "id": "392a8030a204",
+  "title": "Man Utd news: JJ Gabriel agreement 'reached' as statement released after major blow",
+  "player": null,
+  "title_ko": "맨유 소식: JJ 가브리엘 합의 '도달' 주요 타격 후 성명 발표",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-agreement-37689407",
+  "fee": null,
+  "published": "2026-09-23T03:30:00+00:00"
+ },
+ {
   "id": "68fd0214d9d4",
   "title": "Arsenal news: Mikel Arteta 'agrees new deal' as manager dealt fresh injury blow",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-james-scanlon-mikel-arteta-37663106",
   "fee": null,
   "published": "2026-09-15T06:19:53+00:00"
- },
- {
-  "id": "2cca22660e73",
-  "title": "\"Il y avait des choses plus graves dans la vie\", quand Eric Roy mettait Pierre Lees-Melou dans la confidence de sa maladie après son transfert avorté à Rennes",
-  "player": "Eric Roy",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-1/il-y-avait-des-choses-plus-graves-dans-la-vie-quand-eric-roy-mettait-pierre-lees-melou-dans-la-confidence-de-sa-maladie-apres-son-transfert-avorte-a-rennes_AV-202609150090.html",
-  "fee": null,
-  "published": "2026-09-15T04:31:43+00:00"
  }
 ]
