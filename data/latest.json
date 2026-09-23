@@ -1,5 +1,31 @@
 [
  {
+  "id": "7420094e5014",
+  "title": "Done Deal: Neto will be new Juventus goalkeeper as free agent",
+  "player": null,
+  "title_ko": "완료 거래: 네토는 자유 계약 선수로서 새로운 유벤투스 골키퍼가 될 것입니다",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-neto-will-be-new-juventus-goalkeeper/",
+  "fee": null,
+  "published": "2026-09-23T15:09:01+00:00"
+ },
+ {
+  "id": "5021ff7e2990",
+  "title": "Christian Eriksen cancels Wolfsburg contract three months after collapsing on pitch",
+  "player": "Christian Eriksen",
+  "title_ko": "크리스티안 에릭센, 경기장 붕괴 3개월 만에 볼프스부르크 계약 취소",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-contract-collapse-37694827",
+  "fee": null,
+  "published": "2026-09-23T14:59:47+00:00"
+ },
+ {
   "id": "f76b58cf05fa",
   "title": "Milan ready to use Pulisic and Rabiot contract clauses to June 2028",
   "player": "Christian Pulisic",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/sunderland-vs-az-alkmaar/live/577749",
   "fee": null,
   "published": "2026-09-16T14:13:00+00:00"
- },
- {
-  "id": "a695de466e4d",
-  "title": "El administrador del Málaga lo deja claro: \"Dinero hay para hacer un fichaje ahora o en enero\"",
-  "player": "Loren Juarros",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/malaga/2026/09/16/administrador-malaga-deja-claro-dinero-hay-fichaje-enero.html",
-  "fee": null,
-  "published": "2026-09-16T10:41:32+00:00"
- },
- {
-  "id": "95ad6243d10d",
-  "title": "Liverpool told they already have £100m transfer solution as Andoni Iraola message sent",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀은 안도니 이라올라 (Andoni Iraola) 메시지가 전송됨에 따라 이미 £ 100M 이적 솔루션을 보유하고 있다고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-tottenham-trey-nyoni-37667167",
-  "fee": "£100M",
-  "published": "2026-09-16T05:41:12+00:00"
  }
 ]

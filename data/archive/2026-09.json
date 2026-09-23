@@ -1,5 +1,31 @@
 [
  {
+  "id": "7420094e5014",
+  "title": "Done Deal: Neto will be new Juventus goalkeeper as free agent",
+  "player": null,
+  "title_ko": "완료 거래: 네토는 자유 계약 선수로서 새로운 유벤투스 골키퍼가 될 것입니다",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/done-deal-neto-will-be-new-juventus-goalkeeper/",
+  "fee": null,
+  "published": "2026-09-23T15:09:01+00:00"
+ },
+ {
+  "id": "5021ff7e2990",
+  "title": "Christian Eriksen cancels Wolfsburg contract three months after collapsing on pitch",
+  "player": "Christian Eriksen",
+  "title_ko": "크리스티안 에릭센, 경기장 붕괴 3개월 만에 볼프스부르크 계약 취소",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-contract-collapse-37694827",
+  "fee": null,
+  "published": "2026-09-23T14:59:47+00:00"
+ },
+ {
   "id": "f76b58cf05fa",
   "title": "Milan ready to use Pulisic and Rabiot contract clauses to June 2028",
   "player": "Christian Pulisic",
