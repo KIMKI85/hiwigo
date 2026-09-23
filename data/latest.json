@@ -1,5 +1,18 @@
 [
  {
+  "id": "500dbf636fe7",
+  "title": "Juventus near agreement with Neto as free agent, target Palmisani for 2027-28",
+  "player": null,
+  "title_ko": null,
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-near-neto-agreement-palmisani-2028/",
+  "fee": null,
+  "published": "2026-09-23T08:14:06+00:00"
+ },
+ {
   "id": "182a7095dd12",
   "title": "Alan Shearer admits he got it wrong on Tottenham in damning U-turn on transfers",
   "player": "Alan Shearer",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/kurz-vor-europa-league-auftakt-leverkusens-gegner-celje-wechselt-trainer-1252870/artikel#omrss",
   "fee": null,
   "published": "2026-09-15T11:10:52+00:00"
- },
- {
-  "id": "69858d0b0364",
-  "title": "Ausilio closing in on agreement with Tottenham after 28 years with Inter",
-  "player": "Piero Ausilio",
-  "title_ko": "오실리오는 인테르와 28년 만에 토트넘과 합의에 도달했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ex-inter-ausilio-closing-in-spurs-agreement/",
-  "fee": null,
-  "published": "2026-09-15T10:04:19+00:00"
  }
 ]
