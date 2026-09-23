@@ -1,5 +1,18 @@
 [
  {
+  "id": "1788250238f1",
+  "title": "Enzo Fernandez transfer statement made as Man City warning issued to Premier League rivals",
+  "player": "Enzo Fernandez",
+  "title_ko": "프리미어 리그 라이벌에게 맨시티 경고로 발표된 엔조 페르난데스 이적 성명서",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-transfer-37695997",
+  "fee": null,
+  "published": "2026-09-23T21:39:09+00:00"
+ },
+ {
   "id": "e05c710dec85",
   "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/david-scored-atletico-madrid-juventus-loan/",
   "fee": null,
   "published": "2026-09-16T19:22:55+00:00"
- },
- {
-  "id": "bade454fa4a4",
-  "title": "Carabao Cup draw LIVE: TV info & time as Man Utd look to join Liverpool and Arsenal in round four",
-  "player": null,
-  "title_ko": "카라바오 컵 추첨 생중계: 맨유가 4라운드에서 리버풀과 아스널에 합류할 것으로 예상되는 TV 정보 및 시간",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/carabaocup-round-four-draw-live-37670067",
-  "fee": null,
-  "published": "2026-09-16T19:10:40+00:00"
  }
 ]
