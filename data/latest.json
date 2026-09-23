@@ -1,5 +1,18 @@
 [
  {
+  "id": "6e79e2736a77",
+  "title": "Bruno Guimaraes sent warning by Newcastle star ahead of reunion after Arsenal move",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마라이스 (Bruno Guimaraes) 는 아스날 이동 후 재결합을 앞두고 뉴캐슬 스타로부터 경고를 보냈다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-newcastle-bruno-guimaraes-joelinton-37693703",
+  "fee": null,
+  "published": "2026-09-23T12:53:00+00:00"
+ },
+ {
   "id": "4f8d6d2ace1b",
   "title": "Balerdi rejected Boca captaincy offer to join Roma: ‘I waited for them’",
   "player": "Leonardo Balerdi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-manchester-united-madrid-37666530",
   "fee": null,
   "published": "2026-09-15T17:31:18+00:00"
- },
- {
-  "id": "3ba6ed72777b",
-  "title": "LIVE! Fünf Wechsel beim MSV - Boujellab vergibt den Blitzstart gegen F95 - Heikes Lauf hält an",
-  "player": "Fünf Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-fuenf-wechsel-beim-msv-boujellab-vergibt-den-blitzstart-gegen-f95-heikes-lauf-haelt-an-1252591/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-15T17:04:34+00:00"
  }
 ]
