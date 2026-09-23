@@ -1,5 +1,18 @@
 [
  {
+  "id": "19736dece894",
+  "title": "Liverpool news: Kylian Mbappe makes transfer admission as Andoni Iraola striker plan emerges",
+  "player": "Kylian Mbappe",
+  "title_ko": "리버풀 뉴스: Kylian Mbappe는 Andoni Iraola 스트라이커 계획이 등장함에 따라 이전 입장을합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-kylian-mbappe-andoni-iraola-37689881",
+  "fee": null,
+  "published": "2026-09-23T04:00:00+00:00"
+ },
+ {
   "id": "392a8030a204",
   "title": "Man Utd news: JJ Gabriel agreement 'reached' as statement released after major blow",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-quel-est-le-probleme-coutinho-assume-son-choix-de-rejoindre-neymar-a-santos-malgre-les-critiques_AV-202609150299.html",
   "fee": null,
   "published": "2026-09-15T07:38:02+00:00"
- },
- {
-  "id": "45ec3650feef",
-  "title": "Arsenal call up summer signing from Man Utd as Mikel Arteta prepares changes",
-  "player": "Mikel Arteta",
-  "title_ko": "Mikel Arteta가 변화를 준비함에 따라 아스날은 맨유의 여름 계약을 소집합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-james-scanlon-mikel-arteta-37663106",
-  "fee": null,
-  "published": "2026-09-15T06:19:53+00:00"
  }
 ]
