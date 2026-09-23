@@ -1,5 +1,18 @@
 [
  {
+  "id": "20648747da71",
+  "title": "Alaba: Ex-Real Madrid defender reaches surprise agreement with Udinese",
+  "player": "Fabrizio Romano",
+  "title_ko": "알라바: 전 레알 마드리드 수비수, 우디네세와 깜짝 계약",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/alaba-ex-real-madrid-star-agreement-udinese/",
+  "fee": null,
+  "published": "2026-09-23T08:25:01+00:00"
+ },
+ {
   "id": "500dbf636fe7",
   "title": "Juventus near agreement with Neto as free agent, target Palmisani for 2027-28",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-15T12:16:29+00:00"
- },
- {
-  "id": "66feb083263b",
-  "title": "Kurz vor Europa-League-Auftakt: Leverkusens Gegner Celje wechselt Trainer",
-  "player": "Leverkusens Gegner Celje",
-  "title_ko": "Kurz vor Europa-League-Auftakt: Leverkusens Gegner Celje wechselt 트레이너",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/kurz-vor-europa-league-auftakt-leverkusens-gegner-celje-wechselt-trainer-1252870/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-15T11:10:52+00:00"
  }
 ]
