@@ -1,5 +1,18 @@
 [
  {
+  "id": "7445c78b0315",
+  "title": "Liverpool news: Transfer to solve problem position eyed as Szoboszlai puts squad on notice",
+  "player": null,
+  "title_ko": "리버풀 뉴스: Szoboszlai가 분대를 통보함에 따라 문제 위치를 해결하기 위해 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-target-dominik-szoboszlai-37695145",
+  "fee": null,
+  "published": "2026-09-24T04:00:00+00:00"
+ },
+ {
   "id": "a0888999f46b",
   "title": "Arsenal news: Julian Alvarez transfer plot emerges as coach urges patience with star",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/sietan-entschuldigt-sich-fuers-tor-und-spricht-nebuloes-ueber-seinen-rwe-wechsel-1253343/artikel#omrss",
   "fee": null,
   "published": "2026-09-16T20:48:55+00:00"
- },
- {
-  "id": "22ddf628b831",
-  "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
-  "player": "Max Dowman",
-  "title_ko": "아스널이 다우먼 대출 제안을 거절함 - 목요일 가십",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-16T19:53:12+00:00"
  }
 ]
