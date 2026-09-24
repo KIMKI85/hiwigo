@@ -1,5 +1,18 @@
 [
  {
+  "id": "01d42eb6391c",
+  "title": "Fox signs new Arsenal deal",
+  "player": "Emily Fox",
+  "title_ko": "FOX, 새로운 아스날 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
+  "fee": null,
+  "published": "2026-09-24T12:00:00+00:00"
+ },
+ {
   "id": "2756eb2cee96",
   "title": "Milan want Rabiot to commit to long-term contract and potentially see career out at San Siro",
   "player": "San Siro",
