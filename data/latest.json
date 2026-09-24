@@ -234,6 +234,19 @@
   "published": "2026-09-24T03:00:00+00:00"
  },
  {
+  "id": "346b4da0389f",
+  "title": "Papers: Barcelona not interested in signing Man Utd wonderkid Gabriel",
+  "player": null,
+  "title_ko": "서류: 맨체스터 유나이티드 원더키드 가브리엘과 계약하는 데 관심이 없는 바르셀로나",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
+  "fee": null,
+  "published": "2026-09-23T23:20:00+00:00"
+ },
+ {
   "id": "1788250238f1",
   "title": "Enzo Fernandez transfer statement made as Man City warning issued to Premier League rivals",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-37678321",
   "fee": null,
   "published": "2026-09-18T14:59:12+00:00"
- },
- {
-  "id": "b8cb050f4d0e",
-  "title": "Martinez wechselt die Perspektive: \"So werden wir viele Spiele gewinnen\"",
-  "player": "Am Mittwoch",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/martinez-wechselt-die-perspektive-so-werden-wir-viele-spiele-gewinnen-1253935/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-18T13:43:19+00:00"
  }
 ]
