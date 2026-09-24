@@ -1,5 +1,31 @@
 [
  {
+  "id": "f33287f3b82b",
+  "title": "DIRECT. Mercato: Rabiot bientôt prolongé ?",
+  "player": null,
+  "title_ko": "직접. Mercato: Rabiot bientôt prolongé?",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts_LN-202609240316.html",
+  "fee": null,
+  "published": "2026-09-24T07:54:43+00:00"
+ },
+ {
+  "id": "ca461aa57188",
+  "title": "Today’s Papers: Italy unveil Zoma, Udinese sign Alaba, new Juventus goalkeepers",
+  "player": null,
+  "title_ko": "Today's Papers: 이탈리아, 조마, 우디네세 간판 알라바, 새로운 유벤투스 골키퍼 공개",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/todays-papers-italy-unveil-zoma-udinese-alaba/",
+  "fee": null,
+  "published": "2026-09-24T07:46:56+00:00"
+ },
+ {
   "id": "7445c78b0315",
   "title": "Liverpool news: Transfer to solve problem position eyed as Szoboszlai puts squad on notice",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
   "fee": null,
   "published": "2026-09-16T23:20:00+00:00"
- },
- {
-  "id": "83bc4d01a10f",
-  "title": "Hürzeler wechselt den Sieg ein: Brighton dreht 0:2 bei ManUnited",
-  "player": "Hove Albion",
-  "title_ko": "Hürzeler wechselt den Sieg ein: Brighton dreht 0: 2 bei ManUnited",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/manunited-gegen-brighton-2026-league-cup-5262770/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-09-16T21:19:16+00:00"
- },
- {
-  "id": "01e5c1ddb86a",
-  "title": "Sietan entschuldigt sich fürs Tor - und spricht nebulös über seinen RWE-Wechsel",
-  "player": "Klub Waldhof Mannheim",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/sietan-entschuldigt-sich-fuers-tor-und-spricht-nebuloes-ueber-seinen-rwe-wechsel-1253343/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-16T20:48:55+00:00"
  }
 ]
