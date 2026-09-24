@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c539478f489",
+  "title": "Man Utd complete Liverpool transfer coup after swooping for Man City youngster",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드, 맨시티 영스터 급습 후 리버풀 이적 쿠데타 완료",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-liverpool-transfer-konde-37699857",
+  "fee": null,
+  "published": "2026-09-24T19:00:48+00:00"
+ },
+ {
   "id": "79d0d606fb6c",
   "title": "Man of Steel nominee Miller agrees Leeds contract extension to 2028",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/petite-revolution-chez-les-equipementiers-kylian-mbappe-quitte-nike-et-signe-avec-la-marque-suisse-on_AN-202609180503.html",
   "fee": null,
   "published": "2026-09-18T12:26:36+00:00"
- },
- {
-  "id": "f463c93e00a1",
-  "title": "Gattuso explains why Lazio won’t sign Icardi as a free agent",
-  "player": "Gennaro Gattuso",
-  "title_ko": "가투소가 라치오가 이카르디와 자유 계약 선수로 계약하지 않는 이유를 설명합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gattuso-why-lazio-not-sign-icardi-free-agent/",
-  "fee": null,
-  "published": "2026-09-18T11:34:16+00:00"
  }
 ]
