@@ -1,5 +1,18 @@
 [
  {
+  "id": "ab199d659028",
+  "title": "Uefa fears impact of Premier League spending on transfer market",
+  "player": null,
+  "title_ko": "UEFA, 이적 시장에 프리미어리그 지출 영향 우려",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-24T22:09:28+00:00"
+ },
+ {
   "id": "5019308deb6a",
   "title": "Barcelona chief Deco makes JJ Gabriel transfer admission as Man Utd deadline approaches",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/martinez-wechselt-die-perspektive-so-werden-wir-viele-spiele-gewinnen-1253935/artikel#omrss",
   "fee": null,
   "published": "2026-09-18T13:43:19+00:00"
- },
- {
-  "id": "118f99361bed",
-  "title": "Openda: Juventus move ‘not a mistake’, Vlahovic ‘kept the ball to himself’",
-  "player": "Lois Openda",
-  "title_ko": "Openda: 유벤투스의 움직임은 ‘실수가 아니다’, 블라호비치는 ‘혼자 공을 지켰다’",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/openda-juventus-no-mistake-vlahovic-ball-him/",
-  "fee": null,
-  "published": "2026-09-18T13:36:46+00:00"
  }
 ]
