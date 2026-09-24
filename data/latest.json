@@ -1,5 +1,18 @@
 [
  {
+  "id": "a0888999f46b",
+  "title": "Arsenal news: Julian Alvarez transfer plot emerges as coach urges patience with star",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날 뉴스: 코치가 스타에 대한 인내심을 촉구하면서 Julian Alvarez 이적 계획이 등장합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-alvarez-max-dowman-37694140",
+  "fee": null,
+  "published": "2026-09-24T03:00:00+00:00"
+ },
+ {
   "id": "1788250238f1",
   "title": "Enzo Fernandez transfer statement made as Man City warning issued to Premier League rivals",
   "player": "Enzo Fernandez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-16T19:53:12+00:00"
- },
- {
-  "id": "757e9e130b99",
-  "title": "Video: David scored 2 goals in just 3 games for Atletico Madrid since Juventus loan",
-  "player": "Jonathan David",
-  "title_ko": "동영상: 데이비드는 유벤투스 임대 이후 아틀레티코 마드리드에서 단 3경기 만에 2골을 기록했습니다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/david-scored-atletico-madrid-juventus-loan/",
-  "fee": null,
-  "published": "2026-09-16T19:22:55+00:00"
  }
 ]
