@@ -1,5 +1,18 @@
 [
  {
+  "id": "2756eb2cee96",
+  "title": "Milan want Rabiot to commit to long-term contract and potentially see career out at San Siro",
+  "player": "San Siro",
+  "title_ko": "밀라노는 라비오트가 장기 계약을 맺고 잠재적으로 산 시로에서 경력을 쌓기를 원합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-want-rabiot-to-commit-long-term-contract/",
+  "fee": null,
+  "published": "2026-09-24T08:56:25+00:00"
+ },
+ {
   "id": "f33287f3b82b",
   "title": "DIRECT. Mercato: Rabiot bientôt prolongé ?",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-transfer-37669748",
   "fee": null,
   "published": "2026-09-17T03:30:00+00:00"
- },
- {
-  "id": "5ccfe6c7cf79",
-  "title": "Papers: Shaw may leave Man Utd next summer with no new deal in sight",
-  "player": null,
-  "title_ko": "논문: 쇼는 내년 여름 맨유를 떠날지도 모른다. 새로운 거래는 눈에 띄지 않는다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
-  "fee": null,
-  "published": "2026-09-16T23:20:00+00:00"
  }
 ]
