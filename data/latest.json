@@ -1,5 +1,18 @@
 [
  {
+  "id": "4d49af43d072",
+  "title": "Frosinone set asking price for Roma target Kvernadze",
+  "player": "Giorgi Kvernadze",
+  "title_ko": "로마 대상 Kvernadze에 대한 가격을 묻는 Frosinone 세트",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/frosinone-set-asking-price-for-kvernadze/",
+  "fee": null,
+  "published": "2026-09-24T14:01:23+00:00"
+ },
+ {
   "id": "b6e1ea3cf096",
   "title": "Unai Emery and Aston Villa stuck in loan agreement as they face 'embarrassing' repeat",
   "player": "Unai Emery",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
   "fee": null,
   "published": "2026-09-17T11:02:18+00:00"
- },
- {
-  "id": "3329fd0619f7",
-  "title": "Roma and Inter transfer spending compared as big Serie A clash looms",
-  "player": "Gian Piero Gasperini",
-  "title_ko": "빅 세리에 A 클래시 직기와 비교한 로마 및 인터 트랜스퍼 지출",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-inter-transfer-spending-compared-big-game/",
-  "fee": null,
-  "published": "2026-09-17T10:11:47+00:00"
  }
 ]
