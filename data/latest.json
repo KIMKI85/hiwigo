@@ -1,5 +1,18 @@
 [
  {
+  "id": "4b12e0a11f9e",
+  "title": "£50m Liverpool deal 'far from certain' as fan favourite clashes with FSG policy",
+  "player": "Ronald Araujo",
+  "title_ko": "팬들이 선호하는 FSG 정책과의 충돌로 인해 £ 50M 리버풀 거래가 '확실하지 않음'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-ronald-araujo-transfer-barcelona-37699630",
+  "fee": "£50M",
+  "published": "2026-09-24T17:09:51+00:00"
+ },
+ {
   "id": "7760614383b2",
   "title": "Ramos on Milan move: ‘The fans are incredible, I love feeling the support’",
   "player": "Goncalo Ramos",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
   "fee": null,
   "published": "2026-09-18T07:00:00+00:00"
- },
- {
-  "id": "202c2bf66b46",
-  "title": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 millions d'euros",
-  "player": "Kylian Mbappé",
-  "title_ko": "\"La qualité est là\", Kylian Mbappé au soutien de Yan Diomandé, critiqué après son transfert à 125 million d 'euros",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/la-qualite-est-la-kylian-mbappe-au-soutien-de-yan-diomande-critique-apres-son-transfert-a-125-millions-d-euros_AV-202609180072.html",
-  "fee": null,
-  "published": "2026-09-18T04:07:27+00:00"
  }
 ]
