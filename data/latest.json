@@ -1,5 +1,18 @@
 [
  {
+  "id": "7e10d4ca3e8f",
+  "title": "Liverpool news: Bradley Barcola 'not worth the money' as Real Madrid transfer fight emerges",
+  "player": "Bradley Barcola",
+  "title_ko": "리버풀 뉴스: 레알 마드리드 이적 싸움이 벌어지면서 브래들리 바콜라가 '돈을 아끼지 않는다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-real-madrid-37698287",
+  "fee": null,
+  "published": "2026-09-25T04:00:00+00:00"
+ },
+ {
   "id": "ab199d659028",
   "title": "Uefa fears impact of Premier League spending on transfer market",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-18T17:39:15+00:00"
- },
- {
-  "id": "d9b4128726cb",
-  "title": "JJ Gabriel flies in for transfer talks with Barcelona after Man Utd quit bombshell",
-  "player": "Old Trafford",
-  "title_ko": "맨유가 폭탄주를 그만둔 후 JJ 가브리엘이 바르셀로나와 이적 협상을 위해 날아온다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-37678321",
-  "fee": null,
-  "published": "2026-09-18T14:59:12+00:00"
  }
 ]
