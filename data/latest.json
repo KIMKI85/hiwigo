@@ -1,5 +1,18 @@
 [
  {
+  "id": "92eff607a470",
+  "title": "Serie A proposal accepted to open January transfer window on December 28",
+  "player": null,
+  "title_ko": "세리에 A 제안이 수락되어 12월 28일에 1월 이적 창이 열립니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/serie-a-january-transfer-window-on-december-28/",
+  "fee": null,
+  "published": "2026-09-25T16:09:55+00:00"
+ },
+ {
   "id": "a982a4da1b05",
   "title": "Possible vente du FC Nantes: un deal en question(s)",
   "player": "Paulo Tavares",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/live-west-duell-in-aachen-fuenf-wechsel-beim-vfb-ii-bundesliga-profi-prass-startet-fuer-hoffenheim-ii-1253446/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-19T11:03:16+00:00"
- },
- {
-  "id": "019132618237",
-  "title": "LIVE! West-Duell in Aachen - Fünf Wechsel bei Stuttgart II - Petersson zurück im TSG-Tor",
-  "player": "Fünf Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-west-duell-in-aachen-fuenf-wechsel-bei-stuttgart-ii-petersson-zurueck-im-tsg-tor-1253446/artikel#omrss",
   "fee": null,
   "published": "2026-09-19T11:03:16+00:00"
  }
