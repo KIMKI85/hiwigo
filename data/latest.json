@@ -1,5 +1,18 @@
 [
  {
+  "id": "29e67c7c514c",
+  "title": "Crystal Palace chief sends Liverpool pointed message after blocking Ismaila Sarr transfer",
+  "player": "Ismaila Sarr",
+  "title_ko": "크리스탈 팰리스 수석이 이스마일라 사르 이동을 차단한 후 리버풀 뾰족한 메시지를 보냅니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-crystal-palace-37702105",
+  "fee": null,
+  "published": "2026-09-25T12:00:32+00:00"
+ },
+ {
   "id": "ecdbc82dd889",
   "title": "Premier League joins call for Fifa reforms",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-18T21:30:38+00:00"
- },
- {
-  "id": "b4250b4821fb",
-  "title": "Bergstrom and Endemann on target as Liverpool come from behind to lead Man City",
-  "player": "Alice Bergstrom",
-  "title_ko": "리버풀이 맨시티를 이끌기 위해 뒤에서 오는 동안 목표물에 버그스트롬과 엔데만",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13589441/wsl-alice-bergstrom-and-vivien-endemann-on-target-as-liverpool-come-from-behind-to-lead-manchester-city",
-  "fee": null,
-  "published": "2026-09-18T19:33:00+00:00"
  }
 ]
