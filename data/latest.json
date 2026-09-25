@@ -13,6 +13,19 @@
   "published": "2026-09-25T17:32:00+00:00"
  },
  {
+  "id": "12f8ed3365fe",
+  "title": "Mancini contract among 115 Manchester City charges in financial scandal",
+  "player": "Roberto Mancini",
+  "title_ko": "맨체스터 시티 금융 스캔들 혐의 115건 중 맨시니 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mancini-115-manchester-city-charges-scandal/",
+  "fee": null,
+  "published": "2026-09-25T17:24:58+00:00"
+ },
+ {
   "id": "92eff607a470",
   "title": "Serie A proposal accepted to open January transfer window on December 28",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/watch/video/13589644/chelsea-2-0-birmingham-city-womens-super-league-highlights",
   "fee": null,
   "published": "2026-09-19T14:41:00+00:00"
- },
- {
-  "id": "3c3c4efa07e2",
-  "title": "LIVE! Saarbrücken tut sich schwer - Giannikis wechselt dreifach",
-  "player": "Am Samstagnachmittag",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/saarbruecken-gegen-grossaspach-2026-liga-5233280/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-09-19T14:17:47+00:00"
  }
 ]
