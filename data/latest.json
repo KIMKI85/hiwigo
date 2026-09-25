@@ -1,5 +1,18 @@
 [
  {
+  "id": "a982a4da1b05",
+  "title": "Possible vente du FC Nantes: un deal en question(s)",
+  "player": "Paulo Tavares",
+  "title_ko": "Possible vente du FC Nantes: un deal en question (s)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-2/possible-vente-du-fc-nantes-un-deal-en-question-s_AV-202609250643.html",
+  "fee": null,
+  "published": "2026-09-25T15:38:44+00:00"
+ },
+ {
   "id": "c1b289e254e7",
   "title": "Man City inquiry moves to appeal stage amid reports majority of PL charges 'proven'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-west-duell-in-aachen-fuenf-wechsel-bei-stuttgart-ii-petersson-zurueck-im-tsg-tor-1253446/artikel#omrss",
   "fee": null,
   "published": "2026-09-19T11:03:16+00:00"
- },
- {
-  "id": "ce6d097cdbef",
-  "title": "LIVE! Ungeschlagener FCN ohne Wechsel - Vier Neue beim FCK - Kiel unter Druck",
-  "player": "Vier Neue",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-ungeschlagener-fcn-ohne-wechsel-vier-neue-beim-fck-kiel-unter-druck-1253482/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-19T10:01:25+00:00"
  }
 ]
