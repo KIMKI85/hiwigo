@@ -1,5 +1,18 @@
 [
  {
+  "id": "e5745fbe07cc",
+  "title": "Javier Aguirre pulveriza el reloj del tiempo en el banquillo del Valencia: a sus 67 años supera los fichajes de Prandelli y Bordalás",
+  "player": "Javier Aguirre",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/09/25/javier-aguirre-pulveriza-reloj-banquillo-valencia-67-anos-supera-fichajes-prandelli-bordalas.html",
+  "fee": null,
+  "published": "2026-09-25T14:07:05+00:00"
+ },
+ {
   "id": "b53012adb2e6",
   "title": "Premier League official retires on medical grounds as statement released",
   "player": "Dan Robathan",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/valencia/2026/09/19/acuerdo-tacito-valencia-javier-aguirre-faltan-detalles-firma.html",
   "fee": null,
   "published": "2026-09-19T07:35:22+00:00"
- },
- {
-  "id": "d773025a645e",
-  "title": "Liverpool news: Reds told to stump up £130m as club left 'surprised' by transfer development",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 레즈는 이적 개발에 의해 클럽이 '놀랐다' 고 떠남에 따라 £ 130M를 헤매라고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rayan-bournemouth-andoni-iraola-37678622",
-  "fee": "£130M",
-  "published": "2026-09-19T04:00:00+00:00"
  }
 ]
