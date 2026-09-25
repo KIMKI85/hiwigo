@@ -1,5 +1,18 @@
 [
  {
+  "id": "5b4f88cdc912",
+  "title": "Petit Poucet de la Coupe du monde, le Curaçao signe une folle remontée contre le Costa Rica",
+  "player": "Petit Poucet",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/petit-poucet-de-la-coupe-du-monde-le-curacao-signe-une-folle-remontee-contre-le-costa-rica_AV-202609250313.html",
+  "fee": null,
+  "published": "2026-09-25T07:28:23+00:00"
+ },
+ {
   "id": "7e10d4ca3e8f",
   "title": "Liverpool news: Bradley Barcola 'not worth the money' as Real Madrid transfer fight emerges",
   "player": "Bradley Barcola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-malacia-cincinnati-37679053",
   "fee": null,
   "published": "2026-09-18T18:29:01+00:00"
- },
- {
-  "id": "ea32140147d0",
-  "title": "Former Man Utd left-back Malacia joins FC Cincinnati",
-  "player": "Tyrell Malacia",
-  "title_ko": "전 맨유 좌익수 말라시아, FC 신시내티 입단",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-18T17:39:15+00:00"
  }
 ]
