@@ -1,5 +1,18 @@
 [
  {
+  "id": "0ffabe99e733",
+  "title": "LIVE! Türkei in Unterzahl - und offensivem Wechsel",
+  "player": "Zinedine Zidane",
+  "title_ko": "운터잘의 라이브! 튀르케이 - 불쾌한 웩셀",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-tuerkei-in-unterzahl-und-offensivem-wechsel-1255624/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-25T20:37:21+00:00"
+ },
+ {
   "id": "7a7b7da89f68",
   "title": "Brentford hold Schade contract talks as Arsenal, Liverpool track Germany winger",
   "player": "Kevin Schade",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/newcastle-united-vs-hull-city/report/559491",
   "fee": null,
   "published": "2026-09-19T17:25:00+00:00"
- },
- {
-  "id": "90aedcc071b4",
-  "title": "Potter and Malard on target as Chelsea see off Birmingham",
-  "player": "Women's Super",
-  "title_ko": "버밍엄에서 첼시가 바라보는 포터와 말라드의 표적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13589644/chelsea-2-0-birmingham-city-womens-super-league-highlights",
-  "fee": null,
-  "published": "2026-09-19T14:41:00+00:00"
  }
 ]
