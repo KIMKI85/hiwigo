@@ -52,6 +52,19 @@
   "published": "2026-09-25T15:20:00+00:00"
  },
  {
+  "id": "64eb2a8fa05e",
+  "title": "Manchester City timeline: trophies, transfers and more than 100 charges",
+  "player": "Sheikh Mansour-led",
+  "title_ko": "맨체스터 시티 타임라인: 트로피, 이적 및 100회 이상 청구",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges",
+  "fee": null,
+  "published": "2026-09-25T14:58:12+00:00"
+ },
+ {
   "id": "e5745fbe07cc",
   "title": "Javier Aguirre pulveriza el reloj del tiempo en el banquillo del Valencia: a sus 67 años supera los fichajes de Prandelli y Bordalás",
   "player": "Javier Aguirre",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
   "fee": null,
   "published": "2026-09-19T12:11:00+00:00"
- },
- {
-  "id": "d07871736bae",
-  "title": "LIVE! Aachens Scepanik veredelt Traumflanke - VfB wechselt früh, aber Regensburg erhöht",
-  "player": "Aachens Scepanik",
-  "title_ko": "LIVE! Aachens Scepanik veredelt Traumflanke - VfB wechselt früh, Aber Regensburg erhöht",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-aachens-scepanik-veredelt-traumflanke-vfb-wechselt-frueh-aber-regensburg-erhoeht-1253446/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-19T12:04:14+00:00"
  }
 ]
