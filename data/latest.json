@@ -1,5 +1,31 @@
 [
  {
+  "id": "652d20a0eec9",
+  "title": "Mit Nübel gegen Griechenland? Wechsel im DFB-Tor bahnt sich an",
+  "player": "Mit Nübel",
+  "title_ko": "MIT Nübel gegen Griechenland? Wechsel im DFB-Tor bahnt sich an",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/mit-nuebel-gegen-griechenland-wechsel-im-dfb-tor-bahnt-sich-an-1256083/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-26T10:08:58+00:00"
+ },
+ {
+  "id": "eb5fa19cafa4",
+  "title": "Spätfolgen aus En-Nesyri-Deal: FIFA verhängt Transfersperre gegen Fenerbahce",
+  "player": "Stand Samstag",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/spaetfolgen-aus-en-nesyri-deal-fifa-verhaengt-transfersperre-gegen-fenerbahce-1256084/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-26T10:08:37+00:00"
+ },
+ {
   "id": "29e5e15dcb46",
   "title": "Poca participación de los fichajes",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
   "fee": null,
   "published": "2026-09-19T22:30:00+00:00"
- },
- {
-  "id": "6fdbfb9f0431",
-  "title": "Barcelona chief fires fresh Julian Alvarez jibe after Arsenal transfer claim",
-  "player": "Julian Alvarez",
-  "title_ko": "바르셀로나 수석이 아스날 이적 청구 후 신선한 줄리안 알바레스 지베를 발사하다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/julian-alvarez-transfer-arsenal-barcelona-37681237",
-  "fee": null,
-  "published": "2026-09-19T21:48:53+00:00"
- },
- {
-  "id": "530b98ad09ed",
-  "title": "Arsenal may move for Endrick in January - Sunday's gossip",
-  "player": null,
-  "title_ko": "1월에 엔드릭을 위해 무기고를 옮길 수도 있습니다 - 일요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-19T21:39:38+00:00"
  }
 ]
