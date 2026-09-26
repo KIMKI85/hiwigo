@@ -1,5 +1,18 @@
 [
  {
+  "id": "ce83665b76bd",
+  "title": "Man Utd news: Barcelona make position clear on JJ Gabriel and academy star signs pro contract",
+  "player": null,
+  "title_ko": "맨유 소식: 바르셀로나는 JJ 가브리엘에 대한 입장을 분명히 하고 아카데미 스타는 프로 계약을 체결합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-contract-37703414",
+  "fee": null,
+  "published": "2026-09-26T03:30:00+00:00"
+ },
+ {
   "id": "2525b301027b",
   "title": "Arsenal news: Mikel Arteta's assistant names huge transfer target as Kai Havertz latest emerges",
   "player": "Mikel Arteta's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-mikel-arteta-noni-madueke-37681191",
   "fee": null,
   "published": "2026-09-19T20:39:52+00:00"
- },
- {
-  "id": "8db14776d744",
-  "title": "Hannover macht Wagner-Deal offiziell: \"Außergewöhnlich gut vorbereitet\"",
-  "player": "Geschäftsführer Sport Jonas",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/hannover-macht-wagner-deal-offiziell-aussergewoehnlich-gut-vorbereitet-1254292/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-19T18:27:29+00:00"
  }
 ]
