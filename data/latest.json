@@ -1,5 +1,18 @@
 [
  {
+  "id": "45a96f1f5f39",
+  "title": "Juventus plotting Douglas Luiz contract extension after promising 2026-27 return",
+  "player": "Douglas Luiz",
+  "title_ko": "유벤투스는 2026-27년 복귀를 약속한 후 더글러스 루이즈의 계약 연장을 계획하고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-plotting-douglas-luiz-new-contract/",
+  "fee": null,
+  "published": "2026-09-26T12:26:07+00:00"
+ },
+ {
   "id": "5c51bb18f8f5",
   "title": "Report Neto will have Juventus medical on September 27",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-victor-munoz-barcola-anfield-37681597",
   "fee": null,
   "published": "2026-09-20T08:42:06+00:00"
- },
- {
-  "id": "acfede41fb4d",
-  "title": "I came close to joining Liverpool and Man Utd – it took me six years to finally make the move",
-  "player": null,
-  "title_ko": "리버풀과 맨유에 입단하기 직전이었습니다. 마침내 이적하기까지 6년이 걸렸습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-transfer-fulham-37669420",
-  "fee": null,
-  "published": "2026-09-20T03:45:00+00:00"
  }
 ]
