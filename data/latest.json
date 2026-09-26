@@ -1,5 +1,18 @@
 [
  {
+  "id": "5bd97e4e4077",
+  "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
+  "player": "Barcelona's Olmo",
+  "title_ko": "바이에른, 바르셀로나의 올모를 겨냥하다 - 일요일의 험담",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-26T20:54:18+00:00"
+ },
+ {
   "id": "d23aca87c76f",
   "title": "Report Van Dijk ‘will join Milan sooner or later’ as free agent from Liverpool in 2027",
   "player": "Van Dijk",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-man-utd-future-37682283",
   "fee": null,
   "published": "2026-09-20T14:26:03+00:00"
- },
- {
-  "id": "8a78b02f21a5",
-  "title": "LIVE! Fünf Wechsel bei Bayer, RB ohne Lukeba",
-  "player": "Fünf Wechsel",
-  "title_ko": "라이브! Fünf Wechsel bei Bayer, RB ohne Lukeba",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-fuenf-wechsel-bei-bayer-rb-ohne-lukeba-1253562/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-20T12:32:07+00:00"
  }
 ]
