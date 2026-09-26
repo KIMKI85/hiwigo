@@ -1,5 +1,18 @@
 [
  {
+  "id": "d23aca87c76f",
+  "title": "Report Van Dijk ‘will join Milan sooner or later’ as free agent from Liverpool in 2027",
+  "player": "Van Dijk",
+  "title_ko": "반 데이크가 2027년 리버풀에서 자유 계약 선수로 ’조만간 밀라노에 합류할 것' 이라고 보고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/van-dijk-milan-sooner-or-later-liverpool-2027/",
+  "fee": null,
+  "published": "2026-09-26T16:00:26+00:00"
+ },
+ {
   "id": "370e958178ea",
   "title": "Manchester City maintain innocence as focus grows on Mancini double contract",
   "player": "Khaldoon Al Mubarak",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-guimaraes-konsa-brighton-37681276",
   "fee": null,
   "published": "2026-09-20T11:00:00+00:00"
- },
- {
-  "id": "a4f8a64f736f",
-  "title": "Juventus plan €50m Carnesecchi move as Inter and Premier League clubs circle",
-  "player": "Marco Carnesecchi",
-  "title_ko": "유벤투스는 인터 및 프리미어 리그 클럽이 원을 그리면서 € 50M 카네세키를 계획합니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-plan-50m-carnesecchi-move/",
-  "fee": "€50M",
-  "published": "2026-09-20T09:20:00+00:00"
  }
 ]
