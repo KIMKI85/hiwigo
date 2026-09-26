@@ -1,5 +1,18 @@
 [
  {
+  "id": "370e958178ea",
+  "title": "Manchester City maintain innocence as focus grows on Mancini double contract",
+  "player": "Khaldoon Al Mubarak",
+  "title_ko": "맨체스터 시티는 맨시니 더블 계약에 대한 관심이 커짐에 따라 무죄를 유지합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/manchester-city-innocence-mancini-contract/",
+  "fee": null,
+  "published": "2026-09-26T14:31:51+00:00"
+ },
+ {
   "id": "45a96f1f5f39",
   "title": "Juventus plotting Douglas Luiz contract extension after promising 2026-27 return",
   "player": "Douglas Luiz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-plan-50m-carnesecchi-move/",
   "fee": "€50M",
   "published": "2026-09-20T09:20:00+00:00"
- },
- {
-  "id": "c3d83fd94267",
-  "title": "Victor Munoz speaks out about Liverpool team-mates as he admits being shocked after move",
-  "player": "Victor Munoz",
-  "title_ko": "빅터 무노즈 (Victor Munoz) 가 리버풀 팀 동료에 대해 이야기하며 이사 후 충격을 받았다고 인정합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-victor-munoz-barcola-anfield-37681597",
-  "fee": null,
-  "published": "2026-09-20T08:42:06+00:00"
  }
 ]
