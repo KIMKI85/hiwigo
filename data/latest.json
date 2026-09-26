@@ -1,5 +1,31 @@
 [
  {
+  "id": "5c51bb18f8f5",
+  "title": "Report Neto will have Juventus medical on September 27",
+  "player": null,
+  "title_ko": "보고서 네토는 9월 27일에 유벤투스의 의료 서비스를 받을 예정입니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-neto-will-have-juventus-medical-sep-27/",
+  "fee": null,
+  "published": "2026-09-26T12:06:47+00:00"
+ },
+ {
+  "id": "2fdbcbab617e",
+  "title": "Mit Nübel gegen Griechenland: Klopp nimmt Wechsel im DFB-Tor vor",
+  "player": "Mit Nübel",
+  "title_ko": "MIT Nübel gegen Griechenland: Klopp nimmt Wechsel im DFB-Tor vor",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/mit-nuebel-gegen-griechenland-klopp-nimmt-wechsel-im-dfb-tor-vor-1256083/artikel#omrss",
+  "fee": null,
+  "published": "2026-09-26T10:08:58+00:00"
+ },
+ {
   "id": "652d20a0eec9",
   "title": "Mit Nübel gegen Griechenland? Wechsel im DFB-Tor bahnt sich an",
   "player": "Mit Nübel",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-transfer-fulham-37669420",
   "fee": null,
   "published": "2026-09-20T03:45:00+00:00"
- },
- {
-  "id": "b9aa153b054c",
-  "title": "Arsenal news: Max Dowman could leave on loan as manager speaks out about wonderkid",
-  "player": "Max Dowman",
-  "title_ko": "무기고 뉴스: Max Dowman은 매니저가 wonderkid에 대해 말하면서 임대를 떠날 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-wonderkid-transfers-max-dowman-37680175",
-  "fee": null,
-  "published": "2026-09-20T03:00:00+00:00"
- },
- {
-  "id": "baf328b51b14",
-  "title": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
-  "player": null,
-  "title_ko": "논문: I 'm A Celebrity에 가입하기 위해 설정된 맨유의 전설",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 5,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
-  "fee": null,
-  "published": "2026-09-19T22:30:00+00:00"
  }
 ]
