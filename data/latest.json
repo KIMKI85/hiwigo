@@ -1,5 +1,18 @@
 [
  {
+  "id": "2525b301027b",
+  "title": "Arsenal news: Mikel Arteta's assistant names huge transfer target as Kai Havertz latest emerges",
+  "player": "Mikel Arteta's",
+  "title_ko": "무기고 뉴스: Mikel Arteta의 조수가 Kai Havertz가 최근 등장함에 따라 거대한 이적 목표를 명명합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-kai-havertz-37702468",
+  "fee": null,
+  "published": "2026-09-26T03:00:00+00:00"
+ },
+ {
   "id": "64e7a9d6ad1f",
   "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/hannover-macht-wagner-deal-offiziell-aussergewoehnlich-gut-vorbereitet-1254292/artikel#omrss",
   "fee": null,
   "published": "2026-09-19T18:27:29+00:00"
- },
- {
-  "id": "101bc3a89389",
-  "title": "The free agent goalkeepers Juventus could sign after Grabara blow",
-  "player": "Kamil Grabara",
-  "title_ko": "프리 에이전트 골키퍼 유벤투스는 그라바라 타격 후 계약할 수 있었다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/the-free-agent-goalkeepers-juventus-could-sign/",
-  "fee": null,
-  "published": "2026-09-19T17:45:21+00:00"
  }
 ]
