@@ -1,5 +1,18 @@
 [
  {
+  "id": "743fae35630b",
+  "title": "Official: Italy international Scalvini extends Atalanta contract",
+  "player": "Giorgio Scalvini",
+  "title_ko": "공식: 이탈리아 국제 스칼비니, 아탈란타 계약 연장",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-italy-scalvini-new-atalanta-contract/",
+  "fee": null,
+  "published": "2026-09-27T10:09:46+00:00"
+ },
+ {
   "id": "4b4fa43ea90c",
   "title": "LIVE!-Blog zum Griechenland-Spiel: Mehrere Startelf-Wechsel zu erwarten",
   "player": "Mehrere Startelf-",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-chelsea-37682711",
   "fee": null,
   "published": "2026-09-20T18:30:00+00:00"
- },
- {
-  "id": "b4d662e3f372",
-  "title": "Jamie Carragher talks up two Liverpool transfers who could follow Andoni Iraola",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거 (Jamie Carragher) 는 안도니 이라올라 (Andoni Iraola) 를 따라갈 수있는 두 명의 리버풀 이적에 대해 이야기합니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-targets-jamie-carragher-iraola-37682376",
-  "fee": null,
-  "published": "2026-09-20T15:01:55+00:00"
  }
 ]
