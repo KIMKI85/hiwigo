@@ -1,5 +1,18 @@
 [
  {
+  "id": "1dbfc0020e31",
+  "title": "Goncalves on Fiorentina move: ‘I said yes to them in an instant’",
+  "player": "Pedro Goncalves",
+  "title_ko": "피오렌티나의 곤칼베스 무브: ‘나는 순식간에 그들에게 찬성했다’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/goncalves-on-fiorentina-move/",
+  "fee": null,
+  "published": "2026-09-27T18:45:00+00:00"
+ },
+ {
   "id": "83505f75b4e6",
   "title": "Napoli reach agreement to extend Rrahmani contract until 2029",
   "player": "Amir Rrahmani",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-21-septembre-2026-en-live_LN-202609210280.html",
   "fee": null,
   "published": "2026-09-21T07:23:53+00:00"
- },
- {
-  "id": "7cacefa2a380",
-  "title": "Liverpool news: Victor Munoz reveals surprise as Reds star told to show he deserves new deal",
-  "player": "Victor Munoz",
-  "title_ko": "리버풀 뉴스: 빅터 무노즈 (Victor Munoz) 가 레즈 스타가 새로운 거래를 할 자격이 있음을 보여주라고 말하면서 놀라움을 드러냈다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-victor-munoz-andoni-iraola-37682148",
-  "fee": null,
-  "published": "2026-09-21T04:00:00+00:00"
  }
 ]
