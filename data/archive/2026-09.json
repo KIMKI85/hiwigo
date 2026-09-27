@@ -1,5 +1,31 @@
 [
  {
+  "id": "2fb55479819d",
+  "title": "Video: Neto lands in Turin to complete Juventus transfer",
+  "player": null,
+  "title_ko": "화면: 네토가 토리노에 상륙하여 유벤투스 이적 완료",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-neto-lands-turin-juventus-transfer-2027/",
+  "fee": null,
+  "published": "2026-09-27T10:57:31+00:00"
+ },
+ {
+  "id": "9c6611e11429",
+  "title": "Erling Haaland's dad admitted his son could leave Man City and named six clubs he could join",
+  "player": "Erling Haaland's",
+  "title_ko": "Erling Haaland의 아빠는 아들이 맨시티를 떠날 수 있음을 인정하고 가입할 수 있는 6개의 클럽을 지명했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-contract-37706655",
+  "fee": null,
+  "published": "2026-09-27T10:52:55+00:00"
+ },
+ {
   "id": "743fae35630b",
   "title": "Official: Italy international Scalvini extends Atalanta contract",
   "player": "Giorgio Scalvini",
