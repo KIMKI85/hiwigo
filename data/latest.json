@@ -1,5 +1,18 @@
 [
  {
+  "id": "2bdd652ab53d",
+  "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
+  "player": "Bruno Fernandes",
+  "title_ko": "국제 브레이크 부상자 명단에 오른 페르난데스, 각포, 도르구",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-27T19:05:33+00:00"
+ },
+ {
   "id": "1dbfc0020e31",
   "title": "Goncalves on Fiorentina move: ‘I said yes to them in an instant’",
   "player": "Pedro Goncalves",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/frosinone-2-0-como-good-sign-italian-football/",
   "fee": null,
   "published": "2026-09-21T09:44:56+00:00"
- },
- {
-  "id": "e0c059943461",
-  "title": "DIRECT. Mercato: suivez les infos et rumeurs sur le marché des transferts du 21 septembre 2026 en live",
-  "player": null,
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-21-septembre-2026-en-live_LN-202609210280.html",
-  "fee": null,
-  "published": "2026-09-21T07:23:53+00:00"
  }
 ]
