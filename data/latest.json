@@ -1,5 +1,18 @@
 [
  {
+  "id": "30637b6fd023",
+  "title": "Video: Mancini responds to allegations of double Man City contract",
+  "player": "Roberto Mancini",
+  "title_ko": "화면: 맨시티 이중 계약 의혹에 대응한 맨시니",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mancini-responds-double-man-city-contract/",
+  "fee": null,
+  "published": "2026-09-28T12:19:21+00:00"
+ },
+ {
   "id": "f0f4c3b3d7f8",
   "title": "Parma agree deal with Gilardino as Italy World Cup winner set to return as coach",
   "player": "Italy World",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-alexis-mac-allister-contract-37687779",
   "fee": null,
   "published": "2026-09-22T08:34:52+00:00"
- },
- {
-  "id": "2e61e0634625",
-  "title": "Inter ready to welcome Spence back after Tottenham move",
-  "player": "Djed Spence",
-  "title_ko": "인테르는 토트넘 이주 후 스펜스를 다시 맞이할 준비가 되었습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-ready-to-welcome-spence-back-after-tottenham-move/",
-  "fee": null,
-  "published": "2026-09-22T08:02:12+00:00"
  }
 ]
