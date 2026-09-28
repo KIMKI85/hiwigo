@@ -1,5 +1,18 @@
 [
  {
+  "id": "33ed468b9578",
+  "title": "Official: Juventus re-sign Neto as Grabara replacement",
+  "player": "Norberto Neto",
+  "title_ko": "공식: 유벤투스, 그라바라 대신 네토 재계약",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-neto-returns-to-juventus/",
+  "fee": null,
+  "published": "2026-09-28T14:38:32+00:00"
+ },
+ {
   "id": "8d526f5bb7be",
   "title": "Report: Juventus join race for Inter veteran Calhanoglu",
   "player": "Hakan Calhanoglu",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-florian-wirtz-100m-transfers-37688669",
   "fee": "£100M",
   "published": "2026-09-22T11:41:07+00:00"
- },
- {
-  "id": "6bd989cd3af5",
-  "title": "Totti reveals the two Serie A clubs that wanted to sign him after retirement",
-  "player": "Francesco Totti",
-  "title_ko": "토티가 은퇴 후 그를 영입하고 싶었던 두 세리에 A 구단을 공개하다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/totti-2-serie-a-clubs-sign-after-retirement/",
-  "fee": null,
-  "published": "2026-09-22T08:42:36+00:00"
  }
 ]
