@@ -1,5 +1,18 @@
 [
  {
+  "id": "dbb8cfbaee9d",
+  "title": "Mercato: en grande forme avec le Portugal et Al-Nassr, Joao Felix a \"vraiment hâte de revenir en Europe\"",
+  "player": "Joao Felix",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-en-grande-forme-avec-le-portugal-et-al-nassr-joao-felix-a-vraiment-hate-de-revenir-en-europe_AV-202609280719.html",
+  "fee": null,
+  "published": "2026-09-28T17:18:10+00:00"
+ },
+ {
   "id": "33ed468b9578",
   "title": "Official: Juventus re-sign Neto as Grabara replacement",
   "player": "Norberto Neto",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/torino-prioritise-che-adams-renewal/",
   "fee": null,
   "published": "2026-09-22T11:45:00+00:00"
- },
- {
-  "id": "5313dc5aa5fe",
-  "title": "Do £100m transfers work? Liverpool hit major hurdle as record deals come under fire",
-  "player": "Florian Wirtz's",
-  "title_ko": "£ 100M 이체가 가능한가요? 기록적인 거래가 성사되면서 리버풀은 큰 걸림돌을 맞았습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-florian-wirtz-100m-transfers-37688669",
-  "fee": "£100M",
-  "published": "2026-09-22T11:41:07+00:00"
  }
 ]
