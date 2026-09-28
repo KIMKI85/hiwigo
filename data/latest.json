@@ -1,5 +1,18 @@
 [
  {
+  "id": "4f3f9b8003fa",
+  "title": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
+  "player": "Roberto Mancini",
+  "title_ko": "맨시니는 ‘이중‘ 맨체스터 시티 계약을 지칭하며 '내 문제가 아니다‘ 라고 말합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+  "fee": null,
+  "published": "2026-09-28T09:19:04+00:00"
+ },
+ {
   "id": "a8d7dc65a69f",
   "title": "Gary Neville reveals Man Utd's worst signing since Sir Alex left - 'That was a bad one'",
   "player": "Gary Neville",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-bournemouth-transfers-37685246",
   "fee": null,
   "published": "2026-09-22T04:00:00+00:00"
- },
- {
-  "id": "aea58f699264",
-  "title": "Man Utd line up 'next JJ Gabriel' as replacement after transfer request made",
-  "player": "Old Trafford",
-  "title_ko": "맨체스터 유나이티드, 이적 요청 후 'NEXT JJ GABRIEL' 라인업 교체",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-jj-gabriel-replacement-37686990",
-  "fee": null,
-  "published": "2026-09-21T20:14:52+00:00"
  }
 ]
