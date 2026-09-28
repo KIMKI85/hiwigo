@@ -1,5 +1,18 @@
 [
  {
+  "id": "a8d7dc65a69f",
+  "title": "Gary Neville reveals Man Utd's worst signing since Sir Alex left - 'That was a bad one'",
+  "player": "Gary Neville",
+  "title_ko": "게리 네빌 (Gary Neville) 이 알렉스 경이 떠난 이후 맨유의 최악의 계약을 공개합니다 - '나쁜 계약이었습니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/gary-neville-man-utd-transfers-37708671",
+  "fee": null,
+  "published": "2026-09-28T07:42:17+00:00"
+ },
+ {
   "id": "eff39f6d43b1",
   "title": "Makhanya price tag soars after Rangers move - gossip",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-united-jj-gabriel-replacement-37686990",
   "fee": null,
   "published": "2026-09-21T20:14:52+00:00"
- },
- {
-  "id": "a6c14381eff5",
-  "title": "Ex-Man Utd star in talks over Russia move after rejecting crazy offer from Libya",
-  "player": null,
-  "title_ko": "리비아의 미친 제안을 거부 한 후 러시아를 둘러싼 회담에서 전 맨유 스타가 움직입니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/united-man-utd-anthony-martial-37687002",
-  "fee": null,
-  "published": "2026-09-21T20:06:19+00:00"
  }
 ]
