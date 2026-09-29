@@ -1,5 +1,18 @@
 [
  {
+  "id": "36398fcce20c",
+  "title": "Arsenal news: Erling Haaland transfer stance as secret clause confirmed in hero's contract",
+  "player": "Erling Haaland",
+  "title_ko": "아스날 뉴스: 영웅의 계약에서 확인된 비밀 조항으로 Erling Haaland 이적 스탠스",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-erling-haaland-fabregas-37710330",
+  "fee": null,
+  "published": "2026-09-29T03:00:00+00:00"
+ },
+ {
   "id": "d5786f81dcf1",
   "title": "Fifa: \"L'ambition est la bienvenue\": Gianni Infantino prêt à redistribuer davantage aux fédérations",
   "player": "Gianni Infantino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-new-arsenal-contract-37689248",
   "fee": null,
   "published": "2026-09-22T11:55:29+00:00"
- },
- {
-  "id": "73ea6f5151ac",
-  "title": "Arteta agrees new deal with champions Arsenal",
-  "player": "Mikel Arteta",
-  "title_ko": "아르테타, 챔피언 아스날과 새로운 거래 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-22T11:48:23+00:00"
  }
 ]
