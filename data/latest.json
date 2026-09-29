@@ -1,5 +1,18 @@
 [
  {
+  "id": "a9cb1618a74e",
+  "title": "Man Utd news: Transfer confirmed as Michael Carrick urged to raid rivals for £142m duo",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 소식: 마이클 캐릭이 £ 142M 듀오를 위해 라이벌을 습격할 것을 촉구함에 따라 이적 확정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-liverpool-city-37711193",
+  "fee": "£142M",
+  "published": "2026-09-29T03:30:00+00:00"
+ },
+ {
   "id": "36398fcce20c",
   "title": "Arsenal news: Erling Haaland transfer stance as secret clause confirmed in hero's contract",
   "player": "Erling Haaland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-jj-gabriel-37689052",
   "fee": null,
   "published": "2026-09-22T12:18:00+00:00"
- },
- {
-  "id": "155f1ab89d06",
-  "title": "Mikel Arteta 'receives bumper pay rise' as Arsenal boss reaches new contract agreement",
-  "player": "Mikel Arteta",
-  "title_ko": "Mikel Arteta는 Arsenal 보스가 새로운 계약 계약에 도달함에 따라 '범퍼 페이 상승' 을받습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-new-arsenal-contract-37689248",
-  "fee": null,
-  "published": "2026-09-22T11:55:29+00:00"
  }
 ]
