@@ -1,5 +1,18 @@
 [
  {
+  "id": "f6725fc86956",
+  "title": "Premier League: \"Ça va prendre encore beaucoup de temps\", reconnu coupable d’infractions financières, Manchester City prêt à se défendre jusqu’à bout",
+  "player": "Ferran Soriano",
+  "title_ko": "프리미어 리그: \"Ça va prendre encore beaucoup de temps\", reconnu coupable d 'infractions financières, Manchester City prêt à se défendre jusqu' à bout",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/premier-league/premier-league-ca-va-prendre-encore-beaucoup-de-temps-reconnu-coupable-d-infractions-financieres-manchester-city-pret-a-se-defendre-jusqu-a-bout_AV-202609290316.html",
+  "fee": null,
+  "published": "2026-09-29T08:10:11+00:00"
+ },
+ {
   "id": "88636fcadf00",
   "title": "Beitia y Marchal, los otros 'fichajes'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-joueur-le-plus-riche-du-monde-se-retrouve-sans-club_AN-202609220579.html",
   "fee": null,
   "published": "2026-09-22T14:08:25+00:00"
- },
- {
-  "id": "9c678749c838",
-  "title": "Lewis Hall says it was a 'no-brainer' to snub Man Utd despite transfer interest",
-  "player": "Lewis Hall",
-  "title_ko": "루이스 홀 (Lewis Hall) 은 이적 이자에도 불구하고 맨유를 기웃거리는 것은 '생각할 필요 없는 일' 이라고 말한다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-hall-newcastle-37689149",
-  "fee": null,
-  "published": "2026-09-22T12:40:22+00:00"
  }
 ]
