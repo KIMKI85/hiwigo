@@ -26,6 +26,19 @@
   "published": "2026-09-29T08:10:11+00:00"
  },
  {
+  "id": "0d0a2238e5ec",
+  "title": "'Foreign clubs eye Nedeljkovic while on Rangers loan' - gossip",
+  "player": "Kosta Nedeljkovic",
+  "title_ko": "'외국 클럽이 레인저스 임대 중 Nedeljkovic을 주목합니다' - 잡담",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c64gvnzey95go?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-09-29T07:24:42+00:00"
+ },
+ {
   "id": "88636fcadf00",
   "title": "Beitia y Marchal, los otros 'fichajes'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
   "fee": null,
   "published": "2026-09-22T17:36:29+00:00"
- },
- {
-  "id": "c4f4106b9db2",
-  "title": "Wayne Rooney makes Man Utd transfer claim on JJ Gabriel's next club decision",
-  "player": "Wayne Rooney",
-  "title_ko": "웨인 루니는 JJ 가브리엘의 다음 클럽 결정에 대한 맨유의 이적 청구를 합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/rooney-jj-gabriel-man-united-37690803",
-  "fee": null,
-  "published": "2026-09-22T17:04:27+00:00"
  }
 ]
