@@ -1,5 +1,18 @@
 [
  {
+  "id": "e6003c67416c",
+  "title": "Napoli star offers Scott McTominay update and makes Man Utd transfer point",
+  "player": "Billy Gilmour",
+  "title_ko": "나폴리 스타는 스콧 맥토미네이 (Scott McTominay) 에게 업데이트를 제공하고 맨체스터 유나이티드 이적",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/napoli-man-utd-scott-mctominay-37720287",
+  "fee": null,
+  "published": "2026-09-30T16:08:01+00:00"
+ },
+ {
   "id": "2bb64a7fa1f0",
   "title": "Mercato: revalorisation XXL, clause libératoire à plus de 200 millions... le Bayern Munich lance l'opération prolongation d'Olise",
   "player": "Michael Olise",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/alaba-ex-real-madrid-star-agreement-udinese/",
   "fee": null,
   "published": "2026-09-23T08:25:01+00:00"
- },
- {
-  "id": "500dbf636fe7",
-  "title": "Juventus near agreement with Neto as free agent, target Palmisani for 2027-28",
-  "player": null,
-  "title_ko": null,
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-near-neto-agreement-palmisani-2028/",
-  "fee": null,
-  "published": "2026-09-23T08:14:06+00:00"
  }
 ]
