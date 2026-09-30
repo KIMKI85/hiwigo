@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T05:41:56.008047+00:00",
+ "updated": "2026-09-30T12:45:47.028220+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -252,126 +252,8 @@
   "SERIEA": {
    "name": "세리에 A",
    "standings": [],
-   "results": [
-    {
-     "date": "2026-09-20",
-     "home": "Milan",
-     "away": "Lecce",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Juventus",
-     "away": "Atalanta",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Parma",
-     "away": "Genoa",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Frosinone",
-     "away": "Como 1907",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Fiorentina",
-     "away": "Napoli",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Venezia FC",
-     "away": "Lazio",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Roma",
-     "away": "Inter",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-09-19",
-     "home": "Udinese",
-     "away": "Cagliari",
-     "hs": 0,
-     "as": 1
-    }
-   ],
-   "scorers": [
-    {
-     "name": "Donyell Malen",
-     "team": "Roma",
-     "goals": 6,
-     "assists": 0
-    },
-    {
-     "name": "Gustavo Varela",
-     "team": "Monza",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Antonio Raimondo",
-     "team": "Frosinone",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Lautaro Martínez",
-     "team": "Inter",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Davide Frattesi",
-     "team": "Lazio",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Giorgi Kvernadze",
-     "team": "Frosinone",
-     "goals": 3,
-     "assists": 1
-    },
-    {
-     "name": "Vasilije Adzic",
-     "team": "Sassuolo",
-     "goals": 3,
-     "assists": 1
-    },
-    {
-     "name": "Daniel Maldini",
-     "team": "Cagliari",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Franco Mastantuono",
-     "team": "Fiorentina",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Diego Moreira",
-     "team": "Milan",
-     "goals": 3,
-     "assists": 0
-    }
-   ]
+   "results": [],
+   "scorers": []
   },
   "BUND": {
    "name": "분데스리가",
