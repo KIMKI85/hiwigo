@@ -1,5 +1,18 @@
 [
  {
+  "id": "086d3e85d7a9",
+  "title": "Droits TV: après un record d'audience en Chine et un accord en Inde, la Ligue 1 conclut un deal avec deux nouveaux pays asiatiques",
+  "player": "Football Professionnel",
+  "title_ko": "Droits TV: après un record d 'audience en Chine et un accord en Inde, la Ligue 1 conclut un deal avec deux nouveaux pays asiatiques",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/droits-tv-apres-un-record-d-audience-en-chine-et-un-accord-en-inde-la-ligue-1-conclut-un-deal-avec-deux-nouveaux-pays-asiatiques_AV-202609300343.html",
+  "fee": null,
+  "published": "2026-09-30T09:00:27+00:00"
+ },
+ {
   "id": "9355140dc12c",
   "title": "Laporta reveals why Lautaro Martinez move fell through, rules out Fabregas’ Barcelona return",
   "player": "Lautaro Martinez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-new-contract-37690784",
   "fee": null,
   "published": "2026-09-23T03:00:00+00:00"
- },
- {
-  "id": "eb2cdfa66b59",
-  "title": "Barça: jusqu'à 2,6 milliards de dette après un prêt, vers un nouveau départ du Camp Nou",
-  "player": "Camp Nou",
-  "title_ko": "바르사: jusqu 'a 2,6 milliards de dette après un prêt, vers un nouveau départ du Camp Nou",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/barca-jusqu-a-2-6-milliards-de-dette-apres-un-pret-vers-un-nouveau-depart-du-camp-nou_AV-202609220913.html",
-  "fee": null,
-  "published": "2026-09-22T20:50:58+00:00"
  }
 ]
