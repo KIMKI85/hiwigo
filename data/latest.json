@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c63270f6b5d",
+  "title": "Football Italia Show: Italy’s dilemma, Newcastle transfer hope & untouchable Azzurro",
+  "player": "Football Italia Show",
+  "title_ko": "풋볼 이탈리아 쇼: 이탈리아의 딜레마, 뉴캐슬 이적 희망, 만질 수 없는 아주로",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/football-italia-show-dilemma-newcastle-azzurro/",
+  "fee": null,
+  "published": "2026-09-30T17:01:23+00:00"
+ },
+ {
   "id": "e6003c67416c",
   "title": "Napoli star offers Scott McTominay update and makes Man Utd transfer point",
   "player": "Billy Gilmour",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/picture-udinese-alaba-transfer-hint-agreement/",
   "fee": null,
   "published": "2026-09-23T09:02:00+00:00"
- },
- {
-  "id": "20648747da71",
-  "title": "Alaba: Ex-Real Madrid defender reaches surprise agreement with Udinese",
-  "player": "Fabrizio Romano",
-  "title_ko": "알라바: 전 레알 마드리드 수비수, 우디네세와 깜짝 계약",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/alaba-ex-real-madrid-star-agreement-udinese/",
-  "fee": null,
-  "published": "2026-09-23T08:25:01+00:00"
  }
 ]
