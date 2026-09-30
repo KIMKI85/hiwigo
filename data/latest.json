@@ -1,5 +1,18 @@
 [
  {
+  "id": "a968084a744a",
+  "title": "Newcastle and Chelsea given Scalvini transfer hope despite Atalanta renewal",
+  "player": "Giorgio Scalvini",
+  "title_ko": "아탈란타 리뉴얼에도 불구하고 스칼비니에게 희망을 안겨준 뉴캐슬과 첼시",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/newcastle-chelsea-scalvini-transfer-hope/",
+  "fee": null,
+  "published": "2026-09-30T13:20:33+00:00"
+ },
+ {
   "id": "3723747bd943",
   "title": "Scalvini: Every word Italy defender said on France clash, Turkiye win and potential move abroad",
   "player": "Giorgio Scalvini",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/tottenham-spending-prediction-alan-shearer-37691711",
   "fee": null,
   "published": "2026-09-23T07:03:06+00:00"
- },
- {
-  "id": "19736dece894",
-  "title": "Liverpool news: Kylian Mbappe makes transfer admission as Andoni Iraola striker plan emerges",
-  "player": "Kylian Mbappe",
-  "title_ko": "리버풀 뉴스: Kylian Mbappe는 Andoni Iraola 스트라이커 계획이 등장함에 따라 이전 입장을합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-kylian-mbappe-andoni-iraola-37689881",
-  "fee": null,
-  "published": "2026-09-23T04:00:00+00:00"
  }
 ]
