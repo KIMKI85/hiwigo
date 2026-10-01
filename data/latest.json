@@ -1,5 +1,18 @@
 [
  {
+  "id": "b9d8f49d9dce",
+  "title": "Mercato: Lionel Messi devient le propriétaire d’un club de D2 espagnole",
+  "player": "Lionel Messi",
+  "title_ko": "Mercato: Lionel Messi devient le propriétaire d 'un club de D2 espagnole",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/mercato-lionel-messi-devient-le-proprietaire-d-un-club-de-d2-espagnole_AN-202610010890.html",
+  "fee": null,
+  "published": "2026-10-01T19:59:37+00:00"
+ },
+ {
   "id": "f2d5e95020c7",
   "title": "Man City to argue sponsorship deals came from Abu Dhabi government",
   "player": "Abu Dhabi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/italiano-had-an-agreement-with-napoli-besiktas/",
   "fee": null,
   "published": "2026-09-23T17:41:03+00:00"
- },
- {
-  "id": "44a6b210eb56",
-  "title": "Alaba medical successful so 34-year-old free agent can join Udinese",
-  "player": "David Alaba",
-  "title_ko": "34세 무료 에이전트가 우디네세에 가입할 수 있도록 알라바 의료 성공",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/alaba-medical-successful-34-year-old-udinese/",
-  "fee": null,
-  "published": "2026-09-23T16:42:00+00:00"
  }
 ]
