@@ -1,5 +1,18 @@
 [
  {
+  "id": "4d6d0b9f9cf4",
+  "title": "Arsenal news: Vinicius Jr thanks Gunners star as club pursue £40m transfer for Brazilian",
+  "player": "Vinicius Jr",
+  "title_ko": "아스널 뉴스: 비니시우스 주니어, 구단으로서 브라질 출신으로 £ 40M 이적 추진한 구너스 스타에게 감사",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-jr-37720197",
+  "fee": "£40M",
+  "published": "2026-10-01T03:00:00+00:00"
+ },
+ {
   "id": "85af2d44c599",
   "title": "\"Ist es überhaupt denkbar, dass Tresoldi zu Italien wechselt?\"",
   "player": "Nicolo Tresoldi",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/balerdi-rejected-boca-captaincy-roma/",
   "fee": null,
   "published": "2026-09-23T12:30:00+00:00"
- },
- {
-  "id": "5b72f18b4ddd",
-  "title": "Arsenal latest: YOUR VIEWS on new Arteta deal - and where does he rank?",
-  "player": null,
-  "title_ko": "아스날 최신: 새로운 Arteta 거래에 대한 귀하의 견해 - 그리고 그는 어디에서 순위를 매기나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-23T09:45:00+00:00"
  }
 ]
