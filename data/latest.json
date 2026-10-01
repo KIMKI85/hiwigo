@@ -1,5 +1,18 @@
 [
  {
+  "id": "de99fa81996a",
+  "title": "Man Utd wonderkid JJ Gabriel trains in Barcelona after latest twist in transfer saga",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드 원더키드 제이제이 가브리엘 (JJ Gabriel), 최신 트랜스퍼 사가 버전으로 바르셀로나에서 열차 운행",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-barcelona-37723902",
+  "fee": null,
+  "published": "2026-10-01T13:58:17+00:00"
+ },
+ {
   "id": "ec0b34090237",
   "title": "Man City fight back with 'PROOF' government paid sponsorship deals in appeal over 115 charges",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/harvey-elliott-overweight-valencia-nightmare-37695207",
   "fee": null,
   "published": "2026-09-23T16:38:10+00:00"
- },
- {
-  "id": "7420094e5014",
-  "title": "Done Deal: Neto will be new Juventus goalkeeper as free agent",
-  "player": null,
-  "title_ko": "완료 거래: 네토는 자유 계약 선수로서 새로운 유벤투스 골키퍼가 될 것입니다",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/done-deal-neto-will-be-new-juventus-goalkeeper/",
-  "fee": null,
-  "published": "2026-09-23T15:09:01+00:00"
  }
 ]
