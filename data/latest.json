@@ -1,5 +1,18 @@
 [
  {
+  "id": "5da8757d0e2c",
+  "title": "Man City charges LIVE: Chairman has 'immunity', lawyer's contract bombshell, punishment latest",
+  "player": null,
+  "title_ko": "맨시티 혐의 생중계: 의장에게 '면책특권', 변호사 계약 폭탄, 처벌 최신",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-burnham-37721452",
+  "fee": null,
+  "published": "2026-10-01T10:21:31+00:00"
+ },
+ {
   "id": "dfdedc3d0f2f",
   "title": "Watch: Nico Paz scores fantastic chip as Argentina prepare to bid farewell to Messi",
   "player": "Nico Paz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-ready-pulisic-rabiot-contract-clauses/",
   "fee": null,
   "published": "2026-09-23T14:47:31+00:00"
- },
- {
-  "id": "ec8c5c917707",
-  "title": "Aston Villa latest: 'Buendia contract talks begin'",
-  "player": null,
-  "title_ko": "애스턴 빌라 최신 소식: '부엔디아 계약 협상 시작'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-09-23T14:36:00+00:00"
  }
 ]
