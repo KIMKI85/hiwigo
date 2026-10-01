@@ -1,5 +1,18 @@
 [
  {
+  "id": "650cbcf2bf77",
+  "title": "Report Mancini sham contract let Manchester City avoid £12m in tax",
+  "player": "Roberto Mancini",
+  "title_ko": "맨체스터 시티가 £ 12M의 세금을 피할 수 있도록 Mancini 가짜 계약 신고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-mancini-contract-manchester-city-tax/",
+  "fee": "£12M",
+  "published": "2026-10-01T12:57:27+00:00"
+ },
+ {
   "id": "5da8757d0e2c",
   "title": "Man City charges LIVE: Chairman has 'immunity', lawyer's contract bombshell, punishment latest",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-contract-collapse-37694827",
   "fee": null,
   "published": "2026-09-23T14:59:47+00:00"
- },
- {
-  "id": "f76b58cf05fa",
-  "title": "Milan ready to use Pulisic and Rabiot contract clauses to June 2028",
-  "player": "Christian Pulisic",
-  "title_ko": "밀라노는 2028년 6월까지 Pulisic 및 Rabiot 계약 조항을 사용할 준비가 되었습니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-ready-pulisic-rabiot-contract-clauses/",
-  "fee": null,
-  "published": "2026-09-23T14:47:31+00:00"
  }
 ]
