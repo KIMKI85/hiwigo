@@ -1,5 +1,18 @@
 [
  {
+  "id": "30acea9e3f3c",
+  "title": "McTominay could leave Napoli as club look to avoid free transfer after ex Man Utd star’s €8m wage demands",
+  "player": null,
+  "title_ko": "McTominay는 전 맨유 스타의 € 8M 임금 요구 후 무료 이적을 피하기 위해 클럽 외모로 나폴리를 떠날 수 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mctominay-could-leave-napoli/",
+  "fee": "€8M",
+  "published": "2026-10-02T08:45:00+00:00"
+ },
+ {
   "id": "f7f28cf125c5",
   "title": "'Widell claims Rangers player blocked Ibrox move' - gossip",
   "player": "Casper Widell",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
   "fee": null,
   "published": "2026-09-23T23:20:00+00:00"
- },
- {
-  "id": "1788250238f1",
-  "title": "Enzo Fernandez transfer statement made as Man City warning issued to Premier League rivals",
-  "player": "Enzo Fernandez",
-  "title_ko": "프리미어 리그 라이벌에게 맨시티 경고로 발표된 엔조 페르난데스 이적 성명서",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-transfer-37695997",
-  "fee": null,
-  "published": "2026-09-23T21:39:09+00:00"
  }
 ]
