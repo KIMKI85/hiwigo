@@ -1,5 +1,18 @@
 [
  {
+  "id": "284c0c7b7946",
+  "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+  "player": null,
+  "title_ko": "이적 시장에서 맨시티의 '부풀린' 자금은 어느 구단으로 흘러갔습니까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-02T22:30:24+00:00"
+ },
+ {
   "id": "30acea9e3f3c",
   "title": "McTominay could leave Napoli as club look to avoid free transfer after ex Man Utd star’s €8m wage demands",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-alvarez-max-dowman-37694140",
   "fee": null,
   "published": "2026-09-24T03:00:00+00:00"
- },
- {
-  "id": "346b4da0389f",
-  "title": "Papers: Barcelona not interested in signing Man Utd wonderkid Gabriel",
-  "player": null,
-  "title_ko": "서류: 맨체스터 유나이티드 원더키드 가브리엘과 계약하는 데 관심이 없는 바르셀로나",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
-  "fee": null,
-  "published": "2026-09-23T23:20:00+00:00"
  }
 ]
