@@ -1,5 +1,18 @@
 [
  {
+  "id": "f7f28cf125c5",
+  "title": "'Widell claims Rangers player blocked Ibrox move' - gossip",
+  "player": "Casper Widell",
+  "title_ko": "'Widell이 레인저스 플레이어가 Ibrox 무브를 차단했다고 주장합니다' - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cw4grgjpem80o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-02T07:22:15+00:00"
+ },
+ {
   "id": "4ae01514c937",
   "title": "Man Utd news: Marcus Rashford 'issue' raised as fresh transfer instruction sent",
   "player": "Marcus Rashford",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/enzo-fernandez-man-city-transfer-37695997",
   "fee": null,
   "published": "2026-09-23T21:39:09+00:00"
- },
- {
-  "id": "e05c710dec85",
-  "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
-  "player": null,
-  "title_ko": "바르셀로나는 Alvarez 거래를 배제합니다 - 목요일의 가십",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-23T21:33:27+00:00"
  }
 ]
