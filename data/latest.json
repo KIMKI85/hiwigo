@@ -1,5 +1,18 @@
 [
  {
+  "id": "fa6ccebc7f8f",
+  "title": "Arsenal news: Eli Junior Kroupi transfer update as decision made after clash with boss",
+  "player": "Eli Junior Kroupi",
+  "title_ko": "Arsenal 뉴스: Eli Junior Kroupi 이적 업데이트 (보스와 충돌 후 결정)",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-eli-junior-kroupi-transfer-37728194",
+  "fee": null,
+  "published": "2026-10-03T03:00:00+00:00"
+ },
+ {
   "id": "284c0c7b7946",
   "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-target-dominik-szoboszlai-37695145",
   "fee": null,
   "published": "2026-09-24T04:00:00+00:00"
- },
- {
-  "id": "a0888999f46b",
-  "title": "Arsenal news: Julian Alvarez transfer plot emerges as coach urges patience with star",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 뉴스: 코치가 스타에 대한 인내심을 촉구하면서 Julian Alvarez 이적 계획이 등장합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-alvarez-max-dowman-37694140",
-  "fee": null,
-  "published": "2026-09-24T03:00:00+00:00"
  }
 ]
