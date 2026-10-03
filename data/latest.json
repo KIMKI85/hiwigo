@@ -1,5 +1,18 @@
 [
  {
+  "id": "960c54ea8ff2",
+  "title": "Espagne-Tchéquie: la Roja s'est fait (un peu) peur mais signe une troisième victoire en Ligue des nations",
+  "player": null,
+  "title_ko": "Espagne-Tchéquie: la Roja s 'est fait (un peu) peur mais signe une troisième victoire en Ligue des nations",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-des-nations/direct-espagne-tchequie-suivez-le-match-de-ligue-des-nations-en-live_LS-202610030285.html",
+  "fee": null,
+  "published": "2026-10-03T20:46:26+00:00"
+ },
+ {
   "id": "c2ca0a445e8b",
   "title": "Arsenal injury blow prompts £34m January transfer plan with bid prepared",
   "player": "Antonio Nusa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-24T12:59:44+00:00"
- },
- {
-  "id": "01d42eb6391c",
-  "title": "Fox signs new Arsenal deal",
-  "player": "Emily Fox",
-  "title_ko": "FOX, 새로운 아스날 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
-  "fee": null,
-  "published": "2026-09-24T12:00:00+00:00"
  }
 ]
