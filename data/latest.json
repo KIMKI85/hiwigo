@@ -1,5 +1,18 @@
 [
  {
+  "id": "51bc17c02506",
+  "title": "Liverpool news: Star 'ready for January transfer' as private Mo Salah chats revealed",
+  "player": "Mo Salah",
+  "title_ko": "리버풀 뉴스: 개인 Mo Salah 채팅이 공개됨에 따라 '1월 이적 준비 완료' 스타",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-mo-salah-january-transfer-37730873",
+  "fee": null,
+  "published": "2026-10-04T04:00:00+00:00"
+ },
+ {
   "id": "51b5d773f8f6",
   "title": "Man Utd news: JJ Gabriel legal action plotted as Barcelona U-turn on transfer stance",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/frosinone-set-asking-price-for-kvernadze/",
   "fee": null,
   "published": "2026-09-24T14:01:23+00:00"
- },
- {
-  "id": "b6e1ea3cf096",
-  "title": "Unai Emery and Aston Villa stuck in loan agreement as they face 'embarrassing' repeat",
-  "player": "Unai Emery",
-  "title_ko": "우나이 에머리 (Unai Emery) 와 애스턴 빌라 (Aston Villa) 는 '난처한' 반복에 직면하면서 대출 계약에 갇혔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-emery-garnacho-loan-37698244",
-  "fee": null,
-  "published": "2026-09-24T13:01:00+00:00"
  }
 ]
