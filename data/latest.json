@@ -1,5 +1,18 @@
 [
  {
+  "id": "51b5d773f8f6",
+  "title": "Man Utd news: JJ Gabriel legal action plotted as Barcelona U-turn on transfer stance",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘, 바르셀로나 이적 스탠스 유턴 계획 법적 조치",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-barcelona-37731083",
+  "fee": null,
+  "published": "2026-10-04T03:30:00+00:00"
+ },
+ {
   "id": "960c54ea8ff2",
   "title": "Espagne-Tchéquie: la Roja s'est fait (un peu) peur mais signe une troisième victoire en Ligue des nations",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-emery-garnacho-loan-37698244",
   "fee": null,
   "published": "2026-09-24T13:01:00+00:00"
- },
- {
-  "id": "bb07d4f13a30",
-  "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
-  "player": "Emily Fox",
-  "title_ko": "FOX는 3년간의 Arsenal 계약을 체결하기 위해 '쉬운 결정' 을 내립니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-24T12:59:44+00:00"
  }
 ]
