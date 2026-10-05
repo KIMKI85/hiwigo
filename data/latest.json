@@ -1,5 +1,18 @@
 [
  {
+  "id": "0d86045e6cb0",
+  "title": "LIVE! Zehn Wechsel bei Frankreich - Schlägt Italien die Türkei erneut?",
+  "player": "Zehn Wechsel",
+  "title_ko": "라이브! Zehn Wechsel bei Frankreich - Schlägt Italien die Türkei erneut?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-zehn-wechsel-bei-frankreich-schlaegt-italien-die-tuerkei-erneut-1257518/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-05T17:59:21+00:00"
+ },
+ {
   "id": "ca19a1200f38",
   "title": "Man Utd told former flop has become ‘the next Erling Haaland’ after transfer",
   "player": "Erling Haaland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-25T11:53:25+00:00"
- },
- {
-  "id": "5b4f88cdc912",
-  "title": "Petit Poucet de la Coupe du monde, le Curaçao signe une folle remontée contre le Costa Rica",
-  "player": "Petit Poucet",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/petit-poucet-de-la-coupe-du-monde-le-curacao-signe-une-folle-remontee-contre-le-costa-rica_AV-202609250313.html",
-  "fee": null,
-  "published": "2026-09-25T07:28:23+00:00"
  }
 ]
