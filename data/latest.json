@@ -1,5 +1,18 @@
 [
  {
+  "id": "829ceb2a38fd",
+  "title": "France-Belgique: Restes signe une performance inédite en 53 ans pour ses débuts chez les Bleus",
+  "player": "Zinédine Zidane",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-des-nations/france-belgique-restes-signe-une-performance-inedite-en-53-ans-pour-ses-debuts-chez-les-bleus_AV-202610050884.html",
+  "fee": null,
+  "published": "2026-10-05T19:39:46+00:00"
+ },
+ {
   "id": "3a2555024761",
   "title": "JJ Gabriel transfer truth after Man Utd demands and squad photo update",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/serie-a-statement-against-fifa-management/",
   "fee": null,
   "published": "2026-09-25T12:33:05+00:00"
- },
- {
-  "id": "29e67c7c514c",
-  "title": "Crystal Palace chief sends Liverpool pointed message after blocking Ismaila Sarr transfer",
-  "player": "Ismaila Sarr",
-  "title_ko": "크리스탈 팰리스 수석이 이스마일라 사르 이동을 차단한 후 리버풀 뾰족한 메시지를 보냅니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-ismaila-sarr-crystal-palace-37702105",
-  "fee": null,
-  "published": "2026-09-25T12:00:32+00:00"
  }
 ]
