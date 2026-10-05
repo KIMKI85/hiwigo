@@ -1,5 +1,18 @@
 [
  {
+  "id": "7b9b2a14c6c0",
+  "title": "Liverpool could be forced into £59million transfer decision as interest heats up",
+  "player": "Jarell Quansah",
+  "title_ko": "리버풀은 이자가 가열됨에 따라 £ 59million 이적 결정이 내려질 수 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-59m-transfer-decision-quansah-37735263",
+  "fee": "£59M",
+  "published": "2026-10-05T10:58:08+00:00"
+ },
+ {
   "id": "708041eebe1e",
   "title": "Man Utd urged to make Elliot Anderson transfer swoop amid Man City relegation threat",
   "player": "Elliot Anderson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-24T22:09:28+00:00"
- },
- {
-  "id": "5019308deb6a",
-  "title": "Barcelona chief Deco makes JJ Gabriel transfer admission as Man Utd deadline approaches",
-  "player": null,
-  "title_ko": "바르셀로나 수석 데코는 맨유 마감일이 다가옴에 따라 JJ 가브리엘 이적 승인",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-barcelona-37699844",
-  "fee": null,
-  "published": "2026-09-24T19:20:22+00:00"
  }
 ]
