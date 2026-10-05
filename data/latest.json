@@ -1,5 +1,18 @@
 [
  {
+  "id": "4d23f29a4e8a",
+  "title": "DIRECT. Mercato: toutes les infos et rumeurs sur le marché des transferts du lundi 5 octobre 2026",
+  "player": null,
+  "title_ko": "직접. Mercato: toutes les infos et rumeurs sur le marché des transferts du lundi 5 octobre 2026",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-lundi-5-octobre-2026_LN-202610050270.html",
+  "fee": null,
+  "published": "2026-10-05T07:18:14+00:00"
+ },
+ {
   "id": "1fd7939c7cb5",
   "title": "Arsenal news: 'Next Bellingham' race entered as silence broken on 'intense' transfer saga",
   "player": "Jude Bellingham",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-liverpool-transfer-konde-37699857",
   "fee": null,
   "published": "2026-09-24T19:00:48+00:00"
- },
- {
-  "id": "79d0d606fb6c",
-  "title": "Man of Steel nominee Miller agrees Leeds contract extension to 2028",
-  "player": null,
-  "title_ko": "맨 오브 스틸 후보 밀러, 2028년까지 리즈 계약 연장 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-  "fee": null,
-  "published": "2026-09-24T18:15:00+00:00"
  }
 ]
