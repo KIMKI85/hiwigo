@@ -1,5 +1,18 @@
 [
  {
+  "id": "0d638fef8882",
+  "title": "Five crucial transfers Man City landed ahead of their rivals during guilty period",
+  "player": null,
+  "title_ko": "맨시티가 유죄 판결 기간 동안 라이벌들보다 먼저 상륙한 다섯 번의 중요한 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/five-crucial-transfers-man-city-37739483",
+  "fee": null,
+  "published": "2026-10-06T09:58:38+00:00"
+ },
+ {
   "id": "d9d336b40b2c",
   "title": "Lazio linked with move for ex Man Utd and Crystal Palace winger Zaha",
   "player": "Wilfried Zaha",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-2/possible-vente-du-fc-nantes-un-deal-en-question-s_AV-202609250643.html",
   "fee": null,
   "published": "2026-09-25T15:38:44+00:00"
- },
- {
-  "id": "c1b289e254e7",
-  "title": "Man City inquiry moves to appeal stage amid reports majority of PL charges 'proven'",
-  "player": null,
-  "title_ko": "PL 요금의 대부분이 '입증' 되었다는 신고가 접수된 가운데 맨시티의 문의가 이의 제기 단계로 이동했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13591827/man-city-premier-league-charges-inquiry-moves-to-appeal-stage-amid-reports-majority-of-charges-proven",
-  "fee": null,
-  "published": "2026-09-25T15:20:00+00:00"
  }
 ]
