@@ -1,5 +1,18 @@
 [
  {
+  "id": "061f411c2dba",
+  "title": "Arsenal news: Mikel Arteta suffers fresh blow as what Gunners boss told new signing emerges",
+  "player": "Mikel Arteta",
+  "title_ko": "무기고 뉴스: Mikel Arteta는 Gunners 보스가 새로운 계약이 생기면서 신선한 타격을 입었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-konsa-injury-37736929",
+  "fee": null,
+  "published": "2026-10-06T03:00:00+00:00"
+ },
+ {
   "id": "829ceb2a38fd",
   "title": "France-Belgique: Restes signe une performance inédite en 53 ans pour ses débuts chez les Bleus",
   "player": "Zinédine Zidane",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/premier-league-referee-robathan-retirement-37702491",
   "fee": null,
   "published": "2026-09-25T13:24:28+00:00"
- },
- {
-  "id": "892857cddf58",
-  "title": "Serie A joins major European Leagues in official statement against FIFA management",
-  "player": "European Leagues",
-  "title_ko": "세리에 A, FIFA 경영진에 대한 공식 성명서에서 주요 유럽 리그에 합류",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/serie-a-statement-against-fifa-management/",
-  "fee": null,
-  "published": "2026-09-25T12:33:05+00:00"
  }
 ]
