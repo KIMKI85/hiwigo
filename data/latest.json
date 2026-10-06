@@ -1,5 +1,18 @@
 [
  {
+  "id": "d9d336b40b2c",
+  "title": "Lazio linked with move for ex Man Utd and Crystal Palace winger Zaha",
+  "player": "Wilfried Zaha",
+  "title_ko": "전 맨유와 크리스탈 팰리스 윙어 자하의 무브와 연결된 라치오",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lazio-linked-with-move-for-winger-zaha/",
+  "fee": null,
+  "published": "2026-10-06T09:10:00+00:00"
+ },
+ {
   "id": "bbe9ddbf1232",
   "title": "JJ Gabriel transfer deadline passes as Man Utd set for imminent hammer blow",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13591827/man-city-premier-league-charges-inquiry-moves-to-appeal-stage-amid-reports-majority-of-charges-proven",
   "fee": null,
   "published": "2026-09-25T15:20:00+00:00"
- },
- {
-  "id": "64eb2a8fa05e",
-  "title": "Manchester City timeline: trophies, transfers and more than 100 charges",
-  "player": "Sheikh Mansour-led",
-  "title_ko": "맨체스터 시티 타임라인: 트로피, 이적 및 100회 이상 청구",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges",
-  "fee": null,
-  "published": "2026-09-25T14:58:12+00:00"
  }
 ]
