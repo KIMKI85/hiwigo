@@ -1,5 +1,18 @@
 [
  {
+  "id": "1944d26d75de",
+  "title": "Ex-Arsenal wonderkid explains why he completed surprise transfer after exit",
+  "player": "Charlie Patino",
+  "title_ko": "Ex-Arsenal wonderkid가 퇴장 후 깜짝 이적을 완료한 이유를 설명합니다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-charlie-patino-bochum-transfer-37742005",
+  "fee": null,
+  "published": "2026-10-06T16:01:20+00:00"
+ },
+ {
   "id": "c15e233d4160",
   "title": "Pep Guardiola 'will move mountains' to get Man City answer with his legacy in doubt",
   "player": "Pep Guardiola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13591878/transfer-news-brentford-hold-kevin-schade-contract-talks-as-arsenal-liverpool-track-germany-winger",
   "fee": null,
   "published": "2026-09-25T17:32:00+00:00"
- },
- {
-  "id": "12f8ed3365fe",
-  "title": "Mancini contract among 115 Manchester City charges in financial scandal",
-  "player": "Roberto Mancini",
-  "title_ko": "맨체스터 시티 금융 스캔들 혐의 115건 중 맨시니 계약",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/mancini-115-manchester-city-charges-scandal/",
-  "fee": null,
-  "published": "2026-09-25T17:24:58+00:00"
  }
 ]
