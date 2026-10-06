@@ -1,5 +1,18 @@
 [
  {
+  "id": "bbe9ddbf1232",
+  "title": "JJ Gabriel transfer deadline passes as Man Utd set for imminent hammer blow",
+  "player": null,
+  "title_ko": "맨유가 해머 블로우에 임박하면서 JJ 가브리엘 이적 마감일이 지났습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-transfer-37734627",
+  "fee": null,
+  "published": "2026-10-06T06:00:00+00:00"
+ },
+ {
   "id": "eda8006652a3",
   "title": "Noni Madueke eyed in shock transfer after Mikel Arteta makes Arsenal stance clear",
   "player": "Noni Madueke",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges",
   "fee": null,
   "published": "2026-09-25T14:58:12+00:00"
- },
- {
-  "id": "e5745fbe07cc",
-  "title": "Javier Aguirre pulveriza el reloj del tiempo en el banquillo del Valencia: a sus 67 años supera los fichajes de Prandelli y Bordalás",
-  "player": "Javier Aguirre",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/valencia/2026/09/25/javier-aguirre-pulveriza-reloj-banquillo-valencia-67-anos-supera-fichajes-prandelli-bordalas.html",
-  "fee": null,
-  "published": "2026-09-25T14:07:05+00:00"
  }
 ]
