@@ -1,5 +1,18 @@
 [
  {
+  "id": "d758d77659b6",
+  "title": "Alaba: ‘Runjaic convinced me to join Udinese, I feel good and ready to play’",
+  "player": "David Alaba",
+  "title_ko": "알라바: ‘Runjaic이 우디네세에 합류하도록 설득했습니다. 기분이 좋고 놀 준비가 되었습니다’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/alaba-runjaic-convinced-me-to-join-udinese-i-feel-good-and-ready-to-play/",
+  "fee": null,
+  "published": "2026-10-06T11:25:00+00:00"
+ },
+ {
   "id": "0d638fef8882",
   "title": "Five crucial transfers Man City landed ahead of their rivals during guilty period",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
   "fee": null,
   "published": "2026-09-25T16:00:11+00:00"
- },
- {
-  "id": "a982a4da1b05",
-  "title": "Possible vente du FC Nantes: un deal en question(s)",
-  "player": "Paulo Tavares",
-  "title_ko": "Possible vente du FC Nantes: un deal en question (s)",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-2/possible-vente-du-fc-nantes-un-deal-en-question-s_AV-202609250643.html",
-  "fee": null,
-  "published": "2026-09-25T15:38:44+00:00"
  }
 ]
