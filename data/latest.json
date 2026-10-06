@@ -1,5 +1,18 @@
 [
  {
+  "id": "b7902d36d352",
+  "title": "Ranieri confession of new Fiorentina contract to June 2029",
+  "player": "Luca Ranieri",
+  "title_ko": "라니에리, 2029년 6월 새로운 피오렌티나 계약 고백",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ranieri-confession-of-new-fiorentina-contract/",
+  "fee": null,
+  "published": "2026-10-06T17:58:13+00:00"
+ },
+ {
   "id": "1944d26d75de",
   "title": "Ex-Arsenal wonderkid explains why he completed surprise transfer after exit",
   "player": "Charlie Patino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-tuerkei-in-unterzahl-und-offensivem-wechsel-1255624/artikel#omrss",
   "fee": null,
   "published": "2026-09-25T20:37:21+00:00"
- },
- {
-  "id": "7a7b7da89f68",
-  "title": "Brentford hold Schade contract talks as Arsenal, Liverpool track Germany winger",
-  "player": "Kevin Schade",
-  "title_ko": "브렌트포드, 아스널, 리버풀 트랙 독일 윙어로 Schade 계약 회담 개최",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13591878/transfer-news-brentford-hold-kevin-schade-contract-talks-as-arsenal-liverpool-track-germany-winger",
-  "fee": null,
-  "published": "2026-09-25T17:32:00+00:00"
  }
 ]
