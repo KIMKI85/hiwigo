@@ -144,8 +144,8 @@
   <div style="display:flex;align-items:center;gap:16px">
     <span class="demo-badge">⚠ 프로토타입 · 샘플 데이터</span>
     <div class="window-count">
-      <div class="num disp" id="ddayNum">D-46</div>
-      <div class="lbl">여름 이적시장 마감까지</div>
+      <div class="num disp" id="ddayNum">D-</div>
+      <div class="lbl" id="ddayLbl"></div>
     </div>
   </div>
 </header>
@@ -214,7 +214,7 @@
 <script>
 /* ───────── 샘플 데이터 (실서비스: RSS/API 수집으로 대체) ───────── */
 /* ── 데이터 로딩 ──
-   GitHub Actions가 30분마다 갱신하는 data/latest.json(최신 100건)을 읽습니다.
+   15분마다 갱신되는 data/latest.json(최신 100건)을 읽습니다.
    전체 기록은 data/archive/YYYY-MM.json에 쌓이므로 메인 페이지는 항상 가볍습니다.
    파일이 아직 없으면(로컬에서 열었을 때 등) 아래 샘플 데이터로 표시합니다. */
 const SAMPLE = [
@@ -247,7 +247,7 @@ async function loadData(){
     const data = await res.json();
     if(!Array.isArray(data) || !data.length) throw new Error("empty");
     rumors = data;
-    document.querySelector(".demo-badge").textContent = "● LIVE · 30분마다 자동 갱신";
+    document.querySelector(".demo-badge").textContent = "● LIVE · 15분마다 자동 갱신";
     document.querySelector(".demo-badge").style.borderStyle = "solid";
   }catch(e){
     rumors = SAMPLE; // 수집 전이거나 로컬 파일로 열었을 때
@@ -401,8 +401,33 @@ async function renderSpend(){
 }
 
 /* 이적시장 마감 D-day (2026 여름: 9/1 가정) */
-const dday = Math.ceil((new Date("2026-09-01") - new Date())/(1000*60*60*24));
-document.getElementById("ddayNum").textContent = "D-"+dday;
+/* ── 이적시장 카운트다운: 날짜에 따라 자동 전환 ──
+   EPL 기준 일정. 리그·연도마다 실제 마감일이 발표되면 여기만 고치면 됨. */
+const WINDOWS = [
+  { name:"겨울", open:"2027-01-01", close:"2027-02-02" },
+  { name:"여름", open:"2027-06-16", close:"2027-09-01" },
+  { name:"겨울", open:"2028-01-01", close:"2028-02-01" },
+  { name:"여름", open:"2028-06-14", close:"2028-09-01" },
+];
+function windowStatus(now){
+  const day = d => new Date(d + "T00:00:00");
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const diff = d => Math.round((day(d) - today) / 86400000);
+  for(const w of WINDOWS){
+    if(diff(w.close) < 0) continue;              // 이미 끝난 창은 건너뜀
+    if(diff(w.close) === 0) return { num:"D-DAY", lbl:`${w.name} 이적시장 데드라인 데이` };
+    if(diff(w.open) <= 0)   return { num:"D-"+diff(w.close), lbl:`${w.name} 이적시장 마감까지` };
+    return { num:"D-"+diff(w.open), lbl:`${w.name} 이적시장 개막까지`, idle:true };
+  }
+  return { num:"", lbl:"" };                     // 등록된 일정이 끝나면 숨김
+}
+(function(){
+  const s = windowStatus(new Date());
+  const numEl = document.getElementById("ddayNum");
+  numEl.textContent = s.num;
+  document.getElementById("ddayLbl").textContent = s.lbl;
+  if(s.idle) numEl.style.color = "var(--ink)";  // 휴식기엔 노랑 대신 흰색으로 차분하게
+})();
 
 loadData();
 </script>
