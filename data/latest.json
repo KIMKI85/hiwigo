@@ -1,5 +1,18 @@
 [
  {
+  "id": "41827f11dd60",
+  "title": "Rice close to agreeing new Arsenal deal",
+  "player": "Declan Rice",
+  "title_ko": "합의된 새로운 아스날 거래에 가까운 쌀",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-07T18:30:21+00:00"
+ },
+ {
   "id": "e86eb7f08d7b",
   "title": "Man City legend David Silva comes out of retirement and completes shock move to new club",
   "player": "David Silva",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-italy-scalvini-new-atalanta-contract/",
   "fee": null,
   "published": "2026-09-27T10:09:46+00:00"
- },
- {
-  "id": "4b4fa43ea90c",
-  "title": "LIVE!-Blog zum Griechenland-Spiel: Mehrere Startelf-Wechsel zu erwarten",
-  "player": "Mehrere Startelf-",
-  "title_ko": "LIVE! -Blog zum Griechenland-Spiel: Mehrere Startelf-Wechsel zu erwarten",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-blog-zum-griechenland-spiel-mehrere-startelf-wechsel-zu-erwarten-1255562/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-27T07:21:21+00:00"
  }
 ]
