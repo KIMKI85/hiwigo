@@ -1,5 +1,18 @@
 [
  {
+  "id": "6d3f96489e72",
+  "title": "Sir Alex Ferguson was one day from becoming Arsenal boss as contract offer revealed",
+  "player": "Sir Alex Ferguson",
+  "title_ko": "알렉스 퍼거슨 경 (Sir Alex Ferguson) 은 계약 제안이 밝혀짐에 따라 아스널 보스가 된 지 어느 날이었습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/alex-ferguson-arsenal-manager-job-37743651",
+  "fee": null,
+  "published": "2026-10-07T10:30:00+00:00"
+ },
+ {
   "id": "d98906ea2a59",
   "title": "Elversberg's record signing is a young American exciting the Bundesliga",
   "player": "Cole Campbell",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/spaetfolgen-aus-en-nesyri-deal-fifa-verhaengt-transfersperre-gegen-fenerbahce-1256084/artikel#omrss",
   "fee": null,
   "published": "2026-09-26T10:08:37+00:00"
- },
- {
-  "id": "29e5e15dcb46",
-  "title": "Poca participación de los fichajes",
-  "player": null,
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/celta/2026/09/26/poca-participacion-fichajes.html",
-  "fee": null,
-  "published": "2026-09-26T08:29:13+00:00"
  }
 ]
