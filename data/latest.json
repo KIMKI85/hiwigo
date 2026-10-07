@@ -1,5 +1,18 @@
 [
  {
+  "id": "e86eb7f08d7b",
+  "title": "Man City legend David Silva comes out of retirement and completes shock move to new club",
+  "player": "David Silva",
+  "title_ko": "맨시티의 전설 데이비드 실바가 은퇴 후 새 구단으로 충격적인 이적을 완료했다.",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-david-silva-club-37745385",
+  "fee": null,
+  "published": "2026-10-07T14:28:33+00:00"
+ },
+ {
   "id": "25a5b8b79397",
   "title": "Scot Prem latest: Hibs eye deal for ex-Rangers winger as backroom team revealed",
   "player": "Scot Prem",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-blog-zum-griechenland-spiel-mehrere-startelf-wechsel-zu-erwarten-1255562/artikel#omrss",
   "fee": null,
   "published": "2026-09-27T07:21:21+00:00"
- },
- {
-  "id": "f87ba79bba65",
-  "title": "Liverpool news: Jurgen Klopp player could be re-signed as Reds weigh up £47m decision",
-  "player": "Jurgen Klopp",
-  "title_ko": "리버풀 뉴스: Jurgen Klopp 선수는 Reds가 £ 47M 결정을 무겁게 함에 따라 재계약 될 수 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-jurgen-klopp-morton-araujo-37705533",
-  "fee": "£47M",
-  "published": "2026-09-27T04:00:00+00:00"
  }
 ]
