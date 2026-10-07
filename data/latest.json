@@ -1,5 +1,18 @@
 [
  {
+  "id": "3d96cd07b56e",
+  "title": "'Amazing' Kane targets 100 international goals",
+  "player": "Amazing' Kane",
+  "title_ko": "'어메이징' 케인은 100개의 국제 목표를 목표로 합니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-07T20:31:17+00:00"
+ },
+ {
   "id": "8ce29ad9f167",
   "title": "Declan Rice will match Arsenal's top earner after contract negotiation breakthrough",
   "player": "Declan Rice",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/video-neto-lands-turin-juventus-transfer-2027/",
   "fee": null,
   "published": "2026-09-27T10:57:31+00:00"
- },
- {
-  "id": "9c6611e11429",
-  "title": "Erling Haaland's dad admitted his son could leave Man City and named six clubs he could join",
-  "player": "Erling Haaland's",
-  "title_ko": "Erling Haaland의 아빠는 아들이 맨시티를 떠날 수 있음을 인정하고 가입할 수 있는 6개의 클럽을 지명했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-contract-37706655",
-  "fee": null,
-  "published": "2026-09-27T10:52:55+00:00"
  }
 ]
