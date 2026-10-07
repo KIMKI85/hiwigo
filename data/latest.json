@@ -1,5 +1,18 @@
 [
  {
+  "id": "8ce29ad9f167",
+  "title": "Declan Rice will match Arsenal's top earner after contract negotiation breakthrough",
+  "player": "Declan Rice",
+  "title_ko": "Declan Rice는 계약 협상 돌파 후 Arsenal의 최고 소득자와 일치합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/declan-rice-arsenal-contract-saka-37747157",
+  "fee": null,
+  "published": "2026-10-07T19:46:43+00:00"
+ },
+ {
   "id": "41827f11dd60",
   "title": "Rice close to agreeing new Arsenal deal",
   "player": "Declan Rice",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-contract-37706655",
   "fee": null,
   "published": "2026-09-27T10:52:55+00:00"
- },
- {
-  "id": "743fae35630b",
-  "title": "Official: Italy international Scalvini extends Atalanta contract",
-  "player": "Giorgio Scalvini",
-  "title_ko": "공식: 이탈리아 국제 스칼비니, 아탈란타 계약 연장",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-italy-scalvini-new-atalanta-contract/",
-  "fee": null,
-  "published": "2026-09-27T10:09:46+00:00"
  }
 ]
