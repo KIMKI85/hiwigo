@@ -1,5 +1,57 @@
 [
  {
+  "id": "6e00d1774aa2",
+  "title": "'We want a winning era' - Arteta signs new Arsenal contract",
+  "player": "Mikel Arteta",
+  "title_ko": "'우리는 승리하는 시대를 원한다' - 아르테타, 새로운 아스날 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
+  "fee": null,
+  "published": "2026-10-07T12:00:00+00:00"
+ },
+ {
+  "id": "a6a531553e45",
+  "title": "Arteta signs new contract with champions Arsenal",
+  "player": "Mikel Arteta",
+  "title_ko": "아르테타, 챔피언 아스널과 새로운 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-07T11:00:53+00:00"
+ },
+ {
+  "id": "bb1478a17b33",
+  "title": "Mikel Arteta signs new Arsenal contract as he becomes highest-paid Premier League boss",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 가 최고 연봉의 프리미어 리그 보스가 되면서 새로운 아스널 계약을 체결합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-new-arsenal-contract-37744394",
+  "fee": null,
+  "published": "2026-10-07T11:00:39+00:00"
+ },
+ {
+  "id": "42b5d5375245",
+  "title": "Pep Guardiola sent Mikel Arteta warning over Arsenal contract that he completely ignored",
+  "player": "Pep Guardiola",
+  "title_ko": "Pep Guardiola는 Arsenal 계약에 대해 Mikel Arteta가 완전히 무시했다고 경고했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-contract-guardiola-37744727",
+  "fee": null,
+  "published": "2026-10-07T11:00:00+00:00"
+ },
+ {
   "id": "6d3f96489e72",
   "title": "Sir Alex Ferguson was one day from becoming Arsenal boss as contract offer revealed",
   "player": "Sir Alex Ferguson",
@@ -206,6 +258,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-konsa-injury-37736929",
   "fee": null,
   "published": "2026-10-06T03:00:00+00:00"
+ },
+ {
+  "id": "5b72f18b4ddd",
+  "title": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
+  "player": null,
+  "title_ko": "ARSENAL 팟캐스트: Arteta 신규 계약 스페셜을 들어보세요!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-10-05T21:50:00+00:00"
  },
  {
   "id": "829ceb2a38fd",
