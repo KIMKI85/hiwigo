@@ -55,10 +55,12 @@ def get_standings(code):
               f"시즌={season.get('startDate','?')}~{season.get('endDate','?')} "
               f"currentMatchday={season.get('currentMatchday','?')}")
         return []
+    # 어떤 테이블 type들이 왔는지 진단 (TOTAL/HOME/AWAY, 또는 그룹별)
+    types = [t.get("type") or t.get("group") or "?" for t in tables]
     rows_out = []
     for table in tables:
         if table.get("type") == "TOTAL":
-            for row in table.get("standings", []):
+            for row in table.get("table", []):
                 rows_out.append({
                     "pos": row.get("position"),
                     "team": (row.get("team") or {}).get("shortName") or (row.get("team") or {}).get("name", "?"),
@@ -68,6 +70,11 @@ def get_standings(code):
                     "gd": row.get("goalDifference", 0), "pts": row.get("points", 0),
                 })
             break
+    if not rows_out:
+        # 테이블은 왔지만 TOTAL 행을 못 뽑은 경우 — type 목록과 첫 테이블 구조를 로그로
+        first = tables[0] if tables else {}
+        print(f"    [진단] {code}: 테이블 {len(tables)}개 수신, type={types}, "
+              f"첫테이블 table행수={len(first.get('table', []))}")
     return rows_out
 
 
