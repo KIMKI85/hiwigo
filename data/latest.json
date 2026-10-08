@@ -1,5 +1,18 @@
 [
  {
+  "id": "efd8371ecadc",
+  "title": "Le transfert de Dani Carvajal à Getafe bloqué en raison de son salaire trop bas?",
+  "player": "Dani Carvajal",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/le-transfert-de-dani-carvajal-a-getafe-bloque-en-raison-de-son-salaire-trop-bas_AV-202610080510.html",
+  "fee": null,
+  "published": "2026-10-08T11:48:25+00:00"
+ },
+ {
   "id": "faf6dfdb5b9e",
   "title": "McTominay contract stand-off carries echoes of Napoli’s Kvaratskhelia saga",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/gary-neville-man-utd-transfers-37708671",
   "fee": null,
   "published": "2026-09-28T07:42:17+00:00"
- },
- {
-  "id": "eff39f6d43b1",
-  "title": "Makhanya price tag soars after Rangers move - gossip",
-  "player": null,
-  "title_ko": "레인저스 이동 후 Makhanya 가격표가 치솟음 - 험담",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6ge4lnj0vnqo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-28T07:01:16+00:00"
  }
 ]
