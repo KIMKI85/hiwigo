@@ -1,5 +1,18 @@
 [
  {
+  "id": "4cd346589e00",
+  "title": "Mikel Arteta has Sir Alex Ferguson to thank for outrageous £20m-a-year Arsenal contract",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 알렉스 퍼거슨 경 (Sir Alex Ferguson) 과 1 년에 2 천만 달러의 아스널 계약 (Arsenal contract) 에 대한 터무니없는 £ 20M",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-arteta-contract-ferguson-guardiola-37750825",
+  "fee": "£20M",
+  "published": "2026-10-08T15:17:05+00:00"
+ },
+ {
   "id": "88586353bc94",
   "title": "Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-juventus-join-race-inter-calhanoglu/",
   "fee": null,
   "published": "2026-09-28T13:45:00+00:00"
- },
- {
-  "id": "30637b6fd023",
-  "title": "Video: Mancini responds to allegations of double Man City contract",
-  "player": "Roberto Mancini",
-  "title_ko": "화면: 맨시티 이중 계약 의혹에 대응한 맨시니",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/mancini-responds-double-man-city-contract/",
-  "fee": null,
-  "published": "2026-09-28T12:19:21+00:00"
  }
 ]
