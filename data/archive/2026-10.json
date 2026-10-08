@@ -1,5 +1,31 @@
 [
  {
+  "id": "88586353bc94",
+  "title": "Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드는 JJ 가브리엘에게 새로운 거래를 제안하지만 £ 350,000에 신동성을 잃을 위험이 있습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/08/manchester-united-offer-jj-gabriel-new-deal-risk-losing-prodigy-football-premier-league",
+  "fee": null,
+  "published": "2026-10-08T14:10:04+00:00"
+ },
+ {
+  "id": "ca4392f86f10",
+  "title": "Real Madrid among clubs interested in McTominay if new Napoli contract is not agreed",
+  "player": null,
+  "title_ko": "새로운 나폴리 계약이 합의되지 않은 경우 McTominay에 관심이있는 구단 중 레알 마드리드",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/real-madrid-among-clubs-interested-mctominay/",
+  "fee": null,
+  "published": "2026-10-08T14:06:35+00:00"
+ },
+ {
   "id": "1a00aa1ce77e",
   "title": "Report: Juventus planning to ‘accelerate’ Nico Gonzalez contract extension",
   "player": "Nico Gonzalez",
