@@ -1,5 +1,18 @@
 [
  {
+  "id": "16878c802b5f",
+  "title": "Arsenal news: £21m January transfer target identified as major announcement made",
+  "player": null,
+  "title_ko": "아스널 뉴스: £ 21M 1월 이전 목표가 주요 발표로 확인됨",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-arteta-mora-37745706",
+  "fee": "£21M",
+  "published": "2026-10-08T03:00:00+00:00"
+ },
+ {
   "id": "3d96cd07b56e",
   "title": "'Amazing' Kane targets 100 international goals",
   "player": "Amazing' Kane",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-reach-agreement-to-extend-rrahmani/",
   "fee": null,
   "published": "2026-09-27T18:15:00+00:00"
- },
- {
-  "id": "2fb55479819d",
-  "title": "Video: Neto lands in Turin to complete Juventus transfer",
-  "player": null,
-  "title_ko": "화면: 네토가 토리노에 상륙하여 유벤투스 이적 완료",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/video-neto-lands-turin-juventus-transfer-2027/",
-  "fee": null,
-  "published": "2026-09-27T10:57:31+00:00"
  }
 ]
