@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a00aa1ce77e",
+  "title": "Report: Juventus planning to ‘accelerate’ Nico Gonzalez contract extension",
+  "player": "Nico Gonzalez",
+  "title_ko": "보고서: Nico Gonzalez 계약 연장을 ‘가속화’ 할 계획인 유벤투스",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-plan-to-extend-nico-gonzalez-contract/",
+  "fee": null,
+  "published": "2026-10-08T13:31:48+00:00"
+ },
+ {
   "id": "efd8371ecadc",
   "title": "Le transfert de Dani Carvajal à Getafe bloqué en raison de son salaire trop bas?",
   "player": "Dani Carvajal",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
   "fee": null,
   "published": "2026-09-28T09:19:04+00:00"
- },
- {
-  "id": "a8d7dc65a69f",
-  "title": "Gary Neville reveals Man Utd's worst signing since Sir Alex left - 'That was a bad one'",
-  "player": "Gary Neville",
-  "title_ko": "게리 네빌 (Gary Neville) 이 알렉스 경이 떠난 이후 맨유의 최악의 계약을 공개합니다 - '나쁜 계약이었습니다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/gary-neville-man-utd-transfers-37708671",
-  "fee": null,
-  "published": "2026-09-28T07:42:17+00:00"
  }
 ]
