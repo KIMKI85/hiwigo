@@ -1,5 +1,18 @@
 [
  {
+  "id": "fd8452469793",
+  "title": "Einst teuerste Spielerin: Kundananji wechselt nach Chicago",
+  "player": "Racheal Kundananji",
+  "title_ko": "Einst teuerste Spielerin: Kundananji wechselt nach 시카고",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/einst-teuerste-spielerin-kundananji-wechselt-nach-chicago-1259451/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-08T22:32:09+00:00"
+ },
+ {
   "id": "995da2515674",
   "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/premier-league/premier-league-ca-va-prendre-encore-beaucoup-de-temps-reconnu-coupable-d-infractions-financieres-manchester-city-pret-a-se-defendre-jusqu-a-bout_AV-202609290316.html",
   "fee": null,
   "published": "2026-09-29T08:10:11+00:00"
- },
- {
-  "id": "0d0a2238e5ec",
-  "title": "'Foreign clubs eye Nedeljkovic while on Rangers loan' - gossip",
-  "player": "Kosta Nedeljkovic",
-  "title_ko": "'외국 클럽이 레인저스 임대 중 Nedeljkovic을 주목합니다' - 잡담",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c64gvnzey95go?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-29T07:24:42+00:00"
  }
 ]
