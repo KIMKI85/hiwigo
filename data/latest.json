@@ -1,5 +1,18 @@
 [
  {
+  "id": "d688a81f3aed",
+  "title": "Provedel preparing for Inter debut as Chivu plans goalkeeper swap for Parma",
+  "player": "Cristian Chivu",
+  "title_ko": "치부가 파르마와의 골키퍼 스왑을 계획함에 따라 인테르 데뷔를 준비하는 프로베델",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/provedel-preparing-inter-debut-goalkeeper-swap/",
+  "fee": null,
+  "published": "2026-10-08T17:36:54+00:00"
+ },
+ {
   "id": "525b73dada91",
   "title": "Official: Bologna sign ex-Inter and Man United defender Darmian on free transfer",
   "player": "Matteo Darmian",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-en-grande-forme-avec-le-portugal-et-al-nassr-joao-felix-a-vraiment-hate-de-revenir-en-europe_AV-202609280719.html",
   "fee": null,
   "published": "2026-09-28T17:18:10+00:00"
- },
- {
-  "id": "33ed468b9578",
-  "title": "Official: Juventus re-sign Neto as Grabara replacement",
-  "player": "Norberto Neto",
-  "title_ko": "공식: 유벤투스, 그라바라 대신 네토 재계약",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-neto-returns-to-juventus/",
-  "fee": null,
-  "published": "2026-09-28T14:38:32+00:00"
  }
 ]
