@@ -1,5 +1,18 @@
 [
  {
+  "id": "faf6dfdb5b9e",
+  "title": "McTominay contract stand-off carries echoes of Napoli’s Kvaratskhelia saga",
+  "player": null,
+  "title_ko": "McTominay 계약 스탠드 오프는 나폴리의 Kvaratskhelia 사가의 메아리를 운반합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/mctominay-contract-kvaratskhelia-saga/",
+  "fee": null,
+  "published": "2026-10-08T10:00:00+00:00"
+ },
+ {
   "id": "e25207125124",
   "title": "Juventus not convinced by Woltemade as club target ex-Arsenal and Atalanta strikers",
   "player": "Nick Woltemade",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-lundi-28-septembre_LN-202609280199.html",
   "fee": null,
   "published": "2026-09-28T06:26:05+00:00"
- },
- {
-  "id": "df177dd2886e",
-  "title": "Real Madrid make Erling Haaland transfer decision after Man City learn 'likely' punishment",
-  "player": "Erling Haaland",
-  "title_ko": "레알 마드리드는 맨시티가 '가능성 있는' 처벌을 배운 후 에를링 할란드 이적 결정을 내린다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/haaland-real-madrid-transfer-mancity-37708301",
-  "fee": null,
-  "published": "2026-09-28T05:00:00+00:00"
  }
 ]
