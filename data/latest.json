@@ -1,5 +1,18 @@
 [
  {
+  "id": "0937dc462e28",
+  "title": "DIRECT. Mercato: David Silva sort de sa retraite à 40 ans et signe dans une destination exotique",
+  "player": "David Silva",
+  "title_ko": "직접. Mercato: David Silva sort de sa retraite à 40 ans et signe dans une destination exotique",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-8-octobre-2026_LN-202610080159.html",
+  "fee": null,
+  "published": "2026-10-08T05:35:16+00:00"
+ },
+ {
   "id": "332233a72b0c",
   "title": "Liverpool news: Record-breaking bid made for wonderkid as race for 'unsellable' star heats up",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-balde-37707226",
   "fee": null,
   "published": "2026-09-28T03:30:00+00:00"
- },
- {
-  "id": "2bdd652ab53d",
-  "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
-  "player": "Bruno Fernandes",
-  "title_ko": "국제 브레이크 부상자 명단에 오른 페르난데스, 각포, 도르구",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-09-27T19:05:33+00:00"
  }
 ]
