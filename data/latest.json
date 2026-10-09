@@ -1,5 +1,18 @@
 [
  {
+  "id": "a4d2d8a23d5a",
+  "title": "Arsenal news: Julian Alvarez in huge transfer U-turn and contact made with striker's camp",
+  "player": "Julian Alvarez",
+  "title_ko": "아스날 뉴스: 줄리안 알바레즈 (Julian Alvarez) 가 엄청난 이적 유턴과 스트라이커 캠프와의 접촉",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37749909",
+  "fee": null,
+  "published": "2026-10-09T03:00:00+00:00"
+ },
+ {
   "id": "fd8452469793",
   "title": "Einst teuerste Spielerin: Kundananji wechselt nach Chicago",
   "player": "Racheal Kundananji",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/agent-kayode-transfer-prediction-goal-italy/",
   "fee": null,
   "published": "2026-09-29T08:58:51+00:00"
- },
- {
-  "id": "f6725fc86956",
-  "title": "Premier League: \"Ça va prendre encore beaucoup de temps\", reconnu coupable d’infractions financières, Manchester City prêt à se défendre jusqu’à bout",
-  "player": "Ferran Soriano",
-  "title_ko": "프리미어 리그: \"Ça va prendre encore beaucoup de temps\", reconnu coupable d 'infractions financières, Manchester City prêt à se défendre jusqu' à bout",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/premier-league-ca-va-prendre-encore-beaucoup-de-temps-reconnu-coupable-d-infractions-financieres-manchester-city-pret-a-se-defendre-jusqu-a-bout_AV-202609290316.html",
-  "fee": null,
-  "published": "2026-09-29T08:10:11+00:00"
  }
 ]
