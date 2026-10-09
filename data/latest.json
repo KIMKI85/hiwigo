@@ -1,5 +1,18 @@
 [
  {
+  "id": "40df927d4188",
+  "title": "Kai Rooney's ban for Wayne, Man Utd legend's reaction to son's release and contract rule",
+  "player": "Kai Rooney's",
+  "title_ko": "카이 루니의 웨인 출입금지, 아들의 방출과 계약 규칙에 대한 맨유의 전설적인 반응",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-kai-man-utd-37740313",
+  "fee": null,
+  "published": "2026-10-09T05:00:00+00:00"
+ },
+ {
   "id": "840c5b4fd2d0",
   "title": "Liverpool news: Andoni Iraola transfer mistake highlighted as £35m ace proves Reds chief wrong",
   "player": "Andoni Iraola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-transfer-37714623",
   "fee": null,
   "published": "2026-09-30T03:30:00+00:00"
- },
- {
-  "id": "3c181887522c",
-  "title": "Fraude à un milliard: Manchester City aurait été informé de sa culpabilité avant son mercato délirant",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/fraude-a-un-milliard-manchester-city-aurait-ete-informe-de-sa-culpabilite-avant-son-mercato-delirant_AV-202609290905.html",
-  "fee": null,
-  "published": "2026-09-29T20:44:07+00:00"
  }
 ]
