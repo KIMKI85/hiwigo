@@ -1,5 +1,18 @@
 [
  {
+  "id": "9139c2e30b32",
+  "title": "Mercato: comment Julian Alvarez mise sur Javier Pastore pour l'exfiltrer de l'Atlético de Madrid cet hiver",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: Comment Julian Alvarez mise sur Javier Pastore pour l 'exfiltrer de l' Atlético de Madrid cet hiver",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/transferts/mercato-comment-julian-alvarez-mise-sur-javier-pastore-pour-l-exfiltrer-de-l-atletico-de-madrid-cet-hiver_AV-202610090397.html",
+  "fee": null,
+  "published": "2026-10-09T09:42:57+00:00"
+ },
+ {
   "id": "f3a0f27b9c00",
   "title": "Man City charges LIVE: Triple punishment agreement as Premier League chief hatches £1bn plan",
   "player": "Enzo Maresca",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/laporta-lautaro-martinez-rules-out-fabregas/",
   "fee": null,
   "published": "2026-09-30T08:43:04+00:00"
- },
- {
-  "id": "0e81f4bb6ad1",
-  "title": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
-  "player": null,
-  "title_ko": "계좌에 £ 830M이 부풀려진 이체에서 £ 12억 - 맨시티의 '별표 시대'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
-  "fee": "£1.2BN",
-  "published": "2026-09-30T06:26:34+00:00"
  }
 ]
