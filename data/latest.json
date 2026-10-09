@@ -1,5 +1,18 @@
 [
  {
+  "id": "f3a0f27b9c00",
+  "title": "Man City charges LIVE: Triple punishment agreement as Premier League chief hatches £1bn plan",
+  "player": "Enzo Maresca",
+  "title_ko": "맨시티 요금 라이브: 프리미어 리그 수석 해치 £ 10억 플랜으로 3중 처벌 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-liverpool-37752299",
+  "fee": "£1BN",
+  "published": "2026-10-09T05:40:18+00:00"
+ },
+ {
   "id": "40df927d4188",
   "title": "Kai Rooney's ban for Wayne, Man Utd legend's reaction to son's release and contract rule",
   "player": "Kai Rooney's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
   "fee": "£1.2BN",
   "published": "2026-09-30T06:26:34+00:00"
- },
- {
-  "id": "c0ed72a075f1",
-  "title": "Man Utd news: JJ Gabriel makes U-turn and secret transfer meeting with ex-manager emerges",
-  "player": null,
-  "title_ko": "맨유 소식: JJ 가브리엘, 전 매니저와 U턴 및 비밀 이적 미팅 진행",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-transfer-37714623",
-  "fee": null,
-  "published": "2026-09-30T03:30:00+00:00"
  }
 ]
