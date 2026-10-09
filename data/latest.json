@@ -1,5 +1,18 @@
 [
  {
+  "id": "45d148e5662e",
+  "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
+  "player": "Gilberto Mora",
+  "title_ko": "10대 Mora를 위한 아스날 아이 딜 - 토요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-09T21:19:35+00:00"
+ },
+ {
   "id": "11b0c99d6ba3",
   "title": "Official: Nico Gonzalez signs new contract with Juventus until 2030",
   "player": "Nico Gonzalez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/newcastle-chelsea-scalvini-transfer-hope/",
   "fee": null,
   "published": "2026-09-30T13:20:33+00:00"
- },
- {
-  "id": "3723747bd943",
-  "title": "Scalvini: Every word Italy defender said on France clash, Turkiye win and potential move abroad",
-  "player": "Giorgio Scalvini",
-  "title_ko": "스칼비니: 모든 단어 이탈리아 수비수는 프랑스 충돌, Turkiye 승리 및 해외 진출 가능성에 대해 말했다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/scalvini-every-word-italy-france-turkiye-move/",
-  "fee": null,
-  "published": "2026-09-30T12:28:30+00:00"
  }
 ]
