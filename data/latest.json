@@ -1,5 +1,18 @@
 [
  {
+  "id": "840c5b4fd2d0",
+  "title": "Liverpool news: Andoni Iraola transfer mistake highlighted as £35m ace proves Reds chief wrong",
+  "player": "Andoni Iraola",
+  "title_ko": "리버풀 뉴스: 안도니 이라올라 이적 실수, £ 35M 에이스로 강조, 레즈 수석이 틀렸음을 입증",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-transfer-latest-37750769",
+  "fee": "£35M",
+  "published": "2026-10-09T04:00:00+00:00"
+ },
+ {
   "id": "a4d2d8a23d5a",
   "title": "Arsenal news: Julian Alvarez in huge transfer U-turn and contact made with striker's camp",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/premier-league/fraude-a-un-milliard-manchester-city-aurait-ete-informe-de-sa-culpabilite-avant-son-mercato-delirant_AV-202609290905.html",
   "fee": null,
   "published": "2026-09-29T20:44:07+00:00"
- },
- {
-  "id": "7529e706f2ff",
-  "title": "Agent makes Kayode transfer prediction after goal on Italy debut",
-  "player": "Michael Kayode",
-  "title_ko": "에이전트가 이탈리아 데뷔 골 이후 카요데 이적 예측을 함",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/agent-kayode-transfer-prediction-goal-italy/",
-  "fee": null,
-  "published": "2026-09-29T08:58:51+00:00"
  }
 ]
