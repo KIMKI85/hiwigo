@@ -1,5 +1,18 @@
 [
  {
+  "id": "d5bdf47dd196",
+  "title": "Mikel Arteta makes Arsenal vow after signing new contract - 'We need to stay on top'",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 새로운 계약에 서명 한 후 아스날 서약을합니다 - '우리는 정상에 머물러야합니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-makes-arsenal-vow-37755751",
+  "fee": null,
+  "published": "2026-10-09T21:30:00+00:00"
+ },
+ {
   "id": "45d148e5662e",
   "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
   "player": "Gilberto Mora",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-09-30T14:07:18+00:00"
- },
- {
-  "id": "a968084a744a",
-  "title": "Newcastle and Chelsea given Scalvini transfer hope despite Atalanta renewal",
-  "player": "Giorgio Scalvini",
-  "title_ko": "아탈란타 리뉴얼에도 불구하고 스칼비니에게 희망을 안겨준 뉴캐슬과 첼시",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/newcastle-chelsea-scalvini-transfer-hope/",
-  "fee": null,
-  "published": "2026-09-30T13:20:33+00:00"
  }
 ]
