@@ -1,5 +1,18 @@
 [
  {
+  "id": "11b0c99d6ba3",
+  "title": "Official: Nico Gonzalez signs new contract with Juventus until 2030",
+  "player": "Nico Gonzalez",
+  "title_ko": "공식: Nico Gonzalez, 2030년까지 유벤투스와 신규 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-nico-gonzalez-new-juventus-contract/",
+  "fee": null,
+  "published": "2026-10-09T15:36:02+00:00"
+ },
+ {
   "id": "69bc5b6d7bd0",
   "title": "Transfer Centre LIVE! Bayern chief 'positive' about Kane contract talks",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/scalvini-every-word-italy-france-turkiye-move/",
   "fee": null,
   "published": "2026-09-30T12:28:30+00:00"
- },
- {
-  "id": "7ca09acb0978",
-  "title": "Inside Rangers' summer transfer window - but will it deliver success?",
-  "player": "Inside Rangers",
-  "title_ko": "레인저스의 여름 이동 창 내부 - 하지만 성공할 수 있을까요?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13593167/rangers-transfers-inside-the-summer-window-that-lay-foundations-for-consecutive-celtic-wins-but-will-it-deliver-long-term-success",
-  "fee": null,
-  "published": "2026-09-30T09:30:00+00:00"
  }
 ]
