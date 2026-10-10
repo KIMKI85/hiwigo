@@ -1,5 +1,18 @@
 [
  {
+  "id": "2c2fb4ec4c26",
+  "title": "Naderi scores twice as Rangers beat Kilmarnock to move top",
+  "player": "Ryan Naderi",
+  "title_ko": "Naderi는 레인저스가 Kilmarnock을 이기고 정상으로 이동할 때 두 배의 점수를 얻습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/rangers-vs-kilmarnock/report/558380",
+  "fee": null,
+  "published": "2026-10-10T17:30:00+00:00"
+ },
+ {
   "id": "375048ba2973",
   "title": "Ángel Torres avala para que LaLiga admita el fichaje de Carvajal: “Estamos pendientes de que Dani diga”",
   "player": "Ángel Torres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-erling-haaland-breno-37724746",
   "fee": "£9M",
   "published": "2026-10-02T03:00:00+00:00"
- },
- {
-  "id": "a60e7aa55f9a",
-  "title": "Alejandro Garnacho decision slammed after £43m Chelsea transfer details come to light",
-  "player": "Alejandro Garnacho",
-  "title_ko": "£ 43M 첼시 이적 정보가 공개된 후 Alejandro Garnacho 결정이 내려짐",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-aston-villa-chelsea-37725456",
-  "fee": "£43M",
-  "published": "2026-10-01T20:36:17+00:00"
  }
 ]
