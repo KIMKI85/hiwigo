@@ -1,5 +1,31 @@
 [
  {
+  "id": "297d03ad2d3f",
+  "title": "'I had the best time of my life at Leeds – but I didn't need convincing to join Arsenal'",
+  "player": null,
+  "title_ko": "'리즈에서 인생 최고의 시간을 보냈지만, 아스널에 합류하기 위해 설득할 필요는 없었습니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-leeds-united-transfer-white-37740214",
+  "fee": null,
+  "published": "2026-10-10T03:00:00+00:00"
+ },
+ {
+  "id": "e8d931a98f30",
+  "title": "Arsenal news: Mikel Arteta set for transfer windfall as he discovers £85million price tag",
+  "player": "Mikel Arteta",
+  "title_ko": "무기고 뉴스: Mikel Arteta가 £ 85million 가격표를 발견하면서 환승 횡재로 설정됨",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-transfer-arteta-37754545",
+  "fee": "£85M",
+  "published": "2026-10-10T03:00:00+00:00"
+ },
+ {
   "id": "51331d09cc97",
   "title": "Papers: Man Utd forced into transfer market in January?",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/football-italia-show-dilemma-newcastle-azzurro/",
   "fee": null,
   "published": "2026-09-30T17:01:23+00:00"
- },
- {
-  "id": "e6003c67416c",
-  "title": "Napoli star offers Scott McTominay update and makes Man Utd transfer point",
-  "player": "Billy Gilmour",
-  "title_ko": "나폴리 스타는 스콧 맥토미네이 (Scott McTominay) 에게 업데이트를 제공하고 맨체스터 유나이티드 이적",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/napoli-man-utd-scott-mctominay-37720287",
-  "fee": null,
-  "published": "2026-09-30T16:08:01+00:00"
- },
- {
-  "id": "2bb64a7fa1f0",
-  "title": "Mercato: revalorisation XXL, clause libératoire à plus de 200 millions... le Bayern Munich lance l'opération prolongation d'Olise",
-  "player": "Michael Olise",
-  "title_ko": "Mercato: revalorisation XXL, clause libératoire à plus de 200 million... le Bayern Munich lance l 'opération prolongation d' Olise",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-revalorisation-xxl-clause-liberatoire-a-plus-de-200-millions-le-bayern-munich-lance-l-operation-prolongation-d-olise_AV-202609300614.html",
-  "fee": null,
-  "published": "2026-09-30T14:57:56+00:00"
  }
 ]
