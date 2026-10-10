@@ -1,5 +1,18 @@
 [
  {
+  "id": "efafdac07d54",
+  "title": "Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges",
+  "player": "Old Trafford",
+  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘, 구단의 침묵이 도시 요금에 부수어짐에 따라 계약 제안",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-jj-gabriel-37754865",
+  "fee": null,
+  "published": "2026-10-10T03:30:00+00:00"
+ },
+ {
   "id": "297d03ad2d3f",
   "title": "'I had the best time of my life at Leeds – but I didn't need convincing to join Arsenal'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-bayern-ohne-wechsel-mahmutovic-gleich-gefordert-1256835/artikel#omrss",
   "fee": null,
   "published": "2026-09-30T18:10:00+00:00"
- },
- {
-  "id": "6c63270f6b5d",
-  "title": "Football Italia Show: Italy’s dilemma, Newcastle transfer hope & untouchable Azzurro",
-  "player": "Football Italia Show",
-  "title_ko": "풋볼 이탈리아 쇼: 이탈리아의 딜레마, 뉴캐슬 이적 희망, 만질 수 없는 아주로",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/football-italia-show-dilemma-newcastle-azzurro/",
-  "fee": null,
-  "published": "2026-09-30T17:01:23+00:00"
  }
 ]
