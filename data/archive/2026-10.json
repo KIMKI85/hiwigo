@@ -1,5 +1,18 @@
 [
  {
+  "id": "2f1dfa4b4742",
+  "title": "Sochaux-Boulogne: le craquage de Jonas Martin, prêt à en venir aux mains avec un supporter",
+  "player": "Jonas Martin",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-2/sochaux-boulogne-le-craquage-de-jonas-martin-pret-a-en-venir-aux-mains-avec-un-supporter_AN-202610100274.html",
+  "fee": null,
+  "published": "2026-10-10T14:53:19+00:00"
+ },
+ {
   "id": "b663cd6e84c3",
   "title": "Man Utd transfer blunder exposed as Real Madrid enquiry revealed for £25m star",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/scott-mctominay-man-utd-transfer-37757962",
   "fee": "£25M",
   "published": "2026-10-10T14:13:13+00:00"
+ },
+ {
+  "id": "b3a06753f2fe",
+  "title": "Naderi and Kelsy on target as Rangers threaten to run riot vs Kilmarnock LIVE!",
+  "player": null,
+  "title_ko": "레인저스가 킬마녹에 맞서 폭동을 일으키겠다고 위협함에 따라 나데리와 켈시가 표적을 잡았습니다!",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/rangers-vs-kilmarnock/live/558380",
+  "fee": null,
+  "published": "2026-10-10T14:00:00+00:00"
  },
  {
   "id": "f027da11377b",
