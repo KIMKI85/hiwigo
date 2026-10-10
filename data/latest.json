@@ -1,5 +1,18 @@
 [
  {
+  "id": "d53eb961df0d",
+  "title": "Report: Cardinale makes 50m cash injection for Milan transfers",
+  "player": "Gerry Cardinale",
+  "title_ko": "보고서: Cardinale, 밀라노 송금을 위해 50M 현금 주입",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/cardinale-50m-cash-injection-milan-transfers/",
+  "fee": null,
+  "published": "2026-10-10T09:05:35+00:00"
+ },
+ {
   "id": "e52ea61d08fc",
   "title": "Man City charges LIVE: Settlement talks with Premier League as punishments agreed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/watch-nico-paz-scores-fantastic-chip-argentina/",
   "fee": null,
   "published": "2026-10-01T08:34:36+00:00"
- },
- {
-  "id": "4d6d0b9f9cf4",
-  "title": "Arsenal news: Vinicius Jr thanks Gunners star as club pursue £40m transfer for Brazilian",
-  "player": "Vinicius Jr",
-  "title_ko": "아스널 뉴스: 비니시우스 주니어, 구단으로서 브라질 출신으로 £ 40M 이적 추진한 구너스 스타에게 감사",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-jr-37720197",
-  "fee": "£40M",
-  "published": "2026-10-01T03:00:00+00:00"
  }
 ]
