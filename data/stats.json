@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T06:01:56.901332+00:00",
+ "updated": "2026-10-10T12:42:39.937390+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -19,12 +19,12 @@
      "pos": 2,
      "team": "Arsenal",
      "crest": "https://crests.football-data.org/57.png",
-     "played": 5,
+     "played": 6,
      "won": 4,
-     "draw": 0,
+     "draw": 1,
      "lost": 1,
      "gd": 4,
-     "pts": 12
+     "pts": 13
     },
     {
      "pos": 3,
@@ -39,6 +39,17 @@
     },
     {
      "pos": 4,
+     "team": "Leeds United",
+     "crest": "https://crests.football-data.org/341.png",
+     "played": 6,
+     "won": 2,
+     "draw": 4,
+     "lost": 0,
+     "gd": 4,
+     "pts": 10
+    },
+    {
+     "pos": 5,
      "team": "Brentford",
      "crest": "https://crests.football-data.org/402.png",
      "played": 5,
@@ -46,17 +57,6 @@
      "draw": 3,
      "lost": 0,
      "gd": 6,
-     "pts": 9
-    },
-    {
-     "pos": 5,
-     "team": "Leeds United",
-     "crest": "https://crests.football-data.org/341.png",
-     "played": 5,
-     "won": 2,
-     "draw": 3,
-     "lost": 0,
-     "gd": 4,
      "pts": 9
     },
     {
