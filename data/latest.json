@@ -1,5 +1,31 @@
 [
  {
+  "id": "e52ea61d08fc",
+  "title": "Man City charges LIVE: Settlement talks with Premier League as punishments agreed",
+  "player": null,
+  "title_ko": "맨시티 요금 산정: 합의에 따른 처벌에 따라 프리미어리그와의 합의 협상",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-settlement-37757153",
+  "fee": null,
+  "published": "2026-10-10T07:07:43+00:00"
+ },
+ {
+  "id": "09844840d521",
+  "title": "Arsenal bid to close gap on City, lowly Spurs head to Manchester United – matchday live",
+  "player": null,
+  "title_ko": "아스날이 시티와의 격차를 좁히기 위해 입찰하고, 로울리 스퍼스는 맨체스터 유나이티드로 향합니다 – 매치데이 라이브",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live",
+  "fee": null,
+  "published": "2026-10-10T07:00:51+00:00"
+ },
+ {
   "id": "efafdac07d54",
   "title": "Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges",
   "player": "Old Trafford",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-vinicius-jr-37720197",
   "fee": "£40M",
   "published": "2026-10-01T03:00:00+00:00"
- },
- {
-  "id": "85af2d44c599",
-  "title": "\"Ist es überhaupt denkbar, dass Tresoldi zu Italien wechselt?\"",
-  "player": "Nicolo Tresoldi",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/ist-es-ueberhaupt-denkbar-dass-tresoldi-zu-italien-wechselt-1257368/video#omrss",
-  "fee": null,
-  "published": "2026-09-30T20:08:37+00:00"
- },
- {
-  "id": "55be8396344b",
-  "title": "LIVE! Bayern ohne Wechsel - Mahmutovic gleich gefordert",
-  "player": "Benfica Lissabon",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-bayern-ohne-wechsel-mahmutovic-gleich-gefordert-1256835/artikel#omrss",
-  "fee": null,
-  "published": "2026-09-30T18:10:00+00:00"
  }
 ]
