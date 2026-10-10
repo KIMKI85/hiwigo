@@ -1,5 +1,18 @@
 [
  {
+  "id": "4c2967981943",
+  "title": "Palmer signs new Chelsea contract until 2034",
+  "player": "Cole Palmer",
+  "title_ko": "Palmer, 2034년까지 새로운 첼시 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-10T09:51:09+00:00"
+ },
+ {
   "id": "d53eb961df0d",
   "title": "Report: Cardinale makes 50m cash injection for Milan transfers",
   "player": "Gerry Cardinale",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-burnham-37721452",
   "fee": null,
   "published": "2026-10-01T10:21:31+00:00"
- },
- {
-  "id": "dfdedc3d0f2f",
-  "title": "Watch: Nico Paz scores fantastic chip as Argentina prepare to bid farewell to Messi",
-  "player": "Nico Paz",
-  "title_ko": "시청: 아르헨티나가 메시에게 작별 인사를 준비하는 동안 니코 파즈는 환상적인 칩을 기록합니다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/watch-nico-paz-scores-fantastic-chip-argentina/",
-  "fee": null,
-  "published": "2026-10-01T08:34:36+00:00"
  }
 ]
