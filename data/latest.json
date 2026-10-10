@@ -1,5 +1,18 @@
 [
  {
+  "id": "b663cd6e84c3",
+  "title": "Man Utd transfer blunder exposed as Real Madrid enquiry revealed for £25m star",
+  "player": null,
+  "title_ko": "£ 25M 스타에 대한 레알 마드리드의 문의가 밝혀지면서 노출된 맨유 이적 실수",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/scott-mctominay-man-utd-transfer-37757962",
+  "fee": "£25M",
+  "published": "2026-10-10T14:13:13+00:00"
+ },
+ {
   "id": "f027da11377b",
   "title": "'We win major trophies here': Palmer signs new Chelsea contract",
   "player": "Cole Palmer",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-barcelona-37723902",
   "fee": null,
   "published": "2026-10-01T13:58:17+00:00"
- },
- {
-  "id": "ec0b34090237",
-  "title": "Man City fight back with 'PROOF' government paid sponsorship deals in appeal over 115 charges",
-  "player": null,
-  "title_ko": "맨시티는 115건의 혐의에 대해 항소하는 '증명' 정부가 지불한 스폰서십 거래로 맞서 싸운다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-evidence-37723814",
-  "fee": null,
-  "published": "2026-10-01T13:16:04+00:00"
  }
 ]
