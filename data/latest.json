@@ -1,5 +1,18 @@
 [
  {
+  "id": "5a42628bed7a",
+  "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke",
+  "player": "Zu Gast",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-11T15:00:44+00:00"
+ },
+ {
   "id": "6a648c5b23a2",
   "title": "OM: \"C'est la meilleure chose à faire\", Paixao prêt à baisser son salaire pour aider le club",
   "player": "Igor Paixão",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/ballon-dor-winner-andriy-shevchenko-37730926",
   "fee": null,
   "published": "2026-10-03T13:17:20+00:00"
- },
- {
-  "id": "ef82d593ac96",
-  "title": "Man City defence could be in tatters as claim about 'sham deals' was DENIED by Etihad",
-  "player": null,
-  "title_ko": "'허위 거래' 에 대한 주장이 에티하드에 의해 거부됨에 따라 맨시티의 수비가 더럽혀질 수 있음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-etihad-37730733",
-  "fee": null,
-  "published": "2026-10-03T12:43:05+00:00"
  }
 ]
