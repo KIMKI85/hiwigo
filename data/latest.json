@@ -1,5 +1,18 @@
 [
  {
+  "id": "7104a68205b3",
+  "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
+  "player": "Enzo Maresca",
+  "title_ko": "'우리는 소음을 처리합니다' - 맨시티 우승 후 마레스카 '자랑스러움'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-11T18:38:31+00:00"
+ },
+ {
   "id": "ecbbbcb2b7f0",
   "title": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
   "player": "Under Gennaro Gattuso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-nusa-tzolis-injury-37731722",
   "fee": "£34M",
   "published": "2026-10-03T19:11:06+00:00"
- },
- {
-  "id": "2a17e61f3f27",
-  "title": "Former West Ham winger scores debut goal just five hours after completing transfer",
-  "player": null,
-  "title_ko": "이전 웨스트햄 윙어는 이적 완료 후 5시간 만에 데뷔 골을 기록했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/former-west-ham-winger-scores-37731662",
-  "fee": null,
-  "published": "2026-10-03T18:11:23+00:00"
  }
 ]
