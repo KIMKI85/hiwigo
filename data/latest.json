@@ -1,5 +1,18 @@
 [
  {
+  "id": "fa6f178b6c16",
+  "title": "'Man City must've kicked themselves when I joined Liverpool - I was better than players there'",
+  "player": null,
+  "title_ko": "'맨시티는 내가 리버풀에 입단했을 때 스스로를 발로 찼을 것이다 - 나는 그곳의 선수들보다 뛰어나다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-premier-league-37747815",
+  "fee": null,
+  "published": "2026-10-11T06:30:00+00:00"
+ },
+ {
   "id": "fda65f36a4f6",
   "title": "Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available",
   "player": "Mikel Merino's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/mctominay-could-leave-napoli/",
   "fee": "€8M",
   "published": "2026-10-02T08:45:00+00:00"
- },
- {
-  "id": "f7f28cf125c5",
-  "title": "'Widell claims Rangers player blocked Ibrox move' - gossip",
-  "player": "Casper Widell",
-  "title_ko": "'Widell이 레인저스 플레이어가 Ibrox 무브를 차단했다고 주장합니다' - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cw4grgjpem80o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-02T07:22:15+00:00"
  }
 ]
