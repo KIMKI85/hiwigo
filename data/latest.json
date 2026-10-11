@@ -1,5 +1,18 @@
 [
  {
+  "id": "6a648c5b23a2",
+  "title": "OM: \"C'est la meilleure chose à faire\", Paixao prêt à baisser son salaire pour aider le club",
+  "player": "Igor Paixão",
+  "title_ko": "OM: \"C 'est la meilleure chose à faire\", Paixao prêt à baisser son salaire pour aider le club",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-c-est-la-meilleure-chose-a-faire-paixao-pret-a-baisser-son-salaire-pour-aider-le-club_AV-202610110252.html",
+  "fee": null,
+  "published": "2026-10-11T14:09:32+00:00"
+ },
+ {
   "id": "643ba5153a03",
   "title": "LIVE! Vier Wechsel beim FC - Holt Gladbach beim Blessin-Debüt die ersten Punkte?",
   "player": "Vier Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-etihad-37730733",
   "fee": null,
   "published": "2026-10-03T12:43:05+00:00"
- },
- {
-  "id": "fa6ccebc7f8f",
-  "title": "Arsenal news: Eli Junior Kroupi transfer update as decision made after clash with boss",
-  "player": "Eli Junior Kroupi",
-  "title_ko": "Arsenal 뉴스: Eli Junior Kroupi 이적 업데이트 (보스와 충돌 후 결정)",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-eli-junior-kroupi-transfer-37728194",
-  "fee": null,
-  "published": "2026-10-03T03:00:00+00:00"
  }
 ]
