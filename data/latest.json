@@ -1,5 +1,18 @@
 [
  {
+  "id": "7c675db1f0f8",
+  "title": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
+  "player": "Michael Carrick",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
+  "fee": "£35M",
+  "published": "2026-10-11T08:49:04+00:00"
+ },
+ {
   "id": "fa6f178b6c16",
   "title": "'Man City must've kicked themselves when I joined Liverpool - I was better than players there'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-02T22:30:24+00:00"
- },
- {
-  "id": "30acea9e3f3c",
-  "title": "McTominay could leave Napoli as club look to avoid free transfer after ex Man Utd star’s €8m wage demands",
-  "player": null,
-  "title_ko": "McTominay는 전 맨유 스타의 € 8M 임금 요구 후 무료 이적을 피하기 위해 클럽 외모로 나폴리를 떠날 수 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/mctominay-could-leave-napoli/",
-  "fee": "€8M",
-  "published": "2026-10-02T08:45:00+00:00"
  }
 ]
