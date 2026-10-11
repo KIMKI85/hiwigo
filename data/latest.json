@@ -1,5 +1,18 @@
 [
  {
+  "id": "ecbbbcb2b7f0",
+  "title": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
+  "player": "Under Gennaro Gattuso",
+  "title_ko": "유럽 축구: 라치오가 코모에서 개최된 로마의 세리에 A 정상에서 인테르에 합류",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
+  "fee": null,
+  "published": "2026-10-11T16:09:39+00:00"
+ },
+ {
   "id": "5a42628bed7a",
   "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke",
   "player": "Zu Gast",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/former-west-ham-winger-scores-37731662",
   "fee": null,
   "published": "2026-10-03T18:11:23+00:00"
- },
- {
-  "id": "cf8be8608ad0",
-  "title": "Milan eyeing move for Brighton midfielder Ayari to replace Modric",
-  "player": null,
-  "title_ko": "브라이튼 미드필더 아야리가 모드리치를 대신할 밀란의 시선 이동",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-eyeing-move-brighton-midfielder-ayari/",
-  "fee": null,
-  "published": "2026-10-03T16:24:58+00:00"
  }
 ]
