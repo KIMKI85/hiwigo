@@ -1,5 +1,18 @@
 [
  {
+  "id": "474d10c6f342",
+  "title": "Coventry thump Newcastle for first home win to move out of drop zone",
+  "player": "Frank Lampard's",
+  "title_ko": "코번트리 쿵 뉴캐슬, 드롭 존에서 벗어난 첫 홈경기 승리",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
+  "fee": null,
+  "published": "2026-10-12T22:00:00+00:00"
+ },
+ {
   "id": "f0a8e3530bf5",
   "title": "Man Utd's £100m transfer problem laid bare as new details of summer window emerge",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-zehn-wechsel-bei-frankreich-schlaegt-italien-die-tuerkei-erneut-1257518/artikel#omrss",
   "fee": null,
   "published": "2026-10-05T17:59:21+00:00"
- },
- {
-  "id": "ca19a1200f38",
-  "title": "Man Utd told former flop has become ‘the next Erling Haaland’ after transfer",
-  "player": "Erling Haaland",
-  "title_ko": "맨유는 이전 플랍이 이적 후 ‘다음 Erling Haaland’ 가 되었다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-hojlund-haaland-denmark-37737009",
-  "fee": null,
-  "published": "2026-10-05T14:56:19+00:00"
  }
 ]
