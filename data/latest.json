@@ -1,5 +1,18 @@
 [
  {
+  "id": "f0a8e3530bf5",
+  "title": "Man Utd's £100m transfer problem laid bare as new details of summer window emerge",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드의 £ 100M 이적 문제는 여름 창문의 새로운 디테일이 드러나면서 드러났다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-midfield-recruitment-targets-37762427",
+  "fee": "£100M",
+  "published": "2026-10-12T16:00:00+00:00"
+ },
+ {
   "id": "7d73e4161819",
   "title": "Zaniolo opens up about ‘turbulent summer’ and Alaba’s Udinese move",
   "player": "Nicolò Zaniolo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-hojlund-haaland-denmark-37737009",
   "fee": null,
   "published": "2026-10-05T14:56:19+00:00"
- },
- {
-  "id": "0b81099c62df",
-  "title": "England benefiting from Premier League transfer exodus says Trevoh Chalobah",
-  "player": "Trevoh Chalobah",
-  "title_ko": "프리미어리그 이적 탈출의 혜택을 누리는 잉글랜드의 트레보 샬로바 (Trevoh Chalobah) 는",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/trevoh-chalobah-england-thomas-tuchel-37736673",
-  "fee": null,
-  "published": "2026-10-05T13:56:37+00:00"
  }
 ]
