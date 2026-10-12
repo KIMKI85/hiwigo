@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T06:09:23.746579+00:00",
+ "updated": "2026-10-12T15:42:51.596202+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -572,34 +572,6 @@
    ],
    "results": [
     {
-     "date": "2026-10-11",
-     "home": "Santander",
-     "away": "Valencia",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Real Betis",
-     "away": "Osasuna",
-     "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Real Sociedad",
-     "away": "Deportivo",
-     "hs": 3,
-     "as": 2
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Elche",
-     "away": "Celta",
-     "hs": 0,
-     "as": 0
-    },
-    {
      "date": "2026-10-10",
      "home": "Real Madrid",
      "away": "Villarreal",
@@ -625,6 +597,34 @@
      "home": "Málaga",
      "away": "Espanyol",
      "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Valencia",
+     "away": "Real Sociedad",
+     "hs": 2,
+     "as": 3
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Villarreal",
+     "away": "Levante",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Deportivo",
+     "away": "Real Betis",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Atleti",
+     "away": "Real Madrid",
+     "hs": 2,
      "as": 1
     }
    ],
@@ -1240,6 +1240,20 @@
    ],
    "results": [
     {
+     "date": "2026-10-11",
+     "home": "Freiburg",
+     "away": "Schalke",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-10-11",
+     "home": "1. FC Köln",
+     "away": "M'gladbach",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-10-10",
      "home": "RB Leipzig",
      "away": "Frankfurt",
@@ -1280,20 +1294,6 @@
      "away": "Leverkusen",
      "hs": 3,
      "as": 4
-    },
-    {
-     "date": "2026-10-09",
-     "home": "Dortmund",
-     "away": "Bremen",
-     "hs": 2,
-     "as": 2
-    },
-    {
-     "date": "2026-09-20",
-     "home": "SC Paderborn",
-     "away": "Hoffenheim",
-     "hs": 3,
-     "as": 1
     }
    ],
    "scorers": [
