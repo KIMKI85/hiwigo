@@ -1,5 +1,18 @@
 [
  {
+  "id": "7515604ac3ba",
+  "title": "Mercato: l’entraîneur de Valenciennes écarté... après une victoire 13-0",
+  "player": "Pierre Blois",
+  "title_ko": "Mercato: l 'entraîneur de Valenciennes écarté... après une victoire 13-0",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-entraineur-de-valenciennes-ecarte-apres-une-victoire-13-0_AV-202610120590.html",
+  "fee": null,
+  "published": "2026-10-12T14:15:35+00:00"
+ },
+ {
   "id": "91b132314c17",
   "title": "Mercato: Paixao révèle le moment où il a \"le plus de chances\" de quitter l'OM",
   "player": "Igor Paixao",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-justin-ejodamen-37732974",
   "fee": null,
   "published": "2026-10-05T03:00:00+00:00"
- },
- {
-  "id": "63b9d9e05de9",
-  "title": "Real Madrid join race for Scott - Monday's gossip",
-  "player": "Bournemouth's Alex Scott",
-  "title_ko": "스콧을 위한 레알 마드리드 입단 레이스 - 월요일의 가십",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-04T20:24:19+00:00"
  }
 ]
