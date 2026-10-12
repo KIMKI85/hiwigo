@@ -1,5 +1,18 @@
 [
  {
+  "id": "91b132314c17",
+  "title": "Mercato: Paixao révèle le moment où il a \"le plus de chances\" de quitter l'OM",
+  "player": "Igor Paixao",
+  "title_ko": "Mercato: Paixao révèle le moment où il a \"le plus de chances\" de quitter l 'OM",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/mercato-paixao-revele-le-moment-ou-il-a-le-plus-de-chances-de-quitter-l-om_AV-202610120553.html",
+  "fee": null,
+  "published": "2026-10-12T13:10:07+00:00"
+ },
+ {
   "id": "835f59d8577e",
   "title": "Today’s Papers: Lazio join the lead, Spalletti-Pisacane row, Malen madness",
   "player": "Sport Not",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-04T20:24:19+00:00"
- },
- {
-  "id": "77ad6853d1b1",
-  "title": "Ballon d’or: \"Ne pas l’avoir remporté m’a fait mal\", Ribéry revient sur son immense déception en 2013 et se dit prêt à entamer sa carrière de coach",
-  "player": "Franck Ribéry",
-  "title_ko": "Ballon d 'or: \"Ne pas l' avoir remporté m 'a fait mal\", Ribéry revient sur son immense déception en 2013 et se dit prêt à entamer sa carrière de coach",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ballon-d-or-ne-pas-l-avoir-remporte-m-a-fait-mal-ribery-revient-sur-son-immense-deception-en-2013-et-se-dit-pret-a-entamer-sa-carriere-de-coach_AV-202610040313.html",
-  "fee": null,
-  "published": "2026-10-04T15:56:14+00:00"
  }
 ]
