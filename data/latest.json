@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a037a6bd922",
+  "title": "DIRECT. Mercato: suivez toutes les infos et rumeurs du lundi 12 octobre en live",
+  "player": null,
+  "title_ko": "직접. Mercato: suivez toutes les infos et rumeurs du lundi 12 octobre en live",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-du-lundi-12-octobre-en-live_LN-202610120190.html",
+  "fee": null,
+  "published": "2026-10-12T06:20:58+00:00"
+ },
+ {
   "id": "c75afc364bfc",
   "title": "Man City charges LIVE: Premier League punishment agreement as Liverpool response sent",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/njie-crystal-palace-hijack-move-fiorentina/",
   "fee": null,
   "published": "2026-10-04T12:44:30+00:00"
- },
- {
-  "id": "a89250fbfb2b",
-  "title": "Milan plot January loan for Endrick with Roma also in the running for the Real Madrid talent",
-  "player": null,
-  "title_ko": "밀라노는 레알 마드리드 재능을 위해 로마와 함께 엔드릭을 위해 1월 대출을 계획합니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-and-roma-interested-real-madrid-endrick/",
-  "fee": null,
-  "published": "2026-10-04T11:50:00+00:00"
  }
 ]
