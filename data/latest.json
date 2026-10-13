@@ -1,5 +1,18 @@
 [
  {
+  "id": "417359893cbf",
+  "title": "Former Real Madrid captain Carvajal joins Getafe",
+  "player": "Dani Carvajal",
+  "title_ko": "헤타페에 합류한 전 레알 마드리드 주장 카르바할",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-13T09:21:36+00:00"
+ },
+ {
   "id": "eb1649d252ba",
   "title": "Liverpool news: Rio Ngumoha contract update as 'stupid' star called out by Wayne Rooney",
   "player": "Rio Ngumoha",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-des-nations/france-belgique-restes-signe-une-performance-inedite-en-53-ans-pour-ses-debuts-chez-les-bleus_AV-202610050884.html",
   "fee": null,
   "published": "2026-10-05T19:39:46+00:00"
- },
- {
-  "id": "3a2555024761",
-  "title": "JJ Gabriel transfer truth after Man Utd demands and squad photo update",
-  "player": null,
-  "title_ko": "맨유의 요구와 선수단 사진 업데이트 후 JJ 가브리엘 이적 진실",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-exit-37737824",
-  "fee": null,
-  "published": "2026-10-05T18:19:41+00:00"
  }
 ]
