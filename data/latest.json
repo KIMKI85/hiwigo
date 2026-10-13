@@ -1,5 +1,18 @@
 [
  {
+  "id": "6c7b797f8d0c",
+  "title": "Gasperini opens up about Endrick and Real Madrid transfer request",
+  "player": null,
+  "title_ko": "가스페리니가 엔드릭과 레알 마드리드 이적 요청에 대해 이야기합니다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gasperini-opens-endrick-real-madrid-transfer/",
+  "fee": null,
+  "published": "2026-10-13T13:07:59+00:00"
+ },
+ {
   "id": "898c02113489",
   "title": "'Man Utd are where they're meant to be - they sign Chelsea bench players now'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/noni-madueke-arsenal-transfer-arteta-37738182",
   "fee": null,
   "published": "2026-10-06T04:00:00+00:00"
- },
- {
-  "id": "061f411c2dba",
-  "title": "Arsenal news: Mikel Arteta suffers fresh blow as what Gunners boss told new signing emerges",
-  "player": "Mikel Arteta",
-  "title_ko": "무기고 뉴스: Mikel Arteta는 Gunners 보스가 새로운 계약이 생기면서 신선한 타격을 입었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-konsa-injury-37736929",
-  "fee": null,
-  "published": "2026-10-06T03:00:00+00:00"
  }
 ]
