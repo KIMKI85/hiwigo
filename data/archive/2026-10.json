@@ -1,31 +1,5 @@
 [
  {
-  "id": "3aac37087487",
-  "title": "Liverpool news: Wirtz backed for shock transfer and Barcola 'worth half his price tag'",
-  "player": null,
-  "title_ko": "리버풀 뉴스: Wirtz는 충격 이송을 지지했고 Barcola는 '그의 가격표의 절반 가치'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-wirtz-barcola-37766728",
-  "fee": null,
-  "published": "2026-10-14T04:00:00+00:00"
- },
- {
-  "id": "b836f27ade1d",
-  "title": "Trent Alexander-Arnold agreement reached by Liverpool legends - 'We've missed him'",
-  "player": "Trent Alexander-",
-  "title_ko": "리버풀의 전설들이 합의한 트렌트 알렉산더-아놀드 - '우리는 그를 놓쳤다'",
-  "league": "EPL",
-  "status": "herewego",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-alexander-arnold-agreement-37767570",
-  "fee": null,
-  "published": "2026-10-14T04:00:00+00:00"
- },
- {
   "id": "07908340b609",
   "title": "Liverpool and Chelsea alerted as Alex Scott January transfer gets green light",
   "player": "Alex Scott",
@@ -39,19 +13,6 @@
   "published": "2026-10-13T18:48:34+00:00"
  },
  {
-  "id": "7b1200dd73ce",
-  "title": "Jaissle explains why Woltemade joined Juventus on loan: ‘Still one of our players’",
-  "player": "Matthias Jaissle",
-  "title_ko": "Jaissle은 Woltemade가 유벤투스에 임대로 합류한 이유를 다음과 같이 설명합니다. ‘여전히 우리 선수 중 한 명’",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/jaissle-explains-why-woltemade-joined-juventus/",
-  "fee": null,
-  "published": "2026-10-13T15:41:21+00:00"
- },
- {
   "id": "d1f85507eada",
   "title": "Milan have agreement in place for long-term Pavlovic contract extension",
   "player": null,
@@ -63,19 +24,6 @@
   "url": "https://football-italia.net/milan-pavlovic-contract-extention-agreement/",
   "fee": null,
   "published": "2026-10-13T15:08:20+00:00"
- },
- {
-  "id": "6c7b797f8d0c",
-  "title": "Gasperini opens up about Endrick and Real Madrid transfer request",
-  "player": null,
-  "title_ko": "가스페리니가 엔드릭과 레알 마드리드 이적 요청에 대해 이야기합니다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gasperini-opens-endrick-real-madrid-transfer/",
-  "fee": null,
-  "published": "2026-10-13T13:07:59+00:00"
  },
  {
   "id": "898c02113489",
@@ -154,19 +102,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-midfield-recruitment-targets-37762427",
   "fee": "£100M",
   "published": "2026-10-12T16:00:00+00:00"
- },
- {
-  "id": "7d73e4161819",
-  "title": "Zaniolo opens up about ‘turbulent summer’ and Alaba’s Udinese move",
-  "player": "Nicolò Zaniolo",
-  "title_ko": "자니올로는 ‘격동의 여름‘ 과 알라바의 우디네세 이동에 대해 이야기합니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/zaniolo-turbulent-summer-alaba-udinese-move/",
-  "fee": null,
-  "published": "2026-10-12T15:06:05+00:00"
  },
  {
   "id": "aab53b8a12c1",
@@ -273,19 +208,6 @@
   "published": "2026-10-12T05:41:29+00:00"
  },
  {
-  "id": "dca04e03979b",
-  "title": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-  "player": "Michael Carrick",
-  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘은 마이클 캐릭이 계획을 변경하라고 말한 대로 환승을 떠났습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-  "fee": null,
-  "published": "2026-10-12T03:30:00+00:00"
- },
- {
   "id": "fe6168ff735e",
   "title": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
   "player": "Mikel Arteta",
@@ -388,19 +310,6 @@
   "url": "https://www.skysports.com/f1/live-blog/12040/13597657/f1-singapore-gp-live-race-updates-results-stream-highlights-from-17th-round-of-2026-formula-1-season-at-marina-bay-circuit",
   "fee": null,
   "published": "2026-10-11T11:20:00+00:00"
- },
- {
-  "id": "7c675db1f0f8",
-  "title": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-  "player": "Michael Carrick",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-  "fee": "£35M",
-  "published": "2026-10-11T08:49:04+00:00"
  },
  {
   "id": "fa6f178b6c16",
@@ -611,19 +520,6 @@
   "published": "2026-10-10T03:00:00+00:00"
  },
  {
-  "id": "e8d931a98f30",
-  "title": "Arsenal news: Mikel Arteta set for transfer windfall as he discovers £85million price tag",
-  "player": "Mikel Arteta",
-  "title_ko": "무기고 뉴스: Mikel Arteta가 £ 85million 가격표를 발견하면서 환승 횡재로 설정됨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-transfer-arteta-37754545",
-  "fee": "£85M",
-  "published": "2026-10-10T03:00:00+00:00"
- },
- {
   "id": "51331d09cc97",
   "title": "Papers: Man Utd forced into transfer market in January?",
   "player": null,
@@ -726,19 +622,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-liverpool-37752299",
   "fee": "£1BN",
   "published": "2026-10-09T05:40:18+00:00"
- },
- {
-  "id": "40df927d4188",
-  "title": "Kai Rooney's ban for Wayne, Man Utd legend's reaction to son's release and contract rule",
-  "player": "Kai Rooney's",
-  "title_ko": "카이 루니의 웨인 출입금지, 아들의 방출과 계약 규칙에 대한 맨유의 전설적인 반응",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-kai-man-utd-37740313",
-  "fee": null,
-  "published": "2026-10-09T05:00:00+00:00"
  },
  {
   "id": "840c5b4fd2d0",
@@ -947,19 +830,6 @@
   "url": "https://football-italia.net/mctominay-contract-kvaratskhelia-saga/",
   "fee": null,
   "published": "2026-10-08T10:00:00+00:00"
- },
- {
-  "id": "62f14c6a9b1c",
-  "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타의 새로운 계약은 현재 아스널의 힘이 어디에 있는지를 반영합니다 | 에드 아론스",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract",
-  "fee": null,
-  "published": "2026-10-08T09:49:56+00:00"
  },
  {
   "id": "e25207125124",
@@ -1365,19 +1235,6 @@
   "published": "2026-10-06T04:00:00+00:00"
  },
  {
-  "id": "061f411c2dba",
-  "title": "Arsenal news: Mikel Arteta suffers fresh blow as what Gunners boss told new signing emerges",
-  "player": "Mikel Arteta",
-  "title_ko": "무기고 뉴스: Mikel Arteta는 Gunners 보스가 새로운 계약이 생기면서 신선한 타격을 입었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-konsa-injury-37736929",
-  "fee": null,
-  "published": "2026-10-06T03:00:00+00:00"
- },
- {
   "id": "5b72f18b4ddd",
   "title": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
   "player": null,
@@ -1428,32 +1285,6 @@
   "url": "https://www.kicker.de/live-zehn-wechsel-bei-frankreich-schlaegt-italien-die-tuerkei-erneut-1257518/artikel#omrss",
   "fee": null,
   "published": "2026-10-05T17:59:21+00:00"
- },
- {
-  "id": "ca19a1200f38",
-  "title": "Man Utd told former flop has become ‘the next Erling Haaland’ after transfer",
-  "player": "Erling Haaland",
-  "title_ko": "맨유는 이전 플랍이 이적 후 ‘다음 Erling Haaland’ 가 되었다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-hojlund-haaland-denmark-37737009",
-  "fee": null,
-  "published": "2026-10-05T14:56:19+00:00"
- },
- {
-  "id": "0b81099c62df",
-  "title": "England benefiting from Premier League transfer exodus says Trevoh Chalobah",
-  "player": "Trevoh Chalobah",
-  "title_ko": "프리미어리그 이적 탈출의 혜택을 누리는 잉글랜드의 트레보 샬로바 (Trevoh Chalobah) 는",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/trevoh-chalobah-england-thomas-tuchel-37736673",
-  "fee": null,
-  "published": "2026-10-05T13:56:37+00:00"
  },
  {
   "id": "7b9b2a14c6c0",
@@ -1651,19 +1482,6 @@
   "published": "2026-10-03T13:17:20+00:00"
  },
  {
-  "id": "ef82d593ac96",
-  "title": "Man City defence could be in tatters as claim about 'sham deals' was DENIED by Etihad",
-  "player": null,
-  "title_ko": "'허위 거래' 에 대한 주장이 에티하드에 의해 거부됨에 따라 맨시티의 수비가 더럽혀질 수 있음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-etihad-37730733",
-  "fee": null,
-  "published": "2026-10-03T12:43:05+00:00"
- },
- {
   "id": "fa6ccebc7f8f",
   "title": "Arsenal news: Eli Junior Kroupi transfer update as decision made after clash with boss",
   "player": "Eli Junior Kroupi",
@@ -1701,19 +1519,6 @@
   "url": "https://football-italia.net/mctominay-could-leave-napoli/",
   "fee": "€8M",
   "published": "2026-10-02T08:45:00+00:00"
- },
- {
-  "id": "f7f28cf125c5",
-  "title": "'Widell claims Rangers player blocked Ibrox move' - gossip",
-  "player": "Casper Widell",
-  "title_ko": "'Widell이 레인저스 플레이어가 Ibrox 무브를 차단했다고 주장합니다' - 가십",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cw4grgjpem80o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-02T07:22:15+00:00"
  },
  {
   "id": "4ae01514c937",

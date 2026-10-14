@@ -574,7 +574,7 @@
  {
   "id": "083d9cbfa999",
   "title": "Newcastle closing in on deal to sign Lille's Fernandez-Pardo",
-  "player": "Lille's Fernandez-",
+  "player": "Lille's Fernandez-Pardo",
   "title_ko": "뉴캐슬, 릴의 페르난데스-파르도 영입 협상 마무리",
   "league": "EPL",
   "status": "nego",
@@ -600,7 +600,7 @@
  {
   "id": "c64eed139442",
   "title": "Puertas Doppel-Wechsel: Bayer 04 winken 8,5 Millionen Euro",
-  "player": "Puertas Doppel-",
+  "player": "Puertas Doppel-Wechsel",
   "title_ko": "푸에르타의 이중 변화: 바이엘 04는 850만 유로를 받게 됩니다",
   "league": "BUND",
   "status": "rumor",
@@ -626,7 +626,7 @@
  {
   "id": "408423d609b7",
   "title": "Newcastle close in on £55m deal for Fernandez-Pardo",
-  "player": "Matias Fernandez-",
+  "player": null,
   "title_ko": "뉴캐슬, 페르난데스-파르도 영입에 £55m 계약 체결",
   "league": "EPL",
   "status": "rumor",
@@ -1326,19 +1326,6 @@
   "published": "2026-08-31T05:11:15+00:00"
  },
  {
-  "id": "a60d6515fe8c",
-  "title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
-  "player": "Michael Carrick's",
-  "title_ko": "맨유 뉴스: 클럽은 스타가 이적 이적에 대해 말할 때 스트라이커가 그들을 기다리고 있다고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-transfers-michael-carrick-37608613",
-  "fee": null,
-  "published": "2026-08-31T03:30:00+00:00"
- },
- {
   "id": "0115b5faa521",
   "title": "Arsenal news: Julian Alvarez development as striker set for dream transfer move",
   "player": "Julian Alvarez",
@@ -1350,19 +1337,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37608571",
   "fee": null,
   "published": "2026-08-31T03:00:00+00:00"
- },
- {
-  "id": "f7bed8189e06",
-  "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-  "player": "Unai Emery",
-  "title_ko": "애스턴 빌라와 첼시는 이적 파이프라인에도 불구하고 여전히 적이라고 에메리는 주장했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
-  "fee": null,
-  "published": "2026-08-31T01:00:11+00:00"
  },
  {
   "id": "3e1b55f50915",
@@ -1402,19 +1376,6 @@
   "url": "https://football-italia.net/atalanta-ahanor-chelsea-then-crystal-palace/",
   "fee": "€48M",
   "published": "2026-08-30T21:52:21+00:00"
- },
- {
-  "id": "bc0de45b38db",
-  "title": "Arsenal transfer talks confirmed as club chief speaks out to ‘reassure fans’",
-  "player": "Fabio Vieira",
-  "title_ko": "구단주가 '팬 안심‘ 을 위해 발언함에 따라 아스널 이적 회담 확정",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-talks-confirmed-club-37609435",
-  "fee": null,
-  "published": "2026-08-30T21:40:16+00:00"
  },
  {
   "id": "1d410fc0dcdd",
@@ -1495,19 +1456,6 @@
   "published": "2026-08-30T21:16:30+00:00"
  },
  {
-  "id": "8026442c3605",
-  "title": "Virgil van Dijk speaks out on Liverpool's transfer strategy that could force out Cody Gakpo",
-  "player": "Virgil van Dijk",
-  "title_ko": "버질 반 다이크가 코디 각포를 쫓아낼 수 있는 리버풀의 이적 전략에 대해 언급하다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-van-dijk-gakpo-future-37609354",
-  "fee": null,
-  "published": "2026-08-30T19:58:32+00:00"
- },
- {
   "id": "f56b3432709c",
   "title": "Rashford's impact on Man Utd transfer deadline day plan as 'new signing' hailed",
   "player": "Marcus Rashford's",
@@ -1519,19 +1467,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-rashford-deadline-day-37609314",
   "fee": null,
   "published": "2026-08-30T19:23:15+00:00"
- },
- {
-  "id": "b65a61d193c6",
-  "title": "Fabregas reveals Como ‘learned’ from Milan games, hails ‘underrated’ new signing",
-  "player": "Cesc Fabregas",
-  "title_ko": "파브레가스는 코모가 밀란 경기에서 '배웠다'고 밝히고, '과소평가된' 새 영입을 환영합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/fabregas-como-learn-milan-games-underrated/",
-  "fee": null,
-  "published": "2026-08-30T19:22:48+00:00"
  },
  {
   "id": "210e8a32d20a",
@@ -1597,19 +1532,6 @@
   "url": "https://www.kicker.de/naechster-hochkaraeter-fuer-die-sueperlig-rafael-leao-wechselt-zu-galatasaray-1247608/artikel#omrss",
   "fee": null,
   "published": "2026-08-30T16:29:27+00:00"
- },
- {
-  "id": "52c9e2a74ec3",
-  "title": "Man Utd told Victor Osimhen is 'waiting' for transfer as Benjamin Sesko plan tipped",
-  "player": "Victor Osimhen",
-  "title_ko": "맨유는 벤저민 세스코의 계획이 알려지면서 빅터 오시멘이 이적을 기다리고 있다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-osimhen-fernandes-transfer-37608945",
-  "fee": null,
-  "published": "2026-08-30T16:18:48+00:00"
  },
  {
   "id": "68afa5bb0b77",
@@ -1708,8 +1630,8 @@
   "player": "Gabriel Jesus",
   "title_ko": "바르셀로나는 아스날에서 예수를 영입하기로 합의했습니다.",
   "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
   "fee": null,
@@ -1731,7 +1653,7 @@
  {
   "id": "5e4178239795",
   "title": "Leihe von Ajax-Profi Regeer: Werder reagiert auf Stage-Ausfall",
-  "player": "Leihe von Ajax-",
+  "player": null,
   "title_ko": "Ajax 프로 Regeer의 임대 : Werder는 무대 실패에 반응합니다.",
   "league": "BUND",
   "status": "rumor",
@@ -1740,19 +1662,6 @@
   "url": "https://www.kicker.de/leihe-von-ajax-profi-regeer-werder-reagiert-auf-stage-ausfall-1248151/artikel#omrss",
   "fee": null,
   "published": "2026-08-30T13:53:40+00:00"
- },
- {
-  "id": "2b47ffb4269f",
-  "title": "Neville urges Man Utd to sign TWO defenders before Deadline Day",
-  "player": "Gary Neville",
-  "title_ko": "네빌은 맨유에게 마감일 전에 두 명의 수비수를 영입하라고 촉구했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13579014/manchester-united-transfer-latest-gary-neville-claims-the-red-devils-must-buy-a-centre-back-and-left-back-before-the-transfer-window-closes",
-  "fee": null,
-  "published": "2026-08-30T13:48:00+00:00"
  },
  {
   "id": "270f7b8ca54e",
@@ -2067,19 +1976,6 @@
   "published": "2026-08-30T08:44:11+00:00"
  },
  {
-  "id": "6d20e47c172b",
-  "title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 '시간이 지났다'는 맨유의 대체 선수를 영입하라고 말했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-haw-hall-37607865",
-  "fee": null,
-  "published": "2026-08-30T07:58:55+00:00"
- },
- {
   "id": "7da2c044ce4a",
   "title": "Mercato: annoncé à l'OM, Jean-Clair Todibo débarque à Lens",
   "player": "Clair Todibo",
@@ -2156,19 +2052,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-barcola-fernandez-37606555",
   "fee": null,
   "published": "2026-08-30T04:00:00+00:00"
- },
- {
-  "id": "5326f6a677a1",
-  "title": "Man Utd news: Marcus Rashford transfer interest emerges as teammate told time at club is 'gone'",
-  "player": "Marcus Rashford",
-  "title_ko": "맨체스터 유나이티드 소식: 마커스 래시포드 이적설이 팀원이 클럽에서 '사라졌다' 고 말하면서 나옵니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-rashford-37606768",
-  "fee": null,
-  "published": "2026-08-30T03:30:00+00:00"
  },
  {
   "id": "aa2177376cc3",
@@ -2431,19 +2314,6 @@
   "published": "2026-08-29T16:18:34+00:00"
  },
  {
-  "id": "6da3849483ea",
-  "title": "Arsenal complete Man Utd transfer raid as youngster explains Old Trafford exit",
-  "player": "Old Trafford",
-  "title_ko": "아스날, 맨유 이적 레이드 완료, 어린 선수가 올드 트래포드 퇴장 설명",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-arsenal-transfer-scanlon-37607164",
-  "fee": null,
-  "published": "2026-08-29T16:14:15+00:00"
- },
- {
   "id": "9a27f45e2541",
   "title": "Report Juventus seeking Sarr on loan from Tottenham Hotspur",
   "player": "Pape Mata Sarr",
@@ -2520,19 +2390,6 @@
   "url": "https://football-italia.net/official-sassuolo-sign-esposito-from-cagliari/",
   "fee": "€12M",
   "published": "2026-08-29T14:32:14+00:00"
- },
- {
-  "id": "2c492e278858",
-  "title": "Allegri downplays Fabregas tension, says Badiashile ‘a bit behind’ after Chelsea move",
-  "player": "Massimiliano Allegri",
-  "title_ko": "Allegri는 Fabregas의 긴장을 경시하며, 첼시가 움직인 후 Badiashile은 ‘약간 뒤쳐졌다’ 고 말합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/allegri-downplays-fabregas-badiashile-chelsea/",
-  "fee": null,
-  "published": "2026-08-29T14:10:19+00:00"
  },
  {
   "id": "1b2bc8be7079",
@@ -3183,19 +3040,6 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-alvarez-a-encore-zappe-l-entrainement-mais-simeone-ne-lui-en-veut-pas_AV-202608280563.html",
   "fee": null,
   "published": "2026-08-28T14:38:01+00:00"
- },
- {
-  "id": "983e289f3d11",
-  "title": "Chelsea set Enzo Fernandez price tag with one factor blocking Man City deal",
-  "player": "Enzo Fernandez",
-  "title_ko": "첼시는 맨시티 계약을 막는 한 가지 요인으로 엔조 페르난데스의 가격표를 정했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-city-enzo-fernandez-transfer-37604426",
-  "fee": null,
-  "published": "2026-08-28T14:37:45+00:00"
  },
  {
   "id": "57f5b6cedbf2",
@@ -4004,19 +3848,6 @@
   "published": "2026-08-27T13:29:13+00:00"
  },
  {
-  "id": "4d88b4b5c6d1",
-  "title": "Bradley Barcola has already told Liverpool one thing he wants as transfer agreement emerges",
-  "player": "Bradley Barcola",
-  "title_ko": "브래들리 바르콜라는 이미 리버풀에게 이적 합의가 나오면서 원하는 한 가지를 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/bradley-barcola-liverpool-transfer-psg-37599665",
-  "fee": null,
-  "published": "2026-08-27T13:27:09+00:00"
- },
- {
   "id": "fdb6ea13df8d",
   "title": "Kim joins Rangers in £8.5m deal",
   "player": "Minsu Kim",
@@ -4132,19 +3963,6 @@
   "url": "https://football-italia.net/miretti-sets-off-besiktas-15m-juventus-deal/",
   "fee": "€15M",
   "published": "2026-08-27T11:25:13+00:00"
- },
- {
-  "id": "86c6c17aeb8f",
-  "title": "Maresca admits Manchester City want more leaders as he targets Fernández",
-  "player": "Indicates Grealish",
-  "title_ko": "마레스카는 맨체스터 시티가 페르난데스를 노리면서 더 많은 리더를 원한다고 인정했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/27/enzo-maresca-manchester-city-more-captains-enzo-fernandez-chelsea",
-  "fee": null,
-  "published": "2026-08-27T11:22:42+00:00"
  },
  {
   "id": "0b1fd83d77eb",
@@ -5244,8 +5062,8 @@
   "player": "Omar Marmoush",
   "title_ko": "Spurs는 맨시티에서 Marmoush와 계약하기로 합의했습니다.",
   "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13577289/omar-marmoush-transfer-news-tottenham-agree-deal-to-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
   "fee": null,
@@ -5445,19 +5263,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37591256",
   "fee": null,
   "published": "2026-08-26T04:00:00+00:00"
- },
- {
-  "id": "a910f3d3137d",
-  "title": "Man Utd news: Marcus Rashford subject of shock transfer plot as target's price tag emerges",
-  "player": "Marcus Rashford",
-  "title_ko": "맨체스터 유나이티드 뉴스: 대상의 가격표가 나오면서 충격 전달 음모의 대상이 된 마커스 래시포드",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37591856",
-  "fee": null,
-  "published": "2026-08-26T03:30:00+00:00"
  },
  {
   "id": "91b730b91185",
@@ -5744,19 +5549,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-carlos-baleba-brighton-37585117",
   "fee": "£70M",
   "published": "2026-08-25T15:44:41+00:00"
- },
- {
-  "id": "6b871da4ac86",
-  "title": "Lyon coach Fonseca reveals offers for Roma target Fofana but admits: ‘We’re not worried’",
-  "player": "Paulo Fonseca",
-  "title_ko": "리옹 코치 폰세카 (Fonseca) 가 로마의 표적 포파나 (Fofana) 에 대한 제안을 밝히지만 ‘우리는 걱정하지 않는다’ 고 인정한다.",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lyon-coach-fonseca-reveals-offers-for-fofana/",
-  "fee": null,
-  "published": "2026-08-25T15:10:00+00:00"
  },
  {
   "id": "e0c8ca780ba8",
@@ -6162,19 +5954,6 @@
   "published": "2026-08-25T08:20:07+00:00"
  },
  {
-  "id": "bf704f64750d",
-  "title": "Gary Neville tells Xabi Alonso the one signing Chelsea must make after Fulham win",
-  "player": "Gary Neville",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/chelsea-transfers-alonso-gary-neville-37588949",
-  "fee": null,
-  "published": "2026-08-25T06:49:19+00:00"
- },
- {
   "id": "6c70deefdb9b",
   "title": "DIRECT. Mercato: Rafael Leao proche d'un départ de l'AC Milan",
   "player": "Rafael Leao",
@@ -6201,19 +5980,6 @@
   "published": "2026-08-25T04:26:17+00:00"
  },
  {
-  "id": "fdc88444983b",
-  "title": "Liverpool news: Virgil van Dijk transfer admission as PSG chief speaks out on Bradley Barcola",
-  "player": "Virgil van Dijk",
-  "title_ko": "리버풀 뉴스: PSG 회장이 브래들리 바르콜라에 대해 발언하면서 버질 반 다이크 이적 승인",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfers-van-dijk-psg-37586980",
-  "fee": null,
-  "published": "2026-08-25T04:00:00+00:00"
- },
- {
   "id": "43471df0b22f",
   "title": "Man Utd news: Lewis Hall transfer stance clear as defender ‘in talks’ over future",
   "player": "Lewis Hall",
@@ -6225,19 +5991,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37586983",
   "fee": null,
   "published": "2026-08-25T03:30:00+00:00"
- },
- {
-  "id": "c10a09997cac",
-  "title": "Arsenal news: Julian Alvarez price tag named as club U-turn on huge transfer exit",
-  "player": "Julian Alvarez",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37587361",
-  "fee": null,
-  "published": "2026-08-25T03:00:00+00:00"
  },
  {
   "id": "fbcf5eded517",
@@ -6401,8 +6154,8 @@
   "player": null,
   "title_ko": null,
   "league": "SERIEA",
-  "status": "herewego",
-  "lv": 5,
+  "status": "rumor",
+  "lv": 3,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
@@ -6528,7 +6281,7 @@
  {
   "id": "725793085e35",
   "title": "Girona winger Kim to undergo Rangers medical",
-  "player": "Kim Min-",
+  "player": null,
   "title_ko": "지로나 윙어 김, 레인저스 메디컬 받아",
   "league": "LALIGA",
   "status": "rumor",
@@ -6554,7 +6307,7 @@
  {
   "id": "6c80ce9c23f1",
   "title": "Man Utd can still sign Myles Lewis-Skelly as Arsenal open door to transfer",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유는 여전히 아스널의 이적 문을 열면서 마일스 루이스-스켈리를 영입할 수 있다",
   "league": "EPL",
   "status": "rumor",
@@ -6628,19 +6381,6 @@
   "url": "https://football-italia.net/como-agreement-kean-fiorentina-talks-continue/",
   "fee": null,
   "published": "2026-08-24T10:35:47+00:00"
- },
- {
-  "id": "f1cf72c4e1f1",
-  "title": "Arsenal discover Julian Alvarez price tag as Atletico Madrid perform U-turn on transfer",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날은 아틀레티코 마드리드가 이적에서 유턴을 수행하면서 줄리안 알바레스 가격표를 발견했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-julian-alvarez-price-atletico-37585755",
-  "fee": null,
-  "published": "2026-08-24T09:55:26+00:00"
  },
  {
   "id": "d230723bbd2a",
@@ -7269,7 +7009,7 @@
  {
   "id": "2d63935f08b4",
   "title": "Man Utd news: Myles Lewis-Skelly update emerges as club makes early transfer approach",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유 뉴스: 클럽이 조기 이적 접근 방식을 취함에 따라 Myles Lewis-Skelly 업데이트가 등장",
   "league": "EPL",
   "status": "rumor",
@@ -7371,19 +7111,6 @@
   "published": "2026-08-22T20:37:57+00:00"
  },
  {
-  "id": "ce2dcfedf733",
-  "title": "Liverpool star told he must tear up his contract to seal return to former club",
-  "player": "Stefan Bajcetic",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-news-stefan-bajcetic-37582486",
-  "fee": null,
-  "published": "2026-08-22T17:37:14+00:00"
- },
- {
   "id": "fe02cc97f0ba",
   "title": "Mercato: bloqué par l'Atlético, Alvarez ouvrirait la porte à un départ vers Arsenal",
   "player": "Julian Alvarez",
@@ -7410,19 +7137,6 @@
   "published": "2026-08-22T16:56:37+00:00"
  },
  {
-  "id": "4ea1b552666a",
-  "title": "Man Utd told new urgent transfer need after awful opening-day defeat to Hull City",
-  "player": null,
-  "title_ko": "맨유는 헐 시티에 끔찍한 개막전 패배를 당한 뒤 새로운 긴급 이적이 필요하다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-forward-signing-hargreaves-37582287",
-  "fee": null,
-  "published": "2026-08-22T16:34:15+00:00"
- },
- {
   "id": "dc5f41c78d03",
   "title": "Official: Napoli sign Badiashile in potential €23m transfer from Chelsea",
   "player": "Benoit Badiashile",
@@ -7447,19 +7161,6 @@
   "url": "https://football-italia.net/official-lazio-sign-sutalo-from-ajax/",
   "fee": null,
   "published": "2026-08-22T15:17:24+00:00"
- },
- {
-  "id": "1f450d499014",
-  "title": "Milan have clear asking price as Nkunku says yes to RB Leipzig transfer",
-  "player": "Christopher Nkunku",
-  "title_ko": "은쿤쿠가 RB 라이프치히 이적을 승인함에 따라 밀란은 분명한 가격을 요구하고 있습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/nkunku-says-yes-leipzig-transfer-asking-price/",
-  "fee": null,
-  "published": "2026-08-22T14:48:18+00:00"
  },
  {
   "id": "3ba72c37f388",
@@ -7618,19 +7319,6 @@
   "published": "2026-08-22T08:05:25+00:00"
  },
  {
-  "id": "00ed1969c3ff",
-  "title": "Arsenal icon Ian Wright slams 'uncomfortable' transfer treatment of Gabriel Martinelli",
-  "player": "Ian Wright",
-  "title_ko": "아스날 아이콘 이안 라이트는 가브리엘 마르티넬리의 이적 처리가 '불편하다'고 비난했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-gabriel-martinelli-transfer-wright-37580844",
-  "fee": null,
-  "published": "2026-08-22T07:56:11+00:00"
- },
- {
   "id": "fe6ab8cce512",
   "title": "Premier League buildup, transfers and Hull v Manchester United early news – matchday live",
   "player": null,
@@ -7642,19 +7330,6 @@
   "url": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
   "fee": null,
   "published": "2026-08-22T07:10:40+00:00"
- },
- {
-  "id": "eaba84e7e7a8",
-  "title": "Liverpool news: Andoni Iraola makes transfer promise as Endrick responds to interest",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라는 엔드릭이 관심을 보이자 이적 약속을 했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-iraola-endrick-37578231",
-  "fee": null,
-  "published": "2026-08-22T04:00:00+00:00"
  },
  {
   "id": "b11fc3033985",
@@ -7718,19 +7393,6 @@
   "lv": 3,
   "src": "Guardian Football",
   "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
-  "fee": null,
-  "published": "2026-08-21T21:30:45+00:00"
- },
- {
-  "id": "810a395dae3b",
-  "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
-  "player": "De Zerbi",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league",
   "fee": null,
   "published": "2026-08-21T21:30:45+00:00"
  },
@@ -7980,32 +7642,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-kambwala-37580009",
   "fee": null,
   "published": "2026-08-21T18:10:20+00:00"
- },
- {
-  "id": "b8835bc1a178",
-  "title": "Arsenal transfer 'proof' revealed live on Sky Sports in Julian Alvarez and Vinicius Jr claim",
-  "player": "Sky Sports",
-  "title_ko": "줄리안 알바레즈와 비니시우스 주니어의 주장이 스카이 스포츠에서 생방송으로 공개된 아스날 이적 '증명'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-sky-sports-vinicius-junior-37580104",
-  "fee": null,
-  "published": "2026-08-21T18:02:09+00:00"
- },
- {
-  "id": "a2ec6334dba6",
-  "title": "Liverpool learn Yankuba Minteh price tag after Brighton reject second transfer bid",
-  "player": "Yankuba Minteh",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-brighton-yankuba-minteh-37580063",
-  "fee": null,
-  "published": "2026-08-21T17:55:43+00:00"
  },
  {
   "id": "f2e5e946dc23",
@@ -8502,19 +8138,6 @@
   "published": "2026-08-21T09:58:36+00:00"
  },
  {
-  "id": "63678edfa042",
-  "title": "Endrick responds to Liverpool offer as Reds plot Jose Mourinho transfer revenge",
-  "player": "Jose Mourinho",
-  "title_ko": "엔드릭은 리버풀이 호세 무리뉴의 복수를 계획하면서 리버풀의 제안에 응했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-real-madrid-jose-mourinho-37577040",
-  "fee": null,
-  "published": "2026-08-21T09:17:54+00:00"
- },
- {
   "id": "de75e1465ae6",
   "title": "Rückkehr nach drei Jahren: Köln verpflichtet Shkiri",
   "player": "Die Suche",
@@ -8669,19 +8292,6 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-21-aout-2026_LN-202608210035.html",
   "fee": null,
   "published": "2026-08-21T04:04:21+00:00"
- },
- {
-  "id": "812e93505fe9",
-  "title": "Liverpool news: Virgil van Dijk makes 'unacceptable' claim as club approve three transfer exits",
-  "player": "Virgil van Dijk",
-  "title_ko": "리버풀 뉴스: 버질 반 다이크는 클럽이 세 번의 이적 출구를 승인함에 따라 '받아들일 수 없는' 주장을 했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-virgil-van-dijk-sales-37575394",
-  "fee": null,
-  "published": "2026-08-21T04:00:00+00:00"
  },
  {
   "id": "c2e3bcb4dbf7",
@@ -9139,19 +8749,6 @@
   "published": "2026-08-20T09:50:19+00:00"
  },
  {
-  "id": "66aeb8c3d591",
-  "title": "Myles Lewis-Skelly's mum bombarded over transfer saga as Ian Wright slams Arsenal fans",
-  "player": "Myles Lewis-",
-  "title_ko": "마일스 루이스-스켈리의 어머니는 이안 라이트가 아스날 팬들을 비난하자 이적설에 대해 맹비난했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-myles-lewis-skelly-37572121",
-  "fee": null,
-  "published": "2026-08-20T09:20:32+00:00"
- },
- {
   "id": "c6a66ddb478a",
   "title": "Nächste Leihe: Hertha angelt sich Leverkusens Alfa-Ruprecht",
   "player": "Nächste Leihe",
@@ -9297,7 +8894,7 @@
  {
   "id": "2cd8203023d4",
   "title": "Man Utd news: Myles Lewis-Skelly transfer boost as club close in on £60m deal",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유 뉴스: 클럽이 ￡60m 계약을 성사시키면서 마일스 루이스-스켈리 이적 촉진",
   "league": "EPL",
   "status": "rumor",
@@ -9726,7 +9323,7 @@
  {
   "id": "00bbfd006080",
   "title": "Nach De-Regt-Transfer: Holstein Kiel holt Madsen aus Portugal",
-  "player": "Nach De-",
+  "player": "Nach De-Regt-Transfer",
   "title_ko": "De Regt 이적 후: Holstein Kiel은 포르투갈에서 Madsen을 데려옵니다.",
   "league": "BUND",
   "status": "rumor",
@@ -9748,32 +9345,6 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
   "fee": "£30M",
   "published": "2026-08-19T14:23:20+00:00"
- },
- {
-  "id": "42182cce9d26",
-  "title": "Jose Mourinho rubbishes Rodri claim after Real Madrid lose transfer battle to Barcelona",
-  "player": "Jose Mourinho",
-  "title_ko": "호세 무리뉴는 레알 마드리드가 바르셀로나와의 이적 경쟁에서 패한 후 로드리의 주장을 일축했다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-rodri-transfer-jose-mourinho-37569452",
-  "fee": null,
-  "published": "2026-08-19T13:56:31+00:00"
- },
- {
-  "id": "ec0d1f37c8a2",
-  "title": "‘He doubted’: Mourinho says Real Madrid didn’t want Rodri after hesitation over move",
-  "player": "José Mourinho",
-  "title_ko": "'그는 의심했다': 무리뉴는 레알 마드리드가 이적을 망설인 후 로드리를 원하지 않았다고 말했다",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-  "fee": null,
-  "published": "2026-08-19T13:42:13+00:00"
  },
  {
   "id": "c445c17cbc2a",
@@ -9943,19 +9514,6 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-19T11:06:20+00:00"
- },
- {
-  "id": "5f1461ffd247",
-  "title": "Jack Grealish handed Everton transfer update as club chief speaks out on move",
-  "player": "Jack Grealish",
-  "title_ko": "Jack Grealish는 클럽 수석이 이적에 대해 말하는 동안 Everton 이적 업데이트를 전달했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/grealish-everton-transfer-man-city-37567920",
-  "fee": null,
-  "published": "2026-08-19T11:00:07+00:00"
  },
  {
   "id": "7517488039c5",
@@ -10192,19 +9750,6 @@
   "published": "2026-08-19T08:00:09+00:00"
  },
  {
-  "id": "1105f7b4079f",
-  "title": "Aston Villa respond to shock £38m Ollie Watkins bid as Al-Hilal step up transfer pursuit",
-  "player": "Ollie Watkins",
-  "title_ko": "Aston Villa는 Al-Hilal이 이적 추진을 강화함에 따라 Ollie Watkins가 £38m의 충격적인 입찰에 응했습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/aston-villa-ollie-watkins-saudi-37567105",
-  "fee": "£38M",
-  "published": "2026-08-19T07:07:24+00:00"
- },
- {
   "id": "3fb9e1156b1b",
   "title": "Rodri fires dig at Arsenal in emotional Man City farewell as Barcelona move confirmed",
   "player": null,
@@ -10376,7 +9921,7 @@
  {
   "id": "4fa0349fa47f",
   "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-  "player": "Ham's Wan-",
+  "player": "Ham's Wan-Bissaka",
   "title_ko": "Aston Villa는 West Ham의 Wan-Bissaka와 계약을 체결했습니다.",
   "league": "EPL",
   "status": "rumor",
@@ -10595,19 +10140,6 @@
   "published": "2026-08-18T15:10:00+00:00"
  },
  {
-  "id": "e04aa2468cc1",
-  "title": "Barcelona star Gavi responds to Man Utd transfer interest as Red Devils eye THIRD midfielder",
-  "player": "Red Devils",
-  "title_ko": "바르셀로나 스타 가비는 맨유 이적 관심에 붉은 악마의 제3의 미드필더로 반응",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-gavi-barcelona-37565466",
-  "fee": null,
-  "published": "2026-08-18T14:53:42+00:00"
- },
- {
   "id": "b3c8f461326c",
   "title": "Kane set to begin talks over new Bayern contract",
   "player": "Harry Kane",
@@ -10766,7 +10298,7 @@
  {
   "id": "cff647205651",
   "title": "Middleton-Patel joins Watford on loan from Man Utd",
-  "player": "Safia Middleton-",
+  "player": null,
   "title_ko": "미들턴-파텔은 맨유에서 임대로 왓포드에 합류했습니다.",
   "league": "EPL",
   "status": "rumor",
@@ -11234,7 +10766,7 @@
  {
   "id": "28d57eda34b0",
   "title": "Brighton reject £7.5m bid from Rangers for Cozier-Duberry",
-  "player": "Amario Cozier-",
+  "player": null,
   "title_ko": "브라이튼은 Cozier-Duberry에 대한 레인저스의 £ 7.5m 제안을 거부했습니다.",
   "league": "EPL",
   "status": "nego",
@@ -11349,19 +10881,6 @@
   "published": "2026-08-17T14:51:19+00:00"
  },
  {
-  "id": "60ecf6d3aa43",
-  "title": "Khalaili agent explains why ‘first choice’ Inter couldn’t complete deal: ‘We laughed’",
-  "player": "Anan Khalaili",
-  "title_ko": "칼라일리 에이전트, '1순위' 인테르가 거래를 성사시키지 못한 이유: '우리는 웃었다'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/khalaili-agent-inter-first-choice-we-laughed/",
-  "fee": null,
-  "published": "2026-08-17T14:46:01+00:00"
- },
- {
   "id": "bc00546ca518",
   "title": "Man Utd will reject any bid for Fernandes",
   "player": "Bruno Fernandes",
@@ -11401,19 +10920,6 @@
   "published": "2026-08-17T13:27:51+00:00"
  },
  {
-  "id": "4b06d4a81148",
-  "title": "Ayyoub Bouaddi says YES to Man City transfer as £85m deal moves step closer",
-  "player": "Ayyoub Bouaddi",
-  "title_ko": "Ayyoub Bouaddi는 £85m 거래가 가까워지면서 맨시티 이적에 찬성이라고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/ayyoub-bouaddi-man-city-transfer-37560813",
-  "fee": "£85M",
-  "published": "2026-08-17T13:15:24+00:00"
- },
- {
   "id": "0fca626da7eb",
   "title": "Man Utd issue instant response to shock Bruno Fernandes transfer approach",
   "player": "Bruno Fernandes",
@@ -11438,19 +10944,6 @@
   "url": "https://football-italia.net/gila-thank-you-tare-for-milan-transfer/",
   "fee": null,
   "published": "2026-08-17T12:52:48+00:00"
- },
- {
-  "id": "f274c19843ee",
-  "title": "Jamie Carragher says Man Utd won't win the title and names player they should have signed",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거는 맨유가 타이틀을 얻지 못할 것이며 계약했어야 할 선수를 지명할 것이라고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-man-utd-prediction-37560268",
-  "fee": null,
-  "published": "2026-08-17T12:16:52+00:00"
  },
  {
   "id": "c2f2eb6c2a38",
@@ -11549,8 +11042,8 @@
   "player": "Guglielmo Vicario",
   "title_ko": "유벤투스는 마르티네즈의 관심을 식힌 후 비카리오와의 계약에 합의했습니다.",
   "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13573938/guglielmo-vicario-transfer-news-juventus-agree-deal-to-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
   "fee": null,
@@ -11817,19 +11310,6 @@
   "published": "2026-08-16T17:42:00+00:00"
  },
  {
-  "id": "6b8c29aa12a2",
-  "title": "Jamie Carragher tells Man City to call off transfer immediately after Arsenal drubbing",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거, 아스날의 패배 직후 맨시티에게 이적을 취소하라고 지시",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-arsenal-rodri-barcelona-37558321",
-  "fee": null,
-  "published": "2026-08-16T17:25:29+00:00"
- },
- {
   "id": "c770e427e948",
   "title": "Floriani Mussolini a Cagliari target as Lazio future stays uncertain",
   "player": "Floriani Mussolini",
@@ -11978,8 +11458,8 @@
   "player": "Zion Suzuki",
   "title_ko": "빌라는 유베가 마르티네즈를 입찰하게 만드는 가운데 골키퍼 스즈키 영입에 합의했습니다.",
   "league": "SERIEA",
-  "status": "nego",
-  "lv": 4,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13573666/aston-villa-transfer-news-zion-suzuki-lined-up-as-juventus-linked-emiliano-martinez-replacement-after-29-9m-deal-agreed-with-parma",
   "fee": null,
@@ -12069,8 +11549,8 @@
   "player": "Amar Dedic",
   "title_ko": "뉴캐슬, 벤피카의 데딕 영입에 합의",
   "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
   "fee": null,
@@ -12662,19 +12142,6 @@
   "published": "2026-08-15T07:52:52+00:00"
  },
  {
-  "id": "ad1838897eb9",
-  "title": "Romero reflects on Spurs stay as Atletico move confirmed",
-  "player": "Cristian Romero",
-  "title_ko": "로메로는 아틀레티코 이적 확정으로 토트넘 잔류에 대해 반성했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c20dyz4vrero?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-15T07:44:59+00:00"
- },
- {
   "id": "a8180dbd686b",
   "title": "EFL’s big kick-off; Romero joins Atlético; transfer updates and more – matchday live",
   "player": "Cristian Romero",
@@ -12738,19 +12205,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-victor-osimhen-quansah-37553096",
   "fee": "£43M",
   "published": "2026-08-15T03:00:00+00:00"
- },
- {
-  "id": "4625aaa9b884",
-  "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
-  "player": "Mikel Arteta",
-  "title_ko": "아르테타는 '유기적인 방식'으로 아스날과 새로운 계약을 체결할 것이라고 밝혔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
-  "fee": null,
-  "published": "2026-08-14T22:30:00+00:00"
  },
  {
   "id": "bc1510db78ba",
@@ -13052,19 +12506,6 @@
   "published": "2026-08-14T13:33:56+00:00"
  },
  {
-  "id": "b6e15cefbaa9",
-  "title": "Man City respond to Chelsea's Enzo Fernandez transfer deadline as Enzo Maresca's view clear",
-  "player": "Chelsea's Enzo Fernandez",
-  "title_ko": "맨시티는 엔조 마레스카의 견해가 명확해지자 첼시의 엔조 페르난데스 이적 마감일에 대응했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-city-respond-chelseas-enzo-37552709",
-  "fee": null,
-  "published": "2026-08-14T13:00:54+00:00"
- },
- {
   "id": "2acdc2a5a630",
   "title": "Vor erneuter Leihe: Tohumcu soll in Salzburg durchstarten",
   "player": "Holstein Kiel",
@@ -13115,19 +12556,6 @@
   "url": "https://football-italia.net/juventus-book-lucumi-medical-bologna-deal/",
   "fee": "€20M",
   "published": "2026-08-14T10:52:28+00:00"
- },
- {
-  "id": "9ce40fa03125",
-  "title": "Mikel Merino makes 'best in the world' claim after Arsenal's latest transfer move",
-  "player": "Mikel Merino",
-  "title_ko": "미켈 메리노는 아스날의 최근 이적 움직임 이후 '세계 최고'라는 주장을 펼쳤습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-merino-bruno-guimaraes-37551567",
-  "fee": null,
-  "published": "2026-08-14T10:48:26+00:00"
  },
  {
   "id": "7b989b6a5cdf",
@@ -13351,19 +12779,6 @@
   "published": "2026-08-14T07:48:24+00:00"
  },
  {
-  "id": "acadb859dbc5",
-  "title": "Paul Pogba's wife responds to retirement demand as Monaco contract set to be ripped up",
-  "player": "Paul Pogba's",
-  "title_ko": "폴 포그바의 아내, 모나코 계약 파기 앞두고 은퇴 요구에 응",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-wife-monaco-contract-37550501",
-  "fee": null,
-  "published": "2026-08-14T07:06:21+00:00"
- },
- {
   "id": "e373d5a345af",
   "title": "Leeds lockt Elvedi: An diesen Faktoren hängt ein Wechsel",
   "player": "Nico Elvedi",
@@ -13375,19 +12790,6 @@
   "url": "https://www.kicker.de/leeds-lockt-elvedi-an-diesen-faktoren-haengt-ein-wechsel-1242943/artikel#omrss",
   "fee": null,
   "published": "2026-08-14T06:43:21+00:00"
- },
- {
-  "id": "fa114dca684f",
-  "title": "Mikel Arteta's own words explain the obvious problem Arsenal face with Ezri Konsa transfer",
-  "player": "Mikel Arteta's",
-  "title_ko": "미켈 아르테타의 말은 아스날이 에즈리 콘사 이적과 관련해 직면한 명백한 문제를 설명합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-ezri-konsa-arteta-37549575",
-  "fee": null,
-  "published": "2026-08-14T06:00:00+00:00"
  },
  {
   "id": "21e1775acd5e",
@@ -14055,7 +13457,7 @@
  {
   "id": "338b98489fa5",
   "title": "Man Utd signing Myles Lewis-Skelly would be bad news for seven players",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유가 마일스 루이스-스켈리를 영입하는 것은 7명의 선수들에게 나쁜 소식이 될 것이다",
   "league": "EPL",
   "status": "rumor",
@@ -14149,8 +13551,8 @@
   "player": "Cristian Romero",
   "title_ko": "아틀레티코는 토트넘의 주장 로메로 영입에 합의했습니다.",
   "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "Sky Sports Football",
   "url": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
   "fee": null,
@@ -14339,19 +13741,6 @@
   "published": "2026-08-12T15:03:21+00:00"
  },
  {
-  "id": "41bff0cad672",
-  "title": "Michael Carrick told he must sign seven more players in urgent Man Utd transfer message",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭은 맨유의 긴급 이적 메시지에서 선수 7명을 더 영입해야 한다고 말했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-michael-carrick-37544005",
-  "fee": null,
-  "published": "2026-08-12T14:29:55+00:00"
- },
- {
   "id": "842bc2e4f667",
   "title": "Report Lukaku has Fenerbahce jet ready, Fayed sale to Frosinone also agreed",
   "player": "Romelu Lukaku",
@@ -14406,7 +13795,7 @@
  {
   "id": "e9b83581a363",
   "title": "Zehn Zweitliga-Einsätze und vielversprechende Quoten: Atilgan wechselt zum HFC",
-  "player": "Zehn Zweitliga-",
+  "player": "Zehn Zweitliga-Einsätze",
   "title_ko": "10개의 두 번째 부문 출연 및 유망한 등급: Atilgan이 HFC로 이동합니다.",
   "league": "BUND",
   "status": "rumor",
@@ -14532,19 +13921,6 @@
   "url": "https://football-italia.net/tottenham-reject-inter-e30m-spence/",
   "fee": "€30M",
   "published": "2026-08-12T10:50:31+00:00"
- },
- {
-  "id": "cc15e5c6aaa8",
-  "title": "Manchester City target Enzo Fernández but Chelsea’s £120m price tag may be too high",
-  "player": "Enzo Fernández",
-  "title_ko": "맨체스터 시티는 엔조 페르난데스를 노리고 있지만 첼시의 £120m 가격표는 너무 높을 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
-  "fee": "£120M",
-  "published": "2026-08-12T10:32:30+00:00"
  },
  {
   "id": "2c3d0edcc269",
@@ -14770,7 +14146,7 @@
  {
   "id": "5a6687a60eb7",
   "title": "Man Utd news: Myles Lewis-Skelly transfer bombshell as club puts three players up for sale",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유 뉴스: 마일스 루이스-스켈리 이적 폭탄, 클럽이 세 명의 선수를 매물로 내세우다",
   "league": "EPL",
   "status": "rumor",
@@ -14874,7 +14250,7 @@
  {
   "id": "0e9e5fcf96ae",
   "title": "Man Utd have clear transfer priority after Myles Lewis-Skelly offer",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유는 마일스 루이스-스켈리의 제안 이후 확실한 이적 우선순위를 갖고 있습니다.",
   "league": "EPL",
   "status": "nego",
@@ -14978,7 +14354,7 @@
  {
   "id": "b9f0e8f509da",
   "title": "Man Utd make decision on top transfer target after Myles Lewis-Skelly U-turn",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유, 마일스 루이스-스켈리 유턴 이후 최고 이적 목표 결정",
   "league": "EPL",
   "status": "rumor",
@@ -15065,19 +14441,6 @@
   "url": "https://www.marca.com/futbol/espanyol/2026/08/11/monchi-sobrepagar-desesperacion-tendria-llegar-minimo-dos-tres-fichajes.html",
   "fee": null,
   "published": "2026-08-11T15:20:32+00:00"
- },
- {
-  "id": "1bc410aa178a",
-  "title": "'Incredible' Jarrod Bowen move will help West Ham win Championship claims ex-England star",
-  "player": "Incredible' Jarrod Bowen",
-  "title_ko": "'인크레더블' Jarrod Bowen의 움직임은 West Ham이 챔피언십에서 우승하는 데 도움이 될 것입니다. 전 잉글랜드 스타",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/incredible-jarrod-bowen-move-help-37535364",
-  "fee": null,
-  "published": "2026-08-11T15:07:41+00:00"
  },
  {
   "id": "41f531f34a88",
@@ -15303,7 +14666,7 @@
  {
   "id": "2289da370e75",
   "title": "Chelsea and Man Utd offered Myles Lewis-Skelly as Arsenal open to shock sale despite new deal",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "첼시와 맨유는 아스날이 재계약에도 불구하고 충격적인 판매를 개시하자 마일스 루이스-스켈리를 제안했습니다.",
   "league": "EPL",
   "status": "nego",
@@ -15312,19 +14675,6 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/lewis-skelly-chelsea-man-utd-37537552",
   "fee": null,
   "published": "2026-08-11T10:37:59+00:00"
- },
- {
-  "id": "34628d2cacb2",
-  "title": "Paul Scholes begs Man Utd to sign £30m 'absolute clown' and admits 'you might laugh'",
-  "player": "Paul Scholes",
-  "title_ko": "폴 스콜스는 맨유에게 3000만 파운드(약 300억 원)의 계약을 요구하고 '절대 광대'라고 인정하며 '웃을 수도 있다'고 인정했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/scholes-romero-man-utd-transfer-37537425",
-  "fee": "£30M",
-  "published": "2026-08-11T10:30:39+00:00"
  },
  {
   "id": "e71213ebbdae",
@@ -15626,19 +14976,6 @@
   "published": "2026-08-10T19:20:00+00:00"
  },
  {
-  "id": "c69b70a5be6c",
-  "title": "Liverpool sign Ronald Araujo as club legend reaches out and Andoni Iraola gets his wish",
-  "player": "Ronald Araujo",
-  "title_ko": "리버풀은 클럽의 전설이 손을 내밀고 안도니 이라올라가 그의 소원을 들어주면서 로날드 아라우조를 영입했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfer-ronald-araujo-suarez-37535867",
-  "fee": null,
-  "published": "2026-08-10T19:07:05+00:00"
- },
- {
   "id": "b4752be3e036",
   "title": "Atalanta target Udinese’s Kristensen with West Ham’s Todibo the alternative",
   "player": "Thomas Kristensen",
@@ -15875,7 +15212,7 @@
  {
   "id": "292f38f48dc6",
   "title": "Mercato: le PSG veut recruter le jeune Montpelliérain Laciné Megnan-Pavé",
-  "player": "Montpelliérain Laciné Megnan-",
+  "player": "Montpelliérain Laciné Megnan-Pavé",
   "title_ko": "Mercato: PSG는 젊은 Montpellier Laciné Megnan-Pavé를 영입하고 싶어합니다.",
   "league": "LIGUE1",
   "status": "rumor",
@@ -15953,7 +15290,7 @@
  {
   "id": "9b3cb9900a4a",
   "title": "Crystal Palace and Everton agree Brennan Johnson-Dwight McNeil swap deal",
-  "player": "Brennan Johnson-",
+  "player": "Brennan Johnson-Dwight",
   "title_ko": "크리스탈 팰리스와 에버턴은 브레넌 존슨-드와이트 맥닐 스왑 계약에 합의했습니다.",
   "league": "EPL",
   "status": "rumor",
@@ -16001,19 +15338,6 @@
   "url": "https://football-italia.net/porto-agreement-milan-gimenez-involves-roma/",
   "fee": null,
   "published": "2026-08-10T10:36:20+00:00"
- },
- {
-  "id": "7eb97873e5b6",
-  "title": "Harry Kane to respond to Barcelona transfer interest with new bumper contract",
-  "player": "Harry Kane",
-  "title_ko": "해리 케인, 새로운 범퍼 계약으로 바르셀로나 이적 관심에 대응",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/harry-kane-contract-barcelona-transfer-37532853",
-  "fee": null,
-  "published": "2026-08-10T10:35:55+00:00"
  },
  {
   "id": "d536aa44b544",
@@ -16209,19 +15533,6 @@
   "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix",
   "fee": null,
   "published": "2026-08-09T23:24:04+00:00"
- },
- {
-  "id": "1566071eb569",
-  "title": "Mourinho says he agreed to replace Ferguson at Man Utd",
-  "player": "David Moyes",
-  "title_ko": "무리뉴는 맨유에서 퍼거슨을 대신하기로 합의했다고 밝혔다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-09T23:01:26+00:00"
  },
  {
   "id": "353feb1b2136",
@@ -16458,19 +15769,6 @@
   "published": "2026-08-09T14:10:11+00:00"
  },
  {
-  "id": "885501505ece",
-  "title": "Arsenal respond to Gabriel Martinelli transfer approach as Mikel Arteta lays out demands",
-  "player": "Gabriel Martinelli",
-  "title_ko": "미켈 아르테타가 요구 사항을 제시함에 따라 아스날은 가브리엘 마르티넬리 이적 접근 방식에 응답했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/gabriel-martinelli-arsenal-transfer-arteta-37530421",
-  "fee": null,
-  "published": "2026-08-09T14:06:59+00:00"
- },
- {
   "id": "2082e1a999c6",
   "title": "Isak and Wirtz on target as Liverpool lead Monaco LIVE!",
   "player": null,
@@ -16512,7 +15810,7 @@
  {
   "id": "0a3998ac7e40",
   "title": "Sevilla close to signing Scottish striker Ure in £7.9m deal",
-  "player": "Scotland Under-",
+  "player": null,
   "title_ko": "세비야는 스코틀랜드의 스트라이커 우레(Ure)를 790만 파운드(약 79억 원)에 영입하는 데 가까워졌습니다.",
   "league": "LALIGA",
   "status": "nego",
@@ -17238,19 +16536,6 @@
   "published": "2026-08-08T09:25:00+00:00"
  },
  {
-  "id": "3360f069ef96",
-  "title": "Jamie Carragher admits Liverpool transfer 'worry' and issues Man Utd warning",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거, 리버풀 이적에 '걱정' 인정하고 맨유 경고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jamie-carragher-liverpool-manchester-united-37527933",
-  "fee": null,
-  "published": "2026-08-08T08:45:10+00:00"
- },
- {
   "id": "a627752dc232",
   "title": "Liverpool agree shock deal for Barcelona star as Andoni Iraola gets transfer wish",
   "player": "Andoni Iraola",
@@ -17282,8 +16567,8 @@
   "player": "Geronimo Rulli",
   "title_ko": "맨시티, 마르세유 골키퍼 룰리 영입 합의",
   "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
+  "status": "herewego",
+  "lv": 5,
   "src": "BBC Sport Football",
   "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
   "fee": null,
@@ -17498,19 +16783,6 @@
   "published": "2026-08-07T18:31:48+00:00"
  },
  {
-  "id": "2f004f14a8ff",
-  "title": "Read opens up on failed €28m Roma bid: ‘It could have gone either way’",
-  "player": "Givairo Read",
-  "title_ko": "실패한 2,800만 유로의 로마 입찰에 대한 읽기 시작: '어느 쪽이든 진행되었을 수 있습니다'",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/read-opens-up-on-failed-28m-roma-bid/",
-  "fee": "€28M",
-  "published": "2026-08-07T18:27:36+00:00"
- },
- {
   "id": "245e76b7a41a",
   "title": "\"La suite logique\", Gouiri prêt à devenir le serial buteur de l'OM (Entretien After Foot)",
   "player": "Entretien After Foot",
@@ -17604,7 +16876,7 @@
  {
   "id": "65531215197e",
   "title": "Nach Karetsas-Transfer: Auch Konstantelias im Blickfeld des BVB",
-  "player": "Nach Karetsas-",
+  "player": "Nach Karetsas-Transfer",
   "title_ko": "Karetsas 이적 후: Konstellias도 BVB의 시야에 있습니다.",
   "league": "BUND",
   "status": "rumor",
@@ -17756,19 +17028,6 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-ce-sera-un-groupe-qui-aura-des-valeurs-le-message-de-genesio-aux-supporters-inquiets-du-mercato-marseillais_AV-202608070320.html",
   "fee": null,
   "published": "2026-08-07T12:04:38+00:00"
- },
- {
-  "id": "f7b75f35eadf",
-  "title": "Emotional Guimaraes wanted Arsenal move, says Newcastle chief",
-  "player": "Emotional Guimaraes",
-  "title_ko": "감정적인 기마랑스는 아스날 이적을 원했다고 뉴캐슬 단장이 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-08-07T12:00:16+00:00"
  },
  {
   "id": "c739dbba13ad",
@@ -17927,19 +17186,6 @@
   "published": "2026-08-07T08:00:39+00:00"
  },
  {
-  "id": "f0f9dc184eac",
-  "title": "Tottenham respond as Arsenal consider shock transfer for Spurs skipper Cristian Romero",
-  "player": "Cristian Romero",
-  "title_ko": "토트넘은 아스날이 토트넘의 주장 크리스티안 로메로의 충격 이적을 고려함에 따라 대응했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-arsenal-spurs-cristian-romero-37523726",
-  "fee": null,
-  "published": "2026-08-07T07:43:18+00:00"
- },
- {
   "id": "4559c73188ab",
   "title": "Rodri's agent drops transfer bombshell as Man City star decides future",
   "player": null,
@@ -18003,19 +17249,6 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-vlahovic-rashford-37517702",
   "fee": null,
   "published": "2026-08-07T04:30:00+00:00"
- },
- {
-  "id": "0ad1b9a2629a",
-  "title": "Liverpool news: Bradley Barcola price tag slashed as star 'says yes' to PSG transfer",
-  "player": "Bradley Barcola",
-  "title_ko": "리버풀 뉴스: 브래들리 바르콜라의 PSG 이적에 스타가 '예'라고 답하자 가격표가 인하됐다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-bradley-barcola-psg-transfer-37521450",
-  "fee": null,
-  "published": "2026-08-07T04:00:00+00:00"
  },
  {
   "id": "88cb372940dd",
@@ -19019,19 +18252,6 @@
   "published": "2026-08-05T17:59:01+00:00"
  },
  {
-  "id": "42d3ec3857c1",
-  "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
-  "player": "Teenager Monga",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-08-05T17:42:00+00:00"
- },
- {
   "id": "7e6236b416ae",
   "title": "Done Deal: Atalanta send Touré to Parma, loan with option at €11.5m",
   "player": "El Bilal Touré",
@@ -19411,7 +18631,7 @@
  {
   "id": "3dfff692757d",
   "title": "Schroers' Zweitliga-Wechsel wackelt - Azzouzi zeigt \"Grenzen\" auf",
-  "player": "Schroers' Zweitliga-",
+  "player": "Schroers' Zweitliga-Wechsel",
   "title_ko": "Schroers의 2부 리그 움직임은 불안정합니다 - Azzouzi는 \"한계\"를 보여줍니다.",
   "league": "BUND",
   "status": "rumor",
@@ -19851,19 +19071,6 @@
   "published": "2026-08-04T18:09:27+00:00"
  },
  {
-  "id": "0dcccb2fbe50",
-  "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
-  "player": "Vinícius Júnior",
-  "title_ko": "아스날의 타겟 비니시우스는 무리뉴가 레알 마드리드에서 '내가 행복하길 원한다'고 말했다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
-  "fee": null,
-  "published": "2026-08-04T16:37:50+00:00"
- },
- {
   "id": "1a4716f9ddc2",
   "title": "Barcelona sign Kerolin from Man City in WSL record sale",
   "player": null,
@@ -20057,19 +19264,6 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-08-04T11:12:13+00:00"
- },
- {
-  "id": "9dd6b15f9266",
-  "title": "'Need four or five signings!' | Austin urges Liverpool speed up transfer business",
-  "player": "Charlie Austin",
-  "title_ko": "'4~5명의 영입이 필요해!' | 오스틴은 리버풀이 이적 사업에 속도를 낼 것을 촉구했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13569669/charlie-austin-urges-liverpool-speed-up-their-transfer-business",
-  "fee": null,
-  "published": "2026-08-04T11:10:00+00:00"
  },
  {
   "id": "60b0484f273b",
@@ -20919,7 +20113,7 @@
  {
   "id": "85b823daa7b8",
   "title": "Man Utd news: Myles Lewis-Skelly transfer boost as medical booked and star 'says yes' to move",
-  "player": "Myles Lewis-",
+  "player": "Myles Lewis-Skelly",
   "title_ko": "맨유 뉴스: 메디컬 예약으로 마일스 루이스-스켈리 이적 촉진, 스타 이적 승인 '예'",
   "league": "EPL",
   "status": "herewego",
@@ -21478,7 +20672,7 @@
  {
   "id": "2fec05a1953f",
   "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
-  "player": "Arsenal's Lewis-",
+  "player": "Arsenal's Lewis-Skelly",
   "title_ko": "논문: 맨유는 아스날의 루이스-스켈리 영입을 고려하고 있다",
   "league": "EPL",
   "status": "rumor",
@@ -21697,19 +20891,6 @@
   "published": "2026-08-01T14:00:00+00:00"
  },
  {
-  "id": "60e9585d7cec",
-  "title": "Barcelona boss speaks out on Marcus Rashford as deal turned down - ‘I miss him’",
-  "player": "Marcus Rashford",
-  "title_ko": "바르셀로나 감독은 계약이 거절된 마커스 래시포드에 대해 이렇게 말했다. '그가 그리워요'",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-barcelona-37503306",
-  "fee": null,
-  "published": "2026-08-01T13:49:39+00:00"
- },
- {
   "id": "9bd07c2dfc27",
   "title": "Bournemouth sign Portugal defender Silva",
   "player": "Antonio Silva",
@@ -21799,19 +20980,6 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/video-vinicius-interesse-par-arsenal-bisiwu-signe-au-barca-godts-en-contact-avec-le-psg-les-5-infos-mercato-du-1er-aout-a-la-mi-journee_VN-202608010211.html",
   "fee": null,
   "published": "2026-08-01T11:58:49+00:00"
- },
- {
-  "id": "5b0b1964b4a1",
-  "title": "Lukaku moves closer to Napoli exit as club set €10m price tag",
-  "player": "Romelu Lukaku",
-  "title_ko": "루카쿠는 클럽이 €10m 가격표를 설정함에 따라 나폴리 출구에 더 가까워졌습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/lukaku-moves-closer-to-napoli-exit-price/",
-  "fee": "€10M",
-  "published": "2026-08-01T11:55:32+00:00"
  },
  {
   "id": "032db607e918",
@@ -21968,18 +21136,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approach-juventus-37499929",
   "fee": "£42M",
   "published": "2026-08-01T03:30:00+00:00"
- },
- {
-  "id": "f093c2326f26",
-  "title": "Arsenal news: Vinicius Jr told take it or leave it as Gunners 'agree £77million transfer'",
-  "player": "Vinicius Jr",
-  "title_ko": "아스날 뉴스: 비니시우스 주니어는 거너스가 '7700만 파운드 이적에 동의'하므로 받아들이거나 떠나라고 말했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-vinicius-guimaraes-offer-37500202",
-  "fee": "£77M",
-  "published": "2026-08-01T03:00:00+00:00"
  }
 ]
