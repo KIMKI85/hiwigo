@@ -1,5 +1,31 @@
 [
  {
+  "id": "3aac37087487",
+  "title": "Liverpool news: Wirtz backed for shock transfer and Barcola 'worth half his price tag'",
+  "player": null,
+  "title_ko": "리버풀 뉴스: Wirtz는 충격 이송을 지지했고 Barcola는 '그의 가격표의 절반 가치'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-wirtz-barcola-37766728",
+  "fee": null,
+  "published": "2026-10-14T04:00:00+00:00"
+ },
+ {
+  "id": "b836f27ade1d",
+  "title": "Trent Alexander-Arnold agreement reached by Liverpool legends - 'We've missed him'",
+  "player": "Trent Alexander-",
+  "title_ko": "리버풀의 전설들이 합의한 트렌트 알렉산더-아놀드 - '우리는 그를 놓쳤다'",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-alexander-arnold-agreement-37767570",
+  "fee": null,
+  "published": "2026-10-14T04:00:00+00:00"
+ },
+ {
   "id": "07908340b609",
   "title": "Liverpool and Chelsea alerted as Alex Scott January transfer gets green light",
   "player": "Alex Scott",
