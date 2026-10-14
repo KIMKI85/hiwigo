@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:04:58.743259+00:00",
+ "updated": "2026-10-14T17:20:07.399793+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -1720,6 +1720,17 @@
     },
     {
      "pos": 4,
+     "team": "Liverpool",
+     "crest": "https://crests.football-data.org/64.png",
+     "played": 2,
+     "won": 2,
+     "draw": 0,
+     "lost": 0,
+     "gd": 3,
+     "pts": 6
+    },
+    {
+     "pos": 5,
      "team": "Bayern",
      "crest": "https://crests.football-data.org/5.png",
      "played": 2,
@@ -1730,7 +1741,18 @@
      "pts": 4
     },
     {
-     "pos": 5,
+     "pos": 6,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 2,
+     "won": 1,
+     "draw": 1,
+     "lost": 0,
+     "gd": 3,
+     "pts": 4
+    },
+    {
+     "pos": 7,
      "team": "PSG",
      "crest": "https://crests.football-data.org/524.png",
      "played": 1,
@@ -1741,18 +1763,7 @@
      "pts": 3
     },
     {
-     "pos": 6,
-     "team": "Como 1907",
-     "crest": "https://crests.football-data.org/7397.png",
-     "played": 1,
-     "won": 1,
-     "draw": 0,
-     "lost": 0,
-     "gd": 3,
-     "pts": 3
-    },
-    {
-     "pos": 7,
+     "pos": 8,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
      "played": 2,
@@ -1763,7 +1774,7 @@
      "pts": 3
     },
     {
-     "pos": 8,
+     "pos": 9,
      "team": "Stuttgart",
      "crest": "https://crests.football-data.org/10.png",
      "played": 1,
@@ -1774,7 +1785,7 @@
      "pts": 3
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Man City",
      "crest": "https://crests.football-data.org/65.png",
      "played": 1,
@@ -1785,7 +1796,7 @@
      "pts": 3
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
      "played": 2,
@@ -1796,7 +1807,7 @@
      "pts": 3
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Aston Villa",
      "crest": "https://crests.football-data.org/58.png",
      "played": 1,
@@ -1807,7 +1818,7 @@
      "pts": 3
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Real Betis",
      "crest": "https://crests.football-data.org/90.png",
      "played": 1,
@@ -1818,7 +1829,7 @@
      "pts": 3
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Atleti",
      "crest": "https://crests.football-data.org/78.png",
      "played": 2,
@@ -1829,7 +1840,7 @@
      "pts": 3
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Dortmund",
      "crest": "https://crests.football-data.org/4.png",
      "played": 1,
@@ -1840,18 +1851,7 @@
      "pts": 3
     },
     {
-     "pos": 15,
-     "team": "Liverpool",
-     "crest": "https://crests.football-data.org/64.png",
-     "played": 1,
-     "won": 1,
-     "draw": 0,
-     "lost": 0,
-     "gd": 1,
-     "pts": 3
-    },
-    {
-     "pos": 15,
+     "pos": 16,
      "team": "Real Madrid",
      "crest": "https://crests.football-data.org/86.png",
      "played": 1,
@@ -1973,14 +1973,14 @@
     },
     {
      "pos": 27,
-     "team": "LASK",
-     "crest": "https://crests.football-data.org/2016.png",
-     "played": 1,
+     "team": "Feyenoord",
+     "crest": "https://crests.football-data.org/675.png",
+     "played": 2,
      "won": 0,
-     "draw": 0,
+     "draw": 1,
      "lost": 1,
-     "gd": -1,
-     "pts": 0
+     "gd": -4,
+     "pts": 1
     },
     {
      "pos": 28,
@@ -2028,23 +2028,23 @@
     },
     {
      "pos": 32,
+     "team": "LASK",
+     "crest": "https://crests.football-data.org/2016.png",
+     "played": 2,
+     "won": 0,
+     "draw": 0,
+     "lost": 2,
+     "gd": -3,
+     "pts": 0
+    },
+    {
+     "pos": 33,
      "team": "Lille",
      "crest": "https://crests.football-data.org/521.png",
      "played": 2,
      "won": 0,
      "draw": 0,
      "lost": 2,
-     "gd": -4,
-     "pts": 0
-    },
-    {
-     "pos": 33,
-     "team": "Feyenoord",
-     "crest": "https://crests.football-data.org/675.png",
-     "played": 1,
-     "won": 0,
-     "draw": 0,
-     "lost": 1,
      "gd": -4,
      "pts": 0
     },
