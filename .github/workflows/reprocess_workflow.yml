@@ -1,0 +1,29 @@
+name: 데이터 재정리 (1회성)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reprocess:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 의존성 설치
+        run: pip install feedparser deep-translator
+      - name: 재정리 실행
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/reprocess.py
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "hiwigo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: 새 규칙으로 기존 데이터 재정리"
+          git push
