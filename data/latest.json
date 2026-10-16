@@ -1,5 +1,18 @@
 [
  {
+  "id": "13f5505475a1",
+  "title": "Milan planning to reward Cisse with new long-term contract",
+  "player": "Alphadjo Cisse",
+  "title_ko": "밀라노는 시스에게 새로운 장기 계약을 보상할 계획입니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-planning-to-reward-cisse-new-contract/",
+  "fee": null,
+  "published": "2026-10-16T15:24:34+00:00"
+ },
+ {
   "id": "e0233e842fa0",
   "title": "Napoli must separate McTominay contract negotiations from their midfield plan",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-contract-guardiola-37744727",
   "fee": null,
   "published": "2026-10-07T11:00:00+00:00"
- },
- {
-  "id": "6d3f96489e72",
-  "title": "Sir Alex Ferguson was one day from becoming Arsenal boss as contract offer revealed",
-  "player": "Sir Alex Ferguson",
-  "title_ko": "알렉스 퍼거슨 경 (Sir Alex Ferguson) 은 계약 제안이 밝혀짐에 따라 아스널 보스가 된 지 어느 날이었습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/alex-ferguson-arsenal-manager-job-37743651",
-  "fee": null,
-  "published": "2026-10-07T10:30:00+00:00"
  }
 ]
