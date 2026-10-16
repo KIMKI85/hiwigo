@@ -1,5 +1,31 @@
 [
  {
+  "id": "2c40d903a6af",
+  "title": "Football Italia Show: Cissé deserves Italy call-up, underrated Juventus signing impresses",
+  "player": "Football Italia Show",
+  "title_ko": "풋볼 이탈리아 쇼: Cissé는 이탈리아 콜업을 받을 자격이 있으며, 과소평가된 유벤투스 계약이 인상적입니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/football-show-cisse-italy-underrated-juventus/",
+  "fee": null,
+  "published": "2026-10-16T15:00:22+00:00"
+ },
+ {
+  "id": "c63f34063e40",
+  "title": "Mikel Arteta breaks silence on Arsenal job cuts weeks after signing stunning new deal",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 놀라운 새로운 거래를 체결 한 지 몇 주 만에 아스날 일자리 삭감에 대한 침묵을 깨뜨렸다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-job-cuts-37780947",
+  "fee": null,
+  "published": "2026-10-16T14:53:07+00:00"
+ },
+ {
   "id": "47e30cd06922",
   "title": "Everton latest: Moyes confirms 'lull' in new contract talks",
   "player": null,
