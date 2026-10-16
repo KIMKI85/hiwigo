@@ -1,5 +1,18 @@
 [
  {
+  "id": "3529214f8b0f",
+  "title": "Nico Williams' agent reveals how close Spain star got to Arsenal and Liverpool transfers",
+  "player": "Nico Williams",
+  "title_ko": "니코 윌리엄스의 에이전트는 스페인 스타가 아스널과 리버풀 이적에 얼마나 근접했는지 보여줍니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/nico-williams-arsenal-liverpool-barcelona-37781655",
+  "fee": null,
+  "published": "2026-10-16T19:28:57+00:00"
+ },
+ {
   "id": "19b9faec2bba",
   "title": "Ex-Man Utd star would snub Erling Haaland transfer and prefers two Man City defenders",
   "player": "Erling Haaland",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-07T11:00:53+00:00"
- },
- {
-  "id": "bb1478a17b33",
-  "title": "Mikel Arteta signs new Arsenal contract as he becomes highest-paid Premier League boss",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 가 최고 연봉의 프리미어 리그 보스가 되면서 새로운 아스널 계약을 체결합니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-new-arsenal-contract-37744394",
-  "fee": null,
-  "published": "2026-10-07T11:00:39+00:00"
  }
 ]
