@@ -1,5 +1,18 @@
 [
  {
+  "id": "353e0a410fc1",
+  "title": "Gasperini sends transfer request to Roma: ‘Essential’",
+  "player": "Gian Piero Gasperini",
+  "title_ko": "가스페리니가 로마로 전송 요청을 보냅니다: ‘필수’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/gasperini-transfer-request-roma-essential/",
+  "fee": null,
+  "published": "2026-10-16T13:06:12+00:00"
+ },
+ {
   "id": "5027631cb16f",
   "title": "El Athletic se revuelve por las declaraciones de agente de Nico sobre el fichaje fallido por el Barça",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13595942/arsenal-interested-in-signing-como-star-nico-paz-but-mikel-artetas-hopes-of-landing-creative-midfielder-dealt-blow-paper-talk",
   "fee": null,
   "published": "2026-10-06T21:39:00+00:00"
- },
- {
-  "id": "b7902d36d352",
-  "title": "Ranieri confession of new Fiorentina contract to June 2029",
-  "player": "Luca Ranieri",
-  "title_ko": "라니에리, 2029년 6월 새로운 피오렌티나 계약 고백",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ranieri-confession-of-new-fiorentina-contract/",
-  "fee": null,
-  "published": "2026-10-06T17:58:13+00:00"
  }
 ]
