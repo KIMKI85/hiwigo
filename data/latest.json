@@ -1,5 +1,18 @@
 [
  {
+  "id": "bf1f017c2e92",
+  "title": "Arsenal news: Real Madrid deal transfer blow as secret meeting comes to light",
+  "player": null,
+  "title_ko": "아스날 뉴스: 비밀 회의가 열리면서 레알 마드리드 이적 타격",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-guler-merino-37780078",
+  "fee": null,
+  "published": "2026-10-17T03:00:00+00:00"
+ },
+ {
   "id": "3529214f8b0f",
   "title": "Nico Williams' agent reveals how close Spain star got to Arsenal and Liverpool transfers",
   "player": "Nico Williams",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/07/mikel-arteta-signs-new-arsenal-deal-only-the-beginning",
   "fee": null,
   "published": "2026-10-07T11:13:33+00:00"
- },
- {
-  "id": "a6a531553e45",
-  "title": "Arteta signs new contract with champions Arsenal",
-  "player": "Mikel Arteta",
-  "title_ko": "아르테타, 챔피언 아스널과 새로운 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-07T11:00:53+00:00"
  }
 ]
