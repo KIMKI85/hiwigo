@@ -1,5 +1,18 @@
 [
  {
+  "id": "34e5fd4063fd",
+  "title": "D’Amico: ‘Roma need another step for Champions League, seek more than Endrick loan’",
+  "player": "Gian Piero Gasperini",
+  "title_ko": "D’Amico: ‘로마는 챔피언스 리그를 위한 또 다른 단계가 필요합니다. 엔드릭 대출 이상의 것을 찾으십시오’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/damico-roma-need-another-step-champions-league/",
+  "fee": null,
+  "published": "2026-10-17T18:31:44+00:00"
+ },
+ {
   "id": "69b27e058df5",
   "title": "Viktor Gyokeres eyeing Arsenal January exit after Gunners' transfer pursuit",
   "player": "Viktor Gyokeres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-mora-ndour-37746255",
   "fee": null,
   "published": "2026-10-08T04:00:00+00:00"
- },
- {
-  "id": "eb59acc57194",
-  "title": "Man Utd news: JJ Gabriel gets reality check as wanted star puts contract talks on hold",
-  "player": null,
-  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘, 스타 수배 계약 협상 보류로 현실 확인",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-kofane-37745531",
-  "fee": null,
-  "published": "2026-10-08T03:30:00+00:00"
  }
 ]
