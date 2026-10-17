@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:21:13.638909+00:00",
+ "updated": "2026-10-17T04:39:18.577553+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,34 +227,6 @@
    ],
    "results": [
     {
-     "date": "2026-10-12",
-     "home": "Coventry City",
-     "away": "Newcastle",
-     "hs": 4,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Liverpool",
-     "away": "Man City",
-     "hs": 0,
-     "as": 3
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Crystal Palace",
-     "away": "Nottingham",
-     "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Hull City",
-     "away": "Everton",
-     "hs": 2,
-     "as": 2
-    },
-    {
      "date": "2026-10-10",
      "home": "Man United",
      "away": "Tottenham",
@@ -281,6 +253,34 @@
      "away": "Bournemouth",
      "hs": 5,
      "as": 1
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Sunderland",
+     "away": "Brighton Hove",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Arsenal",
+     "away": "Leeds United",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Fulham",
+     "away": "Man United",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Man City",
+     "away": "Sunderland",
+     "hs": 5,
+     "as": 3
     }
    ],
    "scorers": [
@@ -579,6 +579,41 @@
      "as": 1
     },
     {
+     "date": "2026-10-12",
+     "home": "Levante",
+     "away": "Sevilla FC",
+     "hs": 3,
+     "as": 3
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Santander",
+     "away": "Valencia",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Real Betis",
+     "away": "Osasuna",
+     "hs": 5,
+     "as": 2
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Real Sociedad",
+     "away": "Deportivo",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Elche",
+     "away": "Celta",
+     "hs": 0,
+     "as": 0
+    },
+    {
      "date": "2026-10-10",
      "home": "Real Madrid",
      "away": "Villarreal",
@@ -591,41 +626,6 @@
      "away": "Getafe",
      "hs": 3,
      "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Alavés",
-     "away": "Atleti",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-10-09",
-     "home": "Málaga",
-     "away": "Espanyol",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Valencia",
-     "away": "Real Sociedad",
-     "hs": 2,
-     "as": 3
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Villarreal",
-     "away": "Levante",
-     "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Deportivo",
-     "away": "Real Betis",
-     "hs": 1,
-     "as": 1
     }
    ],
    "scorers": [
@@ -2084,60 +2084,60 @@
    ],
    "results": [
     {
-     "date": "2026-09-10",
-     "home": "Slavia Praha",
-     "away": "RC Lens",
-     "hs": 2,
+     "date": "2026-10-14",
+     "home": "Sl. Bratislava",
+     "away": "Stuttgart",
+     "hs": 0,
      "as": 3
     },
     {
-     "date": "2026-09-10",
-     "home": "Como 1907",
-     "away": "RB Leipzig",
-     "hs": 4,
-     "as": 1
-    },
-    {
-     "date": "2026-09-10",
-     "home": "Man United",
-     "away": "Sabah FK",
-     "hs": 4,
-     "as": 0
-    },
-    {
-     "date": "2026-09-10",
-     "home": "Bayern",
-     "away": "Bodø/Glimt",
-     "hs": 5,
-     "as": 0
-    },
-    {
-     "date": "2026-09-10",
-     "home": "PSV",
-     "away": "Shaktar",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-10",
-     "home": "Fenerbahçe",
-     "away": "Roma",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-09",
-     "home": "Sporting CP",
-     "away": "Galatasaray",
+     "date": "2026-10-14",
+     "home": "Shaktar",
+     "away": "PAE AEK",
      "hs": 3,
      "as": 1
     },
     {
-     "date": "2026-09-09",
-     "home": "Napoli",
-     "away": "Arsenal",
-     "hs": 0,
-     "as": 1
+     "date": "2026-10-14",
+     "home": "Real Betis",
+     "away": "Porto",
+     "hs": 3,
+     "as": 2
+    },
+    {
+     "date": "2026-10-14",
+     "home": "Aston Villa",
+     "away": "Fenerbahçe",
+     "hs": 6,
+     "as": 0
+    },
+    {
+     "date": "2026-10-14",
+     "home": "Bodø/Glimt",
+     "away": "Dortmund",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-10-14",
+     "home": "Man City",
+     "away": "PSG",
+     "hs": 2,
+     "as": 4
+    },
+    {
+     "date": "2026-10-14",
+     "home": "Roma",
+     "away": "Real Madrid",
+     "hs": 3,
+     "as": 4
+    },
+    {
+     "date": "2026-10-14",
+     "home": "Feyenoord",
+     "away": "Como 1907",
+     "hs": 3,
+     "as": 2
     }
    ],
    "scorers": [
