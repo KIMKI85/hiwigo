@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:42:44.301728+00:00",
+ "updated": "2026-10-17T20:43:37.477202+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -12,7 +12,7 @@
      "won": 7,
      "draw": 0,
      "lost": 0,
-     "gd": 13,
+     "gd": 12,
      "pts": 21
     },
     {
@@ -111,22 +111,33 @@
      "won": 3,
      "draw": 0,
      "lost": 4,
-     "gd": -5,
+     "gd": -4,
      "pts": 9
     },
     {
      "pos": 11,
      "team": "Newcastle",
      "crest": "https://crests.football-data.org/67.png",
-     "played": 6,
+     "played": 7,
      "won": 2,
      "draw": 2,
-     "lost": 2,
-     "gd": -3,
+     "lost": 3,
+     "gd": -4,
      "pts": 8
     },
     {
      "pos": 12,
+     "team": "Aston Villa",
+     "crest": "https://crests.football-data.org/58.png",
+     "played": 7,
+     "won": 2,
+     "draw": 2,
+     "lost": 3,
+     "gd": -4,
+     "pts": 8
+    },
+    {
+     "pos": 13,
      "team": "Crystal Palace",
      "crest": "https://crests.football-data.org/354.png",
      "played": 6,
@@ -137,7 +148,7 @@
      "pts": 7
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
      "played": 6,
@@ -148,7 +159,7 @@
      "pts": 6
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Coventry City",
      "crest": "https://crests.football-data.org/1076.png",
      "played": 6,
@@ -159,7 +170,7 @@
      "pts": 6
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Fulham",
      "crest": "https://crests.football-data.org/63.png",
      "played": 7,
@@ -170,7 +181,7 @@
      "pts": 5
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Nottingham",
      "crest": "https://crests.football-data.org/351.png",
      "played": 6,
@@ -178,17 +189,6 @@
      "draw": 2,
      "lost": 3,
      "gd": -3,
-     "pts": 5
-    },
-    {
-     "pos": 17,
-     "team": "Aston Villa",
-     "crest": "https://crests.football-data.org/58.png",
-     "played": 6,
-     "won": 1,
-     "draw": 2,
-     "lost": 3,
-     "gd": -5,
      "pts": 5
     },
     {
@@ -228,37 +228,37 @@
    "results": [
     {
      "date": "2026-10-17",
-     "home": "Everton",
-     "away": "Chelsea",
+     "home": "Newcastle",
+     "away": "Aston Villa",
      "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Brentford",
+     "away": "Liverpool",
+     "hs": 1,
      "as": 2
     },
     {
-     "date": "2026-10-12",
-     "home": "Coventry City",
-     "away": "Newcastle",
-     "hs": 4,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Liverpool",
-     "away": "Man City",
-     "hs": 0,
-     "as": 3
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Crystal Palace",
-     "away": "Nottingham",
+     "date": "2026-10-17",
+     "home": "Man City",
+     "away": "Ipswich Town",
      "hs": 3,
-     "as": 1
+     "as": 2
     },
     {
-     "date": "2026-10-11",
-     "home": "Hull City",
-     "away": "Everton",
-     "hs": 2,
+     "date": "2026-10-17",
+     "home": "Fulham",
+     "away": "Hull City",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Everton",
+     "away": "Chelsea",
+     "hs": 0,
      "as": 2
     },
     {
@@ -353,12 +353,12 @@
      "pos": 1,
      "team": "Barça",
      "crest": "https://crests.football-data.org/81.png",
-     "played": 8,
-     "won": 8,
+     "played": 9,
+     "won": 9,
      "draw": 0,
      "lost": 0,
-     "gd": 27,
-     "pts": 24
+     "gd": 30,
+     "pts": 27
     },
     {
      "pos": 2,
@@ -375,11 +375,11 @@
      "pos": 3,
      "team": "Real Betis",
      "crest": "https://crests.football-data.org/90.png",
-     "played": 8,
+     "played": 9,
      "won": 6,
      "draw": 1,
-     "lost": 1,
-     "gd": 5,
+     "lost": 2,
+     "gd": 2,
      "pts": 19
     },
     {
@@ -439,6 +439,17 @@
     },
     {
      "pos": 9,
+     "team": "Athletic",
+     "crest": "https://crests.football-data.org/77.png",
+     "played": 7,
+     "won": 2,
+     "draw": 3,
+     "lost": 2,
+     "gd": 1,
+     "pts": 9
+    },
+    {
+     "pos": 10,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
      "played": 9,
@@ -449,7 +460,7 @@
      "pts": 9
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Celta",
      "crest": "https://crests.football-data.org/558.png",
      "played": 8,
@@ -457,17 +468,6 @@
      "draw": 5,
      "lost": 2,
      "gd": 2,
-     "pts": 8
-    },
-    {
-     "pos": 11,
-     "team": "Athletic",
-     "crest": "https://crests.football-data.org/77.png",
-     "played": 6,
-     "won": 2,
-     "draw": 2,
-     "lost": 2,
-     "gd": 1,
      "pts": 8
     },
     {
@@ -551,12 +551,12 @@
      "pos": 19,
      "team": "Valencia",
      "crest": "https://crests.football-data.org/95.png",
-     "played": 8,
+     "played": 9,
      "won": 1,
-     "draw": 2,
+     "draw": 3,
      "lost": 5,
      "gd": -9,
-     "pts": 5
+     "pts": 6
     },
     {
      "pos": 20,
@@ -573,59 +573,59 @@
    "results": [
     {
      "date": "2026-10-17",
+     "home": "Real Betis",
+     "away": "Barça",
+     "hs": 2,
+     "as": 5
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Villarreal",
+     "away": "Elche",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-10-17",
      "home": "Espanyol",
      "away": "Atleti",
      "hs": 0,
      "as": 1
     },
     {
-     "date": "2026-10-10",
-     "home": "Real Madrid",
-     "away": "Villarreal",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Barça",
-     "away": "Getafe",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Alavés",
-     "away": "Atleti",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-10-09",
-     "home": "Málaga",
-     "away": "Espanyol",
+     "date": "2026-10-16",
+     "home": "Deportivo",
+     "away": "Levante",
      "hs": 1,
      "as": 1
     },
     {
-     "date": "2026-09-20",
-     "home": "Valencia",
-     "away": "Real Sociedad",
-     "hs": 2,
+     "date": "2026-10-12",
+     "home": "Levante",
+     "away": "Sevilla FC",
+     "hs": 3,
      "as": 3
     },
     {
-     "date": "2026-09-20",
-     "home": "Villarreal",
-     "away": "Levante",
-     "hs": 3,
-     "as": 1
+     "date": "2026-10-11",
+     "home": "Santander",
+     "away": "Valencia",
+     "hs": 2,
+     "as": 2
     },
     {
-     "date": "2026-09-20",
-     "home": "Deportivo",
-     "away": "Real Betis",
-     "hs": 1,
-     "as": 1
+     "date": "2026-10-11",
+     "home": "Real Betis",
+     "away": "Osasuna",
+     "hs": 5,
+     "as": 2
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Real Sociedad",
+     "away": "Deportivo",
+     "hs": 3,
+     "as": 2
     }
    ],
    "scorers": [
@@ -634,6 +634,12 @@
      "team": "Barça",
      "goals": 12,
      "assists": 2
+    },
+    {
+     "name": "Lamine Yamal",
+     "team": "Barça",
+     "goals": 8,
+     "assists": 6
     },
     {
      "name": "Sergio Camello",
@@ -652,12 +658,6 @@
      "team": "Santander",
      "goals": 7,
      "assists": 0
-    },
-    {
-     "name": "Lamine Yamal",
-     "team": "Barça",
-     "goals": 7,
-     "assists": 5
     },
     {
      "name": "Roberto Fernández",
@@ -698,15 +698,26 @@
      "pos": 1,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
-     "played": 6,
-     "won": 5,
+     "played": 7,
+     "won": 6,
      "draw": 1,
      "lost": 0,
-     "gd": 10,
-     "pts": 16
+     "gd": 12,
+     "pts": 19
     },
     {
      "pos": 2,
+     "team": "Roma",
+     "crest": "https://crests.football-data.org/100.png",
+     "played": 7,
+     "won": 5,
+     "draw": 2,
+     "lost": 0,
+     "gd": 13,
+     "pts": 17
+    },
+    {
+     "pos": 3,
      "team": "Lazio",
      "crest": "https://crests.football-data.org/110.png",
      "played": 6,
@@ -715,17 +726,6 @@
      "lost": 0,
      "gd": 7,
      "pts": 16
-    },
-    {
-     "pos": 3,
-     "team": "Roma",
-     "crest": "https://crests.football-data.org/100.png",
-     "played": 6,
-     "won": 4,
-     "draw": 2,
-     "lost": 0,
-     "gd": 11,
-     "pts": 14
     },
     {
      "pos": 4,
@@ -841,11 +841,11 @@
      "pos": 14,
      "team": "Bologna",
      "crest": "https://crests.football-data.org/103.png",
-     "played": 6,
+     "played": 7,
      "won": 1,
      "draw": 2,
-     "lost": 3,
-     "gd": -2,
+     "lost": 4,
+     "gd": -4,
      "pts": 5
     },
     {
@@ -872,17 +872,6 @@
     },
     {
      "pos": 17,
-     "team": "Genoa",
-     "crest": "https://crests.football-data.org/107.png",
-     "played": 6,
-     "won": 1,
-     "draw": 1,
-     "lost": 4,
-     "gd": -6,
-     "pts": 4
-    },
-    {
-     "pos": 18,
      "team": "Parma",
      "crest": "https://crests.football-data.org/112.png",
      "played": 6,
@@ -893,7 +882,7 @@
      "pts": 4
     },
     {
-     "pos": 19,
+     "pos": 18,
      "team": "Fiorentina",
      "crest": "https://crests.football-data.org/99.png",
      "played": 6,
@@ -901,6 +890,17 @@
      "draw": 1,
      "lost": 4,
      "gd": -7,
+     "pts": 4
+    },
+    {
+     "pos": 19,
+     "team": "Genoa",
+     "crest": "https://crests.football-data.org/107.png",
+     "played": 7,
+     "won": 1,
+     "draw": 1,
+     "lost": 5,
+     "gd": -8,
      "pts": 4
     },
     {
@@ -918,59 +918,59 @@
    "results": [
     {
      "date": "2026-10-17",
+     "home": "Roma",
+     "away": "Genoa",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Bologna",
+     "away": "Inter",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-10-17",
      "home": "Venezia FC",
      "away": "Napoli",
      "hs": 1,
      "as": 0
     },
     {
-     "date": "2026-10-16",
-     "home": "Frosinone",
-     "away": "Sassuolo",
-     "hs": 4,
-     "as": 2
+     "date": "2026-10-10",
+     "home": "Napoli",
+     "away": "Frosinone",
+     "hs": 3,
+     "as": 0
     },
     {
-     "date": "2026-10-12",
-     "home": "Torino",
-     "away": "Udinese",
+     "date": "2026-10-10",
+     "home": "Inter",
+     "away": "Parma",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Genoa",
+     "away": "Fiorentina",
      "hs": 2,
      "as": 1
     },
     {
-     "date": "2026-10-12",
-     "home": "Atalanta",
-     "away": "Venezia FC",
+     "date": "2026-09-20",
+     "home": "Milan",
+     "away": "Lecce",
      "hs": 3,
-     "as": 1
+     "as": 0
     },
     {
-     "date": "2026-10-11",
-     "home": "Cagliari",
-     "away": "Juventus",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Sassuolo",
-     "away": "Milan",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Lazio",
-     "away": "Monza",
-     "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Lecce",
-     "away": "Bologna",
-     "hs": 1,
-     "as": 2
+     "date": "2026-09-20",
+     "home": "Juventus",
+     "away": "Atalanta",
+     "hs": 2,
+     "as": 0
     }
    ],
    "scorers": [
@@ -997,6 +997,12 @@
      "team": "Inter",
      "goals": 4,
      "assists": 0
+    },
+    {
+     "name": "Marcus Thuram-Ulien",
+     "team": "Inter",
+     "goals": 4,
+     "assists": 2
     },
     {
      "name": "Daniel Maldini",
@@ -1027,12 +1033,6 @@
      "team": "Milan",
      "goals": 3,
      "assists": 2
-    },
-    {
-     "name": "Davide Frattesi",
-     "team": "Lazio",
-     "goals": 3,
-     "assists": 0
     }
    ]
   },
@@ -1041,6 +1041,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "Bayern",
+     "crest": "https://crests.football-data.org/5.png",
+     "played": 6,
+     "won": 4,
+     "draw": 2,
+     "lost": 0,
+     "gd": 17,
+     "pts": 14
+    },
+    {
+     "pos": 2,
      "team": "Dortmund",
      "crest": "https://crests.football-data.org/4.png",
      "played": 6,
@@ -1051,7 +1062,7 @@
      "pts": 14
     },
     {
-     "pos": 2,
+     "pos": 3,
      "team": "Freiburg",
      "crest": "https://crests.football-data.org/17.png",
      "played": 5,
@@ -1060,17 +1071,6 @@
      "lost": 0,
      "gd": 10,
      "pts": 13
-    },
-    {
-     "pos": 3,
-     "team": "Bayern",
-     "crest": "https://crests.football-data.org/5.png",
-     "played": 5,
-     "won": 3,
-     "draw": 2,
-     "lost": 0,
-     "gd": 12,
-     "pts": 11
     },
     {
      "pos": 4,
@@ -1109,11 +1109,11 @@
      "pos": 7,
      "team": "RB Leipzig",
      "crest": "https://crests.football-data.org/721.png",
-     "played": 5,
+     "played": 6,
      "won": 3,
      "draw": 0,
-     "lost": 2,
-     "gd": 10,
+     "lost": 3,
+     "gd": 5,
      "pts": 9
     },
     {
@@ -1241,6 +1241,13 @@
    "results": [
     {
      "date": "2026-10-17",
+     "home": "Bayern",
+     "away": "RB Leipzig",
+     "hs": 6,
+     "as": 1
+    },
+    {
+     "date": "2026-10-17",
      "home": "Schalke",
      "away": "Mainz",
      "hs": 0,
@@ -1287,13 +1294,6 @@
      "away": "Schalke",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "1. FC Köln",
-     "away": "M'gladbach",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -1302,6 +1302,12 @@
      "team": "Bremen",
      "goals": 6,
      "assists": 0
+    },
+    {
+     "name": "Michael Olise",
+     "team": "Bayern",
+     "goals": 5,
+     "assists": 2
     },
     {
      "name": "Younes Ebnoutalib",
@@ -1322,7 +1328,7 @@
      "assists": 0
     },
     {
-     "name": "Michael Olise",
+     "name": "Luis Díaz",
      "team": "Bayern",
      "goals": 4,
      "assists": 1
@@ -1346,16 +1352,10 @@
      "assists": 1
     },
     {
-     "name": "Antonio Nusa",
-     "team": "RB Leipzig",
-     "goals": 3,
-     "assists": 3
-    },
-    {
-     "name": "Igor Matanovic",
-     "team": "Freiburg",
-     "goals": 3,
-     "assists": 1
+     "name": "Harry Kane",
+     "team": "Bayern",
+     "goals": 4,
+     "assists": 4
     }
    ]
   },
@@ -1364,6 +1364,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "PSG",
+     "crest": "https://crests.football-data.org/524.png",
+     "played": 7,
+     "won": 4,
+     "draw": 2,
+     "lost": 1,
+     "gd": 5,
+     "pts": 14
+    },
+    {
+     "pos": 2,
      "team": "Monaco",
      "crest": "https://crests.football-data.org/548.png",
      "played": 6,
@@ -1377,15 +1388,15 @@
      "pos": 2,
      "team": "Lille",
      "crest": "https://crests.football-data.org/521.png",
-     "played": 6,
+     "played": 7,
      "won": 4,
-     "draw": 1,
+     "draw": 2,
      "lost": 1,
      "gd": 5,
-     "pts": 13
+     "pts": 14
     },
     {
-     "pos": 3,
+     "pos": 4,
      "team": "Stade Rennais",
      "crest": "https://crests.football-data.org/529.png",
      "played": 6,
@@ -1396,7 +1407,7 @@
      "pts": 13
     },
     {
-     "pos": 4,
+     "pos": 5,
      "team": "Olympique Lyon",
      "crest": "https://crests.football-data.org/523.png",
      "played": 6,
@@ -1407,7 +1418,7 @@
      "pts": 11
     },
     {
-     "pos": 5,
+     "pos": 6,
      "team": "Paris FC",
      "crest": "https://crests.football-data.org/1045.png",
      "played": 6,
@@ -1418,29 +1429,29 @@
      "pts": 11
     },
     {
-     "pos": 6,
-     "team": "PSG",
-     "crest": "https://crests.football-data.org/524.png",
-     "played": 7,
-     "won": 3,
-     "draw": 2,
-     "lost": 2,
-     "gd": 2,
-     "pts": 11
-    },
-    {
      "pos": 7,
-     "team": "Strasbourg",
-     "crest": "https://crests.football-data.org/576.png",
+     "team": "RC Lens",
+     "crest": "https://crests.football-data.org/546.png",
      "played": 7,
      "won": 3,
      "draw": 1,
      "lost": 3,
-     "gd": 0,
+     "gd": 3,
      "pts": 10
     },
     {
      "pos": 8,
+     "team": "Brest",
+     "crest": "https://crests.football-data.org/512.png",
+     "played": 7,
+     "won": 2,
+     "draw": 3,
+     "lost": 2,
+     "gd": 3,
+     "pts": 9
+    },
+    {
+     "pos": 9,
      "team": "Toulouse",
      "crest": "https://crests.football-data.org/511.png",
      "played": 7,
@@ -1449,17 +1460,6 @@
      "lost": 2,
      "gd": 1,
      "pts": 9
-    },
-    {
-     "pos": 9,
-     "team": "Brest",
-     "crest": "https://crests.football-data.org/512.png",
-     "played": 6,
-     "won": 2,
-     "draw": 2,
-     "lost": 2,
-     "gd": 3,
-     "pts": 8
     },
     {
      "pos": 10,
@@ -1485,13 +1485,13 @@
     },
     {
      "pos": 12,
-     "team": "RC Lens",
-     "crest": "https://crests.football-data.org/546.png",
-     "played": 6,
+     "team": "Strasbourg",
+     "crest": "https://crests.football-data.org/576.png",
+     "played": 7,
      "won": 2,
      "draw": 1,
-     "lost": 3,
-     "gd": 1,
+     "lost": 4,
+     "gd": -3,
      "pts": 7
     },
     {
@@ -1542,11 +1542,11 @@
      "pos": 17,
      "team": "Troyes",
      "crest": "https://crests.football-data.org/531.png",
-     "played": 6,
+     "played": 7,
      "won": 1,
      "draw": 1,
-     "lost": 4,
-     "gd": -9,
+     "lost": 5,
+     "gd": -11,
      "pts": 4
     },
     {
@@ -1562,6 +1562,20 @@
     }
    ],
    "results": [
+    {
+     "date": "2026-10-17",
+     "home": "Lille",
+     "away": "Brest",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Strasbourg",
+     "away": "PSG",
+     "hs": 1,
+     "as": 3
+    },
     {
      "date": "2026-10-16",
      "home": "Le Mans",
@@ -1603,20 +1617,6 @@
      "away": "Le Mans",
      "hs": 3,
      "as": 1
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Lorient",
-     "away": "Paris FC",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Brest",
-     "away": "Angers SCO",
-     "hs": 5,
-     "as": 1
     }
    ],
    "scorers": [
@@ -1654,7 +1654,7 @@
      "name": "Ferrán Torres",
      "team": "PSG",
      "goals": 4,
-     "assists": 0
+     "assists": 1
     },
     {
      "name": "Lassine Sinayoko",
@@ -1678,7 +1678,7 @@
      "name": "Florian Thauvin",
      "team": "RC Lens",
      "goals": 3,
-     "assists": 5
+     "assists": 7
     }
    ]
   },
