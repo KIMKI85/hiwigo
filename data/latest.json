@@ -1,5 +1,18 @@
 [
  {
+  "id": "07efaa6b5251",
+  "title": "Milan squad value tops €300m as accounts confirm record Ramos fee",
+  "player": null,
+  "title_ko": "기록적인 라모스 수수료를 확인한 밀라노 스쿼드 가치는 € 300M입니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-squad-value-tops-e300m-as-accounts/",
+  "fee": "€300M",
+  "published": "2026-10-17T11:00:00+00:00"
+ },
+ {
   "id": "6565c3c80b55",
   "title": "Milan open talks to extend Rabiot contract until 2030",
   "player": "Adrien Rabiot",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
   "fee": null,
   "published": "2026-10-07T12:45:00+00:00"
- },
- {
-  "id": "6e00d1774aa2",
-  "title": "'We want a winning era' - Arteta signs new Arsenal contract",
-  "player": "Mikel Arteta",
-  "title_ko": "'우리는 승리하는 시대를 원한다' - 아르테타, 새로운 아스날 계약 체결",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
-  "fee": null,
-  "published": "2026-10-07T12:00:00+00:00"
  }
 ]
