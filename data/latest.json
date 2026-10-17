@@ -1,5 +1,18 @@
 [
  {
+  "id": "6a302fba4dd6",
+  "title": "LIVE! Düsseldorf mit vier Wechsel - Hält Essens Lauf? - Gelingt Aachen gegen Rostock mal wieder ein Sieg?",
+  "player": "Hält Essens Lauf",
+  "title_ko": "라이브! 뒤셀도르프 mit vier Wechsel - Hält Essens Lauf? - Gelingt Aachen gegen Rostock mal wieder ein Sieg?",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-duesseldorf-mit-vier-wechsel-haelt-essens-lauf-gelingt-aachen-gegen-rostock-mal-wieder-ein-sieg-1261736/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-17T11:08:15+00:00"
+ },
+ {
   "id": "07efaa6b5251",
   "title": "Milan squad value tops €300m as accounts confirm record Ramos fee",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-david-silva-club-37745385",
   "fee": null,
   "published": "2026-10-07T14:28:33+00:00"
- },
- {
-  "id": "25a5b8b79397",
-  "title": "Scot Prem latest: Hibs eye deal for ex-Rangers winger as backroom team revealed",
-  "player": "Scot Prem",
-  "title_ko": "Scot Prem 최신: 백룸 팀이 공개한 전직 레인저스 윙어를 위한 HIBS 아이 딜",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-  "fee": null,
-  "published": "2026-10-07T12:45:00+00:00"
  }
 ]
