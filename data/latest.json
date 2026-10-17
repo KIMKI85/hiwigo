@@ -1,5 +1,18 @@
 [
  {
+  "id": "6565c3c80b55",
+  "title": "Milan open talks to extend Rabiot contract until 2030",
+  "player": "Adrien Rabiot",
+  "title_ko": "라비오 계약을 2030년까지 연장하기 위한 밀라노 공개 회담",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-open-talks-extend-rabiot-contract-2030/",
+  "fee": null,
+  "published": "2026-10-17T10:15:00+00:00"
+ },
+ {
   "id": "522a706d96b3",
   "title": "Carrick opens door for January transfer activity at Man Utd",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
   "fee": null,
   "published": "2026-10-07T12:00:00+00:00"
- },
- {
-  "id": "80cf80878839",
-  "title": "Arsenal fans should savour every minute of Mikel Arteta - this could be his last contract",
-  "player": "Mikel Arteta",
-  "title_ko": "아스날 팬들은 미켈 아르테타의 매 순간을 음미해야 합니다 - 이것이 그의 마지막 계약이 될 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-fans-should-savour-every-37745008",
-  "fee": null,
-  "published": "2026-10-07T11:44:43+00:00"
  }
 ]
