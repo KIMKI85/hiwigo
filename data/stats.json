@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:39:18.577553+00:00",
+ "updated": "2026-10-17T10:55:00.714504+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,6 +227,34 @@
    ],
    "results": [
     {
+     "date": "2026-10-12",
+     "home": "Coventry City",
+     "away": "Newcastle",
+     "hs": 4,
+     "as": 1
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Liverpool",
+     "away": "Man City",
+     "hs": 0,
+     "as": 3
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Crystal Palace",
+     "away": "Nottingham",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Hull City",
+     "away": "Everton",
+     "hs": 2,
+     "as": 2
+    },
+    {
      "date": "2026-10-10",
      "home": "Man United",
      "away": "Tottenham",
@@ -253,34 +281,6 @@
      "away": "Bournemouth",
      "hs": 5,
      "as": 1
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Sunderland",
-     "away": "Brighton Hove",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Arsenal",
-     "away": "Leeds United",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Fulham",
-     "away": "Man United",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Man City",
-     "away": "Sunderland",
-     "hs": 5,
-     "as": 3
     }
    ],
    "scorers": [
