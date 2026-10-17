@@ -1,5 +1,18 @@
 [
  {
+  "id": "83bdceb63f6d",
+  "title": "Michael Carrick makes Man Utd transfer admission with January plans set",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭 (Michael Carrick) 이 1월 계획으로 맨체스터 유나이티드 (Man Utd) 이",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-transfer-37782681",
+  "fee": null,
+  "published": "2026-10-17T12:05:12+00:00"
+ },
+ {
   "id": "6a302fba4dd6",
   "title": "LIVE! Düsseldorf mit vier Wechsel - Hält Essens Lauf? - Gelingt Aachen gegen Rostock mal wieder ein Sieg?",
   "player": "Hält Essens Lauf",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-07T18:30:21+00:00"
- },
- {
-  "id": "e86eb7f08d7b",
-  "title": "Man City legend David Silva comes out of retirement and completes shock move to new club",
-  "player": "David Silva",
-  "title_ko": "맨시티의 전설 데이비드 실바가 은퇴 후 새 구단으로 충격적인 이적을 완료했다.",
-  "league": "EPL",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-david-silva-club-37745385",
-  "fee": null,
-  "published": "2026-10-07T14:28:33+00:00"
  }
 ]
