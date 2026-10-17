@@ -1,5 +1,18 @@
 [
  {
+  "id": "380335aff994",
+  "title": "Newcastle join Juventus and Roma in race for Sporting’s Doumbia",
+  "player": "Issa Doumbia",
+  "title_ko": "뉴캐슬은 유벤투스와 로마에 합류하여 Sporting's Doumbia에서 레이스를 펼칩니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/newcastle-juventus-and-roma-sporting-doumbia/",
+  "fee": null,
+  "published": "2026-10-17T12:15:49+00:00"
+ },
+ {
   "id": "83bdceb63f6d",
   "title": "Michael Carrick makes Man Utd transfer admission with January plans set",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/declan-rice-arsenal-contract-saka-37747157",
   "fee": null,
   "published": "2026-10-07T19:46:43+00:00"
- },
- {
-  "id": "41827f11dd60",
-  "title": "Rice close to agreeing new Arsenal deal",
-  "player": "Declan Rice",
-  "title_ko": "합의된 새로운 아스날 거래에 가까운 쌀",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-07T18:30:21+00:00"
  }
 ]
