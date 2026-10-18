@@ -26,6 +26,19 @@
   "published": "2026-10-18T20:26:12+00:00"
  },
  {
+  "id": "9f902eeea55d",
+  "title": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
+  "player": null,
+  "title_ko": "유럽 축구: 10인승 리옹, 니스를 버티고 리그 1 정상으로 올라서다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
+  "fee": null,
+  "published": "2026-10-18T18:36:15+00:00"
+ },
+ {
   "id": "3cffd4ce8b81",
   "title": "Arsenal win with one shot on target as Forest sink into bottom three",
   "player": "Noni Madueke's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/provedel-preparing-inter-debut-goalkeeper-swap/",
   "fee": null,
   "published": "2026-10-08T17:36:54+00:00"
- },
- {
-  "id": "525b73dada91",
-  "title": "Official: Bologna sign ex-Inter and Man United defender Darmian on free transfer",
-  "player": "Matteo Darmian",
-  "title_ko": "공식: 볼로냐 전 인터 앤 맨유 수비수 다르미안 무료 이적",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-bologna-sign-darmian-free-transfer/",
-  "fee": null,
-  "published": "2026-10-08T16:14:29+00:00"
  }
 ]
