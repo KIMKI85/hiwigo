@@ -1,5 +1,18 @@
 [
  {
+  "id": "553893c860ce",
+  "title": "Bournemouth earn first PL win of Rose era to move out of bottom three",
+  "player": null,
+  "title_ko": "본머스는 로즈 ERA의 첫 PL 승을 획득하여 하위 3위에서 벗어납니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/watch/video/13600674/bournemouth-2-0-sunderland-premier-league-highlights",
+  "fee": null,
+  "published": "2026-10-18T16:11:00+00:00"
+ },
+ {
   "id": "bc53462b44c8",
   "title": "LIVE! Keine Wechsel bei Duisburg: Tabellenführer MSV empfängt Viktoria Köln",
   "player": "Keine Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-plan-to-extend-nico-gonzalez-contract/",
   "fee": null,
   "published": "2026-10-08T13:31:48+00:00"
- },
- {
-  "id": "efd8371ecadc",
-  "title": "Le transfert de Dani Carvajal à Getafe bloqué en raison de son salaire trop bas?",
-  "player": "Dani Carvajal",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/le-transfert-de-dani-carvajal-a-getafe-bloque-en-raison-de-son-salaire-trop-bas_AV-202610080510.html",
-  "fee": null,
-  "published": "2026-10-08T11:48:25+00:00"
  }
 ]
