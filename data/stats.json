@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:44:42.745169+00:00",
+ "updated": "2026-10-18T11:21:33.056496+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -806,6 +806,17 @@
     },
     {
      "pos": 11,
+     "team": "Lecce",
+     "crest": "https://crests.football-data.org/5890.png",
+     "played": 7,
+     "won": 3,
+     "draw": 0,
+     "lost": 4,
+     "gd": -4,
+     "pts": 9
+    },
+    {
+     "pos": 12,
      "team": "Sassuolo",
      "crest": "https://crests.football-data.org/471.png",
      "played": 7,
@@ -816,7 +827,7 @@
      "pts": 8
     },
     {
-     "pos": 12,
+     "pos": 13,
      "team": "Torino",
      "crest": "https://crests.football-data.org/586.png",
      "played": 6,
@@ -825,17 +836,6 @@
      "lost": 3,
      "gd": -2,
      "pts": 7
-    },
-    {
-     "pos": 13,
-     "team": "Lecce",
-     "crest": "https://crests.football-data.org/5890.png",
-     "played": 6,
-     "won": 2,
-     "draw": 0,
-     "lost": 4,
-     "gd": -6,
-     "pts": 6
     },
     {
      "pos": 14,
@@ -850,23 +850,23 @@
     },
     {
      "pos": 15,
-     "team": "Udinese",
-     "crest": "https://crests.football-data.org/115.png",
-     "played": 6,
-     "won": 1,
-     "draw": 1,
-     "lost": 4,
-     "gd": -4,
-     "pts": 4
-    },
-    {
-     "pos": 16,
      "team": "Monza",
      "crest": "https://crests.football-data.org/5911.png",
      "played": 6,
      "won": 1,
      "draw": 1,
      "lost": 4,
+     "gd": -6,
+     "pts": 4
+    },
+    {
+     "pos": 15,
+     "team": "Udinese",
+     "crest": "https://crests.football-data.org/115.png",
+     "played": 7,
+     "won": 1,
+     "draw": 1,
+     "lost": 5,
      "gd": -6,
      "pts": 4
     },
@@ -1563,60 +1563,60 @@
    ],
    "results": [
     {
+     "date": "2026-10-17",
+     "home": "Lille",
+     "away": "Brest",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Troyes",
+     "away": "RC Lens",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Strasbourg",
+     "away": "PSG",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-10-16",
+     "home": "Le Mans",
+     "away": "Toulouse",
+     "hs": 0,
+     "as": 3
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Troyes",
+     "away": "Marseille",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Stade Rennais",
+     "away": "Auxerre",
+     "hs": 4,
+     "as": 1
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Nice",
+     "away": "Strasbourg",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-10-10",
      "home": "Monaco",
      "away": "Toulouse",
      "hs": 2,
      "as": 2
-    },
-    {
-     "date": "2026-10-10",
-     "home": "PSG",
-     "away": "Le Mans",
-     "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Lorient",
-     "away": "Paris FC",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Brest",
-     "away": "Angers SCO",
-     "hs": 5,
-     "as": 1
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Lille",
-     "away": "Le Havre",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-09",
-     "home": "RC Lens",
-     "away": "Olympique Lyon",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Marseille",
-     "away": "PSG",
-     "hs": 1,
-     "as": 2
-    },
-    {
-     "date": "2026-09-20",
-     "home": "Nice",
-     "away": "Lille",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
