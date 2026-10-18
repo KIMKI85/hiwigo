@@ -1,5 +1,18 @@
 [
  {
+  "id": "85d3574a4161",
+  "title": "I played for Man Utd and Leeds – but I could never sign for one of them now",
+  "player": null,
+  "title_ko": "맨유와 리즈에서 뛰었지만 지금은 그 중 한 명과 계약할 수 없었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-leeds-cantona-ratcliffe-37782224",
+  "fee": null,
+  "published": "2026-10-18T05:00:00+00:00"
+ },
+ {
   "id": "90f32b7850a0",
   "title": "Liverpool news: Florian Wirtz transfer decision reached as World Cup star's agent confirms Reds interest",
   "player": "Florian Wirtz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-not-convinced-by-woltemade/",
   "fee": null,
   "published": "2026-10-08T09:30:00+00:00"
- },
- {
-  "id": "0937dc462e28",
-  "title": "DIRECT. Mercato: David Silva sort de sa retraite à 40 ans et signe dans une destination exotique",
-  "player": "David Silva",
-  "title_ko": "직접. Mercato: David Silva sort de sa retraite à 40 ans et signe dans une destination exotique",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-du-8-octobre-2026_LN-202610080159.html",
-  "fee": null,
-  "published": "2026-10-08T05:35:16+00:00"
  }
 ]
