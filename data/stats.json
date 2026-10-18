@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:43:37.477202+00:00",
+ "updated": "2026-10-18T04:44:42.745169+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -262,24 +262,24 @@
      "as": 2
     },
     {
-     "date": "2026-10-10",
-     "home": "Man United",
-     "away": "Tottenham",
-     "hs": 1,
+     "date": "2026-10-12",
+     "home": "Coventry City",
+     "away": "Newcastle",
+     "hs": 4,
      "as": 1
     },
     {
-     "date": "2026-10-10",
-     "home": "Aston Villa",
-     "away": "Brentford",
-     "hs": 2,
-     "as": 2
+     "date": "2026-10-11",
+     "home": "Liverpool",
+     "away": "Man City",
+     "hs": 0,
+     "as": 3
     },
     {
-     "date": "2026-10-10",
-     "home": "Ipswich Town",
-     "away": "Fulham",
-     "hs": 2,
+     "date": "2026-10-11",
+     "home": "Crystal Palace",
+     "away": "Nottingham",
+     "hs": 3,
      "as": 1
     }
    ],
@@ -573,6 +573,13 @@
    "results": [
     {
      "date": "2026-10-17",
+     "home": "Valencia",
+     "away": "Athletic",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-10-17",
      "home": "Real Betis",
      "away": "Barça",
      "hs": 2,
@@ -618,13 +625,6 @@
      "home": "Real Betis",
      "away": "Osasuna",
      "hs": 5,
-     "as": 2
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Real Sociedad",
-     "away": "Deportivo",
-     "hs": 3,
      "as": 2
     }
    ],
@@ -938,39 +938,39 @@
      "as": 0
     },
     {
-     "date": "2026-10-10",
-     "home": "Napoli",
-     "away": "Frosinone",
-     "hs": 3,
-     "as": 0
+     "date": "2026-10-16",
+     "home": "Frosinone",
+     "away": "Sassuolo",
+     "hs": 4,
+     "as": 2
     },
     {
-     "date": "2026-10-10",
-     "home": "Inter",
-     "away": "Parma",
-     "hs": 3,
-     "as": 0
-    },
-    {
-     "date": "2026-10-10",
-     "home": "Genoa",
-     "away": "Fiorentina",
+     "date": "2026-10-12",
+     "home": "Torino",
+     "away": "Udinese",
      "hs": 2,
      "as": 1
     },
     {
-     "date": "2026-09-20",
-     "home": "Milan",
-     "away": "Lecce",
+     "date": "2026-10-12",
+     "home": "Atalanta",
+     "away": "Venezia FC",
      "hs": 3,
-     "as": 0
+     "as": 1
     },
     {
-     "date": "2026-09-20",
-     "home": "Juventus",
-     "away": "Atalanta",
-     "hs": 2,
-     "as": 0
+     "date": "2026-10-11",
+     "home": "Cagliari",
+     "away": "Juventus",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-10-11",
+     "home": "Sassuolo",
+     "away": "Milan",
+     "hs": 1,
+     "as": 1
     }
    ],
    "scorers": [
@@ -1563,48 +1563,6 @@
    ],
    "results": [
     {
-     "date": "2026-10-17",
-     "home": "Lille",
-     "away": "Brest",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Strasbourg",
-     "away": "PSG",
-     "hs": 1,
-     "as": 3
-    },
-    {
-     "date": "2026-10-16",
-     "home": "Le Mans",
-     "away": "Toulouse",
-     "hs": 0,
-     "as": 3
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Troyes",
-     "away": "Marseille",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Stade Rennais",
-     "away": "Auxerre",
-     "hs": 4,
-     "as": 1
-    },
-    {
-     "date": "2026-10-11",
-     "home": "Nice",
-     "away": "Strasbourg",
-     "hs": 2,
-     "as": 1
-    },
-    {
      "date": "2026-10-10",
      "home": "Monaco",
      "away": "Toulouse",
@@ -1616,6 +1574,48 @@
      "home": "PSG",
      "away": "Le Mans",
      "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Lorient",
+     "away": "Paris FC",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Brest",
+     "away": "Angers SCO",
+     "hs": 5,
+     "as": 1
+    },
+    {
+     "date": "2026-10-10",
+     "home": "Lille",
+     "away": "Le Havre",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-10-09",
+     "home": "RC Lens",
+     "away": "Olympique Lyon",
+     "hs": 2,
+     "as": 1
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Marseille",
+     "away": "PSG",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-09-20",
+     "home": "Nice",
+     "away": "Lille",
+     "hs": 2,
      "as": 1
     }
    ],
