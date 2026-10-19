@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:35:36.755632+00:00",
+ "updated": "2026-10-19T22:27:47.644186+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -171,17 +171,28 @@
     },
     {
      "pos": 16,
-     "team": "Coventry City",
-     "crest": "https://crests.football-data.org/1076.png",
-     "played": 6,
-     "won": 2,
-     "draw": 0,
-     "lost": 4,
-     "gd": -6,
+     "team": "Tottenham",
+     "crest": "https://crests.football-data.org/73.png",
+     "played": 7,
+     "won": 1,
+     "draw": 3,
+     "lost": 3,
+     "gd": -4,
      "pts": 6
     },
     {
      "pos": 17,
+     "team": "Coventry City",
+     "crest": "https://crests.football-data.org/1076.png",
+     "played": 7,
+     "won": 2,
+     "draw": 0,
+     "lost": 5,
+     "gd": -8,
+     "pts": 6
+    },
+    {
+     "pos": 18,
      "team": "Fulham",
      "crest": "https://crests.football-data.org/63.png",
      "played": 7,
@@ -192,7 +203,7 @@
      "pts": 5
     },
     {
-     "pos": 18,
+     "pos": 19,
      "team": "Nottingham",
      "crest": "https://crests.football-data.org/351.png",
      "played": 7,
@@ -203,7 +214,7 @@
      "pts": 5
     },
     {
-     "pos": 19,
+     "pos": 20,
      "team": "Sunderland",
      "crest": "https://crests.football-data.org/71.png",
      "played": 7,
@@ -212,20 +223,16 @@
      "lost": 5,
      "gd": -8,
      "pts": 4
-    },
-    {
-     "pos": 20,
-     "team": "Tottenham",
-     "crest": "https://crests.football-data.org/73.png",
-     "played": 6,
-     "won": 0,
-     "draw": 3,
-     "lost": 3,
-     "gd": -6,
-     "pts": 3
     }
    ],
    "results": [
+    {
+     "date": "2026-10-19",
+     "home": "Tottenham",
+     "away": "Coventry City",
+     "hs": 3,
+     "as": 1
+    },
     {
      "date": "2026-10-18",
      "home": "Nottingham",
@@ -274,13 +281,6 @@
      "away": "Ipswich Town",
      "hs": 3,
      "as": 2
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Fulham",
-     "away": "Hull City",
-     "hs": 1,
-     "as": 0
     }
    ],
    "scorers": [
@@ -483,6 +483,28 @@
     },
     {
      "pos": 13,
+     "team": "Rayo Vallecano",
+     "crest": "https://crests.football-data.org/87.png",
+     "played": 8,
+     "won": 2,
+     "draw": 3,
+     "lost": 3,
+     "gd": -5,
+     "pts": 9
+    },
+    {
+     "pos": 14,
+     "team": "Getafe",
+     "crest": "https://crests.football-data.org/82.png",
+     "played": 9,
+     "won": 2,
+     "draw": 3,
+     "lost": 4,
+     "gd": -6,
+     "pts": 9
+    },
+    {
+     "pos": 15,
      "team": "Espanyol",
      "crest": "https://crests.football-data.org/80.png",
      "played": 9,
@@ -490,28 +512,6 @@
      "draw": 2,
      "lost": 5,
      "gd": -1,
-     "pts": 8
-    },
-    {
-     "pos": 14,
-     "team": "Rayo Vallecano",
-     "crest": "https://crests.football-data.org/87.png",
-     "played": 7,
-     "won": 2,
-     "draw": 2,
-     "lost": 3,
-     "gd": -5,
-     "pts": 8
-    },
-    {
-     "pos": 15,
-     "team": "Getafe",
-     "crest": "https://crests.football-data.org/82.png",
-     "played": 8,
-     "won": 2,
-     "draw": 2,
-     "lost": 4,
-     "gd": -6,
      "pts": 8
     },
     {
@@ -572,6 +572,13 @@
    ],
    "results": [
     {
+     "date": "2026-10-19",
+     "home": "Getafe",
+     "away": "Rayo Vallecano",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-10-18",
      "home": "Real Madrid",
      "away": "Sevilla FC",
@@ -619,13 +626,6 @@
      "away": "Elche",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Espanyol",
-     "away": "Atleti",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -764,11 +764,11 @@
      "pos": 7,
      "team": "Cagliari",
      "crest": "https://crests.football-data.org/104.png",
-     "played": 6,
+     "played": 7,
      "won": 4,
      "draw": 1,
-     "lost": 1,
-     "gd": 3,
+     "lost": 2,
+     "gd": -1,
      "pts": 13
     },
     {
@@ -795,6 +795,17 @@
     },
     {
      "pos": 10,
+     "team": "Torino",
+     "crest": "https://crests.football-data.org/586.png",
+     "played": 7,
+     "won": 3,
+     "draw": 1,
+     "lost": 3,
+     "gd": 1,
+     "pts": 10
+    },
+    {
+     "pos": 11,
      "team": "Atalanta",
      "crest": "https://crests.football-data.org/102.png",
      "played": 7,
@@ -805,7 +816,7 @@
      "pts": 9
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Lecce",
      "crest": "https://crests.football-data.org/5890.png",
      "played": 7,
@@ -816,7 +827,7 @@
      "pts": 9
     },
     {
-     "pos": 12,
+     "pos": 13,
      "team": "Sassuolo",
      "crest": "https://crests.football-data.org/471.png",
      "played": 7,
@@ -827,18 +838,18 @@
      "pts": 8
     },
     {
-     "pos": 13,
-     "team": "Torino",
-     "crest": "https://crests.football-data.org/586.png",
-     "played": 6,
+     "pos": 14,
+     "team": "Monza",
+     "crest": "https://crests.football-data.org/5911.png",
+     "played": 7,
      "won": 2,
      "draw": 1,
-     "lost": 3,
+     "lost": 4,
      "gd": -2,
      "pts": 7
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Bologna",
      "crest": "https://crests.football-data.org/103.png",
      "played": 7,
@@ -849,29 +860,7 @@
      "pts": 5
     },
     {
-     "pos": 15,
-     "team": "Monza",
-     "crest": "https://crests.football-data.org/5911.png",
-     "played": 6,
-     "won": 1,
-     "draw": 1,
-     "lost": 4,
-     "gd": -6,
-     "pts": 4
-    },
-    {
      "pos": 16,
-     "team": "Parma",
-     "crest": "https://crests.football-data.org/112.png",
-     "played": 6,
-     "won": 1,
-     "draw": 1,
-     "lost": 4,
-     "gd": -6,
-     "pts": 4
-    },
-    {
-     "pos": 17,
      "team": "Udinese",
      "crest": "https://crests.football-data.org/115.png",
      "played": 7,
@@ -882,7 +871,7 @@
      "pts": 4
     },
     {
-     "pos": 18,
+     "pos": 17,
      "team": "Genoa",
      "crest": "https://crests.football-data.org/107.png",
      "played": 7,
@@ -893,9 +882,20 @@
      "pts": 4
     },
     {
-     "pos": 19,
+     "pos": 18,
      "team": "Fiorentina",
      "crest": "https://crests.football-data.org/99.png",
+     "played": 7,
+     "won": 1,
+     "draw": 1,
+     "lost": 5,
+     "gd": -9,
+     "pts": 4
+    },
+    {
+     "pos": 19,
+     "team": "Parma",
+     "crest": "https://crests.football-data.org/112.png",
      "played": 7,
      "won": 1,
      "draw": 1,
@@ -916,6 +916,20 @@
     }
    ],
    "results": [
+    {
+     "date": "2026-10-19",
+     "home": "Parma",
+     "away": "Torino",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-10-19",
+     "home": "Monza",
+     "away": "Cagliari",
+     "hs": 4,
+     "as": 0
+    },
     {
      "date": "2026-10-18",
      "home": "Juventus",
@@ -957,20 +971,6 @@
      "away": "Inter",
      "hs": 1,
      "as": 3
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Venezia FC",
-     "away": "Napoli",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-16",
-     "home": "Frosinone",
-     "away": "Sassuolo",
-     "hs": 4,
-     "as": 2
     }
    ],
    "scorers": [
@@ -981,15 +981,15 @@
      "assists": 0
     },
     {
+     "name": "Gustavo Varela",
+     "team": "Monza",
+     "goals": 6,
+     "assists": 1
+    },
+    {
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 6,
-     "assists": 0
-    },
-    {
-     "name": "Gustavo Varela",
-     "team": "Monza",
-     "goals": 4,
      "assists": 0
     },
     {
