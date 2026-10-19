@@ -1,5 +1,18 @@
 [
  {
+  "id": "99b64262bb80",
+  "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
+  "player": "Markus Krösche",
+  "title_ko": "Kurz vor einer Einigung MIT Milan? Eintracht bekäme Ablöse für Krösche",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-19T08:49:23+00:00"
+ },
+ {
   "id": "2711747ab04b",
   "title": "Sir Jim Ratcliffe 'kills' Man Utd transfer agreed by Jason Wilcox - 'It's a mess'",
   "player": "Sir Jim Ratcliffe",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-medhi-benatia-serait-dans-le-viseur-de-l-ac-milan_AV-202610080958.html",
   "fee": null,
   "published": "2026-10-08T20:07:11+00:00"
- },
- {
-  "id": "174b7a29a62b",
-  "title": "JJ Gabriel's Man Utd warning sign - Five teenagers who moved young and flopped",
-  "player": null,
-  "title_ko": "JJ Gabriel's Man Utd warning sign - 5명의 청소년이 어릴 때부터 몸을 움직여서",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-future-37751591",
-  "fee": null,
-  "published": "2026-10-08T18:05:53+00:00"
  }
 ]
