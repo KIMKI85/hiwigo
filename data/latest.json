@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c156d875f73",
+  "title": "Milan continue Krösche talks as €5-7m release clause emerges",
+  "player": "Markus Krösche",
+  "title_ko": "€ 5-7M 릴리스 조항이 등장함에 따라 밀라노는 Krösche 회담을 계속합니다",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-continue-krosche-talks-as-5-7m/",
+  "fee": null,
+  "published": "2026-10-19T19:20:00+00:00"
+ },
+ {
   "id": "df0672362ebd",
   "title": "Former Juventus CEO Comolli joins Pisa as president and chief executive",
   "player": "Damien Comolli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-liverpool-37752299",
   "fee": "£1BN",
   "published": "2026-10-09T05:40:18+00:00"
- },
- {
-  "id": "840c5b4fd2d0",
-  "title": "Liverpool news: Andoni Iraola transfer mistake highlighted as £35m ace proves Reds chief wrong",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라 이적 실수, £ 35M 에이스로 강조, 레즈 수석이 틀렸음을 입증",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-transfer-latest-37750769",
-  "fee": "£35M",
-  "published": "2026-10-09T04:00:00+00:00"
  }
 ]
