@@ -1,5 +1,18 @@
 [
  {
+  "id": "3d9d602d0f20",
+  "title": "Milan closing in on agreement with ex-Frankfurt and RB Leipzig director Krösche",
+  "player": null,
+  "title_ko": "밀라노, 프랑크푸르트 전 감독 및 RB 라이프치히 감독 크뢰셰와 합의로 마무리",
+  "league": "BUND",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-closing-in-on-agreement-with-kroesche/",
+  "fee": null,
+  "published": "2026-10-19T11:05:16+00:00"
+ },
+ {
   "id": "99b64262bb80",
   "title": "Kurz vor einer Einigung mit Milan? Eintracht bekäme Ablöse für Krösche",
   "player": "Markus Krösche",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-contract-37751882",
   "fee": "£1M",
   "published": "2026-10-08T20:49:05+00:00"
- },
- {
-  "id": "a1ce6d36efc4",
-  "title": "Mercato: Medhi Benatia serait dans le viseur de l’AC Milan",
-  "player": "Medhi Benatia",
-  "title_ko": "Mercato: Medhi Benatia serait dans le viseur de l 'AC Milan",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-medhi-benatia-serait-dans-le-viseur-de-l-ac-milan_AV-202610080958.html",
-  "fee": null,
-  "published": "2026-10-08T20:07:11+00:00"
  }
 ]
