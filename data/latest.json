@@ -1,5 +1,18 @@
 [
  {
+  "id": "3432001354f5",
+  "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
+  "player": "Jonathan Wilson",
+  "title_ko": "브라이튼은 APEX B 클럽입니다 – 다음 목표는 챔피언스 리그 장소여야 합니다 | 조나단 윌슨",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
+  "fee": null,
+  "published": "2026-10-19T14:51:11+00:00"
+ },
+ {
   "id": "a2d8d0d8ce20",
   "title": "Ezri Konsa relishing Harry Kane duel as he bids to help Arsenal end Champions League hoodoo",
   "player": "Ezri Konsa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/einst-teuerste-spielerin-kundananji-wechselt-nach-chicago-1259451/artikel#omrss",
   "fee": null,
   "published": "2026-10-08T22:32:09+00:00"
- },
- {
-  "id": "995da2515674",
-  "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk",
-  "fee": null,
-  "published": "2026-10-08T22:30:00+00:00"
  }
 ]
