@@ -1,5 +1,18 @@
 [
  {
+  "id": "df0672362ebd",
+  "title": "Former Juventus CEO Comolli joins Pisa as president and chief executive",
+  "player": "Damien Comolli",
+  "title_ko": "전 유벤투스 CEO 코몰리, 사장 겸 최고 경영자로 PISA에 합류",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/former-juventus-ceo-comolli-joins-pisa/",
+  "fee": null,
+  "published": "2026-10-19T18:40:00+00:00"
+ },
+ {
   "id": "3432001354f5",
   "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
   "player": "Jonathan Wilson",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-transfer-latest-37750769",
   "fee": "£35M",
   "published": "2026-10-09T04:00:00+00:00"
- },
- {
-  "id": "a4d2d8a23d5a",
-  "title": "Arsenal news: Julian Alvarez in huge transfer U-turn and contact made with striker's camp",
-  "player": "Julian Alvarez",
-  "title_ko": "아스날 뉴스: 줄리안 알바레즈 (Julian Alvarez) 가 엄청난 이적 유턴과 스트라이커 캠프와의 접촉",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-julian-alvarez-37749909",
-  "fee": null,
-  "published": "2026-10-09T03:00:00+00:00"
  }
 ]
