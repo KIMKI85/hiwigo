@@ -1,5 +1,18 @@
 [
  {
+  "id": "b1157bef253b",
+  "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
+  "player": null,
+  "title_ko": "논문: 맨체스터 유나이티드는 마르티네스가 계획된 정비에서 도끼에 직면함에 따라 두 개의 좌측 백을 목표로 삼는다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
+  "fee": null,
+  "published": "2026-10-20T22:30:00+00:00"
+ },
+ {
   "id": "d1572a633fed",
   "title": "Man Utd revisit deal for Hall - Wednesday gossip",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live",
   "fee": null,
   "published": "2026-10-10T07:00:51+00:00"
- },
- {
-  "id": "efafdac07d54",
-  "title": "Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges",
-  "player": "Old Trafford",
-  "title_ko": "맨체스터 유나이티드 뉴스: JJ 가브리엘, 구단의 침묵이 도시 요금에 부수어짐에 따라 계약 제안",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-jj-gabriel-37754865",
-  "fee": null,
-  "published": "2026-10-10T03:30:00+00:00"
  }
 ]
