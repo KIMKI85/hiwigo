@@ -1,5 +1,18 @@
 [
  {
+  "id": "b1b126f17e78",
+  "title": "Essen verpflichtet Ex-Schalker Pöpperl",
+  "player": "Ex-Schalker Pöpperl",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/essen-verpflichtet-ex-schalker-poepperl-1263233/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-20T08:55:20+00:00"
+ },
+ {
   "id": "1116bb4d0d91",
   "title": "Trent Alexander-Arnold had special link to Man Utd before blunt response to transfer offer",
   "player": "Trent Alexander-Arnold",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-makes-arsenal-vow-37755751",
   "fee": null,
   "published": "2026-10-09T21:30:00+00:00"
- },
- {
-  "id": "45d148e5662e",
-  "title": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-  "player": "Gilberto Mora",
-  "title_ko": "10대 Mora를 위한 아스날 아이 딜 - 토요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-09T21:19:35+00:00"
  }
 ]
