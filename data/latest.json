@@ -1,5 +1,18 @@
 [
  {
+  "id": "d1572a633fed",
+  "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+  "player": "Lewis Hall",
+  "title_ko": "맨유, 홀 재방문 특가 - 수요일 험담",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-20T20:17:15+00:00"
+ },
+ {
   "id": "75818aa14025",
   "title": "Frenkie de Jong's 'dream' transfer remark, wife dropping hint and Man Utd U-turn",
   "player": "Frenkie de Jong's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-jj-gabriel-37754865",
   "fee": null,
   "published": "2026-10-10T03:30:00+00:00"
- },
- {
-  "id": "297d03ad2d3f",
-  "title": "'I had the best time of my life at Leeds – but I didn't need convincing to join Arsenal'",
-  "player": null,
-  "title_ko": "'리즈에서 인생 최고의 시간을 보냈지만, 아스널에 합류하기 위해 설득할 필요는 없었습니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-leeds-united-transfer-white-37740214",
-  "fee": null,
-  "published": "2026-10-10T03:00:00+00:00"
  }
 ]
