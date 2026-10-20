@@ -1,5 +1,18 @@
 [
  {
+  "id": "5416745bfcc0",
+  "title": "Liverpool news: Rio Ngumoha transfer update as Reds youngster's ban is lifted",
+  "player": "Rio Ngumoha",
+  "title_ko": "리버풀 뉴스: Reds Youngster의 금지 조치가 해제됨에 따라 Rio Ngumoha 이적 업데이트",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rio-ngumoha-transfer-latest-37787510",
+  "fee": null,
+  "published": "2026-10-20T04:00:00+00:00"
+ },
+ {
   "id": "68e8b6a12138",
   "title": "Arsenal news: Mikel Arteta issue with star identified and update on £55m transfer target",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
   "fee": null,
   "published": "2026-10-09T11:42:00+00:00"
- },
- {
-  "id": "c99880b8eb12",
-  "title": "Iraola's big dilemmas in bid for statement win vs Man City",
-  "player": "Andoni Iraola",
-  "title_ko": "맨시티와의 성명서 승리를 위한 입찰에서의 이라올라의 큰 딜레마",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13596776/andoni-iraola-five-key-issues-facing-liverpool-boss-ahead-of-man-city-showdown",
-  "fee": null,
-  "published": "2026-10-09T10:16:00+00:00"
  }
 ]
