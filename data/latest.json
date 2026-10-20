@@ -1,5 +1,18 @@
 [
  {
+  "id": "e8983cc7a9e7",
+  "title": "Mercato: Pierre Sage déjà sur la sellette à Crystal Palace",
+  "player": "Pierre Sage",
+  "title_ko": "메르카토: 피에르 세이지 데자 쉬르 라 셀레트 아 크리스탈 팰리스",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pierre-sage-deja-sur-la-sellette-a-crystal-palace_AV-202610200093.html",
+  "fee": null,
+  "published": "2026-10-20T04:32:40+00:00"
+ },
+ {
   "id": "5416745bfcc0",
   "title": "Liverpool news: Rio Ngumoha transfer update as Reds youngster's ban is lifted",
   "player": "Rio Ngumoha",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-nico-gonzalez-new-juventus-contract/",
   "fee": null,
   "published": "2026-10-09T15:36:02+00:00"
- },
- {
-  "id": "69bc5b6d7bd0",
-  "title": "Transfer Centre LIVE! Bayern chief 'positive' about Kane contract talks",
-  "player": null,
-  "title_ko": "트랜스퍼 센터 생중계! 바이에른 수석, 케인 계약 회담에 대해 '긍정적'",
-  "league": "BUND",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-  "fee": null,
-  "published": "2026-10-09T11:42:00+00:00"
  }
 ]
