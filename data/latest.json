@@ -1,5 +1,18 @@
 [
  {
+  "id": "896f129dcdb6",
+  "title": "Sept recrues et un bilan mitigé... Le mercato du Losc (pour le moment) décevant",
+  "player": null,
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/sept-recrues-et-un-bilan-mitige-le-mercato-du-losc-pour-le-moment-decevant_AV-202610200511.html",
+  "fee": null,
+  "published": "2026-10-20T12:30:58+00:00"
+ },
+ {
   "id": "b1b126f17e78",
   "title": "Essen verpflichtet Ex-Schalker Pöpperl",
   "player": "Ex-Schalker Pöpperl",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
   "fee": null,
   "published": "2026-10-09T22:30:00+00:00"
- },
- {
-  "id": "d5bdf47dd196",
-  "title": "Mikel Arteta makes Arsenal vow after signing new contract - 'We need to stay on top'",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 새로운 계약에 서명 한 후 아스날 서약을합니다 - '우리는 정상에 머물러야합니다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-makes-arsenal-vow-37755751",
-  "fee": null,
-  "published": "2026-10-09T21:30:00+00:00"
  }
 ]
