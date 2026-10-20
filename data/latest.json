@@ -1,5 +1,18 @@
 [
  {
+  "id": "75818aa14025",
+  "title": "Frenkie de Jong's 'dream' transfer remark, wife dropping hint and Man Utd U-turn",
+  "player": "Frenkie de Jong's",
+  "title_ko": "프렌키 드 종 (Frenkie de Jong) 의 '꿈' 이적 발언, 아내 드롭 힌트 및 맨유 유턴",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-frenkie-de-jong-37791799",
+  "fee": null,
+  "published": "2026-10-20T14:01:34+00:00"
+ },
+ {
   "id": "896f129dcdb6",
   "title": "Sept recrues et un bilan mitigé... Le mercato du Losc (pour le moment) décevant",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-leeds-united-transfer-white-37740214",
   "fee": null,
   "published": "2026-10-10T03:00:00+00:00"
- },
- {
-  "id": "51331d09cc97",
-  "title": "Papers: Man Utd forced into transfer market in January?",
-  "player": null,
-  "title_ko": "논문: 맨유가 1월에 이적 시장을 강요했나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
-  "fee": null,
-  "published": "2026-10-09T22:30:00+00:00"
  }
 ]
