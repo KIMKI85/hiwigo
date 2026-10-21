@@ -1,5 +1,18 @@
 [
  {
+  "id": "d631aecd68d9",
+  "title": "Mercato: Athekame va bien finir la saison à l’OL malgré l’intérêt de l’AC Milan pour un retour précoce",
+  "player": "Zachary Athekame",
+  "title_ko": "Mercato: Athekame va bien finir la saison à l 'ol malgré l' intérêt de l 'AC Milan pour un retour précoce",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-athekame-va-bien-finir-la-saison-a-l-ol-malgre-l-interet-de-l-ac-milan-pour-un-retour-precoce_AV-202610210907.html",
+  "fee": null,
+  "published": "2026-10-21T19:19:41+00:00"
+ },
+ {
   "id": "5f3f17a88101",
   "title": "Ligue Europa: \"Le pire mercato de l'Histoire du club\", les retrouvailles du Stade Rennais avec le flop Massara",
   "player": "Stade Rennais",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/rangers-vs-kilmarnock/report/558380",
   "fee": null,
   "published": "2026-10-10T17:30:00+00:00"
- },
- {
-  "id": "375048ba2973",
-  "title": "Ángel Torres avala para que LaLiga admita el fichaje de Carvajal: “Estamos pendientes de que Dani diga”",
-  "player": "Ángel Torres",
-  "title_ko": "앙헬 토레스 avala para que LaLiga admita el fichaje de Carvajal: “Estamos pendientes de que Dani diga”",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/getafe/2026/10/10/angel-torres-avala-laliga-admita-fichaje-carvajal-pendientes-dani-diga.html",
-  "fee": null,
-  "published": "2026-10-10T16:25:44+00:00"
  }
 ]
