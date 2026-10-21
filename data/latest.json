@@ -1,5 +1,18 @@
 [
  {
+  "id": "52ce3a63ad89",
+  "title": "Arsenal news: Mikel Arteta's 'dream' winger signing identified as Bukayo Saka slammed",
+  "player": "Mikel Arteta's",
+  "title_ko": "무기고 소식: Mikel Arteta의 '꿈' 윙어 사인이 Bukayo Saka로 확인되었습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-bukayo-saka-37791396",
+  "fee": null,
+  "published": "2026-10-21T03:00:00+00:00"
+ },
+ {
   "id": "b1157bef253b",
   "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-settlement-37757153",
   "fee": null,
   "published": "2026-10-10T07:07:43+00:00"
- },
- {
-  "id": "09844840d521",
-  "title": "Arsenal bid to close gap on City, lowly Spurs head to Manchester United – matchday live",
-  "player": null,
-  "title_ko": "아스날이 시티와의 격차를 좁히기 위해 입찰하고, 로울리 스퍼스는 맨체스터 유나이티드로 향합니다 – 매치데이 라이브",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live",
-  "fee": null,
-  "published": "2026-10-10T07:00:51+00:00"
  }
 ]
