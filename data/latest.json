@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a64c83731a0",
+  "title": "Man Utd plot Lisandro Martinez contract extension as part of plan to land £50m star",
+  "player": "Lisandro Martinez",
+  "title_ko": "맨체스터 유나이티드 플롯 리산드로 마르티네스 £ 50M 스타 육성 계획의 일환으로 계약 연장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-transfer-replacement-37794592",
+  "fee": "£50M",
+  "published": "2026-10-21T10:44:47+00:00"
+ },
+ {
   "id": "520c374473cc",
   "title": "Arsenal star 'agreed new deal' but left for Man Utd after Bayern Munich result",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034",
   "fee": null,
   "published": "2026-10-10T11:09:00+00:00"
- },
- {
-  "id": "bb85c2682cfd",
-  "title": "LIVE! Niederlage beim Debüt? Wagner greift zum letzten Wechsel - Vukotic bügelt Fehler aus und überwindet Lotka",
-  "player": "Sandro Wagner",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-niederlage-beim-debuet-wagner-greift-zum-letzten-wechsel-vukotic-buegelt-fehler-aus-und-ueberwindet-lotka-1259000/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-10T09:59:24+00:00"
  }
 ]
