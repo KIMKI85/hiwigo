@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:01:08.826493+00:00",
+ "updated": "2026-10-21T17:21:16.148263+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -1775,6 +1775,17 @@
     },
     {
      "pos": 9,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 3,
+     "won": 2,
+     "draw": 0,
+     "lost": 1,
+     "gd": 3,
+     "pts": 6
+    },
+    {
+     "pos": 10,
      "team": "Real Madrid",
      "crest": "https://crests.football-data.org/86.png",
      "played": 2,
@@ -1785,7 +1796,7 @@
      "pts": 6
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Real Betis",
      "crest": "https://crests.football-data.org/90.png",
      "played": 2,
@@ -1796,7 +1807,7 @@
      "pts": 6
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Dortmund",
      "crest": "https://crests.football-data.org/4.png",
      "played": 3,
@@ -1807,7 +1818,7 @@
      "pts": 6
     },
     {
-     "pos": 12,
+     "pos": 13,
      "team": "Bayern",
      "crest": "https://crests.football-data.org/5.png",
      "played": 2,
@@ -1818,7 +1829,7 @@
      "pts": 4
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Roma",
      "crest": "https://crests.football-data.org/100.png",
      "played": 3,
@@ -1829,7 +1840,7 @@
      "pts": 4
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Shaktar",
      "crest": "https://crests.football-data.org/1887.png",
      "played": 2,
@@ -1840,7 +1851,7 @@
      "pts": 4
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Atleti",
      "crest": "https://crests.football-data.org/78.png",
      "played": 3,
@@ -1851,7 +1862,7 @@
      "pts": 4
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "PSV",
      "crest": "https://crests.football-data.org/674.png",
      "played": 3,
@@ -1862,25 +1873,14 @@
      "pts": 4
     },
     {
-     "pos": 17,
-     "team": "Como 1907",
-     "crest": "https://crests.football-data.org/7397.png",
-     "played": 2,
-     "won": 1,
-     "draw": 0,
-     "lost": 1,
-     "gd": 2,
-     "pts": 3
-    },
-    {
      "pos": 18,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
-     "played": 2,
+     "played": 3,
      "won": 1,
      "draw": 0,
-     "lost": 1,
-     "gd": 2,
+     "lost": 2,
+     "gd": 1,
      "pts": 3
     },
     {
@@ -2017,6 +2017,28 @@
     },
     {
      "pos": 31,
+     "team": "Lille",
+     "crest": "https://crests.football-data.org/521.png",
+     "played": 3,
+     "won": 0,
+     "draw": 1,
+     "lost": 2,
+     "gd": -4,
+     "pts": 1
+    },
+    {
+     "pos": 32,
+     "team": "Galatasaray",
+     "crest": "https://crests.football-data.org/610.png",
+     "played": 3,
+     "won": 0,
+     "draw": 1,
+     "lost": 2,
+     "gd": -5,
+     "pts": 1
+    },
+    {
+     "pos": 33,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
      "played": 2,
@@ -2027,7 +2049,7 @@
      "pts": 0
     },
     {
-     "pos": 32,
+     "pos": 34,
      "team": "LASK",
      "crest": "https://crests.football-data.org/2016.png",
      "played": 2,
@@ -2038,7 +2060,7 @@
      "pts": 0
     },
     {
-     "pos": 33,
+     "pos": 35,
      "team": "Porto",
      "crest": "https://crests.football-data.org/503.png",
      "played": 3,
@@ -2046,28 +2068,6 @@
      "draw": 0,
      "lost": 3,
      "gd": -4,
-     "pts": 0
-    },
-    {
-     "pos": 34,
-     "team": "Lille",
-     "crest": "https://crests.football-data.org/521.png",
-     "played": 2,
-     "won": 0,
-     "draw": 0,
-     "lost": 2,
-     "gd": -4,
-     "pts": 0
-    },
-    {
-     "pos": 35,
-     "team": "Galatasaray",
-     "crest": "https://crests.football-data.org/610.png",
-     "played": 2,
-     "won": 0,
-     "draw": 0,
-     "lost": 2,
-     "gd": -5,
      "pts": 0
     },
     {
