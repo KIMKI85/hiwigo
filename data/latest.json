@@ -1,5 +1,18 @@
 [
  {
+  "id": "61ad78169354",
+  "title": "Man Utd news: Three Michael Carrick replacements identified as £100m transfer failure lamented",
+  "player": "Three Michael Carrick",
+  "title_ko": "맨유 소식: £ 100M 이적 실패로 확인된 세 명의 마이클 캐릭 교체 선수가 한탄함",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-rice-37790943",
+  "fee": "£100M",
+  "published": "2026-10-21T03:30:00+00:00"
+ },
+ {
   "id": "52ce3a63ad89",
   "title": "Arsenal news: Mikel Arteta's 'dream' winger signing identified as Bukayo Saka slammed",
   "player": "Mikel Arteta's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/cardinale-50m-cash-injection-milan-transfers/",
   "fee": null,
   "published": "2026-10-10T09:05:35+00:00"
- },
- {
-  "id": "e52ea61d08fc",
-  "title": "Man City charges LIVE: Settlement talks with Premier League as punishments agreed",
-  "player": null,
-  "title_ko": "맨시티 요금 산정: 합의에 따른 처벌에 따라 프리미어리그와의 합의 협상",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-settlement-37757153",
-  "fee": null,
-  "published": "2026-10-10T07:07:43+00:00"
  }
 ]
