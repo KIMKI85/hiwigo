@@ -1,5 +1,31 @@
 [
  {
+  "id": "5f3f17a88101",
+  "title": "Ligue Europa: \"Le pire mercato de l'Histoire du club\", les retrouvailles du Stade Rennais avec le flop Massara",
+  "player": "Stade Rennais",
+  "title_ko": "리그 유로파: \"Le pire mercato de l 'Histoire du club\", les retrouvailles du Stade Rennais avec le flop Massara",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/europa-league/ligue-europa-le-pire-mercato-de-l-histoire-du-club-les-retrouvailles-du-stade-rennais-avec-le-flop-massara_AV-202610210830.html",
+  "fee": null,
+  "published": "2026-10-21T17:37:19+00:00"
+ },
+ {
+  "id": "a4052c50595c",
+  "title": "Vinicius Jr 'seriously considered' Arsenal transfer as agent lifts lid on failed move",
+  "player": "Vinicius Jr",
+  "title_ko": "에이전트가 실패한 동작에서 뚜껑을 들어올리면서 비니시우스 주니어가 '심각하게 고려한' 아스날 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-real-madrid-37797089",
+  "fee": null,
+  "published": "2026-10-21T17:32:55+00:00"
+ },
+ {
   "id": "6915fc6d75da",
   "title": "Man Utd transfer plans being put in place as injury timeline emerges for Benjamin Sesko",
   "player": "Benjamin Sesko",
@@ -1272,31 +1298,5 @@
   "url": "https://www.marca.com/futbol/getafe/2026/10/10/angel-torres-avala-laliga-admita-fichaje-carvajal-pendientes-dani-diga.html",
   "fee": null,
   "published": "2026-10-10T16:25:44+00:00"
- },
- {
-  "id": "2f1dfa4b4742",
-  "title": "Sochaux-Boulogne: le craquage de Jonas Martin, prêt à en venir aux mains avec un supporter",
-  "player": "Jonas Martin",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/ligue-2/sochaux-boulogne-le-craquage-de-jonas-martin-pret-a-en-venir-aux-mains-avec-un-supporter_AN-202610100274.html",
-  "fee": null,
-  "published": "2026-10-10T14:53:19+00:00"
- },
- {
-  "id": "b663cd6e84c3",
-  "title": "Man Utd transfer blunder exposed as Real Madrid enquiry revealed for £25m star",
-  "player": null,
-  "title_ko": "£ 25M 스타에 대한 레알 마드리드의 문의가 밝혀지면서 노출된 맨유 이적 실수",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/scott-mctominay-man-utd-transfer-37757962",
-  "fee": "£25M",
-  "published": "2026-10-10T14:13:13+00:00"
  }
 ]
