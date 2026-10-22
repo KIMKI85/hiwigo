@@ -1,5 +1,18 @@
 [
  {
+  "id": "1664af274c70",
+  "title": "Podcast: Is Celta a must-win for Celtic? And what do fans want from new TV deal?",
+  "player": null,
+  "title_ko": "팟캐스트: 셀타는 셀틱에게 꼭 필요한 아이템인가요? 그리고 팬들은 새로운 TV 거래에서 무엇을 원합니까?",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sounds/play/p0phyhpt?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-22T07:00:00+00:00"
+ },
+ {
   "id": "777eb30daa00",
   "title": "Reese stars again as Atalanta beat Golden State to move 2-1 up in WNBA Finals",
   "player": "Golden State",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-c-est-la-meilleure-chose-a-faire-paixao-pret-a-baisser-son-salaire-pour-aider-le-club_AV-202610110252.html",
   "fee": null,
   "published": "2026-10-11T14:09:32+00:00"
- },
- {
-  "id": "643ba5153a03",
-  "title": "LIVE! Vier Wechsel beim FC - Holt Gladbach beim Blessin-Debüt die ersten Punkte?",
-  "player": "Vier Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-vier-wechsel-beim-fc-holt-gladbach-beim-blessin-debuet-die-ersten-punkte-1259174/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-11T13:22:33+00:00"
  }
 ]
