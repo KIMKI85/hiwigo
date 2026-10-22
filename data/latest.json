@@ -1,5 +1,18 @@
 [
  {
+  "id": "98b20fa8b49e",
+  "title": "Arsenal news: David Raya makes exit admission as Mikel Arteta eyes new signing",
+  "player": "David Raya",
+  "title_ko": "무기고 뉴스: David Raya, Mikel Arteta의 새로운 서명으로 퇴장 입장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-david-raya-exit-37795342",
+  "fee": null,
+  "published": "2026-10-22T03:00:00+00:00"
+ },
+ {
   "id": "c7730d978184",
   "title": "Barkley and Buendía on target as Aston Villa maintain perfect start against Viking",
   "player": "Holte End",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-mikel-merino-37757955",
   "fee": null,
   "published": "2026-10-11T03:00:00+00:00"
- },
- {
-  "id": "b481d3548774",
-  "title": "Vuskovic a target for Bayern - Sunday's gossip",
-  "player": "Luka Vuskovic",
-  "title_ko": "부스코비치, 바이에른의 표적이 되다 - 일요일의 가십",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-10T20:44:38+00:00"
  }
 ]
