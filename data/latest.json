@@ -1,5 +1,31 @@
 [
  {
+  "id": "96e67c93b179",
+  "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
+  "player": "Arsenals Fokus",
+  "title_ko": "아르헨티나 VOR Scaloni-Deal - Arsenals Fokus의 Tresoldi rückt",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-22T08:20:00+00:00"
+ },
+ {
+  "id": "75428ee49b6b",
+  "title": "Viessmann-Deal durch: FC Bayern verkauft weitere Anteile",
+  "player": "Die Viessmann Generations",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/viessmann-deal-durch-fc-bayern-verkauft-weitere-anteile-1263928/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-22T08:19:21+00:00"
+ },
+ {
   "id": "1664af274c70",
   "title": "Podcast: Is Celta a must-win for Celtic? And what do fans want from new TV deal?",
   "player": null,
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
   "fee": null,
   "published": "2026-10-11T16:09:39+00:00"
- },
- {
-  "id": "5a42628bed7a",
-  "title": "LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke",
-  "player": "Zu Gast",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-zu-gast-bei-unbesiegten-freiburgern-vier-wechsel-bei-schalke-1259182/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-11T15:00:44+00:00"
- },
- {
-  "id": "6a648c5b23a2",
-  "title": "OM: \"C'est la meilleure chose à faire\", Paixao prêt à baisser son salaire pour aider le club",
-  "player": "Igor Paixão",
-  "title_ko": "OM: \"C 'est la meilleure chose à faire\", Paixao prêt à baisser son salaire pour aider le club",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-c-est-la-meilleure-chose-a-faire-paixao-pret-a-baisser-son-salaire-pour-aider-le-club_AV-202610110252.html",
-  "fee": null,
-  "published": "2026-10-11T14:09:32+00:00"
  }
 ]
