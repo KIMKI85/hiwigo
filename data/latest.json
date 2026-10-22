@@ -1,5 +1,18 @@
 [
  {
+  "id": "d9db11eaa449",
+  "title": "El Liverpool chequea la cesión de Elliott en Valencia",
+  "player": "Kiko Espinar",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/valencia/2026/10/22/liverpool-chequea-cesion-elliott-valencia.html",
+  "fee": null,
+  "published": "2026-10-22T12:33:31+00:00"
+ },
+ {
   "id": "49cf5d77d730",
   "title": "Mercato: le message énigmatique de Paul Pogba, bientôt de retour dans un club ?",
   "player": "Paul Pogba",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
   "fee": null,
   "published": "2026-10-12T03:00:00+00:00"
- },
- {
-  "id": "66df5249504b",
-  "title": "Aston Villa planning Endrick move - Monday's gossip",
-  "player": "Barcelona's Marc Bernal",
-  "title_ko": "애스턴 빌라, 엔드릭 이동 계획 - 월요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c5gm01j87jl7o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-11T21:32:39+00:00"
  }
 ]
