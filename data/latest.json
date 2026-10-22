@@ -1,5 +1,18 @@
 [
  {
+  "id": "4fa1312c2e01",
+  "title": "SüperLig-Erfahrung: Gütersloh verpflichtet Ex-Erfurter Uzun",
+  "player": "Ex-Erfurter Uzun",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/sueperlig-erfahrung-guetersloh-verpflichtet-ex-erfurter-uzun-1263984/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-22T09:09:10+00:00"
+ },
+ {
   "id": "96e67c93b179",
   "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
   "player": "Arsenals Fokus",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-11T18:38:31+00:00"
- },
- {
-  "id": "ecbbbcb2b7f0",
-  "title": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
-  "player": "Under Gennaro Gattuso",
-  "title_ko": "유럽 축구: 라치오가 코모에서 개최된 로마의 세리에 A 정상에서 인테르에 합류",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-  "fee": null,
-  "published": "2026-10-11T16:09:39+00:00"
  }
 ]
