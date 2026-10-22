@@ -1,5 +1,18 @@
 [
  {
+  "id": "05da52b0c0f4",
+  "title": "Amorim: ‘Milan faith in Cisse, won’t be easy for Bournemouth to deal with him’",
+  "player": "Ruben Amorim",
+  "title_ko": "아모림: ‘밀라노의 시스 신앙, 본머스가 그를 상대하기 쉽지 않을 거야’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/amorim-milan-faith-cisse-not-easy-bournemouth/",
+  "fee": null,
+  "published": "2026-10-22T18:52:45+00:00"
+ },
+ {
   "id": "113d991d689f",
   "title": "Mercato: courtisé par le PSG, le grand espoir Laciné Megnan prolonge à Montpellier",
   "player": "Laciné Megnan",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/todays-papers-lazio-join-the-lead/",
   "fee": null,
   "published": "2026-10-12T07:52:54+00:00"
- },
- {
-  "id": "8a037a6bd922",
-  "title": "DIRECT. Mercato: suivez toutes les infos et rumeurs du lundi 12 octobre en live",
-  "player": null,
-  "title_ko": "직접. Mercato: suivez toutes les infos et rumeurs du lundi 12 octobre en live",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-du-lundi-12-octobre-en-live_LN-202610120190.html",
-  "fee": null,
-  "published": "2026-10-12T06:20:58+00:00"
  }
 ]
