@@ -1,5 +1,18 @@
 [
  {
+  "id": "a728526f4d36",
+  "title": "Dybala’s likely return date revealed after latest medical tests",
+  "player": "Paulo Dybala",
+  "title_ko": "Dybala의 귀국 가능 날짜는 최신 의료 검사 후에 밝혀졌습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/dybalas-return-date-latest-medical-test-injury/",
+  "fee": null,
+  "published": "2026-10-23T13:07:31+00:00"
+ },
+ {
   "id": "62de24d501c2",
   "title": "Former Man United chief Murtough joins Birmingham",
   "player": "John Murtough",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
   "fee": null,
   "published": "2026-10-12T22:00:00+00:00"
- },
- {
-  "id": "f0a8e3530bf5",
-  "title": "Man Utd's £100m transfer problem laid bare as new details of summer window emerge",
-  "player": null,
-  "title_ko": "맨체스터 유나이티드의 £ 100M 이적 문제는 여름 창문의 새로운 디테일이 드러나면서 드러났다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-midfield-recruitment-targets-37762427",
-  "fee": "£100M",
-  "published": "2026-10-12T16:00:00+00:00"
  }
 ]
