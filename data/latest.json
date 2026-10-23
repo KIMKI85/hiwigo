@@ -1,5 +1,18 @@
 [
  {
+  "id": "2263763a7c15",
+  "title": "Ex-Arsenal chief Edu lands new role at League Two side after move fails to work out",
+  "player": null,
+  "title_ko": "전직 아세날 수장 에두는 무브가 해결되지 않은 후 리그 2에서 새로운 역할을 맡는다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/edu-northampton-town-job-arsenal-37805215",
+  "fee": null,
+  "published": "2026-10-23T16:01:14+00:00"
+ },
+ {
   "id": "1bffc042364b",
   "title": "Report: Milan want to bring Athekame back from Lyon loan but face reluctance",
   "player": "Zachary Athekame",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-13T09:21:36+00:00"
- },
- {
-  "id": "eb1649d252ba",
-  "title": "Liverpool news: Rio Ngumoha contract update as 'stupid' star called out by Wayne Rooney",
-  "player": "Rio Ngumoha",
-  "title_ko": "리버풀 뉴스: 웨인 루니가 부른 '멍청한' 스타로 리오 응우모하 계약 업데이트",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rio-ngumoha-wayne-rooney-37763084",
-  "fee": null,
-  "published": "2026-10-13T04:00:00+00:00"
  }
 ]
