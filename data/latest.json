@@ -1,5 +1,18 @@
 [
  {
+  "id": "7c13add33bd9",
+  "title": "Signs of life finally for Wirtz, but Liverpool still need more from playmaker",
+  "player": "Florian Wirtz",
+  "title_ko": "마침내 비르츠에게 생명의 징후가 보이지만, 리버풀은 여전히 플레이메이커로부터 더 많은 것을 필요로 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13602355/florian-wirtz-is-finally-showing-signs-of-life-at-liverpool-but-andoni-iraola-still-needs-more-from-his-116m-playmaker",
+  "fee": null,
+  "published": "2026-10-23T08:00:00+00:00"
+ },
+ {
   "id": "34f5795c4fba",
   "title": "Liverpool news: Trent Alexander-Arnold tipped for rival transfer as Chelsea battle emerges",
   "player": "Trent Alexander-Arnold",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
   "fee": null,
   "published": "2026-10-12T14:24:02+00:00"
- },
- {
-  "id": "7515604ac3ba",
-  "title": "Mercato: l’entraîneur de Valenciennes écarté... après une victoire 13-0",
-  "player": "Pierre Blois",
-  "title_ko": "Mercato: l 'entraîneur de Valenciennes écarté... après une victoire 13-0",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-entraineur-de-valenciennes-ecarte-apres-une-victoire-13-0_AV-202610120590.html",
-  "fee": null,
-  "published": "2026-10-12T14:15:35+00:00"
  }
 ]
