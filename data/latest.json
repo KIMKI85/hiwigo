@@ -1,5 +1,18 @@
 [
  {
+  "id": "34f5795c4fba",
+  "title": "Liverpool news: Trent Alexander-Arnold tipped for rival transfer as Chelsea battle emerges",
+  "player": "Trent Alexander-Arnold",
+  "title_ko": "리버풀 뉴스: 트렌트 알렉산더 - 아놀드 (Trent Alexander-Arnold) 는 첼시 전투가 출현함에 따라 라이벌 이적에 대한 팁을 주었다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-alexander-arnold-37800027",
+  "fee": null,
+  "published": "2026-10-23T04:00:00+00:00"
+ },
+ {
   "id": "3d2d5cc38def",
   "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-entraineur-de-valenciennes-ecarte-apres-une-victoire-13-0_AV-202610120590.html",
   "fee": null,
   "published": "2026-10-12T14:15:35+00:00"
- },
- {
-  "id": "91b132314c17",
-  "title": "Mercato: Paixao révèle le moment où il a \"le plus de chances\" de quitter l'OM",
-  "player": "Igor Paixao",
-  "title_ko": "Mercato: Paixao révèle le moment où il a \"le plus de chances\" de quitter l 'OM",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/mercato-paixao-revele-le-moment-ou-il-a-le-plus-de-chances-de-quitter-l-om_AV-202610120553.html",
-  "fee": null,
-  "published": "2026-10-12T13:10:07+00:00"
  }
 ]
