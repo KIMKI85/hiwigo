@@ -1,5 +1,18 @@
 [
  {
+  "id": "1bffc042364b",
+  "title": "Report: Milan want to bring Athekame back from Lyon loan but face reluctance",
+  "player": "Zachary Athekame",
+  "title_ko": "보고서: 밀라노는 리옹 대출에서 아테카메를 다시 데려오고 싶지만 꺼림칙함",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-want-bring-athekame-back-from-lyon-loan/",
+  "fee": null,
+  "published": "2026-10-23T13:28:13+00:00"
+ },
+ {
   "id": "a728526f4d36",
   "title": "Dybala’s likely return date revealed after latest medical tests",
   "player": "Paulo Dybala",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rio-ngumoha-wayne-rooney-37763084",
   "fee": null,
   "published": "2026-10-13T04:00:00+00:00"
- },
- {
-  "id": "474d10c6f342",
-  "title": "Coventry thump Newcastle for first home win to move out of drop zone",
-  "player": "Frank Lampard's",
-  "title_ko": "코번트리 쿵 뉴캐슬, 드롭 존에서 벗어난 첫 홈경기 승리",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
-  "fee": null,
-  "published": "2026-10-12T22:00:00+00:00"
  }
 ]
