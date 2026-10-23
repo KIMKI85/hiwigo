@@ -1,5 +1,18 @@
 [
  {
+  "id": "8ac920d5da6d",
+  "title": "ENTRETIEN EVENEMENT. Gavi avant le Clasico: \"Mbappé peut même marquer 5 buts, tant que le Barça gagne, je signe\"",
+  "player": "Lamine Yamal",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/entretien-evenement-gavi-avant-le-clasico-mbappe-peut-meme-marquer-5-buts-tant-que-le-barca-gagne-je-signe_AV-202610230902.html",
+  "fee": null,
+  "published": "2026-10-23T21:46:14+00:00"
+ },
+ {
   "id": "a44a17fde055",
   "title": "Las peñas celebran el acuerdo... pero avisan: \"Esta batalla supone un avance, pero no la salvación del Rayo\"",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-milan-pavlovic-contract-extension-31/",
   "fee": null,
   "published": "2026-10-14T13:23:46+00:00"
- },
- {
-  "id": "07908340b609",
-  "title": "Liverpool and Chelsea alerted as Alex Scott January transfer gets green light",
-  "player": "Alex Scott",
-  "title_ko": "리버풀과 첼시는 알렉스 스콧 1월 이적이 초록색 불빛을 받자 경고를 보냈다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alex-scott-chelsea-liverpool-transfer-37768750",
-  "fee": null,
-  "published": "2026-10-13T18:48:34+00:00"
  }
 ]
