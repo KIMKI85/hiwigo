@@ -1,5 +1,18 @@
 [
  {
+  "id": "2a0c892dacdb",
+  "title": "Inter to reward Carlos Augusto with new contract after netting 4 goals in 7 games",
+  "player": "Carlos Augusto",
+  "title_ko": "7경기에서 4골을 득점한 후 카를로스 아우구스토에게 새로운 계약을 보상하는 인테르",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inter-to-reward-carlos-augusto-new-contract/",
+  "fee": null,
+  "published": "2026-10-23T08:55:19+00:00"
+ },
+ {
   "id": "7c13add33bd9",
   "title": "Signs of life finally for Wirtz, but Liverpool still need more from playmaker",
   "player": "Florian Wirtz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/doug-loft-dies-medical-emergency-37763811",
   "fee": null,
   "published": "2026-10-12T14:42:57+00:00"
- },
- {
-  "id": "fd1e4a9bbedc",
-  "title": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson",
-  "player": "Jonathan Wilson",
-  "title_ko": "맨체스터 시티가 이 위기에서 벗어나기 위해서는 우승만으로는 충분하지 않습니다 | 조나단 윌슨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
-  "fee": null,
-  "published": "2026-10-12T14:24:02+00:00"
  }
 ]
