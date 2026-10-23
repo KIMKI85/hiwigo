@@ -1,5 +1,18 @@
 [
  {
+  "id": "d5ec7565c07d",
+  "title": "Jadon Sancho given crushing reality check with contract offer after Man Utd and Chelsea flops",
+  "player": "Jadon Sancho",
+  "title_ko": "Jadon Sancho는 맨체스터 유나이티드와 첼시 플랍 이후 계약 제안과 함께 압도적인 리얼리티 체크를 제공했습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-manchester-united-transfer-37805693",
+  "fee": null,
+  "published": "2026-10-23T20:34:57+00:00"
+ },
+ {
   "id": "bd1f153e52af",
   "title": "Premier League clubs learn individual cost of independent regulator after fees double",
   "player": "Independent Football Regulator",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chelsea-jay-bothroyd-37766623",
   "fee": null,
   "published": "2026-10-13T12:27:52+00:00"
- },
- {
-  "id": "6ee134318e3c",
-  "title": "Were any current Man City players signed during charges period?",
-  "player": "Sport's Ask Me",
-  "title_ko": "청구 기간 동안 현재 맨시티 선수가 계약했나요?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/articles/cmje5wl5ek32o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-13T10:13:34+00:00"
  }
 ]
