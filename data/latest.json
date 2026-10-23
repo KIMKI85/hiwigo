@@ -1,5 +1,18 @@
 [
  {
+  "id": "a44a17fde055",
+  "title": "Las peñas celebran el acuerdo... pero avisan: \"Esta batalla supone un avance, pero no la salvación del Rayo\"",
+  "player": null,
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Marca Primera (ES)",
+  "url": "https://www.marca.com/futbol/rayo/2026/10/23/penas-celebran-acuerdo-avisan-batalla-supone-avance-salvacion-rayo.html",
+  "fee": null,
+  "published": "2026-10-23T21:19:14+00:00"
+ },
+ {
   "id": "19a698e4ab0a",
   "title": "Roma agree new Lulli contract to 2031 after breakthrough under Gasperini",
   "player": "Emanuele Lulli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/alex-scott-chelsea-liverpool-transfer-37768750",
   "fee": null,
   "published": "2026-10-13T18:48:34+00:00"
- },
- {
-  "id": "d1f85507eada",
-  "title": "Milan have agreement in place for long-term Pavlovic contract extension",
-  "player": null,
-  "title_ko": "밀라노는 장기 파블로비치 계약 연장을 위한 계약을 체결했습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-pavlovic-contract-extention-agreement/",
-  "fee": null,
-  "published": "2026-10-13T15:08:20+00:00"
  }
 ]
