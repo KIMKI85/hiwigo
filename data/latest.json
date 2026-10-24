@@ -1,5 +1,18 @@
 [
  {
+  "id": "dad477b8b966",
+  "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
+  "player": "In Köln",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-24T12:29:12+00:00"
+ },
+ {
   "id": "6ac503c84df5",
   "title": "Malen could have joined Napoli: why the deal collapsed before his Roma move",
   "player": "Donyell Malen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cm3r5p11d23no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-15T11:45:02+00:00"
- },
- {
-  "id": "822eb647a0ac",
-  "title": "Mercato: le PSG sur le podium, Manchester United tout en bas du classement... quels sont les clubs les plus valorisateurs de leurs recrues?",
-  "player": null,
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/mercato-le-psg-sur-le-podium-manchester-united-tout-en-bas-du-classement-quels-sont-les-clubs-les-plus-valorisateurs-de-leurs-recrues_AV-202610140664.html",
-  "fee": null,
-  "published": "2026-10-14T15:43:03+00:00"
  }
 ]
