@@ -260,6 +260,19 @@
   "published": "2026-10-22T17:12:11+00:00"
  },
  {
+  "id": "a6703f133a53",
+  "title": "Arsenal move level with leaders City with Everton win LIVE!",
+  "player": null,
+  "title_ko": "리더와 함께 무기고 이동 레벨 에버턴과 함께 도시에서 승리하세요!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514",
+  "fee": null,
+  "published": "2026-10-22T15:17:00+00:00"
+ },
+ {
   "id": "abfa84401649",
   "title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden",
   "player": "Max Rushden",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
   "fee": null,
   "published": "2026-10-15T16:23:00+00:00"
- },
- {
-  "id": "579ab1153845",
-  "title": "Getafe make offer to sign free agent Sancho",
-  "player": "Jadon Sancho",
-  "title_ko": "Getafe, 무료 에이전트 Sancho와 계약 제안",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cm3r5p11d23no?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-15T11:45:02+00:00"
  }
 ]
