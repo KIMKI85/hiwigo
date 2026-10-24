@@ -1,5 +1,18 @@
 [
  {
+  "id": "c501254d951d",
+  "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+  "player": null,
+  "title_ko": "논문: 산초는 헤타페가 윙어 쇼크 거래를 제안함에 따라 스페인에 상륙할 수 있음",
+  "league": "LALIGA",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
+  "fee": null,
+  "published": "2026-10-24T22:04:00+00:00"
+ },
+ {
   "id": "ca9a3d75011d",
   "title": "Konsa and Gabriel on target as Arsenal top Everton",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rock-bottom-europe-37777922",
   "fee": null,
   "published": "2026-10-15T21:20:48+00:00"
- },
- {
-  "id": "f873bc8d9edb",
-  "title": "Harry Kane verbally agrees Bayern Munich deal - but fails to get desired contract length",
-  "player": "Harry Kane",
-  "title_ko": "Harry Kane은 바이에른 뮌헨 거래에 구두로 동의하지만 원하는 계약 기간을 얻지 못합니다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-future-contract-37777853",
-  "fee": null,
-  "published": "2026-10-15T20:42:51+00:00"
  }
 ]
