@@ -1,5 +1,18 @@
 [
  {
+  "id": "df6e900f8b15",
+  "title": "Arsenal beat Everton to move level on points with leaders Man City",
+  "player": "Emirates Stadium",
+  "title_ko": "아스널이 에버턴을 꺾고 리더 맨시티와 함께 포인트 레벨 이동",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/arsenal-vs-everton/report/559514",
+  "fee": null,
+  "published": "2026-10-24T16:58:00+00:00"
+ },
+ {
   "id": "dad477b8b966",
   "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
   "player": "In Köln",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-tillman-mit-der-naechsten-chance-frueher-wechsel-bei-beiden-teams-1261579/artikel#omrss",
   "fee": null,
   "published": "2026-10-15T17:11:22+00:00"
- },
- {
-  "id": "295a7e06ffae",
-  "title": "Kane agrees new deal in principle with Bayern Munich",
-  "player": "Harry Kane",
-  "title_ko": "케인은 바이에른 뮌헨과 원칙적으로 새로운 거래에 동의한다.",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
-  "fee": null,
-  "published": "2026-10-15T16:23:00+00:00"
  }
 ]
