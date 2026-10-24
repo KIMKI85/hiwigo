@@ -1,5 +1,18 @@
 [
  {
+  "id": "23c2ba7fe5ba",
+  "title": "Man Utd dream defence next season with £160million duo signed and two stars axed",
+  "player": "Michael Carrick",
+  "title_ko": "맨체스터 유나이티드 드림 디펜스 다음 시즌 £ 1억 6천만 듀오 계약 및 별 2개 획득",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfer-lewis-hall-37800918",
+  "fee": "£160M",
+  "published": "2026-10-24T04:30:00+00:00"
+ },
+ {
   "id": "8ac920d5da6d",
   "title": "ENTRETIEN EVENEMENT. Gavi avant le Clasico: \"Mbappé peut même marquer 5 buts, tant que le Barça gagne, je signe\"",
   "player": "Lamine Yamal",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/liga/real-madrid-ils-devront-se-battre-avec-moi-mourinho-ne-veut-surtout-pas-entendre-parler-d-un-pret-pour-endrick_AV-202610140626.html",
   "fee": null,
   "published": "2026-10-14T14:53:27+00:00"
- },
- {
-  "id": "7ffc3053f7af",
-  "title": "Official: Milan confirm Pavlovic contract extension",
-  "player": "Multiple Italian",
-  "title_ko": "공식: 밀라노, 파블로비치 계약 연장 확정",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-milan-pavlovic-contract-extension-31/",
-  "fee": null,
-  "published": "2026-10-14T13:23:46+00:00"
  }
 ]
