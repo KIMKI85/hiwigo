@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:03:29.172273+00:00",
+ "updated": "2026-10-24T20:58:02.849233+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -41,11 +41,11 @@
      "pos": 4,
      "team": "Chelsea",
      "crest": "https://crests.football-data.org/61.png",
-     "played": 7,
+     "played": 8,
      "won": 4,
      "draw": 1,
-     "lost": 2,
-     "gd": 4,
+     "lost": 3,
+     "gd": 2,
      "pts": 13
     },
     {
@@ -127,6 +127,17 @@
     },
     {
      "pos": 12,
+     "team": "Tottenham",
+     "crest": "https://crests.football-data.org/73.png",
+     "played": 8,
+     "won": 2,
+     "draw": 3,
+     "lost": 3,
+     "gd": -2,
+     "pts": 9
+    },
+    {
+     "pos": 13,
      "team": "Fulham",
      "crest": "https://crests.football-data.org/63.png",
      "played": 8,
@@ -137,7 +148,7 @@
      "pts": 8
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Newcastle",
      "crest": "https://crests.football-data.org/67.png",
      "played": 7,
@@ -148,7 +159,7 @@
      "pts": 8
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
      "played": 7,
@@ -159,7 +170,7 @@
      "pts": 7
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Crystal Palace",
      "crest": "https://crests.football-data.org/354.png",
      "played": 7,
@@ -170,7 +181,7 @@
      "pts": 7
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Bournemouth",
      "crest": "https://crests.football-data.org/bournemouth.png",
      "played": 7,
@@ -181,24 +192,13 @@
      "pts": 6
     },
     {
-     "pos": 17,
+     "pos": 18,
      "team": "Nottingham",
      "crest": "https://crests.football-data.org/351.png",
      "played": 8,
      "won": 1,
      "draw": 3,
      "lost": 4,
-     "gd": -4,
-     "pts": 6
-    },
-    {
-     "pos": 17,
-     "team": "Tottenham",
-     "crest": "https://crests.football-data.org/73.png",
-     "played": 7,
-     "won": 1,
-     "draw": 3,
-     "lost": 3,
      "gd": -4,
      "pts": 6
     },
@@ -364,12 +364,12 @@
      "pos": 2,
      "team": "Atleti",
      "crest": "https://crests.football-data.org/78.png",
-     "played": 9,
-     "won": 7,
+     "played": 10,
+     "won": 8,
      "draw": 1,
      "lost": 1,
-     "gd": 11,
-     "pts": 22
+     "gd": 12,
+     "pts": 25
     },
     {
      "pos": 3,
@@ -428,6 +428,17 @@
     },
     {
      "pos": 8,
+     "team": "Villarreal",
+     "crest": "https://crests.football-data.org/94.png",
+     "played": 10,
+     "won": 3,
+     "draw": 3,
+     "lost": 4,
+     "gd": 1,
+     "pts": 12
+    },
+    {
+     "pos": 9,
      "team": "Celta",
      "crest": "https://crests.football-data.org/558.png",
      "played": 9,
@@ -438,18 +449,18 @@
      "pts": 11
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Deportivo",
      "crest": "https://crests.football-data.org/560.png",
-     "played": 9,
+     "played": 10,
      "won": 2,
      "draw": 5,
-     "lost": 2,
-     "gd": 1,
+     "lost": 3,
+     "gd": 0,
      "pts": 11
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Osasuna",
      "crest": "https://crests.football-data.org/79.png",
      "played": 9,
@@ -460,7 +471,7 @@
      "pts": 11
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Santander",
      "crest": "https://crests.football-data.org/5335.png",
      "played": 10,
@@ -471,7 +482,7 @@
      "pts": 11
     },
     {
-     "pos": 12,
+     "pos": 13,
      "team": "Levante",
      "crest": "https://crests.football-data.org/88.png",
      "played": 9,
@@ -482,7 +493,7 @@
      "pts": 10
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Elche",
      "crest": "https://crests.football-data.org/285.png",
      "played": 10,
@@ -491,17 +502,6 @@
      "lost": 4,
      "gd": -3,
      "pts": 10
-    },
-    {
-     "pos": 14,
-     "team": "Villarreal",
-     "crest": "https://crests.football-data.org/94.png",
-     "played": 9,
-     "won": 2,
-     "draw": 3,
-     "lost": 4,
-     "gd": 0,
-     "pts": 9
     },
     {
      "pos": 15,
@@ -551,11 +551,11 @@
      "pos": 19,
      "team": "Valencia",
      "crest": "https://crests.football-data.org/95.png",
-     "played": 9,
+     "played": 10,
      "won": 1,
      "draw": 3,
-     "lost": 5,
-     "gd": -9,
+     "lost": 6,
+     "gd": -10,
      "pts": 6
     },
     {
@@ -696,6 +696,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "Lazio",
+     "crest": "https://crests.football-data.org/110.png",
+     "played": 8,
+     "won": 7,
+     "draw": 1,
+     "lost": 0,
+     "gd": 11,
+     "pts": 22
+    },
+    {
+     "pos": 2,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
      "played": 7,
@@ -703,17 +714,6 @@
      "draw": 1,
      "lost": 0,
      "gd": 12,
-     "pts": 19
-    },
-    {
-     "pos": 2,
-     "team": "Lazio",
-     "crest": "https://crests.football-data.org/110.png",
-     "played": 7,
-     "won": 6,
-     "draw": 1,
-     "lost": 0,
-     "gd": 10,
      "pts": 19
     },
     {
@@ -896,11 +896,11 @@
      "pos": 19,
      "team": "Parma",
      "crest": "https://crests.football-data.org/112.png",
-     "played": 7,
+     "played": 8,
      "won": 1,
      "draw": 1,
-     "lost": 5,
-     "gd": -9,
+     "lost": 6,
+     "gd": -10,
      "pts": 4
     },
     {
@@ -990,6 +990,12 @@
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 6,
+     "assists": 1
+    },
+    {
+     "name": "Anastasios Douvikas",
+     "team": "Como 1907",
+     "goals": 5,
      "assists": 0
     },
     {
@@ -1023,12 +1029,6 @@
      "assists": 0
     },
     {
-     "name": "Anastasios Douvikas",
-     "team": "Como 1907",
-     "goals": 3,
-     "assists": 0
-    },
-    {
      "name": "Hakan Çalhanoğlu",
      "team": "Inter",
      "goals": 3,
@@ -1041,6 +1041,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "Dortmund",
+     "crest": "https://crests.football-data.org/4.png",
+     "played": 7,
+     "won": 5,
+     "draw": 2,
+     "lost": 0,
+     "gd": 8,
+     "pts": 17
+    },
+    {
+     "pos": 2,
      "team": "Bayern",
      "crest": "https://crests.football-data.org/5.png",
      "played": 6,
@@ -1048,17 +1059,6 @@
      "draw": 2,
      "lost": 0,
      "gd": 17,
-     "pts": 14
-    },
-    {
-     "pos": 2,
-     "team": "Dortmund",
-     "crest": "https://crests.football-data.org/4.png",
-     "played": 6,
-     "won": 4,
-     "draw": 2,
-     "lost": 0,
-     "gd": 7,
      "pts": 14
     },
     {
@@ -1175,11 +1175,11 @@
      "pos": 13,
      "team": "Frankfurt",
      "crest": "https://crests.football-data.org/19.png",
-     "played": 6,
+     "played": 7,
      "won": 2,
      "draw": 2,
-     "lost": 2,
-     "gd": -6,
+     "lost": 3,
+     "gd": -7,
      "pts": 8
     },
     {
@@ -1386,8 +1386,8 @@
     },
     {
      "pos": 3,
-     "team": "Paris FC",
-     "crest": "https://crests.football-data.org/1045.png",
+     "team": "Lille",
+     "crest": "https://crests.football-data.org/521.png",
      "played": 7,
      "won": 4,
      "draw": 2,
@@ -1397,13 +1397,13 @@
     },
     {
      "pos": 4,
-     "team": "Lille",
-     "crest": "https://crests.football-data.org/521.png",
-     "played": 7,
+     "team": "Paris FC",
+     "crest": "https://crests.football-data.org/1045.png",
+     "played": 8,
      "won": 4,
      "draw": 2,
-     "lost": 1,
-     "gd": 5,
+     "lost": 2,
+     "gd": 4,
      "pts": 14
     },
     {
@@ -1419,6 +1419,17 @@
     },
     {
      "pos": 6,
+     "team": "RC Lens",
+     "crest": "https://crests.football-data.org/546.png",
+     "played": 8,
+     "won": 4,
+     "draw": 1,
+     "lost": 3,
+     "gd": 4,
+     "pts": 13
+    },
+    {
+     "pos": 7,
      "team": "Stade Rennais",
      "crest": "https://crests.football-data.org/529.png",
      "played": 7,
@@ -1429,7 +1440,7 @@
      "pts": 13
     },
     {
-     "pos": 7,
+     "pos": 8,
      "team": "Lorient",
      "crest": "https://crests.football-data.org/525.png",
      "played": 7,
@@ -1440,7 +1451,7 @@
      "pts": 11
     },
     {
-     "pos": 8,
+     "pos": 9,
      "team": "Nice",
      "crest": "https://crests.football-data.org/522.png",
      "played": 8,
@@ -1449,17 +1460,6 @@
      "lost": 3,
      "gd": -2,
      "pts": 11
-    },
-    {
-     "pos": 9,
-     "team": "RC Lens",
-     "crest": "https://crests.football-data.org/546.png",
-     "played": 7,
-     "won": 3,
-     "draw": 1,
-     "lost": 3,
-     "gd": 3,
-     "pts": 10
     },
     {
      "pos": 10,
