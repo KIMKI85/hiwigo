@@ -26,6 +26,19 @@
   "published": "2026-10-24T16:58:00+00:00"
  },
  {
+  "id": "0f4191934d0d",
+  "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
+  "player": "Enzo Maresca",
+  "title_ko": "Donnarumma와 Guehi는 맨시티 문제를 견고한 무기고 이동 수준으로 강조합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-24T15:05:45+00:00"
+ },
+ {
   "id": "dad477b8b966",
   "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
   "player": "In Köln",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-future-contract-37777853",
   "fee": null,
   "published": "2026-10-15T20:42:51+00:00"
- },
- {
-  "id": "63b90d6c1c09",
-  "title": "El informe de La Masía que desaconsejaba el fichaje de Messi en el 2000: \"Creo que no se debe fichar\"",
-  "player": "Florent Torchut",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Marca Primera (ES)",
-  "url": "https://www.marca.com/futbol/barcelona/2026/10/15/informe-masia-desaconsejaba-fichaje-messi-2000-creo-debe-fichar.html",
-  "fee": null,
-  "published": "2026-10-15T20:29:36+00:00"
  }
 ]
