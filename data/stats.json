@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:46:59.711526+00:00",
+ "updated": "2026-10-24T16:03:29.172273+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -8,23 +8,23 @@
      "pos": 1,
      "team": "Man City",
      "crest": "https://crests.football-data.org/65.png",
-     "played": 7,
+     "played": 8,
      "won": 7,
      "draw": 0,
-     "lost": 0,
-     "gd": 12,
+     "lost": 1,
+     "gd": 11,
      "pts": 21
     },
     {
      "pos": 2,
      "team": "Arsenal",
      "crest": "https://crests.football-data.org/57.png",
-     "played": 7,
-     "won": 6,
+     "played": 8,
+     "won": 7,
      "draw": 0,
      "lost": 1,
-     "gd": 6,
-     "pts": 18
+     "gd": 8,
+     "pts": 21
     },
     {
      "pos": 3,
@@ -61,6 +61,17 @@
     },
     {
      "pos": 6,
+     "team": "Aston Villa",
+     "crest": "https://crests.football-data.org/58.png",
+     "played": 8,
+     "won": 3,
+     "draw": 2,
+     "lost": 3,
+     "gd": -3,
+     "pts": 11
+    },
+    {
+     "pos": 7,
      "team": "Brentford",
      "crest": "https://crests.football-data.org/402.png",
      "played": 7,
@@ -71,7 +82,7 @@
      "pts": 10
     },
     {
-     "pos": 7,
+     "pos": 8,
      "team": "Leeds United",
      "crest": "https://crests.football-data.org/341.png",
      "played": 7,
@@ -82,18 +93,18 @@
      "pts": 10
     },
     {
-     "pos": 8,
+     "pos": 9,
      "team": "Everton",
      "crest": "https://crests.football-data.org/62.png",
-     "played": 7,
+     "played": 8,
      "won": 2,
      "draw": 4,
-     "lost": 1,
-     "gd": 1,
+     "lost": 2,
+     "gd": -1,
      "pts": 10
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Ipswich Town",
      "crest": "https://crests.football-data.org/349.png",
      "played": 8,
@@ -104,7 +115,7 @@
      "pts": 10
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Hull City",
      "crest": "https://crests.football-data.org/322.png",
      "played": 7,
@@ -115,7 +126,18 @@
      "pts": 9
     },
     {
-     "pos": 11,
+     "pos": 12,
+     "team": "Fulham",
+     "crest": "https://crests.football-data.org/63.png",
+     "played": 8,
+     "won": 2,
+     "draw": 2,
+     "lost": 4,
+     "gd": -2,
+     "pts": 8
+    },
+    {
+     "pos": 13,
      "team": "Newcastle",
      "crest": "https://crests.football-data.org/67.png",
      "played": 7,
@@ -126,18 +148,7 @@
      "pts": 8
     },
     {
-     "pos": 12,
-     "team": "Aston Villa",
-     "crest": "https://crests.football-data.org/58.png",
-     "played": 7,
-     "won": 2,
-     "draw": 2,
-     "lost": 3,
-     "gd": -4,
-     "pts": 8
-    },
-    {
-     "pos": 13,
+     "pos": 14,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
      "played": 7,
@@ -148,7 +159,7 @@
      "pts": 7
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Crystal Palace",
      "crest": "https://crests.football-data.org/354.png",
      "played": 7,
@@ -159,7 +170,7 @@
      "pts": 7
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Bournemouth",
      "crest": "https://crests.football-data.org/bournemouth.png",
      "played": 7,
@@ -170,7 +181,7 @@
      "pts": 6
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Nottingham",
      "crest": "https://crests.football-data.org/351.png",
      "played": 8,
@@ -181,7 +192,7 @@
      "pts": 6
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Tottenham",
      "crest": "https://crests.football-data.org/73.png",
      "played": 7,
@@ -192,26 +203,15 @@
      "pts": 6
     },
     {
-     "pos": 18,
+     "pos": 19,
      "team": "Coventry City",
      "crest": "https://crests.football-data.org/1076.png",
-     "played": 7,
+     "played": 8,
      "won": 2,
      "draw": 0,
-     "lost": 5,
-     "gd": -8,
+     "lost": 6,
+     "gd": -9,
      "pts": 6
-    },
-    {
-     "pos": 19,
-     "team": "Fulham",
-     "crest": "https://crests.football-data.org/63.png",
-     "played": 7,
-     "won": 1,
-     "draw": 2,
-     "lost": 4,
-     "gd": -3,
-     "pts": 5
     },
     {
      "pos": 20,
@@ -461,6 +461,17 @@
     },
     {
      "pos": 11,
+     "team": "Santander",
+     "crest": "https://crests.football-data.org/5335.png",
+     "played": 10,
+     "won": 3,
+     "draw": 2,
+     "lost": 5,
+     "gd": -11,
+     "pts": 11
+    },
+    {
+     "pos": 12,
      "team": "Levante",
      "crest": "https://crests.football-data.org/88.png",
      "played": 9,
@@ -471,7 +482,18 @@
      "pts": 10
     },
     {
-     "pos": 12,
+     "pos": 13,
+     "team": "Elche",
+     "crest": "https://crests.football-data.org/285.png",
+     "played": 10,
+     "won": 2,
+     "draw": 4,
+     "lost": 4,
+     "gd": -3,
+     "pts": 10
+    },
+    {
+     "pos": 14,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
      "played": 9,
@@ -482,7 +504,7 @@
      "pts": 9
     },
     {
-     "pos": 13,
+     "pos": 15,
      "team": "Athletic",
      "crest": "https://crests.football-data.org/77.png",
      "played": 8,
@@ -493,18 +515,7 @@
      "pts": 9
     },
     {
-     "pos": 14,
-     "team": "Rayo Vallecano",
-     "crest": "https://crests.football-data.org/87.png",
-     "played": 8,
-     "won": 2,
-     "draw": 3,
-     "lost": 3,
-     "gd": -5,
-     "pts": 9
-    },
-    {
-     "pos": 15,
+     "pos": 16,
      "team": "Getafe",
      "crest": "https://crests.football-data.org/82.png",
      "played": 9,
@@ -515,37 +526,26 @@
      "pts": 9
     },
     {
-     "pos": 16,
-     "team": "Espanyol",
-     "crest": "https://crests.football-data.org/80.png",
-     "played": 9,
-     "won": 2,
-     "draw": 2,
-     "lost": 5,
-     "gd": -1,
-     "pts": 8
-    },
-    {
      "pos": 17,
-     "team": "Santander",
-     "crest": "https://crests.football-data.org/5335.png",
+     "team": "Rayo Vallecano",
+     "crest": "https://crests.football-data.org/87.png",
      "played": 9,
      "won": 2,
-     "draw": 2,
-     "lost": 5,
-     "gd": -12,
-     "pts": 8
+     "draw": 3,
+     "lost": 4,
+     "gd": -8,
+     "pts": 9
     },
     {
      "pos": 18,
-     "team": "Elche",
-     "crest": "https://crests.football-data.org/285.png",
-     "played": 9,
-     "won": 1,
-     "draw": 4,
-     "lost": 4,
-     "gd": -6,
-     "pts": 7
+     "team": "Espanyol",
+     "crest": "https://crests.football-data.org/80.png",
+     "played": 10,
+     "won": 2,
+     "draw": 2,
+     "lost": 6,
+     "gd": -2,
+     "pts": 8
     },
     {
      "pos": 19,
@@ -720,15 +720,26 @@
      "pos": 3,
      "team": "Roma",
      "crest": "https://crests.football-data.org/100.png",
-     "played": 7,
+     "played": 8,
      "won": 5,
-     "draw": 2,
+     "draw": 3,
      "lost": 0,
      "gd": 13,
-     "pts": 17
+     "pts": 18
     },
     {
      "pos": 4,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 8,
+     "won": 5,
+     "draw": 2,
+     "lost": 1,
+     "gd": 7,
+     "pts": 17
+    },
+    {
+     "pos": 5,
      "team": "Milan",
      "crest": "https://crests.football-data.org/98.png",
      "played": 7,
@@ -737,17 +748,6 @@
      "lost": 0,
      "gd": 7,
      "pts": 15
-    },
-    {
-     "pos": 5,
-     "team": "Como 1907",
-     "crest": "https://crests.football-data.org/7397.png",
-     "played": 7,
-     "won": 4,
-     "draw": 2,
-     "lost": 1,
-     "gd": 5,
-     "pts": 14
     },
     {
      "pos": 6,
@@ -775,15 +775,26 @@
      "pos": 8,
      "team": "Cagliari",
      "crest": "https://crests.football-data.org/104.png",
-     "played": 7,
+     "played": 8,
      "won": 4,
      "draw": 1,
-     "lost": 2,
-     "gd": -1,
+     "lost": 3,
+     "gd": -3,
      "pts": 13
     },
     {
      "pos": 9,
+     "team": "Napoli",
+     "crest": "https://crests.football-data.org/113.png",
+     "played": 8,
+     "won": 3,
+     "draw": 2,
+     "lost": 3,
+     "gd": 3,
+     "pts": 11
+    },
+    {
+     "pos": 10,
      "team": "Juventus",
      "crest": "https://crests.football-data.org/109.png",
      "played": 7,
@@ -792,17 +803,6 @@
      "lost": 2,
      "gd": 1,
      "pts": 11
-    },
-    {
-     "pos": 10,
-     "team": "Napoli",
-     "crest": "https://crests.football-data.org/113.png",
-     "played": 7,
-     "won": 3,
-     "draw": 1,
-     "lost": 3,
-     "gd": 3,
-     "pts": 10
     },
     {
      "pos": 11,
@@ -828,17 +828,28 @@
     },
     {
      "pos": 13,
-     "team": "Sassuolo",
-     "crest": "https://crests.football-data.org/471.png",
-     "played": 7,
+     "team": "Bologna",
+     "crest": "https://crests.football-data.org/103.png",
+     "played": 8,
      "won": 2,
      "draw": 2,
-     "lost": 3,
+     "lost": 4,
      "gd": -2,
      "pts": 8
     },
     {
      "pos": 14,
+     "team": "Sassuolo",
+     "crest": "https://crests.football-data.org/471.png",
+     "played": 8,
+     "won": 2,
+     "draw": 2,
+     "lost": 4,
+     "gd": -4,
+     "pts": 8
+    },
+    {
+     "pos": 15,
      "team": "Monza",
      "crest": "https://crests.football-data.org/5911.png",
      "played": 8,
@@ -847,17 +858,6 @@
      "lost": 5,
      "gd": -3,
      "pts": 7
-    },
-    {
-     "pos": 15,
-     "team": "Bologna",
-     "crest": "https://crests.football-data.org/103.png",
-     "played": 7,
-     "won": 1,
-     "draw": 2,
-     "lost": 4,
-     "gd": -4,
-     "pts": 5
     },
     {
      "pos": 16,
@@ -1085,72 +1085,94 @@
     },
     {
      "pos": 5,
-     "team": "Mainz",
-     "crest": "https://crests.football-data.org/15.png",
-     "played": 6,
-     "won": 3,
-     "draw": 1,
-     "lost": 2,
-     "gd": 4,
-     "pts": 10
+     "team": "RB Leipzig",
+     "crest": "https://crests.football-data.org/721.png",
+     "played": 7,
+     "won": 4,
+     "draw": 0,
+     "lost": 3,
+     "gd": 9,
+     "pts": 12
     },
     {
      "pos": 6,
-     "team": "Elversberg",
-     "crest": "https://crests.football-data.org/719.png",
-     "played": 6,
+     "team": "Bremen",
+     "crest": "https://crests.football-data.org/12.png",
+     "played": 7,
      "won": 3,
-     "draw": 1,
-     "lost": 2,
+     "draw": 3,
+     "lost": 1,
      "gd": 1,
-     "pts": 10
+     "pts": 12
     },
     {
      "pos": 7,
-     "team": "RB Leipzig",
-     "crest": "https://crests.football-data.org/721.png",
-     "played": 6,
+     "team": "Mainz",
+     "crest": "https://crests.football-data.org/15.png",
+     "played": 7,
      "won": 3,
-     "draw": 0,
+     "draw": 1,
      "lost": 3,
-     "gd": 5,
-     "pts": 9
+     "gd": 3,
+     "pts": 10
     },
     {
      "pos": 8,
-     "team": "Bremen",
-     "crest": "https://crests.football-data.org/12.png",
-     "played": 6,
-     "won": 2,
-     "draw": 3,
-     "lost": 1,
-     "gd": 0,
-     "pts": 9
+     "team": "Elversberg",
+     "crest": "https://crests.football-data.org/719.png",
+     "played": 7,
+     "won": 3,
+     "draw": 1,
+     "lost": 3,
+     "gd": -3,
+     "pts": 10
     },
     {
      "pos": 9,
-     "team": "HSV",
-     "crest": "https://crests.football-data.org/7.png",
-     "played": 6,
-     "won": 3,
-     "draw": 0,
-     "lost": 3,
-     "gd": -9,
+     "team": "Augsburg",
+     "crest": "https://crests.football-data.org/16.png",
+     "played": 7,
+     "won": 2,
+     "draw": 3,
+     "lost": 2,
+     "gd": 4,
      "pts": 9
     },
     {
      "pos": 10,
-     "team": "Augsburg",
-     "crest": "https://crests.football-data.org/16.png",
-     "played": 6,
-     "won": 2,
-     "draw": 2,
-     "lost": 2,
-     "gd": 4,
-     "pts": 8
+     "team": "HSV",
+     "crest": "https://crests.football-data.org/7.png",
+     "played": 7,
+     "won": 3,
+     "draw": 0,
+     "lost": 4,
+     "gd": -10,
+     "pts": 9
     },
     {
      "pos": 11,
+     "team": "1. FC Köln",
+     "crest": "https://crests.football-data.org/1.png",
+     "played": 7,
+     "won": 2,
+     "draw": 2,
+     "lost": 3,
+     "gd": -3,
+     "pts": 8
+    },
+    {
+     "pos": 12,
+     "team": "SC Paderborn",
+     "crest": "https://crests.football-data.org/29.png",
+     "played": 7,
+     "won": 2,
+     "draw": 2,
+     "lost": 3,
+     "gd": -3,
+     "pts": 8
+    },
+    {
+     "pos": 13,
      "team": "Frankfurt",
      "crest": "https://crests.football-data.org/19.png",
      "played": 6,
@@ -1161,18 +1183,7 @@
      "pts": 8
     },
     {
-     "pos": 12,
-     "team": "1. FC Köln",
-     "crest": "https://crests.football-data.org/1.png",
-     "played": 6,
-     "won": 2,
-     "draw": 1,
-     "lost": 3,
-     "gd": -3,
-     "pts": 7
-    },
-    {
-     "pos": 13,
+     "pos": 14,
      "team": "Hoffenheim",
      "crest": "https://crests.football-data.org/2.png",
      "played": 6,
@@ -1183,7 +1194,7 @@
      "pts": 6
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Stuttgart",
      "crest": "https://crests.football-data.org/10.png",
      "played": 7,
@@ -1194,37 +1205,26 @@
      "pts": 6
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Schalke",
      "crest": "https://crests.football-data.org/6.png",
-     "played": 6,
+     "played": 7,
      "won": 1,
-     "draw": 2,
+     "draw": 3,
      "lost": 3,
      "gd": -3,
-     "pts": 5
-    },
-    {
-     "pos": 16,
-     "team": "SC Paderborn",
-     "crest": "https://crests.football-data.org/29.png",
-     "played": 6,
-     "won": 1,
-     "draw": 2,
-     "lost": 3,
-     "gd": -4,
-     "pts": 5
+     "pts": 6
     },
     {
      "pos": 17,
      "team": "Union Berlin",
      "crest": "https://crests.football-data.org/28.png",
-     "played": 6,
+     "played": 7,
      "won": 1,
-     "draw": 2,
+     "draw": 3,
      "lost": 3,
      "gd": -12,
-     "pts": 5
+     "pts": 6
     },
     {
      "pos": 18,
@@ -1298,16 +1298,16 @@
    ],
    "scorers": [
     {
+     "name": "Niclas Füllkrug",
+     "team": "Bremen",
+     "goals": 8,
+     "assists": 0
+    },
+    {
      "name": "Patrik Schick",
      "team": "Leverkusen",
      "goals": 6,
      "assists": 2
-    },
-    {
-     "name": "Niclas Füllkrug",
-     "team": "Bremen",
-     "goals": 6,
-     "assists": 0
     },
     {
      "name": "Michael Olise",
