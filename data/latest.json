@@ -1,5 +1,18 @@
 [
  {
+  "id": "682e51342bed",
+  "title": "Inter’s Dimarco faces three-way battle after MVP season: Carlos Augusto, Calafiori and a new contract",
+  "player": "Carlos Augusto",
+  "title_ko": "인테르의 디마르코는 MVP 시즌 후 카를로스 아우구스토, 칼라피오리와 새로운 계약으로 3자 대결을 펼칩니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/inters-dimarco-faces-three-way-battle/",
+  "fee": null,
+  "published": "2026-10-24T10:56:26+00:00"
+ },
+ {
   "id": "23c2ba7fe5ba",
   "title": "Man Utd dream defence next season with £160million duo signed and two stars axed",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-14T15:30:03+00:00"
- },
- {
-  "id": "0c022adcb864",
-  "title": "Real Madrid: \"Ils devront se battre avec moi\", Mourinho ne veut surtout pas entendre parler d'un prêt pour Endrick",
-  "player": "José Mourinho",
-  "title_ko": "레알 마드리드: \"Ils devront se battre avec moi\", Mourinho ne veut surtout pas entendre parler d 'un prêt pour Endrick",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/liga/real-madrid-ils-devront-se-battre-avec-moi-mourinho-ne-veut-surtout-pas-entendre-parler-d-un-pret-pour-endrick_AV-202610140626.html",
-  "fee": null,
-  "published": "2026-10-14T14:53:27+00:00"
  }
 ]
