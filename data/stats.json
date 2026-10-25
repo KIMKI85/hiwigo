@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:58:02.849233+00:00",
+ "updated": "2026-10-25T04:54:50.641054+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,6 +227,34 @@
    ],
    "results": [
     {
+     "date": "2026-10-24",
+     "home": "Chelsea",
+     "away": "Tottenham",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-10-24",
+     "home": "Coventry City",
+     "away": "Fulham",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-10-24",
+     "home": "Arsenal",
+     "away": "Everton",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-10-24",
+     "home": "Aston Villa",
+     "away": "Man City",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-10-23",
      "home": "Ipswich Town",
      "away": "Nottingham",
@@ -253,41 +281,13 @@
      "away": "Crystal Palace",
      "hs": 5,
      "as": 0
-    },
-    {
-     "date": "2026-10-18",
-     "home": "Leeds United",
-     "away": "Man United",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-10-18",
-     "home": "Bournemouth",
-     "away": "Sunderland",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Newcastle",
-     "away": "Aston Villa",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-10-17",
-     "home": "Brentford",
-     "away": "Liverpool",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
     {
      "name": "Erling Haaland",
      "team": "Man City",
-     "goals": 8,
+     "goals": 9,
      "assists": 0
     },
     {
@@ -327,6 +327,12 @@
      "assists": 0
     },
     {
+     "name": "Nicolas Jackson",
+     "team": "Aston Villa",
+     "goals": 4,
+     "assists": 0
+    },
+    {
      "name": "Bukayo Saka",
      "team": "Arsenal",
      "goals": 3,
@@ -335,12 +341,6 @@
     {
      "name": "Thierno Barry",
      "team": "Everton",
-     "goals": 3,
-     "assists": 0
-    },
-    {
-     "name": "Jack Hinshelwood",
-     "team": "Brighton Hove",
      "goals": 3,
      "assists": 0
     }
@@ -990,12 +990,6 @@
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 6,
-     "assists": 1
-    },
-    {
-     "name": "Anastasios Douvikas",
-     "team": "Como 1907",
-     "goals": 5,
      "assists": 0
     },
     {
@@ -1026,6 +1020,12 @@
      "name": "Daniel Maldini",
      "team": "Cagliari",
      "goals": 4,
+     "assists": 0
+    },
+    {
+     "name": "Anastasios Douvikas",
+     "team": "Como 1907",
+     "goals": 3,
      "assists": 0
     },
     {
@@ -1298,16 +1298,16 @@
    ],
    "scorers": [
     {
-     "name": "Niclas Füllkrug",
-     "team": "Bremen",
-     "goals": 8,
-     "assists": 0
-    },
-    {
      "name": "Patrik Schick",
      "team": "Leverkusen",
      "goals": 6,
      "assists": 2
+    },
+    {
+     "name": "Niclas Füllkrug",
+     "team": "Bremen",
+     "goals": 6,
+     "assists": 0
     },
     {
      "name": "Michael Olise",
