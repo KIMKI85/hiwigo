@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:54:50.641054+00:00",
+ "updated": "2026-10-25T11:44:57.969177+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,34 +227,6 @@
    ],
    "results": [
     {
-     "date": "2026-10-24",
-     "home": "Chelsea",
-     "away": "Tottenham",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Coventry City",
-     "away": "Fulham",
-     "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Arsenal",
-     "away": "Everton",
-     "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Aston Villa",
-     "away": "Man City",
-     "hs": 2,
-     "as": 1
-    },
-    {
      "date": "2026-10-23",
      "home": "Ipswich Town",
      "away": "Nottingham",
@@ -281,6 +253,34 @@
      "away": "Crystal Palace",
      "hs": 5,
      "as": 0
+    },
+    {
+     "date": "2026-10-18",
+     "home": "Leeds United",
+     "away": "Man United",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-10-18",
+     "home": "Bournemouth",
+     "away": "Sunderland",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Newcastle",
+     "away": "Aston Villa",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-10-17",
+     "home": "Brentford",
+     "away": "Liverpool",
+     "hs": 1,
+     "as": 2
     }
    ],
    "scorers": [
@@ -642,6 +642,12 @@
      "assists": 2
     },
     {
+     "name": "Yassir Zabiri",
+     "team": "Santander",
+     "goals": 8,
+     "assists": 0
+    },
+    {
      "name": "Lamine Yamal",
      "team": "Barça",
      "goals": 8,
@@ -660,14 +666,14 @@
      "assists": 0
     },
     {
-     "name": "Yassir Zabiri",
-     "team": "Santander",
-     "goals": 7,
+     "name": "Roberto Fernández",
+     "team": "Espanyol",
+     "goals": 6,
      "assists": 0
     },
     {
-     "name": "Roberto Fernández",
-     "team": "Espanyol",
+     "name": "Fer Niño",
+     "team": "Elche",
      "goals": 6,
      "assists": 0
     },
@@ -682,12 +688,6 @@
      "team": "Atleti",
      "goals": 5,
      "assists": 2
-    },
-    {
-     "name": "Fer Niño",
-     "team": "Elche",
-     "goals": 5,
-     "assists": 0
     }
    ]
   },
@@ -709,12 +709,12 @@
      "pos": 2,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
-     "played": 7,
+     "played": 8,
      "won": 6,
-     "draw": 1,
+     "draw": 2,
      "lost": 0,
      "gd": 12,
-     "pts": 19
+     "pts": 20
     },
     {
      "pos": 3,
@@ -861,6 +861,17 @@
     },
     {
      "pos": 16,
+     "team": "Fiorentina",
+     "crest": "https://crests.football-data.org/99.png",
+     "played": 8,
+     "won": 1,
+     "draw": 2,
+     "lost": 5,
+     "gd": -9,
+     "pts": 5
+    },
+    {
+     "pos": 17,
      "team": "Udinese",
      "crest": "https://crests.football-data.org/115.png",
      "played": 7,
@@ -871,7 +882,7 @@
      "pts": 4
     },
     {
-     "pos": 17,
+     "pos": 18,
      "team": "Genoa",
      "crest": "https://crests.football-data.org/107.png",
      "played": 7,
@@ -879,17 +890,6 @@
      "draw": 1,
      "lost": 5,
      "gd": -8,
-     "pts": 4
-    },
-    {
-     "pos": 18,
-     "team": "Fiorentina",
-     "crest": "https://crests.football-data.org/99.png",
-     "played": 7,
-     "won": 1,
-     "draw": 1,
-     "lost": 5,
-     "gd": -9,
      "pts": 4
     },
     {
@@ -990,6 +990,12 @@
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 6,
+     "assists": 1
+    },
+    {
+     "name": "Anastasios Douvikas",
+     "team": "Como 1907",
+     "goals": 5,
      "assists": 0
     },
     {
@@ -1020,12 +1026,6 @@
      "name": "Daniel Maldini",
      "team": "Cagliari",
      "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Anastasios Douvikas",
-     "team": "Como 1907",
-     "goals": 3,
      "assists": 0
     },
     {
@@ -1298,16 +1298,16 @@
    ],
    "scorers": [
     {
+     "name": "Niclas Füllkrug",
+     "team": "Bremen",
+     "goals": 8,
+     "assists": 0
+    },
+    {
      "name": "Patrik Schick",
      "team": "Leverkusen",
      "goals": 6,
      "assists": 2
-    },
-    {
-     "name": "Niclas Füllkrug",
-     "team": "Bremen",
-     "goals": 6,
-     "assists": 0
     },
     {
      "name": "Michael Olise",
@@ -1630,7 +1630,7 @@
      "name": "Lassine Sinayoko",
      "team": "Paris FC",
      "goals": 6,
-     "assists": 3
+     "assists": 4
     },
     {
      "name": "Amine Gouiri",
@@ -1643,6 +1643,12 @@
      "team": "Toulouse",
      "goals": 5,
      "assists": 1
+    },
+    {
+     "name": "Florian Thauvin",
+     "team": "RC Lens",
+     "goals": 4,
+     "assists": 8
     },
     {
      "name": "Louis Mafouta",
@@ -1673,12 +1679,6 @@
      "team": "Auxerre",
      "goals": 4,
      "assists": 0
-    },
-    {
-     "name": "Florian Thauvin",
-     "team": "RC Lens",
-     "goals": 3,
-     "assists": 7
     }
    ]
   },
