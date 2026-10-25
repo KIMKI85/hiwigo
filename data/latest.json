@@ -1,5 +1,18 @@
 [
  {
+  "id": "6404e608a6f2",
+  "title": "LIVE! Saarbrücken bei Schlusslicht Havelse - Je ein Wechsel in der Startelf",
+  "player": "Schlusslicht Havelse",
+  "title_ko": "라이브! Saarbrücken bei Schlusslicht Havelse - Je ein Wechsel in der Startelf",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/havelse-gegen-saarbruecken-2026-liga-5233319/spielbericht#omrss",
+  "fee": null,
+  "published": "2026-10-25T12:05:17+00:00"
+ },
+ {
   "id": "5006feb3e93a",
   "title": "Anthony Gordon's Liverpool transfer comments to Trent Alexander-Arnold that angered manager",
   "player": "Anthony Gordon's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/athletic/2026/10/16/athletic-revuelve-declaraciones-agente-nico-sobre-fichaje-fallido-barca.html",
   "fee": null,
   "published": "2026-10-16T10:39:45+00:00"
- },
- {
-  "id": "31568103bbdc",
-  "title": "Arsenal eye shock transfer for Bayern Munich flop with backroom figure leading the charge",
-  "player": "Munich's Kim",
-  "title_ko": "바이에른 뮌헨 플랍을 위한 아스널 아이 쇼크 트랜스퍼와 백룸 피규어가 차지를 이끈다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-january-targets-bayern-munich-37778688",
-  "fee": null,
-  "published": "2026-10-16T09:05:36+00:00"
  }
 ]
