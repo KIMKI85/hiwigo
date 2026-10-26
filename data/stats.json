@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T13:17:31.778763+00:00",
+ "updated": "2026-10-26T22:45:25.920672+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -408,12 +408,12 @@
      "pos": 6,
      "team": "Sevilla FC",
      "crest": "https://crests.football-data.org/559.png",
-     "played": 9,
-     "won": 4,
+     "played": 10,
+     "won": 5,
      "draw": 2,
      "lost": 3,
-     "gd": -2,
-     "pts": 14
+     "gd": 0,
+     "pts": 17
     },
     {
      "pos": 7,
@@ -474,11 +474,11 @@
      "pos": 12,
      "team": "Osasuna",
      "crest": "https://crests.football-data.org/79.png",
-     "played": 9,
+     "played": 10,
      "won": 3,
      "draw": 2,
-     "lost": 4,
-     "gd": -8,
+     "lost": 5,
+     "gd": -10,
      "pts": 11
     },
     {
@@ -572,6 +572,13 @@
    ],
    "results": [
     {
+     "date": "2026-10-26",
+     "home": "Sevilla FC",
+     "away": "Osasuna",
+     "hs": 2,
+     "as": 0
+    },
+    {
      "date": "2026-10-25",
      "home": "Barça",
      "away": "Real Madrid",
@@ -619,13 +626,6 @@
      "away": "Espanyol",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Rayo Vallecano",
-     "away": "Elche",
-     "hs": 0,
-     "as": 3
     }
    ],
    "scorers": [
@@ -1364,6 +1364,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "PSG",
+     "crest": "https://crests.football-data.org/524.png",
+     "played": 8,
+     "won": 5,
+     "draw": 2,
+     "lost": 1,
+     "gd": 7,
+     "pts": 17
+    },
+    {
+     "pos": 2,
      "team": "Stade Rennais",
      "crest": "https://crests.football-data.org/529.png",
      "played": 8,
@@ -1374,7 +1385,7 @@
      "pts": 16
     },
     {
-     "pos": 2,
+     "pos": 3,
      "team": "Lille",
      "crest": "https://crests.football-data.org/521.png",
      "played": 8,
@@ -1385,7 +1396,7 @@
      "pts": 15
     },
     {
-     "pos": 3,
+     "pos": 4,
      "team": "Monaco",
      "crest": "https://crests.football-data.org/548.png",
      "played": 8,
@@ -1396,25 +1407,14 @@
      "pts": 15
     },
     {
-     "pos": 4,
+     "pos": 5,
      "team": "Olympique Lyon",
      "crest": "https://crests.football-data.org/523.png",
-     "played": 7,
+     "played": 8,
      "won": 4,
      "draw": 2,
-     "lost": 1,
-     "gd": 8,
-     "pts": 14
-    },
-    {
-     "pos": 5,
-     "team": "PSG",
-     "crest": "https://crests.football-data.org/524.png",
-     "played": 7,
-     "won": 4,
-     "draw": 2,
-     "lost": 1,
-     "gd": 5,
+     "lost": 2,
+     "gd": 6,
      "pts": 14
     },
     {
@@ -1563,6 +1563,13 @@
    ],
    "results": [
     {
+     "date": "2026-10-26",
+     "home": "PSG",
+     "away": "Olympique Lyon",
+     "hs": 2,
+     "as": 0
+    },
+    {
      "date": "2026-10-25",
      "home": "Auxerre",
      "away": "Le Mans",
@@ -1610,13 +1617,6 @@
      "away": "Paris FC",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-10-23",
-     "home": "Brest",
-     "away": "Nice",
-     "hs": 1,
-     "as": 2
     }
    ],
    "scorers": [
