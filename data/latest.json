@@ -1,5 +1,18 @@
 [
  {
+  "id": "ec847ca371a7",
+  "title": "Wechsel im Hansa-Tor: Breitenreiter macht Klewin Hoffnung auf mehr",
+  "player": "Klewin Hoffnung",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-im-hansa-tor-breitenreiter-macht-klewin-hoffnung-auf-mehr-1265054/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-26T09:11:32+00:00"
+ },
+ {
   "id": "37657f128afa",
   "title": "DIRECT. Mercato: un candidat déclaré pour remplacer Michael Carrick à Manchester United",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
   "fee": null,
   "published": "2026-10-16T14:19:00+00:00"
- },
- {
-  "id": "c2e8671437a0",
-  "title": "JJ Gabriel transfer saga almost over as Man Utd team-mates carry on without him",
-  "player": null,
-  "title_ko": "JJ 가브리엘 트랜스퍼 사가는 맨유의 팀 동료들이 그 없이 계속 진행할 때 거의 끝납니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-real-37780335",
-  "fee": null,
-  "published": "2026-10-16T13:24:23+00:00"
  }
 ]
