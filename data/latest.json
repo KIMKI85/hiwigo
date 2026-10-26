@@ -1,5 +1,18 @@
 [
  {
+  "id": "7e57672c539a",
+  "title": "Lulli renews Roma contract to 2031: how much he will earn",
+  "player": "Emanuele Lulli",
+  "title_ko": "Lulli는 로마 계약을 2031년으로 갱신합니다: 그가 얼마나 벌게 될지",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lulli-renews-roma-contract-to-2031/",
+  "fee": null,
+  "published": "2026-10-26T19:30:00+00:00"
+ },
+ {
   "id": "5f116d240e71",
   "title": "Milan target derby return for Gila, Rabiot and Moreira",
   "player": "Mario Gila",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-utd-transfer-37781202",
   "fee": null,
   "published": "2026-10-16T15:49:25+00:00"
- },
- {
-  "id": "13f5505475a1",
-  "title": "Milan planning to reward Cisse with new long-term contract",
-  "player": "Alphadjo Cisse",
-  "title_ko": "밀라노는 시스에게 새로운 장기 계약을 보상할 계획입니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-planning-to-reward-cisse-new-contract/",
-  "fee": null,
-  "published": "2026-10-16T15:24:34+00:00"
  }
 ]
