@@ -1,5 +1,18 @@
 [
  {
+  "id": "590a1311b0ba",
+  "title": "Official: Como hand new contract extension to top goalscorer Douvikas",
+  "player": "Tasos Douvikas",
+  "title_ko": "공식: Como hand new contract extension to top goalscorer Douvikas",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-como-hand-douvikas-new-contract/",
+  "fee": null,
+  "published": "2026-10-26T10:24:45+00:00"
+ },
+ {
   "id": "f95c369b1faf",
   "title": "Top 10 Italy players in Serie A Week 8: Bartesaghi stars, Calò on target again",
   "player": "Giacomo Calò",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/football-show-cisse-italy-underrated-juventus/",
   "fee": null,
   "published": "2026-10-16T15:00:22+00:00"
- },
- {
-  "id": "c63f34063e40",
-  "title": "Mikel Arteta breaks silence on Arsenal job cuts weeks after signing stunning new deal",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 놀라운 새로운 거래를 체결 한 지 몇 주 만에 아스날 일자리 삭감에 대한 침묵을 깨뜨렸다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-job-cuts-37780947",
-  "fee": null,
-  "published": "2026-10-16T14:53:07+00:00"
  }
 ]
