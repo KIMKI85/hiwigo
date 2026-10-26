@@ -1,5 +1,18 @@
 [
  {
+  "id": "5f116d240e71",
+  "title": "Milan target derby return for Gila, Rabiot and Moreira",
+  "player": "Mario Gila",
+  "title_ko": "Gila, Rabiot, Moreira를 위한 밀라노 타겟 더비 복귀",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-target-derby-return-gila-rabiot-moreira/",
+  "fee": null,
+  "published": "2026-10-26T16:31:43+00:00"
+ },
+ {
   "id": "590a1311b0ba",
   "title": "Official: Como hand new contract extension to top goalscorer Douvikas",
   "player": "Tasos Douvikas",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-separate-mctominay-contract-midfield/",
   "fee": null,
   "published": "2026-10-16T15:05:42+00:00"
- },
- {
-  "id": "2c40d903a6af",
-  "title": "Football Italia Show: Cissé deserves Italy call-up, underrated Juventus signing impresses",
-  "player": "Football Italia Show",
-  "title_ko": "풋볼 이탈리아 쇼: Cissé는 이탈리아 콜업을 받을 자격이 있으며, 과소평가된 유벤투스 계약이 인상적입니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/football-show-cisse-italy-underrated-juventus/",
-  "fee": null,
-  "published": "2026-10-16T15:00:22+00:00"
  }
 ]
