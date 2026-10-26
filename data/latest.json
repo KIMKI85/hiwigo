@@ -1,5 +1,18 @@
 [
  {
+  "id": "e9165c9efa20",
+  "title": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed",
+  "player": null,
+  "title_ko": "서류: 맨유가 뉴캐슬에 지불해야 하는 하우 수수료 공개",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13604196/manchester-united-eddie-howe-compensation-fee-to-newcastle-revealed-paper-talk",
+  "fee": null,
+  "published": "2026-10-26T23:00:00+00:00"
+ },
+ {
   "id": "7e57672c539a",
   "title": "Lulli renews Roma contract to 2031: how much he will earn",
   "player": "Emanuele Lulli",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/nico-williams-arsenal-liverpool-barcelona-37781655",
   "fee": null,
   "published": "2026-10-16T19:28:57+00:00"
- },
- {
-  "id": "19b9faec2bba",
-  "title": "Ex-Man Utd star would snub Erling Haaland transfer and prefers two Man City defenders",
-  "player": "Erling Haaland",
-  "title_ko": "전 맨유 스타는 얼링 헤일런드 이적설을 뿌리치고 맨시티 수비수 두 명을 선호했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-utd-transfer-37781202",
-  "fee": null,
-  "published": "2026-10-16T15:49:25+00:00"
  }
 ]
