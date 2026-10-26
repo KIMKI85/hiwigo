@@ -13,6 +13,19 @@
   "published": "2026-10-26T16:31:43+00:00"
  },
  {
+  "id": "ac2c335c0c62",
+  "title": "Arsenal's historic transfer spree that won Premier League title now has very different feel",
+  "player": null,
+  "title_ko": "프리미어리그 우승을 차지한 아스널의 역사적인 이적은 이제 매우 다른 느낌을 준다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-berta-gyokeres-eze-37812217",
+  "fee": null,
+  "published": "2026-10-26T15:54:21+00:00"
+ },
+ {
   "id": "590a1311b0ba",
   "title": "Official: Como hand new contract extension to top goalscorer Douvikas",
   "player": "Tasos Douvikas",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-planning-to-reward-cisse-new-contract/",
   "fee": null,
   "published": "2026-10-16T15:24:34+00:00"
- },
- {
-  "id": "e0233e842fa0",
-  "title": "Napoli must separate McTominay contract negotiations from their midfield plan",
-  "player": null,
-  "title_ko": "나폴리는 맥토미네이 계약 협상을 미드필드 계획과 분리해야 합니다",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-separate-mctominay-contract-midfield/",
-  "fee": null,
-  "published": "2026-10-16T15:05:42+00:00"
  }
 ]
