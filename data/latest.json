@@ -1,5 +1,18 @@
 [
  {
+  "id": "37657f128afa",
+  "title": "DIRECT. Mercato: un candidat déclaré pour remplacer Michael Carrick à Manchester United",
+  "player": "Michael Carrick",
+  "title_ko": "직접. Mercato: un candidat déclaré pour remplacer Michael Carrick à Manchester United",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts-en-live_LN-202610260272.html",
+  "fee": null,
+  "published": "2026-10-26T08:15:28+00:00"
+ },
+ {
   "id": "7dd072a3ff33",
   "title": "Osula and Barnes on target as Newcastle beat sorry Palace",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-real-37780335",
   "fee": null,
   "published": "2026-10-16T13:24:23+00:00"
- },
- {
-  "id": "353e0a410fc1",
-  "title": "Gasperini sends transfer request to Roma: ‘Essential’",
-  "player": "Gian Piero Gasperini",
-  "title_ko": "가스페리니가 로마로 전송 요청을 보냅니다: ‘필수’",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gasperini-transfer-request-roma-essential/",
-  "fee": null,
-  "published": "2026-10-16T13:06:12+00:00"
  }
 ]
