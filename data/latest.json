@@ -1,5 +1,18 @@
 [
  {
+  "id": "daa5c6d40c54",
+  "title": "Pulisic ready to sign Milan contract extension as new salary revealed",
+  "player": "Christian Pulisic",
+  "title_ko": "새로운 급여가 공개됨에 따라 밀라노 계약 연장에 서명 할 준비가 된 Pulisic",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pulisic-ready-to-sign-milan-contract-extension-as-new-salary-revealed/",
+  "fee": null,
+  "published": "2026-10-27T11:41:43+00:00"
+ },
+ {
   "id": "1c28c80025a0",
   "title": "Trent Alexander-Arnold gets Liverpool return transfer approval as 'Real Madrid don't want him'",
   "player": "Trent Alexander-Arnold",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-squad-value-tops-e300m-as-accounts/",
   "fee": "€300M",
   "published": "2026-10-17T11:00:00+00:00"
- },
- {
-  "id": "6565c3c80b55",
-  "title": "Milan open talks to extend Rabiot contract until 2030",
-  "player": "Adrien Rabiot",
-  "title_ko": "라비오 계약을 2030년까지 연장하기 위한 밀라노 공개 회담",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-open-talks-extend-rabiot-contract-2030/",
-  "fee": null,
-  "published": "2026-10-17T10:15:00+00:00"
  }
 ]
