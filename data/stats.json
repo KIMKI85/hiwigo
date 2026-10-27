@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:25:17.769442+00:00",
+ "updated": "2026-10-27T22:23:53.869084+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -696,6 +696,17 @@
    "standings": [
     {
      "pos": 1,
+     "team": "Lazio",
+     "crest": "https://crests.football-data.org/110.png",
+     "played": 9,
+     "won": 8,
+     "draw": 1,
+     "lost": 0,
+     "gd": 15,
+     "pts": 25
+    },
+    {
+     "pos": 2,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
      "played": 8,
@@ -706,29 +717,29 @@
      "pts": 22
     },
     {
-     "pos": 2,
-     "team": "Lazio",
-     "crest": "https://crests.football-data.org/110.png",
-     "played": 8,
-     "won": 7,
-     "draw": 1,
-     "lost": 0,
-     "gd": 11,
-     "pts": 22
-    },
-    {
      "pos": 3,
      "team": "Roma",
      "crest": "https://crests.football-data.org/100.png",
-     "played": 8,
-     "won": 5,
+     "played": 9,
+     "won": 6,
      "draw": 3,
      "lost": 0,
-     "gd": 13,
-     "pts": 18
+     "gd": 15,
+     "pts": 21
     },
     {
      "pos": 4,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 9,
+     "won": 6,
+     "draw": 2,
+     "lost": 1,
+     "gd": 9,
+     "pts": 20
+    },
+    {
+     "pos": 5,
      "team": "Milan",
      "crest": "https://crests.football-data.org/98.png",
      "played": 8,
@@ -737,17 +748,6 @@
      "lost": 0,
      "gd": 9,
      "pts": 18
-    },
-    {
-     "pos": 5,
-     "team": "Como 1907",
-     "crest": "https://crests.football-data.org/7397.png",
-     "played": 8,
-     "won": 5,
-     "draw": 2,
-     "lost": 1,
-     "gd": 7,
-     "pts": 17
     },
     {
      "pos": 6,
@@ -775,22 +775,22 @@
      "pos": 8,
      "team": "Torino",
      "crest": "https://crests.football-data.org/586.png",
-     "played": 8,
+     "played": 9,
      "won": 4,
      "draw": 1,
-     "lost": 3,
-     "gd": 2,
+     "lost": 4,
+     "gd": 0,
      "pts": 13
     },
     {
      "pos": 9,
      "team": "Cagliari",
      "crest": "https://crests.football-data.org/104.png",
-     "played": 8,
+     "played": 9,
      "won": 4,
      "draw": 1,
-     "lost": 3,
-     "gd": -3,
+     "lost": 4,
+     "gd": -5,
      "pts": 13
     },
     {
@@ -841,11 +841,11 @@
      "pos": 14,
      "team": "Sassuolo",
      "crest": "https://crests.football-data.org/471.png",
-     "played": 8,
+     "played": 9,
      "won": 2,
      "draw": 2,
-     "lost": 4,
-     "gd": -4,
+     "lost": 5,
+     "gd": -8,
      "pts": 8
     },
     {
@@ -917,6 +917,27 @@
    ],
    "results": [
     {
+     "date": "2026-10-27",
+     "home": "Torino",
+     "away": "Como 1907",
+     "hs": 1,
+     "as": 3
+    },
+    {
+     "date": "2026-10-27",
+     "home": "Roma",
+     "away": "Cagliari",
+     "hs": 4,
+     "as": 2
+    },
+    {
+     "date": "2026-10-27",
+     "home": "Sassuolo",
+     "away": "Lazio",
+     "hs": 2,
+     "as": 6
+    },
+    {
      "date": "2026-10-25",
      "home": "Udinese",
      "away": "Milan",
@@ -950,33 +971,18 @@
      "away": "Fiorentina",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Lazio",
-     "away": "Parma",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Napoli",
-     "away": "Roma",
-     "hs": 3,
-     "as": 3
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Como 1907",
-     "away": "Sassuolo",
-     "hs": 2,
-     "as": 0
     }
    ],
    "scorers": [
     {
      "name": "Gustavo Varela",
      "team": "Monza",
+     "goals": 7,
+     "assists": 1
+    },
+    {
+     "name": "Donyell Malen",
+     "team": "Roma",
      "goals": 7,
      "assists": 1
     },
@@ -993,12 +999,6 @@
      "assists": 2
     },
     {
-     "name": "Donyell Malen",
-     "team": "Roma",
-     "goals": 6,
-     "assists": 1
-    },
-    {
      "name": "Anastasios Douvikas",
      "team": "Como 1907",
      "goals": 5,
@@ -1011,27 +1011,27 @@
      "assists": 2
     },
     {
+     "name": "Daniel Maldini",
+     "team": "Cagliari",
+     "goals": 5,
+     "assists": 0
+    },
+    {
      "name": "Adrien Rabiot",
      "team": "Milan",
      "goals": 4,
      "assists": 3
     },
     {
+     "name": "Che Adams",
+     "team": "Torino",
+     "goals": 4,
+     "assists": 0
+    },
+    {
      "name": "Lautaro Martínez",
      "team": "Inter",
      "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Daniel Maldini",
-     "team": "Cagliari",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Hakan Çalhanoğlu",
-     "team": "Inter",
-     "goals": 3,
      "assists": 0
     }
    ]
