@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c28c80025a0",
+  "title": "Trent Alexander-Arnold gets Liverpool return transfer approval as 'Real Madrid don't want him'",
+  "player": "Trent Alexander-Arnold",
+  "title_ko": "트렌트 알렉산더-아놀드는 '레알 마드리드는 그를 원하지 않는다' 로 리버풀 복귀 승인을 받는다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-return-real-madrid-37813590",
+  "fee": null,
+  "published": "2026-10-27T09:48:18+00:00"
+ },
+ {
   "id": "d92cdedae9f9",
   "title": "Man Utd's 7 biggest social media tantrums as Bruno Fernandes joins Sancho and Garnacho",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-open-talks-extend-rabiot-contract-2030/",
   "fee": null,
   "published": "2026-10-17T10:15:00+00:00"
- },
- {
-  "id": "522a706d96b3",
-  "title": "Carrick opens door for January transfer activity at Man Utd",
-  "player": "Michael Carrick",
-  "title_ko": "캐릭이 맨체스터 유나이티드에서 1월 이적 활동을 위한 문을 엽니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13599969/man-utd-transfer-news-michael-carrick-opens-door-to-january-signings-ahead-of-planned-defensive-rebuild",
-  "fee": null,
-  "published": "2026-10-17T10:00:00+00:00"
  }
 ]
