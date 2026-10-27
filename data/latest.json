@@ -1,5 +1,18 @@
 [
  {
+  "id": "197b0e510c4a",
+  "title": "Balogun emerges as Juventus’ top January target after Everton medical chaos",
+  "player": "Folarin Balogun",
+  "title_ko": "발로군은 에버턴 의료 혼란 이후 유벤투스의 최고 1월 목표로 부상",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/balogun-juventus-january-target-everton-chaos/",
+  "fee": null,
+  "published": "2026-10-27T12:12:23+00:00"
+ },
+ {
   "id": "daa5c6d40c54",
   "title": "Pulisic ready to sign Milan contract extension as new salary revealed",
   "player": "Christian Pulisic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-duesseldorf-mit-vier-wechsel-haelt-essens-lauf-gelingt-aachen-gegen-rostock-mal-wieder-ein-sieg-1261736/artikel#omrss",
   "fee": null,
   "published": "2026-10-17T11:08:15+00:00"
- },
- {
-  "id": "07efaa6b5251",
-  "title": "Milan squad value tops €300m as accounts confirm record Ramos fee",
-  "player": null,
-  "title_ko": "기록적인 라모스 수수료를 확인한 밀라노 스쿼드 가치는 € 300M입니다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-squad-value-tops-e300m-as-accounts/",
-  "fee": "€300M",
-  "published": "2026-10-17T11:00:00+00:00"
  }
 ]
