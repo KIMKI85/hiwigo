@@ -1,5 +1,18 @@
 [
  {
+  "id": "1d7aa5f40e5a",
+  "title": "Ruben Amorim ready to exploit Man Utd crisis as AC Milan eye stunning transfer",
+  "player": "Ruben Amorim",
+  "title_ko": "루벤 아모림 (Ruben Amorim) 은 AC 밀란의 놀라운 이적으로 맨유의 위기를 악용할 준비가 되어 있습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/amorim-manchester-united-fernandes-milan-37817169",
+  "fee": null,
+  "published": "2026-10-28T08:32:04+00:00"
+ },
+ {
   "id": "102dc8675d81",
   "title": "Mercato: l'amende étonnante infligée au Barça pour avoir contacté Julian Alvarez dans le dos de l'Atlético",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-fuenf-wechsel-beim-bvb-1261742/artikel#omrss",
   "fee": null,
   "published": "2026-10-17T12:21:33+00:00"
- },
- {
-  "id": "380335aff994",
-  "title": "Newcastle join Juventus and Roma in race for Sporting’s Doumbia",
-  "player": "Issa Doumbia",
-  "title_ko": "뉴캐슬은 유벤투스와 로마에 합류하여 Sporting's Doumbia에서 레이스를 펼칩니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/newcastle-juventus-and-roma-sporting-doumbia/",
-  "fee": null,
-  "published": "2026-10-17T12:15:49+00:00"
  }
 ]
