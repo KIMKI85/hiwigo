@@ -1,5 +1,18 @@
 [
  {
+  "id": "f4d4940ed191",
+  "title": "Milan in contract negotiations with Rabiot after Pulisic agreement",
+  "player": "Adrien Rabiot",
+  "title_ko": "밀라노, Pulisic 합의 후 Rabiot과 계약 협상 중",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-contract-talks-with-rabiot-after-pulisic/",
+  "fee": null,
+  "published": "2026-10-28T14:34:46+00:00"
+ },
+ {
   "id": "c5b6e418c452",
   "title": "Liverpool open talks over January transfer as clear leader in Alex Scott race emerges",
   "player": "Alex Scott",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/florian-wirtz-liverpool-transfer-williams-37782610",
   "fee": null,
   "published": "2026-10-18T04:00:00+00:00"
- },
- {
-  "id": "ec8c5c917707",
-  "title": "Aston Villa latest: 'Buendia close to agreeing new contract'",
-  "player": null,
-  "title_ko": "애스턴 빌라 최신: '부엔디아는 새로운 계약에 동의에 가까운'",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-10-17T19:45:00+00:00"
  }
 ]
