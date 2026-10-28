@@ -1,5 +1,18 @@
 [
  {
+  "id": "102dc8675d81",
+  "title": "Mercato: l'amende étonnante infligée au Barça pour avoir contacté Julian Alvarez dans le dos de l'Atlético",
+  "player": "Julian Alvarez",
+  "title_ko": "Mercato: l 'amende étonnante infligée au Barça pour avoir contacté Julian Alvarez dans le dos de l' Atlético",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/liga/mercato-l-amende-etonnante-infligee-au-barca-pour-avoir-contacte-julian-alvarez-dans-le-dos-de-l-atletico_AV-202610280275.html",
+  "fee": null,
+  "published": "2026-10-28T08:01:46+00:00"
+ },
+ {
   "id": "c80d92d76de1",
   "title": "Barcelona handed ridiculous fine over Atletico Madrid Julian Alvarez transfer complaint",
   "player": "Julian Alvarez",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/newcastle-juventus-and-roma-sporting-doumbia/",
   "fee": null,
   "published": "2026-10-17T12:15:49+00:00"
- },
- {
-  "id": "83bdceb63f6d",
-  "title": "Michael Carrick makes Man Utd transfer admission with January plans set",
-  "player": "Michael Carrick",
-  "title_ko": "마이클 캐릭 (Michael Carrick) 이 1월 계획으로 맨체스터 유나이티드 (Man Utd) 이",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-transfer-37782681",
-  "fee": null,
-  "published": "2026-10-17T12:05:12+00:00"
  }
 ]
