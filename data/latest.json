@@ -1,5 +1,18 @@
 [
  {
+  "id": "626e05417e33",
+  "title": "Wechsel nach Derby-Pleite: Fener-Coach Kartal tritt zurück - Kuijt übernimmt",
+  "player": "Fener-Coach Kartal",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-nach-derby-pleite-fener-coach-kartal-tritt-zurueck-kuijt-uebernimmt-1265829/artikel#omrss",
+  "fee": null,
+  "published": "2026-10-28T10:43:18+00:00"
+ },
+ {
   "id": "1d7aa5f40e5a",
   "title": "Ruben Amorim ready to exploit Man Utd crisis as AC Milan eye stunning transfer",
   "player": "Ruben Amorim",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-parrott-transfer-37782742",
   "fee": null,
   "published": "2026-10-17T12:56:03+00:00"
- },
- {
-  "id": "ed208812936c",
-  "title": "LIVE! Schalke geht mit Dzeko ins Rennen - Fünf Wechsel beim BVB",
-  "player": "Fünf Wechsel",
-  "title_ko": "라이브! Schalke geht mit Dzeko ins Rennen - Fünf Wechsel beim BVB",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-schalke-geht-mit-dzeko-ins-rennen-fuenf-wechsel-beim-bvb-1261742/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-17T12:21:33+00:00"
  }
 ]
