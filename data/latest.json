@@ -1,5 +1,18 @@
 [
  {
+  "id": "6d5df808808a",
+  "title": "Mercato: Maza ne viendra pas au PSG cet hiver",
+  "player": "Ibrahim Maza",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-maza-ne-viendra-pas-au-psg-cet-hiver_AV-202610280867.html",
+  "fee": null,
+  "published": "2026-10-28T19:21:34+00:00"
+ },
+ {
   "id": "f4d4940ed191",
   "title": "Milan in contract negotiations with Rabiot after Pulisic agreement",
   "player": "Adrien Rabiot",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-leeds-cantona-ratcliffe-37782224",
   "fee": null,
   "published": "2026-10-18T05:00:00+00:00"
- },
- {
-  "id": "90f32b7850a0",
-  "title": "Liverpool news: Florian Wirtz transfer decision reached as World Cup star's agent confirms Reds interest",
-  "player": "Florian Wirtz",
-  "title_ko": "리버풀 뉴스: 월드컵 스타의 에이전트가 Reds의 관심을 확인함에 따라 Florian Wirtz 이적 결정에 도달했습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/florian-wirtz-liverpool-transfer-williams-37782610",
-  "fee": null,
-  "published": "2026-10-18T04:00:00+00:00"
  }
 ]
