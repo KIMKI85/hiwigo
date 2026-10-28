@@ -1,5 +1,18 @@
 [
  {
+  "id": "c80d92d76de1",
+  "title": "Barcelona handed ridiculous fine over Atletico Madrid Julian Alvarez transfer complaint",
+  "player": "Julian Alvarez",
+  "title_ko": "바르셀로나는 아틀레티코 마드리드 율리안 알바레스 이적에 대해 말도 안 되는 벌금을 물렸다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/barcelona-atletico-madrid-julian-alvarez-37816796",
+  "fee": null,
+  "published": "2026-10-28T05:30:00+00:00"
+ },
+ {
   "id": "197b0e510c4a",
   "title": "Balogun emerges as Juventus’ top January target after Everton medical chaos",
   "player": "Folarin Balogun",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-transfer-37782681",
   "fee": null,
   "published": "2026-10-17T12:05:12+00:00"
- },
- {
-  "id": "6a302fba4dd6",
-  "title": "LIVE! Düsseldorf mit vier Wechsel - Hält Essens Lauf? - Gelingt Aachen gegen Rostock mal wieder ein Sieg?",
-  "player": "Hält Essens Lauf",
-  "title_ko": "라이브! 뒤셀도르프 mit vier Wechsel - Hält Essens Lauf? - Gelingt Aachen gegen Rostock mal wieder ein Sieg?",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-duesseldorf-mit-vier-wechsel-haelt-essens-lauf-gelingt-aachen-gegen-rostock-mal-wieder-ein-sieg-1261736/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-17T11:08:15+00:00"
  }
 ]
