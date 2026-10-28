@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:12:01.479137+00:00",
+ "updated": "2026-10-28T22:41:21.810336+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -696,8 +696,8 @@
    "standings": [
     {
      "pos": 1,
-     "team": "Lazio",
-     "crest": "https://crests.football-data.org/110.png",
+     "team": "Inter",
+     "crest": "https://crests.football-data.org/108.png",
      "played": 9,
      "won": 8,
      "draw": 1,
@@ -707,14 +707,14 @@
     },
     {
      "pos": 2,
-     "team": "Inter",
-     "crest": "https://crests.football-data.org/108.png",
-     "played": 8,
-     "won": 7,
+     "team": "Lazio",
+     "crest": "https://crests.football-data.org/110.png",
+     "played": 9,
+     "won": 8,
      "draw": 1,
      "lost": 0,
-     "gd": 13,
-     "pts": 22
+     "gd": 15,
+     "pts": 25
     },
     {
      "pos": 3,
@@ -742,15 +742,26 @@
      "pos": 5,
      "team": "Milan",
      "crest": "https://crests.football-data.org/98.png",
-     "played": 8,
+     "played": 9,
      "won": 5,
      "draw": 3,
-     "lost": 0,
-     "gd": 9,
+     "lost": 1,
+     "gd": 7,
      "pts": 18
     },
     {
      "pos": 6,
+     "team": "Napoli",
+     "crest": "https://crests.football-data.org/113.png",
+     "played": 9,
+     "won": 4,
+     "draw": 2,
+     "lost": 3,
+     "gd": 6,
+     "pts": 14
+    },
+    {
+     "pos": 7,
      "team": "Frosinone",
      "crest": "https://crests.football-data.org/470.png",
      "played": 8,
@@ -761,18 +772,18 @@
      "pts": 14
     },
     {
-     "pos": 7,
+     "pos": 8,
      "team": "Juventus",
      "crest": "https://crests.football-data.org/109.png",
-     "played": 8,
+     "played": 9,
      "won": 4,
      "draw": 2,
-     "lost": 2,
-     "gd": 3,
+     "lost": 3,
+     "gd": 1,
      "pts": 14
     },
     {
-     "pos": 8,
+     "pos": 9,
      "team": "Torino",
      "crest": "https://crests.football-data.org/586.png",
      "played": 9,
@@ -783,7 +794,7 @@
      "pts": 13
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Cagliari",
      "crest": "https://crests.football-data.org/104.png",
      "played": 9,
@@ -794,18 +805,18 @@
      "pts": 13
     },
     {
-     "pos": 10,
-     "team": "Napoli",
-     "crest": "https://crests.football-data.org/113.png",
-     "played": 8,
+     "pos": 11,
+     "team": "Bologna",
+     "crest": "https://crests.football-data.org/103.png",
+     "played": 9,
      "won": 3,
      "draw": 2,
-     "lost": 3,
-     "gd": 3,
+     "lost": 4,
+     "gd": 0,
      "pts": 11
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Atalanta",
      "crest": "https://crests.football-data.org/102.png",
      "played": 8,
@@ -816,7 +827,18 @@
      "pts": 10
     },
     {
-     "pos": 12,
+     "pos": 13,
+     "team": "Genoa",
+     "crest": "https://crests.football-data.org/107.png",
+     "played": 9,
+     "won": 3,
+     "draw": 1,
+     "lost": 5,
+     "gd": -5,
+     "pts": 10
+    },
+    {
+     "pos": 14,
      "team": "Lecce",
      "crest": "https://crests.football-data.org/5890.png",
      "played": 8,
@@ -827,18 +849,7 @@
      "pts": 9
     },
     {
-     "pos": 13,
-     "team": "Bologna",
-     "crest": "https://crests.football-data.org/103.png",
-     "played": 8,
-     "won": 2,
-     "draw": 2,
-     "lost": 4,
-     "gd": -2,
-     "pts": 8
-    },
-    {
-     "pos": 14,
+     "pos": 15,
      "team": "Sassuolo",
      "crest": "https://crests.football-data.org/471.png",
      "played": 9,
@@ -849,53 +860,42 @@
      "pts": 8
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Monza",
      "crest": "https://crests.football-data.org/5911.png",
-     "played": 8,
+     "played": 9,
      "won": 2,
      "draw": 1,
-     "lost": 5,
-     "gd": -3,
-     "pts": 7
-    },
-    {
-     "pos": 16,
-     "team": "Genoa",
-     "crest": "https://crests.football-data.org/107.png",
-     "played": 8,
-     "won": 2,
-     "draw": 1,
-     "lost": 5,
-     "gd": -7,
+     "lost": 6,
+     "gd": -6,
      "pts": 7
     },
     {
      "pos": 17,
      "team": "Udinese",
      "crest": "https://crests.football-data.org/115.png",
-     "played": 8,
+     "played": 9,
      "won": 1,
-     "draw": 1,
+     "draw": 2,
      "lost": 6,
      "gd": -9,
-     "pts": 4
+     "pts": 5
     },
     {
      "pos": 18,
-     "team": "Fiorentina",
-     "crest": "https://crests.football-data.org/99.png",
-     "played": 8,
+     "team": "Parma",
+     "crest": "https://crests.football-data.org/112.png",
+     "played": 9,
      "won": 1,
-     "draw": 1,
+     "draw": 2,
      "lost": 6,
      "gd": -10,
-     "pts": 4
+     "pts": 5
     },
     {
      "pos": 19,
-     "team": "Parma",
-     "crest": "https://crests.football-data.org/112.png",
+     "team": "Fiorentina",
+     "crest": "https://crests.football-data.org/99.png",
      "played": 8,
      "won": 1,
      "draw": 1,
@@ -907,15 +907,50 @@
      "pos": 20,
      "team": "Venezia FC",
      "crest": "https://crests.football-data.org/454.png",
-     "played": 8,
+     "played": 9,
      "won": 1,
      "draw": 0,
-     "lost": 7,
-     "gd": -11,
+     "lost": 8,
+     "gd": -13,
      "pts": 3
     }
    ],
    "results": [
+    {
+     "date": "2026-10-28",
+     "home": "Monza",
+     "away": "Napoli",
+     "hs": 1,
+     "as": 4
+    },
+    {
+     "date": "2026-10-28",
+     "home": "Genoa",
+     "away": "Juventus",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-10-28",
+     "home": "Parma",
+     "away": "Udinese",
+     "hs": 0,
+     "as": 0
+    },
+    {
+     "date": "2026-10-28",
+     "home": "Venezia FC",
+     "away": "Inter",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-10-28",
+     "home": "Milan",
+     "away": "Bologna",
+     "hs": 2,
+     "as": 4
+    },
     {
      "date": "2026-10-27",
      "home": "Torino",
@@ -936,48 +971,13 @@
      "away": "Lazio",
      "hs": 2,
      "as": 6
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Udinese",
-     "away": "Milan",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Lecce",
-     "away": "Juventus",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Genoa",
-     "away": "Venezia FC",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Atalanta",
-     "away": "Frosinone",
-     "hs": 4,
-     "as": 4
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Inter",
-     "away": "Fiorentina",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
     {
      "name": "Gustavo Varela",
      "team": "Monza",
-     "goals": 7,
+     "goals": 8,
      "assists": 1
     },
     {
@@ -1017,22 +1017,22 @@
      "assists": 0
     },
     {
+     "name": "Kevin De Bruyne",
+     "team": "Napoli",
+     "goals": 4,
+     "assists": 1
+    },
+    {
+     "name": "Alphadjo Cisse",
+     "team": "Milan",
+     "goals": 4,
+     "assists": 0
+    },
+    {
      "name": "Adrien Rabiot",
      "team": "Milan",
      "goals": 4,
      "assists": 3
-    },
-    {
-     "name": "Che Adams",
-     "team": "Torino",
-     "goals": 4,
-     "assists": 0
-    },
-    {
-     "name": "Lautaro Martínez",
-     "team": "Inter",
-     "goals": 4,
-     "assists": 0
     }
    ]
   },
