@@ -1,5 +1,18 @@
 [
  {
+  "id": "1b7e142f0ba6",
+  "title": "Man Utd target Premier League star for January transfer after suffering huge injury blow",
+  "player": "Benjamin Sesko",
+  "title_ko": "엄청난 부상 타격을 입은 후 1월 이적의 맨유 대상 프리미어리그 스타",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-dominic-calvert-lewin-37824564",
+  "fee": null,
+  "published": "2026-10-29T19:18:20+00:00"
+ },
+ {
   "id": "1f6dfdead0f7",
   "title": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
   "player": "Football Daily",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
   "fee": null,
   "published": "2026-10-18T18:36:15+00:00"
- },
- {
-  "id": "3cffd4ce8b81",
-  "title": "Arsenal win with one shot on target as Forest sink into bottom three",
-  "player": "Noni Madueke's",
-  "title_ko": "포레스트가 하위 3위로 가라앉을 때 목표물에 한 방을 쏘아 아스날이 승리합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/report/559512",
-  "fee": null,
-  "published": "2026-10-18T18:30:00+00:00"
  }
 ]
