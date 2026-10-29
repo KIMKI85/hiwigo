@@ -1,5 +1,18 @@
 [
  {
+  "id": "72091dfc2c8b",
+  "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+  "player": "Tarik Muharemovic",
+  "title_ko": "리즈 '록' 에 대한 Chiellini의 안내 - Muharemovic이 시즌에 서명 할 수 있습니까?",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-29T06:27:10+00:00"
+ },
+ {
   "id": "eb5357840241",
   "title": "'I had a great time at Man Utd – but I joined City to get revenge on them'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/duisburg-gegen-vikt-koeln-2026-liga-5233302/spielbericht#omrss",
   "fee": null,
   "published": "2026-10-18T13:48:34+00:00"
- },
- {
-  "id": "eb9891803b17",
-  "title": "Graeme Souness sends Virgil van Dijk contract demand and unearths Liverpool issue",
-  "player": "Graeme Souness",
-  "title_ko": "Graeme Souness는 Virgil van Dijk 계약 요구를 보내고 리버풀 문제를 발굴합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-van-dijk-souness-szoboszlai-37779755",
-  "fee": null,
-  "published": "2026-10-18T06:00:00+00:00"
  }
 ]
