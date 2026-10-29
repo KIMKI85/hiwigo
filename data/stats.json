@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:18:15.833750+00:00",
+ "updated": "2026-10-29T22:50:42.045604+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -751,6 +751,17 @@
     },
     {
      "pos": 6,
+     "team": "Frosinone",
+     "crest": "https://crests.football-data.org/470.png",
+     "played": 9,
+     "won": 5,
+     "draw": 2,
+     "lost": 2,
+     "gd": 8,
+     "pts": 17
+    },
+    {
+     "pos": 7,
      "team": "Napoli",
      "crest": "https://crests.football-data.org/113.png",
      "played": 9,
@@ -758,17 +769,6 @@
      "draw": 2,
      "lost": 3,
      "gd": 6,
-     "pts": 14
-    },
-    {
-     "pos": 7,
-     "team": "Frosinone",
-     "crest": "https://crests.football-data.org/470.png",
-     "played": 8,
-     "won": 4,
-     "draw": 2,
-     "lost": 2,
-     "gd": 4,
      "pts": 14
     },
     {
@@ -819,12 +819,12 @@
      "pos": 12,
      "team": "Atalanta",
      "crest": "https://crests.football-data.org/102.png",
-     "played": 8,
+     "played": 9,
      "won": 3,
-     "draw": 1,
+     "draw": 2,
      "lost": 4,
      "gd": -1,
-     "pts": 10
+     "pts": 11
     },
     {
      "pos": 13,
@@ -841,11 +841,11 @@
      "pos": 14,
      "team": "Lecce",
      "crest": "https://crests.football-data.org/5890.png",
-     "played": 8,
+     "played": 9,
      "won": 3,
      "draw": 0,
-     "lost": 5,
-     "gd": -5,
+     "lost": 6,
+     "gd": -9,
      "pts": 9
     },
     {
@@ -883,8 +883,8 @@
     },
     {
      "pos": 18,
-     "team": "Parma",
-     "crest": "https://crests.football-data.org/112.png",
+     "team": "Fiorentina",
+     "crest": "https://crests.football-data.org/99.png",
      "played": 9,
      "won": 1,
      "draw": 2,
@@ -894,14 +894,14 @@
     },
     {
      "pos": 19,
-     "team": "Fiorentina",
-     "crest": "https://crests.football-data.org/99.png",
-     "played": 8,
+     "team": "Parma",
+     "crest": "https://crests.football-data.org/112.png",
+     "played": 9,
      "won": 1,
-     "draw": 1,
+     "draw": 2,
      "lost": 6,
      "gd": -10,
-     "pts": 4
+     "pts": 5
     },
     {
      "pos": 20,
@@ -916,6 +916,20 @@
     }
    ],
    "results": [
+    {
+     "date": "2026-10-29",
+     "home": "Fiorentina",
+     "away": "Atalanta",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-10-29",
+     "home": "Frosinone",
+     "away": "Lecce",
+     "hs": 5,
+     "as": 1
+    },
     {
      "date": "2026-10-28",
      "home": "Monza",
@@ -957,20 +971,6 @@
      "away": "Como 1907",
      "hs": 1,
      "as": 3
-    },
-    {
-     "date": "2026-10-27",
-     "home": "Roma",
-     "away": "Cagliari",
-     "hs": 4,
-     "as": 2
-    },
-    {
-     "date": "2026-10-27",
-     "home": "Sassuolo",
-     "away": "Lazio",
-     "hs": 2,
-     "as": 6
     }
    ],
    "scorers": [
@@ -981,16 +981,16 @@
      "assists": 1
     },
     {
+     "name": "Antonio Raimondo",
+     "team": "Frosinone",
+     "goals": 8,
+     "assists": 0
+    },
+    {
      "name": "Donyell Malen",
      "team": "Roma",
      "goals": 7,
      "assists": 1
-    },
-    {
-     "name": "Antonio Raimondo",
-     "team": "Frosinone",
-     "goals": 7,
-     "assists": 0
     },
     {
      "name": "Nikola Krstović",
