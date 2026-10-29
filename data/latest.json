@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c6810665863",
+  "title": "Official: Mendy signs contract extension with Cagliari",
+  "player": "Paul Mendy",
+  "title_ko": "공식: Mendy, Cagliari와 계약 연장 계약 체결",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-mendy-contract-extension-cagliari/",
+  "fee": null,
+  "published": "2026-10-29T15:56:00+00:00"
+ },
+ {
   "id": "2f735a384fb3",
   "title": "West Brom desperate for Premier League as George Campbell reveals Baggies' minimum target",
   "player": "George Campbell",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/de-zerbi-endrick-new-italian-arrival-tottenham/",
   "fee": null,
   "published": "2026-10-18T17:18:17+00:00"
- },
- {
-  "id": "553893c860ce",
-  "title": "Bournemouth earn first PL win of Rose era to move out of bottom three",
-  "player": null,
-  "title_ko": "본머스는 로즈 ERA의 첫 PL 승을 획득하여 하위 3위에서 벗어납니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13600674/bournemouth-2-0-sunderland-premier-league-highlights",
-  "fee": null,
-  "published": "2026-10-18T16:11:00+00:00"
  }
 ]
