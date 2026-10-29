@@ -1,5 +1,18 @@
 [
  {
+  "id": "2f735a384fb3",
+  "title": "West Brom desperate for Premier League as George Campbell reveals Baggies' minimum target",
+  "player": "George Campbell",
+  "title_ko": "George Campbell이 Baggies의 최소 목표를 밝히면서 West Brom은 Premier League에 필사적입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/west-brom-premier-league-championship-37820490",
+  "fee": null,
+  "published": "2026-10-29T12:20:55+00:00"
+ },
+ {
   "id": "72091dfc2c8b",
   "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
   "player": "Tarik Muharemovic",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/watch/video/13600674/bournemouth-2-0-sunderland-premier-league-highlights",
   "fee": null,
   "published": "2026-10-18T16:11:00+00:00"
- },
- {
-  "id": "bc53462b44c8",
-  "title": "LIVE! Keine Wechsel bei Duisburg: Tabellenführer MSV empfängt Viktoria Köln",
-  "player": "Keine Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/duisburg-gegen-vikt-koeln-2026-liga-5233302/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-10-18T13:48:34+00:00"
  }
 ]
