@@ -1,5 +1,18 @@
 [
  {
+  "id": "1f0a02ae6c64",
+  "title": "Arsenal news: Eli Junior Kroupi issues transfer plea as £54million battle on the cards",
+  "player": "Eli Junior Kroupi",
+  "title_ko": "아스날 뉴스: Eli Junior Kroupi가 카드에서 £ 54million 배틀로 변론을 제기했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-kroupi-costa-37823094",
+  "fee": "£54M",
+  "published": "2026-10-30T04:00:00+00:00"
+ },
+ {
   "id": "235acdaa11df",
   "title": "Man Utd eye January striker transfer after Benjamin Sesko update but shock rival move unlikely",
   "player": "Benjamin Sesko",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13600790/manchester-united-weigh-up-stunning-move-for-real-betis-and-ex-tottenham-forward-troy-parrott-paper-talk",
   "fee": null,
   "published": "2026-10-18T21:39:00+00:00"
- },
- {
-  "id": "02afcd536428",
-  "title": "Estupinan: Amorim reveals he blocked summer move for Aston Villa-linked defender",
-  "player": "Ruben Amorim",
-  "title_ko": "에스투피난: 아모림이 애스턴 빌라와 연결된 수비수의 여름 무브를 막았다고 밝혔습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/estupinan-amorim-blocked-summer-move-villa/",
-  "fee": null,
-  "published": "2026-10-18T20:26:12+00:00"
  }
 ]
