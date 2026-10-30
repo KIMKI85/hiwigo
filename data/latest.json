@@ -1,5 +1,18 @@
 [
  {
+  "id": "2920a7d7deae",
+  "title": "Harry Maguire has already given Man Utd green light for blockbuster January transfer",
+  "player": "Harry Maguire",
+  "title_ko": "해리 맥과이어 (Harry Maguire) 는 이미 블록버스터 1 월 이적에 대한 맨유 (Man Utd) 의 녹색 빛을",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-transfer-37825370",
+  "fee": null,
+  "published": "2026-10-30T11:09:43+00:00"
+ },
+ {
   "id": "a1c5f3f0b22c",
   "title": "5 Brazilian wonderkids Liverpool's new transfer chief may attempt to sign",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/kurz-vor-einer-einigung-mit-milan-eintracht-bekaeme-abloese-fuer-kroesche-1262923/artikel#omrss",
   "fee": null,
   "published": "2026-10-19T08:49:23+00:00"
- },
- {
-  "id": "2711747ab04b",
-  "title": "Sir Jim Ratcliffe 'kills' Man Utd transfer agreed by Jason Wilcox - 'It's a mess'",
-  "player": "Sir Jim Ratcliffe",
-  "title_ko": "짐 래트클리프 경이 제이슨 윌콕스가 동의한 맨유 이적을 '죽인다' - '엉망이다'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ratcliffe-wilcox-transfer-37785976",
-  "fee": null,
-  "published": "2026-10-19T08:32:32+00:00"
  }
 ]
