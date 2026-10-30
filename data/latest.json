@@ -52,6 +52,19 @@
   "published": "2026-10-30T11:09:43+00:00"
  },
  {
+  "id": "3d8bf72d143b",
+  "title": "Calvert-Lewin set for new Leeds deal",
+  "player": "Dominic Calvert-Lewin",
+  "title_ko": "Calvert-Lewin이 새로운 Leeds 딜을 준비했습니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-30T10:26:53+00:00"
+ },
+ {
   "id": "a1c5f3f0b22c",
   "title": "5 Brazilian wonderkids Liverpool's new transfer chief may attempt to sign",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/former-juventus-ceo-comolli-joins-pisa/",
   "fee": null,
   "published": "2026-10-19T18:40:00+00:00"
- },
- {
-  "id": "3432001354f5",
-  "title": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
-  "player": "Jonathan Wilson",
-  "title_ko": "브라이튼은 APEX B 클럽입니다 – 다음 목표는 챔피언스 리그 장소여야 합니다 | 조나단 윌슨",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
-  "fee": null,
-  "published": "2026-10-19T14:51:11+00:00"
  }
 ]
