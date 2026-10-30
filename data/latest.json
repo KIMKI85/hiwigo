@@ -1,5 +1,18 @@
 [
  {
+  "id": "770849ba1828",
+  "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
+  "player": "Xabi Alonso",
+  "title_ko": "Xabi Alonso는 첼시 윙어 Estêvão Willian을 위한 1월 대출 이동을 배제합니다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
+  "fee": null,
+  "published": "2026-10-30T22:30:26+00:00"
+ },
+ {
   "id": "1621c8fa37c3",
   "title": "Drei Tore, eine Vorlage: SGE-Leihe Wahi schraubt Rennes auseinander",
   "player": "Drei Tore",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rio-ngumoha-transfer-latest-37787510",
   "fee": null,
   "published": "2026-10-20T04:00:00+00:00"
- },
- {
-  "id": "68e8b6a12138",
-  "title": "Arsenal news: Mikel Arteta issue with star identified and update on £55m transfer target",
-  "player": "Mikel Arteta",
-  "title_ko": "무기고 뉴스: 별이 확인된 Mikel Arteta 문제 및 £ 55M 이적 목표에 대한 업데이트",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-transfers-arteta-eze-37787509",
-  "fee": "£55M",
-  "published": "2026-10-20T03:00:00+00:00"
  }
 ]
