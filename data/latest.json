@@ -1,5 +1,18 @@
 [
  {
+  "id": "99caa3ac4415",
+  "title": "FCB-Leihe Zaragoza mit scharfer Hereingabe: Espanyol besiegt Villarreal",
+  "player": "Leihe Zaragoza",
+  "title_ko": "FCB-Leihe Zaragoza MIT 스카퍼 Hereingabe: Espanyol besiegt Villarreal",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/fcb-leihe-zaragoza-mit-scharfer-hereingabe-espanyol-besiegt-villarreal-1266994/video#omrss",
+  "fee": null,
+  "published": "2026-10-30T22:41:30+00:00"
+ },
+ {
   "id": "770849ba1828",
   "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pierre-sage-deja-sur-la-sellette-a-crystal-palace_AV-202610200093.html",
   "fee": null,
   "published": "2026-10-20T04:32:40+00:00"
- },
- {
-  "id": "5416745bfcc0",
-  "title": "Liverpool news: Rio Ngumoha transfer update as Reds youngster's ban is lifted",
-  "player": "Rio Ngumoha",
-  "title_ko": "리버풀 뉴스: Reds Youngster의 금지 조치가 해제됨에 따라 Rio Ngumoha 이적 업데이트",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-rio-ngumoha-transfer-latest-37787510",
-  "fee": null,
-  "published": "2026-10-20T04:00:00+00:00"
  }
 ]
