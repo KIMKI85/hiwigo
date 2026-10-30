@@ -1,5 +1,18 @@
 [
  {
+  "id": "db7c4d199eb5",
+  "title": "Man Utd manager agreement 'reached' over three options as Roy Keane gets approval",
+  "player": "Roy Keane",
+  "title_ko": "Roy Keane이 승인을 받음에 따라 세 가지 옵션에 걸쳐 맨체스터 유나이티드 감독 합의에 '도달'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manager-roy-keane-37825017",
+  "fee": null,
+  "published": "2026-10-30T06:00:00+00:00"
+ },
+ {
   "id": "1f0a02ae6c64",
   "title": "Arsenal news: Eli Junior Kroupi issues transfer plea as £54million battle on the cards",
   "player": "Eli Junior Kroupi",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-toutes-les-infos-et-rumeurs-sur-le-marche-des-transferts-du-19-octobre-2026_LN-202610190212.html",
   "fee": null,
   "published": "2026-10-19T06:33:06+00:00"
- },
- {
-  "id": "d500f5c6d0d1",
-  "title": "Papers: Man Utd weigh up move for Ireland striker Parrott",
-  "player": null,
-  "title_ko": "서류: 아일랜드 스트라이커 패럿을 위한 맨유 웨이트업 무브",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13600790/manchester-united-weigh-up-stunning-move-for-real-betis-and-ex-tottenham-forward-troy-parrott-paper-talk",
-  "fee": null,
-  "published": "2026-10-18T21:39:00+00:00"
  }
 ]
