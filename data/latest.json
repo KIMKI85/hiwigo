@@ -1,5 +1,18 @@
 [
  {
+  "id": "cba84c872447",
+  "title": "Man Utd's January plan sums up summer's transfer failings as club make rare move",
+  "player": null,
+  "title_ko": "맨체스터 유나이티드의 1월 계획은 클럽이 드물게 이동함에 따라 여름의 이적 실패를 요약합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-january-plan-targets-37828269",
+  "fee": null,
+  "published": "2026-10-30T17:02:06+00:00"
+ },
+ {
   "id": "c36519fc9158",
   "title": "Official: Pulisic signs new long-term Milan contract extension",
   "player": "Christian Pulisic",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-continue-krosche-talks-as-5-7m/",
   "fee": null,
   "published": "2026-10-19T19:20:00+00:00"
- },
- {
-  "id": "df0672362ebd",
-  "title": "Former Juventus CEO Comolli joins Pisa as president and chief executive",
-  "player": "Damien Comolli",
-  "title_ko": "전 유벤투스 CEO 코몰리, 사장 겸 최고 경영자로 PISA에 합류",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/former-juventus-ceo-comolli-joins-pisa/",
-  "fee": null,
-  "published": "2026-10-19T18:40:00+00:00"
  }
 ]
