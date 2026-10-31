@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:55:25.463434+00:00",
+ "updated": "2026-10-31T12:46:00.316133+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -52,12 +52,12 @@
      "pos": 5,
      "team": "Chelsea",
      "crest": "https://crests.football-data.org/61.png",
-     "played": 8,
+     "played": 9,
      "won": 4,
-     "draw": 1,
+     "draw": 2,
      "lost": 3,
      "gd": 2,
-     "pts": 13
+     "pts": 14
     },
     {
      "pos": 6,
@@ -173,12 +173,12 @@
      "pos": 16,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
-     "played": 8,
+     "played": 9,
      "won": 1,
-     "draw": 4,
+     "draw": 5,
      "lost": 3,
      "gd": -3,
-     "pts": 7
+     "pts": 8
     },
     {
      "pos": 17,
