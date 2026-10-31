@@ -1,5 +1,31 @@
 [
  {
+  "id": "a8d3b0d5fe73",
+  "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+  "player": "San Siro",
+  "title_ko": "'우리는 뒤처졌다' - AC 밀란과 인터에서 새로운 산 시로 거래는 무엇을 의미합니까?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-31T11:18:53+00:00"
+ },
+ {
+  "id": "1b7a99c46517",
+  "title": "Klose zu Chatzialexiou-Wechsel: \"War Thema in der Mannschaft\"",
+  "player": "War Thema",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/klose-zu-chatzialexiou-wechsel-war-thema-in-der-mannschaft-1267057/video#omrss",
+  "fee": null,
+  "published": "2026-10-31T11:16:01+00:00"
+ },
+ {
   "id": "f3e8ff25f549",
   "title": "Thuram eyes France recall as in-form Inter striker targets derby drought",
   "player": "Marcus Thuram",

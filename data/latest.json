@@ -1,5 +1,31 @@
 [
  {
+  "id": "a8d3b0d5fe73",
+  "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+  "player": "San Siro",
+  "title_ko": "'우리는 뒤처졌다' - AC 밀란과 인터에서 새로운 산 시로 거래는 무엇을 의미합니까?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-10-31T11:18:53+00:00"
+ },
+ {
+  "id": "1b7a99c46517",
+  "title": "Klose zu Chatzialexiou-Wechsel: \"War Thema in der Mannschaft\"",
+  "player": "War Thema",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/klose-zu-chatzialexiou-wechsel-war-thema-in-der-mannschaft-1267057/video#omrss",
+  "fee": null,
+  "published": "2026-10-31T11:16:01+00:00"
+ },
+ {
   "id": "f3e8ff25f549",
   "title": "Thuram eyes France recall as in-form Inter striker targets derby drought",
   "player": "Marcus Thuram",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-rice-37790943",
   "fee": "£100M",
   "published": "2026-10-21T03:30:00+00:00"
- },
- {
-  "id": "52ce3a63ad89",
-  "title": "Arsenal news: Mikel Arteta's 'dream' winger signing identified as Bukayo Saka slammed",
-  "player": "Mikel Arteta's",
-  "title_ko": "무기고 소식: Mikel Arteta의 '꿈' 윙어 사인이 Bukayo Saka로 확인되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-bukayo-saka-37791396",
-  "fee": null,
-  "published": "2026-10-21T03:00:00+00:00"
- },
- {
-  "id": "b1157bef253b",
-  "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
-  "player": null,
-  "title_ko": "논문: 맨체스터 유나이티드는 마르티네스가 계획된 정비에서 도끼에 직면함에 따라 두 개의 좌측 백을 목표로 삼는다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
-  "fee": null,
-  "published": "2026-10-20T22:30:00+00:00"
  }
 ]
