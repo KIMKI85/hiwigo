@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e28ad5e67d6",
+  "title": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
+  "player": "Mac Allister",
+  "title_ko": "별거 아니다: 맥 앨리스터가 리버풀의 부활을 불러일으키기 위해 계약에 대한 의구심을 떨쳐버린 방법",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
+  "fee": null,
+  "published": "2026-10-31T08:00:36+00:00"
+ },
+ {
   "id": "c674e55e51bf",
   "title": "Man Utd news: Glazers angry with Sir Jim Ratcliffe as surprise striker transfer eyed",
   "player": "Sir Jim Ratcliffe",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-frenkie-de-jong-37791799",
   "fee": null,
   "published": "2026-10-20T14:01:34+00:00"
- },
- {
-  "id": "896f129dcdb6",
-  "title": "Sept recrues et un bilan mitigé... Le mercato du Losc (pour le moment) décevant",
-  "player": null,
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/sept-recrues-et-un-bilan-mitige-le-mercato-du-losc-pour-le-moment-decevant_AV-202610200511.html",
-  "fee": null,
-  "published": "2026-10-20T12:30:58+00:00"
  }
 ]
