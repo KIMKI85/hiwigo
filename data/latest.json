@@ -1,5 +1,18 @@
 [
  {
+  "id": "026d0000a128",
+  "title": "Pulisic joins Milan’s top earners as Rossoneri turn attention to Rabiot and Cisse renewals",
+  "player": "Christian Pulisic",
+  "title_ko": "Rossoneri가 Rabiot 및 Cisse 갱신에 관심을 돌리면서 Pulisic이 밀라노의 최고 수입원에 합류했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pulisic-joins-milans-top-earners-as-rossoneri/",
+  "fee": null,
+  "published": "2026-10-31T12:58:34+00:00"
+ },
+ {
   "id": "a8d3b0d5fe73",
   "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
   "player": "San Siro",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-scott-jeltsch-37791037",
   "fee": "£42M",
   "published": "2026-10-21T04:00:00+00:00"
- },
- {
-  "id": "61ad78169354",
-  "title": "Man Utd news: Three Michael Carrick replacements identified as £100m transfer failure lamented",
-  "player": "Three Michael Carrick",
-  "title_ko": "맨유 소식: £ 100M 이적 실패로 확인된 세 명의 마이클 캐릭 교체 선수가 한탄함",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-rice-37790943",
-  "fee": "£100M",
-  "published": "2026-10-21T03:30:00+00:00"
  }
 ]
