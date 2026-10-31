@@ -1,5 +1,18 @@
 [
  {
+  "id": "40261a6193ff",
+  "title": "Arsenal news: Gunners target 'extraordinary' £58m talent as Mikel Arteta urged to 'move on'",
+  "player": "Mikel Arteta",
+  "title_ko": "무기고 소식: 미켈 아르테타 (Mikel Arteta) 가 '계속 나아가라' 고 촉구한 것처럼 포수들은 '특별한' £ 58M 인재를 목표로 삼습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-antonio-nusa-gyokeres-37827520",
+  "fee": "£58M",
+  "published": "2026-10-31T04:00:00+00:00"
+ },
+ {
   "id": "c43de5b1e4ed",
   "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
   "player": "Barcelona's Lopez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/essen-verpflichtet-ex-schalker-poepperl-1263233/artikel#omrss",
   "fee": null,
   "published": "2026-10-20T08:55:20+00:00"
- },
- {
-  "id": "1116bb4d0d91",
-  "title": "Trent Alexander-Arnold had special link to Man Utd before blunt response to transfer offer",
-  "player": "Trent Alexander-Arnold",
-  "title_ko": "트렌트 알렉산더-아놀드는 이적 제안에 무뚝뚝한 반응을 보이기 전에 맨유와 특별한 연결 고리를 가졌습니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-alexander-arnold-37787683",
-  "fee": null,
-  "published": "2026-10-20T05:00:00+00:00"
  }
 ]
