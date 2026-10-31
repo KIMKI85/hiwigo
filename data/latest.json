@@ -1,5 +1,18 @@
 [
  {
+  "id": "220715678a3c",
+  "title": "Milan have agreement in principle for new Head of Football Krösche",
+  "player": "Football Krösche",
+  "title_ko": "밀라노는 원칙적으로 새로운 축구팀장인 크로셰와 협약을 맺고 있다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-have-agreement-in-principle-with-krosche/",
+  "fee": null,
+  "published": "2026-10-31T20:11:54+00:00"
+ },
+ {
   "id": "20ef33571d72",
   "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
   "player": "Enzo Maresca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-transfer-replacement-37794592",
   "fee": "£50M",
   "published": "2026-10-21T10:44:47+00:00"
- },
- {
-  "id": "520c374473cc",
-  "title": "Arsenal star 'agreed new deal' but left for Man Utd after Bayern Munich result",
-  "player": null,
-  "title_ko": "아스널 스타는 '새로운 거래에 동의' 했지만 바이에른 뮌헨 결과 이후 맨유로 떠났다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-bayern-munich-alexis-sanchez-37790584",
-  "fee": null,
-  "published": "2026-10-21T05:30:00+00:00"
  }
 ]
