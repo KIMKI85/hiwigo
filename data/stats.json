@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:10:21.227452+00:00",
+ "updated": "2026-10-31T05:55:25.463434+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -452,11 +452,11 @@
      "pos": 10,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
-     "played": 10,
+     "played": 11,
      "won": 3,
      "draw": 3,
-     "lost": 4,
-     "gd": 1,
+     "lost": 5,
+     "gd": 0,
      "pts": 12
     },
     {
@@ -472,6 +472,17 @@
     },
     {
      "pos": 12,
+     "team": "Espanyol",
+     "crest": "https://crests.football-data.org/80.png",
+     "played": 11,
+     "won": 3,
+     "draw": 2,
+     "lost": 6,
+     "gd": -1,
+     "pts": 11
+    },
+    {
+     "pos": 13,
      "team": "Osasuna",
      "crest": "https://crests.football-data.org/79.png",
      "played": 10,
@@ -482,7 +493,7 @@
      "pts": 11
     },
     {
-     "pos": 13,
+     "pos": 14,
      "team": "Santander",
      "crest": "https://crests.football-data.org/5335.png",
      "played": 10,
@@ -493,7 +504,7 @@
      "pts": 11
     },
     {
-     "pos": 14,
+     "pos": 15,
      "team": "Levante",
      "crest": "https://crests.football-data.org/88.png",
      "played": 10,
@@ -504,7 +515,7 @@
      "pts": 10
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Elche",
      "crest": "https://crests.football-data.org/285.png",
      "played": 10,
@@ -515,7 +526,7 @@
      "pts": 10
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Rayo Vallecano",
      "crest": "https://crests.football-data.org/87.png",
      "played": 9,
@@ -526,7 +537,7 @@
      "pts": 9
     },
     {
-     "pos": 17,
+     "pos": 18,
      "team": "Getafe",
      "crest": "https://crests.football-data.org/82.png",
      "played": 10,
@@ -535,17 +546,6 @@
      "lost": 5,
      "gd": -10,
      "pts": 9
-    },
-    {
-     "pos": 18,
-     "team": "Espanyol",
-     "crest": "https://crests.football-data.org/80.png",
-     "played": 10,
-     "won": 2,
-     "draw": 2,
-     "lost": 6,
-     "gd": -2,
-     "pts": 8
     },
     {
      "pos": 19,
@@ -571,6 +571,13 @@
     }
    ],
    "results": [
+    {
+     "date": "2026-10-30",
+     "home": "Villarreal",
+     "away": "Espanyol",
+     "hs": 0,
+     "as": 1
+    },
     {
      "date": "2026-10-26",
      "home": "Sevilla FC",
@@ -619,13 +626,6 @@
      "away": "Villarreal",
      "hs": 1,
      "as": 2
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Santander",
-     "away": "Espanyol",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -1085,6 +1085,17 @@
     },
     {
      "pos": 5,
+     "team": "Elversberg",
+     "crest": "https://crests.football-data.org/719.png",
+     "played": 8,
+     "won": 4,
+     "draw": 1,
+     "lost": 3,
+     "gd": 0,
+     "pts": 13
+    },
+    {
+     "pos": 6,
      "team": "RB Leipzig",
      "crest": "https://crests.football-data.org/721.png",
      "played": 7,
@@ -1095,7 +1106,7 @@
      "pts": 12
     },
     {
-     "pos": 6,
+     "pos": 7,
      "team": "Bremen",
      "crest": "https://crests.football-data.org/12.png",
      "played": 7,
@@ -1106,25 +1117,14 @@
      "pts": 12
     },
     {
-     "pos": 7,
+     "pos": 8,
      "team": "Mainz",
      "crest": "https://crests.football-data.org/15.png",
-     "played": 7,
+     "played": 8,
      "won": 3,
      "draw": 1,
-     "lost": 3,
-     "gd": 3,
-     "pts": 10
-    },
-    {
-     "pos": 8,
-     "team": "Elversberg",
-     "crest": "https://crests.football-data.org/719.png",
-     "played": 7,
-     "won": 3,
-     "draw": 1,
-     "lost": 3,
-     "gd": -3,
+     "lost": 4,
+     "gd": 0,
      "pts": 10
     },
     {
@@ -1240,6 +1240,13 @@
    ],
    "results": [
     {
+     "date": "2026-10-30",
+     "home": "Elversberg",
+     "away": "Mainz",
+     "hs": 4,
+     "as": 1
+    },
+    {
      "date": "2026-10-25",
      "home": "Freiburg",
      "away": "Bayern",
@@ -1287,13 +1294,6 @@
      "away": "Schalke",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-10-24",
-     "home": "Mainz",
-     "away": "Bremen",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
@@ -1346,16 +1346,16 @@
      "assists": 0
     },
     {
-     "name": "Christopher Nkunku",
-     "team": "RB Leipzig",
+     "name": "Maurice Krattenmacher",
+     "team": "Elversberg",
      "goals": 4,
      "assists": 1
     },
     {
-     "name": "Harry Kane",
-     "team": "Bayern",
+     "name": "Christopher Nkunku",
+     "team": "RB Leipzig",
      "goals": 4,
-     "assists": 4
+     "assists": 1
     }
    ]
   },
@@ -1366,34 +1366,34 @@
      "pos": 1,
      "team": "PSG",
      "crest": "https://crests.football-data.org/524.png",
-     "played": 8,
-     "won": 5,
+     "played": 9,
+     "won": 6,
      "draw": 2,
      "lost": 1,
-     "gd": 7,
-     "pts": 17
+     "gd": 11,
+     "pts": 20
     },
     {
      "pos": 2,
-     "team": "Stade Rennais",
-     "crest": "https://crests.football-data.org/529.png",
-     "played": 8,
+     "team": "Lille",
+     "crest": "https://crests.football-data.org/521.png",
+     "played": 9,
      "won": 5,
-     "draw": 1,
-     "lost": 2,
-     "gd": 4,
-     "pts": 16
+     "draw": 3,
+     "lost": 1,
+     "gd": 6,
+     "pts": 18
     },
     {
      "pos": 3,
-     "team": "Lille",
-     "crest": "https://crests.football-data.org/521.png",
-     "played": 8,
-     "won": 4,
-     "draw": 3,
-     "lost": 1,
-     "gd": 5,
-     "pts": 15
+     "team": "Stade Rennais",
+     "crest": "https://crests.football-data.org/529.png",
+     "played": 9,
+     "won": 5,
+     "draw": 1,
+     "lost": 3,
+     "gd": 1,
+     "pts": 16
     },
     {
      "pos": 4,
@@ -1430,17 +1430,28 @@
     },
     {
      "pos": 7,
-     "team": "RC Lens",
-     "crest": "https://crests.football-data.org/546.png",
-     "played": 8,
+     "team": "Nice",
+     "crest": "https://crests.football-data.org/522.png",
+     "played": 9,
      "won": 4,
-     "draw": 1,
+     "draw": 2,
      "lost": 3,
-     "gd": 4,
-     "pts": 13
+     "gd": 1,
+     "pts": 14
     },
     {
      "pos": 8,
+     "team": "RC Lens",
+     "crest": "https://crests.football-data.org/546.png",
+     "played": 9,
+     "won": 4,
+     "draw": 1,
+     "lost": 4,
+     "gd": 3,
+     "pts": 13
+    },
+    {
+     "pos": 9,
      "team": "Marseille",
      "crest": "https://crests.football-data.org/516.png",
      "played": 8,
@@ -1451,7 +1462,7 @@
      "pts": 12
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Lorient",
      "crest": "https://crests.football-data.org/525.png",
      "played": 8,
@@ -1460,17 +1471,6 @@
      "lost": 2,
      "gd": 1,
      "pts": 12
-    },
-    {
-     "pos": 10,
-     "team": "Nice",
-     "crest": "https://crests.football-data.org/522.png",
-     "played": 8,
-     "won": 3,
-     "draw": 2,
-     "lost": 3,
-     "gd": -2,
-     "pts": 11
     },
     {
      "pos": 11,
@@ -1553,15 +1553,36 @@
      "pos": 18,
      "team": "Le Havre",
      "crest": "https://crests.football-data.org/533.png",
-     "played": 8,
+     "played": 9,
      "won": 0,
      "draw": 2,
-     "lost": 6,
-     "gd": -7,
+     "lost": 7,
+     "gd": -11,
      "pts": 2
     }
    ],
    "results": [
+    {
+     "date": "2026-10-30",
+     "home": "Lille",
+     "away": "RC Lens",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-10-30",
+     "home": "Nice",
+     "away": "Stade Rennais",
+     "hs": 5,
+     "as": 2
+    },
+    {
+     "date": "2026-10-30",
+     "home": "Le Havre",
+     "away": "PSG",
+     "hs": 1,
+     "as": 5
+    },
     {
      "date": "2026-10-26",
      "home": "PSG",
@@ -1596,27 +1617,6 @@
      "away": "Strasbourg",
      "hs": 3,
      "as": 0
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Marseille",
-     "away": "Le Havre",
-     "hs": 4,
-     "as": 3
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Monaco",
-     "away": "Lille",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-10-24",
-     "home": "RC Lens",
-     "away": "Paris FC",
-     "hs": 2,
-     "as": 1
     }
    ],
    "scorers": [
@@ -1631,6 +1631,12 @@
      "team": "Paris FC",
      "goals": 6,
      "assists": 4
+    },
+    {
+     "name": "Sepe Elye Wahi",
+     "team": "Nice",
+     "goals": 6,
+     "assists": 2
     },
     {
      "name": "Amine Gouiri",
@@ -1669,16 +1675,10 @@
      "assists": 1
     },
     {
-     "name": "Ferrán Torres",
-     "team": "PSG",
+     "name": "Sebastian Szymański",
+     "team": "Stade Rennais",
      "goals": 4,
      "assists": 1
-    },
-    {
-     "name": "Paris Brunner",
-     "team": "Monaco",
-     "goals": 4,
-     "assists": 0
     }
    ]
   },
