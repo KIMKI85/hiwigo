@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:23:03.411312+00:00",
+ "updated": "2026-11-01T13:39:06.415897+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -395,6 +395,17 @@
     },
     {
      "pos": 5,
+     "team": "Sevilla FC",
+     "crest": "https://crests.football-data.org/559.png",
+     "played": 11,
+     "won": 6,
+     "draw": 2,
+     "lost": 3,
+     "gd": 1,
+     "pts": 20
+    },
+    {
+     "pos": 6,
      "team": "Real Sociedad",
      "crest": "https://crests.football-data.org/92.png",
      "played": 10,
@@ -403,17 +414,6 @@
      "lost": 3,
      "gd": 1,
      "pts": 19
-    },
-    {
-     "pos": 6,
-     "team": "Sevilla FC",
-     "crest": "https://crests.football-data.org/559.png",
-     "played": 10,
-     "won": 5,
-     "draw": 2,
-     "lost": 3,
-     "gd": 0,
-     "pts": 17
     },
     {
      "pos": 7,
@@ -540,11 +540,11 @@
      "pos": 18,
      "team": "Getafe",
      "crest": "https://crests.football-data.org/82.png",
-     "played": 10,
+     "played": 11,
      "won": 2,
      "draw": 3,
-     "lost": 5,
-     "gd": -10,
+     "lost": 6,
+     "gd": -11,
      "pts": 9
     },
     {
@@ -729,6 +729,17 @@
     },
     {
      "pos": 4,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 10,
+     "won": 7,
+     "draw": 2,
+     "lost": 1,
+     "gd": 10,
+     "pts": 23
+    },
+    {
+     "pos": 5,
      "team": "Milan",
      "crest": "https://crests.football-data.org/98.png",
      "played": 10,
@@ -737,17 +748,6 @@
      "lost": 1,
      "gd": 9,
      "pts": 21
-    },
-    {
-     "pos": 5,
-     "team": "Como 1907",
-     "crest": "https://crests.football-data.org/7397.png",
-     "played": 9,
-     "won": 6,
-     "draw": 2,
-     "lost": 1,
-     "gd": 9,
-     "pts": 20
     },
     {
      "pos": 6,
@@ -907,15 +907,22 @@
      "pos": 20,
      "team": "Venezia FC",
      "crest": "https://crests.football-data.org/454.png",
-     "played": 9,
+     "played": 10,
      "won": 1,
      "draw": 0,
-     "lost": 8,
-     "gd": -13,
+     "lost": 9,
+     "gd": -14,
      "pts": 3
     }
    ],
    "results": [
+    {
+     "date": "2026-11-01",
+     "home": "Como 1907",
+     "away": "Venezia FC",
+     "hs": 1,
+     "as": 0
+    },
     {
      "date": "2026-10-31",
      "home": "Milan",
@@ -963,13 +970,6 @@
      "home": "Genoa",
      "away": "Juventus",
      "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-10-28",
-     "home": "Parma",
-     "away": "Udinese",
-     "hs": 0,
      "as": 0
     }
    ],
