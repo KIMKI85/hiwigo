@@ -1,5 +1,18 @@
 [
  {
+  "id": "9b9e0cede048",
+  "title": "Arsenal win at Anfield for first time in 14 years to move top",
+  "player": "Kai Havertz's",
+  "title_ko": "안필드에서 14년 만에 처음으로 아스널 우승을 차지하며 상위권 진입",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/liverpool-vs-arsenal/report/559530",
+  "fee": null,
+  "published": "2026-11-01T18:30:00+00:00"
+ },
+ {
   "id": "f1b1aaaee5ae",
   "title": "LIVE! Keine Wechsel zur Pause: Beendet Arsenal seine Anfield-Negativserie?",
   "player": "Keine Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/nba/news/12040/13602121/wnba-finals-angel-reese-stars-again-as-atalanta-dream-beat-golden-state-valkyries-to-move-2-1-up-in-best-of-seven-series",
   "fee": null,
   "published": "2026-10-22T06:36:00+00:00"
- },
- {
-  "id": "2569e4c7d7e9",
-  "title": "Liverpool news: Andoni Iraola offers £38m transfer hope as damning Arne Slot comments made",
-  "player": "Andoni Iraola",
-  "title_ko": "리버풀 뉴스: 안도니 이라올라 (Andoni Iraola) 는 £ 38M 송금 희망을 Arne Slot 의견 제시로 제공합니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-mora-slot-37795168",
-  "fee": "£38M",
-  "published": "2026-10-22T04:00:00+00:00"
  }
 ]
