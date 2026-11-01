@@ -1,5 +1,31 @@
 [
  {
+  "id": "83d2ead4f5cd",
+  "title": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
+  "player": "Die Legende",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/chatzialexiou-erklaert-wechsel-die-legende-wird-auch-ohne-mich-leben-1267429/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-01T12:41:03+00:00"
+ },
+ {
+  "id": "4fab6cd42157",
+  "title": "JJ Gabriel rejects PSG transfer offer as wantaway Man Utd wonderkid picks next club",
+  "player": null,
+  "title_ko": "JJ 가브리엘은 원어웨이 맨유 원더키드가 다음 클럽을 선택함에 따라 PSG 이적 제안을 거절합니다.",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-madrid-37831244",
+  "fee": null,
+  "published": "2026-11-01T12:33:01+00:00"
+ },
+ {
   "id": "e6e8d5650538",
   "title": "Inside Brighton's unlikely title bid and Fabian Hurzeler's stance on Man Utd job",
   "player": "Inside Brighton's",
@@ -1272,31 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
   "fee": null,
   "published": "2026-10-21T21:07:48+00:00"
- },
- {
-  "id": "d631aecd68d9",
-  "title": "Mercato: Athekame va bien finir la saison à l’OL malgré l’intérêt de l’AC Milan pour un retour précoce",
-  "player": "Zachary Athekame",
-  "title_ko": "Mercato: Athekame va bien finir la saison à l 'ol malgré l' intérêt de l 'AC Milan pour un retour précoce",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-athekame-va-bien-finir-la-saison-a-l-ol-malgre-l-interet-de-l-ac-milan-pour-un-retour-precoce_AV-202610210907.html",
-  "fee": null,
-  "published": "2026-10-21T19:19:41+00:00"
- },
- {
-  "id": "5f3f17a88101",
-  "title": "Ligue Europa: \"Le pire mercato de l'Histoire du club\", les retrouvailles du Stade Rennais avec le flop Massara",
-  "player": "Stade Rennais",
-  "title_ko": "리그 유로파: \"Le pire mercato de l 'Histoire du club\", les retrouvailles du Stade Rennais avec le flop Massara",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/europa-league/ligue-europa-le-pire-mercato-de-l-histoire-du-club-les-retrouvailles-du-stade-rennais-avec-le-flop-massara_AV-202610210830.html",
-  "fee": null,
-  "published": "2026-10-21T17:37:19+00:00"
  }
 ]
