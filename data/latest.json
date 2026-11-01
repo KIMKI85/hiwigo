@@ -1,5 +1,18 @@
 [
  {
+  "id": "cbde7c79fe56",
+  "title": "LIVE! Keine Wechsel zur Pause: Was geht noch für den FC?",
+  "player": "Keine Wechsel",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-keine-wechsel-zur-pause-was-geht-noch-fuer-den-fc-1266561/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-01T13:39:56+00:00"
+ },
+ {
   "id": "83d2ead4f5cd",
   "title": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
   "player": "Die Legende",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-david-raya-exit-37795342",
   "fee": null,
   "published": "2026-10-22T03:00:00+00:00"
- },
- {
-  "id": "c7730d978184",
-  "title": "Barkley and Buendía on target as Aston Villa maintain perfect start against Viking",
-  "player": "Holte End",
-  "title_ko": "애스턴 빌라가 바이킹을 상대로 완벽한 출발을 유지하면서 바클리와 부엔디아를 목표로 삼고 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
-  "fee": null,
-  "published": "2026-10-21T21:07:48+00:00"
  }
 ]
