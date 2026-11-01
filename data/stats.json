@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:43:22.724889+00:00",
+ "updated": "2026-11-01T06:23:03.411312+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -228,6 +228,13 @@
    "results": [
     {
      "date": "2026-10-31",
+     "home": "Aston Villa",
+     "away": "Fulham",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-10-31",
      "home": "Tottenham",
      "away": "Crystal Palace",
      "hs": 2,
@@ -273,13 +280,6 @@
      "home": "Chelsea",
      "away": "Man United",
      "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Sunderland",
-     "away": "Leeds United",
-     "hs": 0,
      "as": 0
     }
    ],
@@ -573,6 +573,13 @@
    "results": [
     {
      "date": "2026-10-31",
+     "home": "Barça",
+     "away": "Alavés",
+     "hs": 6,
+     "as": 1
+    },
+    {
+     "date": "2026-10-31",
      "home": "Real Betis",
      "away": "Málaga",
      "hs": 2,
@@ -619,13 +626,6 @@
      "away": "Levante",
      "hs": 2,
      "as": 1
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Celta",
-     "away": "Real Betis",
-     "hs": 0,
-     "as": 0
     }
    ],
    "scorers": [
@@ -918,6 +918,13 @@
    "results": [
     {
      "date": "2026-10-31",
+     "home": "Milan",
+     "away": "Inter",
+     "hs": 3,
+     "as": 1
+    },
+    {
+     "date": "2026-10-31",
      "home": "Udinese",
      "away": "Roma",
      "hs": 2,
@@ -964,13 +971,6 @@
      "away": "Udinese",
      "hs": 0,
      "as": 0
-    },
-    {
-     "date": "2026-10-28",
-     "home": "Venezia FC",
-     "away": "Inter",
-     "hs": 0,
-     "as": 2
     }
    ],
    "scorers": [
@@ -1563,6 +1563,13 @@
    ],
    "results": [
     {
+     "date": "2026-10-31",
+     "home": "Troyes",
+     "away": "Le Mans",
+     "hs": 2,
+     "as": 0
+    },
+    {
      "date": "2026-10-30",
      "home": "Lille",
      "away": "RC Lens",
@@ -1609,13 +1616,6 @@
      "home": "Angers SCO",
      "away": "Lorient",
      "hs": 0,
-     "as": 0
-    },
-    {
-     "date": "2026-10-25",
-     "home": "Stade Rennais",
-     "away": "Strasbourg",
-     "hs": 3,
      "as": 0
     }
    ],
