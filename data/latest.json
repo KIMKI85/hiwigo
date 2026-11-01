@@ -1,5 +1,18 @@
 [
  {
+  "id": "5a320203383d",
+  "title": "Worrying signs at Inter as Chivu and senior players echo same message after derby loss",
+  "player": "Cristian Chivu",
+  "title_ko": "Chivu와 시니어 플레이어가 더비 패배 후 동일한 메시지를 울리면서 Inter에서 걱정스러운 징후가 나타납니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/worrying-signs-inter-chivu-echo-same-message/",
+  "fee": null,
+  "published": "2026-11-01T19:43:21+00:00"
+ },
+ {
   "id": "9b9e0cede048",
   "title": "Arsenal win at Anfield for first time in 14 years to move top",
   "player": "Kai Havertz's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sounds/play/p0phyhpt?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-22T07:00:00+00:00"
- },
- {
-  "id": "777eb30daa00",
-  "title": "Reese stars again as Atalanta beat Golden State to move 2-1 up in WNBA Finals",
-  "player": "Golden State",
-  "title_ko": "아탈란타가 골든 스테이트를 꺾고 WNBA 파이널에서 2-1로 올라가면서 Reese는 다시 별을 얻었습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/nba/news/12040/13602121/wnba-finals-angel-reese-stars-again-as-atalanta-dream-beat-golden-state-valkyries-to-move-2-1-up-in-best-of-seven-series",
-  "fee": null,
-  "published": "2026-10-22T06:36:00+00:00"
  }
 ]
