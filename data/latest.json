@@ -1,5 +1,18 @@
 [
  {
+  "id": "e6e8d5650538",
+  "title": "Inside Brighton's unlikely title bid and Fabian Hurzeler's stance on Man Utd job",
+  "player": "Inside Brighton's",
+  "title_ko": "브라이튼의 예상치 못한 타이틀 입찰가와 맨유에 대한 파비안 허즐러의 입장",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/brighton-fabian-hurzeler-manchester-united-37831072",
+  "fee": null,
+  "published": "2026-11-01T11:36:48+00:00"
+ },
+ {
   "id": "fccfafd983ae",
   "title": "'Liverpool and Arsenal wanted to sign me – but I joined Man City and it wasn't for money'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/europa-league/ligue-europa-le-pire-mercato-de-l-histoire-du-club-les-retrouvailles-du-stade-rennais-avec-le-flop-massara_AV-202610210830.html",
   "fee": null,
   "published": "2026-10-21T17:37:19+00:00"
- },
- {
-  "id": "a4052c50595c",
-  "title": "Vinicius Jr 'seriously considered' Arsenal transfer as agent lifts lid on failed move",
-  "player": "Vinicius Jr",
-  "title_ko": "에이전트가 실패한 동작에서 뚜껑을 들어올리면서 비니시우스 주니어가 '심각하게 고려한' 아스날 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-vinicius-jr-real-madrid-37797089",
-  "fee": null,
-  "published": "2026-10-21T17:32:55+00:00"
  }
 ]
