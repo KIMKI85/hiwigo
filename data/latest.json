@@ -1,5 +1,18 @@
 [
  {
+  "id": "69bc5b6d7bd0",
+  "title": "Transfer Centre LIVE! 'Balde could leave Barcelona with Man Utd interested'",
+  "player": null,
+  "title_ko": "이적 센터 생중계! '발데가 맨유와 함께 바르셀로나를 떠날 수도 있습니다'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+  "fee": null,
+  "published": "2026-11-02T10:15:00+00:00"
+ },
+ {
   "id": "4a246013be1d",
   "title": "DIRECT. Mercato: suivez toutes les infos et rumeurs sur le marché des transferts du 2 novembre 2026 en live",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/sueperlig-erfahrung-guetersloh-verpflichtet-ex-erfurter-uzun-1263984/artikel#omrss",
   "fee": null,
   "published": "2026-10-22T09:09:10+00:00"
- },
- {
-  "id": "96e67c93b179",
-  "title": "Argentinien vor Scaloni-Deal - Tresoldi rückt in Arsenals Fokus",
-  "player": "Arsenals Fokus",
-  "title_ko": "아르헨티나 VOR Scaloni-Deal - Arsenals Fokus의 Tresoldi rückt",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-22T08:20:00+00:00"
  }
 ]
