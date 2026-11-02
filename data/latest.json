@@ -1,5 +1,18 @@
 [
  {
+  "id": "8149d6f3f9da",
+  "title": "Arsenal plotting double January transfer swoop as Mikel Arteta identifies forward targets",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 가 전방 표적을 식별함에 따라 이중 1월 이적 급습을 계획하는 무기고",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-plotting-double-january-transfer-37835574",
+  "fee": null,
+  "published": "2026-11-02T18:03:08+00:00"
+ },
+ {
   "id": "2a6354708af9",
   "title": "Leeds fan dies after medical emergency at Man Utd clash as club pay tribute",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/valencia/2026/10/22/liverpool-chequea-cesion-elliott-valencia.html",
   "fee": null,
   "published": "2026-10-22T12:33:31+00:00"
- },
- {
-  "id": "49cf5d77d730",
-  "title": "Mercato: le message énigmatique de Paul Pogba, bientôt de retour dans un club ?",
-  "player": "Paul Pogba",
-  "title_ko": "Mercato: le message énigmatique de Paul Pogba, bientôt de retour dans un club?",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-message-enigmatique-de-pogba-bientot-de-retour-dans-un-club_AV-202610220563.html",
-  "fee": null,
-  "published": "2026-10-22T12:16:21+00:00"
  }
 ]
