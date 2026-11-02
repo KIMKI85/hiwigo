@@ -1,5 +1,18 @@
 [
  {
+  "id": "fe7248af9fc8",
+  "title": "Everton hold off Newcastle to move into seventh",
+  "player": "Thierno Barry",
+  "title_ko": "에버턴은 뉴캐슬을 버티고 7위로 이적한다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-02T22:44:30+00:00"
+ },
+ {
   "id": "259d9e4e9054",
   "title": "Euro latest: Kane 'extremely close' to signing new Bayern deal",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514",
   "fee": null,
   "published": "2026-10-22T15:17:00+00:00"
- },
- {
-  "id": "abfa84401649",
-  "title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden",
-  "player": "Max Rushden",
-  "title_ko": "캐릭, 맨체스터 유나이티드의 최근 위기 상황 후 버스에서 윌콕스에 합류 | 막스 러시든",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/22/michael-carrick-bruno-fernandes-jason-wilcox-manchester-united-como-crisis",
-  "fee": null,
-  "published": "2026-10-22T14:39:20+00:00"
  }
 ]
