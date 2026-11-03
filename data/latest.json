@@ -1,5 +1,18 @@
 [
  {
+  "id": "4655024aa676",
+  "title": "Man Utd swap deal solves two problems as door opened to January transfer",
+  "player": "Michael Carrick",
+  "title_ko": "맨유 스왑 딜은 1월 이적에 대한 문이 열리면서 두 가지 문제를 해결합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lisandro-martinez-balde-37835995",
+  "fee": null,
+  "published": "2026-11-03T07:38:33+00:00"
+ },
+ {
   "id": "fe7248af9fc8",
   "title": "Everton hold off Newcastle to move into seventh",
   "player": "Thierno Barry",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-courtise-par-le-psg-le-grand-espoir-lacine-megnan-prolonge-a-montpellier_AN-202610220830.html",
   "fee": null,
   "published": "2026-10-22T17:12:11+00:00"
- },
- {
-  "id": "a6703f133a53",
-  "title": "Arsenal move level with leaders City with Everton win LIVE!",
-  "player": null,
-  "title_ko": "리더와 함께 무기고 이동 레벨 에버턴과 함께 도시에서 승리하세요!",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514",
-  "fee": null,
-  "published": "2026-10-22T15:17:00+00:00"
  }
 ]
