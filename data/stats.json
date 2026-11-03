@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:58:08.717181+00:00",
+ "updated": "2026-11-03T19:36:21.767536+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -1731,6 +1731,17 @@
     },
     {
      "pos": 5,
+     "team": "Sporting CP",
+     "crest": "https://crests.football-data.org/498.png",
+     "played": 4,
+     "won": 3,
+     "draw": 0,
+     "lost": 1,
+     "gd": 4,
+     "pts": 9
+    },
+    {
+     "pos": 6,
      "team": "Real Betis",
      "crest": "https://crests.football-data.org/90.png",
      "played": 3,
@@ -1739,17 +1750,6 @@
      "lost": 0,
      "gd": 3,
      "pts": 9
-    },
-    {
-     "pos": 6,
-     "team": "Stuttgart",
-     "crest": "https://crests.football-data.org/10.png",
-     "played": 3,
-     "won": 2,
-     "draw": 1,
-     "lost": 0,
-     "gd": 5,
-     "pts": 7
     },
     {
      "pos": 7,
@@ -1764,6 +1764,17 @@
     },
     {
      "pos": 8,
+     "team": "Stuttgart",
+     "crest": "https://crests.football-data.org/10.png",
+     "played": 4,
+     "won": 2,
+     "draw": 1,
+     "lost": 1,
+     "gd": 3,
+     "pts": 7
+    },
+    {
+     "pos": 9,
      "team": "Barça",
      "crest": "https://crests.football-data.org/81.png",
      "played": 3,
@@ -1774,7 +1785,7 @@
      "pts": 6
     },
     {
-     "pos": 9,
+     "pos": 10,
      "team": "Como 1907",
      "crest": "https://crests.football-data.org/7397.png",
      "played": 3,
@@ -1785,7 +1796,7 @@
      "pts": 6
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Man City",
      "crest": "https://crests.football-data.org/65.png",
      "played": 3,
@@ -1796,20 +1807,9 @@
      "pts": 6
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Club Brugge",
      "crest": "https://crests.football-data.org/851.png",
-     "played": 3,
-     "won": 2,
-     "draw": 0,
-     "lost": 1,
-     "gd": 3,
-     "pts": 6
-    },
-    {
-     "pos": 12,
-     "team": "Sporting CP",
-     "crest": "https://crests.football-data.org/498.png",
      "played": 3,
      "won": 2,
      "draw": 0,
@@ -1830,6 +1830,17 @@
     },
     {
      "pos": 14,
+     "team": "Galatasaray",
+     "crest": "https://crests.football-data.org/610.png",
+     "played": 4,
+     "won": 2,
+     "draw": 0,
+     "lost": 2,
+     "gd": -1,
+     "pts": 6
+    },
+    {
+     "pos": 15,
      "team": "Bayern",
      "crest": "https://crests.football-data.org/5.png",
      "played": 3,
@@ -1840,7 +1851,7 @@
      "pts": 5
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Roma",
      "crest": "https://crests.football-data.org/100.png",
      "played": 3,
@@ -1851,7 +1862,7 @@
      "pts": 4
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Atleti",
      "crest": "https://crests.football-data.org/78.png",
      "played": 3,
@@ -1862,18 +1873,18 @@
      "pts": 4
     },
     {
-     "pos": 17,
+     "pos": 18,
      "team": "Shaktar",
      "crest": "https://crests.football-data.org/1887.png",
-     "played": 3,
+     "played": 4,
      "won": 1,
      "draw": 1,
-     "lost": 1,
-     "gd": 1,
+     "lost": 2,
+     "gd": 0,
      "pts": 4
     },
     {
-     "pos": 18,
+     "pos": 19,
      "team": "PSV",
      "crest": "https://crests.football-data.org/674.png",
      "played": 3,
@@ -1884,7 +1895,7 @@
      "pts": 4
     },
     {
-     "pos": 19,
+     "pos": 20,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
      "played": 3,
@@ -1895,7 +1906,7 @@
      "pts": 3
     },
     {
-     "pos": 20,
+     "pos": 21,
      "team": "Inter",
      "crest": "https://crests.football-data.org/108.png",
      "played": 3,
@@ -1906,7 +1917,7 @@
      "pts": 3
     },
     {
-     "pos": 20,
+     "pos": 21,
      "team": "Man United",
      "crest": "https://crests.football-data.org/66.png",
      "played": 3,
@@ -1917,7 +1928,7 @@
      "pts": 3
     },
     {
-     "pos": 22,
+     "pos": 23,
      "team": "Napoli",
      "crest": "https://crests.football-data.org/113.png",
      "played": 3,
@@ -1925,17 +1936,6 @@
      "draw": 0,
      "lost": 2,
      "gd": -2,
-     "pts": 3
-    },
-    {
-     "pos": 23,
-     "team": "Galatasaray",
-     "crest": "https://crests.football-data.org/610.png",
-     "played": 3,
-     "won": 1,
-     "draw": 0,
-     "lost": 2,
-     "gd": -3,
      "pts": 3
     },
     {
@@ -2178,6 +2178,12 @@
      "assists": 2
     },
     {
+     "name": "Aleksey Batrakov",
+     "team": "Galatasaray",
+     "goals": 4,
+     "assists": 0
+    },
+    {
      "name": "Nicolas Jackson",
      "team": "Aston Villa",
      "goals": 3,
@@ -2194,12 +2200,6 @@
      "team": "Liverpool",
      "goals": 3,
      "assists": 0
-    },
-    {
-     "name": "Ousmane Dembélé",
-     "team": "PSG",
-     "goals": 3,
-     "assists": 3
     }
    ]
   }
