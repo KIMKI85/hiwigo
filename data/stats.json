@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:47:16.997661+00:00",
+ "updated": "2026-11-03T06:58:08.717181+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,6 +227,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-02",
+     "home": "Newcastle",
+     "away": "Everton",
+     "hs": 0,
+     "as": 1
+    },
+    {
      "date": "2026-11-01",
      "home": "Liverpool",
      "away": "Arsenal",
@@ -274,13 +281,6 @@
      "away": "Leeds United",
      "hs": 2,
      "as": 0
-    },
-    {
-     "date": "2026-10-31",
-     "home": "Man City",
-     "away": "Brighton Hove",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -428,23 +428,23 @@
     },
     {
      "pos": 8,
+     "team": "Deportivo",
+     "crest": "https://crests.football-data.org/560.png",
+     "played": 11,
+     "won": 3,
+     "draw": 5,
+     "lost": 3,
+     "gd": 1,
+     "pts": 14
+    },
+    {
+     "pos": 9,
      "team": "Villarreal",
      "crest": "https://crests.football-data.org/94.png",
      "played": 11,
      "won": 3,
      "draw": 3,
      "lost": 5,
-     "gd": 0,
-     "pts": 12
-    },
-    {
-     "pos": 9,
-     "team": "Deportivo",
-     "crest": "https://crests.football-data.org/560.png",
-     "played": 11,
-     "won": 2,
-     "draw": 6,
-     "lost": 3,
      "gd": 0,
      "pts": 12
     },
@@ -494,17 +494,6 @@
     },
     {
      "pos": 14,
-     "team": "Osasuna",
-     "crest": "https://crests.football-data.org/79.png",
-     "played": 11,
-     "won": 3,
-     "draw": 3,
-     "lost": 5,
-     "gd": -10,
-     "pts": 12
-    },
-    {
-     "pos": 15,
      "team": "Espanyol",
      "crest": "https://crests.football-data.org/80.png",
      "played": 11,
@@ -512,6 +501,17 @@
      "draw": 2,
      "lost": 6,
      "gd": -1,
+     "pts": 11
+    },
+    {
+     "pos": 15,
+     "team": "Osasuna",
+     "crest": "https://crests.football-data.org/79.png",
+     "played": 11,
+     "won": 3,
+     "draw": 2,
+     "lost": 6,
+     "gd": -11,
      "pts": 11
     },
     {
@@ -572,6 +572,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-02",
+     "home": "Deportivo",
+     "away": "Osasuna",
+     "hs": 2,
+     "as": 1
+    },
+    {
      "date": "2026-11-01",
      "home": "Athletic",
      "away": "Real Sociedad",
@@ -619,13 +626,6 @@
      "away": "Celta",
      "hs": 3,
      "as": 0
-    },
-    {
-     "date": "2026-10-31",
-     "home": "Levante",
-     "away": "Atleti",
-     "hs": 0,
-     "as": 2
     }
    ],
    "scorers": [
