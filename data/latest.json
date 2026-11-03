@@ -91,6 +91,19 @@
   "published": "2026-11-02T17:42:17+00:00"
  },
  {
+  "id": "d536aa44b544",
+  "title": "Sunderland latest: Brobbey signs long-term deal",
+  "player": null,
+  "title_ko": "선덜랜드 최신: Brobbey, 장기 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-11-02T11:00:00+00:00"
+ },
+ {
   "id": "69bc5b6d7bd0",
   "title": "Transfer Centre LIVE! 'Balde could leave Barcelona with Man Utd interested'",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-alexander-arnold-37800027",
   "fee": null,
   "published": "2026-10-23T04:00:00+00:00"
- },
- {
-  "id": "3d2d5cc38def",
-  "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
-  "player": null,
-  "title_ko": "본머스의 밤을 꿈꾸며 - 프리미어 리그의 힘을 보여주는 밀라노 상공에서 승리하세요",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-22T21:30:31+00:00"
  }
 ]
