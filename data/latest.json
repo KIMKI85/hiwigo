@@ -1,5 +1,18 @@
 [
  {
+  "id": "c901c71d2d00",
+  "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
+  "player": null,
+  "title_ko": "서류: 맨시티 수비수 에이트 누리와의 계약에 열중하는 맨유",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+  "fee": null,
+  "published": "2026-11-03T23:10:00+00:00"
+ },
+ {
   "id": "acf26fb1c6df",
   "title": "4 buts en moins de 17 minutes: le PSG signe à Villarreal le meilleur début de match de l'histoire de la Ligue des champions",
   "player": "Les Parisiens",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-23T11:20:20+00:00"
- },
- {
-  "id": "05cea3aba160",
-  "title": "Jamie Carragher pinpoints Mikel Arteta change as he bids to end 92-year Arsenal hoodoo",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 카라거 (Jamie Carragher) 는 92년간의 아스널 후두 (Arsenal hoodoo) 를 끝내기 위해 입찰하면서 미켈 아르테타 (Mikel Arteta) 가",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-mikel-arteta-arsenal-37802759",
-  "fee": null,
-  "published": "2026-10-23T11:04:52+00:00"
  }
 ]
