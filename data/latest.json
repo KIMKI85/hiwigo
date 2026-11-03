@@ -1,5 +1,18 @@
 [
  {
+  "id": "533e0cb76a7f",
+  "title": "Man Utd plot shock January transfer for Man City star to address problem area",
+  "player": "Red Devils",
+  "title_ko": "맨시티 스타가 문제 영역을 해결하기 위해 맨유 플롯 쇼크 1월 이적",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-rayan-ait-nouri-37839606",
+  "fee": null,
+  "published": "2026-11-03T17:42:20+00:00"
+ },
+ {
   "id": "4013e8e3813b",
   "title": "Viktor Gyokeres got brutal Mikel Arteta reality check as Arsenal transfer plan emerges",
   "player": "Viktor Gyokeres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13602355/florian-wirtz-is-finally-showing-signs-of-life-at-liverpool-but-andoni-iraola-still-needs-more-from-his-116m-playmaker",
   "fee": null,
   "published": "2026-10-23T08:00:00+00:00"
- },
- {
-  "id": "34f5795c4fba",
-  "title": "Liverpool news: Trent Alexander-Arnold tipped for rival transfer as Chelsea battle emerges",
-  "player": "Trent Alexander-Arnold",
-  "title_ko": "리버풀 뉴스: 트렌트 알렉산더 - 아놀드 (Trent Alexander-Arnold) 는 첼시 전투가 출현함에 따라 라이벌 이적에 대한 팁을 주었다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-news-alexander-arnold-37800027",
-  "fee": null,
-  "published": "2026-10-23T04:00:00+00:00"
  }
 ]
