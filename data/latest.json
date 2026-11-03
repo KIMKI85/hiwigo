@@ -1,5 +1,18 @@
 [
  {
+  "id": "acf26fb1c6df",
+  "title": "4 buts en moins de 17 minutes: le PSG signe à Villarreal le meilleur début de match de l'histoire de la Ligue des champions",
+  "player": "Les Parisiens",
+  "title_ko": "4 buts en moins de 17 minutes: le PSG signe à Villarreal le meilleur début de match de l 'histoire de la Ligue des champions",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/4-buts-en-moins-de-17-minutes-le-psg-signe-a-villarreal-le-meilleur-debut-de-match-de-l-histoire-de-la-ligue-des-champions_AV-202611030919.html",
+  "fee": null,
+  "published": "2026-11-03T20:33:21+00:00"
+ },
+ {
   "id": "05b7599b5e02",
   "title": "Alexis Mac Allister makes 'painful' Liverpool admission and makes transfer stance clear",
   "player": "Alexis Mac Allister",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-mikel-arteta-arsenal-37802759",
   "fee": null,
   "published": "2026-10-23T11:04:52+00:00"
- },
- {
-  "id": "2a0c892dacdb",
-  "title": "Inter to reward Carlos Augusto with new contract after netting 4 goals in 7 games",
-  "player": "Carlos Augusto",
-  "title_ko": "7경기에서 4골을 득점한 후 카를로스 아우구스토에게 새로운 계약을 보상하는 인테르",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-to-reward-carlos-augusto-new-contract/",
-  "fee": null,
-  "published": "2026-10-23T08:55:19+00:00"
  }
 ]
