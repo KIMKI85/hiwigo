@@ -1,5 +1,18 @@
 [
  {
+  "id": "f342fd096df5",
+  "title": "DIRECT. Mercato: l'OL officialise le départ de Paulo Fonseca",
+  "player": "Paulo Fonseca",
+  "title_ko": "직접. 메르카토: l 'ol officialise le départ de Paulo Fonseca",
+  "league": "LIGUE1",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-l-ol-officialise-le-depart-de-paulo-fonseca_LS-202611040431.html",
+  "fee": null,
+  "published": "2026-11-04T10:15:39+00:00"
+ },
+ {
   "id": "46843552e7eb",
   "title": "Real Madrid confident of signing Man Utd's Gabriel",
   "player": "Utd's Gabriel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-manchester-united-transfer-37805693",
   "fee": null,
   "published": "2026-10-23T20:34:57+00:00"
- },
- {
-  "id": "bd1f153e52af",
-  "title": "Premier League clubs learn individual cost of independent regulator after fees double",
-  "player": "Independent Football Regulator",
-  "title_ko": "프리미어 리그 클럽은 수수료 2배 후 독립 레귤레이터의 개별 비용을 배웁니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/premier-league-clubs-learn-individual-37805356",
-  "fee": null,
-  "published": "2026-10-23T16:43:37+00:00"
  }
 ]
