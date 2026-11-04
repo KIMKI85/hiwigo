@@ -1,5 +1,18 @@
 [
  {
+  "id": "afcb97f51ce0",
+  "title": "Mercato: l'OL annonce le départ de Paulo Fonseca pour le Sporting CP",
+  "player": "Paulo Fonseca",
+  "title_ko": "Mercato: l 'ol annonce le départ de Paulo Fonseca pour le Sporting CP",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-annonce-le-depart-de-paulo-fonseca-pour-le-sporting-cp_AV-202611040488.html",
+  "fee": null,
+  "published": "2026-11-04T11:34:30+00:00"
+ },
+ {
   "id": "f342fd096df5",
   "title": "DIRECT. Mercato: l'OL officialise le départ de Paulo Fonseca",
   "player": "Paulo Fonseca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.marca.com/futbol/rayo/2026/10/23/penas-celebran-acuerdo-avisan-batalla-supone-avance-salvacion-rayo.html",
   "fee": null,
   "published": "2026-10-23T21:19:14+00:00"
- },
- {
-  "id": "19a698e4ab0a",
-  "title": "Roma agree new Lulli contract to 2031 after breakthrough under Gasperini",
-  "player": "Emanuele Lulli",
-  "title_ko": "로마는 가스페리니 (Gasperini) 하에서 돌파구를 마련한 후 새로운 룰리 계약을 2031년으로 합의한다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-agree-new-lulli-contract-to-2031/",
-  "fee": null,
-  "published": "2026-10-23T21:00:00+00:00"
  }
 ]
