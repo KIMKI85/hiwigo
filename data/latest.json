@@ -1,5 +1,18 @@
 [
  {
+  "id": "e7a70590db4f",
+  "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
+  "player": null,
+  "title_ko": "레알 마드리드, 맨체스터 유나이티드 16세 JJ 가브리엘과 계약 체결",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
+  "fee": null,
+  "published": "2026-11-04T14:48:17+00:00"
+ },
+ {
   "id": "0208d8eab0c2",
   "title": "Mercato: \"Ce serait un rêve immense\", le gros appel du pied d'Ibrahim Maza au PSG",
   "player": "Ibrahim Maza",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-24T15:05:45+00:00"
- },
- {
-  "id": "dad477b8b966",
-  "title": "LIVE! Werder startet mit Weiser - Leipzig wechselt achtmal",
-  "player": "In Köln",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-werder-startet-mit-weiser-leipzig-wechselt-achtmal-1263993/artikel#omrss",
-  "fee": null,
-  "published": "2026-10-24T12:29:12+00:00"
  }
 ]
