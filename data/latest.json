@@ -1,5 +1,18 @@
 [
  {
+  "id": "27cf16cf05fc",
+  "title": "Nadal set to join Real Madrid board of directors",
+  "player": "Rafael Nadal",
+  "title_ko": "나달이 레알 마드리드 이사회에 합류할 준비를 마쳤다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-04T13:21:01+00:00"
+ },
+ {
   "id": "d284c5cfd06d",
   "title": "Video: McKennie joins Juventus group training before AZ Alkmaar clash",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/mckennie-joins-juventus-group-training-az-video/",
   "fee": null,
   "published": "2026-11-04T12:59:42+00:00"
+ },
+ {
+  "id": "96e67c93b179",
+  "title": "Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real",
+  "player": "Toptalent Gabriel",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-04T12:44:56+00:00"
  },
  {
   "id": "3393039d1cdb",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/malen-could-have-joined-napoli-roma/",
   "fee": null,
   "published": "2026-10-24T11:13:19+00:00"
- },
- {
-  "id": "682e51342bed",
-  "title": "Inter’s Dimarco faces three-way battle after MVP season: Carlos Augusto, Calafiori and a new contract",
-  "player": "Carlos Augusto",
-  "title_ko": "인테르의 디마르코는 MVP 시즌 후 카를로스 아우구스토, 칼라피오리와 새로운 계약으로 3자 대결을 펼칩니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inters-dimarco-faces-three-way-battle/",
-  "fee": null,
-  "published": "2026-10-24T10:56:26+00:00"
- },
- {
-  "id": "23c2ba7fe5ba",
-  "title": "Man Utd dream defence next season with £160million duo signed and two stars axed",
-  "player": "Michael Carrick",
-  "title_ko": "맨체스터 유나이티드 드림 디펜스 다음 시즌 £ 1억 6천만 듀오 계약 및 별 2개 획득",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfer-lewis-hall-37800918",
-  "fee": "£160M",
-  "published": "2026-10-24T04:30:00+00:00"
  }
 ]

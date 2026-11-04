@@ -1,5 +1,18 @@
 [
  {
+  "id": "27cf16cf05fc",
+  "title": "Nadal set to join Real Madrid board of directors",
+  "player": "Rafael Nadal",
+  "title_ko": "나달이 레알 마드리드 이사회에 합류할 준비를 마쳤다.",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-04T13:21:01+00:00"
+ },
+ {
   "id": "d284c5cfd06d",
   "title": "Video: McKennie joins Juventus group training before AZ Alkmaar clash",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://football-italia.net/mckennie-joins-juventus-group-training-az-video/",
   "fee": null,
   "published": "2026-11-04T12:59:42+00:00"
+ },
+ {
+  "id": "96e67c93b179",
+  "title": "Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real",
+  "player": "Toptalent Gabriel",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-04T12:44:56+00:00"
  },
  {
   "id": "3393039d1cdb",
