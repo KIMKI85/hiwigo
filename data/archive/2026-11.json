@@ -1,5 +1,31 @@
 [
  {
+  "id": "22c1c75d1bcd",
+  "title": "Harry Kane becomes Europe's highest-paid player as he signs new Bayern Munich contract",
+  "player": "Harry Kane",
+  "title_ko": "해리 케인은 새로운 바이에른 뮌헨 계약을 체결하면서 유럽에서 가장 높은 연봉을 받는 선수가 되었습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-munich-contract-37844927",
+  "fee": null,
+  "published": "2026-11-05T08:19:44+00:00"
+ },
+ {
+  "id": "3a67b575e64b",
+  "title": "Ballon d'Or winner Kane signs new Bayern deal",
+  "player": "Harry Kane",
+  "title_ko": "발롱도르 우승자 케인이 새로운 바이에른 거래에 서명합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
+  "fee": null,
+  "published": "2026-11-05T08:13:00+00:00"
+ },
+ {
   "id": "4a6dd39be752",
   "title": "England captain Kane signs new Bayern deal",
   "player": "Harry Kane",
