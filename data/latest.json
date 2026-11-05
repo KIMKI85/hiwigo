@@ -1,5 +1,18 @@
 [
  {
+  "id": "0733616f96e8",
+  "title": "Arsenal news: Transfer talks for £35m star opened as key man tipped for new role",
+  "player": "Mikel Arteta",
+  "title_ko": "아스널 뉴스: £ 35M 스타를 위한 이적 회담이 새로운 역할을 위해 팁을 준 키맨으로 열렸습니다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-hincapie-konsa-37842952",
+  "fee": "£35M",
+  "published": "2026-11-05T04:00:00+00:00"
+ },
+ {
   "id": "c3f28cee392c",
   "title": "Juventus hope to sign new striker, eyeing Sesko, Balogun, Brobbey and more",
   "player": "Benjamin Sesko",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
   "fee": null,
   "published": "2026-10-24T22:04:00+00:00"
- },
- {
-  "id": "ca9a3d75011d",
-  "title": "Konsa and Gabriel on target as Arsenal top Everton",
-  "player": null,
-  "title_ko": "콘사와 가브리엘이 아스널 탑 에버턴으로 목표물에 올랐다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
-  "fee": null,
-  "published": "2026-10-24T17:15:00+00:00"
  }
 ]
