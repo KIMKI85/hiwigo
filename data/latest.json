@@ -1,5 +1,18 @@
 [
  {
+  "id": "4a6dd39be752",
+  "title": "England captain Kane signs new Bayern deal",
+  "player": "Harry Kane",
+  "title_ko": "잉글랜드 캡틴 케인, 새로운 바이에른 계약 체결",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-05T08:12:31+00:00"
+ },
+ {
   "id": "9af8195c5f3f",
   "title": "Liverpool news: Alexis Mac Allister transfer stance clear as Premier League move desired",
   "player": "Alexis Mac Allister",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/anthony-gordon-trent-alexander-arnold-37807164",
   "fee": null,
   "published": "2026-10-25T08:00:00+00:00"
- },
- {
-  "id": "320f4e297c59",
-  "title": "Arsenal news: Declan Rice injury worry after new footage as Brighton transfer in the works",
-  "player": "Declan Rice",
-  "title_ko": "아스널 뉴스: 작품에서 브라이튼 전송으로 새로운 영상 후 Declan 쌀 부상 걱정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-rice-injury-everton-transfer-37807720",
-  "fee": null,
-  "published": "2026-10-25T04:00:00+00:00"
  }
 ]
