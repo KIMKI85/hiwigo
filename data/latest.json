@@ -1,5 +1,18 @@
 [
  {
+  "id": "7bf16c59a954",
+  "title": "Emery close to agreeing new Aston Villa contract",
+  "player": "Unai Emery",
+  "title_ko": "Emery는 새로운 Aston Villa 계약에 동의합니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-05T15:45:22+00:00"
+ },
+ {
   "id": "9d9fa92bcba7",
   "title": "Mort de Jesus de Miguel: \"un signe d'humanité, le syndicat des joueurs espagnols appelle au report de tous les matchs ce week-end",
   "player": "Mort de Jesus",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-como-hand-douvikas-new-contract/",
   "fee": null,
   "published": "2026-10-26T10:24:45+00:00"
- },
- {
-  "id": "f95c369b1faf",
-  "title": "Top 10 Italy players in Serie A Week 8: Bartesaghi stars, Calò on target again",
-  "player": "Giacomo Calò",
-  "title_ko": "세리에 A 8주차 이탈리아 상위 10명 선수: 바르테사기 스타, 칼로가 다시 표적",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/top-10-italy-players-in-serie-a-week-8/",
-  "fee": null,
-  "published": "2026-10-26T09:22:53+00:00"
  }
 ]
