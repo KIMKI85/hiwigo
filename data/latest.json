@@ -1,5 +1,18 @@
 [
  {
+  "id": "eb2b14247163",
+  "title": "Mikel Arteta decision to force Arsenal transfer exit as player's father speaks his mind",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 선수의 아버지가 자신의 마음을 말하면서 아스날 이적 퇴장을 강요하기로 결정했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mikel-merino-arsenal-transfer-arteta-37848543",
+  "fee": null,
+  "published": "2026-11-05T19:16:31+00:00"
+ },
+ {
   "id": "7bf16c59a954",
   "title": "Emery close to agreeing new Aston Villa contract",
   "player": "Unai Emery",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-berta-gyokeres-eze-37812217",
   "fee": null,
   "published": "2026-10-26T15:54:21+00:00"
- },
- {
-  "id": "590a1311b0ba",
-  "title": "Official: Como hand new contract extension to top goalscorer Douvikas",
-  "player": "Tasos Douvikas",
-  "title_ko": "공식: Como hand new contract extension to top goalscorer Douvikas",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-como-hand-douvikas-new-contract/",
-  "fee": null,
-  "published": "2026-10-26T10:24:45+00:00"
  }
 ]
