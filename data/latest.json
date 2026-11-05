@@ -1,5 +1,18 @@
 [
  {
+  "id": "90ff2fbb4497",
+  "title": "Spalletti: ‘Juventus must build on positive signs, otherwise back to square one’",
+  "player": "Luciano Spalletti",
+  "title_ko": "스팔레티: ‘유벤투스는 긍정적인 신호를 기반으로 해야 합니다. 그렇지 않으면 다시 정사각형으로 돌아가야 합니다.’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spalletti-juventus-must-build-positive-signs/",
+  "fee": null,
+  "published": "2026-11-05T20:02:24+00:00"
+ },
+ {
   "id": "e0a3a61cb0ab",
   "title": "Jason Wilcox singled out as Man Utd rivals say transfer 'cost £25m too much'",
   "player": "Jason Wilcox",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lulli-renews-roma-contract-to-2031/",
   "fee": null,
   "published": "2026-10-26T19:30:00+00:00"
- },
- {
-  "id": "5f116d240e71",
-  "title": "Milan target derby return for Gila, Rabiot and Moreira",
-  "player": "Mario Gila",
-  "title_ko": "Gila, Rabiot, Moreira를 위한 밀라노 타겟 더비 복귀",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-target-derby-return-gila-rabiot-moreira/",
-  "fee": null,
-  "published": "2026-10-26T16:31:43+00:00"
  }
 ]
