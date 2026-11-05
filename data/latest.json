@@ -1,5 +1,18 @@
 [
  {
+  "id": "9af8195c5f3f",
+  "title": "Liverpool news: Alexis Mac Allister transfer stance clear as Premier League move desired",
+  "player": "Alexis Mac Allister",
+  "title_ko": "리버풀 뉴스: 알렉시스 맥 앨리스터 이적 스탠스, 프리미어리그 이동 희망",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-alexis-mac-allister-37843860",
+  "fee": null,
+  "published": "2026-11-05T05:00:00+00:00"
+ },
+ {
   "id": "0733616f96e8",
   "title": "Arsenal news: Transfer talks for £35m star opened as key man tipped for new role",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-rice-injury-everton-transfer-37807720",
   "fee": null,
   "published": "2026-10-25T04:00:00+00:00"
- },
- {
-  "id": "c501254d951d",
-  "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
-  "player": null,
-  "title_ko": "논문: 산초는 헤타페가 윙어 쇼크 거래를 제안함에 따라 스페인에 상륙할 수 있음",
-  "league": "LALIGA",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
-  "fee": null,
-  "published": "2026-10-24T22:04:00+00:00"
  }
 ]
