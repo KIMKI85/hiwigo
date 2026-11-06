@@ -1,5 +1,18 @@
 [
  {
+  "id": "c9a89d69b22f",
+  "title": "Bayern Munich 'line up Rio Ngumoha transfer' after being rejected by Man Utd star",
+  "player": "Rio Ngumoha",
+  "title_ko": "맨유 스타로부터 거절당한 바이에른 뮌헨 '리오 응우모하 이적'",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/rio-ngumoha-bayern-munich-liverpool-37850232",
+  "fee": null,
+  "published": "2026-11-06T11:51:37+00:00"
+ },
+ {
   "id": "38fb7b53179b",
   "title": "Man United's 26/27 home shirt is 50% off but rare flash deal ends Friday",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-return-real-madrid-37813590",
   "fee": null,
   "published": "2026-10-27T09:48:18+00:00"
- },
- {
-  "id": "d92cdedae9f9",
-  "title": "Man Utd's 7 biggest social media tantrums as Bruno Fernandes joins Sancho and Garnacho",
-  "player": "Bruno Fernandes",
-  "title_ko": "브루노 페르난데스가 산초와 가르나초에 합류한 맨유의 7대 소셜 미디어 쟁탈전",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-instagram-37811755",
-  "fee": null,
-  "published": "2026-10-27T06:00:00+00:00"
  }
 ]
