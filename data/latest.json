@@ -1,5 +1,18 @@
 [
  {
+  "id": "371747ae9b1d",
+  "title": "LIVE! Dresden vor Befreiungsschlag - Cottbus wechselt erstmals",
+  "player": "Zum Auftakt",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-dresden-vor-befreiungsschlag-cottbus-wechselt-erstmals-1268399/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-06T18:20:01+00:00"
+ },
+ {
   "id": "597d3875aa3b",
   "title": "LIVE! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
   "player": "Vier Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/liga/mercato-l-amende-etonnante-infligee-au-barca-pour-avoir-contacte-julian-alvarez-dans-le-dos-de-l-atletico_AV-202610280275.html",
   "fee": null,
   "published": "2026-10-28T08:01:46+00:00"
- },
- {
-  "id": "c80d92d76de1",
-  "title": "Barcelona handed ridiculous fine over Atletico Madrid Julian Alvarez transfer complaint",
-  "player": "Julian Alvarez",
-  "title_ko": "바르셀로나는 아틀레티코 마드리드 율리안 알바레스 이적에 대해 말도 안 되는 벌금을 물렸다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/barcelona-atletico-madrid-julian-alvarez-37816796",
-  "fee": null,
-  "published": "2026-10-28T05:30:00+00:00"
  }
 ]
