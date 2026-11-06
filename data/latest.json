@@ -1,5 +1,18 @@
 [
  {
+  "id": "597d3875aa3b",
+  "title": "LIVE! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
+  "player": "Vier Wechsel",
+  "title_ko": "라이브! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-kinsombi-ersetzt-cigerci-vier-wechsel-bei-dresden-1268399/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-06T16:00:00+00:00"
+ },
+ {
   "id": "4ea20a3120b3",
   "title": "Affaire Mbappé: un premier signe de réchauffement entre le Real Madrid et la Chine après la polémique du \"dictateur\"",
   "player": "Affaire Mbappé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/barcelona-atletico-madrid-julian-alvarez-37816796",
   "fee": null,
   "published": "2026-10-28T05:30:00+00:00"
- },
- {
-  "id": "197b0e510c4a",
-  "title": "Balogun emerges as Juventus’ top January target after Everton medical chaos",
-  "player": "Folarin Balogun",
-  "title_ko": "발로군은 에버턴 의료 혼란 이후 유벤투스의 최고 1월 목표로 부상",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/balogun-juventus-january-target-everton-chaos/",
-  "fee": null,
-  "published": "2026-10-27T12:12:23+00:00"
  }
 ]
