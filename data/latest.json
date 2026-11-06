@@ -1,5 +1,18 @@
 [
  {
+  "id": "95c09a89834c",
+  "title": "Spence included in England squad for the first time since €35m Inter transfer",
+  "player": "Djed Spence",
+  "title_ko": "€ 35M 인터 트랜스퍼 이후 처음으로 잉글랜드 선수단에 포함된 스펜스",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spence-first-england-call-up-since-inter-move/",
+  "fee": "€35M",
+  "published": "2026-11-06T10:39:21+00:00"
+ },
+ {
   "id": "bb4d4af1b8a8",
   "title": "Man Utd news: Agreement reached on next manager plan as Glazers make rare comment",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-mora-37811710",
   "fee": null,
   "published": "2026-10-27T04:00:00+00:00"
- },
- {
-  "id": "e9165c9efa20",
-  "title": "Papers: Howe fee Man Utd would have to pay to Newcastle revealed",
-  "player": null,
-  "title_ko": "서류: 맨유가 뉴캐슬에 지불해야 하는 하우 수수료 공개",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13604196/manchester-united-eddie-howe-compensation-fee-to-newcastle-revealed-paper-talk",
-  "fee": null,
-  "published": "2026-10-26T23:00:00+00:00"
  }
 ]
