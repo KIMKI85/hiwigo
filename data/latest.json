@@ -1,5 +1,18 @@
 [
  {
+  "id": "4ea20a3120b3",
+  "title": "Affaire Mbappé: un premier signe de réchauffement entre le Real Madrid et la Chine après la polémique du \"dictateur\"",
+  "player": "Affaire Mbappé",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/affaire-mbappe-un-premier-signe-de-rechauffement-entre-le-real-madrid-et-la-chine-apres-la-polemique-du-dictateur_AV-202611060623.html",
+  "fee": null,
+  "published": "2026-11-06T15:19:56+00:00"
+ },
+ {
   "id": "1bf708a207b3",
   "title": "Has Anderson lived up to the hype after Man City move?",
   "player": "Has Anderson",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/balogun-juventus-january-target-everton-chaos/",
   "fee": null,
   "published": "2026-10-27T12:12:23+00:00"
- },
- {
-  "id": "daa5c6d40c54",
-  "title": "Pulisic ready to sign Milan contract extension as new salary revealed",
-  "player": "Christian Pulisic",
-  "title_ko": "새로운 급여가 공개됨에 따라 밀라노 계약 연장에 서명 할 준비가 된 Pulisic",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/pulisic-ready-to-sign-milan-contract-extension-as-new-salary-revealed/",
-  "fee": null,
-  "published": "2026-10-27T11:41:43+00:00"
  }
 ]
