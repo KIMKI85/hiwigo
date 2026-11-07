@@ -1,5 +1,18 @@
 [
  {
+  "id": "6db14ae5986f",
+  "title": "Lucca agent denies brother joined Napoli row against De Bruyne",
+  "player": "De Bruyne",
+  "title_ko": "루카 에이전트가 De Bruyne을 상대로 나폴리 행에 합류 한 형제를 부인합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/lucca-deny-brother-joined-napoli-row-de-bruyne/",
+  "fee": null,
+  "published": "2026-11-07T17:17:17+00:00"
+ },
+ {
   "id": "a5ea75d7b8b0",
   "title": "Früherer Chatzialexiou-Wechsel nach Frankfurt naht",
   "player": "Früherer Chatzialexiou-Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-contract-talks-with-rabiot-after-pulisic/",
   "fee": null,
   "published": "2026-10-28T14:34:46+00:00"
- },
- {
-  "id": "c5b6e418c452",
-  "title": "Liverpool open talks over January transfer as clear leader in Alex Scott race emerges",
-  "player": "Alex Scott",
-  "title_ko": "리버풀, 알렉스 스콧 영입 경쟁에서 유력한 선두 주자로 부상…1월 이적 시장 관련 협상 개시",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-alex-scott-lamine-camara-37818806",
-  "fee": null,
-  "published": "2026-10-28T13:44:16+00:00"
  }
 ]
