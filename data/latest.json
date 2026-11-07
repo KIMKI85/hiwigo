@@ -1,5 +1,18 @@
 [
  {
+  "id": "a5ea75d7b8b0",
+  "title": "Früherer Chatzialexiou-Wechsel nach Frankfurt naht",
+  "player": "Früherer Chatzialexiou-Wechsel",
+  "title_ko": "Früherer Chatzialexiou-Wechsel nach 프랑크푸르트 나트",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/frueherer-chatzialexiou-wechsel-nach-frankfurt-naht-1268920/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-07T12:18:49+00:00"
+ },
+ {
   "id": "9613831b1621",
   "title": "Mercato: le plan du Real Madrid pour préparer l'arrivée de la pépite JJ Gabriel à 16 ans",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-alex-scott-lamine-camara-37818806",
   "fee": null,
   "published": "2026-10-28T13:44:16+00:00"
- },
- {
-  "id": "7b5077936626",
-  "title": "Milan circle back for Hardung and have agreement in principle with Krösche",
-  "player": null,
-  "title_ko": "밀란은 하르둥 영입을 위해 다시 접촉했고 크뢰셰와 원칙적인 합의를 이뤘습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-circle-back-hardung-kroesche-agreement/",
-  "fee": null,
-  "published": "2026-10-28T13:10:25+00:00"
  }
 ]
