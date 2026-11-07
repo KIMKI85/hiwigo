@@ -1,5 +1,18 @@
 [
  {
+  "id": "11a3a77ac1ff",
+  "title": "Liverpool considering Verbruggen move - Sunday's gossip",
+  "player": "Bart Verbruggen",
+  "title_ko": "Verbruggen 이동을 고려한 리버풀 - 일요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-07T22:05:40+00:00"
+ },
+ {
   "id": "6db14ae5986f",
   "title": "Lucca agent denies brother joined Napoli row against De Bruyne",
   "player": "De Bruyne",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-maza-ne-viendra-pas-au-psg-cet-hiver_AV-202610280867.html",
   "fee": null,
   "published": "2026-10-28T19:21:34+00:00"
- },
- {
-  "id": "f4d4940ed191",
-  "title": "Milan in contract negotiations with Rabiot after Pulisic agreement",
-  "player": "Adrien Rabiot",
-  "title_ko": "밀라노, Pulisic 합의 후 Rabiot과 계약 협상 중",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-contract-talks-with-rabiot-after-pulisic/",
-  "fee": null,
-  "published": "2026-10-28T14:34:46+00:00"
  }
 ]
