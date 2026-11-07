@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:11:51.561317+00:00",
+ "updated": "2026-11-07T13:16:13.330841+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -83,6 +83,17 @@
     },
     {
      "pos": 8,
+     "team": "Tottenham",
+     "crest": "https://crests.football-data.org/73.png",
+     "played": 10,
+     "won": 3,
+     "draw": 4,
+     "lost": 3,
+     "gd": 0,
+     "pts": 13
+    },
+    {
+     "pos": 9,
      "team": "Bournemouth",
      "crest": "https://crests.football-data.org/bournemouth.png",
      "played": 9,
@@ -93,18 +104,18 @@
      "pts": 12
     },
     {
-     "pos": 9,
-     "team": "Tottenham",
-     "crest": "https://crests.football-data.org/73.png",
-     "played": 9,
-     "won": 3,
-     "draw": 3,
-     "lost": 3,
-     "gd": 0,
+     "pos": 10,
+     "team": "Leeds United",
+     "crest": "https://crests.football-data.org/341.png",
+     "played": 10,
+     "won": 2,
+     "draw": 6,
+     "lost": 2,
+     "gd": 1,
      "pts": 12
     },
     {
-     "pos": 10,
+     "pos": 11,
      "team": "Aston Villa",
      "crest": "https://crests.football-data.org/58.png",
      "played": 9,
@@ -115,20 +126,9 @@
      "pts": 12
     },
     {
-     "pos": 11,
+     "pos": 12,
      "team": "Hull City",
      "crest": "https://crests.football-data.org/322.png",
-     "played": 9,
-     "won": 2,
-     "draw": 5,
-     "lost": 2,
-     "gd": 1,
-     "pts": 11
-    },
-    {
-     "pos": 12,
-     "team": "Leeds United",
-     "crest": "https://crests.football-data.org/341.png",
      "played": 9,
      "won": 2,
      "draw": 5,
@@ -494,6 +494,17 @@
     },
     {
      "pos": 14,
+     "team": "Santander",
+     "crest": "https://crests.football-data.org/5335.png",
+     "played": 12,
+     "won": 3,
+     "draw": 3,
+     "lost": 6,
+     "gd": -14,
+     "pts": 12
+    },
+    {
+     "pos": 15,
      "team": "Espanyol",
      "crest": "https://crests.football-data.org/80.png",
      "played": 11,
@@ -504,7 +515,7 @@
      "pts": 11
     },
     {
-     "pos": 15,
+     "pos": 16,
      "team": "Osasuna",
      "crest": "https://crests.football-data.org/79.png",
      "played": 11,
@@ -512,17 +523,6 @@
      "draw": 2,
      "lost": 6,
      "gd": -11,
-     "pts": 11
-    },
-    {
-     "pos": 16,
-     "team": "Santander",
-     "crest": "https://crests.football-data.org/5335.png",
-     "played": 11,
-     "won": 3,
-     "draw": 2,
-     "lost": 6,
-     "gd": -14,
      "pts": 11
     },
     {
@@ -562,12 +562,12 @@
      "pos": 20,
      "team": "Málaga",
      "crest": "https://crests.football-data.org/84.png",
-     "played": 11,
+     "played": 12,
      "won": 0,
-     "draw": 5,
+     "draw": 6,
      "lost": 6,
      "gd": -13,
-     "pts": 5
+     "pts": 6
     }
    ],
    "results": [
