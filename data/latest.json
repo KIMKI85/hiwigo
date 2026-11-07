@@ -52,6 +52,19 @@
   "published": "2026-11-06T18:20:01+00:00"
  },
  {
+  "id": "2286fa8d3b55",
+  "title": "Wolves hoping to move top of Championship at Wrexham LIVE!",
+  "player": null,
+  "title_ko": "렉섬 라이브에서 챔피언십 정상을 차지하길 바라는 늑대들!",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
+  "fee": null,
+  "published": "2026-11-06T16:06:00+00:00"
+ },
+ {
   "id": "597d3875aa3b",
   "title": "LIVE! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
   "player": "Vier Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-circle-back-hardung-kroesche-agreement/",
   "fee": null,
   "published": "2026-10-28T13:10:25+00:00"
- },
- {
-  "id": "60478e42c4db",
-  "title": "Fleetwood humiliation exposed transfer mistake that could derail Arsenal's season",
-  "player": null,
-  "title_ko": "플리트우드의 굴욕은 아스널의 시즌을 탈선시킬 수 있는 이적 실수를 드러냈다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-problem-arteta-fleetwood-37818485",
-  "fee": null,
-  "published": "2026-10-28T13:08:54+00:00"
  }
 ]
