@@ -1,5 +1,18 @@
 [
  {
+  "id": "0a2a0d965893",
+  "title": "JJ Gabriel breaks silence on Man Utd exit with eight-word explanation for Real Madrid move",
+  "player": null,
+  "title_ko": "JJ 가브리엘이 레알 마드리드 무브에 대한 8단어 설명과 함께 맨유 퇴장에서 침묵을 깨고 있다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-real-madrid-explanation-37853578",
+  "fee": null,
+  "published": "2026-11-07T09:28:30+00:00"
+ },
+ {
   "id": "89bb8bcee16b",
   "title": "Milan target defensive reinforcements with Inácio top of the list",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/wechsel-nach-derby-pleite-fener-coach-kartal-tritt-zurueck-kuijt-uebernimmt-1265829/artikel#omrss",
   "fee": null,
   "published": "2026-10-28T10:43:18+00:00"
- },
- {
-  "id": "1d7aa5f40e5a",
-  "title": "Ruben Amorim ready to exploit Man Utd crisis as AC Milan eye stunning transfer",
-  "player": "Ruben Amorim",
-  "title_ko": "루벤 아모림 (Ruben Amorim) 은 AC 밀란의 놀라운 이적으로 맨유의 위기를 악용할 준비가 되어 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/amorim-manchester-united-fernandes-milan-37817169",
-  "fee": null,
-  "published": "2026-10-28T08:32:04+00:00"
  }
 ]
