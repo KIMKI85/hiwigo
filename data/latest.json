@@ -1,5 +1,18 @@
 [
  {
+  "id": "782807f2784c",
+  "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
+  "player": "Kylian Mbappé",
+  "title_ko": "유럽 축구: 음바페, 발렌시아를 지나 레알 마드리드를 완화해 공동 1위로 올라서다",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+  "fee": null,
+  "published": "2026-11-07T22:30:08+00:00"
+ },
+ {
   "id": "11a3a77ac1ff",
   "title": "Liverpool considering Verbruggen move - Sunday's gossip",
   "player": "Bart Verbruggen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-city-carlos-tevez-37820313",
   "fee": null,
   "published": "2026-10-28T22:30:00+00:00"
- },
- {
-  "id": "6d5df808808a",
-  "title": "Mercato: Maza ne viendra pas au PSG cet hiver",
-  "player": "Ibrahim Maza",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-maza-ne-viendra-pas-au-psg-cet-hiver_AV-202610280867.html",
-  "fee": null,
-  "published": "2026-10-28T19:21:34+00:00"
  }
 ]
