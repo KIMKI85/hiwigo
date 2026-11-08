@@ -1,5 +1,18 @@
 [
  {
+  "id": "8762204d1c30",
+  "title": "Jose Mourinho's first act as Man Utd boss offers JJ Gabriel hope after transfer wish granted",
+  "player": "Jose Mourinho's",
+  "title_ko": "호세 무리뉴 (Jose Mourinho) 가 맨체스터 유나이티드 (Man Utd) 보스로서 처음으로 연기한 이적 후 JJ 가브리엘 (JJ Gabriel)",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mourinho-man-utd-jj-gabriel-37844941",
+  "fee": null,
+  "published": "2026-11-08T05:30:00+00:00"
+ },
+ {
   "id": "782807f2784c",
   "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
   "player": "Kylian Mbappé",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-29T06:27:10+00:00"
- },
- {
-  "id": "eb5357840241",
-  "title": "'I had a great time at Man Utd – but I joined City to get revenge on them'",
-  "player": null,
-  "title_ko": "'맨유에서 즐거운 시간을 보냈지만 그들에게 복수하기 위해 도시에 합류했습니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-city-carlos-tevez-37820313",
-  "fee": null,
-  "published": "2026-10-28T22:30:00+00:00"
  }
 ]
