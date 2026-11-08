@@ -1,5 +1,31 @@
 [
  {
+  "id": "9cf539131f8c",
+  "title": "Brighton breeze past ten-man Brentford to move up to second",
+  "player": "Diego Gomez's",
+  "title_ko": "10인승 브렌트포드를 지나 브라이튼 브리즈가 두 번째로 올라갑니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-08T20:00:21+00:00"
+ },
+ {
+  "id": "1a017a42c886",
+  "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+  "player": null,
+  "title_ko": "고군분투하는 선덜랜드가 첼시를 꺾고 프리미어리그 최하위를 차지했다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-08T19:58:31+00:00"
+ },
+ {
   "id": "2f959e49fb0f",
   "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
   "player": null,
