@@ -1,5 +1,18 @@
 [
  {
+  "id": "2f959e49fb0f",
+  "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
+  "player": null,
+  "title_ko": "선덜랜드에게 꺾인 테피드 첼시",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
+  "fee": null,
+  "published": "2026-11-08T16:00:00+00:00"
+ },
+ {
   "id": "941916a5a73b",
   "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
   "player": "Alessia Russo",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-dominic-calvert-lewin-37824564",
   "fee": null,
   "published": "2026-10-29T19:18:20+00:00"
- },
- {
-  "id": "1f6dfdead0f7",
-  "title": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
-  "player": "Football Daily",
-  "title_ko": "리버풀, 첼시 꺾고 3명 추가 합류 페널티 홀 수치 | 풋볼 데일리",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
-  "fee": null,
-  "published": "2026-10-29T15:58:18+00:00"
  }
 ]
