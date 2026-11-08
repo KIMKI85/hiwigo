@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:17:55.469579+00:00",
+ "updated": "2026-11-08T13:37:19.218800+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -386,12 +386,12 @@
      "pos": 4,
      "team": "Real Betis",
      "crest": "https://crests.football-data.org/90.png",
-     "played": 11,
+     "played": 12,
      "won": 7,
-     "draw": 2,
+     "draw": 3,
      "lost": 2,
      "gd": 3,
-     "pts": 23
+     "pts": 24
     },
     {
      "pos": 5,
@@ -529,12 +529,12 @@
      "pos": 17,
      "team": "Elche",
      "crest": "https://crests.football-data.org/285.png",
-     "played": 11,
+     "played": 12,
      "won": 2,
-     "draw": 4,
+     "draw": 5,
      "lost": 5,
      "gd": -4,
-     "pts": 10
+     "pts": 11
     },
     {
      "pos": 18,
@@ -698,12 +698,12 @@
      "pos": 1,
      "team": "Lazio",
      "crest": "https://crests.football-data.org/110.png",
-     "played": 10,
+     "played": 11,
      "won": 9,
-     "draw": 1,
+     "draw": 2,
      "lost": 0,
      "gd": 16,
-     "pts": 28
+     "pts": 29
     },
     {
      "pos": 2,
@@ -797,12 +797,12 @@
      "pos": 10,
      "team": "Napoli",
      "crest": "https://crests.football-data.org/113.png",
-     "played": 10,
+     "played": 11,
      "won": 4,
-     "draw": 2,
+     "draw": 3,
      "lost": 4,
      "gd": 4,
-     "pts": 14
+     "pts": 15
     },
     {
      "pos": 11,
@@ -917,6 +917,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-08",
+     "home": "Napoli",
+     "away": "Lazio",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-11-07",
      "home": "Roma",
      "away": "Sassuolo",
@@ -964,13 +971,6 @@
      "away": "Fiorentina",
      "hs": 2,
      "as": 4
-    },
-    {
-     "date": "2026-11-01",
-     "home": "Juventus",
-     "away": "Napoli",
-     "hs": 2,
-     "as": 0
     }
    ],
    "scorers": [
