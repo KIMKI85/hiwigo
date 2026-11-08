@@ -1,5 +1,18 @@
 [
  {
+  "id": "941916a5a73b",
+  "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+  "player": "Alessia Russo",
+  "title_ko": "리버풀에서 중요한 WSL 우승을 차지하기 위해 압박감에 시달리는 아스날을 두 번 발사하면서 루소가 다시 표적에 올랐습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+  "fee": null,
+  "published": "2026-11-08T14:13:00+00:00"
+ },
+ {
   "id": "306e27bbb9c4",
   "title": "Struggling Italiano targets Anguissa for Beşiktaş",
   "player": "Struggling Italiano",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
   "fee": null,
   "published": "2026-10-29T15:58:18+00:00"
- },
- {
-  "id": "5c6810665863",
-  "title": "Official: Mendy signs contract extension with Cagliari",
-  "player": "Paul Mendy",
-  "title_ko": "공식: Mendy, Cagliari와 계약 연장 계약 체결",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-mendy-contract-extension-cagliari/",
-  "fee": null,
-  "published": "2026-10-29T15:56:00+00:00"
  }
 ]
