@@ -1,5 +1,18 @@
 [
  {
+  "id": "306e27bbb9c4",
+  "title": "Struggling Italiano targets Anguissa for Beşiktaş",
+  "player": "Struggling Italiano",
+  "title_ko": "고군분투하는 이탈리아인이 베식타쉬의 앙귀사를 노린다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/struggling-italiano-targets-anguissa-besiktas/",
+  "fee": null,
+  "published": "2026-11-08T12:31:20+00:00"
+ },
+ {
   "id": "453ceee3c5e2",
   "title": "'I was happy to escape the Man Utd negativity – it was common sense to join Aston Villa'",
   "player": "Old Trafford",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-mendy-contract-extension-cagliari/",
   "fee": null,
   "published": "2026-10-29T15:56:00+00:00"
- },
- {
-  "id": "2f735a384fb3",
-  "title": "West Brom desperate for Premier League as George Campbell reveals Baggies' minimum target",
-  "player": "George Campbell",
-  "title_ko": "George Campbell이 Baggies의 최소 목표를 밝히면서 West Brom은 Premier League에 필사적입니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/west-brom-premier-league-championship-37820490",
-  "fee": null,
-  "published": "2026-10-29T12:20:55+00:00"
  }
 ]
