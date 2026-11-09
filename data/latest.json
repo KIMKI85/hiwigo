@@ -1,5 +1,18 @@
 [
  {
+  "id": "e823d941b5b2",
+  "title": "Atletico target Zubimendi move - Tuesday's gossip",
+  "player": "Martin Zubimendi",
+  "title_ko": "아틀레티코 대상 주비멘디 이동 - 화요일 가십",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-09T21:13:37+00:00"
+ },
+ {
   "id": "798567ef54b1",
   "title": "Report Hermoso ready to sign new Roma contract",
   "player": "Mario Hermoso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/drei-tore-eine-vorlage-sge-leihe-wahi-schraubt-rennes-auseinander-1266966/video#omrss",
   "fee": null,
   "published": "2026-10-30T20:58:49+00:00"
- },
- {
-  "id": "9314106fd563",
-  "title": "Italy talent Zoma among Napoli targets heading into January transfer window",
-  "player": "Mohamed Ali Zoma",
-  "title_ko": "나폴리 중 이탈리아 탤런트 조마, 1월 이적 창구로 향하다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/italy-talent-zoma-among-napoli-january-targets/",
-  "fee": null,
-  "published": "2026-10-30T18:58:09+00:00"
  }
 ]
