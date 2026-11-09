@@ -1,5 +1,18 @@
 [
  {
+  "id": "c5d979b40d7f",
+  "title": "Pavlovic ‘unlikely’ to join Serbia squad due to kidney problem",
+  "player": "Strahinja Pavlovic",
+  "title_ko": "Pavlovic은 신장 문제로 인해 세르비아 선수단에 합류할 ‘가능성 없음'",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/pavlovic-unlikely-to-join-serbia-squad-kidney/",
+  "fee": null,
+  "published": "2026-11-09T14:49:34+00:00"
+ },
+ {
   "id": "4a59fffda3d8",
   "title": "Alisson gives agent clear Liverpool instruction as goalkeeper's deal winds down",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/harvey-elliott-liverpool-loan-valencia-37826206",
   "fee": null,
   "published": "2026-10-30T12:41:09+00:00"
- },
- {
-  "id": "49c9c41fb9be",
-  "title": "5 Premier League stars Man Utd can target as January plans take shape",
-  "player": null,
-  "title_ko": "5 프리미어 리그 스타 맨유는 1월 계획이 구체화됨에 따라 목표할 수 있습니다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-january-targets-37825997",
-  "fee": null,
-  "published": "2026-10-30T12:33:41+00:00"
  }
 ]
