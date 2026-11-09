@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:15:22.504566+00:00",
+ "updated": "2026-11-09T06:50:39.147741+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -917,6 +917,41 @@
    ],
    "results": [
     {
+     "date": "2026-11-08",
+     "home": "Fiorentina",
+     "away": "Juventus",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-11-08",
+     "home": "Inter",
+     "away": "Como 1907",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-11-08",
+     "home": "Monza",
+     "away": "Atalanta",
+     "hs": 0,
+     "as": 1
+    },
+    {
+     "date": "2026-11-08",
+     "home": "Genoa",
+     "away": "Milan",
+     "hs": 1,
+     "as": 2
+    },
+    {
+     "date": "2026-11-08",
+     "home": "Napoli",
+     "away": "Lazio",
+     "hs": 1,
+     "as": 1
+    },
+    {
      "date": "2026-11-07",
      "home": "Roma",
      "away": "Sassuolo",
@@ -935,41 +970,6 @@
      "home": "Cagliari",
      "away": "Frosinone",
      "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-11-07",
-     "home": "Torino",
-     "away": "Lecce",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-11-06",
-     "home": "Venezia FC",
-     "away": "Udinese",
-     "hs": 2,
-     "as": 1
-    },
-    {
-     "date": "2026-11-02",
-     "home": "Atalanta",
-     "away": "Parma",
-     "hs": 0,
-     "as": 3
-    },
-    {
-     "date": "2026-11-02",
-     "home": "Sassuolo",
-     "away": "Fiorentina",
-     "hs": 2,
-     "as": 4
-    },
-    {
-     "date": "2026-11-01",
-     "home": "Juventus",
-     "away": "Napoli",
-     "hs": 2,
      "as": 0
     }
    ],
