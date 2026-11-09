@@ -1,5 +1,18 @@
 [
  {
+  "id": "798567ef54b1",
+  "title": "Report Hermoso ready to sign new Roma contract",
+  "player": "Mario Hermoso",
+  "title_ko": "새로운 로마 계약에 서명할 준비가 된 에르모소 신고",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-hermoso-ready-to-sign-new-roma-contract/",
+  "fee": null,
+  "published": "2026-11-09T20:44:26+00:00"
+ },
+ {
   "id": "d5ef10946e89",
   "title": "Report Milan reject Cisse offer from Brighton and Hove Albion, plan new contract",
   "player": "Hove Albion",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/italy-talent-zoma-among-napoli-january-targets/",
   "fee": null,
   "published": "2026-10-30T18:58:09+00:00"
- },
- {
-  "id": "cba84c872447",
-  "title": "Man Utd's January plan sums up summer's transfer failings as club make rare move",
-  "player": null,
-  "title_ko": "맨체스터 유나이티드의 1월 계획은 클럽이 드물게 이동함에 따라 여름의 이적 실패를 요약합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-january-plan-targets-37828269",
-  "fee": null,
-  "published": "2026-10-30T17:02:06+00:00"
  }
 ]
