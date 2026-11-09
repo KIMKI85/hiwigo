@@ -1,5 +1,18 @@
 [
  {
+  "id": "fcddb60ab308",
+  "title": "Papers: Poch would consider PL return to join Man Utd",
+  "player": null,
+  "title_ko": "논문: 포치는 맨유에 합류하기 위해 PL 복귀를 고려할 것이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
+  "fee": null,
+  "published": "2026-11-09T23:00:00+00:00"
+ },
+ {
   "id": "e823d941b5b2",
   "title": "Atletico target Zubimendi move - Tuesday's gossip",
   "player": "Martin Zubimendi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
   "fee": null,
   "published": "2026-10-30T22:30:26+00:00"
- },
- {
-  "id": "1621c8fa37c3",
-  "title": "Drei Tore, eine Vorlage: SGE-Leihe Wahi schraubt Rennes auseinander",
-  "player": "Drei Tore",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/drei-tore-eine-vorlage-sge-leihe-wahi-schraubt-rennes-auseinander-1266966/video#omrss",
-  "fee": null,
-  "published": "2026-10-30T20:58:49+00:00"
  }
 ]
