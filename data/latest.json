@@ -1,5 +1,31 @@
 [
  {
+  "id": "c25e14931b8f",
+  "title": "Yildiz targets December return as Juventus plan comeback date",
+  "player": "Kenan Yildiz",
+  "title_ko": "일디즈, 유벤투스 플랜 컴백일로 12월 복귀 목표",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/yildiz-targets-december-return-as-juventus/",
+  "fee": null,
+  "published": "2026-11-10T10:52:00+00:00"
+ },
+ {
+  "id": "a9dccdd985a3",
+  "title": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유는 마우리시오 포체티노를 마이클 캐릭의 후계자로 고용하기 위해 막대한 비용을 지불해야 할 것이다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
+  "fee": null,
+  "published": "2026-11-10T10:44:51+00:00"
+ },
+ {
   "id": "117b2bc395df",
   "title": "Inter target Calhanoglu renewal by Christmas but wage remains sticking point",
   "player": "Hakan Calhanoglu",
@@ -1272,31 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-glazers-ratcliffe-transfer-37828123",
   "fee": null,
   "published": "2026-10-31T04:30:00+00:00"
- },
- {
-  "id": "40261a6193ff",
-  "title": "Arsenal news: Gunners target 'extraordinary' £58m talent as Mikel Arteta urged to 'move on'",
-  "player": "Mikel Arteta",
-  "title_ko": "무기고 소식: 미켈 아르테타 (Mikel Arteta) 가 '계속 나아가라' 고 촉구한 것처럼 포수들은 '특별한' £ 58M 인재를 목표로 삼습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-antonio-nusa-gyokeres-37827520",
-  "fee": "£58M",
-  "published": "2026-10-31T04:00:00+00:00"
- },
- {
-  "id": "c43de5b1e4ed",
-  "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
-  "player": "Barcelona's Lopez",
-  "title_ko": "맨유, 바르셀로나의 로페즈를 겨냥하다 - 토요일의 험담",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-30T23:08:16+00:00"
  }
 ]
