@@ -1,5 +1,18 @@
 [
  {
+  "id": "0d7f571ca902",
+  "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
+  "player": "Sky Sports' Paul",
+  "title_ko": "Merson: 맨유 이적 정책은 캐릭의 책임이 아니라 책임입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
+  "fee": null,
+  "published": "2026-11-10T13:30:00+00:00"
+ },
+ {
   "id": "fc2e2652a4b5",
   "title": "De Gea’s Fiorentina tenure nearly over as Viola prepare to move on from ex-Man Utd goalkeeper",
   "player": "De Gea",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/klose-zu-chatzialexiou-wechsel-war-thema-in-der-mannschaft-1267057/video#omrss",
   "fee": null,
   "published": "2026-10-31T11:16:01+00:00"
- },
- {
-  "id": "f3e8ff25f549",
-  "title": "Thuram eyes France recall as in-form Inter striker targets derby drought",
-  "player": "Marcus Thuram",
-  "title_ko": "THURAM EYES FRANCE는 IN-FORM INTER STRIKER가 DERBY DIRBY DIR",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/thuram-eyes-france-recall-form-inter-striker/",
-  "fee": null,
-  "published": "2026-10-31T10:50:00+00:00"
  }
 ]
