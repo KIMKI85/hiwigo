@@ -104,6 +104,19 @@
   "published": "2026-11-10T10:36:00+00:00"
  },
  {
+  "id": "f69aad97c8ee",
+  "title": "Rui Pinto’s lawyers in talks with UK authorities over deal for Manchester City whistleblower",
+  "player": "Rui Pinto",
+  "title_ko": "맨체스터 시티 내부 고발자를 위한 거래를 놓고 영국 당국과 협의 중인 루이 핀토의 변호사들",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower",
+  "fee": null,
+  "published": "2026-11-10T10:30:35+00:00"
+ },
+ {
   "id": "c83f4b30da23",
   "title": "Mercato: Manchester United devra lâcher un petit pactole s'il veut débaucher Pochettino",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/pulisic-joins-milans-top-earners-as-rossoneri/",
   "fee": null,
   "published": "2026-10-31T12:58:34+00:00"
- },
- {
-  "id": "a8d3b0d5fe73",
-  "title": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
-  "player": "San Siro",
-  "title_ko": "'우리는 뒤처졌다' - AC 밀란과 인터에서 새로운 산 시로 거래는 무엇을 의미합니까?",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-31T11:18:53+00:00"
  }
 ]
