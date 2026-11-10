@@ -1,5 +1,18 @@
 [
  {
+  "id": "fc2e2652a4b5",
+  "title": "De Gea’s Fiorentina tenure nearly over as Viola prepare to move on from ex-Man Utd goalkeeper",
+  "player": "De Gea",
+  "title_ko": "데 헤아의 피오렌티나 재임 기간이 거의 끝나갈 무렵, 비올라가 맨유의 전 골키퍼로 전향할 준비를 하고 있을 때였다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/de-geas-fiorentina-tenure-nearly-over-as-viola/",
+  "fee": null,
+  "published": "2026-11-10T13:15:00+00:00"
+ },
+ {
   "id": "4f21fcbb5eff",
   "title": "Como and Milan target Chelsea full-back Malo Gusto",
   "player": "Malo Gusto",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/thuram-eyes-france-recall-form-inter-striker/",
   "fee": null,
   "published": "2026-10-31T10:50:00+00:00"
- },
- {
-  "id": "9850ee3d78d5",
-  "title": "Mikel Arteta would swap Arsenal attack for Liverpool's due to Alexander Isak transfer truth",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 알렉산더 이사크 (Alexander Isak) 이적 진실로 인해 아스날 공격을 리버풀 공격으로 바꾼다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-arsenal-mikel-arteta-isak-37829001",
-  "fee": null,
-  "published": "2026-10-31T10:00:00+00:00"
  }
 ]
