@@ -1,5 +1,18 @@
 [
  {
+  "id": "a1992a214cb8",
+  "title": "Füllkrug erklärt Kontakt mit Klopp: \"War ein guter Move\"",
+  "player": "Niclas Füllkrug",
+  "title_ko": "Füllkrug erklärt Kontakt MIT Klopp: \"War ein guter Move\"",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/fuellkrug-erklaert-kontakt-mit-klopp-war-ein-guter-move-1270461/video#omrss",
+  "fee": null,
+  "published": "2026-11-10T14:26:31+00:00"
+ },
+ {
   "id": "0d7f571ca902",
   "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
   "player": "Sky Sports' Paul",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-31T11:18:53+00:00"
- },
- {
-  "id": "1b7a99c46517",
-  "title": "Klose zu Chatzialexiou-Wechsel: \"War Thema in der Mannschaft\"",
-  "player": "War Thema",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/klose-zu-chatzialexiou-wechsel-war-thema-in-der-mannschaft-1267057/video#omrss",
-  "fee": null,
-  "published": "2026-10-31T11:16:01+00:00"
  }
 ]
