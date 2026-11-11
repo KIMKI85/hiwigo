@@ -1,5 +1,18 @@
 [
  {
+  "id": "5b8ccf07a38f",
+  "title": "Mercato: pourquoi Crystal Palace voit d'un bon œil un potentiel retour de Pierre Sage à Lens",
+  "player": "Pierre Sage",
+  "title_ko": "Mercato: pourquoi Crystal Palace voit d 'un bon œil un potentiel retour de Pierre Sage à Lens",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-crystal-palace-voit-d-un-bon-il-un-potentiel-retour-de-pierre-sage-a-lens_AV-202611110496.html",
+  "fee": null,
+  "published": "2026-11-11T13:31:14+00:00"
+ },
+ {
   "id": "2cc8ed4e4069",
   "title": "Carlos Augusto wants €5m-a-year Inter deal as renewal talks stall",
   "player": "Carlos Augusto",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-keine-wechsel-zur-pause-was-geht-noch-fuer-den-fc-1266561/artikel#omrss",
   "fee": null,
   "published": "2026-11-01T13:39:56+00:00"
- },
- {
-  "id": "83d2ead4f5cd",
-  "title": "Chatzialexiou erklärt Wechsel: \"Die Legende wird auch ohne mich leben\"",
-  "player": "Die Legende",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/chatzialexiou-erklaert-wechsel-die-legende-wird-auch-ohne-mich-leben-1267429/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-01T12:41:03+00:00"
  }
 ]
