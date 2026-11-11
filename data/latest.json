@@ -1,5 +1,18 @@
 [
  {
+  "id": "f5b10485cc48",
+  "title": "Roma open talks to extend Hermoso’s contract until 2029",
+  "player": "Mario Hermoso",
+  "title_ko": "에르모소의 계약을 2029년까지 연장하기 위한 로마 공개 회담",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-open-talks-to-extend-hermoso-contract/",
+  "fee": null,
+  "published": "2026-11-11T13:55:09+00:00"
+ },
+ {
   "id": "5b8ccf07a38f",
   "title": "Mercato: pourquoi Crystal Palace voit d'un bon œil un potentiel retour de Pierre Sage à Lens",
   "player": "Pierre Sage",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-penalty-alexander-isak-arsenal-37832252",
   "fee": null,
   "published": "2026-11-01T17:38:46+00:00"
- },
- {
-  "id": "cbde7c79fe56",
-  "title": "LIVE! Keine Wechsel zur Pause: Was geht noch für den FC?",
-  "player": "Keine Wechsel",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/live-keine-wechsel-zur-pause-was-geht-noch-fuer-den-fc-1266561/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-01T13:39:56+00:00"
  }
 ]
