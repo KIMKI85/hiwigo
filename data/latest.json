@@ -1,5 +1,18 @@
 [
  {
+  "id": "2bf509c62a61",
+  "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유, 마우리시오 포체티노 감독과 마이클 캐릭 교체 계약",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
+  "fee": null,
+  "published": "2026-11-11T08:35:08+00:00"
+ },
+ {
   "id": "218aa7bc9929",
   "title": "Chelsea boss Xabi Alonso plotting January transfer swoop for forgotten Arsenal star",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-10-31T22:29:11+00:00"
- },
- {
-  "id": "220715678a3c",
-  "title": "Milan have agreement in principle for new Head of Football Krösche",
-  "player": "Football Krösche",
-  "title_ko": "밀라노는 원칙적으로 새로운 축구팀장인 크로셰와 협약을 맺고 있다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/milan-have-agreement-in-principle-with-krosche/",
-  "fee": null,
-  "published": "2026-10-31T20:11:54+00:00"
  }
 ]
