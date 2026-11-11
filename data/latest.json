@@ -1,5 +1,18 @@
 [
  {
+  "id": "e1543867b5b5",
+  "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨체스터 유나이티드, 마우리시오 포체티노 계약 마감 후 캐릭의 운명 정착",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+  "fee": null,
+  "published": "2026-11-11T08:56:37+00:00"
+ },
+ {
   "id": "2bf509c62a61",
   "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/liverpool-arsenal-man-city-transfer-37827158",
   "fee": null,
   "published": "2026-11-01T05:00:00+00:00"
- },
- {
-  "id": "eaeba98912f3",
-  "title": "Mikel Arteta issues exciting Declan Rice contract message with Arsenal deal close",
-  "player": "Mikel Arteta",
-  "title_ko": "Mikel Arteta, Arsenal과의 흥미로운 Declan Rice 계약 체결 메시지 발표",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-declan-rice-contract-37828798",
-  "fee": null,
-  "published": "2026-10-31T22:30:00+00:00"
  }
 ]
