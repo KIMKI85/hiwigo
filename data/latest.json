@@ -1,5 +1,18 @@
 [
  {
+  "id": "3de7ab8669fd",
+  "title": "Capello backs Milan move for Tresoldi: ‘They only had one Italian on the pitch at Genoa’",
+  "player": "Fabio Capello",
+  "title_ko": "카펠로는 밀라노가 트레솔디를 위해 움직이는 것을 지지한다: ‘그들은 제노바의 경기장에서 단 한 명의 이탈리아인만 가지고 있었다’",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/capello-backs-milan-move-for-tresoldi/",
+  "fee": null,
+  "published": "2026-11-11T14:56:27+00:00"
+ },
+ {
   "id": "427fcf656452",
   "title": "Tottenham target Ausilio: ‘I’d like to test myself in the Premier League’",
   "player": "Piero Ausilio",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/worrying-signs-inter-chivu-echo-same-message/",
   "fee": null,
   "published": "2026-11-01T19:43:21+00:00"
- },
- {
-  "id": "9b9e0cede048",
-  "title": "Arsenal win at Anfield for first time in 14 years to move top",
-  "player": "Kai Havertz's",
-  "title_ko": "안필드에서 14년 만에 처음으로 아스널 우승을 차지하며 상위권 진입",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/liverpool-vs-arsenal/report/559530",
-  "fee": null,
-  "published": "2026-11-01T18:30:00+00:00"
  }
 ]
