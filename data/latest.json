@@ -1,5 +1,18 @@
 [
  {
+  "id": "218aa7bc9929",
+  "title": "Chelsea boss Xabi Alonso plotting January transfer swoop for forgotten Arsenal star",
+  "player": "Xabi Alonso",
+  "title_ko": "첼시 보스 사비 알론소, 잊혀진 아스널 스타를 위해 1월 이적 계획",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-arsenal-martin-zubimendi-future-37864226",
+  "fee": null,
+  "published": "2026-11-11T07:00:00+00:00"
+ },
+ {
   "id": "12aadc36eea7",
   "title": "Rio Ngumoha on ‘no brainer’ Liverpool transfer call and living out his England dream",
   "player": "Rio Ngumoha",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-have-agreement-in-principle-with-krosche/",
   "fee": null,
   "published": "2026-10-31T20:11:54+00:00"
- },
- {
-  "id": "20ef33571d72",
-  "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
-  "player": "Enzo Maresca",
-  "title_ko": "브라이튼이 맨체스터 시티를 기절시키면서 목표에 도달한 아야리는 리더들의 격차를 줄이기 위해",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
-  "fee": null,
-  "published": "2026-10-31T16:59:12+00:00"
  }
 ]
