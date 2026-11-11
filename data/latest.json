@@ -1,5 +1,18 @@
 [
  {
+  "id": "2cc8ed4e4069",
+  "title": "Carlos Augusto wants €5m-a-year Inter deal as renewal talks stall",
+  "player": "Carlos Augusto",
+  "title_ko": "카를로스 아우구스토 (Carlos Augusto) 는 갱신 협상 중단으로 연간 € 5m의 Inter 거래를 원합니다.",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/carlos-augusto-wants-5m-a-year-inter-deal/",
+  "fee": "€5M",
+  "published": "2026-11-11T12:50:00+00:00"
+ },
+ {
   "id": "2c0b51a3c3d2",
   "title": "Man Utd strike Poch agreement as Carrick takes training",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/chatzialexiou-erklaert-wechsel-die-legende-wird-auch-ohne-mich-leben-1267429/artikel#omrss",
   "fee": null,
   "published": "2026-11-01T12:41:03+00:00"
- },
- {
-  "id": "4fab6cd42157",
-  "title": "JJ Gabriel rejects PSG transfer offer as wantaway Man Utd wonderkid picks next club",
-  "player": null,
-  "title_ko": "JJ 가브리엘은 원어웨이 맨유 원더키드가 다음 클럽을 선택함에 따라 PSG 이적 제안을 거절합니다.",
-  "league": "LIGUE1",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-madrid-37831244",
-  "fee": null,
-  "published": "2026-11-01T12:33:01+00:00"
  }
 ]
