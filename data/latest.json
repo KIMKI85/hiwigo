@@ -1,5 +1,18 @@
 [
  {
+  "id": "427fcf656452",
+  "title": "Tottenham target Ausilio: ‘I’d like to test myself in the Premier League’",
+  "player": "Piero Ausilio",
+  "title_ko": "토트넘 대상 아우실리오: ‘프리미어 리그에서 제 자신을 시험해 보고 싶습니다’",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/ausilio-linked-with-tottenham-premier-league/",
+  "fee": null,
+  "published": "2026-11-11T14:40:31+00:00"
+ },
+ {
   "id": "496b544b93ee",
   "title": "Juventus add Scamacca to January striker shortlist as Spalletti wants a target man",
   "player": "Gianluca Scamacca",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/liverpool-vs-arsenal/report/559530",
   "fee": null,
   "published": "2026-11-01T18:30:00+00:00"
- },
- {
-  "id": "f1b1aaaee5ae",
-  "title": "LIVE! Keine Wechsel zur Pause: Beendet Arsenal seine Anfield-Negativserie?",
-  "player": "Keine Wechsel",
-  "title_ko": "라이브! Keine Wechsel zur 일시 중지: Beendet Arsenal seine Anfield-Negativserie?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/liverpool-gegen-arsenal-2026-premier-league-5213356/spielbericht#omrss",
-  "fee": null,
-  "published": "2026-11-01T17:41:07+00:00"
  }
 ]
