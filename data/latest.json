@@ -1,5 +1,18 @@
 [
  {
+  "id": "496b544b93ee",
+  "title": "Juventus add Scamacca to January striker shortlist as Spalletti wants a target man",
+  "player": "Gianluca Scamacca",
+  "title_ko": "유벤투스는 Spalletti가 목표 남자를 원하기 때문에 1월 스트라이커 후보 명단에 Scamacca를 추가합니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-scamacca-to-january-striker-shortlist/",
+  "fee": null,
+  "published": "2026-11-11T14:15:00+00:00"
+ },
+ {
   "id": "f5b10485cc48",
   "title": "Roma open talks to extend Hermoso’s contract until 2029",
   "player": "Mario Hermoso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/liverpool-gegen-arsenal-2026-premier-league-5213356/spielbericht#omrss",
   "fee": null,
   "published": "2026-11-01T17:41:07+00:00"
- },
- {
-  "id": "271757877210",
-  "title": "Jamie Carragher fumes over VAR as Liverpool penalty agreement reached - 'Do your job!'",
-  "player": "Jamie Carragher",
-  "title_ko": "제이미 캐러거 (Jamie Carragher) 는 리버풀 페널티 합의에 도달함에 따라 VAR을 연기합니다 - '당신의 일을하십시오!'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-penalty-alexander-isak-arsenal-37832252",
-  "fee": null,
-  "published": "2026-11-01T17:38:46+00:00"
  }
 ]
