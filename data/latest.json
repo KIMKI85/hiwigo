@@ -1,5 +1,18 @@
 [
  {
+  "id": "2c0b51a3c3d2",
+  "title": "Man Utd strike Poch agreement as Carrick takes training",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨체스터 유나이티드 스트라이크 포치 협정 - 캐릭이 훈련을 받음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+  "fee": null,
+  "published": "2026-11-11T12:00:00+00:00"
+ },
+ {
   "id": "c207c5d6c195",
   "title": "Milan could bring forward Tresoldi move as Club Brugge demand €40m",
   "player": "Nicolò Tresoldi",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-madrid-37831244",
   "fee": null,
   "published": "2026-11-01T12:33:01+00:00"
- },
- {
-  "id": "e6e8d5650538",
-  "title": "Inside Brighton's unlikely title bid and Fabian Hurzeler's stance on Man Utd job",
-  "player": "Inside Brighton's",
-  "title_ko": "브라이튼의 예상치 못한 타이틀 입찰가와 맨유에 대한 파비안 허즐러의 입장",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/brighton-fabian-hurzeler-manchester-united-37831072",
-  "fee": null,
-  "published": "2026-11-01T11:36:48+00:00"
  }
 ]
