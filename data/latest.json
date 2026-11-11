@@ -13,6 +13,19 @@
   "published": "2026-11-11T08:35:08+00:00"
  },
  {
+  "id": "59e2da774729",
+  "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨체스터 유나이티드가 캐릭의 업무 보고에 동의하는 포치 거래에 근접했다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
+  "fee": null,
+  "published": "2026-11-11T08:28:00+00:00"
+ },
+ {
   "id": "218aa7bc9929",
   "title": "Chelsea boss Xabi Alonso plotting January transfer swoop for forgotten Arsenal star",
   "player": "Xabi Alonso",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-declan-rice-contract-37828798",
   "fee": null,
   "published": "2026-10-31T22:30:00+00:00"
- },
- {
-  "id": "ec98a3e2bbdb",
-  "title": "Thiago on target as Brentford beat Forest",
-  "player": "Igor Thiago's",
-  "title_ko": "브렌트포드가 포레스트를 이길 때 목표물에 티아고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-10-31T22:29:11+00:00"
  }
 ]
