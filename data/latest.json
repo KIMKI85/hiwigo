@@ -1,5 +1,18 @@
 [
  {
+  "id": "c207c5d6c195",
+  "title": "Milan could bring forward Tresoldi move as Club Brugge demand €40m",
+  "player": "Nicolò Tresoldi",
+  "title_ko": "밀라노는 클럽 브뤼헤가 € 40M를 요구함에 따라 트레솔디의 움직임을 앞당길 수 있습니다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/milan-could-bring-forward-tresoldi-move/",
+  "fee": "€40M",
+  "published": "2026-11-11T09:30:00+00:00"
+ },
+ {
   "id": "e1543867b5b5",
   "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/brighton-fabian-hurzeler-manchester-united-37831072",
   "fee": null,
   "published": "2026-11-01T11:36:48+00:00"
- },
- {
-  "id": "fccfafd983ae",
-  "title": "'Liverpool and Arsenal wanted to sign me – but I joined Man City and it wasn't for money'",
-  "player": null,
-  "title_ko": "'리버풀과 아스널은 나와 계약하고 싶었지만, 나는 맨시티에 합류했고 돈을 벌기 위한 것이 아니었다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-arsenal-man-city-transfer-37827158",
-  "fee": null,
-  "published": "2026-11-01T05:00:00+00:00"
  }
 ]
