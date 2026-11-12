@@ -1,5 +1,18 @@
 [
  {
+  "id": "23512ea06119",
+  "title": "Report: PSV in contact with De Bruyne over potential January transfer",
+  "player": "De Bruyne",
+  "title_ko": "보도: PSV, 1월 이적 가능성을 두고 드 브루인과 접촉",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-psv-in-contact-with-de-bruyne-january/",
+  "fee": null,
+  "published": "2026-11-12T12:31:38+00:00"
+ },
+ {
   "id": "5bb76243a01c",
   "title": "Coup für Großaspach: Öztunali wechselt in die 3. Liga",
   "player": "Monaten Vereinslosigkeit",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/kane-schwaermt-wechsel-zu-bayern-hat-mein-leben-veraendert-1267970/video#omrss",
   "fee": null,
   "published": "2026-11-02T21:32:41+00:00"
- },
- {
-  "id": "259d9e4e9054",
-  "title": "Euro latest: Kane 'extremely close' to signing new Bayern deal",
-  "player": null,
-  "title_ko": "유로 최신: 케인이 새로운 바이에른 거래에 '매우 가까움'",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-  "fee": null,
-  "published": "2026-11-02T19:31:00+00:00"
  }
 ]
