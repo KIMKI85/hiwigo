@@ -1,5 +1,18 @@
 [
  {
+  "id": "5bb76243a01c",
+  "title": "Coup für Großaspach: Öztunali wechselt in die 3. Liga",
+  "player": "Monaten Vereinslosigkeit",
+  "title_ko": "그로사스파흐의 깜짝 영입: 외츠투날리가 3부 리그로 이적",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/coup-fuer-grossaspach-oeztunali-wechselt-in-die-3-liga-1269238/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-12T11:53:00+00:00"
+ },
+ {
   "id": "b77ff4ce7477",
   "title": "Mercato: Manchester United officialise le départ de Carrick mais pas encore l'arrivée de Pochettino",
   "player": "Michael Carrick",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
   "fee": null,
   "published": "2026-11-02T19:31:00+00:00"
- },
- {
-  "id": "8149d6f3f9da",
-  "title": "Arsenal plotting double January transfer swoop as Mikel Arteta identifies forward targets",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 가 전방 표적을 식별함에 따라 이중 1월 이적 급습을 계획하는 무기고",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-plotting-double-january-transfer-37835574",
-  "fee": null,
-  "published": "2026-11-02T18:03:08+00:00"
  }
 ]
