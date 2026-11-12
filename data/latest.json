@@ -13,6 +13,19 @@
   "published": "2026-11-12T23:08:23+00:00"
  },
  {
+  "id": "8b75fbd6b4d1",
+  "title": "Pochettino agrees two-and-a-half-year deal to become Man Utd boss",
+  "player": "Mauricio Pochettino",
+  "title_ko": "포체티노 감독, 맨유 감독직을 맡기 위해 2년 반 계약에 합의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
+  "fee": null,
+  "published": "2026-11-12T23:00:00+00:00"
+ },
+ {
   "id": "9fc42f784587",
   "title": "Bruno Fernandes 'REJECTS second Man Utd contract offer' casting doubt over his future",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/alexis-mac-allister-liverpool-contract-37839810",
   "fee": null,
   "published": "2026-11-03T18:49:38+00:00"
- },
- {
-  "id": "533e0cb76a7f",
-  "title": "Man Utd plot shock January transfer for Man City star to address problem area",
-  "player": "Red Devils",
-  "title_ko": "맨시티 스타가 문제 영역을 해결하기 위해 맨유 플롯 쇼크 1월 이적",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-rayan-ait-nouri-37839606",
-  "fee": null,
-  "published": "2026-11-03T17:42:20+00:00"
  }
 ]
