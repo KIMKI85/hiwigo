@@ -1,5 +1,44 @@
 [
  {
+  "id": "9fc42f784587",
+  "title": "Bruno Fernandes 'REJECTS second Man Utd contract offer' casting doubt over his future",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스가 맨유의 두 번째 계약 제안을 '거절'하며 그의 미래에 의구심을 불러일으켰습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-fernandes-man-utd-contract-37872712",
+  "fee": null,
+  "published": "2026-11-12T22:40:50+00:00"
+ },
+ {
+  "id": "506b1ef17802",
+  "title": "Papers: Bruno rejects second Man Utd contract offer",
+  "player": null,
+  "title_ko": "기사: 브루노, 맨유의 두 번째 계약 제안 거절",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
+  "fee": null,
+  "published": "2026-11-12T21:00:00+00:00"
+ },
+ {
+  "id": "c06abf38b12c",
+  "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+  "player": "Mauricio Pochettino",
+  "title_ko": "포체티노 감독, 맨체스터 유나이티드행에 앞서 네이션스리그 경기에서 미국 대표팀 지휘할 것으로 예상",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+  "fee": null,
+  "published": "2026-11-12T14:57:56+00:00"
+ },
+ {
   "id": "23512ea06119",
   "title": "Report: PSV in contact with De Bruyne over potential January transfer",
   "player": "De Bruyne",
@@ -1259,44 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-mikel-arteta-37837689",
   "fee": null,
   "published": "2026-11-03T11:37:49+00:00"
- },
- {
-  "id": "4655024aa676",
-  "title": "Man Utd swap deal solves two problems as door opened to January transfer",
-  "player": "Michael Carrick",
-  "title_ko": "맨유 스왑 딜은 1월 이적에 대한 문이 열리면서 두 가지 문제를 해결합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lisandro-martinez-balde-37835995",
-  "fee": null,
-  "published": "2026-11-03T07:38:33+00:00"
- },
- {
-  "id": "fe7248af9fc8",
-  "title": "Everton hold off Newcastle to move into seventh",
-  "player": "Thierno Barry",
-  "title_ko": "에버턴은 뉴캐슬을 버티고 7위로 이적한다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-02T22:44:30+00:00"
- },
- {
-  "id": "3f330a6041d3",
-  "title": "Kane schwärmt: \"Wechsel zu Bayern hat mein Leben verändert\"",
-  "player": "Harry Kane",
-  "title_ko": null,
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/kane-schwaermt-wechsel-zu-bayern-hat-mein-leben-veraendert-1267970/video#omrss",
-  "fee": null,
-  "published": "2026-11-02T21:32:41+00:00"
  }
 ]

@@ -1,5 +1,44 @@
 [
  {
+  "id": "9fc42f784587",
+  "title": "Bruno Fernandes 'REJECTS second Man Utd contract offer' casting doubt over his future",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스가 맨유의 두 번째 계약 제안을 '거절'하며 그의 미래에 의구심을 불러일으켰습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-fernandes-man-utd-contract-37872712",
+  "fee": null,
+  "published": "2026-11-12T22:40:50+00:00"
+ },
+ {
+  "id": "506b1ef17802",
+  "title": "Papers: Bruno rejects second Man Utd contract offer",
+  "player": null,
+  "title_ko": "기사: 브루노, 맨유의 두 번째 계약 제안 거절",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
+  "fee": null,
+  "published": "2026-11-12T21:00:00+00:00"
+ },
+ {
+  "id": "c06abf38b12c",
+  "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+  "player": "Mauricio Pochettino",
+  "title_ko": "포체티노 감독, 맨체스터 유나이티드행에 앞서 네이션스리그 경기에서 미국 대표팀 지휘할 것으로 예상",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+  "fee": null,
+  "published": "2026-11-12T14:57:56+00:00"
+ },
+ {
   "id": "23512ea06119",
   "title": "Report: PSV in contact with De Bruyne over potential January transfer",
   "player": "De Bruyne",
