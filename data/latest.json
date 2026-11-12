@@ -1,5 +1,18 @@
 [
  {
+  "id": "b77ff4ce7477",
+  "title": "Mercato: Manchester United officialise le départ de Carrick mais pas encore l'arrivée de Pochettino",
+  "player": "Michael Carrick",
+  "title_ko": "이적 시장: 맨체스터 유나이티드, 캐릭의 이적은 공식화했지만 포체티노의 영입은 아직 공식화하지 않음",
+  "league": "EPL",
+  "status": "official",
+  "lv": 5,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-united-officialise-le-depart-de-carrick-mais-pas-encore-l-arrivee-de-pochettino_AV-202611120468.html",
+  "fee": null,
+  "published": "2026-11-12T10:59:26+00:00"
+ },
+ {
   "id": "16b7a2308f8c",
   "title": "DIRECT. Mercato: Pep Guardiola de retour sur un banc? Une sélection l'a placé en pole",
   "player": "Pep Guardiola",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-plotting-double-january-transfer-37835574",
   "fee": null,
   "published": "2026-11-02T18:03:08+00:00"
- },
- {
-  "id": "2a6354708af9",
-  "title": "Leeds fan dies after medical emergency at Man Utd clash as club pay tribute",
-  "player": null,
-  "title_ko": "맨유 충돌에서 리즈 팬이 구단 표창으로 의료 비상사태 후 사망",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/leeds-fan-manchester-united-tribute-37835843",
-  "fee": null,
-  "published": "2026-11-02T17:42:17+00:00"
  }
 ]
