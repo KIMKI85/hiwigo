@@ -1,5 +1,31 @@
 [
  {
+  "id": "e781009b6304",
+  "title": "Mercato: Lens se renseigne sur la piste Walid Regragui (mais n'oublie pas Pierre Sage)",
+  "player": "Walid Regragui",
+  "title_ko": "이적 시장: 랑스가 월리드 레그라귀 감독 영입 가능성을 타진(하지만 피에르 사주 감독도 잊지 않음)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-lens-se-renseigne-sur-la-piste-walid-regragui-mais-n-oublie-pas-pierre-sage_AP-202611130622.html",
+  "fee": null,
+  "published": "2026-11-13T15:38:18+00:00"
+ },
+ {
+  "id": "936127e197ec",
+  "title": "Man Utd 'complete signing of wonderkid striker' in first move of new era",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유, 새 시대의 첫 행보로 '원더키드 스트라이커 영입 완료'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-new-signing-pochettino-37875296",
+  "fee": null,
+  "published": "2026-11-13T15:23:11+00:00"
+ },
+ {
   "id": "f31c7daf4c26",
   "title": "Report: Milan to pursue Van Dijk if he does not renew Liverpool contract",
   "player": "Van Dijk",
@@ -1272,31 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
   "fee": null,
   "published": "2026-11-04T09:28:00+00:00"
- },
- {
-  "id": "46843552e7eb",
-  "title": "Real Madrid confident of signing Man Utd's Gabriel",
-  "player": "Utd's Gabriel",
-  "title_ko": "2015년 7월 20일에 확인함. “David De Gea: Real Madrid 'did everything' to sign Man Utd keeper”. 《BBC Sport》.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-04T09:15:15+00:00"
- },
- {
-  "id": "d5fb64a19aec",
-  "title": "Liverpool news: Trent Alexander-Arnold gets new green light as star's transfer 'expected'",
-  "player": "Trent Alexander-Arnold",
-  "title_ko": "리버풀 뉴스: 트렌트 알렉산더-아놀드가 스타의 이적 '예상대로' 새로운 녹색 빛을 받다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-alexander-arnold-chiesa-37838439",
-  "fee": null,
-  "published": "2026-11-04T05:00:00+00:00"
  }
 ]

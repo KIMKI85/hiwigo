@@ -1,5 +1,31 @@
 [
  {
+  "id": "e781009b6304",
+  "title": "Mercato: Lens se renseigne sur la piste Walid Regragui (mais n'oublie pas Pierre Sage)",
+  "player": "Walid Regragui",
+  "title_ko": "이적 시장: 랑스가 월리드 레그라귀 감독 영입 가능성을 타진(하지만 피에르 사주 감독도 잊지 않음)",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-lens-se-renseigne-sur-la-piste-walid-regragui-mais-n-oublie-pas-pierre-sage_AP-202611130622.html",
+  "fee": null,
+  "published": "2026-11-13T15:38:18+00:00"
+ },
+ {
+  "id": "936127e197ec",
+  "title": "Man Utd 'complete signing of wonderkid striker' in first move of new era",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유, 새 시대의 첫 행보로 '원더키드 스트라이커 영입 완료'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-new-signing-pochettino-37875296",
+  "fee": null,
+  "published": "2026-11-13T15:23:11+00:00"
+ },
+ {
   "id": "f31c7daf4c26",
   "title": "Report: Milan to pursue Van Dijk if he does not renew Liverpool contract",
   "player": "Van Dijk",
