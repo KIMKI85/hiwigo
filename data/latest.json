@@ -1,5 +1,31 @@
 [
  {
+  "id": "1c73761aad01",
+  "title": "\"Bien sûr qu'il m'a menti!\" Benatia règle ses comptes avec Longoria sur le mercato de l'OM",
+  "player": "Medhi Benatia",
+  "title_ko": "\"물론 그는 저에게 거짓말을 했습니다!\" 베나티아가 OM 이적 시장과 관련해 롱고리아와 갈등을 해결하다",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/bien-sur-qu-il-m-a-menti-benatia-regle-ses-comptes-avec-longoria-sur-le-mercato-de-l-om_AV-202611130661.html",
+  "fee": null,
+  "published": "2026-11-13T16:44:19+00:00"
+ },
+ {
+  "id": "573aeb1dc528",
+  "title": "Marcus Rashford causes issue as Man Utd set to trigger his team-mate's contract clause",
+  "player": "Marcus Rashford",
+  "title_ko": "맨유가 팀 동료의 계약 조항을 발동시키려 하자 마커스 래시포드가 문제를 일으킵니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-fernandes-37875619",
+  "fee": null,
+  "published": "2026-11-13T16:26:52+00:00"
+ },
+ {
   "id": "e781009b6304",
   "title": "Mercato: Lens se renseigne sur la piste Walid Regragui (mais n'oublie pas Pierre Sage)",
   "player": "Walid Regragui",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-l-ol-annonce-le-depart-de-paulo-fonseca-pour-le-sporting-cp_AV-202611040488.html",
   "fee": null,
   "published": "2026-11-04T11:34:30+00:00"
- },
- {
-  "id": "f342fd096df5",
-  "title": "DIRECT. Mercato: l'OL officialise le départ de Paulo Fonseca",
-  "player": "Paulo Fonseca",
-  "title_ko": "직접. 메르카토: l 'ol officialise le départ de Paulo Fonseca",
-  "league": "LIGUE1",
-  "status": "official",
-  "lv": 5,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-l-ol-officialise-le-depart-de-paulo-fonseca_LS-202611040431.html",
-  "fee": null,
-  "published": "2026-11-04T10:15:39+00:00"
- },
- {
-  "id": "9292b4c27175",
-  "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-  "player": "Santiago Bernabeu",
-  "title_ko": "레알 마드리드, 맨유 10대 스타 JJ 가브리엘과 구두 합의",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-  "fee": null,
-  "published": "2026-11-04T09:28:00+00:00"
  }
 ]
