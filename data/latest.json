@@ -1,5 +1,18 @@
 [
  {
+  "id": "cc33307861fa",
+  "title": "Fernandes rejects second Man Utd contract offer",
+  "player": "Bruno Fernandes",
+  "title_ko": "페르난데스, 맨유의 두 번째 계약 제안 거절",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
+  "fee": null,
+  "published": "2026-11-12T23:39:00+00:00"
+ },
+ {
   "id": "cb75c8e20010",
   "title": "\"J'espère qu'il sera prêt\", confie Zidane sur Mbappé",
   "player": "Zinedine Zidane",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/4-buts-en-moins-de-17-minutes-le-psg-signe-a-villarreal-le-meilleur-debut-de-match-de-l-histoire-de-la-ligue-des-champions_AV-202611030919.html",
   "fee": null,
   "published": "2026-11-03T20:33:21+00:00"
- },
- {
-  "id": "05b7599b5e02",
-  "title": "Alexis Mac Allister makes 'painful' Liverpool admission and makes transfer stance clear",
-  "player": "Alexis Mac Allister",
-  "title_ko": "알렉시스 맥 앨리스터 (Alexis Mac Allister) 는 '고통스러운' 리버풀 입장을 허용하고 이적 자세를 분명히합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/alexis-mac-allister-liverpool-contract-37839810",
-  "fee": null,
-  "published": "2026-11-03T18:49:38+00:00"
  }
 ]
