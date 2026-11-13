@@ -1,5 +1,18 @@
 [
  {
+  "id": "d949b6203685",
+  "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+  "player": "Nico Paz",
+  "title_ko": "맨유, 파스 영입 원해. 첼시, 쿠데 영입 목표 - 토요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-13T22:05:14+00:00"
+ },
+ {
   "id": "7e58c1564e55",
   "title": "Tare: ‘Leao priority was not football, Liverpool had Gomez agreement’",
   "player": "Igli Tare",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/mckennie-joins-juventus-group-training-az-video/",
   "fee": null,
   "published": "2026-11-04T12:59:42+00:00"
- },
- {
-  "id": "96e67c93b179",
-  "title": "Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real",
-  "player": "Toptalent Gabriel",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Bundesliga (DE)",
-  "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-04T12:44:56+00:00"
  }
 ]
