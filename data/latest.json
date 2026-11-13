@@ -1,5 +1,18 @@
 [
  {
+  "id": "7e58c1564e55",
+  "title": "Tare: ‘Leao priority was not football, Liverpool had Gomez agreement’",
+  "player": "Igli Tare",
+  "title_ko": "타레: ‘레앙의 우선순위는 축구가 아니었습니다. 리버풀은 고메스와 합의를 봤습니다.’",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/tare-leao-priority-football-liverpool-gomez/",
+  "fee": null,
+  "published": "2026-11-13T18:17:31+00:00"
+ },
+ {
   "id": "dc49c59a8654",
   "title": "Good news for Roma with Dybala on target, others ready for return",
   "player": "Paulo Dybala",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
   "fee": null,
   "published": "2026-11-04T12:44:56+00:00"
- },
- {
-  "id": "3393039d1cdb",
-  "title": "Mikel Arteta faces major Arsenal headache that could upset signing of the season",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 (Mikel Arteta) 는 시즌 계약을 방해 할 수있는 주요 아스날 두통에 직면 해 있습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-konsa-saliba-gabriel-37840736",
-  "fee": null,
-  "published": "2026-11-04T12:00:00+00:00"
  }
 ]
