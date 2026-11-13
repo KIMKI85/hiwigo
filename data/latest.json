@@ -1,5 +1,18 @@
 [
  {
+  "id": "874d0cc7e2f0",
+  "title": "Papers: Man Utd eyeing move for Como star Paz",
+  "player": null,
+  "title_ko": "기사: 맨유, 코모의 스타 파즈 영입을 고려 중",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
+  "fee": null,
+  "published": "2026-11-13T22:51:00+00:00"
+ },
+ {
   "id": "d949b6203685",
   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
   "player": "Nico Paz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-04T13:21:01+00:00"
- },
- {
-  "id": "d284c5cfd06d",
-  "title": "Video: McKennie joins Juventus group training before AZ Alkmaar clash",
-  "player": null,
-  "title_ko": "화면: AZ 알크마르 충돌 전에 유벤투스 그룹 훈련에 합류한 맥케니",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/mckennie-joins-juventus-group-training-az-video/",
-  "fee": null,
-  "published": "2026-11-04T12:59:42+00:00"
  }
 ]
