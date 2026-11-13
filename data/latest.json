@@ -1,5 +1,18 @@
 [
  {
+  "id": "08b84a200362",
+  "title": "Man Utd news LIVE: Mauricio Pochettino contract details leaked with announcement imminent",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유 뉴스 라이브: 마우리시오 포체티노 감독과의 계약 세부 사항이 유출되었으며 곧 발표될 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-news-live-pochettino-37872925",
+  "fee": null,
+  "published": "2026-11-13T07:36:11+00:00"
+ },
+ {
   "id": "f70922697892",
   "title": "\"J'espère qu'il sera prêt\", Zinédine Zidane compte sur Kylian Mbappé pour France-Turquie",
   "player": "Zinédine Zidane",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arsenal-january-transfers-signings-sales-37837948",
   "fee": "£60M",
   "published": "2026-11-04T04:00:00+00:00"
- },
- {
-  "id": "c901c71d2d00",
-  "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
-  "player": null,
-  "title_ko": "서류: 맨시티 수비수 에이트 누리와의 계약에 열중하는 맨유",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
-  "fee": null,
-  "published": "2026-11-03T23:10:00+00:00"
  }
 ]
