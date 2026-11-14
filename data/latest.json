@@ -1,5 +1,18 @@
 [
  {
+  "id": "7b6c362d4eaf",
+  "title": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
+  "player": "Mauricio Pochettino's",
+  "title_ko": "브루노 페르난데스를 대체하고 첼시의 스타 선수를 영입한 마우리시오 포체티노 감독의 드림 맨유 베스트 11",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
+  "fee": null,
+  "published": "2026-11-14T06:00:00+00:00"
+ },
+ {
   "id": "874d0cc7e2f0",
   "title": "Papers: Man Utd eyeing move for Como star Paz",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-ce-serait-un-reve-immense-le-gros-appel-du-pied-d-ibrahim-maza-au-psg_AV-202611040632.html",
   "fee": null,
   "published": "2026-11-04T14:28:11+00:00"
- },
- {
-  "id": "27cf16cf05fc",
-  "title": "Nadal set to join Real Madrid board of directors",
-  "player": "Rafael Nadal",
-  "title_ko": "나달이 레알 마드리드 이사회에 합류할 준비를 마쳤다.",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-04T13:21:01+00:00"
  }
 ]
