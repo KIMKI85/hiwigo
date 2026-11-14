@@ -1,5 +1,18 @@
 [
  {
+  "id": "9b9cda7e838d",
+  "title": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유, 계약 제안 거절 후 브루누 페르난데스 관련 중대한 딜레마에 직면",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/fernandes-man-utd-future-contract-37877080",
+  "fee": null,
+  "published": "2026-11-14T11:14:18+00:00"
+ },
+ {
   "id": "4da9aef7c48a",
   "title": "Cardinale: I want to sign the ‘best players in the world’, I’ll ‘never’ sell Milan",
   "player": "Gerry Cardinale",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-new-striker-sesko-balogun-brobbey/",
   "fee": null,
   "published": "2026-11-04T17:24:17+00:00"
- },
- {
-  "id": "798bb7e47dfa",
-  "title": "Upward path for Penrice has McInnes eager for Rangers deal",
-  "player": "James Penrice",
-  "title_ko": "Penrice의 상향 경로에는 Rangers 거래에 대한 McInnes의 열망이 있습니다.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-04T16:38:41+00:00"
  }
 ]
