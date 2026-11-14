@@ -1,5 +1,44 @@
 [
  {
+  "id": "da9e4c28cf9c",
+  "title": "Picture: Ronaldinho joins Ravenna teammates for lunch before first training",
+  "player": null,
+  "title_ko": "사진: 첫 훈련에 앞서 라벤나 팀 동료들과 점심 식사를 하는 호나우지뉴",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/picture-ronaldinho-dinner-ravenna-1st-training/",
+  "fee": null,
+  "published": "2026-11-14T13:00:01+00:00"
+ },
+ {
+  "id": "1406406b1f69",
+  "title": "Man Utd ready to spend big in January as Mauricio Pochettino picks his targets",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독이 영입 대상을 정하면서 맨유가 1월 이적 시장에서 대규모 지출을 할 준비를 마쳤습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
+  "fee": null,
+  "published": "2026-11-14T12:56:19+00:00"
+ },
+ {
+  "id": "0fe17707bb9d",
+  "title": "Spalletti’s three January transfer priorities for Juventus revealed",
+  "player": "Luciano Spalletti",
+  "title_ko": "스팔레티 감독이 밝힌 유벤투스의 1월 이적시장 우선순위 3가지",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spalletti-3-transfer-priorities-juventus-jan/",
+  "fee": null,
+  "published": "2026-11-14T12:45:57+00:00"
+ },
+ {
   "id": "9b9cda7e838d",
   "title": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
   "player": "Bruno Fernandes",
@@ -1259,44 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-05T08:12:31+00:00"
- },
- {
-  "id": "9af8195c5f3f",
-  "title": "Liverpool news: Alexis Mac Allister transfer stance clear as Premier League move desired",
-  "player": "Alexis Mac Allister",
-  "title_ko": "리버풀 뉴스: 알렉시스 맥 앨리스터 이적 스탠스, 프리미어리그 이동 희망",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-transfer-alexis-mac-allister-37843860",
-  "fee": null,
-  "published": "2026-11-05T05:00:00+00:00"
- },
- {
-  "id": "0733616f96e8",
-  "title": "Arsenal news: Transfer talks for £35m star opened as key man tipped for new role",
-  "player": "Mikel Arteta",
-  "title_ko": "아스널 뉴스: £ 35M 스타를 위한 이적 회담이 새로운 역할을 위해 팁을 준 키맨으로 열렸습니다",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-hincapie-konsa-37842952",
-  "fee": "£35M",
-  "published": "2026-11-05T04:00:00+00:00"
- },
- {
-  "id": "c3f28cee392c",
-  "title": "Juventus hope to sign new striker, eyeing Sesko, Balogun, Brobbey and more",
-  "player": "Benjamin Sesko",
-  "title_ko": "유벤투스는 세스코, 발로군, 브로비 등 새로운 스트라이커와 계약하기를 희망합니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-new-striker-sesko-balogun-brobbey/",
-  "fee": null,
-  "published": "2026-11-04T17:24:17+00:00"
  }
 ]
