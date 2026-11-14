@@ -1,5 +1,18 @@
 [
  {
+  "id": "4da9aef7c48a",
+  "title": "Cardinale: I want to sign the ‘best players in the world’, I’ll ‘never’ sell Milan",
+  "player": "Gerry Cardinale",
+  "title_ko": "카르디날레: '세계 최고의 선수'를 영입하고 싶다. 밀란을 '절대' 팔지 않을 것이다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/cardinale-sign-best-players-never-sell-milan/",
+  "fee": null,
+  "published": "2026-11-14T09:16:16+00:00"
+ },
+ {
   "id": "2b71ceb2d002",
   "title": "Man Utd news LIVE: Mauricio Pochettino's transfer targets as Bruno Fernandes snubs offer",
   "player": "Mauricio Pochettino's",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-04T16:38:41+00:00"
- },
- {
-  "id": "e7a70590db4f",
-  "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-  "player": null,
-  "title_ko": "레알 마드리드, 맨체스터 유나이티드 16세 JJ 가브리엘과 계약 체결",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-  "fee": null,
-  "published": "2026-11-04T14:48:17+00:00"
  }
 ]
