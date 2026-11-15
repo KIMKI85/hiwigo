@@ -1,5 +1,18 @@
 [
  {
+  "id": "421575247733",
+  "title": "Martin Odegaard gives honest Arsenal contract update as major rival waits in the wings",
+  "player": "Martin Odegaard",
+  "title_ko": "마틴 외데고르, 주요 경쟁팀이 대기 중인 가운데 아스널과의 계약에 대한 솔직한 소식을 전하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-martin-odegaard-contract-future-37878687",
+  "fee": null,
+  "published": "2026-11-15T10:14:23+00:00"
+ },
+ {
   "id": "c5e6c36cb97b",
   "title": "Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/mort-de-jesus-de-miguel-un-signe-d-humanite-le-syndicat-des-joueurs-espagnols-appelle-au-report-de-tous-les-matchs-ce-week-end_AD-202611050557.html",
   "fee": null,
   "published": "2026-11-05T14:21:33+00:00"
- },
- {
-  "id": "e14365a5a119",
-  "title": "Premier League cult hero looks unrecognisable as he launches bid to become new FIFA president",
-  "player": "Ramon Vega",
-  "title_ko": "프리미어 리그 컬트 영웅이 새로운 FIFA 회장이 되기 위해 입찰을 시작하면서 알아볼 수 없는 것처럼 보입니다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/fifa-president-election-ramon-vega-37845584",
-  "fee": null,
-  "published": "2026-11-05T12:42:24+00:00"
  }
 ]
