@@ -1,5 +1,18 @@
 [
  {
+  "id": "c5e6c36cb97b",
+  "title": "Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스, 마우리시오 포체티노가 '자신의 능력을 입증'할 때까지 맨유와의 계약 협상을 중단",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-contract-pochettino-37878541",
+  "fee": null,
+  "published": "2026-11-15T07:56:49+00:00"
+ },
+ {
   "id": "cc56307e64d5",
   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
   "player": "Leipzig's Antonio Nusa",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/fifa-president-election-ramon-vega-37845584",
   "fee": null,
   "published": "2026-11-05T12:42:24+00:00"
- },
- {
-  "id": "e54fabfb9843",
-  "title": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
-  "player": "Harry Kane",
-  "title_ko": "발롱도르 수상자인 해리 케인이 2029년까지 바이에른과 새로운 계약을 체결합니다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
-  "fee": null,
-  "published": "2026-11-05T08:43:01+00:00"
  }
 ]
