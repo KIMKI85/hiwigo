@@ -1,5 +1,18 @@
 [
  {
+  "id": "1c373dd550bc",
+  "title": "Mauricio Pochettino drops Man Utd transfer hint after January plan emerges",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독, 1월 이적 계획이 알려진 후 맨유 이적 힌트 제공",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mauricio-pochettino-manchester-united-usa-37883083",
+  "fee": null,
+  "published": "2026-11-16T17:36:07+00:00"
+ },
+ {
   "id": "ec294f5fba8f",
   "title": "Report Balogun offered to Milan and Juventus after Everton move collapse",
   "player": "Folarin Balogun",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/affaire-mbappe-un-premier-signe-de-rechauffement-entre-le-real-madrid-et-la-chine-apres-la-polemique-du-dictateur_AV-202611060623.html",
   "fee": null,
   "published": "2026-11-06T15:19:56+00:00"
- },
- {
-  "id": "1bf708a207b3",
-  "title": "Has Anderson lived up to the hype after Man City move?",
-  "player": "Has Anderson",
-  "title_ko": "앤더슨은 맨시티를 옮긴 후 과대 광고에 부응했습니까?",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-06T12:00:18+00:00"
  }
 ]
