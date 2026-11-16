@@ -1,5 +1,18 @@
 [
  {
+  "id": "bdd58325f43c",
+  "title": "Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel",
+  "player": "Viele Joker",
+  "title_ko": "많은 조커, 적은 성과: 젠프트의 이적에 대한 논의",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/viele-joker-wenig-ertrag-diskussion-um-senfts-wechsel-1271878/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-16T18:25:25+00:00"
+ },
+ {
   "id": "1c373dd550bc",
   "title": "Mauricio Pochettino drops Man Utd transfer hint after January plan emerges",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-kinsombi-ersetzt-cigerci-vier-wechsel-bei-dresden-1268399/artikel#omrss",
   "fee": null,
   "published": "2026-11-06T16:00:00+00:00"
- },
- {
-  "id": "4ea20a3120b3",
-  "title": "Affaire Mbappé: un premier signe de réchauffement entre le Real Madrid et la Chine après la polémique du \"dictateur\"",
-  "player": "Affaire Mbappé",
-  "title_ko": null,
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/affaire-mbappe-un-premier-signe-de-rechauffement-entre-le-real-madrid-et-la-chine-apres-la-polemique-du-dictateur_AV-202611060623.html",
-  "fee": null,
-  "published": "2026-11-06T15:19:56+00:00"
  }
 ]
