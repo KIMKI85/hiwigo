@@ -1,5 +1,18 @@
 [
  {
+  "id": "edb44dbfc820",
+  "title": "Official: Atalanta hand new contract extension to Bernasconi on 23rd birthday",
+  "player": "Lorenzo Bernasconi",
+  "title_ko": "공식 발표: 아탈란타, 베르나스코니의 23번째 생일에 계약 연장",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-bernasconi-sign-new-atalanta-contract/",
+  "fee": null,
+  "published": "2026-11-16T12:29:00+00:00"
+ },
+ {
   "id": "575c06caf30a",
   "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
   "player": "Thomas Frank",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/spence-first-england-call-up-since-inter-move/",
   "fee": "€35M",
   "published": "2026-11-06T10:39:21+00:00"
- },
- {
-  "id": "bb4d4af1b8a8",
-  "title": "Man Utd news: Agreement reached on next manager plan as Glazers make rare comment",
-  "player": "Michael Carrick",
-  "title_ko": "맨체스터 유나이티드 뉴스: Glazers가 드문 발언을 함에 따라 다음 매니저 계획에 대한 합의가 이루어졌습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-next-manager-carrick-37847182",
-  "fee": null,
-  "published": "2026-11-06T04:30:00+00:00"
  }
 ]
