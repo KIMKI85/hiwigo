@@ -1,5 +1,18 @@
 [
  {
+  "id": "a7af6915b656",
+  "title": "DIRECT. Mercato: suivez en live les infos et rumeurs du lundi 16 novembre",
+  "player": "Yannick Cahuzac",
+  "title_ko": "라이브. 이적 시장: 11월 16일 월요일의 소식과 소문을 실시간으로 확인하세요.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-lundi-16-novembre_LN-202611160243.html",
+  "fee": null,
+  "published": "2026-11-16T07:15:40+00:00"
+ },
+ {
   "id": "dafeb2435da0",
   "title": "Man Utd target Fulham's Bassey - Monday's gossip",
   "player": "Fulham's Bassey",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/spalletti-juventus-must-build-positive-signs/",
   "fee": null,
   "published": "2026-11-05T20:02:24+00:00"
- },
- {
-  "id": "e0a3a61cb0ab",
-  "title": "Jason Wilcox singled out as Man Utd rivals say transfer 'cost £25m too much'",
-  "player": "Jason Wilcox",
-  "title_ko": "맨유 라이벌인 제이슨 윌콕스 (Jason Wilcox) 는 이적료가 '£ 25M가 너무 비싸다' 고 말하면서",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-andrey-santos-transfer-37848493",
-  "fee": "£25M",
-  "published": "2026-11-05T19:25:08+00:00"
  }
 ]
