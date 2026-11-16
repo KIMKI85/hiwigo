@@ -1,5 +1,18 @@
 [
  {
+  "id": "203b060011f1",
+  "title": "Mercato: le gardien du RC Lens Robin Risser serait pisté par le Bayern Munich",
+  "player": "Robin Risser",
+  "title_ko": null,
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-gardien-du-rc-lens-robin-risser-serait-piste-par-le-bayern-munich_AV-202611160588.html",
+  "fee": null,
+  "published": "2026-11-16T14:42:14+00:00"
+ },
+ {
   "id": "bd8f3fb03ab8",
   "title": "Forget Man Utd - Lewis Hall could be a target for the world's best clubs next summer",
   "player": "Lewis Hall",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/rio-ngumoha-bayern-munich-liverpool-37850232",
   "fee": null,
   "published": "2026-11-06T11:51:37+00:00"
- },
- {
-  "id": "38fb7b53179b",
-  "title": "Man United's 26/27 home shirt is 50% off but rare flash deal ends Friday",
-  "player": null,
-  "title_ko": "맨체스터 유나이티드의 26/27 홈 경기 유니폼 상의가 50% 할인되지만 희귀한 깜짝 할인 행사가 금요일에 종료",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-2627-home-shirt-37849748",
-  "fee": null,
-  "published": "2026-11-06T10:58:24+00:00"
  }
 ]
