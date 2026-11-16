@@ -1,5 +1,18 @@
 [
  {
+  "id": "d9b1ad38d48b",
+  "title": "Rice verbally agrees new Arsenal contract",
+  "player": "Declan Rice",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
+  "fee": null,
+  "published": "2026-11-16T21:12:00+00:00"
+ },
+ {
   "id": "bdd58325f43c",
   "title": "Viele Joker, wenig Ertrag: Diskussion um Senfts Wechsel",
   "player": "Viele Joker",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/live/560677",
   "fee": null,
   "published": "2026-11-06T16:06:00+00:00"
- },
- {
-  "id": "597d3875aa3b",
-  "title": "LIVE! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
-  "player": "Vier Wechsel",
-  "title_ko": "라이브! Kinsombi ersetzt Cigerci - Vier Wechsel bei Dresden",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-kinsombi-ersetzt-cigerci-vier-wechsel-bei-dresden-1268399/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-06T16:00:00+00:00"
  }
 ]
