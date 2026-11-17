@@ -1,5 +1,18 @@
 [
  {
+  "id": "d0c3de5f6642",
+  "title": "Juventus favour Barcelona defender over Tottenham’s, but top target remains clear",
+  "player": "Il Corriere",
+  "title_ko": "유벤투스, 토트넘 수비수보다 바르셀로나 수비수를 선호하지만 최우선 영입 대상은 여전히 명확",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/juventus-favour-barcelona-defender-tottenham/",
+  "fee": null,
+  "published": "2026-11-17T14:00:03+00:00"
+ },
+ {
   "id": "f7ba8033eeff",
   "title": "Hincapie in advanced talks over new Arsenal deal",
   "player": "Piero Hincapie",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/struggling-italiano-targets-anguissa-besiktas/",
   "fee": null,
   "published": "2026-11-08T12:31:20+00:00"
- },
- {
-  "id": "453ceee3c5e2",
-  "title": "'I was happy to escape the Man Utd negativity – it was common sense to join Aston Villa'",
-  "player": "Old Trafford",
-  "title_ko": "'맨유의 부정성에서 벗어나게 되어 기뻤습니다. 애스턴 빌라에 합류하는 것은 상식이었습니다.'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cleverley-aston-villa-37843401",
-  "fee": null,
-  "published": "2026-11-08T07:00:00+00:00"
  }
 ]
