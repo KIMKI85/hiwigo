@@ -1,5 +1,18 @@
 [
  {
+  "id": "2384fc02aa0f",
+  "title": "Man Utd and Mauricio Pochettino have decision to make over wonderkid on nightmare loan",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유와 마우리시오 포체티노 감독이 악몽 같은 임대 생활을 보내고 있는 원더키드에 대해 결정을 내려야 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-arsenal-loan-obi-37885321",
+  "fee": null,
+  "published": "2026-11-17T11:59:43+00:00"
+ },
+ {
   "id": "fd9f3f6c77f1",
   "title": "Roma chase next Malen as they target unhappy Chelsea and Forest wingers",
   "player": "Il Corriere",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/lucca-deny-brother-joined-napoli-row-de-bruyne/",
   "fee": null,
   "published": "2026-11-07T17:17:17+00:00"
- },
- {
-  "id": "a5ea75d7b8b0",
-  "title": "Früherer Chatzialexiou-Wechsel nach Frankfurt naht",
-  "player": "Früherer Chatzialexiou-Wechsel",
-  "title_ko": "Früherer Chatzialexiou-Wechsel nach 프랑크푸르트 나트",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/frueherer-chatzialexiou-wechsel-nach-frankfurt-naht-1268920/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-07T12:18:49+00:00"
  }
 ]
