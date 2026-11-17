@@ -1,5 +1,31 @@
 [
  {
+  "id": "6c50a1493e4b",
+  "title": "Vitor Matos QUITS Championship promotion race with Swansea to join Strasbourg",
+  "player": "Vitor Matos",
+  "title_ko": "비토르 마투스, 스완지와의 챔피언십 승격 경쟁을 중단하고 스트라스부르에 합류",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
+  "fee": null,
+  "published": "2026-11-17T16:01:14+00:00"
+ },
+ {
+  "id": "0b4d0b1555c7",
+  "title": "Mikel Arteta delivering on Arsenal promise after Gunners strike triple agreement",
+  "player": "Mikel Arteta",
+  "title_ko": "미켈 아르테타 감독, 아스널의 트리플 계약 성사로 약속 이행",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-rice-timber-contracts-37885686",
+  "fee": null,
+  "published": "2026-11-17T16:00:00+00:00"
+ },
+ {
   "id": "0f18bf3231a4",
   "title": "Report Napoli contract with Manna extended to 2032, Allegri until 2029",
   "player": "Giovanni Manna",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-08T20:00:21+00:00"
- },
- {
-  "id": "1a017a42c886",
-  "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-  "player": null,
-  "title_ko": "고군분투하는 선덜랜드가 첼시를 꺾고 프리미어리그 최하위를 차지했다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-08T19:58:31+00:00"
- },
- {
-  "id": "2f959e49fb0f",
-  "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
-  "player": null,
-  "title_ko": "선덜랜드에게 꺾인 테피드 첼시",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
-  "fee": null,
-  "published": "2026-11-08T16:00:00+00:00"
  }
 ]
