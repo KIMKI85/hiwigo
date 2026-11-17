@@ -1,5 +1,18 @@
 [
  {
+  "id": "c28b9b42ecca",
+  "title": "Report Napoli reject PSV bid for De Bruyne",
+  "player": "De Bruyne",
+  "title_ko": "나폴리, 드 브루인에 대한 PSV의 제안 거절 보도",
+  "league": "SERIEA",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-napoli-reject-psv-bid-for-de-bruyne/",
+  "fee": null,
+  "published": "2026-11-17T12:44:46+00:00"
+ },
+ {
   "id": "a256280a34ad",
   "title": "Mercato: Wissam Ben Yedder aurait retrouvé un club en France… en Ligue 3",
   "player": "Wissam Ben Yedder",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
   "fee": null,
   "published": "2026-11-07T22:30:08+00:00"
- },
- {
-  "id": "11a3a77ac1ff",
-  "title": "Liverpool considering Verbruggen move - Sunday's gossip",
-  "player": "Bart Verbruggen",
-  "title_ko": "Verbruggen 이동을 고려한 리버풀 - 일요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-07T22:05:40+00:00"
  }
 ]
