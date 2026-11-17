@@ -1,5 +1,18 @@
 [
  {
+  "id": "32416006fc3b",
+  "title": "JJ Gabriel confirms Man Utd exit despite potential legal action over Real Madrid move",
+  "player": null,
+  "title_ko": "가브리엘, 레알 마드리드 이적 관련 잠재적 법적 조치에도 불구하고 맨유 이적 확정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-goodbye-37887776",
+  "fee": null,
+  "published": "2026-11-17T19:28:28+00:00"
+ },
+ {
   "id": "da837af96956",
   "title": "Official: Kean undergoing new medical assessment after Como setback",
   "player": "Moise Kean",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/mercato-rescape-de-l-incendie-de-crans-montana-tahirys-dos-santos-lance-sa-carriere-en-ligue-3_AV-202611090657.html",
   "fee": null,
   "published": "2026-11-09T15:26:39+00:00"
- },
- {
-  "id": "c5d979b40d7f",
-  "title": "Pavlovic ‘unlikely’ to join Serbia squad due to kidney problem",
-  "player": "Strahinja Pavlovic",
-  "title_ko": "Pavlovic은 신장 문제로 인해 세르비아 선수단에 합류할 ‘가능성 없음'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/pavlovic-unlikely-to-join-serbia-squad-kidney/",
-  "fee": null,
-  "published": "2026-11-09T14:49:34+00:00"
  }
 ]
