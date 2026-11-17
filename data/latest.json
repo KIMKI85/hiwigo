@@ -1,5 +1,31 @@
 [
  {
+  "id": "bc66c1925137",
+  "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
+  "player": null,
+  "title_ko": "스트라스부르, 스완지 감독 마토스와 5백만 파운드에 계약 체결 임박",
+  "league": "LIGUE1",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+  "fee": "£5M",
+  "published": "2026-11-17T16:35:00+00:00"
+ },
+ {
+  "id": "b03eeafd365d",
+  "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+  "player": "David Raya",
+  "title_ko": "아스널, 라야, 팀버, 힌카피에와 새 계약 체결 임박",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+  "fee": null,
+  "published": "2026-11-17T16:23:00+00:00"
+ },
+ {
   "id": "6c50a1493e4b",
   "title": "Vitor Matos QUITS Championship promotion race with Swansea to join Strasbourg",
   "player": "Vitor Matos",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-lundi-9-novembre-2026_LN-202611090138.html",
   "fee": null,
   "published": "2026-11-09T06:01:38+00:00"
- },
- {
-  "id": "f241cac2de76",
-  "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-  "player": "Fermín López",
-  "title_ko": "페르민 로페스 (Fermín López) 의 더블 스턴 아틀레티코 마드리드 (Atlético Madrid) 를 마친 후 바르셀로나 정상에서",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-  "fee": null,
-  "published": "2026-11-08T22:27:50+00:00"
- },
- {
-  "id": "9cf539131f8c",
-  "title": "Brighton breeze past ten-man Brentford to move up to second",
-  "player": "Diego Gomez's",
-  "title_ko": "10인승 브렌트포드를 지나 브라이튼 브리즈가 두 번째로 올라갑니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-08T20:00:21+00:00"
  }
 ]
