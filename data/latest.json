@@ -1,5 +1,18 @@
 [
  {
+  "id": "29d819dc6eb6",
+  "title": "Mercato: la pépite JJ Gabriel dit adieu à Manchester United, sa signature au Real Madrid imminente",
+  "player": null,
+  "title_ko": "이적 시장: 보석 같은 선수인 JJ 가브리엘이 맨체스터 유나이티드에 작별을 고하고, 곧 레알 마드리드와 계약할 예정입니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-pepite-jj-gabriel-dit-adieu-a-manchester-united-sa-signature-au-real-madrid-imminente_AN-202611170902.html",
+  "fee": null,
+  "published": "2026-11-17T19:53:49+00:00"
+ },
+ {
   "id": "32416006fc3b",
   "title": "JJ Gabriel confirms Man Utd exit despite potential legal action over Real Madrid move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-milan-reject-cisse-offer-from-brighton/",
   "fee": null,
   "published": "2026-11-09T19:33:27+00:00"
- },
- {
-  "id": "a5528d085efd",
-  "title": "Mercato: rescapé de l'incendie de Crans-Montana, Tahirys Dos Santos lance sa carrière en Ligue 3",
-  "player": "Tahirys Dos Santos",
-  "title_ko": "Mercato: rescapé de l 'incendie de Crans-Montana, Tahirys Dos Santos lance sa carrière en Ligue 3",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/mercato-rescape-de-l-incendie-de-crans-montana-tahirys-dos-santos-lance-sa-carriere-en-ligue-3_AV-202611090657.html",
-  "fee": null,
-  "published": "2026-11-09T15:26:39+00:00"
  }
 ]
