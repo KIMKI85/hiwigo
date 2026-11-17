@@ -1,5 +1,18 @@
 [
  {
+  "id": "dfd7793e8eea",
+  "title": "Openda doubt as Juventus ready to reconsider Lyon loan",
+  "player": "Lois Openda",
+  "title_ko": "유벤투스가 리옹 임대 재검토를 준비하면서 오펜다의 거취가 불투명해짐",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/openda-juventus-ready-to-reconsider-lyon-loan/",
+  "fee": null,
+  "published": "2026-11-17T18:12:10+00:00"
+ },
+ {
   "id": "c82762261d7a",
   "title": "Hutchinson: ‘My dream to get Milan contract’ and leave Nottingham Forest for good",
   "player": "Omari Hutchinson",
@@ -50,6 +63,19 @@
   "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
   "fee": null,
   "published": "2026-11-17T16:01:14+00:00"
+ },
+ {
+  "id": "b607c5841da7",
+  "title": "LIVE! Lenz köpft knapp vorbei - Vier Wechsel bei Deutschland",
+  "player": "Vier Wechsel",
+  "title_ko": "라이브! 렌츠의 헤더가 골대를 살짝 빗나갑니다 - 독일, 4명 교체",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-lenz-koepft-knapp-vorbei-vier-wechsel-bei-deutschland-1272083/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-17T16:00:36+00:00"
  },
  {
   "id": "0b4d0b1555c7",
