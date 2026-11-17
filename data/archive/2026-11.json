@@ -1,5 +1,31 @@
 [
  {
+  "id": "b9f4289e2145",
+  "title": "Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player",
+  "player": "Declan Rice",
+  "title_ko": "데클런 라이스, 아스널과 새 계약 체결로 구단 내 최고 연봉 공동 1위 선수 등극",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
+  "fee": null,
+  "published": "2026-11-17T09:19:34+00:00"
+ },
+ {
+  "id": "5b72f18b4ddd",
+  "title": "Arsenal latest: 'Agreement reached over new Raya contract'",
+  "player": null,
+  "title_ko": "아스널 최신 소식: '라야와의 새 계약에 합의'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-11-17T09:15:00+00:00"
+ },
+ {
   "id": "d9b1ad38d48b",
   "title": "Rice verbally agrees new Arsenal contract",
   "player": "Declan Rice",
