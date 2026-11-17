@@ -1,5 +1,18 @@
 [
  {
+  "id": "2fac775ca9a5",
+  "title": "Newspaper names Spalletti’s favourite January target for Juventus’ attack",
+  "player": "Alexander Sorloth",
+  "title_ko": "신문, 스팔레티 감독이 유벤투스의 공격진을 위해 원하는 1월 이적 시장 영입 대상 공개",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/spalletti-favourite-target-juventus-attack/",
+  "fee": null,
+  "published": "2026-11-17T15:26:32+00:00"
+ },
+ {
   "id": "d0c3de5f6642",
   "title": "Juventus favour Barcelona defender over Tottenham’s, but top target remains clear",
   "player": "Il Corriere",
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
   "fee": null,
   "published": "2026-11-08T14:13:00+00:00"
- },
- {
-  "id": "306e27bbb9c4",
-  "title": "Struggling Italiano targets Anguissa for Beşiktaş",
-  "player": "Struggling Italiano",
-  "title_ko": "고군분투하는 이탈리아인이 베식타쉬의 앙귀사를 노린다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/struggling-italiano-targets-anguissa-besiktas/",
-  "fee": null,
-  "published": "2026-11-08T12:31:20+00:00"
  }
 ]
