@@ -65,6 +65,19 @@
   "published": "2026-11-17T17:42:54+00:00"
  },
  {
+  "id": "cf6880d8ca26",
+  "title": "Swansea boss Matos on brink of Strasbourg move",
+  "player": "Vitor Matos",
+  "title_ko": "스완지 감독 마토스, 스트라스부르 이적 임박",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-17T16:52:59+00:00"
+ },
+ {
   "id": "bc66c1925137",
   "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-hermoso-ready-to-sign-new-roma-contract/",
   "fee": null,
   "published": "2026-11-09T20:44:26+00:00"
- },
- {
-  "id": "d5ef10946e89",
-  "title": "Report Milan reject Cisse offer from Brighton and Hove Albion, plan new contract",
-  "player": "Hove Albion",
-  "title_ko": "밀라노가 브라이튼과 호브 앨비언의 시스 제안을 거절했다고 보고하고 새로운 계약을 계획하십시오",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-milan-reject-cisse-offer-from-brighton/",
-  "fee": null,
-  "published": "2026-11-09T19:33:27+00:00"
  }
 ]
