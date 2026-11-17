@@ -1,5 +1,18 @@
 [
  {
+  "id": "c82762261d7a",
+  "title": "Hutchinson: ‘My dream to get Milan contract’ and leave Nottingham Forest for good",
+  "player": "Omari Hutchinson",
+  "title_ko": "허친슨: 'AC 밀란과 계약하는 것이 제 꿈'이며, 노팅엄 포레스트를 영원히 떠나고 싶습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/hutchinson-milan-contract-nottingham-forest/",
+  "fee": null,
+  "published": "2026-11-17T17:42:54+00:00"
+ },
+ {
   "id": "bc66c1925137",
   "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-09T12:00:11+00:00"
- },
- {
-  "id": "34cd7c364a6b",
-  "title": "DIRECT. Mercato: Pierre Sage vers la sortie, déjà un grand favori pour le remplacer",
-  "player": "Pierre Sage",
-  "title_ko": "직접. 메르카토: Pierre Sage vers la sortie, déjà un grand favori pour le remplacer",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-toutes-les-infos-et-rumeurs-du-lundi-9-novembre-2026_LN-202611090138.html",
-  "fee": null,
-  "published": "2026-11-09T06:01:38+00:00"
  }
 ]
