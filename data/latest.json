@@ -1,5 +1,18 @@
 [
  {
+  "id": "da837af96956",
+  "title": "Official: Kean undergoing new medical assessment after Como setback",
+  "player": "Moise Kean",
+  "title_ko": "공식 발표: 코모 경기에서 부상을 당한 케안, 새로운 의료 검진을 받다",
+  "league": "SERIEA",
+  "status": "official",
+  "lv": 4,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/official-kean-new-medical-assessment-como/",
+  "fee": null,
+  "published": "2026-11-17T18:22:30+00:00"
+ },
+ {
   "id": "dfd7793e8eea",
   "title": "Openda doubt as Juventus ready to reconsider Lyon loan",
   "player": "Lois Openda",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/pavlovic-unlikely-to-join-serbia-squad-kidney/",
   "fee": null,
   "published": "2026-11-09T14:49:34+00:00"
- },
- {
-  "id": "4a59fffda3d8",
-  "title": "Alisson gives agent clear Liverpool instruction as goalkeeper's deal winds down",
-  "player": null,
-  "title_ko": "Alisson은 골키퍼의 거래가 중단됨에 따라 에이전트에게 명확한 리버풀 지침을 제공합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/alisson-liverpool-contract-future-update-37858821",
-  "fee": null,
-  "published": "2026-11-09T14:19:12+00:00"
  }
 ]
