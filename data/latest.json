@@ -1,5 +1,18 @@
 [
  {
+  "id": "fd9f3f6c77f1",
+  "title": "Roma chase next Malen as they target unhappy Chelsea and Forest wingers",
+  "player": "Il Corriere",
+  "title_ko": "로마, 불만을 품은 첼시와 포레스트 윙어를 노리며 다음으로 말렌을 노린다",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-chase-next-malen-unhappy-chelsea-forest/",
+  "fee": null,
+  "published": "2026-11-17T10:18:56+00:00"
+ },
+ {
   "id": "0076674f5047",
   "title": "Juventus handed Hojbjerg boost as Marseille consider Anguissa move",
   "player": "Pierre-Emile Hojbjerg",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/frueherer-chatzialexiou-wechsel-nach-frankfurt-naht-1268920/artikel#omrss",
   "fee": null,
   "published": "2026-11-07T12:18:49+00:00"
- },
- {
-  "id": "9613831b1621",
-  "title": "Mercato: le plan du Real Madrid pour préparer l'arrivée de la pépite JJ Gabriel à 16 ans",
-  "player": null,
-  "title_ko": "Mercato: le plan du Real Madrid pour préparer l 'arrivée de la pépite JJ Gabriel à 16 ans",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-plan-du-real-madrid-pour-preparer-l-arrivee-de-la-pepite-jj-gabriel-a-16-ans_AV-202611070191.html",
-  "fee": null,
-  "published": "2026-11-07T10:02:33+00:00"
  }
 ]
