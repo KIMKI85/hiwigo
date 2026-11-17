@@ -1,5 +1,18 @@
 [
  {
+  "id": "0f18bf3231a4",
+  "title": "Report Napoli contract with Manna extended to 2032, Allegri until 2029",
+  "player": "Giovanni Manna",
+  "title_ko": "나폴리, 만나와의 계약을 2032년까지, 알레그리와의 계약을 2029년까지 연장했다는 보도",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/report-napoli-contract-manna-extended-2032/",
+  "fee": null,
+  "published": "2026-11-17T15:46:25+00:00"
+ },
+ {
   "id": "2fac775ca9a5",
   "title": "Newspaper names Spalletti’s favourite January target for Juventus’ attack",
   "player": "Alexander Sorloth",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
   "fee": null,
   "published": "2026-11-08T16:00:00+00:00"
- },
- {
-  "id": "941916a5a73b",
-  "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-  "player": "Alessia Russo",
-  "title_ko": "리버풀에서 중요한 WSL 우승을 차지하기 위해 압박감에 시달리는 아스날을 두 번 발사하면서 루소가 다시 표적에 올랐습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-  "fee": null,
-  "published": "2026-11-08T14:13:00+00:00"
  }
 ]
