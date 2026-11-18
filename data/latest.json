@@ -1,5 +1,18 @@
 [
  {
+  "id": "f34be36ce663",
+  "title": "Liverpool have lost sight of their successful transfer strategy - new investors must fix things",
+  "player": null,
+  "title_ko": "리버풀은 성공적인 이적 전략을 놓쳤습니다. 새로운 투자자들이 문제를 해결해야 합니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/liverpool-transfers-fsg-barcola-wirtz-37887675",
+  "fee": null,
+  "published": "2026-11-18T07:00:00+00:00"
+ },
+ {
   "id": "ec538f3f09a4",
   "title": "MLS: Antoine Griezmann élu recrue de l'année quatre mois après son arrivée",
   "player": "Antoine Griezmann",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
   "fee": null,
   "published": "2026-11-09T23:00:00+00:00"
- },
- {
-  "id": "e823d941b5b2",
-  "title": "Atletico target Zubimendi move - Tuesday's gossip",
-  "player": "Martin Zubimendi",
-  "title_ko": "아틀레티코 대상 주비멘디 이동 - 화요일 가십",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-09T21:13:37+00:00"
  }
 ]
