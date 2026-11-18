@@ -1,5 +1,18 @@
 [
  {
+  "id": "49d86dab13ee",
+  "title": "OL: DNCG à venir, mercato hivernal... des finances toujours fragiles mais en nette amélioration",
+  "player": "Michele Kang",
+  "title_ko": "OL: DNCG(프랑스 프로축구 재정감독위원회) 심사 예정, 겨울 이적 시장... 여전히 취약한 재정 상황이지만 확실히 개선되고 있음",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-dncg-a-venir-mercato-hivernal-des-finances-toujours-fragiles-mais-en-nette-amelioration_AV-202611180936.html",
+  "fee": null,
+  "published": "2026-11-18T19:51:29+00:00"
+ },
+ {
   "id": "ae77e912abf2",
   "title": "OM: Hojbjerg, Paixao... pourquoi les dossiers de l'été pourraient aussi agiter le mercato de janvier",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
   "fee": null,
   "published": "2026-11-11T08:28:00+00:00"
- },
- {
-  "id": "218aa7bc9929",
-  "title": "Chelsea boss Xabi Alonso plotting January transfer swoop for forgotten Arsenal star",
-  "player": "Xabi Alonso",
-  "title_ko": "첼시 보스 사비 알론소, 잊혀진 아스널 스타를 위해 1월 이적 계획",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/chelsea-arsenal-martin-zubimendi-future-37864226",
-  "fee": null,
-  "published": "2026-11-11T07:00:00+00:00"
  }
 ]
