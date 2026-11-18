@@ -1,5 +1,18 @@
 [
  {
+  "id": "a19741639073",
+  "title": "Michael Carrick gets chance of immediate return after Man Utd sacking as boss agrees move",
+  "player": "Michael Carrick",
+  "title_ko": "마이클 캐릭, 맨유 감독직 해임 후 즉각적인 복귀 기회 얻어... 구단주가 이적에 동의",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-gets-chance-immediate-37888429",
+  "fee": null,
+  "published": "2026-11-18T07:58:26+00:00"
+ },
+ {
   "id": "f34be36ce663",
   "title": "Liverpool have lost sight of their successful transfer strategy - new investors must fix things",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-manchester-united-devra-lacher-un-petit-pactole-s-il-veut-debaucher-pochettino_AV-202611100408.html",
   "fee": null,
   "published": "2026-11-10T09:48:22+00:00"
- },
- {
-  "id": "fcddb60ab308",
-  "title": "Papers: Poch would consider PL return to join Man Utd",
-  "player": null,
-  "title_ko": "논문: 포치는 맨유에 합류하기 위해 PL 복귀를 고려할 것이다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
-  "fee": null,
-  "published": "2026-11-09T23:00:00+00:00"
  }
 ]
