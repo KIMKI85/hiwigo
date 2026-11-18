@@ -1,5 +1,18 @@
 [
  {
+  "id": "0774d9dc5dfd",
+  "title": "Napoli sign agreement to purchase land for new state-of-the-art training centre",
+  "player": "President Aurelio",
+  "title_ko": "나폴리, 최신식 훈련 센터 부지 매입을 위한 계약 체결",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-sign-agreement-new-training-ground-land/",
+  "fee": null,
+  "published": "2026-11-18T14:26:31+00:00"
+ },
+ {
   "id": "74354ce63222",
   "title": "FIFA : \"Il est prêt pour ce combat\", Bana optimiste pour Diallo dans son duel avec Infantino",
   "player": "Gianni Infantino",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/de-geas-fiorentina-tenure-nearly-over-as-viola/",
   "fee": null,
   "published": "2026-11-10T13:15:00+00:00"
- },
- {
-  "id": "4f21fcbb5eff",
-  "title": "Como and Milan target Chelsea full-back Malo Gusto",
-  "player": "Malo Gusto",
-  "title_ko": "코모와 밀란, 첼시 풀백 말로 구스토 공략",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/como-and-milan-target-chelsea-malo-gusto/",
-  "fee": null,
-  "published": "2026-11-10T12:45:00+00:00"
  }
 ]
