@@ -1,5 +1,18 @@
 [
  {
+  "id": "356562d1bd98",
+  "title": "Arsenal learn of THIRD penalty VAR error as Premier League panel reach agreement",
+  "player": "Key Match Incidents",
+  "title_ko": "프리미어리그 위원회가 합의에 도달하면서 아스널이 세 번째 VAR 페널티킥 판정 오류를 인지하다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-hull-penalty-var-havertz-37889189",
+  "fee": null,
+  "published": "2026-11-18T10:35:49+00:00"
+ },
+ {
   "id": "0f547b22dfb7",
   "title": "Milan ready to open talks for Tresoldi January transfer",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
   "fee": null,
   "published": "2026-11-10T10:44:51+00:00"
- },
- {
-  "id": "117b2bc395df",
-  "title": "Inter target Calhanoglu renewal by Christmas but wage remains sticking point",
-  "player": "Hakan Calhanoglu",
-  "title_ko": "크리스마스까지 Inter target Calhanoglu renewal but wage remains sticking point",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/inter-target-calhanoglu-renewal-by-christmas/",
-  "fee": null,
-  "published": "2026-11-10T10:36:00+00:00"
  }
 ]
