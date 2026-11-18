@@ -1,5 +1,18 @@
 [
  {
+  "id": "5dc11079276b",
+  "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
+  "player": "Veerle Buurman's",
+  "title_ko": "첼시, PSG를 상대로 막판 역전승을 거두며 WCL 순위표 선두로 올라서다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
+  "fee": null,
+  "published": "2026-11-18T22:00:00+00:00"
+ },
+ {
   "id": "49d86dab13ee",
   "title": "OL: DNCG à venir, mercato hivernal... des finances toujours fragiles mais en nette amélioration",
   "player": "Michele Kang",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
   "fee": null,
   "published": "2026-11-11T08:35:08+00:00"
- },
- {
-  "id": "59e2da774729",
-  "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨체스터 유나이티드가 캐릭의 업무 보고에 동의하는 포치 거래에 근접했다.",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
-  "fee": null,
-  "published": "2026-11-11T08:28:00+00:00"
  }
 ]
