@@ -1,5 +1,31 @@
 [
  {
+  "id": "edbef902e9d1",
+  "title": "Jurgen Klopp reveals he failed in transfer bid to bring Germany star to Liverpool",
+  "player": "Jurgen Klopp",
+  "title_ko": "위르겐 클롭 감독, 독일 대표팀 스타 선수를 리버풀로 영입하려다 실패했다고 밝혀",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jurgen-klopp-liverpool-ter-stegen-37890100",
+  "fee": null,
+  "published": "2026-11-18T15:11:48+00:00"
+ },
+ {
+  "id": "306f18da1116",
+  "title": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing",
+  "player": "Alex Scott",
+  "title_ko": "아스널, 스콧 영입을 위해 첼시와 리버풀을 제치고 선수 매각 의사 있음",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale",
+  "fee": null,
+  "published": "2026-11-18T15:00:00+00:00"
+ },
+ {
   "id": "0774d9dc5dfd",
   "title": "Napoli sign agreement to purchase land for new state-of-the-art training centre",
   "player": "President Aurelio",
