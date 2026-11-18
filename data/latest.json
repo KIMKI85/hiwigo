@@ -1,5 +1,18 @@
 [
  {
+  "id": "20e54c6d2dcf",
+  "title": "Man Utd expected to back Poch in January transfer window",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유, 1월 이적 시장에서 포체티노 감독을 지원할 것으로 예상",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january",
+  "fee": null,
+  "published": "2026-11-18T12:00:00+00:00"
+ },
+ {
   "id": "c13b8ded40ba",
   "title": "\"Neymar du futur\": pourquoi le transfert du prodige JJ Gabriel au Real Madrid déchaîne l'Angleterre",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-target-3-key-signings-in-january-window/",
   "fee": null,
   "published": "2026-11-10T11:50:00+00:00"
- },
- {
-  "id": "c25e14931b8f",
-  "title": "Yildiz targets December return as Juventus plan comeback date",
-  "player": "Kenan Yildiz",
-  "title_ko": "일디즈, 유벤투스 플랜 컴백일로 12월 복귀 목표",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/yildiz-targets-december-return-as-juventus/",
-  "fee": null,
-  "published": "2026-11-10T10:52:00+00:00"
  }
 ]
