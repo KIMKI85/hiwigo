@@ -1,5 +1,31 @@
 [
  {
+  "id": "f48670115343",
+  "title": "Omar Berrada makes transfer promise to Mauricio Pochettino as Man Utd confirm financial results",
+  "player": "Omar Berrada",
+  "title_ko": "오마르 베라다, 마우리시오 포체티노 감독에게 이적 약속... 맨유, 재무 실적 발표",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-financial-results-pochettino-37894637",
+  "fee": null,
+  "published": "2026-11-19T12:29:43+00:00"
+ },
+ {
+  "id": "3687b4fa93f7",
+  "title": "Report: Roma in contact with Chelsea over Gittens deal and hope for Malen assist",
+  "player": null,
+  "title_ko": "보도: 로마, 기텐스 영입을 위해 첼시와 접촉 중이며 말렌 영입에도 도움을 받기를 희망",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-in-contact-with-chelsea-over-gittens-deal/",
+  "fee": null,
+  "published": "2026-11-19T12:27:40+00:00"
+ },
+ {
   "id": "7f54c9a2f3a0",
   "title": "Inter eye deal for Lazio defender following Stones struggles",
   "player": "John Stones",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/juventus-scamacca-to-january-striker-shortlist/",
   "fee": null,
   "published": "2026-11-11T14:15:00+00:00"
- },
- {
-  "id": "f5b10485cc48",
-  "title": "Roma open talks to extend Hermoso’s contract until 2029",
-  "player": "Mario Hermoso",
-  "title_ko": "에르모소의 계약을 2029년까지 연장하기 위한 로마 공개 회담",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-open-talks-to-extend-hermoso-contract/",
-  "fee": null,
-  "published": "2026-11-11T13:55:09+00:00"
- },
- {
-  "id": "5b8ccf07a38f",
-  "title": "Mercato: pourquoi Crystal Palace voit d'un bon œil un potentiel retour de Pierre Sage à Lens",
-  "player": "Pierre Sage",
-  "title_ko": "Mercato: pourquoi Crystal Palace voit d 'un bon œil un potentiel retour de Pierre Sage à Lens",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-pourquoi-crystal-palace-voit-d-un-bon-il-un-potentiel-retour-de-pierre-sage-a-lens_AV-202611110496.html",
-  "fee": null,
-  "published": "2026-11-11T13:31:14+00:00"
  }
 ]
