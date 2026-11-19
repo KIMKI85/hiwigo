@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c61036335d9",
+  "title": "Barcelona chief officially gives green light for Liverpool to complete £47m transfer",
+  "player": "Ronald Araujo",
+  "title_ko": "바르셀로나 구단주, 리버풀의 4,700만 파운드 이적을 공식적으로 승인",
+  "league": "LALIGA",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-barcelona-transfer-araujo-37893421",
+  "fee": "£47M",
+  "published": "2026-11-19T09:53:02+00:00"
+ },
+ {
   "id": "8705042358ad",
   "title": "DIRECT. Mercato: pourquoi Nico Paz a snobé le Real Madrid",
   "player": "Nico Paz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/carlos-augusto-wants-5m-a-year-inter-deal/",
   "fee": "€5M",
   "published": "2026-11-11T12:50:00+00:00"
- },
- {
-  "id": "2c0b51a3c3d2",
-  "title": "Man Utd strike Poch agreement as Carrick takes training",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨체스터 유나이티드 스트라이크 포치 협정 - 캐릭이 훈련을 받음",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
-  "fee": null,
-  "published": "2026-11-11T12:00:00+00:00"
  }
 ]
