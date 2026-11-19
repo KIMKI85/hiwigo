@@ -1,5 +1,18 @@
 [
  {
+  "id": "cf04832f3f37",
+  "title": "Have your say: Endrick or Tresoldi – who should Milan sign in January?",
+  "player": null,
+  "title_ko": "의견을 제시해 주세요. 엔드릭(Endrick)과 트레솔디(Tresoldi) 중 밀란이 1월에 영입해야 할 선수는 누구인가요?",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/have-your-say-endrick-or-tresoldi-who-milan/",
+  "fee": null,
+  "published": "2026-11-19T17:48:27+00:00"
+ },
+ {
   "id": "406ad5ee9d86",
   "title": "Juventus considering January loan for Hojbjerg as McKennie rumours continue",
   "player": "Olympique de",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/capello-backs-milan-move-for-tresoldi/",
   "fee": null,
   "published": "2026-11-11T14:56:27+00:00"
- },
- {
-  "id": "427fcf656452",
-  "title": "Tottenham target Ausilio: ‘I’d like to test myself in the Premier League’",
-  "player": "Piero Ausilio",
-  "title_ko": "토트넘 대상 아우실리오: ‘프리미어 리그에서 제 자신을 시험해 보고 싶습니다’",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/ausilio-linked-with-tottenham-premier-league/",
-  "fee": null,
-  "published": "2026-11-11T14:40:31+00:00"
  }
 ]
