@@ -1,5 +1,18 @@
 [
  {
+  "id": "3548cc8c3988",
+  "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+  "player": "Utd's Martinez",
+  "title_ko": "바르셀로나, 맨유의 마르티네스 영입 목표 - 금요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-19T21:57:22+00:00"
+ },
+ {
   "id": "17dbd44e2027",
   "title": "Juventus and Napoli eye January move for Manchester United’s Zirkzee",
   "player": "Joshua Zirkzee",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-sage-veut-retourner-a-lens-digard-ne-viendra-pas_AV-202611110692.html",
   "fee": null,
   "published": "2026-11-11T18:09:37+00:00"
- },
- {
-  "id": "5f062fde074a",
-  "title": "Report Camarda set for fresh loan after struggling for space at Milan",
-  "player": "Francesco Camarda",
-  "title_ko": "밀란에서 출전 기회를 잡기 위해 고군분투한 카마르다가 새로운 임대 이적을 앞두고 있다는 소식",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-camarda-loan-struggling-space-milan/",
-  "fee": null,
-  "published": "2026-11-11T17:34:15+00:00"
  }
 ]
