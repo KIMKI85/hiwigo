@@ -1,5 +1,18 @@
 [
  {
+  "id": "3970cef3dff7",
+  "title": "Mauricio Pochettino sends immediate January transfer plea to Man Utd chiefs",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독, 맨유 수뇌부에 1월 이적 시장 즉각 개입 요청",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-conference-37899329",
+  "fee": null,
+  "published": "2026-11-20T14:54:40+00:00"
+ },
+ {
   "id": "9fdc43938788",
   "title": "Gasperini: ‘A blessing to have Dybala and Soule available, too early to talk transfers’",
   "player": "Gian Piero Gasperini",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
   "fee": null,
   "published": "2026-11-12T21:00:00+00:00"
- },
- {
-  "id": "c06abf38b12c",
-  "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
-  "player": "Mauricio Pochettino",
-  "title_ko": "포체티노 감독, 맨체스터 유나이티드행에 앞서 네이션스리그 경기에서 미국 대표팀 지휘할 것으로 예상",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
-  "fee": null,
-  "published": "2026-11-12T14:57:56+00:00"
  }
 ]
