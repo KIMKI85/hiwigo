@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:29:06.411876+00:00",
+ "updated": "2026-11-20T20:31:06.640007+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -419,12 +419,12 @@
      "pos": 7,
      "team": "Athletic",
      "crest": "https://crests.football-data.org/77.png",
-     "played": 11,
+     "played": 12,
      "won": 4,
-     "draw": 4,
+     "draw": 5,
      "lost": 3,
      "gd": 4,
-     "pts": 16
+     "pts": 17
     },
     {
      "pos": 8,
@@ -472,6 +472,17 @@
     },
     {
      "pos": 12,
+     "team": "Espanyol",
+     "crest": "https://crests.football-data.org/80.png",
+     "played": 13,
+     "won": 3,
+     "draw": 4,
+     "lost": 6,
+     "gd": -1,
+     "pts": 13
+    },
+    {
+     "pos": 13,
      "team": "Alavés",
      "crest": "https://crests.football-data.org/263.png",
      "played": 12,
@@ -480,17 +491,6 @@
      "lost": 5,
      "gd": -2,
      "pts": 13
-    },
-    {
-     "pos": 13,
-     "team": "Espanyol",
-     "crest": "https://crests.football-data.org/80.png",
-     "played": 12,
-     "won": 3,
-     "draw": 3,
-     "lost": 6,
-     "gd": -1,
-     "pts": 12
     },
     {
      "pos": 14,
@@ -1043,12 +1043,12 @@
      "pos": 1,
      "team": "Bayern",
      "crest": "https://crests.football-data.org/5.png",
-     "played": 9,
+     "played": 10,
      "won": 6,
-     "draw": 3,
+     "draw": 4,
      "lost": 0,
      "gd": 20,
-     "pts": 21
+     "pts": 22
     },
     {
      "pos": 2,
@@ -1184,6 +1184,17 @@
     },
     {
      "pos": 14,
+     "team": "1. FC Köln",
+     "crest": "https://crests.football-data.org/1.png",
+     "played": 10,
+     "won": 2,
+     "draw": 4,
+     "lost": 4,
+     "gd": -4,
+     "pts": 10
+    },
+    {
+     "pos": 15,
      "team": "Augsburg",
      "crest": "https://crests.football-data.org/16.png",
      "played": 9,
@@ -1191,17 +1202,6 @@
      "draw": 3,
      "lost": 4,
      "gd": 0,
-     "pts": 9
-    },
-    {
-     "pos": 15,
-     "team": "1. FC Köln",
-     "crest": "https://crests.football-data.org/1.png",
-     "played": 9,
-     "won": 2,
-     "draw": 3,
-     "lost": 4,
-     "gd": -4,
      "pts": 9
     },
     {
@@ -1518,6 +1518,17 @@
     },
     {
      "pos": 15,
+     "team": "Troyes",
+     "crest": "https://crests.football-data.org/531.png",
+     "played": 11,
+     "won": 2,
+     "draw": 3,
+     "lost": 6,
+     "gd": -10,
+     "pts": 9
+    },
+    {
+     "pos": 16,
      "team": "Le Mans",
      "crest": "https://crests.football-data.org/535.png",
      "played": 10,
@@ -1528,20 +1539,9 @@
      "pts": 8
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Angers SCO",
      "crest": "https://crests.football-data.org/532.png",
-     "played": 10,
-     "won": 2,
-     "draw": 2,
-     "lost": 6,
-     "gd": -10,
-     "pts": 8
-    },
-    {
-     "pos": 17,
-     "team": "Troyes",
-     "crest": "https://crests.football-data.org/531.png",
      "played": 10,
      "won": 2,
      "draw": 2,
@@ -1553,12 +1553,12 @@
      "pos": 18,
      "team": "Le Havre",
      "crest": "https://crests.football-data.org/533.png",
-     "played": 10,
+     "played": 11,
      "won": 0,
-     "draw": 2,
+     "draw": 3,
      "lost": 8,
      "gd": -13,
-     "pts": 2
+     "pts": 3
     }
    ],
    "results": [
@@ -1669,15 +1669,15 @@
      "assists": 1
     },
     {
-     "name": "Boulaye Dia",
-     "team": "Stade Rennais",
+     "name": "Josh Maja",
+     "team": "Le Havre",
      "goals": 5,
      "assists": 0
     },
     {
-     "name": "Louis Mafouta",
-     "team": "Le Mans",
-     "goals": 4,
+     "name": "Boulaye Dia",
+     "team": "Stade Rennais",
+     "goals": 5,
      "assists": 0
     }
    ]
