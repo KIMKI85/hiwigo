@@ -1,5 +1,18 @@
 [
  {
+  "id": "562af19818cf",
+  "title": "Mauricio Pochettino dealt transfer blow as Man Utd target holds new contract talks",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독, 맨유의 영입 대상 선수가 새 계약 협상을 진행하며 이적에 타격을 입다",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37897440",
+  "fee": null,
+  "published": "2026-11-20T09:00:27+00:00"
+ },
+ {
   "id": "b1273c8c4edf",
   "title": "Man Utd's eight January transfer targets rated and slated as two priorities emerge",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-jeudi-12-novembre-2026_LN-202611120242.html",
   "fee": null,
   "published": "2026-11-12T07:04:16+00:00"
- },
- {
-  "id": "c556733afc5b",
-  "title": "Arsenal join Scott chase - Thursday's gossip",
-  "player": "Alex Scott",
-  "title_ko": "아스널, 스콧 영입 경쟁에 합류 - 목요일 이적설",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-11T21:38:01+00:00"
  }
 ]
