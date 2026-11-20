@@ -1,5 +1,18 @@
 [
  {
+  "id": "b1273c8c4edf",
+  "title": "Man Utd's eight January transfer targets rated and slated as two priorities emerge",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유의 1월 이적 시장 타깃 8명 평가 및 2명의 우선 영입 대상자 선정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-pochettino-37896109",
+  "fee": null,
+  "published": "2026-11-20T05:00:00+00:00"
+ },
+ {
   "id": "3548cc8c3988",
   "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
   "player": "Utd's Martinez",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-11T21:38:01+00:00"
- },
- {
-  "id": "435295b1d329",
-  "title": "Pep Guardiola thrust into Man Utd manager saga after being made 'top target'",
-  "player": "Pep Guardiola",
-  "title_ko": "펩 과르디올라, '최우선 영입 대상'으로 지목된 후 맨유 감독 사가에 뛰어들다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/guardiola-usa-pochettino-man-utd-37868110",
-  "fee": null,
-  "published": "2026-11-11T21:07:21+00:00"
  }
 ]
