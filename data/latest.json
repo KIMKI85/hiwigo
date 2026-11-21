@@ -1,5 +1,18 @@
 [
  {
+  "id": "ec8c5c917707",
+  "title": "Aston Villa latest: 'Replacements were signed - but not for Tielemans'",
+  "player": null,
+  "title_ko": "애스턴 빌라 최신 소식: '대체 선수 영입 완료 - 하지만 틸레만스를 대체하기 위한 것은 아님'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+  "fee": null,
+  "published": "2026-11-21T17:52:00+00:00"
+ },
+ {
   "id": "842d6c38095d",
   "title": "Warning signs for Chelsea as Liverpool push for opener LIVE!",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-lens-se-renseigne-sur-la-piste-walid-regragui-mais-n-oublie-pas-pierre-sage_AP-202611130622.html",
   "fee": null,
   "published": "2026-11-13T15:38:18+00:00"
- },
- {
-  "id": "936127e197ec",
-  "title": "Man Utd 'complete signing of wonderkid striker' in first move of new era",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨유, 새 시대의 첫 행보로 '원더키드 스트라이커 영입 완료'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-new-signing-pochettino-37875296",
-  "fee": null,
-  "published": "2026-11-13T15:23:11+00:00"
  }
 ]
