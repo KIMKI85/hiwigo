@@ -1,5 +1,18 @@
 [
  {
+  "id": "1a9bc91c0b9a",
+  "title": "LIVE! Weiner patzt, Wolfsburg führt - Wagner wechselt doppelt",
+  "player": "Der Tabellenzweite Nürnberg",
+  "title_ko": "라이브! 바이너가 실수를 저지르고, 볼프스부르크가 앞서 나갑니다 - 바그너가 두 명을 교체합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-weiner-patzt-wolfsburg-fuehrt-wagner-wechselt-doppelt-1272756/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T11:14:06+00:00"
+ },
+ {
   "id": "a8d5b6acfc9c",
   "title": "Osimhen keen on Man Utd move - Saturday's gossip",
   "player": "Victor Osimhen",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-milan-to-pursue-van-dijk-free-transfer/",
   "fee": null,
   "published": "2026-11-13T14:11:20+00:00"
- },
- {
-  "id": "d06f2b2437f2",
-  "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Grealish apologises to Everton: football – live",
-  "player": "Mail David",
-  "title_ko": "포체티노, 맨체스터 유나이티드와 2년 반 계약 체결 예정. 그릴리시, 에버턴에 사과: 축구 – 실시간",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Guardian Football",
-  "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-  "fee": null,
-  "published": "2026-11-13T09:39:06+00:00"
  }
 ]
