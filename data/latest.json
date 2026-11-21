@@ -26,6 +26,19 @@
   "published": "2026-11-21T17:52:00+00:00"
  },
  {
+  "id": "7fa24a003d9d",
+  "title": "LIVE! Auch Schalke wechselt - Mittelstädt sieht erste Gelbe Karte der Partie",
+  "player": "Auch Schalke",
+  "title_ko": "라이브! 샬케도 교체합니다 - 미텔슈테트가 경기 첫 번째 옐로 카드를 받습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-auch-schalke-wechselt-mittelstaedt-sieht-erste-gelbe-karte-der-partie-1272758/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T17:00:34+00:00"
+ },
+ {
   "id": "f64b992232e0",
   "title": "LIVE! Wiederanpfiff ohne Wechsel - Schalker Führung liegt in der Luft",
   "player": "Schalker Führung",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/good-news-for-roma-with-dybala-on-target-ready/",
   "fee": null,
   "published": "2026-11-13T17:40:36+00:00"
- },
- {
-  "id": "1c73761aad01",
-  "title": "\"Bien sûr qu'il m'a menti!\" Benatia règle ses comptes avec Longoria sur le mercato de l'OM",
-  "player": "Medhi Benatia",
-  "title_ko": "\"물론 그는 저에게 거짓말을 했습니다!\" 베나티아가 OM 이적 시장과 관련해 롱고리아와 갈등을 해결하다",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/bien-sur-qu-il-m-a-menti-benatia-regle-ses-comptes-avec-longoria-sur-le-mercato-de-l-om_AV-202611130661.html",
-  "fee": null,
-  "published": "2026-11-13T16:44:19+00:00"
  }
 ]
