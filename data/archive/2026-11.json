@@ -1,5 +1,18 @@
 [
  {
+  "id": "63b66cac7cee",
+  "title": "LIVE! Richtungweisendes Duell? Drei Wechsel bei St. Pauli",
+  "player": "Richtungweisendes Duell",
+  "title_ko": "라이브! 방향을 제시하는 대결? 장크트 파울리에서 3명의 선수 교체",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-richtungweisendes-duell-drei-wechsel-bei-st-pauli-1272810/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T18:39:51+00:00"
+ },
+ {
   "id": "ec8c5c917707",
   "title": "Aston Villa latest: 'Replacements were signed - but not for Tielemans'",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-11-21T17:52:00+00:00"
+ },
+ {
+  "id": "f64b992232e0",
+  "title": "LIVE! Wiederanpfiff ohne Wechsel - Schalker Führung liegt in der Luft",
+  "player": "Schalker Führung",
+  "title_ko": "라이브! 교체 없이 다시 시작 - 샬케의 리드가 임박했습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-wiederanpfiff-ohne-wechsel-schalker-fuehrung-liegt-in-der-luft-1272758/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T17:00:34+00:00"
  },
  {
   "id": "842d6c38095d",

@@ -1,5 +1,18 @@
 [
  {
+  "id": "63b66cac7cee",
+  "title": "LIVE! Richtungweisendes Duell? Drei Wechsel bei St. Pauli",
+  "player": "Richtungweisendes Duell",
+  "title_ko": "라이브! 방향을 제시하는 대결? 장크트 파울리에서 3명의 선수 교체",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-richtungweisendes-duell-drei-wechsel-bei-st-pauli-1272810/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T18:39:51+00:00"
+ },
+ {
   "id": "ec8c5c917707",
   "title": "Aston Villa latest: 'Replacements were signed - but not for Tielemans'",
   "player": null,
@@ -11,6 +24,19 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-11-21T17:52:00+00:00"
+ },
+ {
+  "id": "f64b992232e0",
+  "title": "LIVE! Wiederanpfiff ohne Wechsel - Schalker Führung liegt in der Luft",
+  "player": "Schalker Führung",
+  "title_ko": "라이브! 교체 없이 다시 시작 - 샬케의 리드가 임박했습니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-wiederanpfiff-ohne-wechsel-schalker-fuehrung-liegt-in-der-luft-1272758/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T17:00:34+00:00"
  },
  {
   "id": "842d6c38095d",
@@ -1272,31 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/bien-sur-qu-il-m-a-menti-benatia-regle-ses-comptes-avec-longoria-sur-le-mercato-de-l-om_AV-202611130661.html",
   "fee": null,
   "published": "2026-11-13T16:44:19+00:00"
- },
- {
-  "id": "573aeb1dc528",
-  "title": "Marcus Rashford causes issue as Man Utd set to trigger his team-mate's contract clause",
-  "player": "Marcus Rashford",
-  "title_ko": "맨유가 팀 동료의 계약 조항을 발동시키려 하자 마커스 래시포드가 문제를 일으킵니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-fernandes-37875619",
-  "fee": null,
-  "published": "2026-11-13T16:26:52+00:00"
- },
- {
-  "id": "e781009b6304",
-  "title": "Mercato: Lens se renseigne sur la piste Walid Regragui (mais n'oublie pas Pierre Sage)",
-  "player": "Walid Regragui",
-  "title_ko": "이적 시장: 랑스가 월리드 레그라귀 감독 영입 가능성을 타진(하지만 피에르 사주 감독도 잊지 않음)",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-lens-se-renseigne-sur-la-piste-walid-regragui-mais-n-oublie-pas-pierre-sage_AP-202611130622.html",
-  "fee": null,
-  "published": "2026-11-13T15:38:18+00:00"
  }
 ]
