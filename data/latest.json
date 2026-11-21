@@ -26,6 +26,19 @@
   "published": "2026-11-21T17:52:00+00:00"
  },
  {
+  "id": "78aca3d0433d",
+  "title": "LIVE! Karius rettet gegen Führich - Muslic wechselt defensiv",
+  "player": null,
+  "title_ko": "라이브! 카리우스가 퓌리히의 슈팅을 막아냅니다 - 무슬리치가 수비적으로 교체합니다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-karius-rettet-gegen-fuehrich-muslic-wechselt-defensiv-1272758/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-21T17:00:34+00:00"
+ },
+ {
   "id": "7fa24a003d9d",
   "title": "LIVE! Auch Schalke wechselt - Mittelstädt sieht erste Gelbe Karte der Partie",
   "player": "Auch Schalke",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/tare-leao-priority-football-liverpool-gomez/",
   "fee": null,
   "published": "2026-11-13T18:17:31+00:00"
- },
- {
-  "id": "dc49c59a8654",
-  "title": "Good news for Roma with Dybala on target, others ready for return",
-  "player": "Paulo Dybala",
-  "title_ko": "디발라가 골을 넣고 다른 선수들도 복귀 준비를 마치면서 로마에 좋은 소식이 전해졌습니다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/good-news-for-roma-with-dybala-on-target-ready/",
-  "fee": null,
-  "published": "2026-11-13T17:40:36+00:00"
  }
 ]
