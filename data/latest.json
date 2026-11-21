@@ -1,5 +1,18 @@
 [
  {
+  "id": "9de591a6303e",
+  "title": "Roma race to extend Malen’s contract after four-goal show at Parma",
+  "player": "Donyell Malen",
+  "title_ko": "파르마전에서 4골을 터뜨린 말렌의 계약 연장을 위해 로마가 서두르고 있습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/roma-race-to-extend-malen-contract/",
+  "fee": null,
+  "published": "2026-11-21T19:54:02+00:00"
+ },
+ {
   "id": "63b66cac7cee",
   "title": "LIVE! Richtungweisendes Duell? Drei Wechsel bei St. Pauli",
   "player": "Richtungweisendes Duell",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-13T22:05:14+00:00"
- },
- {
-  "id": "7e58c1564e55",
-  "title": "Tare: ‘Leao priority was not football, Liverpool had Gomez agreement’",
-  "player": "Igli Tare",
-  "title_ko": "타레: ‘레앙의 우선순위는 축구가 아니었습니다. 리버풀은 고메스와 합의를 봤습니다.’",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/tare-leao-priority-football-liverpool-gomez/",
-  "fee": null,
-  "published": "2026-11-13T18:17:31+00:00"
  }
 ]
