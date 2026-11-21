@@ -1,5 +1,18 @@
 [
  {
+  "id": "bca0703a59ba",
+  "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+  "player": "Van de Donk",
+  "title_ko": "WSL 요약: 리버풀 골키퍼에 막힌 첼시, 3위로 올라선 런던 시티",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+  "fee": null,
+  "published": "2026-11-21T20:54:39+00:00"
+ },
+ {
   "id": "9de591a6303e",
   "title": "Roma race to extend Malen’s contract after four-goal show at Parma",
   "player": "Donyell Malen",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
   "fee": null,
   "published": "2026-11-13T22:51:00+00:00"
- },
- {
-  "id": "d949b6203685",
-  "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-  "player": "Nico Paz",
-  "title_ko": "맨유, 파스 영입 원해. 첼시, 쿠데 영입 목표 - 토요일 가십",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-13T22:05:14+00:00"
  }
 ]

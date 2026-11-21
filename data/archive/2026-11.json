@@ -1,5 +1,18 @@
 [
  {
+  "id": "bca0703a59ba",
+  "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+  "player": "Van de Donk",
+  "title_ko": "WSL 요약: 리버풀 골키퍼에 막힌 첼시, 3위로 올라선 런던 시티",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+  "fee": null,
+  "published": "2026-11-21T20:54:39+00:00"
+ },
+ {
   "id": "9de591a6303e",
   "title": "Roma race to extend Malen’s contract after four-goal show at Parma",
   "player": "Donyell Malen",
