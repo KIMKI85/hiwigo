@@ -1,5 +1,18 @@
 [
  {
+  "id": "f59e529a6b0f",
+  "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스가 맨체스터 유나이티드와의 새로운 계약 협상이 중단되었다고 밝혔습니다.",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+  "fee": null,
+  "published": "2026-11-22T11:33:54+00:00"
+ },
+ {
   "id": "d0e87445e651",
   "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/picture-ronaldinho-dinner-ravenna-1st-training/",
   "fee": null,
   "published": "2026-11-14T13:00:01+00:00"
- },
- {
-  "id": "1406406b1f69",
-  "title": "Man Utd ready to spend big in January as Mauricio Pochettino picks his targets",
-  "player": "Mauricio Pochettino",
-  "title_ko": "마우리시오 포체티노 감독이 영입 대상을 정하면서 맨유가 1월 이적 시장에서 대규모 지출을 할 준비를 마쳤습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
-  "fee": null,
-  "published": "2026-11-14T12:56:19+00:00"
  }
 ]
