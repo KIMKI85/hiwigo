@@ -1,5 +1,18 @@
 [
  {
+  "id": "d0e87445e651",
+  "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스, 맨체스터 유나이티드와의 계약 협상 중단 – 경기 당일 라이브",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+  "fee": null,
+  "published": "2026-11-22T10:04:45+00:00"
+ },
+ {
   "id": "ced7f2a99463",
   "title": "Bruno Fernandes breaks silence on Man Utd future after double contract rejection",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
   "fee": null,
   "published": "2026-11-14T12:56:19+00:00"
- },
- {
-  "id": "0fe17707bb9d",
-  "title": "Spalletti’s three January transfer priorities for Juventus revealed",
-  "player": "Luciano Spalletti",
-  "title_ko": "스팔레티 감독이 밝힌 유벤투스의 1월 이적시장 우선순위 3가지",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/spalletti-3-transfer-priorities-juventus-jan/",
-  "fee": null,
-  "published": "2026-11-14T12:45:57+00:00"
  }
 ]
