@@ -1,5 +1,18 @@
 [
  {
+  "id": "9c3fdca7f255",
+  "title": "Bruno Fernandes and Kobbie Mainoo in complete agreement as they rip into Liverpool officials",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스와 코비 마이누, 리버풀 관계자들을 비난하며 완벽한 의견 일치를 보이다",
+  "league": "EPL",
+  "status": "official",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-utd-mainoo-yoro-37904426",
+  "fee": null,
+  "published": "2026-11-22T19:06:49+00:00"
+ },
+ {
   "id": "ad8d62f843a9",
   "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
   "fee": "£66M",
   "published": "2026-11-14T21:48:45+00:00"
- },
- {
-  "id": "46aa0cde54d7",
-  "title": "Rice close to signing new Arsenal contract",
-  "player": "Declan Rice",
-  "title_ko": "라이스, 아스널과 새 계약 체결 임박",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-14T20:40:35+00:00"
  }
 ]
