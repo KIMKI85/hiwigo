@@ -1,5 +1,18 @@
 [
  {
+  "id": "49ac4e88486f",
+  "title": "'Armstrong plays down talk of Rangers transfer' - gossip",
+  "player": "Dinamo Bucharest",
+  "title_ko": "'암스트롱, 레인저스 이적설을 축소하다' - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-22T09:10:02+00:00"
+ },
+ {
   "id": "42a9fa9b4926",
   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
   "player": "Bruno Fernandes",

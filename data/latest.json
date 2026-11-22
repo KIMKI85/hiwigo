@@ -1,5 +1,18 @@
 [
  {
+  "id": "49ac4e88486f",
+  "title": "'Armstrong plays down talk of Rangers transfer' - gossip",
+  "player": "Dinamo Bucharest",
+  "title_ko": "'암스트롱, 레인저스 이적설을 축소하다' - 가십",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-22T09:10:02+00:00"
+ },
+ {
   "id": "42a9fa9b4926",
   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/fernandes-man-utd-future-contract-37877080",
   "fee": null,
   "published": "2026-11-14T11:14:18+00:00"
- },
- {
-  "id": "4da9aef7c48a",
-  "title": "Cardinale: I want to sign the ‘best players in the world’, I’ll ‘never’ sell Milan",
-  "player": "Gerry Cardinale",
-  "title_ko": "카르디날레: '세계 최고의 선수'를 영입하고 싶다. 밀란을 '절대' 팔지 않을 것이다.",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/cardinale-sign-best-players-never-sell-milan/",
-  "fee": null,
-  "published": "2026-11-14T09:16:16+00:00"
  }
 ]
