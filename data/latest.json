@@ -1,5 +1,18 @@
 [
  {
+  "id": "42a9fa9b4926",
+  "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+  "player": "Bruno Fernandes",
+  "title_ko": "'지금은 적절한 시기가 아니다' - 페르난데스, 맨유와의 계약 협상 중단",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-22T08:41:20+00:00"
+ },
+ {
   "id": "d764d325552d",
   "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/cardinale-sign-best-players-never-sell-milan/",
   "fee": null,
   "published": "2026-11-14T09:16:16+00:00"
- },
- {
-  "id": "2b71ceb2d002",
-  "title": "Man Utd news LIVE: Mauricio Pochettino's transfer targets as Bruno Fernandes snubs offer",
-  "player": "Mauricio Pochettino's",
-  "title_ko": "맨유 뉴스 라이브: 브루노 페르난데스가 제안을 거절한 가운데 마우리시오 포체티노 감독의 영입 대상",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-transfers-37876833",
-  "fee": null,
-  "published": "2026-11-14T07:55:29+00:00"
  }
 ]
