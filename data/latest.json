@@ -1,5 +1,18 @@
 [
  {
+  "id": "ced7f2a99463",
+  "title": "Bruno Fernandes breaks silence on Man Utd future after double contract rejection",
+  "player": "Bruno Fernandes",
+  "title_ko": "브루노 페르난데스, 두 차례의 계약 거절 후 맨유에서의 미래에 대해 침묵을 깨고 입을 열다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-contract-37903138",
+  "fee": null,
+  "published": "2026-11-22T09:45:10+00:00"
+ },
+ {
   "id": "49ac4e88486f",
   "title": "'Armstrong plays down talk of Rangers transfer' - gossip",
   "player": "Dinamo Bucharest",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/spalletti-3-transfer-priorities-juventus-jan/",
   "fee": null,
   "published": "2026-11-14T12:45:57+00:00"
- },
- {
-  "id": "9b9cda7e838d",
-  "title": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
-  "player": "Bruno Fernandes",
-  "title_ko": "맨유, 계약 제안 거절 후 브루누 페르난데스 관련 중대한 딜레마에 직면",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/fernandes-man-utd-future-contract-37877080",
-  "fee": null,
-  "published": "2026-11-14T11:14:18+00:00"
  }
 ]
