@@ -1,5 +1,31 @@
 [
  {
+  "id": "9936842a2446",
+  "title": "Arsenal face major transfer headache ahead of January after star's serious injury",
+  "player": null,
+  "title_ko": "스타 선수의 심각한 부상으로 인해 아스널이 1월 이적 시장을 앞두고 큰 고민에 빠졌습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-january-target-psg-latest-37904827",
+  "fee": null,
+  "published": "2026-11-23T07:37:03+00:00"
+ },
+ {
+  "id": "079fa3df7177",
+  "title": "DIRECT. Mercato: suivez les infos et rumeurs du 23 novembre 2026 sur le marché des transferts en live",
+  "player": null,
+  "title_ko": "라이브. 이적 시장: 2026년 11월 23일 이적 시장 관련 뉴스 및 소식을 실시간으로 확인하세요.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-les-infos-et-rumeurs-du-23-novembre-2026-sur-le-marche-des-transferts-en-live_LN-202611230274.html",
+  "fee": null,
+  "published": "2026-11-23T07:27:21+00:00"
+ },
+ {
   "id": "cb9b67dab534",
   "title": "Man Utd plotting Toney move - Monday's gossip",
   "player": "Ivan Toney",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/three-clubs-interested-in-juventus-zhegrova/",
   "fee": null,
   "published": "2026-11-15T12:36:57+00:00"
- },
- {
-  "id": "421575247733",
-  "title": "Martin Odegaard gives honest Arsenal contract update as major rival waits in the wings",
-  "player": "Martin Odegaard",
-  "title_ko": "마틴 외데고르, 주요 경쟁팀이 대기 중인 가운데 아스널과의 계약에 대한 솔직한 소식을 전하다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-martin-odegaard-contract-future-37878687",
-  "fee": null,
-  "published": "2026-11-15T10:14:23+00:00"
- },
- {
-  "id": "c5e6c36cb97b",
-  "title": "Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'",
-  "player": "Bruno Fernandes",
-  "title_ko": "브루노 페르난데스, 마우리시오 포체티노가 '자신의 능력을 입증'할 때까지 맨유와의 계약 협상을 중단",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-contract-pochettino-37878541",
-  "fee": null,
-  "published": "2026-11-15T07:56:49+00:00"
  }
 ]
