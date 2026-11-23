@@ -1,5 +1,18 @@
 [
  {
+  "id": "e6853de02d52",
+  "title": "Carra: Chelsea must sign centre-back or achieve nothing",
+  "player": "Jamie Carragher",
+  "title_ko": "캐러거: 첼시는 센터백을 영입해야 한다. 그렇지 않으면 아무것도 이룰 수 없다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13615767/chelsea-must-sign-centre-back-or-will-achieve-nothing-with-levi-colwill-and-wesley-fofana-says-jamie-carragher",
+  "fee": null,
+  "published": "2026-11-23T19:37:00+00:00"
+ },
+ {
   "id": "4d806c2a2091",
   "title": "Tottenham avoid Chelsea transfer battle with Luca Williams-Barnett set to sign new contract",
   "player": "Luca Williams-Barnett",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/viele-joker-wenig-ertrag-diskussion-um-senfts-wechsel-1271878/artikel#omrss",
   "fee": null,
   "published": "2026-11-16T18:25:25+00:00"
- },
- {
-  "id": "1c373dd550bc",
-  "title": "Mauricio Pochettino drops Man Utd transfer hint after January plan emerges",
-  "player": "Mauricio Pochettino",
-  "title_ko": "마우리시오 포체티노 감독, 1월 이적 계획이 알려진 후 맨유 이적 힌트 제공",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/mauricio-pochettino-manchester-united-usa-37883083",
-  "fee": null,
-  "published": "2026-11-16T17:36:07+00:00"
  }
 ]
