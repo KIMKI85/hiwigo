@@ -1,5 +1,18 @@
 [
  {
+  "id": "636b369927d5",
+  "title": "Bruno Guimaraes spills the beans on dressing room apology after Arsenal transfer",
+  "player": "Bruno Guimaraes",
+  "title_ko": "브루노 기마랑스가 아스널 이적 후 라커룸에서 사과한 사실을 털어놓다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-bruno-guimaraes-apology-newcastle-37907390",
+  "fee": null,
+  "published": "2026-11-23T16:31:38+00:00"
+ },
+ {
   "id": "5ed699a33faf",
   "title": "Milan strike €5m agreement with Eintracht Frankfurt for new Head of Football Krösche",
   "player": "Football Krösche",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-balogun-offered-to-milan-and-juventus/",
   "fee": null,
   "published": "2026-11-16T16:40:42+00:00"
- },
- {
-  "id": "203b060011f1",
-  "title": "Mercato: le gardien du RC Lens Robin Risser serait pisté par le Bayern Munich",
-  "player": "Robin Risser",
-  "title_ko": null,
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-gardien-du-rc-lens-robin-risser-serait-piste-par-le-bayern-munich_AV-202611160588.html",
-  "fee": null,
-  "published": "2026-11-16T14:42:14+00:00"
  }
 ]
