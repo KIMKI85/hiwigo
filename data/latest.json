@@ -1,5 +1,18 @@
 [
  {
+  "id": "aa909907f2de",
+  "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
+  "player": null,
+  "title_ko": "기사: 1월 이적 예산이 공개되면서 브렌트퍼드 수비수가 맨유의 영입 대상으로 부상",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
+  "fee": null,
+  "published": "2026-11-23T22:40:00+00:00"
+ },
+ {
   "id": "a68887688142",
   "title": "Mauricio Pochettino decides on first Man Utd transfer after Liverpool mauling",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
   "fee": null,
   "published": "2026-11-17T09:15:00+00:00"
- },
- {
-  "id": "d9b1ad38d48b",
-  "title": "Rice verbally agrees new Arsenal contract",
-  "player": "Declan Rice",
-  "title_ko": null,
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
-  "fee": null,
-  "published": "2026-11-16T21:12:00+00:00"
  }
 ]
