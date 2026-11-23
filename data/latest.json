@@ -1,5 +1,18 @@
 [
  {
+  "id": "cc5a42c81934",
+  "title": "Wechsel in Leipzigs Abwehr: Lukeba fällt aus - Esteve vor Premiere",
+  "player": "Leipzigs Abwehr",
+  "title_ko": "라이프치히 수비진에 변화: 루케바 결장 - 에스테베 데뷔 예정",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/wechsel-in-leipzigs-abwehr-lukeba-faellt-aus-esteve-vor-premiere-1274247/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-23T13:06:06+00:00"
+ },
+ {
   "id": "d936c7392ba9",
   "title": "Woltemade better than any Newcastle attacker during Juventus loan spell",
   "player": "Nick Woltemade",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-lundi-16-novembre_LN-202611160243.html",
   "fee": null,
   "published": "2026-11-16T07:15:40+00:00"
- },
- {
-  "id": "e2d33eff2889",
-  "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
-  "player": null,
-  "title_ko": "기사: 팀버, 라야, 힌카피에가 아스널과 새 계약 체결 예정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk",
-  "fee": null,
-  "published": "2026-11-15T22:45:00+00:00"
  }
 ]
