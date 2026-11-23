@@ -1,5 +1,18 @@
 [
  {
+  "id": "85eb115f950a",
+  "title": "Blessure de Désiré Doué: le PSG observe avant d’agir, mais ses pistes pour le mercato sont déjà identifiées",
+  "player": "Désiré Doué",
+  "title_ko": "데지레 두에의 부상: PSG는 행동에 앞서 관망 중이지만, 이적 시장을 위한 후보는 이미 파악했습니다.",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/blessure-de-desire-doue-le-psg-observe-avant-d-agir-mais-ses-pistes-pour-le-mercato-sont-deja-identifiees_AV-202611230423.html",
+  "fee": null,
+  "published": "2026-11-23T10:07:25+00:00"
+ },
+ {
   "id": "1824ff68ef12",
   "title": "Papers: Bassey seeking new Fulham deal rather than Man Utd move",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-15T20:47:44+00:00"
- },
- {
-  "id": "dce225bf354a",
-  "title": "Man Utd line up Premier League star for January transfer in boost for Mauricio Pochettino",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨유, 마우리시오 포체티노 감독을 지원하기 위해 1월 이적 시장에서 프리미어리그 스타 영입을 준비 중",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-pochettino-bassey-37879581",
-  "fee": null,
-  "published": "2026-11-15T16:24:53+00:00"
  }
 ]
