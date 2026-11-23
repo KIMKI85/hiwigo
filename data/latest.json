@@ -1,5 +1,18 @@
 [
  {
+  "id": "e18e73aceb4d",
+  "title": "Große Überraschung: Berger wechselt im Winter zu Union",
+  "player": "Ann-Katrin Berger",
+  "title_ko": "깜짝 놀랄 소식: 베르거, 겨울 이적 시장에서 우니온으로 이적",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/grosse-ueberraschung-berger-wechselt-im-winter-zu-union-1274205/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-23T15:07:20+00:00"
+ },
+ {
   "id": "909fe0323257",
   "title": "Video: How Ramos started and finished Milan’s second-goal move",
   "player": "How Ramos",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/forget-man-utd-lewis-hall-37881933",
   "fee": null,
   "published": "2026-11-16T12:54:59+00:00"
- },
- {
-  "id": "edb44dbfc820",
-  "title": "Official: Atalanta hand new contract extension to Bernasconi on 23rd birthday",
-  "player": "Lorenzo Bernasconi",
-  "title_ko": "공식 발표: 아탈란타, 베르나스코니의 23번째 생일에 계약 연장",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-bernasconi-sign-new-atalanta-contract/",
-  "fee": null,
-  "published": "2026-11-16T12:29:00+00:00"
  }
 ]
