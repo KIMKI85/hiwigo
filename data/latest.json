@@ -1,5 +1,18 @@
 [
  {
+  "id": "1824ff68ef12",
+  "title": "Papers: Bassey seeking new Fulham deal rather than Man Utd move",
+  "player": null,
+  "title_ko": "기사: 바시, 맨유 이적보다는 풀럼과의 새로운 계약을 원해",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13615514/man-utd-transfer-news-fulham-defender-calvin-bassey-is-in-talks-over-new-contract-amid-man-utd-links-paper-talk",
+  "fee": null,
+  "published": "2026-11-23T08:00:00+00:00"
+ },
+ {
   "id": "9936842a2446",
   "title": "Arsenal face major transfer headache ahead of January after star's serious injury",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-pochettino-bassey-37879581",
   "fee": null,
   "published": "2026-11-15T16:24:53+00:00"
- },
- {
-  "id": "b080d83e1806",
-  "title": "Three clubs interested in January transfer for Juventus winger Zhegrova",
-  "player": "Edon Zhegrova",
-  "title_ko": "1월 이적 시장에서 유벤투스 윙어 제그로바 영입에 관심을 보이는 세 구단",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/three-clubs-interested-in-juventus-zhegrova/",
-  "fee": null,
-  "published": "2026-11-15T12:36:57+00:00"
  }
 ]
