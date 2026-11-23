@@ -1,5 +1,31 @@
 [
  {
+  "id": "909fe0323257",
+  "title": "Video: How Ramos started and finished Milan’s second-goal move",
+  "player": "How Ramos",
+  "title_ko": "동영상: 라모스가 밀란의 두 번째 득점 장면을 시작하고 마무리한 방법",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-ramos-started-finished-milan-2nd-goal/",
+  "fee": null,
+  "published": "2026-11-23T14:29:45+00:00"
+ },
+ {
+  "id": "5bc216be0222",
+  "title": "Krösche steht offenbar vor Wechsel nach Mailand",
+  "player": "Sportvorstand von Eintracht",
+  "title_ko": "크뢰셰, 밀라노 이적 임박",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/kroesche-steht-offenbar-vor-wechsel-nach-mailand-1274353/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-23T14:17:57+00:00"
+ },
+ {
   "id": "cc5a42c81934",
   "title": "Wechsel in Leipzigs Abwehr: Lukeba fällt aus - Esteve vor Premiere",
   "player": "Leipzigs Abwehr",

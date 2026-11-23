@@ -1,5 +1,31 @@
 [
  {
+  "id": "909fe0323257",
+  "title": "Video: How Ramos started and finished Milan’s second-goal move",
+  "player": "How Ramos",
+  "title_ko": "동영상: 라모스가 밀란의 두 번째 득점 장면을 시작하고 마무리한 방법",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/video-ramos-started-finished-milan-2nd-goal/",
+  "fee": null,
+  "published": "2026-11-23T14:29:45+00:00"
+ },
+ {
+  "id": "5bc216be0222",
+  "title": "Krösche steht offenbar vor Wechsel nach Mailand",
+  "player": "Sportvorstand von Eintracht",
+  "title_ko": "크뢰셰, 밀라노 이적 임박",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/kroesche-steht-offenbar-vor-wechsel-nach-mailand-1274353/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-23T14:17:57+00:00"
+ },
+ {
   "id": "cc5a42c81934",
   "title": "Wechsel in Leipzigs Abwehr: Lukeba fällt aus - Esteve vor Premiere",
   "player": "Leipzigs Abwehr",
@@ -1272,31 +1298,5 @@
   "url": "https://football-italia.net/official-bernasconi-sign-new-atalanta-contract/",
   "fee": null,
   "published": "2026-11-16T12:29:00+00:00"
- },
- {
-  "id": "575c06caf30a",
-  "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
-  "player": "Thomas Frank",
-  "title_ko": "프랭크 감독, 크리스털 팰리스의 새 감독이 되기로 원칙적으로 합의",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
-  "fee": null,
-  "published": "2026-11-16T11:30:00+00:00"
- },
- {
-  "id": "a7af6915b656",
-  "title": "DIRECT. Mercato: suivez en live les infos et rumeurs du lundi 16 novembre",
-  "player": "Yannick Cahuzac",
-  "title_ko": "라이브. 이적 시장: 11월 16일 월요일의 소식과 소문을 실시간으로 확인하세요.",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-suivez-en-live-les-infos-et-rumeurs-du-lundi-16-novembre_LN-202611160243.html",
-  "fee": null,
-  "published": "2026-11-16T07:15:40+00:00"
  }
 ]
