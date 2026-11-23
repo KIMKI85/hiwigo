@@ -1,5 +1,18 @@
 [
  {
+  "id": "4d806c2a2091",
+  "title": "Tottenham avoid Chelsea transfer battle with Luca Williams-Barnett set to sign new contract",
+  "player": "Luca Williams-Barnett",
+  "title_ko": "토트넘, 루카 윌리엄스-바넷과 새 계약을 체결하며 첼시와의 이적 경쟁을 피하다",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 3,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/tottenham-luca-williams-barnett-chelsea-37907559",
+  "fee": null,
+  "published": "2026-11-23T18:58:02+00:00"
+ },
+ {
   "id": "636b369927d5",
   "title": "Bruno Guimaraes spills the beans on dressing room apology after Arsenal transfer",
   "player": "Bruno Guimaraes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/mauricio-pochettino-manchester-united-usa-37883083",
   "fee": null,
   "published": "2026-11-16T17:36:07+00:00"
- },
- {
-  "id": "ec294f5fba8f",
-  "title": "Report Balogun offered to Milan and Juventus after Everton move collapse",
-  "player": "Folarin Balogun",
-  "title_ko": "에버턴 이적 무산 후 밀란과 유벤투스에 제안된 발로군에 대한 보도",
-  "league": "SERIEA",
-  "status": "nego",
-  "lv": 3,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-balogun-offered-to-milan-and-juventus/",
-  "fee": null,
-  "published": "2026-11-16T16:40:42+00:00"
  }
 ]
