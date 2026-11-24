@@ -1,5 +1,18 @@
 [
  {
+  "id": "09faf9cca8d9",
+  "title": "The embarrassing Man Utd transfer budget Mauricio Pochettino will have to work miracles with in January",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독이 1월에 기적을 일으켜야 할 만큼 초라한 맨유의 이적 예산",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pochettino-transfer-budget-37908575",
+  "fee": null,
+  "published": "2026-11-24T08:19:04+00:00"
+ },
+ {
   "id": "1ff7629dcf56",
   "title": "Mercato: Bellingham en \"négociations avancées\" pour une prolongation XXL avec le Real Madrid?",
   "player": "Jude Bellingham",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/man-utd-arsenal-loan-obi-37885321",
   "fee": null,
   "published": "2026-11-17T11:59:43+00:00"
- },
- {
-  "id": "fd9f3f6c77f1",
-  "title": "Roma chase next Malen as they target unhappy Chelsea and Forest wingers",
-  "player": "Il Corriere",
-  "title_ko": "로마, 불만을 품은 첼시와 포레스트 윙어를 노리며 다음으로 말렌을 노린다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/roma-chase-next-malen-unhappy-chelsea-forest/",
-  "fee": null,
-  "published": "2026-11-17T10:18:56+00:00"
  }
 ]
