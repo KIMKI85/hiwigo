@@ -1,5 +1,18 @@
 [
  {
+  "id": "1ff7629dcf56",
+  "title": "Mercato: Bellingham en \"négociations avancées\" pour une prolongation XXL avec le Real Madrid?",
+  "player": "Jude Bellingham",
+  "title_ko": null,
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-bellingham-en-negociations-avancees-pour-une-prolongation-xxl-avec-le-real-madrid_AV-202611240322.html",
+  "fee": null,
+  "published": "2026-11-24T08:01:09+00:00"
+ },
+ {
   "id": "6e7857736e0e",
   "title": "Mauricio Pochettino discovers January transfer budget as Man Utd ready to take risk",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/roma-chase-next-malen-unhappy-chelsea-forest/",
   "fee": null,
   "published": "2026-11-17T10:18:56+00:00"
- },
- {
-  "id": "0076674f5047",
-  "title": "Juventus handed Hojbjerg boost as Marseille consider Anguissa move",
-  "player": "Pierre-Emile Hojbjerg",
-  "title_ko": "마르세유가 앙귀사를 영입하려는 가운데, 유벤투스가 호이비에르 영입에 박차를 가하다",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-hojbjerg-boost-marseille-anguissa/",
-  "fee": null,
-  "published": "2026-11-17T09:54:08+00:00"
  }
 ]
