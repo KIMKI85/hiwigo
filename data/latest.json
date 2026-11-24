@@ -1,5 +1,18 @@
 [
  {
+  "id": "1991ac704ee9",
+  "title": "Viktor Gyokeres and Mikel Arteta in full agreement as Arsenal frustrated by Borussia Dortmund",
+  "player": "Viktor Gyokeres",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-borussia-dortmund-37911979",
+  "fee": null,
+  "published": "2026-11-24T22:49:03+00:00"
+ },
+ {
   "id": "38c01f82ad28",
   "title": "Man Utd target Collins - Wednesday's gossip",
   "player": "Nathan Collins",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-rice-timber-contracts-37885686",
   "fee": null,
   "published": "2026-11-17T16:00:00+00:00"
- },
- {
-  "id": "0f18bf3231a4",
-  "title": "Report Napoli contract with Manna extended to 2032, Allegri until 2029",
-  "player": "Giovanni Manna",
-  "title_ko": "나폴리, 만나와의 계약을 2032년까지, 알레그리와의 계약을 2029년까지 연장했다는 보도",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/report-napoli-contract-manna-extended-2032/",
-  "fee": null,
-  "published": "2026-11-17T15:46:25+00:00"
  }
 ]
