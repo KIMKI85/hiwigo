@@ -1,5 +1,18 @@
 [
  {
+  "id": "5cbcdfc36816",
+  "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+  "player": "David Squires",
+  "title_ko": "데이비드 스콰이어스가 말하는... 맨체스터 유나이티드에서 폭풍 속으로 뛰어드는 포체티노. 또 시작이군요.",
+  "league": "EPL",
+  "status": "herewego",
+  "lv": 5,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+  "fee": null,
+  "published": "2026-11-24T11:31:27+00:00"
+ },
+ {
   "id": "09faf9cca8d9",
   "title": "The embarrassing Man Utd transfer budget Mauricio Pochettino will have to work miracles with in January",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-wissam-ben-yedder-aurait-retrouve-un-club-en-france-en-ligue-3_AV-202611170542.html",
   "fee": null,
   "published": "2026-11-17T12:28:44+00:00"
- },
- {
-  "id": "2384fc02aa0f",
-  "title": "Man Utd and Mauricio Pochettino have decision to make over wonderkid on nightmare loan",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨유와 마우리시오 포체티노 감독이 악몽 같은 임대 생활을 보내고 있는 원더키드에 대해 결정을 내려야 합니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-arsenal-loan-obi-37885321",
-  "fee": null,
-  "published": "2026-11-17T11:59:43+00:00"
  }
 ]
