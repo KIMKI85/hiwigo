@@ -1,5 +1,18 @@
 [
  {
+  "id": "ab7887d44001",
+  "title": "Report: Napoli meet with McTominay agent in Manchester to discuss contract renewal",
+  "player": "Giovanni Manna",
+  "title_ko": "보도: 나폴리, 맨체스터에서 맥토미니의 에이전트와 만나 계약 연장 논의",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/napoli-meet-with-mctominay-agent-in-manchester/",
+  "fee": null,
+  "published": "2026-11-24T12:18:20+00:00"
+ },
+ {
   "id": "5cbcdfc36816",
   "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
   "player": "David Squires",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-napoli-reject-psv-bid-for-de-bruyne/",
   "fee": null,
   "published": "2026-11-17T12:44:46+00:00"
- },
- {
-  "id": "a256280a34ad",
-  "title": "Mercato: Wissam Ben Yedder aurait retrouvé un club en France… en Ligue 3",
-  "player": "Wissam Ben Yedder",
-  "title_ko": "이적 시장: 위삼 벤 예데르, 프랑스 리그 3 구단과 계약 체결...",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-wissam-ben-yedder-aurait-retrouve-un-club-en-france-en-ligue-3_AV-202611170542.html",
-  "fee": null,
-  "published": "2026-11-17T12:28:44+00:00"
  }
 ]
