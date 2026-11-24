@@ -468,6 +468,19 @@
   "published": "2026-11-21T19:54:02+00:00"
  },
  {
+  "id": "9ad6d045142f",
+  "title": "Williams-Barnett announces himself as Spurs star, then signs new deal",
+  "player": "Luca Williams-Barnett",
+  "title_ko": "윌리엄스-바넷, 스스로를 토트넘 스타라고 소개한 후 새 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-21T19:21:01+00:00"
+ },
+ {
   "id": "63b66cac7cee",
   "title": "LIVE! Richtungweisendes Duell? Drei Wechsel bei St. Pauli",
   "player": "Richtungweisendes Duell",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/juventus-favour-barcelona-defender-tottenham/",
   "fee": null,
   "published": "2026-11-17T14:00:03+00:00"
- },
- {
-  "id": "f7ba8033eeff",
-  "title": "Hincapie in advanced talks over new Arsenal deal",
-  "player": "Piero Hincapie",
-  "title_ko": "힌카피에, 아스널과의 새로운 계약에 대한 협상 막바지 단계",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "BBC Sport Football",
-  "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
-  "fee": null,
-  "published": "2026-11-17T13:09:23+00:00"
  }
 ]
