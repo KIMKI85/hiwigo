@@ -1,5 +1,18 @@
 [
  {
+  "id": "5c2b99fa6118",
+  "title": "Man Utd news: Prem high scorer sends message to Wilcox as Pochettino strikes agreement",
+  "player": null,
+  "title_ko": "맨유 뉴스: 프리미어리그 득점왕이 윌콕스에게 메시지를 보냈고, 포체티노는 계약을 체결했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-wilcox-37907863",
+  "fee": null,
+  "published": "2026-11-24T05:00:00+00:00"
+ },
+ {
   "id": "aa909907f2de",
   "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
   "fee": null,
   "published": "2026-11-17T09:19:34+00:00"
- },
- {
-  "id": "5b72f18b4ddd",
-  "title": "Arsenal latest: 'Agreement reached over new Raya contract'",
-  "player": null,
-  "title_ko": "아스널 최신 소식: '라야와의 새 계약에 합의'",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "fee": null,
-  "published": "2026-11-17T09:15:00+00:00"
  }
 ]
