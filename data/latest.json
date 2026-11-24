@@ -1,5 +1,18 @@
 [
  {
+  "id": "38c01f82ad28",
+  "title": "Man Utd target Collins - Wednesday's gossip",
+  "player": "Nathan Collins",
+  "title_ko": "맨유, 콜린스 영입 목표 - 수요일 가십",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-24T20:51:44+00:00"
+ },
+ {
   "id": "ac25f4ca67d7",
   "title": "Gary Neville's 'desperate' warning puts Man Utd in difficult situation as transfer eyed",
   "player": "Gary Neville's",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/report-napoli-contract-manna-extended-2032/",
   "fee": null,
   "published": "2026-11-17T15:46:25+00:00"
- },
- {
-  "id": "2fac775ca9a5",
-  "title": "Newspaper names Spalletti’s favourite January target for Juventus’ attack",
-  "player": "Alexander Sorloth",
-  "title_ko": "신문, 스팔레티 감독이 유벤투스의 공격진을 위해 원하는 1월 이적 시장 영입 대상 공개",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/spalletti-favourite-target-juventus-attack/",
-  "fee": null,
-  "published": "2026-11-17T15:26:32+00:00"
  }
 ]
