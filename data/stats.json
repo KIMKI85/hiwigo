@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:52:16.021593+00:00",
+ "updated": "2026-11-24T00:02:03.737820+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -61,6 +61,17 @@
     },
     {
      "pos": 6,
+     "team": "Brentford",
+     "crest": "https://crests.football-data.org/402.png",
+     "played": 11,
+     "won": 4,
+     "draw": 5,
+     "lost": 2,
+     "gd": 9,
+     "pts": 17
+    },
+    {
+     "pos": 7,
      "team": "Leeds United",
      "crest": "https://crests.football-data.org/341.png",
      "played": 11,
@@ -69,17 +80,6 @@
      "lost": 2,
      "gd": 5,
      "pts": 17
-    },
-    {
-     "pos": 7,
-     "team": "Everton",
-     "crest": "https://crests.football-data.org/62.png",
-     "played": 10,
-     "won": 4,
-     "draw": 4,
-     "lost": 2,
-     "gd": 2,
-     "pts": 16
     },
     {
      "pos": 8,
@@ -94,6 +94,17 @@
     },
     {
      "pos": 9,
+     "team": "Everton",
+     "crest": "https://crests.football-data.org/62.png",
+     "played": 11,
+     "won": 4,
+     "draw": 4,
+     "lost": 3,
+     "gd": -2,
+     "pts": 16
+    },
+    {
+     "pos": 10,
      "team": "Tottenham",
      "crest": "https://crests.football-data.org/73.png",
      "played": 11,
@@ -102,17 +113,6 @@
      "lost": 4,
      "gd": 1,
      "pts": 15
-    },
-    {
-     "pos": 10,
-     "team": "Brentford",
-     "crest": "https://crests.football-data.org/402.png",
-     "played": 10,
-     "won": 3,
-     "draw": 5,
-     "lost": 2,
-     "gd": 5,
-     "pts": 14
     },
     {
      "pos": 11,
@@ -339,10 +339,10 @@
      "assists": 2
     },
     {
-     "name": "Pascal Groß",
-     "team": "Brighton Hove",
+     "name": "Keane Lewis-Potter",
+     "team": "Brentford",
      "goals": 4,
-     "assists": 4
+     "assists": 1
     }
    ]
   },
@@ -505,6 +505,17 @@
     },
     {
      "pos": 15,
+     "team": "Levante",
+     "crest": "https://crests.football-data.org/88.png",
+     "played": 13,
+     "won": 2,
+     "draw": 6,
+     "lost": 5,
+     "gd": -5,
+     "pts": 12
+    },
+    {
+     "pos": 16,
      "team": "Rayo Vallecano",
      "crest": "https://crests.football-data.org/87.png",
      "played": 12,
@@ -515,7 +526,7 @@
      "pts": 12
     },
     {
-     "pos": 16,
+     "pos": 17,
      "team": "Valencia",
      "crest": "https://crests.football-data.org/95.png",
      "played": 13,
@@ -526,7 +537,7 @@
      "pts": 12
     },
     {
-     "pos": 17,
+     "pos": 18,
      "team": "Getafe",
      "crest": "https://crests.football-data.org/82.png",
      "played": 13,
@@ -537,26 +548,15 @@
      "pts": 12
     },
     {
-     "pos": 18,
-     "team": "Levante",
-     "crest": "https://crests.football-data.org/88.png",
-     "played": 12,
-     "won": 2,
-     "draw": 5,
-     "lost": 5,
-     "gd": -5,
-     "pts": 11
-    },
-    {
      "pos": 19,
      "team": "Elche",
      "crest": "https://crests.football-data.org/285.png",
-     "played": 12,
+     "played": 13,
      "won": 2,
-     "draw": 4,
+     "draw": 5,
      "lost": 6,
      "gd": -6,
-     "pts": 10
+     "pts": 11
     },
     {
      "pos": 20,
@@ -571,6 +571,13 @@
     }
    ],
    "results": [
+    {
+     "date": "2026-11-23",
+     "home": "Levante",
+     "away": "Elche",
+     "hs": 1,
+     "as": 1
+    },
     {
      "date": "2026-11-22",
      "home": "Getafe",
@@ -618,13 +625,6 @@
      "home": "Rayo Vallecano",
      "away": "Valencia",
      "hs": 0,
-     "as": 1
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Alavés",
-     "away": "Deportivo",
-     "hs": 3,
      "as": 1
     }
    ],
@@ -693,9 +693,348 @@
   },
   "SERIEA": {
    "name": "세리에 A",
-   "standings": [],
-   "results": [],
-   "scorers": []
+   "standings": [
+    {
+     "pos": 1,
+     "team": "Lazio",
+     "crest": "https://crests.football-data.org/110.png",
+     "played": 12,
+     "won": 10,
+     "draw": 2,
+     "lost": 0,
+     "gd": 19,
+     "pts": 32
+    },
+    {
+     "pos": 2,
+     "team": "Roma",
+     "crest": "https://crests.football-data.org/100.png",
+     "played": 12,
+     "won": 9,
+     "draw": 3,
+     "lost": 0,
+     "gd": 25,
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "Inter",
+     "crest": "https://crests.football-data.org/108.png",
+     "played": 12,
+     "won": 9,
+     "draw": 2,
+     "lost": 1,
+     "gd": 15,
+     "pts": 29
+    },
+    {
+     "pos": 4,
+     "team": "Milan",
+     "crest": "https://crests.football-data.org/98.png",
+     "played": 12,
+     "won": 8,
+     "draw": 3,
+     "lost": 1,
+     "gd": 14,
+     "pts": 27
+    },
+    {
+     "pos": 5,
+     "team": "Como 1907",
+     "crest": "https://crests.football-data.org/7397.png",
+     "played": 12,
+     "won": 8,
+     "draw": 2,
+     "lost": 2,
+     "gd": 10,
+     "pts": 26
+    },
+    {
+     "pos": 6,
+     "team": "Juventus",
+     "crest": "https://crests.football-data.org/109.png",
+     "played": 12,
+     "won": 6,
+     "draw": 3,
+     "lost": 3,
+     "gd": 7,
+     "pts": 21
+    },
+    {
+     "pos": 7,
+     "team": "Frosinone",
+     "crest": "https://crests.football-data.org/470.png",
+     "played": 12,
+     "won": 6,
+     "draw": 2,
+     "lost": 4,
+     "gd": 5,
+     "pts": 20
+    },
+    {
+     "pos": 8,
+     "team": "Napoli",
+     "crest": "https://crests.football-data.org/113.png",
+     "played": 12,
+     "won": 5,
+     "draw": 3,
+     "lost": 4,
+     "gd": 5,
+     "pts": 18
+    },
+    {
+     "pos": 9,
+     "team": "Bologna",
+     "crest": "https://crests.football-data.org/103.png",
+     "played": 12,
+     "won": 5,
+     "draw": 3,
+     "lost": 4,
+     "gd": 2,
+     "pts": 18
+    },
+    {
+     "pos": 10,
+     "team": "Genoa",
+     "crest": "https://crests.football-data.org/107.png",
+     "played": 12,
+     "won": 5,
+     "draw": 1,
+     "lost": 6,
+     "gd": -3,
+     "pts": 16
+    },
+    {
+     "pos": 11,
+     "team": "Cagliari",
+     "crest": "https://crests.football-data.org/104.png",
+     "played": 12,
+     "won": 5,
+     "draw": 1,
+     "lost": 6,
+     "gd": -7,
+     "pts": 16
+    },
+    {
+     "pos": 12,
+     "team": "Atalanta",
+     "crest": "https://crests.football-data.org/102.png",
+     "played": 12,
+     "won": 4,
+     "draw": 3,
+     "lost": 5,
+     "gd": -3,
+     "pts": 15
+    },
+    {
+     "pos": 13,
+     "team": "Torino",
+     "crest": "https://crests.football-data.org/586.png",
+     "played": 12,
+     "won": 4,
+     "draw": 2,
+     "lost": 6,
+     "gd": -3,
+     "pts": 14
+    },
+    {
+     "pos": 14,
+     "team": "Monza",
+     "crest": "https://crests.football-data.org/5911.png",
+     "played": 12,
+     "won": 3,
+     "draw": 1,
+     "lost": 8,
+     "gd": -5,
+     "pts": 10
+    },
+    {
+     "pos": 15,
+     "team": "Lecce",
+     "crest": "https://crests.football-data.org/5890.png",
+     "played": 12,
+     "won": 3,
+     "draw": 1,
+     "lost": 8,
+     "gd": -13,
+     "pts": 10
+    },
+    {
+     "pos": 16,
+     "team": "Fiorentina",
+     "crest": "https://crests.football-data.org/99.png",
+     "played": 12,
+     "won": 2,
+     "draw": 3,
+     "lost": 7,
+     "gd": -11,
+     "pts": 9
+    },
+    {
+     "pos": 17,
+     "team": "Parma",
+     "crest": "https://crests.football-data.org/112.png",
+     "played": 12,
+     "won": 2,
+     "draw": 2,
+     "lost": 8,
+     "gd": -12,
+     "pts": 8
+    },
+    {
+     "pos": 18,
+     "team": "Sassuolo",
+     "crest": "https://crests.football-data.org/471.png",
+     "played": 12,
+     "won": 2,
+     "draw": 2,
+     "lost": 8,
+     "gd": -15,
+     "pts": 8
+    },
+    {
+     "pos": 19,
+     "team": "Udinese",
+     "crest": "https://crests.football-data.org/115.png",
+     "played": 12,
+     "won": 1,
+     "draw": 3,
+     "lost": 8,
+     "gd": -13,
+     "pts": 6
+    },
+    {
+     "pos": 20,
+     "team": "Venezia FC",
+     "crest": "https://crests.football-data.org/454.png",
+     "played": 12,
+     "won": 2,
+     "draw": 0,
+     "lost": 10,
+     "gd": -17,
+     "pts": 6
+    }
+   ],
+   "results": [
+    {
+     "date": "2026-11-23",
+     "home": "Monza",
+     "away": "Fiorentina",
+     "hs": 3,
+     "as": 0
+    },
+    {
+     "date": "2026-11-22",
+     "home": "Atalanta",
+     "away": "Inter",
+     "hs": 4,
+     "as": 4
+    },
+    {
+     "date": "2026-11-22",
+     "home": "Milan",
+     "away": "Frosinone",
+     "hs": 5,
+     "as": 1
+    },
+    {
+     "date": "2026-11-22",
+     "home": "Sassuolo",
+     "away": "Genoa",
+     "hs": 0,
+     "as": 2
+    },
+    {
+     "date": "2026-11-22",
+     "home": "Bologna",
+     "away": "Udinese",
+     "hs": 1,
+     "as": 1
+    },
+    {
+     "date": "2026-11-22",
+     "home": "Juventus",
+     "away": "Venezia FC",
+     "hs": 4,
+     "as": 0
+    },
+    {
+     "date": "2026-11-21",
+     "home": "Napoli",
+     "away": "Torino",
+     "hs": 1,
+     "as": 0
+    },
+    {
+     "date": "2026-11-21",
+     "home": "Parma",
+     "away": "Roma",
+     "hs": 1,
+     "as": 5
+    }
+   ],
+   "scorers": [
+    {
+     "name": "Donyell Malen",
+     "team": "Roma",
+     "goals": 12,
+     "assists": 2
+    },
+    {
+     "name": "Gustavo Varela",
+     "team": "Monza",
+     "goals": 11,
+     "assists": 1
+    },
+    {
+     "name": "Antonio Raimondo",
+     "team": "Frosinone",
+     "goals": 8,
+     "assists": 0
+    },
+    {
+     "name": "Nikola Krstović",
+     "team": "Atalanta",
+     "goals": 7,
+     "assists": 2
+    },
+    {
+     "name": "Francesco Esposito",
+     "team": "Inter",
+     "goals": 6,
+     "assists": 1
+    },
+    {
+     "name": "Alphadjo Cisse",
+     "team": "Milan",
+     "goals": 6,
+     "assists": 0
+    },
+    {
+     "name": "Milutin Osmajić",
+     "team": "Genoa",
+     "goals": 6,
+     "assists": 1
+    },
+    {
+     "name": "Marcus Thuram-Ulien",
+     "team": "Inter",
+     "goals": 6,
+     "assists": 3
+    },
+    {
+     "name": "Tijjani Noslin",
+     "team": "Lazio",
+     "goals": 6,
+     "assists": 4
+    },
+    {
+     "name": "Anastasios Douvikas",
+     "team": "Como 1907",
+     "goals": 5,
+     "assists": 0
+    }
+   ]
   },
   "BUND": {
    "name": "분데스리가",
