@@ -1,5 +1,18 @@
 [
  {
+  "id": "137807665748",
+  "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
+  "player": "Bournemouth's Scott",
+  "title_ko": "언론 보도: 첼시, 1월에 본머스의 스콧 영입을 추진할 것",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+  "fee": null,
+  "published": "2026-11-24T23:02:00+00:00"
+ },
+ {
   "id": "1991ac704ee9",
   "title": "Viktor Gyokeres and Mikel Arteta in full agreement as Arsenal frustrated by Borussia Dortmund",
   "player": "Viktor Gyokeres",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/live-lenz-koepft-knapp-vorbei-vier-wechsel-bei-deutschland-1272083/artikel#omrss",
   "fee": null,
   "published": "2026-11-17T16:00:36+00:00"
- },
- {
-  "id": "0b4d0b1555c7",
-  "title": "Mikel Arteta delivering on Arsenal promise after Gunners strike triple agreement",
-  "player": "Mikel Arteta",
-  "title_ko": "미켈 아르테타 감독, 아스널의 트리플 계약 성사로 약속 이행",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-rice-timber-contracts-37885686",
-  "fee": null,
-  "published": "2026-11-17T16:00:00+00:00"
  }
 ]
