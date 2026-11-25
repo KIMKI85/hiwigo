@@ -1,5 +1,18 @@
 [
  {
+  "id": "8d9500520c74",
+  "title": "I was invited to Man Utd dressing room after humiliating them - they wanted to sign me",
+  "player": "Mauricio Pochettino",
+  "title_ko": "맨유를 굴욕적으로 패배시킨 후, 맨유의 라커룸으로 초대받았습니다. 그들은 저를 영입하고 싶어 했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-dressing-room-invited-37910641",
+  "fee": null,
+  "published": "2026-11-25T06:00:00+00:00"
+ },
+ {
   "id": "137807665748",
   "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
   "player": "Bournemouth's Scott",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
   "fee": null,
   "published": "2026-11-17T16:01:14+00:00"
- },
- {
-  "id": "b607c5841da7",
-  "title": "LIVE! Lenz köpft knapp vorbei - Vier Wechsel bei Deutschland",
-  "player": "Vier Wechsel",
-  "title_ko": "라이브! 렌츠의 헤더가 골대를 살짝 빗나갑니다 - 독일, 4명 교체",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/live-lenz-koepft-knapp-vorbei-vier-wechsel-bei-deutschland-1272083/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-17T16:00:36+00:00"
  }
 ]
