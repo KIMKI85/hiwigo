@@ -1,5 +1,18 @@
 [
  {
+  "id": "3e02ec903272",
+  "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
+  "player": "Lamine Yamal",
+  "title_ko": "챔피언스리그: 바르셀로나, 사바흐 원정 경기에서 고든의 멀티골로 승리",
+  "league": "LALIGA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+  "fee": null,
+  "published": "2026-11-25T20:16:42+00:00"
+ },
+ {
   "id": "defae4fc89de",
   "title": "Ein Wechsel mit Genussfaktor: Wie Berger die Bundesliga bereichern will",
   "player": "Ein Wechsel",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-goodbye-37887776",
   "fee": null,
   "published": "2026-11-17T19:28:28+00:00"
- },
- {
-  "id": "da837af96956",
-  "title": "Official: Kean undergoing new medical assessment after Como setback",
-  "player": "Moise Kean",
-  "title_ko": "공식 발표: 코모 경기에서 부상을 당한 케안, 새로운 의료 검진을 받다",
-  "league": "SERIEA",
-  "status": "official",
-  "lv": 4,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/official-kean-new-medical-assessment-como/",
-  "fee": null,
-  "published": "2026-11-17T18:22:30+00:00"
  }
 ]
