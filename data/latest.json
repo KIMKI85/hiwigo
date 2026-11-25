@@ -1,5 +1,31 @@
 [
  {
+  "id": "fa000042fad3",
+  "title": "Man Utd counting cost of past transfer mistake with key January target now out of reach",
+  "player": null,
+  "title_ko": "맨유, 과거 이적 실수로 인한 비용 부담... 이제 1월 이적 시장의 핵심 타깃은 손에 닿지 않는 곳에",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-nathan-collins-37913176",
+  "fee": null,
+  "published": "2026-11-25T12:11:14+00:00"
+ },
+ {
+  "id": "df81cc620514",
+  "title": "Alejandro Garnacho takes Aston Villa action with Chelsea transfer now in the balance",
+  "player": "Alejandro Garnacho",
+  "title_ko": "알레한드로 가르나초, 아스톤 빌라와의 경기 출전. 첼시 이적은 이제 불확실한 상태",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-aston-villa-chelsea-37913354",
+  "fee": null,
+  "published": "2026-11-25T12:08:04+00:00"
+ },
+ {
   "id": "2f558b5da862",
   "title": "'I was there when Jude Bellingham almost joined Man Utd - it's a sad state of affairs'",
   "player": "Jude Bellingham",
@@ -1272,31 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-17T16:52:59+00:00"
- },
- {
-  "id": "bc66c1925137",
-  "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
-  "player": null,
-  "title_ko": "스트라스부르, 스완지 감독 마토스와 5백만 파운드에 계약 체결 임박",
-  "league": "LIGUE1",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-  "fee": "£5M",
-  "published": "2026-11-17T16:35:00+00:00"
- },
- {
-  "id": "b03eeafd365d",
-  "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
-  "player": "David Raya",
-  "title_ko": "아스널, 라야, 팀버, 힌카피에와 새 계약 체결 임박",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 4,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
-  "fee": null,
-  "published": "2026-11-17T16:23:00+00:00"
  }
 ]
