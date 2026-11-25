@@ -1,5 +1,18 @@
 [
  {
+  "id": "d9c7b46ffe52",
+  "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
+  "player": "Sportdirektor Christoph Freund",
+  "title_ko": "프로운드 단장, \"바이에른은 겨울 이적 시장에서 이적을 계획하고 있지 않다\"고 재차 강조",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-25T20:47:08+00:00"
+ },
+ {
   "id": "3e02ec903272",
   "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
   "player": "Lamine Yamal",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-la-pepite-jj-gabriel-dit-adieu-a-manchester-united-sa-signature-au-real-madrid-imminente_AN-202611170902.html",
   "fee": null,
   "published": "2026-11-17T19:53:49+00:00"
- },
- {
-  "id": "32416006fc3b",
-  "title": "JJ Gabriel confirms Man Utd exit despite potential legal action over Real Madrid move",
-  "player": null,
-  "title_ko": "가브리엘, 레알 마드리드 이적 관련 잠재적 법적 조치에도 불구하고 맨유 이적 확정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-goodbye-37887776",
-  "fee": null,
-  "published": "2026-11-17T19:28:28+00:00"
  }
 ]
