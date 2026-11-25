@@ -1,5 +1,18 @@
 [
  {
+  "id": "442e049ca835",
+  "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
+  "player": "Alexander Isak",
+  "title_ko": "리버풀, 클럽 브뤼헤를 제압하며 부활의 조짐을 보인 가운데 이삭과 비르츠가 득점포를 가동했습니다.",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+  "fee": null,
+  "published": "2026-11-25T22:04:10+00:00"
+ },
+ {
   "id": "a9c8b01a3b52",
   "title": "Papers: Liverpool agree deal to sign Senegal teenager Ndiaye",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/major-league-soccer/mls-antoine-griezmann-elu-recrue-de-l-annee-quatre-mois-apres-son-arrivee_AV-202611171015.html",
   "fee": null,
   "published": "2026-11-17T23:15:34+00:00"
- },
- {
-  "id": "d172eec6ad63",
-  "title": "Papers: Fulham pushing to extend contract of Man Utd target",
-  "player": null,
-  "title_ko": "기사: 풀럼, 맨유의 영입 대상인 선수의 계약 연장을 추진 중",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13614185/fulham-pushing-to-extend-contract-of-man-utd-target-calvin-bassey-paper-talk",
-  "fee": null,
-  "published": "2026-11-17T22:58:00+00:00"
  }
 ]
