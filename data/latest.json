@@ -1,5 +1,18 @@
 [
  {
+  "id": "2f558b5da862",
+  "title": "'I was there when Jude Bellingham almost joined Man Utd - it's a sad state of affairs'",
+  "player": "Jude Bellingham",
+  "title_ko": "'저는 주드 벨링엄이 맨유에 거의 합류할 뻔했던 당시 상황을 지켜봤습니다. 정말 안타까운 일입니다.'",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/jude-bellingham-man-utd-transfers-37913031",
+  "fee": null,
+  "published": "2026-11-25T10:30:32+00:00"
+ },
+ {
   "id": "8d9500520c74",
   "title": "I was invited to Man Utd dressing room after humiliating them - they wanted to sign me",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
   "fee": null,
   "published": "2026-11-17T16:23:00+00:00"
- },
- {
-  "id": "6c50a1493e4b",
-  "title": "Vitor Matos QUITS Championship promotion race with Swansea to join Strasbourg",
-  "player": "Vitor Matos",
-  "title_ko": "비토르 마투스, 스완지와의 챔피언십 승격 경쟁을 중단하고 스트라스부르에 합류",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
-  "fee": null,
-  "published": "2026-11-17T16:01:14+00:00"
  }
 ]
