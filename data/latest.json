@@ -1,5 +1,18 @@
 [
  {
+  "id": "defae4fc89de",
+  "title": "Ein Wechsel mit Genussfaktor: Wie Berger die Bundesliga bereichern will",
+  "player": "Ein Wechsel",
+  "title_ko": "즐거움이 있는 변화: 베르거가 분데스리가를 풍요롭게 하고자 하는 방식",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ein-wechsel-mit-genussfaktor-wie-berger-die-bundesliga-bereichern-will-1275048/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-25T20:05:51+00:00"
+ },
+ {
   "id": "3b86d3dfc5cb",
   "title": "Chelsea urged to sign Virgil van Dijk this summer with Liverpool future uncertain",
   "player": "Virgil van Dijk",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/official-kean-new-medical-assessment-como/",
   "fee": null,
   "published": "2026-11-17T18:22:30+00:00"
- },
- {
-  "id": "dfd7793e8eea",
-  "title": "Openda doubt as Juventus ready to reconsider Lyon loan",
-  "player": "Lois Openda",
-  "title_ko": "유벤투스가 리옹 임대 재검토를 준비하면서 오펜다의 거취가 불투명해짐",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/openda-juventus-ready-to-reconsider-lyon-loan/",
-  "fee": null,
-  "published": "2026-11-17T18:12:10+00:00"
  }
 ]
