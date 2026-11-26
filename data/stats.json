@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:49:17.999465+00:00",
+ "updated": "2026-11-26T08:35:42.189903+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -2084,60 +2084,60 @@
    ],
    "results": [
     {
-     "date": "2026-11-24",
-     "home": "Como 1907",
-     "away": "PAE AEK",
-     "hs": 1,
-     "as": 0
-    },
-    {
-     "date": "2026-11-24",
-     "home": "RB Leipzig",
-     "away": "RC Lens",
-     "hs": 3,
-     "as": 1
-    },
-    {
-     "date": "2026-11-24",
-     "home": "Sl. Bratislava",
-     "away": "Real Betis",
-     "hs": 0,
-     "as": 2
-    },
-    {
-     "date": "2026-11-24",
-     "home": "Feyenoord",
-     "away": "Porto",
+     "date": "2026-11-25",
+     "home": "Shaktar",
+     "away": "Fenerbahçe",
      "hs": 0,
      "as": 1
     },
     {
-     "date": "2026-11-24",
-     "home": "Arsenal",
-     "away": "Dortmund",
-     "hs": 1,
-     "as": 1
-    },
-    {
-     "date": "2026-11-24",
-     "home": "Man City",
-     "away": "Napoli",
+     "date": "2026-11-25",
+     "home": "Sporting CP",
+     "away": "Man United",
      "hs": 2,
      "as": 2
     },
     {
-     "date": "2026-11-24",
-     "home": "Real Madrid",
-     "away": "PSV",
-     "hs": 5,
+     "date": "2026-11-25",
+     "home": "Lille",
+     "away": "Bayern",
+     "hs": 2,
      "as": 1
     },
     {
-     "date": "2026-11-24",
-     "home": "Bodø/Glimt",
-     "away": "LASK",
-     "hs": 1,
+     "date": "2026-11-25",
+     "home": "Club Brugge",
+     "away": "Liverpool",
+     "hs": 0,
+     "as": 3
+    },
+    {
+     "date": "2026-11-25",
+     "home": "PSG",
+     "away": "Roma",
+     "hs": 2,
+     "as": 2
+    },
+    {
+     "date": "2026-11-25",
+     "home": "Atleti",
+     "away": "Viking",
+     "hs": 2,
      "as": 0
+    },
+    {
+     "date": "2026-11-25",
+     "home": "Inter",
+     "away": "Stuttgart",
+     "hs": 2,
+     "as": 0
+    },
+    {
+     "date": "2026-11-25",
+     "home": "Slavia Praha",
+     "away": "Villarreal",
+     "hs": 0,
+     "as": 1
     }
    ],
    "scorers": [
