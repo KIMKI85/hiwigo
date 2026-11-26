@@ -1,5 +1,18 @@
 [
  {
+  "id": "379825e7448a",
+  "title": "Berger erklärt Wechsel: \"Einfach nochmal genießen\"",
+  "player": "Torhüterin Ann-Katrin Berger",
+  "title_ko": null,
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/berger-erklaert-wechsel-einfach-nochmal-geniessen-1275269/video#omrss",
+  "fee": null,
+  "published": "2026-11-26T10:35:19+00:00"
+ },
+ {
   "id": "84e20645006e",
   "title": "\"Ich dachte mir einfach: Versuch's mal\": Wirtz' längste Torserie seit Liverpool-Wechsel",
   "player": "Florian Wirtz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-ready-open-talks-tresoldi-january-move/",
   "fee": null,
   "published": "2026-11-18T09:11:54+00:00"
- },
- {
-  "id": "6f1c0ef0c625",
-  "title": "Today’s Papers – Tresoldi ready to join Milan, Kean’s nightmare",
-  "player": null,
-  "title_ko": "오늘의 신문 – 트레솔디, 밀란 입단 준비 완료. 키안의 악몽",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/todays-papers-tresoldi-milan-kean-nightmare/",
-  "fee": null,
-  "published": "2026-11-18T08:35:10+00:00"
  }
 ]
