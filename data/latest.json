@@ -1,5 +1,18 @@
 [
  {
+  "id": "dcec9def8740",
+  "title": "Carlos Augusto arrives to sign new improved Inter contract to June 2031",
+  "player": "Carlos Augusto",
+  "title_ko": "카를로스 아우구스토가 2031년 6월까지 연장된 새로운 인터밀란 계약에 서명하기 위해 도착했습니다.",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/carlos-augusto-new-improved-inter-contract/",
+  "fee": null,
+  "published": "2026-11-26T15:54:55+00:00"
+ },
+ {
   "id": "dd3465cf6e13",
   "title": "Report Robinio Vaz could return to Roma just 6 months into flop Hull City loan",
   "player": "Robinio Vaz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january",
   "fee": null,
   "published": "2026-11-18T12:00:00+00:00"
- },
- {
-  "id": "c13b8ded40ba",
-  "title": "\"Neymar du futur\": pourquoi le transfert du prodige JJ Gabriel au Real Madrid déchaîne l'Angleterre",
-  "player": null,
-  "title_ko": "\"미래의 네이마르\": 천재 JJ 가브리엘의 레알 마드리드 이적이 영국을 들끓게 하는 이유",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/premier-league/neymar-du-futur-pourquoi-le-depart-du-prodige-jj-gabriel-au-real-madrid-dechaine-l-angleterre_AV-202611180538.html",
-  "fee": null,
-  "published": "2026-11-18T11:16:55+00:00"
  }
 ]
