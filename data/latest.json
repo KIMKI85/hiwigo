@@ -1,5 +1,18 @@
 [
  {
+  "id": "2701b2e56cac",
+  "title": "Ilzer wechselt gegen seinen Ex-Klub den Sieg ein",
+  "player": "Ex-Klub den Sieg",
+  "title_ko": "일처, 자신의 전 소속팀을 상대로 승리를 거두다",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/ilzer-wechselt-gegen-seinen-ex-klub-den-sieg-ein-1275415/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-26T22:21:07+00:00"
+ },
+ {
   "id": "1acd31743e6c",
   "title": "Mercato: Lucas Chevalier envisage un départ du PSG",
   "player": "Lucas Chevalier",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-hojbjerg-paixao-pourquoi-les-dossiers-de-l-ete-pourraient-aussi-agiter-le-mercato-de-janvier_AV-202611180854.html",
   "fee": null,
   "published": "2026-11-18T18:10:23+00:00"
- },
- {
-  "id": "5a8abfd243b4",
-  "title": "Mauricio Pochettino's January transfer shortlist revealed as Man Utd target three signings",
-  "player": "Mauricio Pochettino's",
-  "title_ko": "맨유가 3명의 선수를 영입 목표로 삼으면서 마우리시오 포체티노 감독의 1월 이적 시장 영입 후보 명단이 공개되었습니다.",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37891314",
-  "fee": null,
-  "published": "2026-11-18T16:57:30+00:00"
  }
 ]
