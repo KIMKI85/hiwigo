@@ -1,5 +1,18 @@
 [
  {
+  "id": "0f53f97dc308",
+  "title": "PSG: \"ll va falloir trouver la petite pépite\", Rothen milite pour un mercato actif après les blessures de Doué et Kvaratskhelia",
+  "player": "Khvicha Kvaratskhelia",
+  "title_ko": "PSG: \"ll va falloir trouver la petite pépite\", 로탱, 두에와 크바라츠헬리아의 부상 이후 적극적인 이적 시장 활동을 촉구",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/psg-ll-va-falloir-trouver-la-petite-pepite-rothen-milite-pour-un-mercato-actif-apres-les-blessures-de-doue-et-kvaratskhelia_AV-202611260868.html",
+  "fee": null,
+  "published": "2026-11-26T17:55:06+00:00"
+ },
+ {
   "id": "dcec9def8740",
   "title": "Carlos Augusto arrives to sign new improved Inter contract to June 2031",
   "player": "Carlos Augusto",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/video-fifa-il-est-pret-pour-ce-combat-bana-optimiste-pour-diallo-dans-son-duel-avec-infantino_VN-202611180595.html",
   "fee": null,
   "published": "2026-11-18T12:49:57+00:00"
- },
- {
-  "id": "20e54c6d2dcf",
-  "title": "Man Utd expected to back Poch in January transfer window",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨유, 1월 이적 시장에서 포체티노 감독을 지원할 것으로 예상",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january",
-  "fee": null,
-  "published": "2026-11-18T12:00:00+00:00"
  }
 ]
