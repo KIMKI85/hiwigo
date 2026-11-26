@@ -1,5 +1,31 @@
 [
  {
+  "id": "d41ebe895291",
+  "title": "Calvert-Lewin signs new Leeds deal until 2029",
+  "player": "Dominic Calvert-Lewin",
+  "title_ko": "칼버트-르윈, 2029년까지 리즈와 새 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-26T18:00:31+00:00"
+ },
+ {
+  "id": "8f5dfd8c9a38",
+  "title": "Calvert-Lewin signs new Leeds deal",
+  "player": "Dominic Calvert-Lewin",
+  "title_ko": "칼버트-르윈, 리즈와 새 계약 체결",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club",
+  "fee": null,
+  "published": "2026-11-26T18:00:00+00:00"
+ },
+ {
   "id": "0f53f97dc308",
   "title": "PSG: \"ll va falloir trouver la petite pépite\", Rothen milite pour un mercato actif après les blessures de Doué et Kvaratskhelia",
   "player": "Khvicha Kvaratskhelia",
