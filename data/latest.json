@@ -26,6 +26,19 @@
   "published": "2026-11-26T10:35:19+00:00"
  },
  {
+  "id": "47e30cd06922",
+  "title": "Everton latest: Renewed January bids for Richarlison & Zirkzee explored?",
+  "player": null,
+  "title_ko": "에버턴 최신 소식: 리샤를리송과 지르제에 대한 1월 이적 제안이 다시 검토되고 있나요?",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 4,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+  "fee": null,
+  "published": "2026-11-26T10:00:00+00:00"
+ },
+ {
   "id": "84e20645006e",
   "title": "\"Ich dachte mir einfach: Versuch's mal\": Wirtz' längste Torserie seit Liverpool-Wechsel",
   "player": "Florian Wirtz",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-18T10:48:39+00:00"
- },
- {
-  "id": "356562d1bd98",
-  "title": "Arsenal learn of THIRD penalty VAR error as Premier League panel reach agreement",
-  "player": "Key Match Incidents",
-  "title_ko": "프리미어리그 위원회가 합의에 도달하면서 아스널이 세 번째 VAR 페널티킥 판정 오류를 인지하다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/arsenal-hull-penalty-var-havertz-37889189",
-  "fee": null,
-  "published": "2026-11-18T10:35:49+00:00"
  }
 ]
