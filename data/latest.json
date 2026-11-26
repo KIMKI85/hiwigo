@@ -1,5 +1,18 @@
 [
  {
+  "id": "1acd31743e6c",
+  "title": "Mercato: Lucas Chevalier envisage un départ du PSG",
+  "player": "Lucas Chevalier",
+  "title_ko": "이적 시장: 루카스 슈발리에, PSG 이적 고려",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-lucas-chevalier-envisage-un-depart-du-psg_AV-202611260976.html",
+  "fee": null,
+  "published": "2026-11-26T20:41:14+00:00"
+ },
+ {
   "id": "e241a798f884",
   "title": "Report: Mendes offers Conceição to Newcastle as Juventus weigh Woltemade swap",
   "player": "Francisco Conceição",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37891314",
   "fee": null,
   "published": "2026-11-18T16:57:30+00:00"
- },
- {
-  "id": "edbef902e9d1",
-  "title": "Jurgen Klopp reveals he failed in transfer bid to bring Germany star to Liverpool",
-  "player": "Jurgen Klopp",
-  "title_ko": "위르겐 클롭 감독, 독일 대표팀 스타 선수를 리버풀로 영입하려다 실패했다고 밝혀",
-  "league": "EPL",
-  "status": "nego",
-  "lv": 2,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/jurgen-klopp-liverpool-ter-stegen-37890100",
-  "fee": null,
-  "published": "2026-11-18T15:11:48+00:00"
  }
 ]
