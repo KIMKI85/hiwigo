@@ -39,6 +39,19 @@
   "published": "2026-11-27T14:10:00+00:00"
  },
  {
+  "id": "3f68d31a880c",
+  "title": "McInnes reveals Hearts Naderi interest before Rangers move as new deal discussed",
+  "player": "Hearts Naderi",
+  "title_ko": "맥이너스가 레인저스 이적 전에 하츠가 나데리 영입에 관심을 보였다고 밝히며 새로운 계약에 대해 논의",
+  "league": "SERIEA",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13617211/ryan-naderi-rangers-manager-derek-mcinnes-hopes-to-tie-down-striker-as-jamestown-analytics-search-revealed",
+  "fee": null,
+  "published": "2026-11-27T13:55:00+00:00"
+ },
+ {
   "id": "75c3d784718e",
   "title": "Chelsea chase Jacobo Ramon and make Badiashile transfer decision",
   "player": "Jacobo Ramon",
@@ -1285,18 +1298,5 @@
   "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
   "fee": null,
   "published": "2026-11-19T21:57:22+00:00"
- },
- {
-  "id": "17dbd44e2027",
-  "title": "Juventus and Napoli eye January move for Manchester United’s Zirkzee",
-  "player": "Joshua Zirkzee",
-  "title_ko": "유벤투스와 나폴리, 1월 이적 시장에서 맨체스터 유나이티드의 지르크제 영입을 염두에 두고 있음",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/juventus-and-napoli-eye-january-move-zirkzee/",
-  "fee": null,
-  "published": "2026-11-19T21:01:23+00:00"
  }
 ]
