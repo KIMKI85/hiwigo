@@ -1,5 +1,18 @@
 [
  {
+  "id": "5a8eb6873f49",
+  "title": "Mercato: Franck Haise à Rennes, c’est fini",
+  "player": "Franck Haise",
+  "title_ko": "이적 시장: 프랑크 아이제, 렌행 이적 확정",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/ligue-1/mercato-franck-haise-a-rennes-c-est-fini_AV-202611270813.html",
+  "fee": null,
+  "published": "2026-11-27T17:58:06+00:00"
+ },
+ {
   "id": "006fc5fba1af",
   "title": "Man Utd trigger new Bruno Fernandes contract extension - but he could still leave this summer",
   "player": "Bruno Fernandes",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37897440",
   "fee": null,
   "published": "2026-11-20T09:00:27+00:00"
- },
- {
-  "id": "b1273c8c4edf",
-  "title": "Man Utd's eight January transfer targets rated and slated as two priorities emerge",
-  "player": "Mauricio Pochettino",
-  "title_ko": "맨유의 1월 이적 시장 타깃 8명 평가 및 2명의 우선 영입 대상자 선정",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-pochettino-37896109",
-  "fee": null,
-  "published": "2026-11-20T05:00:00+00:00"
  }
 ]
