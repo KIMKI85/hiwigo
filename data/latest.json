@@ -1,5 +1,18 @@
 [
  {
+  "id": "fb7f5bdb0d29",
+  "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+  "player": "Mikel Arteta",
+  "title_ko": "아르테타 감독, 맨체스터 시티를 본받아 아스널의 프리미어리그 100점 획득 목표 설정",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+  "fee": null,
+  "published": "2026-11-27T22:30:22+00:00"
+ },
+ {
   "id": "5a8eb6873f49",
   "title": "Mercato: Franck Haise à Rennes, c’est fini",
   "player": "Franck Haise",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/napoli-interested-january-deal-seba-esposito/",
   "fee": null,
   "published": "2026-11-20T10:19:46+00:00"
- },
- {
-  "id": "28bc6525fe4f",
-  "title": "Mercato: pourquoi le transfert de JJ Gabriel au Real Madrid est désormais entre les mains de la Fifa",
-  "player": null,
-  "title_ko": "이적 시장: JJ 가브리엘의 레알 마드리드 이적이 이제 FIFA의 손에 달린 이유는 무엇인가?",
-  "league": "LALIGA",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-transfert-de-jj-gabriel-au-real-madrid-est-desormais-entre-les-mains-de-la-fifa_AV-202611200452.html",
-  "fee": null,
-  "published": "2026-11-20T09:55:48+00:00"
  }
 ]
