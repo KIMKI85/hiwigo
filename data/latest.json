@@ -1,5 +1,18 @@
 [
  {
+  "id": "94de562a6dc1",
+  "title": "PSG: \"On reste ouvert mais ce n'est pas facile\", confie Luis Enrique sur le mercato",
+  "player": "Luis Enrique",
+  "title_ko": "PSG: \"우리는 여전히 열려 있지만 쉽지 않습니다.\" 루이스 엔리케 감독이 이적 시장에 대해 밝힘",
+  "league": "LIGUE1",
+  "status": "rumor",
+  "lv": 3,
+  "src": "RMC Sport (FR)",
+  "url": "https://rmcsport.bfmtv.com/football/clubs/paris-saint-germain/direct-psg-suivez-la-conference-de-luis-enrique-avant-la-reception-de-lorient-en-live_LN-202611270457.html",
+  "fee": null,
+  "published": "2026-11-27T12:38:01+00:00"
+ },
+ {
   "id": "b8d7628c8ce5",
   "title": "Nico Paz’s stance on potential Man Utd move and Real Madrid return revealed",
   "player": "Nico Paz",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/inter-eye-deal-lazio-defender-stones-struggles/",
   "fee": null,
   "published": "2026-11-19T10:32:52+00:00"
- },
- {
-  "id": "5c61036335d9",
-  "title": "Barcelona chief officially gives green light for Liverpool to complete £47m transfer",
-  "player": "Ronald Araujo",
-  "title_ko": "바르셀로나 구단주, 리버풀의 4,700만 파운드 이적을 공식적으로 승인",
-  "league": "LALIGA",
-  "status": "official",
-  "lv": 3,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-barcelona-transfer-araujo-37893421",
-  "fee": "£47M",
-  "published": "2026-11-19T09:53:02+00:00"
  }
 ]
