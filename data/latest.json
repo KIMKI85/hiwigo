@@ -1,5 +1,18 @@
 [
  {
+  "id": "8a2b22435f6c",
+  "title": "Man Utd identify Bruno Fernandes replacement after captain makes contract stance clear",
+  "player": "Bruno Fernandes",
+  "title_ko": null,
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-fernandes-replacement-37921330",
+  "fee": null,
+  "published": "2026-11-27T10:28:13+00:00"
+ },
+ {
   "id": "dcdc87ccf755",
   "title": "Papers: Liverpool interested in exploring Musiala deal",
   "player": null,
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/premier-league/manchester-united-pret-a-aller-en-justice-apres-le-depart-de-sa-pepite-jj-gabriel-vers-le-real-madrid_AV-202611181025.html",
   "fee": null,
   "published": "2026-11-18T22:16:32+00:00"
- },
- {
-  "id": "5dc11079276b",
-  "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
-  "player": "Veerle Buurman's",
-  "title_ko": "첼시, PSG를 상대로 막판 역전승을 거두며 WCL 순위표 선두로 올라서다",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 3,
-  "src": "Sky Sports Football",
-  "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
-  "fee": null,
-  "published": "2026-11-18T22:00:00+00:00"
  }
 ]
