@@ -1,5 +1,18 @@
 [
  {
+  "id": "dcdc87ccf755",
+  "title": "Papers: Liverpool interested in exploring Musiala deal",
+  "player": null,
+  "title_ko": "언론 보도: 리버풀, 무시알라 영입 가능성 타진에 관심",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13617073/liverpool-transfer-news-reds-prepared-to-explore-jamal-musiala-deal-next-summer-if-he-can-prove-fitness-paper-talk",
+  "fee": null,
+  "published": "2026-11-27T07:52:00+00:00"
+ },
+ {
   "id": "d06def8a642c",
   "title": "Mauricio Pochettino suffers fresh Man Utd transfer blow after outlining January priority",
   "player": "Mauricio Pochettino",
@@ -1285,18 +1298,5 @@
   "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
   "fee": null,
   "published": "2026-11-18T22:00:00+00:00"
- },
- {
-  "id": "49d86dab13ee",
-  "title": "OL: DNCG à venir, mercato hivernal... des finances toujours fragiles mais en nette amélioration",
-  "player": "Michele Kang",
-  "title_ko": "OL: DNCG(프랑스 프로축구 재정감독위원회) 심사 예정, 겨울 이적 시장... 여전히 취약한 재정 상황이지만 확실히 개선되고 있음",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-dncg-a-venir-mercato-hivernal-des-finances-toujours-fragiles-mais-en-nette-amelioration_AV-202611180936.html",
-  "fee": null,
-  "published": "2026-11-18T19:51:29+00:00"
  }
 ]
