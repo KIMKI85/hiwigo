@@ -1,5 +1,18 @@
 [
  {
+  "id": "d06def8a642c",
+  "title": "Mauricio Pochettino suffers fresh Man Utd transfer blow after outlining January priority",
+  "player": "Mauricio Pochettino",
+  "title_ko": "마우리시오 포체티노 감독, 1월 이적 시장 우선순위를 밝힌 후 맨유 이적에 또다시 타격을 입다",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 1,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/transfer-news/pochettino-manchester-united-calvert-lewin-37920551",
+  "fee": null,
+  "published": "2026-11-27T06:00:00+00:00"
+ },
+ {
   "id": "2701b2e56cac",
   "title": "Ilzer wechselt gegen seinen Ex-Klub den Sieg ein",
   "player": "Ex-Klub den Sieg",
@@ -1285,18 +1298,5 @@
   "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-dncg-a-venir-mercato-hivernal-des-finances-toujours-fragiles-mais-en-nette-amelioration_AV-202611180936.html",
   "fee": null,
   "published": "2026-11-18T19:51:29+00:00"
- },
- {
-  "id": "ae77e912abf2",
-  "title": "OM: Hojbjerg, Paixao... pourquoi les dossiers de l'été pourraient aussi agiter le mercato de janvier",
-  "player": null,
-  "title_ko": "OM: 호이비에르, 파이샹... 여름 이적 시장에서 논의되었던 선수들이 1월 이적 시장에서도 화제가 될 수 있는 이유",
-  "league": "LIGUE1",
-  "status": "rumor",
-  "lv": 3,
-  "src": "RMC Sport (FR)",
-  "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-hojbjerg-paixao-pourquoi-les-dossiers-de-l-ete-pourraient-aussi-agiter-le-mercato-de-janvier_AV-202611180854.html",
-  "fee": null,
-  "published": "2026-11-18T18:10:23+00:00"
  }
 ]
