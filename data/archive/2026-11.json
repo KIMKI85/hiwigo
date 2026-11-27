@@ -1,5 +1,44 @@
 [
  {
+  "id": "7bfd13f9e2ff",
+  "title": "Man Utd trigger Fernandes' one-year contract extension",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유, 페르난데스의 계약을 1년 연장",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "BBC Sport Football",
+  "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+  "fee": null,
+  "published": "2026-11-27T14:22:46+00:00"
+ },
+ {
+  "id": "cbbffe0fa688",
+  "title": "Manchester United extend Fernandes’s contract to 2028; Raya back in Arsenal training – football live",
+  "player": "Mail Niall",
+  "title_ko": "맨체스터 유나이티드, 페르난데스의 계약을 2028년까지 연장. 라야, 아스널 훈련에 복귀 - 축구 라이브",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Guardian Football",
+  "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
+  "fee": null,
+  "published": "2026-11-27T14:22:11+00:00"
+ },
+ {
+  "id": "58db6eec2589",
+  "title": "Man Utd activate Fernandes contract extension clause",
+  "player": "Bruno Fernandes",
+  "title_ko": "맨유, 페르난데스 계약 연장 조항 발동",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 3,
+  "src": "Sky Sports Football",
+  "url": "https://www.skysports.com/football/news/12040/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
+  "fee": null,
+  "published": "2026-11-27T14:10:00+00:00"
+ },
+ {
   "id": "75c3d784718e",
   "title": "Chelsea chase Jacobo Ramon and make Badiashile transfer decision",
   "player": "Jacobo Ramon",
