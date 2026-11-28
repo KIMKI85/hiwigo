@@ -13,6 +13,19 @@
   "published": "2026-11-28T11:55:02+00:00"
  },
  {
+  "id": "72f3335b4192",
+  "title": "LIVE! Früher Wechsel bei Hertha - St. Paulis Keeper Voll muss sich strecken",
+  "player": "Früher Wechsel",
+  "title_ko": "라이브! 헤르타 경기 초반 교체 - 장크트파울리 골키퍼 폴이 몸을 날려야 했습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Fussball (DE)",
+  "url": "https://www.kicker.de/live-frueher-wechsel-bei-hertha-st-paulis-keeper-voll-muss-sich-strecken-1275252/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-28T11:12:03+00:00"
+ },
+ {
   "id": "d6b986bc7c1c",
   "title": "'Jason Wilcox phoned me to initiate Man Utd transfer talks - I couldn't believe his demands'",
   "player": "Jason Wilcox",
@@ -1285,18 +1298,5 @@
   "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-conference-37899329",
   "fee": null,
   "published": "2026-11-20T14:54:40+00:00"
- },
- {
-  "id": "9fdc43938788",
-  "title": "Gasperini: ‘A blessing to have Dybala and Soule available, too early to talk transfers’",
-  "player": "Gian Piero Gasperini",
-  "title_ko": "가스페리니 감독: '디발라와 술레를 보유하게 된 것은 축복이지만, 이적에 대해 이야기하기에는 너무 이릅니다'",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/gasperini-a-blessing-to-have-dybala-and-soule/",
-  "fee": null,
-  "published": "2026-11-20T13:39:36+00:00"
  }
 ]
