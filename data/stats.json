@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:27:11.545556+00:00",
+ "updated": "2026-11-28T08:02:58.309182+00:00",
  "competitions": {
   "EPL": {
    "name": "프리미어리그",
@@ -227,6 +227,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-27",
+     "home": "Nottingham",
+     "away": "Chelsea",
+     "hs": 3,
+     "as": 2
+    },
+    {
      "date": "2026-11-23",
      "home": "Brentford",
      "away": "Everton",
@@ -273,13 +280,6 @@
      "home": "Bournemouth",
      "away": "Nottingham",
      "hs": 2,
-     "as": 0
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Aston Villa",
-     "away": "Sunderland",
-     "hs": 0,
      "as": 0
     }
    ],
@@ -406,6 +406,17 @@
     },
     {
      "pos": 6,
+     "team": "Santander",
+     "crest": "https://crests.football-data.org/5335.png",
+     "played": 14,
+     "won": 6,
+     "draw": 2,
+     "lost": 6,
+     "gd": -10,
+     "pts": 20
+    },
+    {
+     "pos": 7,
      "team": "Sevilla FC",
      "crest": "https://crests.football-data.org/559.png",
      "played": 13,
@@ -414,17 +425,6 @@
      "lost": 4,
      "gd": -2,
      "pts": 19
-    },
-    {
-     "pos": 7,
-     "team": "Santander",
-     "crest": "https://crests.football-data.org/5335.png",
-     "played": 14,
-     "won": 5,
-     "draw": 2,
-     "lost": 7,
-     "gd": -13,
-     "pts": 17
     },
     {
      "pos": 8,
@@ -483,17 +483,6 @@
     },
     {
      "pos": 13,
-     "team": "Levante",
-     "crest": "https://crests.football-data.org/88.png",
-     "played": 14,
-     "won": 3,
-     "draw": 6,
-     "lost": 5,
-     "gd": -4,
-     "pts": 15
-    },
-    {
-     "pos": 14,
      "team": "Osasuna",
      "crest": "https://crests.football-data.org/79.png",
      "played": 13,
@@ -504,7 +493,7 @@
      "pts": 15
     },
     {
-     "pos": 15,
+     "pos": 14,
      "team": "Celta",
      "crest": "https://crests.football-data.org/558.png",
      "played": 13,
@@ -513,6 +502,17 @@
      "lost": 4,
      "gd": -1,
      "pts": 13
+    },
+    {
+     "pos": 15,
+     "team": "Levante",
+     "crest": "https://crests.football-data.org/88.png",
+     "played": 14,
+     "won": 2,
+     "draw": 6,
+     "lost": 6,
+     "gd": -7,
+     "pts": 12
     },
     {
      "pos": 16,
@@ -572,6 +572,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-27",
+     "home": "Levante",
+     "away": "Santander",
+     "hs": 1,
+     "as": 3
+    },
+    {
      "date": "2026-11-23",
      "home": "Levante",
      "away": "Elche",
@@ -619,13 +626,6 @@
      "away": "Real Betis",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Rayo Vallecano",
-     "away": "Valencia",
-     "hs": 0,
-     "as": 1
     }
    ],
    "scorers": [
@@ -644,7 +644,7 @@
     {
      "name": "Yassir Zabiri",
      "team": "Santander",
-     "goals": 11,
+     "goals": 12,
      "assists": 0
     },
     {
@@ -917,6 +917,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-27",
+     "home": "Venezia FC",
+     "away": "Bologna",
+     "hs": 0,
+     "as": 0
+    },
+    {
      "date": "2026-11-23",
      "home": "Monza",
      "away": "Fiorentina",
@@ -964,13 +971,6 @@
      "away": "Torino",
      "hs": 1,
      "as": 0
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Parma",
-     "away": "Roma",
-     "hs": 1,
-     "as": 5
     }
    ],
    "scorers": [
@@ -1100,10 +1100,10 @@
      "crest": "https://crests.football-data.org/12.png",
      "played": 11,
      "won": 5,
-     "draw": 3,
-     "lost": 3,
-     "gd": 5,
-     "pts": 18
+     "draw": 4,
+     "lost": 2,
+     "gd": 6,
+     "pts": 19
     },
     {
      "pos": 7,
@@ -1217,17 +1217,6 @@
     },
     {
      "pos": 17,
-     "team": "M'gladbach",
-     "crest": "https://crests.football-data.org/18.png",
-     "played": 11,
-     "won": 2,
-     "draw": 1,
-     "lost": 8,
-     "gd": -13,
-     "pts": 7
-    },
-    {
-     "pos": 18,
      "team": "Union Berlin",
      "crest": "https://crests.football-data.org/28.png",
      "played": 10,
@@ -1236,9 +1225,27 @@
      "lost": 5,
      "gd": -18,
      "pts": 7
+    },
+    {
+     "pos": 18,
+     "team": "M'gladbach",
+     "crest": "https://crests.football-data.org/18.png",
+     "played": 11,
+     "won": 1,
+     "draw": 2,
+     "lost": 8,
+     "gd": -14,
+     "pts": 5
     }
    ],
    "results": [
+    {
+     "date": "2026-11-27",
+     "home": "Bremen",
+     "away": "M'gladbach",
+     "hs": 3,
+     "as": 3
+    },
     {
      "date": "2026-11-22",
      "home": "Bremen",
@@ -1287,13 +1294,6 @@
      "away": "RB Leipzig",
      "hs": 1,
      "as": 5
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Leverkusen",
-     "away": "SC Paderborn",
-     "hs": 4,
-     "as": 0
     }
    ],
    "scorers": [
@@ -1563,6 +1563,13 @@
    ],
    "results": [
     {
+     "date": "2026-11-27",
+     "home": "Brest",
+     "away": "Paris FC",
+     "hs": 1,
+     "as": 0
+    },
+    {
      "date": "2026-11-22",
      "home": "Marseille",
      "away": "Le Mans",
@@ -1610,13 +1617,6 @@
      "away": "Auxerre",
      "hs": 1,
      "as": 1
-    },
-    {
-     "date": "2026-11-21",
-     "home": "Nice",
-     "away": "PSG",
-     "hs": 2,
-     "as": 3
     }
    ],
    "scorers": [
