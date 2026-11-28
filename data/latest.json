@@ -1,5 +1,18 @@
 [
  {
+  "id": "d6b986bc7c1c",
+  "title": "'Jason Wilcox phoned me to initiate Man Utd transfer talks - I couldn't believe his demands'",
+  "player": "Jason Wilcox",
+  "title_ko": "'제이슨 윌콕스가 맨유 이적 협상을 시작하기 위해 저에게 전화를 걸었습니다. 저는 그의 요구 사항을 믿을 수 없었습니다.'",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 2,
+  "src": "Mirror Football",
+  "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-wilcox-37924751",
+  "fee": null,
+  "published": "2026-11-28T10:44:10+00:00"
+ },
+ {
   "id": "b951bd20d500",
   "title": "Report: Arsenal in contact with Nico Paz sparking transfer battle with Man United",
   "player": "Nico Paz",
@@ -1283,19 +1296,6 @@
   "lv": 3,
   "src": "kicker Fussball (DE)",
   "url": "https://www.kicker.de/das-kannst-du-in-der-heutigen-zeit-keinem-mehr-erklaeren-wollitz-kritisiert-nike-deal-des-dfb-1273214/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-20T13:39:33+00:00"
- },
- {
-  "id": "9520605724bf",
-  "title": "\"Das kannst du in der heutigen Zeit keinem mehr erklären\": Wollitz kritisiert Nike-Deal vom DFB",
-  "player": "Cottbus-Trainer Claus-Dieter Wollitz",
-  "title_ko": "\"요즘에는 아무에게도 설명할 수 없는 일이다\": 볼리츠, DFB의 나이키 계약을 비판하다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/das-kannst-du-in-der-heutigen-zeit-keinem-mehr-erklaeren-wollitz-kritisiert-nike-deal-vom-dfb-1273214/artikel#omrss",
   "fee": null,
   "published": "2026-11-20T13:39:33+00:00"
  }
