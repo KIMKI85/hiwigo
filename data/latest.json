@@ -1,5 +1,18 @@
 [
  {
+  "id": "9908ca2b9a6e",
+  "title": "Fresh Italian report clarifies Chelsea’s stance on Palestra transfer",
+  "player": "Fresh Italian",
+  "title_ko": "최신 이탈리아 보도, 첼시의 팔레스트라 영입에 대한 입장 명확히",
+  "league": "EPL",
+  "status": "rumor",
+  "lv": 2,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/fresh-italian-report-chelsea-palestra-transfer/",
+  "fee": null,
+  "published": "2026-11-28T11:55:02+00:00"
+ },
+ {
   "id": "d6b986bc7c1c",
   "title": "'Jason Wilcox phoned me to initiate Man Utd transfer talks - I couldn't believe his demands'",
   "player": "Jason Wilcox",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/gasperini-a-blessing-to-have-dybala-and-soule/",
   "fee": null,
   "published": "2026-11-20T13:39:36+00:00"
- },
- {
-  "id": "2ec764bc8207",
-  "title": "\"Das kannst du in der heutigen Zeit keinem mehr erklären\": Wollitz kritisiert Nike-Deal des DFB",
-  "player": "Cottbus-Trainer Claus-Dieter Wollitz",
-  "title_ko": "\"요즘 세상에 그런 걸 아무에게도 설명할 수 없다\": 볼리츠, DFB의 나이키 계약을 비판하다",
-  "league": "BUND",
-  "status": "rumor",
-  "lv": 3,
-  "src": "kicker Fussball (DE)",
-  "url": "https://www.kicker.de/das-kannst-du-in-der-heutigen-zeit-keinem-mehr-erklaeren-wollitz-kritisiert-nike-deal-des-dfb-1273214/artikel#omrss",
-  "fee": null,
-  "published": "2026-11-20T13:39:33+00:00"
  }
 ]
