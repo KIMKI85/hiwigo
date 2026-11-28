@@ -1,5 +1,18 @@
 [
  {
+  "id": "81b155b74e94",
+  "title": "LIVE! Keine Wechsel zur Pause in Stuttgart",
+  "player": "Keine Wechsel",
+  "title_ko": "라이브! 슈투트가르트에서는 하프타임에 교체 선수가 없습니다.",
+  "league": "BUND",
+  "status": "rumor",
+  "lv": 3,
+  "src": "kicker Bundesliga (DE)",
+  "url": "https://www.kicker.de/live-keine-wechsel-zur-pause-in-stuttgart-1275272/artikel#omrss",
+  "fee": null,
+  "published": "2026-11-28T18:20:11+00:00"
+ },
+ {
   "id": "9908ca2b9a6e",
   "title": "Fresh Italian report clarifies Chelsea’s stance on Palestra transfer",
   "player": "Fresh Italian",
@@ -1285,18 +1298,5 @@
   "url": "https://football-italia.net/milan-ready-to-sell-estupinan-and-loftus-cheek/",
   "fee": null,
   "published": "2026-11-20T15:49:58+00:00"
- },
- {
-  "id": "3970cef3dff7",
-  "title": "Mauricio Pochettino sends immediate January transfer plea to Man Utd chiefs",
-  "player": "Mauricio Pochettino",
-  "title_ko": "마우리시오 포체티노 감독, 맨유 수뇌부에 1월 이적 시장 즉각 개입 요청",
-  "league": "EPL",
-  "status": "rumor",
-  "lv": 1,
-  "src": "Mirror Football",
-  "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-conference-37899329",
-  "fee": null,
-  "published": "2026-11-20T14:54:40+00:00"
  }
 ]
