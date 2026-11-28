@@ -1,5 +1,18 @@
 [
  {
+  "id": "b951bd20d500",
+  "title": "Report: Arsenal in contact with Nico Paz sparking transfer battle with Man United",
+  "player": "Nico Paz",
+  "title_ko": "보도: 아스널, 니코 파스와 접촉하며 맨유와 이적 경쟁 시작",
+  "league": "EPL",
+  "status": "nego",
+  "lv": 3,
+  "src": "Football Italia",
+  "url": "https://football-italia.net/arsenal-contact-nico-paz-battle-man-united/",
+  "fee": null,
+  "published": "2026-11-28T10:37:54+00:00"
+ },
+ {
   "id": "fb7f5bdb0d29",
   "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
   "player": "Mikel Arteta",
@@ -1285,18 +1298,5 @@
   "url": "https://www.kicker.de/das-kannst-du-in-der-heutigen-zeit-keinem-mehr-erklaeren-wollitz-kritisiert-nike-deal-vom-dfb-1273214/artikel#omrss",
   "fee": null,
   "published": "2026-11-20T13:39:33+00:00"
- },
- {
-  "id": "1431ddb88c48",
-  "title": "Napoli interested in January deal for Italy international Seba Esposito",
-  "player": "Seba Esposito",
-  "title_ko": "나폴리, 1월 이적 시장에서 이탈리아 국가대표 세바스티아노 에스포시토 영입에 관심",
-  "league": "SERIEA",
-  "status": "rumor",
-  "lv": 2,
-  "src": "Football Italia",
-  "url": "https://football-italia.net/napoli-interested-january-deal-seba-esposito/",
-  "fee": null,
-  "published": "2026-11-20T10:19:46+00:00"
  }
 ]
